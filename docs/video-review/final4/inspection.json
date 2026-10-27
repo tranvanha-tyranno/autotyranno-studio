@@ -1,0 +1,165 @@
+{
+  "source": "C:\\Users\\tyranno\\Downloads\\final4.mp4",
+  "seconds": 19.9,
+  "fps": 30.0,
+  "sample_step_seconds": 0.5,
+  "frame_differences": [
+    {
+      "at_seconds": 0.5,
+      "mean_absolute_pixel_delta_0_255": 16.23
+    },
+    {
+      "at_seconds": 1.0,
+      "mean_absolute_pixel_delta_0_255": 25.478
+    },
+    {
+      "at_seconds": 1.5,
+      "mean_absolute_pixel_delta_0_255": 20.41
+    },
+    {
+      "at_seconds": 2.0,
+      "mean_absolute_pixel_delta_0_255": 18.442
+    },
+    {
+      "at_seconds": 2.5,
+      "mean_absolute_pixel_delta_0_255": 21.318
+    },
+    {
+      "at_seconds": 3.0,
+      "mean_absolute_pixel_delta_0_255": 20.923
+    },
+    {
+      "at_seconds": 3.5,
+      "mean_absolute_pixel_delta_0_255": 17.624
+    },
+    {
+      "at_seconds": 4.0,
+      "mean_absolute_pixel_delta_0_255": 22.097
+    },
+    {
+      "at_seconds": 4.5,
+      "mean_absolute_pixel_delta_0_255": 20.67
+    },
+    {
+      "at_seconds": 5.0,
+      "mean_absolute_pixel_delta_0_255": 20.226
+    },
+    {
+      "at_seconds": 5.5,
+      "mean_absolute_pixel_delta_0_255": 25.945
+    },
+    {
+      "at_seconds": 6.0,
+      "mean_absolute_pixel_delta_0_255": 20.004
+    },
+    {
+      "at_seconds": 6.5,
+      "mean_absolute_pixel_delta_0_255": 8.756
+    },
+    {
+      "at_seconds": 7.0,
+      "mean_absolute_pixel_delta_0_255": 54.967
+    },
+    {
+      "at_seconds": 7.5,
+      "mean_absolute_pixel_delta_0_255": 26.61
+    },
+    {
+      "at_seconds": 8.0,
+      "mean_absolute_pixel_delta_0_255": 19.011
+    },
+    {
+      "at_seconds": 8.5,
+      "mean_absolute_pixel_delta_0_255": 26.681
+    },
+    {
+      "at_seconds": 9.0,
+      "mean_absolute_pixel_delta_0_255": 25.036
+    },
+    {
+      "at_seconds": 9.5,
+      "mean_absolute_pixel_delta_0_255": 28.23
+    },
+    {
+      "at_seconds": 10.0,
+      "mean_absolute_pixel_delta_0_255": 23.461
+    },
+    {
+      "at_seconds": 10.5,
+      "mean_absolute_pixel_delta_0_255": 27.689
+    },
+    {
+      "at_seconds": 11.0,
+      "mean_absolute_pixel_delta_0_255": 24.516
+    },
+    {
+      "at_seconds": 11.5,
+      "mean_absolute_pixel_delta_0_255": 24.558
+    },
+    {
+      "at_seconds": 12.0,
+      "mean_absolute_pixel_delta_0_255": 22.838
+    },
+    {
+      "at_seconds": 12.5,
+      "mean_absolute_pixel_delta_0_255": 21.87
+    },
+    {
+      "at_seconds": 13.0,
+      "mean_absolute_pixel_delta_0_255": 21.571
+    },
+    {
+      "at_seconds": 13.5,
+      "mean_absolute_pixel_delta_0_255": 64.566
+    },
+    {
+      "at_seconds": 14.0,
+      "mean_absolute_pixel_delta_0_255": 23.691
+    },
+    {
+      "at_seconds": 14.5,
+      "mean_absolute_pixel_delta_0_255": 35.748
+    },
+    {
+      "at_seconds": 15.0,
+      "mean_absolute_pixel_delta_0_255": 36.796
+    },
+    {
+      "at_seconds": 15.5,
+      "mean_absolute_pixel_delta_0_255": 39.354
+    },
+    {
+      "at_seconds": 16.0,
+      "mean_absolute_pixel_delta_0_255": 38.456
+    },
+    {
+      "at_seconds": 16.5,
+      "mean_absolute_pixel_delta_0_255": 31.032
+    },
+    {
+      "at_seconds": 17.0,
+      "mean_absolute_pixel_delta_0_255": 29.047
+    },
+    {
+      "at_seconds": 17.5,
+      "mean_absolute_pixel_delta_0_255": 24.894
+    },
+    {
+      "at_seconds": 18.0,
+      "mean_absolute_pixel_delta_0_255": 26.801
+    },
+    {
+      "at_seconds": 18.5,
+      "mean_absolute_pixel_delta_0_255": 26.045
+    },
+    {
+      "at_seconds": 19.0,
+      "mean_absolute_pixel_delta_0_255": 33.192
+    },
+    {
+      "at_seconds": 19.5,
+      "mean_absolute_pixel_delta_0_255": 32.293
+    }
+  ],
+  "interpretation": "Pixel difference measures image change, not perceived liveliness, action quality or product fidelity. No threshold is used to assert a pass."
+}

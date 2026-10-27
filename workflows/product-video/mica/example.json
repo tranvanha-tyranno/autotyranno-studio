@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "cocobear",
+      "name": "Coco Bear PRO TBS-002",
+      "reference_image": "C:/Users/tyranno/AppData/Roaming/genzshop-studio/output/test/0p6mj9fkzdyh/image-0p6mj9fkzdyh.png",
+      "description": "Ấm đun pha sữa màu trắng ngà, bình thủy tinh, tay cầm trắng bên phải, núm nắp hình đầu gấu, bảng điều khiển đen, logo Coco Bear. Giữ đúng ảnh được cung cấp.",
+      "features": ["Ấm đun pha sữa", "Chế độ đèn ngủ", "Điều khiển từ xa", "Giữ ấm 72 tiếng"],
+      "arm_side": "phải"
+    }
+  ],
+  "selected_video_prompts": [13, 14, 18, 20],
+  "capabilities": {
+    "mall": [],
+    "appliance-store": [],
+    "factory": []
+  }
+}

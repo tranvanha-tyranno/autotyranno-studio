@@ -1,0 +1,20 @@
+---
+name: tyranno-product-videos
+description: Create batches of Vietnamese product review videos from supplied product photos using the user's local Muse2API and ElevenLabs Adam V3 workflow. Use for Tyranno product-video requests or image follow-ups in that workflow, not unrelated photo tasks or dashboard development.
+---
+
+Use the saved workflow at `C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/workflows/product-video/WORKFLOW.md`. Read it before making a batch; use its manifest runner and per-batch output directories. If the project moved, locate this workflow under the user's current project rather than guessing a replacement service.
+
+User preferences: two 20-second vertical variants by default, different fictional adult presenters and backgrounds, lively Vietnamese review scripts, Adam `eleven_v3`. The user explicitly finds the old native-speed shots too slow: prefer brisk visible multi-angle camera motion at 1.5x visual speed, three independent ten-second shots edited into twenty seconds. Keep voice understandable and adjust its timing independently of visual speed. Never fill a 20-second video by slowing a 10-second clip to half speed or repeating it. Keep product identity and provided script intact. New user instructions override these defaults.
+
+Hands-only is a supported alternative when the user wants gestures without a face: set `presentation_mode: "hands_only"` in the manifest, describe an adult hand/sleeve, and verify no face, body or reflected face appears. Keep the camera on the product and use a small presenting or pointing gesture beside it. Do not let a waist-up presenter instruction leak into hands-only prompts.
+
+For suspended acrylic/mica-box product photos or POV clips, read the separate local `workflows/product-video/mica/WORKFLOW.md` and use `mica/optimized-prompts.md`. This profile is N × 3 separate images (mall/appliance store/factory in input order), a woman's horizontal forearm holding a complete transparent handled box above all surfaces, and six-second action-timed videos. Its box front stays pointed toward camera; a wide orbit and a 20-second edit do not apply. Prompts 18/20 allow two hands, others one. Preserve supplied labels verbatim and validate generated letters/product details; no claim of absolute fidelity or native 4K without evidence. Use the offline compiler for prompt packages without generating or billing videos unless requested. The user's repeated speed feedback means visible action matters more than merely applying 1.5x to a static shot.
+
+For a new product, inspect the supplied photo and ground the description and spoken claims in that product, not prior Coco Bear scripts. Choose suitable different hooks/scenes/presenters when the user gives only the photo. Use bracket tags as V3 acting directions. Do not claim that changing a presenter or background guarantees platform compliance or distinct ownership. Do not invent customer experience or endorsements.
+
+Keep the image, prompts, scripts, audio, original shots, final clips and QA reports in the batch directory under `videos/`. The local runner supports staged generation and task resumption. Inspect opening images before videos, sample frames from each shot and the final output, and run decode/duration/audio checks. Correct material product distortions within the requested scope or disclose them. Stop on repeated provider failure rather than creating duplicate billable jobs.
+
+Before provider stages, run `cache` then `plan`. Reuse content-addressed TTS/Muse artifacts whenever the model, prompt, settings and reference-image bytes match. The plan reports provider calls; if dialogue and product description are supplied, optional LLM calls stay at zero. Keep cropping, hashing, polling, FFmpeg, validation, QA and cost counting in code.
+
+Credentials remain in existing local credential mechanisms, outside manifests and skill files. The workflow describes the local DPAPI file and environment override; never echo secrets. Authorization for generating a requested batch does not authorize publishing, account changes, or messaging another app. Send completion and playable MP4s in the current chat.

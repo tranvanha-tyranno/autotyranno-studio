@@ -1,0 +1,179 @@
+{
+  "profile": "mica-pov-v2",
+  "status": "prompts_only_not_generated",
+  "input_products": 1,
+  "image_count": 3,
+  "expected_images": 3,
+  "image_order": [
+    {
+      "type": "image",
+      "order": 1,
+      "product_id": "cocobear",
+      "reference_image": "C:/Users/tyranno/AppData/Roaming/genzshop-studio/output/test/0p6mj9fkzdyh/image-0p6mj9fkzdyh.png",
+      "scene": "mall",
+      "target_size": [
+        2160,
+        3840
+      ],
+      "opening_image": "001-cocobear\\01-mall\\opening.png"
+    },
+    {
+      "type": "image",
+      "order": 2,
+      "product_id": "cocobear",
+      "reference_image": "C:/Users/tyranno/AppData/Roaming/genzshop-studio/output/test/0p6mj9fkzdyh/image-0p6mj9fkzdyh.png",
+      "scene": "appliance-store",
+      "target_size": [
+        2160,
+        3840
+      ],
+      "opening_image": "001-cocobear\\02-appliance-store\\opening.png"
+    },
+    {
+      "type": "image",
+      "order": 3,
+      "product_id": "cocobear",
+      "reference_image": "C:/Users/tyranno/AppData/Roaming/genzshop-studio/output/test/0p6mj9fkzdyh/image-0p6mj9fkzdyh.png",
+      "scene": "factory",
+      "target_size": [
+        2160,
+        3840
+      ],
+      "opening_image": "001-cocobear\\03-factory\\opening.png"
+    }
+  ],
+  "selected_video_count": 12,
+  "selected_video_seconds": 72,
+  "video_jobs": [
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "mall",
+      "prompt_id": 13,
+      "seconds": 6,
+      "max_hands": 1,
+      "opening_image": "001-cocobear\\01-mall\\opening.png",
+      "prompt_file": "001-cocobear\\01-mall\\video-13.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "mall",
+      "prompt_id": 14,
+      "seconds": 6,
+      "max_hands": 1,
+      "opening_image": "001-cocobear\\01-mall\\opening.png",
+      "prompt_file": "001-cocobear\\01-mall\\video-14.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "mall",
+      "prompt_id": 18,
+      "seconds": 6,
+      "max_hands": 2,
+      "opening_image": "001-cocobear\\01-mall\\opening.png",
+      "prompt_file": "001-cocobear\\01-mall\\video-18.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "mall",
+      "prompt_id": 20,
+      "seconds": 6,
+      "max_hands": 2,
+      "opening_image": "001-cocobear\\01-mall\\opening.png",
+      "prompt_file": "001-cocobear\\01-mall\\video-20.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "appliance-store",
+      "prompt_id": 13,
+      "seconds": 6,
+      "max_hands": 1,
+      "opening_image": "001-cocobear\\02-appliance-store\\opening.png",
+      "prompt_file": "001-cocobear\\02-appliance-store\\video-13.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "appliance-store",
+      "prompt_id": 14,
+      "seconds": 6,
+      "max_hands": 1,
+      "opening_image": "001-cocobear\\02-appliance-store\\opening.png",
+      "prompt_file": "001-cocobear\\02-appliance-store\\video-14.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "appliance-store",
+      "prompt_id": 18,
+      "seconds": 6,
+      "max_hands": 2,
+      "opening_image": "001-cocobear\\02-appliance-store\\opening.png",
+      "prompt_file": "001-cocobear\\02-appliance-store\\video-18.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "appliance-store",
+      "prompt_id": 20,
+      "seconds": 6,
+      "max_hands": 2,
+      "opening_image": "001-cocobear\\02-appliance-store\\opening.png",
+      "prompt_file": "001-cocobear\\02-appliance-store\\video-20.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "factory",
+      "prompt_id": 13,
+      "seconds": 6,
+      "max_hands": 1,
+      "opening_image": "001-cocobear\\03-factory\\opening.png",
+      "prompt_file": "001-cocobear\\03-factory\\video-13.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "factory",
+      "prompt_id": 14,
+      "seconds": 6,
+      "max_hands": 1,
+      "opening_image": "001-cocobear\\03-factory\\opening.png",
+      "prompt_file": "001-cocobear\\03-factory\\video-14.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "factory",
+      "prompt_id": 18,
+      "seconds": 6,
+      "max_hands": 2,
+      "opening_image": "001-cocobear\\03-factory\\opening.png",
+      "prompt_file": "001-cocobear\\03-factory\\video-18.txt"
+    },
+    {
+      "type": "video",
+      "product_id": "cocobear",
+      "scene": "factory",
+      "prompt_id": 20,
+      "seconds": 6,
+      "max_hands": 2,
+      "opening_image": "001-cocobear\\03-factory\\opening.png",
+      "prompt_file": "001-cocobear\\03-factory\\video-20.txt"
+    }
+  ],
+  "skipped": [],
+  "provider_calls_made": 0,
+  "configured_video_prompts": [
+    13,
+    14,
+    18,
+    20
+  ],
+  "capability_note": "Capabilities are user/agent declarations; re-check generated opening before any video generation.",
+  "quality_note": "Identity locks are targets; generated pixels/text/geometry require inspection. Native 4K must be measured, upscale disclosed."
+}

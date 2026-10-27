@@ -1,0 +1,16 @@
+{
+  "project_id": "1cc6ffe4a68d4d97",
+  "clip_id": "3972a3ae96e1",
+  "build": "draft_only",
+  "project_url": "http://127.0.0.1:3000",
+  "gemini_smoke": "passed-complete-response",
+  "suggestion_chars": 1099,
+  "smoke_payload": {
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "clip_id": "3972a3ae96e1",
+    "field": "shot_prompt",
+    "scene": 1,
+    "instruction": "Viết prompt hoàn chỉnh, gọn tối đa 180 từ tiếng Việt. Video 6 giây: bước đi rõ 0–4 giây rồi tay thứ hai chỉ sản phẩm 4–6 giây; giữ trọn hộp, logo, chữ, chỉ tay không mặt, không thêm claim."
+  }
+}

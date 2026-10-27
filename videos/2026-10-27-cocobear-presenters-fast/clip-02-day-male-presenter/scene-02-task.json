@@ -1,0 +1,24 @@
+{
+  "id": "task_bc0d63a1871b40bf9ddb",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Ten-second product HERO shot, vertical 9:16. Use the reference exactly for the Coco Bear kettle, the adult man in ivory polo with glasses and the daylight kitchen. The KETTLE is the sole camera target. It stays in the exact CENTER of the screen, fully visible from lid to base including full handle, with generous empty margins, throughout all ten seconds. Medium-wide camera distance: NO close-up, NO framing on the man's face. He stays still in the background, no speaking, leaning, waving or bending.\n\nCamera smoothly moves in a visible 25-degree orbit toward the SPOUT side at NORMAL speed, always aiming the lens at kettle center. Do not pan off the product. Dolly OUT five percent first to retain all edges in frame and end with the whole kettle still centered. Natural perspective parallax of the kitchen, rigid kettle planted on tabletop. Preserve brand, glass jug, ivory base, handle, bear lid, controls and water level. No product redesign, moving parts, cuts, subtitles, new objects, music or voice.",
+  "status": "completed",
+  "created_at": 1793100232,
+  "updated_at": 1793100464,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/bc4ec75d393d48ce9b21abd3b8dbfb3e.mp4",
+    "filename": "bc4ec75d393d48ce9b21abd3b8dbfb3e.mp4",
+    "bytes": 2520499,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的参考图片附件作为第一帧参考图（严禁使用历史图片或任何其他图像，必须严格以我当前刚刚上传并附带在此处的这张图片为起始帧）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：Ten-second product HERO shot, vertical 9:16. Use the reference exactly for the Coco Bear kettle, the adult man in ivory polo with glasses and the daylight kitchen. The KETTLE is the sole camera target. It stays in the exact CENTER of the screen, fully visible from lid to base including full handle, with generous empty margins, throughout all ten seconds. Medium-wide camera distance: NO close-up, NO framing on the man's face. He stays still in the background, no speaking, leaning, waving or bending.\n\nCamera smoothly moves in a visible 25-degree orbit toward the SPOUT side at NORMAL speed, always aiming the lens at kettle center. Do not pan off the product. Dolly OUT five percent first to retain all edges in frame and end with the whole kettle still centered. Natural perspective parallax of the kitchen, rigid kettle planted on tabletop. Preserve brand, glass jug, ivory base, handle, bear lid, controls and water level. No product redesign, moving parts, cuts, subtitles, new objects, music or voice.，画质规格：720p",
+  "progress": 100,
+  "account": "ff720b5b9fb0",
+  "elapsed": 100.2,
+  "url": "http://127.0.0.1:18610/v1/media/bc4ec75d393d48ce9b21abd3b8dbfb3e.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/bc4ec75d393d48ce9b21abd3b8dbfb3e.mp4"
+  }
+}

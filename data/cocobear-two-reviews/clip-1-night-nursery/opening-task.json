@@ -1,0 +1,35 @@
+{
+  "id": "task_4fd8ae65f50c4b33b1f2",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Create one photorealistic vertical 9:16 product-review opening photograph. The actual unboxed Coco Bear PRO milk-water warming kettle from the reference photo: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar near the rim, transparent lid with an ivory bear-shaped knob, glossy black rounded front control panel with two digital temperature readouts, exact Coco Bear branding. Keep the original product design, dimensions, parts and markings consistent. It is a water kettle, not a baby bottle, coffee machine or blender. Use the references only for product identity. Remove the transport package and original holding hand for this new staged scene. Do not add new labels, packaging text, feature icons or superimposed captions. No extra product, no duplicate handle, no warped glass.\nSetting: a tasteful home baby-feeding preparation corner at night, a pale oak side table against a soft beige bedroom wall, a dim warm shaded lamp in the far background, gentle moonlight through a curtain, calm cozy midnight atmosphere, realistic soft practical lighting. No child or person present, no crib next to the kettle. Product standing stably on the tabletop, complete product fully visible with generous space on both sides to allow a later camera orbit. Start at a modest front-left three-quarter angle, about 15 degrees left of the front, so the front control panel is clearly legible and the right handle is visible. Product occupies about 60 percent of frame height. Eye-level tabletop product photography, realistic size, no border, no extra caption or watermark. Keep all background elements physically plausible and consistent.",
+  "status": "completed",
+  "created_at": 1793084827,
+  "updated_at": 1793084889,
+  "result": {
+    "filename": "2921d09622e94828b8dad2efc97e13d3.webp",
+    "size": 286144,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/2921d09622e94828b8dad2efc97e13d3.webp"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传附带的参考图片进行生图/编辑：Create one photorealistic vertical 9:16 product-review opening photograph. The actual unboxed Coco Bear PRO milk-water warming kettle from the reference photo: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar near the rim, transparent lid with an ivory bear-shaped knob, glossy black rounded front control panel with two digital temperature readouts, exact Coco Bear branding. Keep the original product design, dimensions, parts and markings consistent. It is a water kettle, not a baby bottle, coffee machine or blender. Use the references only for product identity. Remove the transport package and original holding hand for this new staged scene. Do not add new labels, packaging text, feature icons or superimposed captions. No extra product, no duplicate handle, no warped glass.\nSetting: a tasteful home baby-feeding preparation corner at night, a pale oak side table against a soft beige bedroom wall, a dim warm shaded lamp in the far background, gentle moonlight through a curtain, calm cozy midnight atmosphere, realistic soft practical lighting. No child or person present, no crib next to the kettle. Product standing stably on the tabletop, complete product fully visible with generous space on both sides to allow a later camera orbit. Start at a modest front-left three-quarter angle, about 15 degrees left of the front, so the front control panel is clearly legible and the right handle is visible. Product occupies about 60 percent of frame height. Eye-level tabletop product photography, realistic size, no border, no extra caption or watermark. Keep all background elements physically plausible and consistent.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图，【纯净画面要求】：彻底清除并去除参考图中的所有文字、水印、签名、角标及Logo标记（clean image without any watermark, text, or logo），输出绝对纯净无字画面",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "73244611e7ba638cdb94177ace977060873c099d97c8fe312a043d28529ae5f8",
+  "image_request_hash": "4ca740c075c492a9aa0e026d5ca6a4c5a5600a1a5f20ab83c85d28c13a77d7b5",
+  "account": "ff720b5b9fb0",
+  "elapsed": 62.2,
+  "url": "http://127.0.0.1:18610/v1/media/2921d09622e94828b8dad2efc97e13d3.webp",
+  "created": 1793084897,
+  "data": [
+    {
+      "revised_prompt": "Create one photorealistic vertical 9:16 product-review opening photograph. The actual unboxed Coco Bear PRO milk-water warming kettle from the reference photo: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar near the rim, transparent lid with an ivory bear-shaped knob, glossy black rounded front control panel with two digital temperature readouts, exact Coco Bear branding. Keep the original product design, dimensions, parts and markings consistent. It is a water kettle, not a baby bottle, coffee machine or blender. Use the references only for product identity. Remove the transport package and original holding hand for this new staged scene. Do not add new labels, packaging text, feature icons or superimposed captions. No extra product, no duplicate handle, no warped glass.\nSetting: a tasteful home baby-feeding preparation corner at night, a pale oak side table against a soft beige bedroom wall, a dim warm shaded lamp in the far background, gentle moonlight through a curtain, calm cozy midnight atmosphere, realistic soft practical lighting. No child or person present, no crib next to the kettle. Product standing stably on the tabletop, complete product fully visible with generous space on both sides to allow a later camera orbit. Start at a modest front-left three-quarter angle, about 15 degrees left of the front, so the front control panel is clearly legible and the right handle is visible. Product occupies about 60 percent of frame height. Eye-level tabletop product photography, realistic size, no border, no extra caption or watermark. Keep all background elements physically plausible and consistent.",
+      "url": "http://127.0.0.1:18610/v1/media/2921d09622e94828b8dad2efc97e13d3.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 286144
+    }
+  ]
+}

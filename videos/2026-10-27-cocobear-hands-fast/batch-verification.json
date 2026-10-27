@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "clips": 2,
+  "seconds_each": 20,
+  "presentation": "hands and forearms only; no face in inspected frames",
+  "visual_speed": 1.5,
+  "independent_shots_each": 3,
+  "source_seconds_each": 30,
+  "voice": "Adam / Eleven v3",
+  "scripts": [
+    3,
+    5
+  ],
+  "checks": [
+    "full-file decode passed",
+    "720x1280, 30 fps, 20 seconds",
+    "voice timing independent from video speed",
+    "no repeated loop or slowed footage",
+    "sampled frames and end frames reviewed"
+  ],
+  "limitations": "Generated fine print, finger details and product sides may deviate from the single reference photograph."
+}

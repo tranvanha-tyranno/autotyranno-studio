@@ -1,0 +1,14 @@
+{
+  "script": 2,
+  "setting": "daylight-kitchen",
+  "source_seconds": 10.0,
+  "voice_seconds": 21.55,
+  "voice_speed": 1.0883838383838385,
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 60,
+  "decode": "passed",
+  "method": "Muse reference image restaging, Muse image-to-video camera orbit; slow footage and interpolate, no loop; full Adam V3 dialogue",
+  "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\data\\cocobear-two-reviews\\clip-2-daylight-kitchen\\cocobear-script-2-adam-20s.mp4",
+  "sha256": "ab76581f04bbe0760a5bb82a86a7fc97a19e060112b270386e5d9b4bf0744580"
+}

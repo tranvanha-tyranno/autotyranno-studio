@@ -1,0 +1,46 @@
+{
+  "recipe_version": 2,
+  "duration_seconds": 20,
+  "muse_base": "http://127.0.0.1:18610",
+  "product_crop": [
+    0.15212765957446808,
+    0.39832535885167464,
+    0.6946808510638298,
+    0.7464114832535885
+  ],
+  "product_description": "The unboxed Coco Bear PRO kettle shown in the supplied reference: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar below the jug rim, transparent lid with ivory bear-shaped knob, black rounded front control panel with Coco Bear logo, dual temperature readouts and original buttons. Keep exactly the supplied product design, shape, colors and visible controls. Do not change into a blender or coffee machine. The kettle stands on the worktop, removed from the reference transport box. Do not invent new controls or functions.",
+  "clips": [
+    {
+      "slug": "night-female-presenter",
+      "background": "A cozy contemporary home kitchen at night, a generous clear pale oak worktop in the foreground, dim warm under-cabinet lighting and a softly blurred window with night sky. Product foreground is well lit and easy to inspect. No baby, crib or bedroom bed.",
+      "presenter": "A fictional adult Vietnamese woman about 30 years old, black hair loosely tied back, teal long-sleeve lounge shirt, friendly and natural, wearing simple casual clothes. Position her at the far left behind the worktop and beside the kettle, waist-up view. Product is the main subject.",
+      "reuse_voice": "data/cocobear-two-reviews/clip-1-night-nursery/adam-v3.mp3",
+      "dialogue": "[excited] Ê Ê Ê! NỬA ĐÊM con đòi sữa, mẹ còn phải lật đật đi đun nước hả?\n\n[playful] Các dợ ơi! Coco Bear PRO có REMOTE điều khiển từ xa nè!\n\n[amazed] Đèn ngủ dịu nhẹ, giữ ấm tới 72 TIẾNG! Dữ thần vậy!\n\n[confident] Mấy ní BẤM GIỎ HÀNG, CHỐT NGAY một em về dùng! Tiện quá trời!",
+      "shot_prompts": [
+        null,
+        "Ten-second product HERO shot, vertical 9:16. Use this reference exactly for the Coco Bear kettle, the teal-shirted adult woman and the night kitchen. The KETTLE is the only camera target. It stays in the exact CENTER of the screen, fully visible from lid to base with the full handle and generous empty margins throughout all ten seconds. Keep the camera at medium-wide distance: NO close-up, NO framing on the woman's face. She stays still in the background, no speaking, leaning, waving or bending.\n\nMake a clear smooth 25-degree camera orbit toward the SPOUT side of the kettle at NORMAL speed, with the lens constantly aimed at the kettle center. No lateral pan off the product. Dolly OUT five percent to retain all edges in frame, ending with the kettle fully centered. The room shifts naturally in perspective; the kettle remains rigid and planted. Preserve brand, glass jug, water level, ivory base, handle, bear lid and front control panel exactly. Do not change product design or parts. No cuts, subtitles, new objects, music or voice."
+      ]
+    },
+    {
+      "slug": "day-male-presenter",
+      "background": "A bright modern home kitchen in daylight, a cream stone island worktop with generous clear space, natural window light, softly blurred oak cupboards and a distant green plant. An airy morning setting different from the first clip.",
+      "presenter": "A fictional adult Vietnamese man about 32 years old, short neat black hair, thin round glasses, clean-shaven, wearing an ivory polo shirt. Relaxed friendly smile, positioned behind the island to the left of the kettle, waist-up view. Product foreground remains the main subject.",
+      "reuse_voice": "data/cocobear-two-reviews/clip-2-daylight-kitchen/adam-v3.mp3",
+      "dialogue": "[sarcastic] Trời ơi! Năm 2026 rồi, ai còn ngồi CANH NƯỚC pha sữa nữa vậy?\n\n[excited] Các dợ nhìn Coco Bear PRO này! Điều khiển từ xa, chỉnh nhiệt tiện ghê!\n\n[amazed] Có cả ĐÈN NGỦ, giữ ấm tới 72 TIẾNG! Thiệt luôn á!\n\n[playful] Mấy ní ơi, thích thì NHẤN GIỎ HÀNG CHỐT ĐƠN LIỀN! Mua về dùng cho tiện, hahahaaaa!",
+      "shot_motion": [
+        "Smooth brisk 30-degree camera arc from the original front viewpoint toward the handle side over ten seconds. Dolly OUT by ten percent first, then continue sideways with the lens always aimed at the kettle center. Constant visible parallax, no big pan following the presenter. Product tracking keeps the kettle complete and centered even at the end; maintain enough space on both sides.",
+        "A new ten-second shot with a 30-degree arc toward the spout side while lens target stays locked on kettle center. Begin slightly wider, rise very gently toward the lid and make an eight percent push-in, keeping the complete base, handle and lid in frame. Steady visible normal-speed movement without long static pauses."
+      ],
+      "shot_prompts": [
+        null,
+        "Ten-second product HERO shot, vertical 9:16. Use the reference exactly for the Coco Bear kettle, the adult man in ivory polo with glasses and the daylight kitchen. The KETTLE is the sole camera target. It stays in the exact CENTER of the screen, fully visible from lid to base including full handle, with generous empty margins, throughout all ten seconds. Medium-wide camera distance: NO close-up, NO framing on the man's face. He stays still in the background, no speaking, leaning, waving or bending.\n\nCamera smoothly moves in a visible 25-degree orbit toward the SPOUT side at NORMAL speed, always aiming the lens at kettle center. Do not pan off the product. Dolly OUT five percent first to retain all edges in frame and end with the whole kettle still centered. Natural perspective parallax of the kitchen, rigid kettle planted on tabletop. Preserve brand, glass jug, ivory base, handle, bear lid, controls and water level. No product redesign, moving parts, cuts, subtitles, new objects, music or voice."
+      ]
+    }
+  ],
+  "references": [
+    "input/product-crop.png",
+    "input\\original.png"
+  ],
+  "created_at": "2026-10-27T18:14:04.433047+07:00",
+  "product_image_sha256": "334a3c33f02c7134162ea5b96d5c9cca105a31bb537514696d099f4a8d458655"
+}

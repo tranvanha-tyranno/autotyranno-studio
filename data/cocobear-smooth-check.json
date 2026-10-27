@@ -1,0 +1,10 @@
+{
+  "task_id": "task_13a7849bc05747da92a8",
+  "source_seconds": 10.0,
+  "output_seconds": 20,
+  "target_fps": 60,
+  "processing": "optical flow interpolation; original generation slowed to 20 seconds; no repeated loop",
+  "audio": "existing full Adam V3 review reused without new synthesis",
+  "output": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\data\\cocobear-adam-smooth-20s.mp4",
+  "decode_check": "passed"
+}

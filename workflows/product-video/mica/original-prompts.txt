@@ -1,0 +1,46 @@
+Từ N ảnh sản phẩm, tạo N × 3 ảnh riêng biệt, mỗi sản phẩm 3 bối cảnh: trung tâm thương mại, siêu thị gia dụng/điện máy, xưởng sản xuất. Ảnh thật 4K, dọc 9:16, không collage.
+Giữ nguyên tuyệt đối mọi chi tiết sản phẩm như ảnh tham chiếu, kể cả nhỏ nhất: hình dáng, tỷ lệ, màu, chất liệu, logo, từng chữ, nút bấm, màn hình, nắp, cổng kết nối, đường viền và phụ kiện. Không thêm, bớt, thay thế hoặc tự thiết kế lại.
+Đặt sản phẩm trong hộp mica trong suốt sang trọng, vừa vặn, quai đẹp, đế mỏng. Trên hộp ghi rõ tên sản phẩm và đầy đủ tính năng, công dụng được cung cấp; không tự bịa, không che sản phẩm. Mỗi ảnh đổi kiểu hộp và sơn móng tay.
+Cẳng tay nữ đưa ngang từ cạnh bên khung hình, bàn tay nắm quai giơ hộp trước camera ở tầm ngực. Thấy trọn quai và đáy hộp, có khoảng trống bên dưới; không chạm sàn, bàn hoặc bục, không đưa tay từ trên xuống. Tay đúng giải phẫu.
+Ánh sáng trắng, màu trung thực, hậu cảnh mờ nhẹ. Không logo hoặc tên hãng trên biển quảng cáo và toàn bộ hậu cảnh. Giữ logo gốc trên sản phẩm và nhãn hộp. Không watermark. Xuất đủ N × 3 ảnh theo thứ tự tải lên.
+25. 10 prompt mới mica
+
+PROMPT 11 – Bước qua cửa hàng
+Tạo video POV 9:16, 6 giây. Tay nữ xách hộp mica đi chậm qua lối cửa trong bối cảnh ảnh, camera theo bước chân. Hộp nhún nhẹ, luôn thẳng mặt camera, không xoay lật.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 12 – Dừng lại quan sát
+Tạo video POV 9:16, 6 giây. Tay nữ đang xách hộp mica và bước đi nhẹ, sau đó dừng lại tự nhiên. Hộp còn đung đưa rất nhẹ rồi đứng yên, camera ổn định dần.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 13 – Chuyển hộp sang giữa khung hình
+Tạo video POV 9:16, 6 giây. Bàn tay nữ đưa hộp mica từ vị trí hơi lệch bên phải về chính giữa khung hình, chuyển động ngang chậm, cổ tay tự nhiên. Hộp giữ thẳng, sản phẩm rõ nét.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 14 – Hạ hộp nhẹ xuống
+Tạo video POV 9:16, 6 giây. Tay nữ từ từ hạ hộp mica xuống khoảng 10 cm rồi giữ ổn định. Camera giữ góc nhìn ngang, không chĩa xuống đất, không làm mất phần đáy hộp.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 15 – Đi ngang kệ trưng bày
+Tạo video POV 9:16, 6 giây. Tay nữ xách hộp mica đi ngang qua kệ hàng có sẵn trong bối cảnh ảnh. Camera di chuyển cùng người cầm, hậu cảnh trôi ngang tự nhiên, hộp giữ ở trung tâm.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 16 – Camera lùi một bước
+Tạo video POV 9:16, 6 giây. Tay nữ giữ hộp mica ở nguyên vị trí, camera lùi nhẹ một bước để thấy toàn bộ hộp và thêm không gian xung quanh. Chuyển động mượt, không thu nhỏ sản phẩm bất thường.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 17 – Bước chéo sang trái
+Tạo video POV 9:16, 6 giây. Người cầm hộp mica bước chéo nhẹ sang trái một bước. Camera đi theo, hậu cảnh đổi góc tự nhiên, hộp luôn hướng về camera, không lắc mạnh.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 18 – Tay chỉnh lại quai xách
+Tạo video POV 9:16, 6 giây. Một tay nữ giữ quai hộp mica, bàn tay thứ hai xuất hiện chỉnh nhẹ vị trí quai rồi rút ra. Hộp vẫn được giữ chắc và thẳng, hai bàn tay đúng giải phẫu.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 19 – Đưa hộp ngang cửa kính
+Tạo video POV 9:16, 6 giây. Tay nữ cầm hộp mica di chuyển chậm ngang khu vực cửa kính có sẵn trong ảnh. Ánh sáng tự nhiên thay đổi nhẹ trên bề mặt mica, camera theo chuyển động, không thêm hiệu ứng giả.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.
+
+PROMPT 20 – Bước đi rồi chỉ sản phẩm
+Tạo video POV 9:16, 6 giây. Tay nữ xách hộp mica bước đi tự nhiên trong 4 giây đầu, hộp nhún nhẹ theo bước chân. Hai giây cuối dừng lại, bàn tay thứ hai đưa ngón trỏ chỉ vào sản phẩm rồi rút ra.
+KHÓA CHUNG: Giữ nguyên chính xác sản phẩm, hộp mica, quai, số lượng, logo, chữ, màu sắc, kích thước và bối cảnh ảnh tham chiếu. Không tay thừa, không biến dạng, không thêm chữ, không watermark. Chuyển động chân thực.

@@ -1,0 +1,9 @@
+{
+  "scope": "Two new presenter variants; reuse exact script 1 and 2 Adam V3 audio; two independently generated ten-second shots per output at native pace.",
+  "opening_images": "Reviewed both: one adult woman in teal at night and one adult man with glasses in a bright kitchen; whole product visible.",
+  "scene_01": "Sampled both shots: visible front-to-side product view, presenters present. Fine text on control labels is AI-generated and not exact; side geometry is inferred from one product photograph.",
+  "platform_note": "Changed presenter/background is a creative variation, not a guarantee of platform compliance or ownership.",
+  "pending": null,
+  "scene_02": "Replaced both initial scene-02 attempts after framing QA; reviewed replacement contact sheets. Medium-wide product-centered motion retained.",
+  "result": "Both final videos decode, last 20 seconds, include complete Adam V3 scripts and combine independent ten-second scenes at normal speed. AI fine-label fidelity remains approximate."
+}

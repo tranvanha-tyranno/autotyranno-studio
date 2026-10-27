@@ -1,0 +1,7 @@
+{
+  "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\data\\cocobear-two-reviews\\clip-2-daylight-kitchen\\adam-v3.mp3",
+  "provider": "ElevenLabs",
+  "model": "eleven_v3",
+  "voice": "Adam",
+  "reused_after_exact_script_check": true
+}

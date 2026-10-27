@@ -1,0 +1,35 @@
+{
+  "id": "task_70ff2b37fbff4812b9aa",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Create one photorealistic vertical 9:16 product-review opening photograph. The actual unboxed Coco Bear PRO milk-water warming kettle from the reference photo: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar near the rim, transparent lid with an ivory bear-shaped knob, glossy black rounded front control panel with two digital temperature readouts, exact Coco Bear branding. Keep the original product design, dimensions, parts and markings consistent. It is a water kettle, not a baby bottle, coffee machine or blender. Use the references only for product identity. Remove the transport package and original holding hand for this new staged scene. Do not add new labels, packaging text, feature icons or superimposed captions. No extra product, no duplicate handle, no warped glass.\nSetting: a bright contemporary home kitchen in daylight, a warm cream stone countertop, softly blurred oak cabinets and a distant green plant, clean sunlit morning atmosphere, natural window lighting and believable reflections. Product standing stably on the tabletop, complete product fully visible with generous space on both sides to allow a later camera orbit. Start at a modest front-left three-quarter angle, about 15 degrees left of the front, so the front control panel is clearly legible and the right handle is visible. Product occupies about 60 percent of frame height. Eye-level tabletop product photography, realistic size, no border, no extra caption or watermark. Keep all background elements physically plausible and consistent.",
+  "status": "completed",
+  "created_at": 1793084897,
+  "updated_at": 1793084959,
+  "result": {
+    "filename": "f3fa0f45c6ec4daea809ba6d25fa1c39.webp",
+    "size": 224286,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/f3fa0f45c6ec4daea809ba6d25fa1c39.webp"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传附带的参考图片进行生图/编辑：Create one photorealistic vertical 9:16 product-review opening photograph. The actual unboxed Coco Bear PRO milk-water warming kettle from the reference photo: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar near the rim, transparent lid with an ivory bear-shaped knob, glossy black rounded front control panel with two digital temperature readouts, exact Coco Bear branding. Keep the original product design, dimensions, parts and markings consistent. It is a water kettle, not a baby bottle, coffee machine or blender. Use the references only for product identity. Remove the transport package and original holding hand for this new staged scene. Do not add new labels, packaging text, feature icons or superimposed captions. No extra product, no duplicate handle, no warped glass.\nSetting: a bright contemporary home kitchen in daylight, a warm cream stone countertop, softly blurred oak cabinets and a distant green plant, clean sunlit morning atmosphere, natural window lighting and believable reflections. Product standing stably on the tabletop, complete product fully visible with generous space on both sides to allow a later camera orbit. Start at a modest front-left three-quarter angle, about 15 degrees left of the front, so the front control panel is clearly legible and the right handle is visible. Product occupies about 60 percent of frame height. Eye-level tabletop product photography, realistic size, no border, no extra caption or watermark. Keep all background elements physically plausible and consistent.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图，【纯净画面要求】：彻底清除并去除参考图中的所有文字、水印、签名、角标及Logo标记（clean image without any watermark, text, or logo），输出绝对纯净无字画面",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "aa359413e32d4159314ec6b5066cbc16a1fe59aebd5f8ffdd5458a5bad20eb3c",
+  "image_request_hash": "70ac115d768aea6e1d3a6937acf117682098cd0c993c25494fa042a35875be76",
+  "account": "ff720b5b9fb0",
+  "elapsed": 61.7,
+  "url": "http://127.0.0.1:18610/v1/media/f3fa0f45c6ec4daea809ba6d25fa1c39.webp",
+  "created": 1793084967,
+  "data": [
+    {
+      "revised_prompt": "Create one photorealistic vertical 9:16 product-review opening photograph. The actual unboxed Coco Bear PRO milk-water warming kettle from the reference photo: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar near the rim, transparent lid with an ivory bear-shaped knob, glossy black rounded front control panel with two digital temperature readouts, exact Coco Bear branding. Keep the original product design, dimensions, parts and markings consistent. It is a water kettle, not a baby bottle, coffee machine or blender. Use the references only for product identity. Remove the transport package and original holding hand for this new staged scene. Do not add new labels, packaging text, feature icons or superimposed captions. No extra product, no duplicate handle, no warped glass.\nSetting: a bright contemporary home kitchen in daylight, a warm cream stone countertop, softly blurred oak cabinets and a distant green plant, clean sunlit morning atmosphere, natural window lighting and believable reflections. Product standing stably on the tabletop, complete product fully visible with generous space on both sides to allow a later camera orbit. Start at a modest front-left three-quarter angle, about 15 degrees left of the front, so the front control panel is clearly legible and the right handle is visible. Product occupies about 60 percent of frame height. Eye-level tabletop product photography, realistic size, no border, no extra caption or watermark. Keep all background elements physically plausible and consistent.",
+      "url": "http://127.0.0.1:18610/v1/media/f3fa0f45c6ec4daea809ba6d25fa1c39.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 224286
+    }
+  ]
+}

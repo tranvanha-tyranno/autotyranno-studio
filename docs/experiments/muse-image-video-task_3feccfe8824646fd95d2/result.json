@@ -1,0 +1,24 @@
+{
+  "id": "task_3feccfe8824646fd95d2",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Create a photorealistic product showcase video using the attached Toshiba blender image as the exact first-frame product reference. Keep the same black and silver base, transparent jar, black lid, handle, control buttons, shape, proportions and TOSHIBA logo throughout. One continuous shot, no cuts or transitions. The blender stands still on a clean kitchen counter while the camera makes a very slow smooth front three-quarter arc. Soft daylight, realistic reflections, product fully visible. Do not change or remove the brand logo or product markings. No people, no extra accessories, no added text or subtitles. No music, no speech, no sound effects.",
+  "status": "completed",
+  "created_at": 1793074581,
+  "updated_at": 1793074677,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/fc158cc68529408a831b3b9d0d049d34.mp4",
+    "filename": "fc158cc68529408a831b3b9d0d049d34.mp4",
+    "bytes": 4248009,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的参考图片附件作为第一帧参考图（严禁使用历史图片或任何其他图像，必须严格以我当前刚刚上传并附带在此处的这张图片为起始帧）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 8 秒）：Create a photorealistic product showcase video using the attached Toshiba blender image as the exact first-frame product reference. Keep the same black and silver base, transparent jar, black lid, handle, control buttons, shape, proportions and TOSHIBA logo throughout. One continuous shot, no cuts or transitions. The blender stands still on a clean kitchen counter while the camera makes a very slow smooth front three-quarter arc. Soft daylight, realistic reflections, product fully visible. Do not change or remove the brand logo or product markings. No people, no extra accessories, no added text or subtitles. No music, no speech, no sound effects.，画质规格：720p",
+  "progress": 100,
+  "account": "ff720b5b9fb0",
+  "elapsed": 95.3,
+  "url": "http://127.0.0.1:18610/v1/media/fc158cc68529408a831b3b9d0d049d34.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/fc158cc68529408a831b3b9d0d049d34.mp4"
+  }
+}

@@ -1,0 +1,1 @@
+"""Affiliate Auto Tyranno backend."""

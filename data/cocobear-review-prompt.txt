@@ -1,0 +1,21 @@
+VIDEO PROMPT — MUSE2API
+
+Animate the supplied Coco Bear product photograph as a realistic Vietnamese TikTok product review. The reference photograph is the visual authority. Preserve the original store setting, shelves, appliances, floor, lighting, colors and overall composition. Keep the original hand holding the same clear box, the same kettle, handle, lid, bear-shaped knob, control panel, remote illustration, logo and printed Vietnamese packaging. Do not replace the background or restage the product. No additional people, decorations, objects, captions or graphics. Existing packaging text must remain consistent.
+
+Camera motion only: one continuous, slow, stabilized micro-orbit, no more than 8 degrees, from the original front viewpoint slightly to the right and smoothly back. Add a very subtle push-in, at most 5 percent. Keep the complete package and kettle visible. The product stays rigid and stationary; the hand does not act, unbox, pour water or operate buttons. Do not invent the back or unseen sides. The store remains the same, with only the minimal natural perspective shift required by the camera. Avoid a full 360-degree orbit.
+
+Review pacing for a 20-second edit: open clearly on the complete product; gently guide attention toward the remote-control illustration; continue toward the night-light and 72-hour warmth illustrations without turning anything on or changing printed claims; finish near the starting view. Do not cut to other scenes. No morphing, warped plastic, drifting letters, changed digits, duplicated hands, flicker, artificial particles or dramatic lighting changes. Prioritize fidelity to the reference over camera movement. Vertical 9:16, 720x1280, natural realistic lighting. Silent image-to-video output; voice-over is added separately.
+
+GOOGLE TTS DIRECTION
+
+Vietnamese male voice, natural lively TikTok reviewer, playful, conversational, expressive and clearly articulated. First line excited with a strong hook; second line playful with emphasis on REMOTE; third line amazed with emphasis on TỚI 72 TIẾNG; last line gently amused with a soft chuckle. The bracketed tags are acting directions, never spoken. Preserve every spoken word below. Aim for 18–20 seconds without dropping words. Do not imitate a named voice or add extra narration.
+
+VOICE-OVER
+
+[excited] Ê Ê Ê! Con nào, con nào nửa đêm pha sữa mà còn phải mò dậy canh nước?
+
+[playful] Các dợ ơi… Coco Bear PRO 1,3 lít có REMOTE điều khiển từ xa luôn!
+
+[amazed] Đèn ngủ dịu nhẹ, lại còn giữ ấm TỚI 72 TIẾNG! Dữ thần vậy!
+
+[laughs softly] Thiệt luôn á! Mấy ní thấy tiện thì DỨT LẸ… hahahaaaa!

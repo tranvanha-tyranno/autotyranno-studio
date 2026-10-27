@@ -1,0 +1,8 @@
+{
+  "source_seconds": 10.0,
+  "voice_seconds": 15.930958333333333,
+  "voice_tempo": 1.0,
+  "target_seconds": 20,
+  "visual_edit": "slow camera motion to 20 seconds; no looping",
+  "output": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\data\\cocobear-review-final-20s.mp4"
+}

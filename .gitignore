@@ -1,0 +1,34 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/*.db
+data/test-*
+data/media/
+frontend/node_modules/
+frontend/.next/
+.env
+.secrets/
+.cache/
+
+# Authentication, local account state and browser profiles
+.env.*
+!.env.example
+!.env.*.example
+*.dpapi.xml
+data/studio/
+data/studio-logs/
+**/muse2api-profiles/
+**/accounts.json
+**/cookies.json
+**/auth.json
+
+# Local databases, generated caches and process output
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db

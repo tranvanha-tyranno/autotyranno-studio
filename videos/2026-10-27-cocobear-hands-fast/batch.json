@@ -1,0 +1,36 @@
+{
+  "duration_seconds": 20,
+  "muse_base": "http://127.0.0.1:18610",
+  "product_crop": [
+    0.15212765957446808,
+    0.39832535885167464,
+    0.6946808510638298,
+    0.7464114832535885
+  ],
+  "product_description": "The unboxed Coco Bear PRO kettle shown in the supplied reference: ivory-white rounded base, clear glass jug partly filled with clear water, thick ivory handle on the right, metallic collar below the jug rim, transparent lid with ivory bear-shaped knob, black rounded front control panel with Coco Bear logo, dual temperature readouts and original buttons. Keep exactly the supplied product design, shape, colors and visible controls. Do not change into a blender or coffee machine. The kettle stands on the worktop, removed from the reference transport box. Do not invent new controls or functions.",
+  "recipe_version": 3,
+  "visual_speed": 1.5,
+  "scene_count": 3,
+  "clips": [
+    {
+      "slug": "hands-daylight-curiosity",
+      "presentation_mode": "hands_only",
+      "background": "A bright cozy home kitchen, a clear cream stone worktop with softly blurred pale oak cabinets and natural morning window light. The only foreground object is the kettle; no mirror or people in background.",
+      "presenter": "One adult woman right hand with short natural pale-pink nails, an ivory cotton long-sleeve cuff visible at the side edge. Only the single hand and forearm below the elbow; no head or body.",
+      "dialogue": "[excited] Ê Ê Ê! CÁI ẤM GÌ mà nằm một chỗ vẫn điều khiển được vậy trời?\n\n[playful] Con nào, con nào? Coco Bear PRO chứ ai, các dợ!\n\n[amazed] Có REMOTE, đèn ngủ LED, lại giữ ấm tới 72 TIẾNG! Dữ thần vậy!\n\n[confident] Mấy ní muốn pha sữa tiện hơn thì BẤM GIỎ HÀNG, CHỐT ĐƠN NGAY! Quá hợp lý!"
+    },
+    {
+      "slug": "hands-evening-funny",
+      "presentation_mode": "hands_only",
+      "background": "An elegant home kitchen counter in the early evening, a dark walnut tabletop, softly blurred warm amber under-cabinet lighting and charcoal backsplash. Clear space around the kettle. This setting is distinctly warmer and darker than daylight, but product is well exposed; no mirror or people in background.",
+      "presenter": "One adult man left hand with short clean nails, a rolled-up navy-blue casual sleeve visible at the side edge. Only this single hand and a short forearm; no face, head, shoulders or body.",
+      "dialogue": "[excited] Ê Ê Ê! CON NÀO, CON NÀO đang buồn ngủ mà vẫn phải canh ấm nước đây?\n\n[giggles] Các dợ ơi! Coco Bear PRO có điều khiển từ xa, tiện thiệt luôn á!\n\n[amazed] Đèn ngủ dịu nhẹ, giữ ấm tới 72 TIẾNG! Quá đã!\n\n[confident] Mấy ní muốn rảnh tay hơn thì BẤM GIỎ HÀNG, SĂN DEAL, CHỐT ĐƠN NGAY! Hahahaaaa!"
+    }
+  ],
+  "references": [
+    "input/product-crop.png",
+    "input\\original.png"
+  ],
+  "created_at": "2026-10-27T18:34:23.283945+07:00",
+  "product_image_sha256": "334a3c33f02c7134162ea5b96d5c9cca105a31bb537514696d099f4a8d458655"
+}

@@ -1,0 +1,18 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.0,
+  "looped": false,
+  "independent_scenes": 2,
+  "audio_seconds": 18.6,
+  "audio_tempo": 1.0,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": "pending human/agent review of sampled frames",
+  "sha256": "057d00f32189898f20cbdbcb72cb7af28f6117e3bad6dcc1e70eb2947cd2f472"
+}

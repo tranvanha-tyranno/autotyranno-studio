@@ -1,0 +1,14 @@
+{
+  "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\experiments\\muse2api-czg86389\\data\\media\\fc158cc68529408a831b3b9d0d049d34.mp4",
+  "silent_output": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\experiments\\muse-image-video-task_3feccfe8824646fd95d2\\toshiba-reference-video-silent.mp4",
+  "width": 720,
+  "height": 1280,
+  "fps": 24.0,
+  "frames": 192,
+  "duration_seconds": 8.0,
+  "is_9_16": true,
+  "source_has_audio": true,
+  "silent_output_has_audio": false,
+  "full_decode_check": "passed",
+  "requested_duration_seconds": 8
+}

@@ -1,0 +1,18 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.0,
+  "looped": false,
+  "independent_scenes": 2,
+  "audio_seconds": 21.55,
+  "audio_tempo": 1.0883838383838385,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": "Opening images, sampled frames from each original scene, end frames and final contact sheets reviewed. Rejected panning attempts excluded. Product is recognizable; generated fine print and unseen geometry are approximate. A close framing reaches the base edge near the end of one shot.",
+  "sha256": "5faa7f1e50ffc346677407374d7c520af69dc6d12ae136b96aa3973092bbfafb"
+}

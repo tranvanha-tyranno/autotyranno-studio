@@ -1,0 +1,24 @@
+{
+  "id": "task_13a7849bc05747da92a8",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Animate this exact reference photograph as a polished product-review shot. The product is the Coco Bear kettle inside the transparent handled package in the original appliance store. Preserve the reference scene, product, hand, packaging, Vietnamese lettering, logo, shelf contents, original lighting and colors. No replacement setting, festive effects, extra objects, new people or additional graphics. Do not unbox or change the product.\n\nThe CAMERA MUST MOVE visibly and continuously from the first second. A controlled gimbal shot, not a nearly static photograph: track sideways in a graceful 15-degree front arc around the center of the boxed kettle, moving from the reference front view toward a modest right three-quarter view, while dollying in by about 10 percent. Then trace a gentle returning curve toward the starting view, ending with a subtle pullback. Use fluid acceleration and deceleration, constant subject tracking and smooth natural perspective parallax. The motion should feel intentional and clearly visible while remaining elegant, with no abrupt pauses or reversals. Keep every edge of the package inside the frame with comfortable margins. Focus remains clear across the package and kettle. Natural consistent reflections on the rigid clear box.\n\nThe hand and package stay still; only camera moves. The original store must remain the same throughout with only perspective changes from the moving camera. Do not invent an unseen back view or rotate a full circle. No changing letters, deforming glass, shape drift, flickering, duplicate fingers, jump cuts, transitions, artificial background changes, subtitles, speech, music or sound effects. One continuous realistic shot, 9:16 portrait, 720x1280, ten seconds. Prioritize exact product identity and scene continuity.",
+  "status": "completed",
+  "created_at": 1793084237,
+  "updated_at": 1793084339,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/2a50f3d7d0454a8fa78aff79b21ef247.mp4",
+    "filename": "2a50f3d7d0454a8fa78aff79b21ef247.mp4",
+    "bytes": 5992081,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的参考图片附件作为第一帧参考图（严禁使用历史图片或任何其他图像，必须严格以我当前刚刚上传并附带在此处的这张图片为起始帧）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：Animate this exact reference photograph as a polished product-review shot. The product is the Coco Bear kettle inside the transparent handled package in the original appliance store. Preserve the reference scene, product, hand, packaging, Vietnamese lettering, logo, shelf contents, original lighting and colors. No replacement setting, festive effects, extra objects, new people or additional graphics. Do not unbox or change the product.\n\nThe CAMERA MUST MOVE visibly and continuously from the first second. A controlled gimbal shot, not a nearly static photograph: track sideways in a graceful 15-degree front arc around the center of the boxed kettle, moving from the reference front view toward a modest right three-quarter view, while dollying in by about 10 percent. Then trace a gentle returning curve toward the starting view, ending with a subtle pullback. Use fluid acceleration and deceleration, constant subject tracking and smooth natural perspective parallax. The motion should feel intentional and clearly visible while remaining elegant, with no abrupt pauses or reversals. Keep every edge of the package inside the frame with comfortable margins. Focus remains clear across the package and kettle. Natural consistent reflections on the rigid clear box.\n\nThe hand and package stay still; only camera moves. The original store must remain the same throughout with only perspective changes from the moving camera. Do not invent an unseen back view or rotate a full circle. No changing letters, deforming glass, shape drift, flickering, duplicate fingers, jump cuts, transitions, artificial background changes, subtitles, speech, music or sound effects. One continuous realistic shot, 9:16 portrait, 720x1280, ten seconds. Prioritize exact product identity and scene continuity.，画质规格：720p",
+  "progress": 100,
+  "account": "ff720b5b9fb0",
+  "elapsed": 102.5,
+  "url": "http://127.0.0.1:18610/v1/media/2a50f3d7d0454a8fa78aff79b21ef247.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/2a50f3d7d0454a8fa78aff79b21ef247.mp4"
+  }
+}

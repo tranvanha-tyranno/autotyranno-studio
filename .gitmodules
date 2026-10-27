@@ -1,0 +1,3 @@
+[submodule "experiments/muse2api-czg86389"]
+	path = experiments/muse2api-czg86389
+	url = https://github.com/czg86389-hub/muse2api.git

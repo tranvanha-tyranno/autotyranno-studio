@@ -1,0 +1,16 @@
+{
+  "upstream": "czg86389-hub/muse2api",
+  "commit": "5b8bba9561fdbe6402fbc08012d144699760afd0",
+  "requested_duration_seconds": 8,
+  "requested_aspect_ratio": "9:16",
+  "source_image": "codex-clipboard-209718e5-16e5-4a5c-b6a8-83ab4a1556b3.png",
+  "prompt": "Create a photorealistic product showcase video using the attached Toshiba blender image as the exact first-frame product reference. Keep the same black and silver base, transparent jar, black lid, handle, control buttons, shape, proportions and TOSHIBA logo throughout. One continuous shot, no cuts or transitions. The blender stands still on a clean kitchen counter while the camera makes a very slow smooth front three-quarter arc. Soft daylight, realistic reflections, product fully visible. Do not change or remove the brand logo or product markings. No people, no extra accessories, no added text or subtitles. No music, no speech, no sound effects.",
+  "task": {
+    "id": "task_3feccfe8824646fd95d2",
+    "task_id": "task_3feccfe8824646fd95d2",
+    "object": "video.task",
+    "status": "queued",
+    "progress": 10,
+    "created_at": 1793074581
+  }
+}

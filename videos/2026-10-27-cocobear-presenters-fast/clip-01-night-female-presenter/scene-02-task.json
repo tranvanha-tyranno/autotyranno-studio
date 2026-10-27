@@ -1,0 +1,24 @@
+{
+  "id": "task_6ffb3becc4bf4cce8af7",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Ten-second product HERO shot, vertical 9:16. Use this reference exactly for the Coco Bear kettle, the teal-shirted adult woman and the night kitchen. The KETTLE is the only camera target. It stays in the exact CENTER of the screen, fully visible from lid to base with the full handle and generous empty margins throughout all ten seconds. Keep the camera at medium-wide distance: NO close-up, NO framing on the woman's face. She stays still in the background, no speaking, leaning, waving or bending.\n\nMake a clear smooth 25-degree camera orbit toward the SPOUT side of the kettle at NORMAL speed, with the lens constantly aimed at the kettle center. No lateral pan off the product. Dolly OUT five percent to retain all edges in frame, ending with the kettle fully centered. The room shifts naturally in perspective; the kettle remains rigid and planted. Preserve brand, glass jug, water level, ivory base, handle, bear lid and front control panel exactly. Do not change product design or parts. No cuts, subtitles, new objects, music or voice.",
+  "status": "completed",
+  "created_at": 1793100157,
+  "updated_at": 1793100364,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/1dbb0c4cb1d94afbb9f91d54111392a6.mp4",
+    "filename": "1dbb0c4cb1d94afbb9f91d54111392a6.mp4",
+    "bytes": 2543928,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的参考图片附件作为第一帧参考图（严禁使用历史图片或任何其他图像，必须严格以我当前刚刚上传并附带在此处的这张图片为起始帧）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：Ten-second product HERO shot, vertical 9:16. Use this reference exactly for the Coco Bear kettle, the teal-shirted adult woman and the night kitchen. The KETTLE is the only camera target. It stays in the exact CENTER of the screen, fully visible from lid to base with the full handle and generous empty margins throughout all ten seconds. Keep the camera at medium-wide distance: NO close-up, NO framing on the woman's face. She stays still in the background, no speaking, leaning, waving or bending.\n\nMake a clear smooth 25-degree camera orbit toward the SPOUT side of the kettle at NORMAL speed, with the lens constantly aimed at the kettle center. No lateral pan off the product. Dolly OUT five percent to retain all edges in frame, ending with the kettle fully centered. The room shifts naturally in perspective; the kettle remains rigid and planted. Preserve brand, glass jug, water level, ivory base, handle, bear lid and front control panel exactly. Do not change product design or parts. No cuts, subtitles, new objects, music or voice.，画质规格：720p",
+  "progress": 100,
+  "account": "ff720b5b9fb0",
+  "elapsed": 100.0,
+  "url": "http://127.0.0.1:18610/v1/media/1dbb0c4cb1d94afbb9f91d54111392a6.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/1dbb0c4cb1d94afbb9f91d54111392a6.mp4"
+  }
+}

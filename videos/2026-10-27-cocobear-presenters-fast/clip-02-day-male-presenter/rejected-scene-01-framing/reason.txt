@@ -1,0 +1,1 @@
+Visual QA: the product drifts off the right frame near the end. Preserve this attempt but replace it with a target-locked shot.

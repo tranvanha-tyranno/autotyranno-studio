@@ -1,0 +1,15 @@
+services:
+  api:
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      DATABASE_PATH: /app/data/app.db
+      MEDIA_ROOT: /app/data/media
+      API_CORS_ORIGINS: http://localhost:3000
+  redis:
+    image: redis:7-alpine
+    profiles: ["queue"]

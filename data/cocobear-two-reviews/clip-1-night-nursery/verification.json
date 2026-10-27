@@ -1,0 +1,14 @@
+{
+  "script": 1,
+  "setting": "night-nursery",
+  "source_seconds": 10.0,
+  "voice_seconds": 18.6,
+  "voice_speed": 1,
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 60,
+  "decode": "passed",
+  "method": "Muse reference image restaging, Muse image-to-video camera orbit; slow footage and interpolate, no loop; full Adam V3 dialogue",
+  "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\data\\cocobear-two-reviews\\clip-1-night-nursery\\cocobear-script-1-adam-20s.mp4",
+  "sha256": "6a8b0096618f9e31ef0b07c6eded6df24df6c40e2da8a968292f44c4cd9ab3bc"
+}

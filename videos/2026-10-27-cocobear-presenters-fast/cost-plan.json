@@ -1,0 +1,36 @@
+{
+  "batch": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-27-cocobear-presenters-fast",
+  "provider_calls_if_run_now": 0,
+  "provider_calls_by_kind": {
+    "tts_calls": 0,
+    "opening_image_calls": 0,
+    "video_scene_calls": 0,
+    "optional_llm_calls": 0
+  },
+  "cache_hits": 2,
+  "local_steps": 2,
+  "optional_llm_calls": 0,
+  "llm_policy": "off_when_dialogue_and_product_description_are supplied",
+  "clips": [
+    {
+      "clip": "clip-01-night-female-presenter",
+      "tts": "ready",
+      "opening_image": "ready",
+      "video_scenes": 0,
+      "scene_count": 2,
+      "visual_speed": 1.0,
+      "cache_key_available_for_opening": true
+    },
+    {
+      "clip": "clip-02-day-male-presenter",
+      "tts": "ready",
+      "opening_image": "ready",
+      "video_scenes": 0,
+      "scene_count": 2,
+      "visual_speed": 1.0,
+      "cache_key_available_for_opening": true
+    }
+  ],
+  "cache_root": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\.cache\\product-video",
+  "generated_at": "2026-10-27T19:09:28.523413+07:00"
+}

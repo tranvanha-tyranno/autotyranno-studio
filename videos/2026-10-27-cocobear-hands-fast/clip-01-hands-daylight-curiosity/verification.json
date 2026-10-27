@@ -1,0 +1,20 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.5,
+  "looped": false,
+  "independent_scenes": 3,
+  "audio_seconds": 19.96,
+  "audio_tempo": 1.0080808080808081,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": "Reviewed opening, source contact sheets for all three shots, terminal frames and final contact sheet. No face appears in inspected frames. Hands/forearms and sleeve edges present the product; hand gestures and camera parallax visible. Product fine print and unseen side geometry are AI approximations.",
+  "sha256": "4896ce4202e0f294aaf0fc38b3c5a67fdfedaa6d0320fd0e6f49300fb18fa84a",
+  "script_number": 3
+}
