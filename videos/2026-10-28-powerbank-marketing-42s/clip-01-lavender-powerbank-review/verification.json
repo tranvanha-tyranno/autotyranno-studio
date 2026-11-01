@@ -1,0 +1,136 @@
+{
+  "final_seconds": 42.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "independent_scenes": 6,
+  "looped": false,
+  "slowed_to_fill": false,
+  "full_scene_dialogue_preserved": true,
+  "scene_timings": [
+    {
+      "scene": 1,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.24,
+      "audio_tempo": 1.0432276657060517
+    },
+    {
+      "scene": 2,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.71,
+      "audio_tempo": 1.110951008645533
+    },
+    {
+      "scene": 3,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.47,
+      "audio_tempo": 1.0763688760806915
+    },
+    {
+      "scene": 4,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.39,
+      "audio_tempo": 1.0648414985590777
+    },
+    {
+      "scene": 5,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.63,
+      "audio_tempo": 1.0994236311239192
+    },
+    {
+      "scene": 6,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 6.03,
+      "audio_tempo": 1.0
+    }
+  ],
+  "decode_check": "passed",
+  "audio_levels_db": {
+    "mean_volume": -16.5,
+    "max_volume": -1.5
+  },
+  "black_or_freeze_alerts": [],
+  "visual_qa": "Reviewed all six selected source contact sheets, final 21-frame contact sheet spanning 0–40 seconds and final frame at 41.8 seconds. Accepted with stated AI limitations.",
+  "sha256": "40ba6120da9c4544a1177bfbdf63dc7ac0d2eae41ea79228fe7c1aa73568a737",
+  "distinct_source_hashes": 6,
+  "source_selection": [
+    {
+      "scene": 1,
+      "folder": "clip-01-lavender-powerbank-review\\scene-01",
+      "sha256": "24c84db346e834a38ec538fe33c6950e338fe605aee088fb39864330d66ddd45",
+      "review": "accepted_with_limitations"
+    },
+    {
+      "scene": 2,
+      "folder": "clip-01-lavender-powerbank-review\\scene-02",
+      "sha256": "a389e3cb059a2d9d1f052ed539aa0323984a2102628f3513c188089ab0c25642",
+      "review": "accepted_with_limitations"
+    },
+    {
+      "scene": 3,
+      "folder": "clip-01-lavender-powerbank-review\\scene-03",
+      "sha256": "772fd29aa7883ed4921ff7a645f14459c99164864c85c4f306541a912c39ecd4",
+      "review": "accepted_with_limitations"
+    },
+    {
+      "scene": 4,
+      "folder": "clip-01-lavender-powerbank-review\\scene-04",
+      "sha256": "8be6f99d597ad721a2ac0728eaa04c6e2af3ba94a796607df799a99c9c0329ae",
+      "review": "accepted_with_limitations"
+    },
+    {
+      "scene": 5,
+      "folder": "clip-01-lavender-powerbank-review\\scene-05-r02",
+      "sha256": "b63b7b7beec9675fdaa4169a3432755e827e69a79c805f350ccb75d6c1cd34e5",
+      "review": "accepted_with_limitations"
+    },
+    {
+      "scene": 6,
+      "folder": "clip-01-lavender-powerbank-review\\scene-06",
+      "sha256": "59cea6b58e933a1ca108fd9307dc7666908fddef3372e087c515438ce3131f1a",
+      "review": "accepted_with_limitations"
+    }
+  ],
+  "marketing": {
+    "hook_caption_seconds": [
+      0,
+      3
+    ],
+    "cta_caption_seconds": [
+      35,
+      42
+    ],
+    "hook_spoken_text": "Pin đỏ đúng lúc cần? Bực ghê!",
+    "cta_spoken_text": "Bấm giỏ hàng, xem đúng dung lượng, chọn màu mình thích rồi chốt đơn nha, mấy ní!"
+  },
+  "limitations": [
+    "Fine battery-window glyphs vary and are not exact live battery readouts.",
+    "Some presenter mouth motion remains; narration is independent Adam voice-over, not lip-synced.",
+    "Body/port/material details not visible in the original remain AI inferences; no claim of absolute product fidelity.",
+    "Capacity and 10 W are attributed to a visually matched supplier listing; exact supplied unit is not verified."
+  ]
+}

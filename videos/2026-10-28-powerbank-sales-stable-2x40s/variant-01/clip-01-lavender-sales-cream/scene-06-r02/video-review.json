@@ -1,0 +1,11 @@
+{
+  "result": "accepted_selected_interval",
+  "source_sha256": "a066ad39a3760ae96f34224c7b8d6d5798fb4db71de20ba1b37f53d41e18371f",
+  "reviewed_interval_seconds": [
+    0,
+    7.2
+  ],
+  "samples": "Full 20-frame action sheet plus 6–9s focus comparison",
+  "observed_action": "First interval retains diagonal cradled product, one loop, glossy black window; free hand rises, settles and makes actual shell contact/stroke; small depth movement. Phone and notebook separate in context.",
+  "limitations": "Later source changes focus to presenter, so exclude after 7.2s; selected interval keeps product legible. Nominal tilt and exact pause unmeasured. Fine glyphs vary; no invented charging claim or added text. Final exposure/focus endpoint must be inspected."
+}

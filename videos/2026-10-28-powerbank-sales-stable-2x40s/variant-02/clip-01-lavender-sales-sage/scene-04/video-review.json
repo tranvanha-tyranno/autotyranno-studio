@@ -1,0 +1,5 @@
+{
+  "result": "rejected",
+  "source_sha256": "a4ac6fac3e063120bdaf29d338974493bc2375bb151956d7f524f6b22329adca",
+  "notes": "20-frame inspection shows impossible third hand: original free hand stays on desk while another strokes product from left. Material anatomy failure; reject entire source, preserve original/task and regenerate only scene 4 with explicit existing-hand trajectory and two-hand count."
+}

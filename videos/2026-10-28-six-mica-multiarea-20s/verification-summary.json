@@ -1,0 +1,158 @@
+{
+  "outputs": [
+    {
+      "final_seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "looped": false,
+      "independent_scenes": 3,
+      "audio_seconds": 15.96,
+      "audio_tempo": 1.0,
+      "full_dialogue_preserved": true,
+      "decode_check": "passed",
+      "visual_qa": {
+        "method": "agent contact-sheet review",
+        "result": "usable with limitations",
+        "observed": "Three factory areas; held case and kettle retained; slight yaw in shot two; small generated text not verified character by character; incidental background signage.",
+        "frame_by_frame_text_lock": false,
+        "playback_review": false
+      },
+      "sha256": "8d942ccdcbb9b1313989935667ad56712175b7b1296f5b51731c864ac584bc45"
+    },
+    {
+      "final_seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "looped": false,
+      "independent_scenes": 3,
+      "audio_seconds": 15.73,
+      "audio_tempo": 1.0,
+      "full_dialogue_preserved": true,
+      "decode_check": "passed",
+      "visual_qa": {
+        "method": "agent contact-sheet review",
+        "result": "usable with limitations",
+        "observed": "Mall walking and varied areas; sleeve/body edge enters briefly; gold case trim partly changes; printed labels and kettle geometry drift; background signs/poster faces.",
+        "frame_by_frame_text_lock": false,
+        "playback_review": false
+      },
+      "sha256": "a87962339e609e4614472654e99b759c72cdd71eff919d58a3180c691d198df2"
+    },
+    {
+      "final_seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "looped": false,
+      "independent_scenes": 3,
+      "audio_seconds": 14.68,
+      "audio_tempo": 1.0,
+      "full_dialogue_preserved": true,
+      "decode_check": "passed",
+      "visual_qa": {
+        "method": "agent contact-sheet review",
+        "result": "usable with limitations",
+        "observed": "Three appliance-store areas; held case retained; brightness drops late; small label drift and changing background signage.",
+        "frame_by_frame_text_lock": false,
+        "playback_review": false
+      },
+      "sha256": "b39c59a1e6ff1683d68a3c54389e79f96ccc7a69b34d5959918df3fb09a85006"
+    },
+    {
+      "final_seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "looped": false,
+      "independent_scenes": 3,
+      "audio_seconds": 15.88,
+      "audio_tempo": 1.0,
+      "full_dialogue_preserved": true,
+      "decode_check": "passed",
+      "visual_qa": {
+        "method": "agent contact-sheet review",
+        "result": "usable with limitations",
+        "observed": "Three factory areas and clear early motion; accessories retained; reservoir/color and small labels drift; incidental workers/signs.",
+        "frame_by_frame_text_lock": false,
+        "playback_review": false
+      },
+      "sha256": "4d9f6b6dcb80d397142c5820c7420b8036ef3c890f03259da42374a63782b670"
+    },
+    {
+      "final_seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "looped": false,
+      "independent_scenes": 3,
+      "audio_seconds": 16.51,
+      "audio_tempo": 1.0,
+      "full_dialogue_preserved": true,
+      "decode_check": "passed",
+      "visual_qa": {
+        "method": "agent contact-sheet review",
+        "result": "usable with limitations",
+        "observed": "Mall area changes and suspended case; printed text drifts, bag shape shifts and late scenes darken; incidental signs/people.",
+        "frame_by_frame_text_lock": false,
+        "playback_review": false
+      },
+      "sha256": "bf836d178788b19435caa1aa1be53ced638cb870808102798d6979622fe1304b"
+    },
+    {
+      "final_seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "looped": false,
+      "independent_scenes": 3,
+      "audio_seconds": 16.2,
+      "audio_tempo": 1.0,
+      "full_dialogue_preserved": true,
+      "decode_check": "passed",
+      "visual_qa": {
+        "method": "agent contact-sheet review",
+        "result": "usable with limitations",
+        "observed": "Appliance and personal-care aisles; accessories remain visible; tip shapes, small labels and case transparency drift; background retail brands appear.",
+        "frame_by_frame_text_lock": false,
+        "playback_review": false
+      },
+      "sha256": "b9edcbd2d6db1755b050c955fe97a99953f0416f3657903d6e5333134ac24dbb"
+    }
+  ],
+  "completed": 6,
+  "provider_video_calls": 18,
+  "tts_calls": 6,
+  "published": false
+}

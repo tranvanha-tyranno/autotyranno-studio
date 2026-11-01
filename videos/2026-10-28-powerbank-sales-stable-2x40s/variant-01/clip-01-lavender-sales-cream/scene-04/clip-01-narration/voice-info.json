@@ -1,0 +1,9 @@
+{
+  "provider": "ElevenLabs",
+  "model_id": "eleven_v3",
+  "voice": "Adam",
+  "request_id": "JgatlMBhEkL93zALGF1e",
+  "character_cost": "128",
+  "cache_key": "e87357260e7f317a35ac9c4d708c08331858a8a11f755bd93fd1f6c26a4a98b5",
+  "cache_hit": false
+}

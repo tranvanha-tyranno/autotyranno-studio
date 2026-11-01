@@ -1,0 +1,143 @@
+{
+  "outputs": [
+    {
+      "variant": 1,
+      "delivery": "01-sac-du-phong-ban-hang-40s.mp4",
+      "bytes": 13464659,
+      "sha256": "38646cb93921da345325fadafe21569c8d5de45cc3645d2bc13e2494fa6d7eb8",
+      "seconds": 40,
+      "video_frames": 1200,
+      "resolution": "720x1280",
+      "fps": 30,
+      "voice": "Vietnamese Adam / eleven_v3",
+      "text_overlays": false,
+      "independent_sources": 6,
+      "source_hashes": [
+        "5628b1b49c2c66952e78f6fe557c9a4d66313234e2d6d5f8ddb6fd5746eddbef",
+        "6c6a0014e1fbbff2836f56f1ac629900ec904e8f93db15d519ee12bf2723c9fe",
+        "3b2558bf031e7e2d66b98d110caa125b18d6022a5bc1294e928956965ea3806d",
+        "a0811989d7b1d743e9bb6df6dcd14d47794d444f733b002ec8d3758a89c04398",
+        "d70778f9619d510fbe754cf13600d2a52e621a530b573f275598c12b87965290",
+        "a066ad39a3760ae96f34224c7b8d6d5798fb4db71de20ba1b37f53d41e18371f"
+      ],
+      "reused_reviewed_sources": 3,
+      "new_context_sources": 3,
+      "visual_speeds": [
+        1.5,
+        1.5,
+        1.5,
+        1.5,
+        1.5,
+        1.08
+      ],
+      "narration_tempos": [
+        1.0,
+        1.0,
+        1.1955319374369324,
+        1.0597829969727546,
+        1.08362663975782,
+        1.0374837033299695
+      ],
+      "audio_db": {
+        "mean_volume": -16.2,
+        "max_volume": -1.8
+      },
+      "decode_check": "passed",
+      "black_freeze_alerts": [],
+      "corrected_end_opening_roi_ratios": [
+        0.988,
+        0.993,
+        0.991,
+        0.996,
+        1.046,
+        0.976
+      ],
+      "visual_review": "accepted_with_limitations after corrected comparison, enlarged two-hand source details, full action sheets and final frame review"
+    },
+    {
+      "variant": 2,
+      "delivery": "02-sac-du-phong-ban-hang-40s.mp4",
+      "bytes": 13807273,
+      "sha256": "959c5496549e0ce2e199c0b66f778aeec94c74cd5174e8df8fa62bf9323cf169",
+      "seconds": 40,
+      "video_frames": 1200,
+      "resolution": "720x1280",
+      "fps": 30,
+      "voice": "Vietnamese Adam / eleven_v3",
+      "text_overlays": false,
+      "independent_sources": 6,
+      "source_hashes": [
+        "867fb0b317db8cc72fdc5e41ba3b91b5ded442729792052149e85b9ff9047545",
+        "06968888375aabbb105a8a62a8a094acaf903b38a8d908836b9b3874a20b59d5",
+        "261ef62338ac6f15dead1dbb4c49e0a337c37df8f36e4e3a118475ba096de97e",
+        "65a99de139c600320a57eaa962b51f6f6918e4fc19ecbae957e852a1f2c4066f",
+        "a59c0621bacae7fe7e5d326b7a858c56e36a69b448e68df9511174f6b720dc64",
+        "434055cf880ecdea73ed007eb1b85cf2aae93ca4d8f1b5e023b8aa58268c8824"
+      ],
+      "reused_reviewed_sources": 3,
+      "new_context_sources": 3,
+      "visual_speeds": [
+        1.5,
+        1.5,
+        1.5,
+        1.5,
+        1.5,
+        1.5
+      ],
+      "narration_tempos": [
+        1.0,
+        1.0,
+        1.0288823915237133,
+        1.0796007063572146,
+        1.1369812310797172,
+        1.106705297679112
+      ],
+      "audio_db": {
+        "mean_volume": -16.2,
+        "max_volume": -1.5
+      },
+      "decode_check": "passed",
+      "black_freeze_alerts": [],
+      "corrected_end_opening_roi_ratios": [
+        1.004,
+        0.993,
+        0.961,
+        1.0,
+        1.0,
+        0.986
+      ],
+      "visual_review": "accepted_with_limitations after corrected opening/raw/final comparisons, enlarged two-hand source detail sheets, full source action sheets and final frame review"
+    }
+  ],
+  "twelve_distinct_sources": true,
+  "looped": false,
+  "slowed_to_fill": false,
+  "narration_cut_midword": false,
+  "stability_improvements": [
+    "two-hand anatomy audited at larger size; faulty takes excluded",
+    "black-preserving bounded exposure correction",
+    "selected clean focus interval for cream CTA",
+    "full video frame-count validation",
+    "exact-take measured pause cleanup with boundary guards"
+  ],
+  "marketing_improvements": [
+    "six distinct narrative beats over forty seconds",
+    "phone and carry-item context tied to portable-power use",
+    "front level-window preparation benefit",
+    "variant and phone compatibility before clear purchase CTA"
+  ],
+  "specification_policy": "No exact-unit capacity, power, price, recharge count or fast-charge promise from an unverified visual listing. No fake charging demonstration.",
+  "workflow_tests": "21 passed",
+  "limitations": [
+    "Fine AI-generated display markings still vary",
+    "Exact pause duration and degree of tilt are not numerically established",
+    "Some slight camera reframing, mouth motion and fingers near display border remain"
+  ],
+  "qa_artifacts": [
+    "variant-01/clip-01-lavender-sales-cream/opening-raw-final-comparison.jpg",
+    "variant-02/clip-01-lavender-sales-sage/opening-raw-final-comparison.jpg",
+    "KICH-BAN.md",
+    "research.json",
+    "research-direct-check.json"
+  ]
+}

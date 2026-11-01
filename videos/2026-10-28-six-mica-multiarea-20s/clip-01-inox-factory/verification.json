@@ -1,0 +1,25 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.5,
+  "looped": false,
+  "independent_scenes": 3,
+  "audio_seconds": 15.96,
+  "audio_tempo": 1.0,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": {
+    "method": "agent contact-sheet review",
+    "result": "usable with limitations",
+    "observed": "Three factory areas; held case and kettle retained; slight yaw in shot two; small generated text not verified character by character; incidental background signage.",
+    "frame_by_frame_text_lock": false,
+    "playback_review": false
+  },
+  "sha256": "8d942ccdcbb9b1313989935667ad56712175b7b1296f5b51731c864ac584bc45"
+}

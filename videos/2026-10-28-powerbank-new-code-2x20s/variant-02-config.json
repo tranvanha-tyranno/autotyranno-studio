@@ -1,0 +1,98 @@
+{
+  "recipe_version": 5,
+  "duration_seconds": 20,
+  "visual_speed": 1.5,
+  "text_overlays": false,
+  "product_crop": [
+    0.145,
+    0.015,
+    0.6,
+    0.4
+  ],
+  "product_description": "Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.",
+  "character": {
+    "reference": "character/portrait.png",
+    "prompt": "Create ONE photorealistic canonical character portrait, vertical 9:16. A newly invented adult Vietnamese woman aged 30 with a softly angular face, warm tan skin, dark almond-shaped eyes, straight chin-length BLACK BOB haircut with a side part. Plain pastel sage-green long-sleeve shirt, simple collar, no jewelry or visible logos. Head and upper torso clearly visible, full hair and shoulders, friendly relaxed closed-mouth smile. Even bright diffuse neutral studio illumination, pale warm-gray background. Fictional adult, no likeness of a specific real person. One person only. No product, prop, text, watermark, illustration or collage."
+  },
+  "quality": {
+    "lock_exposure": true,
+    "require_video_review": true,
+    "exposure_lock": {
+      "enabled": true,
+      "max_brightness": 0.07,
+      "allow_dimming": false,
+      "roi": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+      ]
+    }
+  },
+  "cache": {
+    "muse": true,
+    "tts": true
+  },
+  "claim_basis": {
+    "source": "Supplied collage only; lavender product selected.",
+    "observed": [
+      "pastel lavender shell",
+      "rounded corners",
+      "matching loop",
+      "black level window"
+    ],
+    "unverified_and_excluded": [
+      "price",
+      "capacity",
+      "power",
+      "charging protocols",
+      "certification",
+      "real user experience"
+    ]
+  },
+  "clips": [
+    {
+      "slug": "lavender-desk",
+      "presentation_mode": "presenter",
+      "background": "Bright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.",
+      "presenter": "The exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt.",
+      "dialogue": "[excited] Sạc dự phòng mà tím như kẹo! [playful] Bo góc, có quai đồng màu; đặt cạnh đồ đi làm nhìn hợp ghê.\n\n[upbeat] Xoay nhẹ, chạm lớp vỏ trơn nè. [explaining] Ô báo mức pin ở mặt trước giúp mình tiện theo dõi.\n\n[encouraging] Mê màu tím này thì bấm giỏ hàng, xem kỹ thông số, chọn đúng phiên bản rồi đặt mua nha!",
+      "scenes": [
+        {
+          "title": "Hook and reveal",
+          "seconds": 6.666666666666667,
+          "visual_speed": 1.5,
+          "dialogue": "[excited] Sạc dự phòng mà tím như kẹo! [playful] Bo góc, có quai đồng màu; đặt cạnh đồ đi làm nhìn hợp ghê.",
+          "opening_prompt": "Create ONE photorealistic vertical 9:16 product-review opening. REFERENCE 1 is product crop; REFERENCE 2 is canonical adult identity. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt. Same face, hair and clothing throughout, normal five-finger hands, relaxed closed lips; separate male voice-over later.\nBright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.\nMedium upper-body portrait with face fully visible and product prominent on supporting LEFT palm at chest height. Whole product and short loop visible; right fingertips beside blank shell ready to touch. Product occupies about 20% of frame height, comfortable palm-sized scale.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "ONE continuous TEN-SECOND photorealistic vertical 9:16 video. REFERENCE 1 exact opening; REFERENCE 2 original product; REFERENCE 3 canonical adult identity. Keep exact opening composition. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt.\nBright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.\nFixed tripod, no orbit, zoom or camera tilt. Maintain original window and loop position relative to shell in frame; no in-plane rotation, flip, upright turn or grip change. Keep black window BLACK and its markings stable. Real other-hand contact, no finger merging or extra fingers. No fake charging demo. Lips closed; no speaking, music or generated narration. No cuts or fade.\nACTION TIMELINE: 0–1.0s: supporting palm raises the product 2 cm with clearly visible immediate movement. 1.0–1.5s: natural short settling pause with real hand micro-motion. 1.5–3.0s: tilt the entire rigid product only 5 degrees in depth, front and black window always visible, same supporting grip and wrist orientation. 3.0–5.7s: the OTHER hand's index and middle fingertips actually touch the BLANK lavender shell and stroke a short 2 cm path once, with plausible contact shadow. Do not hover, point beside it, touch or cover the window. 5.7–7.5s: fingertips lift and product returns those same 5 degrees. 7.5–10s: present securely with gentle natural movement, full product and loop in frame.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "action_timeline": "0–1.0s: supporting palm raises the product 2 cm with clearly visible immediate movement. 1.0–1.5s: natural short settling pause with real hand micro-motion. 1.5–3.0s: tilt the entire rigid product only 5 degrees in depth, front and black window always visible, same supporting grip and wrist orientation. 3.0–5.7s: the OTHER hand's index and middle fingertips actually touch the BLANK lavender shell and stroke a short 2 cm path once, with plausible contact shadow. Do not hover, point beside it, touch or cover the window. 5.7–7.5s: fingertips lift and product returns those same 5 degrees. 7.5–10s: present securely with gentle natural movement, full product and loop in frame."
+        },
+        {
+          "title": "Tactile design demonstration",
+          "seconds": 6.666666666666667,
+          "visual_speed": 1.5,
+          "dialogue": "[upbeat] Xoay nhẹ, chạm lớp vỏ trơn nè. [explaining] Ô báo mức pin ở mặt trước giúp mình tiện theo dõi.",
+          "opening_prompt": "Create ONE photorealistic vertical 9:16 product-review opening. REFERENCE 1 is product crop; REFERENCE 2 is canonical adult identity. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt. Same face, hair and clothing throughout, normal five-finger hands, relaxed closed lips; separate male voice-over later.\nBright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.\nClose product photograph cropped from below chin to desktop, same presenter's sleeves and BOTH hands visible. Product on left palm at the same original three-quarter front angle, black window near the lower-right end and loop upper-right as in reference. Right fingertips poised beside blank shell above the window. Full loop and entire product within central 65% of frame; generous margins.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "ONE continuous TEN-SECOND photorealistic vertical 9:16 video. REFERENCE 1 exact opening; REFERENCE 2 original product; REFERENCE 3 canonical adult identity. Keep exact opening composition. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt.\nBright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.\nFixed tripod, no orbit, zoom or camera tilt. Maintain original window and loop position relative to shell in frame; no in-plane rotation, flip, upright turn or grip change. Keep black window BLACK and its markings stable. Real other-hand contact, no finger merging or extra fingers. No fake charging demo. Lips closed; no speaking, music or generated narration. No cuts or fade.\nACTION TIMELINE: 0–1.0s: supporting palm raises the product 2 cm with clearly visible immediate movement. 1.0–1.5s: natural short settling pause with real hand micro-motion. 1.5–3.0s: tilt the entire rigid product only 5 degrees in depth, front and black window always visible, same supporting grip and wrist orientation. 3.0–5.7s: the OTHER hand's index and middle fingertips actually touch the BLANK lavender shell and stroke a short 2 cm path once, with plausible contact shadow. Do not hover, point beside it, touch or cover the window. 5.7–7.5s: fingertips lift and product returns those same 5 degrees. 7.5–10s: present securely with gentle natural movement, full product and loop in frame.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "action_timeline": "0–1.0s: supporting palm raises the product 2 cm with clearly visible immediate movement. 1.0–1.5s: natural short settling pause with real hand micro-motion. 1.5–3.0s: tilt the entire rigid product only 5 degrees in depth, front and black window always visible, same supporting grip and wrist orientation. 3.0–5.7s: the OTHER hand's index and middle fingertips actually touch the BLANK lavender shell and stroke a short 2 cm path once, with plausible contact shadow. Do not hover, point beside it, touch or cover the window. 5.7–7.5s: fingertips lift and product returns those same 5 degrees. 7.5–10s: present securely with gentle natural movement, full product and loop in frame."
+        },
+        {
+          "title": "Purchase CTA",
+          "seconds": 6.666666666666667,
+          "visual_speed": 1.5,
+          "dialogue": "[encouraging] Mê màu tím này thì bấm giỏ hàng, xem kỹ thông số, chọn đúng phiên bản rồi đặt mua nha!",
+          "opening_prompt": "Create ONE photorealistic vertical 9:16 product-review opening. REFERENCE 1 is product crop; REFERENCE 2 is canonical adult identity. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt. Same face, hair and clothing throughout, normal five-finger hands, relaxed closed lips; separate male voice-over later.\nBright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.\nDistinct medium-close portrait showing same face and upper torso, product on left palm slightly below shoulder level, free right hand beside blank shell. Entire palm-sized product and loop visible in central 65% of frame. Friendly closed-mouth smile.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "ONE continuous TEN-SECOND photorealistic vertical 9:16 video. REFERENCE 1 exact opening; REFERENCE 2 original product; REFERENCE 3 canonical adult identity. Keep exact opening composition. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt.\nBright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.\nFixed tripod, no orbit, zoom or camera tilt. Maintain original window and loop position relative to shell in frame; no in-plane rotation, flip, upright turn or grip change. Keep black window BLACK and its markings stable. Real other-hand contact, no finger merging or extra fingers. No fake charging demo. Lips closed; no speaking, music or generated narration. No cuts or fade.\nACTION TIMELINE: 0–1.0s: supporting palm raises the product 2 cm with clearly visible immediate movement. 1.0–1.5s: natural short settling pause with real hand micro-motion. 1.5–3.0s: tilt the entire rigid product only 5 degrees in depth, front and black window always visible, same supporting grip and wrist orientation. 3.0–5.7s: the OTHER hand's index and middle fingertips actually touch the BLANK lavender shell and stroke a short 2 cm path once, with plausible contact shadow. Do not hover, point beside it, touch or cover the window. 5.7–7.5s: fingertips lift and product returns those same 5 degrees. 7.5–10s: present securely with gentle natural movement, full product and loop in frame.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "action_timeline": "0–1.0s: supporting palm raises the product 2 cm with clearly visible immediate movement. 1.0–1.5s: natural short settling pause with real hand micro-motion. 1.5–3.0s: tilt the entire rigid product only 5 degrees in depth, front and black window always visible, same supporting grip and wrist orientation. 3.0–5.7s: the OTHER hand's index and middle fingertips actually touch the BLANK lavender shell and stroke a short 2 cm path once, with plausible contact shadow. Do not hover, point beside it, touch or cover the window. 5.7–7.5s: fingertips lift and product returns those same 5 degrees. 7.5–10s: present securely with gentle natural movement, full product and loop in frame."
+        }
+      ],
+      "marketing": {
+        "hook": "Sạc dự phòng mà tím như kẹo!",
+        "hook_seconds": 3,
+        "buyer_benefit": "A coordinated pastel design with a front-facing level window for convenient visual checking.",
+        "reason_to_believe": "Features visible in supplied image, demonstrated with hand contact; no unverified technical performance.",
+        "cta": "Mê màu tím này thì bấm giỏ hàng, xem kỹ thông số, chọn đúng phiên bản rồi đặt mua nha!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "voice": "Adam / eleven_v3",
+  "paragraphs": [
+    {
+      "scene": 1,
+      "original_audio_seconds": 7.24,
+      "final_scene_seconds": 7,
+      "audio_tempo": 1.0432276657060517
+    },
+    {
+      "scene": 2,
+      "original_audio_seconds": 7.71,
+      "final_scene_seconds": 7,
+      "audio_tempo": 1.110951008645533
+    },
+    {
+      "scene": 3,
+      "original_audio_seconds": 7.47,
+      "final_scene_seconds": 7,
+      "audio_tempo": 1.0763688760806915
+    },
+    {
+      "scene": 4,
+      "original_audio_seconds": 7.39,
+      "final_scene_seconds": 7,
+      "audio_tempo": 1.0648414985590777
+    },
+    {
+      "scene": 5,
+      "original_audio_seconds": 7.63,
+      "final_scene_seconds": 7,
+      "audio_tempo": 1.0994236311239192
+    },
+    {
+      "scene": 6,
+      "original_audio_seconds": 6.03,
+      "final_scene_seconds": 7,
+      "audio_tempo": 1
+    }
+  ],
+  "first_hook_pause_source_seconds": 2.466825,
+  "first_hook_pause_final_seconds": 2.3646084944751387,
+  "timing_note": "The first two short hook phrases precede the 2.466825s detected silence in scene-one original take. No forced alignment/ASR claim. The hook caption is explicitly limited to 0–3 seconds."
+}

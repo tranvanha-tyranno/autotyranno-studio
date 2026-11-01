@@ -1,0 +1,49 @@
+{
+  "final_seconds": 30.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0
+  ],
+  "used_seconds_per_source": [
+    9.0,
+    9.0,
+    8.0,
+    9.0,
+    9.0
+  ],
+  "visual_speeds": [
+    1.5,
+    1.5,
+    1.3333333333333333,
+    1.5,
+    1.5
+  ],
+  "independent_scenes": 5,
+  "looped": false,
+  "slowed_to_fill": false,
+  "narration": "Vietnamese Adam / eleven_v3, five paragraphs individually aligned to six-second scenes",
+  "audio_original_seconds": 35.71,
+  "audio_final_seconds": 30.0,
+  "decode_check": "passed",
+  "visual_qa": "Reviewed all five opening images, five selected scene contact sheets, final 15-frame contact sheet and last frame. Usable with disclosed limitations.",
+  "sha256": "fcd3b0955b248c06f76278edc3c0ce888da497ee851105a9648ff05ab518f19a",
+  "audio_qa": {
+    "mean_volume": -16.5,
+    "max_volume": -1.5
+  },
+  "black_or_freeze_alerts": [],
+  "audio_replacement_note": "Scene two uses corrected visible-design narration; see dialogue-final.txt and voice-replacement.json.",
+  "full_spoken_script": "dialogue-final.txt",
+  "limitations": [
+    "Small product wordmark and fine vent/inner texture are not perfectly stable.",
+    "Close-up in scenes 1–2 sometimes places the helmet close to or slightly beyond the side edge.",
+    "Worn fit and unseen geometry are AI inferences from one image.",
+    "Presenter sometimes moves lips; Adam is independent voice-over, no lip-sync claim."
+  ],
+  "provider_audio_used": false
+}

@@ -1,0 +1,5 @@
+{
+  "result": "accepted",
+  "sha256": "0aac7a7c31dbef6c1bccf000f8661261d21a022f38e73682436659b3968ba98b",
+  "notes": "Same inspected accepted closing opening, deterministically normalized to true RGB PNG 720x1280. Product geometry and full loop retained; no content changes. Simplified motion brief after provider returned no media, original attempt retained."
+}

@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "errors": [],
+  "script_preserved": true,
+  "encoded_motion_samples": [
+    {
+      "scene": 4,
+      "beat_seconds": 5.9,
+      "mean_rgb_difference": [
+        4.0504037037037035,
+        1.9870481481481481,
+        9.511595061728395
+      ]
+    },
+    {
+      "scene": 5,
+      "beat_seconds": 10.56,
+      "mean_rgb_difference": [
+        2.3644493827160495,
+        2.1384666666666665,
+        1.8856716049382716
+      ]
+    },
+    {
+      "scene": 6,
+      "beat_seconds": 13.533,
+      "mean_rgb_difference": [
+        5.769344444444444,
+        3.896772839506173,
+        5.115012345679013
+      ]
+    }
+  ],
+  "caption_checks": "all cues",
+  "visual_contact_sheet": "final-contact-sheet.jpg"
+}

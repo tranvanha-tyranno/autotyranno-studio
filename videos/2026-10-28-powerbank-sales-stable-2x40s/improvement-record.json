@@ -1,0 +1,32 @@
+{
+  "requested_change": "Longer and more persuasive stable power-bank sales videos",
+  "output_target": {
+    "variants": 2,
+    "seconds_each": 40,
+    "scenes_each": 6,
+    "voice": "Adam / eleven_v3",
+    "text_overlays": false
+  },
+  "reusable_improvements": [
+    "six-beat product-relevant sales compiler",
+    "shadow-protected exposure lift",
+    "measured exact-take pause cleanup with safety guards",
+    "render gate for visually accepted source interval",
+    "opening/raw/corrected-final comparison generator"
+  ],
+  "tests": {
+    "passed": 21,
+    "new_coverage": [
+      "black window stays black under exposure lift",
+      "speech pause boundary guards",
+      "24fps final-frame seek",
+      "render rejected-tail exclusion"
+    ]
+  },
+  "pending": [],
+  "status": "completed",
+  "new_verified_checks": [
+    "enlarged source anatomy review",
+    "24fps endpoint kept during 30fps conversion, 1200 video frames per final"
+  ]
+}

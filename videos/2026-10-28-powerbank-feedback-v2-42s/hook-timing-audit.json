@@ -1,0 +1,17 @@
+{
+  "text": "Tưởng hộp phấn? Sạc dự phòng đó!",
+  "source_duration": 8.05,
+  "scene_seconds": 7,
+  "audio_tempo": 1.159942363112392,
+  "silence_detect": [
+    "[silencedetect @ 000001f2faaa1040] silence_start: 0.957551",
+    "[silencedetect @ 000001f2faaa1040] silence_end: 1.266508 | silence_duration: 0.308957",
+    "[silencedetect @ 000001f2faaa1040] silence_start: 2.190658",
+    "[silencedetect @ 000001f2faaa1040] silence_end: 3.265669 | silence_duration: 1.075011",
+    "[silencedetect @ 000001f2faaa1040] silence_start: 4.603968",
+    "[silencedetect @ 000001f2faaa1040] silence_end: 5.08805 | silence_duration: 0.484082",
+    "[silencedetect @ 000001f2faaa1040] silence_start: 6.998322",
+    "[silencedetect @ 000001f2faaa1040] silence_end: 8 | silence_duration: 1.001678"
+  ],
+  "note": "Detected pauses provide timing evidence, not forced word alignment. Hook text is at the beginning of narration. No on-screen hook."
+}

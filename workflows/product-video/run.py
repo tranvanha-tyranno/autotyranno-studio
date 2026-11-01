@@ -7,6 +7,8 @@ import copy
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 import hashlib
+import importlib.util
+import io
 import json
 import math
 import os
@@ -93,6 +95,13 @@ def initialize(args):
         path = output/f'clip-{index:02}-{clip["slug"]}'
         path.mkdir()
         (path/'dialogue.txt').write_text(clip['dialogue'].strip(), encoding='utf-8')
+        for number, scene in enumerate(clip.get('scenes', []), 1):
+            revision = scene.get('revision', 1)
+            suffix = f'-r{revision:02}' if revision > 1 else ''
+            folder = path/f'scene-{number:02}{suffix}'
+            folder.mkdir()
+            for name, value in [('dialogue', scene['dialogue']), ('opening-prompt', scene['opening_prompt']), ('video-prompt', scene['video_prompt'])]:
+                (folder/f'{name}.txt').write_text(value.strip(), encoding='utf-8')
         if clip.get('reuse_voice'):
             supplied = Path(clip['reuse_voice'])
             if not supplied.is_absolute():
@@ -107,8 +116,9 @@ def initialize(args):
 
 
 def validate(config):
-    if config.get('duration_seconds', 20) != 20:
-        raise ValueError('This saved recipe currently supports 20-second outputs.')
+    duration_seconds = config.get('duration_seconds', 20)
+    if not isinstance(duration_seconds, (int, float)) or duration_seconds <= 0:
+        raise ValueError('duration_seconds must be a positive number')
     if not config.get('product_description') or not config.get('clips'):
         raise ValueError('product_description and clips are required')
     if config.get('product_crop'):
@@ -123,12 +133,18 @@ def validate(config):
                 raise ValueError('Missing clip field: '+field)
         if clip.get('presentation_mode','presenter') not in ['presenter','hands_only']:
             raise ValueError('presentation_mode must be presenter or hands_only')
+        if 'scenes' not in clip:
+            storyboard_module().talking_module().validate(config, clip)
+        if 'scenes' in clip:
+            storyboard_module().validate_scenes(config, clip)
+            continue
         speed = clip.get('visual_speed', config.get('visual_speed',1.0))
         count = clip.get('scene_count', config.get('scene_count',2))
         if not 1.0 <= speed <= 2.0:
             raise ValueError('visual_speed must be between 1 and 2; slowing footage to fill duration is not allowed')
-        if not isinstance(count,int) or not math.ceil(20*speed/10) <= count <= 6:
-            raise ValueError('scene_count does not provide enough independent footage for the requested speed')
+        required_scenes = math.ceil(duration_seconds*speed/10)
+        if not isinstance(count,int) or not required_scenes <= count <= 6:
+            raise ValueError('scene_count does not provide enough independent footage for the requested duration and speed')
         for field in ['shot_prompts','shot_motion']:
             if clip.get(field) and len(clip[field]) != count:
                 raise ValueError(field+' must have one entry per scene')
@@ -158,9 +174,19 @@ def eleven_key():
 
 
 def image_url(path):
+    # Providers have returned WebP bytes with .png filenames. Upload a real PNG,
+    # preserving the downloaded original separately for reproducibility.
     with Image.open(path) as image:
-        mime = Image.MIME.get(image.format, 'image/png')
-    return 'data:'+mime+';base64,'+base64.b64encode(Path(path).read_bytes()).decode()
+        buffer = io.BytesIO()
+        image.convert('RGB').save(buffer, format='PNG')
+    return 'data:image/png;base64,'+base64.b64encode(buffer.getvalue()).decode()
+
+
+def storyboard_module():
+    spec = importlib.util.spec_from_file_location('product_storyboard', Path(__file__).with_name('storyboard.py'))
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
 
 
 def clip_path(batch, index, clip):
@@ -382,6 +408,7 @@ def warm_cache(batch, config):
 
 def render(batch,config,index,clip):
     path=clip_path(batch,index,clip)
+    output_duration=float(config.get('duration_seconds',20))
     count=clip.get('scene_count',config.get('scene_count',2))
     speed=clip.get('visual_speed',config.get('visual_speed',1.0))
     sources=[path/f'scene-{n:02}.mp4' for n in range(1,count+1)]
@@ -389,23 +416,23 @@ def render(batch,config,index,clip):
     if any(d < 9.96 for d in durations):
         raise RuntimeError('A generated scene is shorter than 10 seconds. Generate a new scene; never pad by looping or slowing it down.')
     audio_duration=duration(path/'voice.mp3')
-    tempo=max(1.0,audio_duration/19.8)
+    tempo=max(1.0,audio_duration/(output_duration-0.2))
     if tempo>1.25:
         raise RuntimeError('Dialogue too long; revise or extend with new footage, do not clip spoken words.')
     target=path/'final.mp4'
     filters=[]
-    seconds_per_scene=20*speed/count
+    seconds_per_scene=output_duration*speed/count
     for n in range(count):
         filters.append(f'[{n}:v]trim=duration={seconds_per_scene:.8f},setpts=(PTS-STARTPTS)/{speed:.8f},scale=720:1280:force_original_aspect_ratio=increase:force_divisible_by=2,crop=720:1280,setsar=1,fps=30[v{n}]')
     filters.append(''.join(f'[v{n}]' for n in range(count))+f'concat=n={count}:v=1:a=0[v]')
-    filters.append(f'[{count}:a]atempo={tempo:.8f},apad,atrim=duration=20[a]')
+    filters.append(f'[{count}:a]atempo={tempo:.8f},apad,atrim=duration={output_duration:.3f}[a]')
     command=[FF,'-y']
     for source in sources: command.extend(['-i',str(source)])
-    command.extend(['-i',str(path/'voice.mp3'),'-filter_complex',';'.join(filters),'-map','[v]','-map','[a]','-c:v','libx264','-crf','18','-preset','fast','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-t','20','-movflags','+faststart',str(target)])
+    command.extend(['-i',str(path/'voice.mp3'),'-filter_complex',';'.join(filters),'-map','[v]','-map','[a]','-c:v','libx264','-crf','18','-preset','fast','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-t',f'{output_duration:.3f}','-movflags','+faststart',str(target)])
     run_ff(command)
     run_ff([FF,'-v','error','-i',str(target),'-f','null','-'])
     final_duration=duration(target)
-    if abs(final_duration-20)>0.1: raise RuntimeError('Unexpected output duration')
+    if abs(final_duration-output_duration)>0.1: raise RuntimeError('Unexpected output duration')
     run_ff([FF,'-y','-i',str(target),'-vf','fps=1/2,scale=144:256,tile=5x2','-frames:v','1',str(path/'contact-sheet.jpg')])
     save_json(path/'verification.json',{'final_seconds':final_duration,'resolution':'720x1280','fps':30,'source_seconds':durations,'visual_speed':speed,'looped':False,'independent_scenes':count,'audio_seconds':audio_duration,'audio_tempo':tempo,'full_dialogue_preserved':True,'decode_check':'passed','visual_qa':'pending human/agent review of sampled frames','sha256':hashlib.sha256(target.read_bytes()).hexdigest()})
     print('READY',target,flush=True)
@@ -413,7 +440,7 @@ def render(batch,config,index,clip):
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('stage',choices=['init','plan','cache','images','voices','videos','render','status'])
+    parser.add_argument('stage',choices=['init','plan','cache','characters','images','voices','videos','render','status'])
     parser.add_argument('--config')
     parser.add_argument('--image')
     parser.add_argument('--output')
@@ -431,6 +458,12 @@ def main():
     validate(config)
     if args.clip is not None and not 1<=args.clip<=len(config['clips']): parser.error('clip index out of bounds')
     selected=[(i,c) for i,c in enumerate(config['clips'],1) if args.clip is None or args.clip==i]
+    if any('scenes' in clip for _, clip in selected):
+        if not all('scenes' in clip for _, clip in selected):
+            parser.error('Select a single workflow type using --clip; do not mix legacy and storyboard clips.')
+        import sys
+        storyboard_module().execute(sys.modules[__name__], args, batch, config, selected)
+        return
     if args.stage=='plan':
         plan(batch, config, selected)
     elif args.stage=='cache':

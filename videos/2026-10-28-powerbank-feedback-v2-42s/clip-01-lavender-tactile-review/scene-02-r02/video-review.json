@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "3b2558bf031e7e2d66b98d110caa125b18d6022a5bc1294e928956965ea3806d",
+  "samples": "20 frames, 0.5s intervals",
+  "observed_action": "Revised take retains original horizontal/diagonal palm orientation and BLACK window throughout. Clear free-hand rise, actual fingertip contact/stroking over blank shell, mild in-hand yaw and final release. No upside-down flip.",
+  "identity": "Cream blouse and low ponytail remain consistent; lower face appears late, matching anchor visually.",
+  "limitations": "Natural pause/precise 3-degree yaw not numerically verified. Fingers sometimes pass close to display rim; fine glyphs vary. Full body and one loop remain within frame. Final exposure correction pending."
+}

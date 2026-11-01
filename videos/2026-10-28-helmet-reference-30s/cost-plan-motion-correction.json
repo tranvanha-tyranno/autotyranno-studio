@@ -1,0 +1,15 @@
+{
+  "remaining_video_calls": 5,
+  "of_which_corrective_calls": 2,
+  "completed_but_rejected_for_geometry": 1,
+  "failed_video_calls": 1,
+  "new_expected_outputs": 5,
+  "reason": {
+    "reason": "First video rotated too far and altered vent geometry; second task failed before generating due to provider image-path error.",
+    "method": "Real PNG uploads, two ordered references (opening then original product), rigid product orientation, clear hand/camera movement without helmet rotation.",
+    "video_revision_scenes": [
+      1,
+      2
+    ]
+  }
+}

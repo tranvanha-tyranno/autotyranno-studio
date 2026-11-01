@@ -1,0 +1,24 @@
+{
+  "id": "task_7244a19baf5947ad92fc",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Generate a NEW realistic ten-second single continuous video shot from this exact opening photograph, vertical 9:16, 720p. The exact adult bicycle helmet in reference image 1: matte charcoal-black sculpted shell, broad curved projecting front visor, long angular ventilation openings and dark mesh beneath, black Y-shaped chin straps and small black buckle. Preserve the silhouette, vent layout, visor shape, dark finish and straps from the photograph. The small existing light-colored wordmark stays subtle and unchanged; never invent lettering. It is a vented BICYCLE helmet, with NO transparent face shield, no motorcycle ear covers, no LED, no camera and no extra accessory. Do not invent safety certification, impact-test performance, weight, material grade, sizing or price.\nKeep this same fictional adult presenter, clothes, room/location and lighting from the opening photograph. Action starts at frame zero: she smoothly brings the held helmet 8 cm closer toward the camera during seconds 0–2, turns it only 12 degrees to reveal the front visor during seconds 2–5, then makes a short presenting gesture beside it while keeping support beneath it. The camera makes an obvious small lateral track, maintaining the full helmet in view. No long motionless hold.\nBrisk natural real-time human motion, visible movement from the very first frame and continuing with purpose. No ultra-slow-motion orbit. Frame the HELMET as the product, not an appliance. Preserve all vents, mesh, visor, shell and chin straps consistently. No invented rear view or 360 rotation. Anatomically plausible hands, no extra fingers, no helmet morphing or changing into another model. No scene cuts, montage, text, subtitles, watermark, music, sound effects or narration. Relaxed closed mouth, no talking or lip sync. Do not add a motorcycle face shield or accessory. Keep the full helmet visible throughout.",
+  "status": "completed",
+  "created_at": 1793150699,
+  "updated_at": 1793150805,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/b16ea48a20114d3a8fbcc6aa23145688.mp4",
+    "filename": "b16ea48a20114d3a8fbcc6aa23145688.mp4",
+    "bytes": 3936319,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的参考图片附件作为第一帧参考图（严禁使用历史图片或任何其他图像，必须严格以我当前刚刚上传并附带在此处的这张图片为起始帧）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：Generate a NEW realistic ten-second single continuous video shot from this exact opening photograph, vertical 9:16, 720p. The exact adult bicycle helmet in reference image 1: matte charcoal-black sculpted shell, broad curved projecting front visor, long angular ventilation openings and dark mesh beneath, black Y-shaped chin straps and small black buckle. Preserve the silhouette, vent layout, visor shape, dark finish and straps from the photograph. The small existing light-colored wordmark stays subtle and unchanged; never invent lettering. It is a vented BICYCLE helmet, with NO transparent face shield, no motorcycle ear covers, no LED, no camera and no extra accessory. Do not invent safety certification, impact-test performance, weight, material grade, sizing or price.\nKeep this same fictional adult presenter, clothes, room/location and lighting from the opening photograph. Action starts at frame zero: she smoothly brings the held helmet 8 cm closer toward the camera during seconds 0–2, turns it only 12 degrees to reveal the front visor during seconds 2–5, then makes a short presenting gesture beside it while keeping support beneath it. The camera makes an obvious small lateral track, maintaining the full helmet in view. No long motionless hold.\nBrisk natural real-time human motion, visible movement from the very first frame and continuing with purpose. No ultra-slow-motion orbit. Frame the HELMET as the product, not an appliance. Preserve all vents, mesh, visor, shell and chin straps consistently. No invented rear view or 360 rotation. Anatomically plausible hands, no extra fingers, no helmet morphing or changing into another model. No scene cuts, montage, text, subtitles, watermark, music, sound effects or narration. Relaxed closed mouth, no talking or lip sync. Do not add a motorcycle face shield or accessory. Keep the full helmet visible throughout.，画质规格：720p",
+  "progress": 100,
+  "account": "213903f25712",
+  "elapsed": 106.2,
+  "url": "http://127.0.0.1:18610/v1/media/b16ea48a20114d3a8fbcc6aa23145688.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/b16ea48a20114d3a8fbcc6aa23145688.mp4"
+  }
+}

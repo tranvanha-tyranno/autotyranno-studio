@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "a0811989d7b1d743e9bb6df6dcd14d47794d444f733b002ec8d3758a89c04398",
+  "samples": "20 frames across full ten seconds",
+  "observed_action": "Free hand rises, briefly settles and makes repeated short natural strokes on blank shell before release. Product remains cradled diagonal in same palm, black window and single loop stay visible, complete body in frame.",
+  "identity": "Canonical cream shirt and partial face remain compatible.",
+  "limitations": "Some fingertips pass near display rim; fine glyphs vary. Precise tilt/pause not numerically measured. Fixed camera direction only approximately followed, slight view shift; source end appears darker, final mask-based correction requires inspection."
+}

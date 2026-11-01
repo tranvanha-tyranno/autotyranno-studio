@@ -1,0 +1,7 @@
+{
+  "http_upstream": "502",
+  "task_id": "task_ca88cc77245048df9ded",
+  "message": "Model returned text only and no video media after provider retries; no automatic retry issued.",
+  "provider": "Muse2API",
+  "status": "failed"
+}

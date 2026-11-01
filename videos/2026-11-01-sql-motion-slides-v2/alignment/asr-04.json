@@ -1,0 +1,452 @@
+[
+  {
+    "word": "Đây",
+    "start": 0.02,
+    "end": 0.54
+  },
+  {
+    "word": "là",
+    "start": 0.54,
+    "end": 0.7
+  },
+  {
+    "word": "lúc",
+    "start": 0.7,
+    "end": 0.94
+  },
+  {
+    "word": "WHERE",
+    "start": 0.94,
+    "end": 1.4
+  },
+  {
+    "word": "Phát",
+    "start": 1.4,
+    "end": 1.72
+  },
+  {
+    "word": "Quy",
+    "start": 1.72,
+    "end": 1.96
+  },
+  {
+    "word": "tác",
+    "start": 1.96,
+    "end": 2.24
+  },
+  {
+    "word": "dụng,",
+    "start": 2.24,
+    "end": 2.56
+  },
+  {
+    "word": "dấu",
+    "start": 3.12,
+    "end": 3.28
+  },
+  {
+    "word": "bằng",
+    "start": 3.28,
+    "end": 3.52
+  },
+  {
+    "word": "dùng",
+    "start": 3.52,
+    "end": 3.84
+  },
+  {
+    "word": "để",
+    "start": 3.84,
+    "end": 4.06
+  },
+  {
+    "word": "xo",
+    "start": 4.06,
+    "end": 4.26
+  },
+  {
+    "word": "xắn",
+    "start": 4.26,
+    "end": 4.5
+  },
+  {
+    "word": "trảnh",
+    "start": 4.5,
+    "end": 4.9
+  },
+  {
+    "word": "thái,",
+    "start": 4.9,
+    "end": 5.22
+  },
+  {
+    "word": "IN,",
+    "start": 5.9,
+    "end": 6.18
+  },
+  {
+    "word": "giúp",
+    "start": 6.84,
+    "end": 7.0
+  },
+  {
+    "word": "kiểm",
+    "start": 7.0,
+    "end": 7.28
+  },
+  {
+    "word": "tra",
+    "start": 7.28,
+    "end": 7.48
+  },
+  {
+    "word": "cần",
+    "start": 7.48,
+    "end": 7.76
+  },
+  {
+    "word": "tiếp",
+    "start": 7.76,
+    "end": 8.0
+  },
+  {
+    "word": "nhận",
+    "start": 8.0,
+    "end": 8.34
+  },
+  {
+    "word": "có",
+    "start": 8.34,
+    "end": 8.54
+  },
+  {
+    "word": "thuộc",
+    "start": 8.54,
+    "end": 8.8
+  },
+  {
+    "word": "danh",
+    "start": 8.8,
+    "end": 9.06
+  },
+  {
+    "word": "sát",
+    "start": 9.06,
+    "end": 9.24
+  },
+  {
+    "word": "app,",
+    "start": 9.24,
+    "end": 9.68
+  },
+  {
+    "word": "hoặc",
+    "start": 10.08,
+    "end": 10.22
+  },
+  {
+    "word": "web",
+    "start": 10.22,
+    "end": 10.6
+  },
+  {
+    "word": "hay",
+    "start": 10.6,
+    "end": 11.0
+  },
+  {
+    "word": "không.",
+    "start": 11.0,
+    "end": 11.28
+  },
+  {
+    "word": "Còn",
+    "start": 12.1,
+    "end": 12.18
+  },
+  {
+    "word": "lớn",
+    "start": 12.18,
+    "end": 12.54
+  },
+  {
+    "word": "hơn",
+    "start": 12.54,
+    "end": 12.82
+  },
+  {
+    "word": "hoặc",
+    "start": 12.82,
+    "end": 13.16
+  },
+  {
+    "word": "bằng",
+    "start": 13.16,
+    "end": 13.36
+  },
+  {
+    "word": "30,",
+    "start": 13.36,
+    "end": 13.78
+  },
+  {
+    "word": "giúp",
+    "start": 14.4,
+    "end": 14.52
+  },
+  {
+    "word": "dữ",
+    "start": 14.52,
+    "end": 14.74
+  },
+  {
+    "word": "lại",
+    "start": 14.74,
+    "end": 15.0
+  },
+  {
+    "word": "những",
+    "start": 15.0,
+    "end": 15.26
+  },
+  {
+    "word": "phiếu",
+    "start": 15.26,
+    "end": 15.76
+  },
+  {
+    "word": "đã",
+    "start": 15.76,
+    "end": 15.9
+  },
+  {
+    "word": "trở",
+    "start": 15.9,
+    "end": 16.16
+  },
+  {
+    "word": "đủ",
+    "start": 16.16,
+    "end": 16.4
+  },
+  {
+    "word": "lâu.",
+    "start": 16.4,
+    "end": 16.74
+  },
+  {
+    "word": "Khi",
+    "start": 17.18,
+    "end": 17.5
+  },
+  {
+    "word": "nối",
+    "start": 17.5,
+    "end": 17.7
+  },
+  {
+    "word": "bằng",
+    "start": 17.7,
+    "end": 17.98
+  },
+  {
+    "word": "AND,",
+    "start": 17.98,
+    "end": 18.32
+  },
+  {
+    "word": "một",
+    "start": 18.98,
+    "end": 19.06
+  },
+  {
+    "word": "phiếu",
+    "start": 19.06,
+    "end": 19.42
+  },
+  {
+    "word": "phải",
+    "start": 19.42,
+    "end": 19.6
+  },
+  {
+    "word": "thoả",
+    "start": 19.6,
+    "end": 19.86
+  },
+  {
+    "word": "mảng",
+    "start": 19.86,
+    "end": 20.14
+  },
+  {
+    "word": "tất",
+    "start": 20.14,
+    "end": 20.44
+  },
+  {
+    "word": "cả",
+    "start": 20.44,
+    "end": 20.7
+  },
+  {
+    "word": "điều",
+    "start": 20.7,
+    "end": 20.96
+  },
+  {
+    "word": "kiện",
+    "start": 20.96,
+    "end": 21.28
+  },
+  {
+    "word": "mới",
+    "start": 21.28,
+    "end": 21.46
+  },
+  {
+    "word": "được",
+    "start": 21.46,
+    "end": 21.6
+  },
+  {
+    "word": "dữ",
+    "start": 21.6,
+    "end": 21.86
+  },
+  {
+    "word": "lại,",
+    "start": 21.86,
+    "end": 22.12
+  },
+  {
+    "word": "IN",
+    "start": 22.82,
+    "end": 23.02
+  },
+  {
+    "word": "ở",
+    "start": 23.02,
+    "end": 23.24
+  },
+  {
+    "word": "đây",
+    "start": 23.24,
+    "end": 23.54
+  },
+  {
+    "word": "tương",
+    "start": 23.54,
+    "end": 24.08
+  },
+  {
+    "word": "đường",
+    "start": 24.08,
+    "end": 24.36
+  },
+  {
+    "word": "hai",
+    "start": 24.36,
+    "end": 24.64
+  },
+  {
+    "word": "điều",
+    "start": 24.64,
+    "end": 24.82
+  },
+  {
+    "word": "kiện,",
+    "start": 24.82,
+    "end": 25.22
+  },
+  {
+    "word": "nối",
+    "start": 25.56,
+    "end": 25.86
+  },
+  {
+    "word": "bằng",
+    "start": 25.86,
+    "end": 26.2
+  },
+  {
+    "word": "OR.",
+    "start": 26.2,
+    "end": 26.58
+  },
+  {
+    "word": "Nếu",
+    "start": 26.58,
+    "end": 27.7
+  },
+  {
+    "word": "kết",
+    "start": 27.7,
+    "end": 27.9
+  },
+  {
+    "word": "hợp",
+    "start": 27.9,
+    "end": 28.22
+  },
+  {
+    "word": "OR",
+    "start": 28.22,
+    "end": 28.62
+  },
+  {
+    "word": "với",
+    "start": 28.62,
+    "end": 29.02
+  },
+  {
+    "word": "AND,",
+    "start": 29.02,
+    "end": 29.6
+  },
+  {
+    "word": "hãy",
+    "start": 30.18,
+    "end": 30.3
+  },
+  {
+    "word": "chú",
+    "start": 30.3,
+    "end": 30.52
+  },
+  {
+    "word": "ý",
+    "start": 30.52,
+    "end": 30.7
+  },
+  {
+    "word": "giống",
+    "start": 30.7,
+    "end": 30.96
+  },
+  {
+    "word": "hoặc",
+    "start": 30.96,
+    "end": 31.28
+  },
+  {
+    "word": "để",
+    "start": 31.28,
+    "end": 31.6
+  },
+  {
+    "word": "trảnh",
+    "start": 31.6,
+    "end": 31.96
+  },
+  {
+    "word": "lọc",
+    "start": 31.96,
+    "end": 32.2
+  },
+  {
+    "word": "xai.",
+    "start": 32.2,
+    "end": 32.48
+  }
+]

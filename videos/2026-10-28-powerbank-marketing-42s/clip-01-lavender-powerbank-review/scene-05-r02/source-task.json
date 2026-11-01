@@ -1,0 +1,24 @@
+{
+  "id": "task_6bdf60b6a1e34749811d",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Create one realistic 10-second vertical 9:16 video, 720x1280. Reference image 1 is the exact opening photograph and composition; reference 2 is the original lavender power bank; reference 3 identifies the SAME fictional adult woman and her tied-back dark ponytail and cream shirt. Do not show reference 2 or 3 as separate images.\nKeep camera framed BELOW THE PERSON'S CHIN for this entire take. No face, head or hair should enter the frame. If any portion becomes visible, it must match the adult woman with TIED-BACK ponytail in reference 3, never loose hair or a newly invented face.\nTARGET LOCK ON THE POWER BANK: keep its complete lavender rounded body, glossy black level window, original subtle white markings and entire lavender loop strap centered with at least 15 percent frame margins throughout. The exact power bank from references 1 and 2 stays in one rigid, fixed three-quarter orientation in the supporting palm. Never move it toward a frame edge or morph it into another model. No rotation, spin, tilt, rear view, new ports or cables.\nAction begins immediately: the free hand makes one natural short open-palm presenting sweep toward the separate phone on the table, then settles on the empty tabletop. Supporting hand and power bank stay steady. Camera makes a small 4 cm lateral slide while tracking and recentering the PRODUCT, never a person. No upward camera tilt, no face-following, no zoom out to reveal the person, no large push-in. Natural gentle breathing, plausible five-finger hands. Phone and power bank remain separate; no connecting or charging demonstration.\nSame café setting, neutral daylight and cream sleeves from opening. Single continuous shot with visible purposeful motion from the first frame, no still slideshow. Preserve original display, do not animate or change values. No new text, overlays, watermark, music, narration or sound effects.",
+  "status": "completed",
+  "created_at": 1793155533,
+  "updated_at": 1793155674,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/e0e560b2b75a4ea5b6d4fedeb4f50ded.mp4",
+    "filename": "e0e560b2b75a4ea5b6d4fedeb4f50ded.mp4",
+    "bytes": 2552289,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的 3 张参考图片生成视频（以第一张作为主要起始画面，其余图片作为主体、场景与风格参考，严禁使用历史图片或其他图像）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：Create one realistic 10-second vertical 9:16 video, 720x1280. Reference image 1 is the exact opening photograph and composition; reference 2 is the original lavender power bank; reference 3 identifies the SAME fictional adult woman and her tied-back dark ponytail and cream shirt. Do not show reference 2 or 3 as separate images.\nKeep camera framed BELOW THE PERSON'S CHIN for this entire take. No face, head or hair should enter the frame. If any portion becomes visible, it must match the adult woman with TIED-BACK ponytail in reference 3, never loose hair or a newly invented face.\nTARGET LOCK ON THE POWER BANK: keep its complete lavender rounded body, glossy black level window, original subtle white markings and entire lavender loop strap centered with at least 15 percent frame margins throughout. The exact power bank from references 1 and 2 stays in one rigid, fixed three-quarter orientation in the supporting palm. Never move it toward a frame edge or morph it into another model. No rotation, spin, tilt, rear view, new ports or cables.\nAction begins immediately: the free hand makes one natural short open-palm presenting sweep toward the separate phone on the table, then settles on the empty tabletop. Supporting hand and power bank stay steady. Camera makes a small 4 cm lateral slide while tracking and recentering the PRODUCT, never a person. No upward camera tilt, no face-following, no zoom out to reveal the person, no large push-in. Natural gentle breathing, plausible five-finger hands. Phone and power bank remain separate; no connecting or charging demonstration.\nSame café setting, neutral daylight and cream sleeves from opening. Single continuous shot with visible purposeful motion from the first frame, no still slideshow. Preserve original display, do not animate or change values. No new text, overlays, watermark, music, narration or sound effects.，画质规格：720p",
+  "progress": 100,
+  "account": "213903f25712",
+  "elapsed": 141.2,
+  "url": "http://127.0.0.1:18610/v1/media/e0e560b2b75a4ea5b6d4fedeb4f50ded.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/e0e560b2b75a4ea5b6d4fedeb4f50ded.mp4"
+  }
+}

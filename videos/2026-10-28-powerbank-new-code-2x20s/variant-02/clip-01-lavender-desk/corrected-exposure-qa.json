@@ -1,0 +1,68 @@
+[
+  {
+    "scene": 1,
+    "source_opening_luma": 140.892,
+    "corrected_final_samples": [
+      {
+        "scene_seconds": 0.1,
+        "mean_luma": 140.653,
+        "opening_ratio": 0.998
+      },
+      {
+        "scene_seconds": 3.3,
+        "mean_luma": 139.766,
+        "opening_ratio": 0.992
+      },
+      {
+        "scene_seconds": 6.5,
+        "mean_luma": 141.846,
+        "opening_ratio": 1.007
+      }
+    ],
+    "limits": "Whole ROI includes composition changes. Product and skin assessed visually in corrected final, not inferred solely from mean luma."
+  },
+  {
+    "scene": 2,
+    "source_opening_luma": 154.269,
+    "corrected_final_samples": [
+      {
+        "scene_seconds": 0.1,
+        "mean_luma": 155.689,
+        "opening_ratio": 1.009
+      },
+      {
+        "scene_seconds": 3.3,
+        "mean_luma": 157.345,
+        "opening_ratio": 1.02
+      },
+      {
+        "scene_seconds": 6.5,
+        "mean_luma": 151.456,
+        "opening_ratio": 0.982
+      }
+    ],
+    "limits": "Whole ROI includes composition changes. Product and skin assessed visually in corrected final, not inferred solely from mean luma."
+  },
+  {
+    "scene": 3,
+    "source_opening_luma": 144.432,
+    "corrected_final_samples": [
+      {
+        "scene_seconds": 0.1,
+        "mean_luma": 145.813,
+        "opening_ratio": 1.01
+      },
+      {
+        "scene_seconds": 3.3,
+        "mean_luma": 145.828,
+        "opening_ratio": 1.01
+      },
+      {
+        "scene_seconds": 6.5,
+        "mean_luma": 147.194,
+        "opening_ratio": 1.019
+      }
+    ],
+    "limits": "Whole ROI includes composition changes. Product and skin assessed visually in corrected final, not inferred solely from mean luma."
+  }
+]

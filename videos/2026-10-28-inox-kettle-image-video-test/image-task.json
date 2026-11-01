@@ -1,0 +1,35 @@
+{
+  "id": "task_0a84dae759744cce9097",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Create one realistic vertical 9:16 product image from the supplied reference. Keep the exact silver stainless-steel 1.8L kettle, black handle and lid, red indicator light, transparent acrylic handled box, adult woman's hand and factory aisle. Preserve every Vietnamese label and all visible product geometry exactly. The box is suspended in the hand, front facing camera, no face or body visible, no extra hands or fingers, no new text, logo or watermark. Neutral white light, sharp product, softly blurred factory background, full box and handle inside frame.",
+  "status": "completed",
+  "created_at": 1793129155,
+  "updated_at": 1793129344,
+  "result": {
+    "filename": "48940989d2194869a52714e83e2cc9e1.webp",
+    "size": 329906,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/48940989d2194869a52714e83e2cc9e1.webp"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传附带的参考图片进行生图/编辑：Create one realistic vertical 9:16 product image from the supplied reference. Keep the exact silver stainless-steel 1.8L kettle, black handle and lid, red indicator light, transparent acrylic handled box, adult woman's hand and factory aisle. Preserve every Vietnamese label and all visible product geometry exactly. The box is suspended in the hand, front facing camera, no face or body visible, no extra hands or fingers, no new text, logo or watermark. Neutral white light, sharp product, softly blurred factory background, full box and handle inside frame.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图，【纯净画面要求】：彻底清除并去除参考图中的所有文字、水印、签名、角标及Logo标记（clean image without any watermark, text, or logo），输出绝对纯净无字画面",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "eb2f8fef87f32b70ff762fc14eaa2cb3cfd720ad169422a1829e6401bee300d4",
+  "image_request_hash": "27f09f3c01baf932de02bbf67b7c4bc38e45a741c5874a4d841a8af24b582e8f",
+  "account": "954362d4330f",
+  "elapsed": 60.7,
+  "url": "http://127.0.0.1:18610/v1/media/48940989d2194869a52714e83e2cc9e1.webp",
+  "created": 1793129345,
+  "data": [
+    {
+      "revised_prompt": "Create one realistic vertical 9:16 product image from the supplied reference. Keep the exact silver stainless-steel 1.8L kettle, black handle and lid, red indicator light, transparent acrylic handled box, adult woman's hand and factory aisle. Preserve every Vietnamese label and all visible product geometry exactly. The box is suspended in the hand, front facing camera, no face or body visible, no extra hands or fingers, no new text, logo or watermark. Neutral white light, sharp product, softly blurred factory background, full box and handle inside frame.",
+      "url": "http://127.0.0.1:18610/v1/media/48940989d2194869a52714e83e2cc9e1.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 329906
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "duration_seconds": 6,
+  "fps": 30,
+  "provider": "Muse2API + ElevenLabs Adam eleven_v3",
+  "source_images": [
+    "codex-clipboard-13b8ac5a-88ef-474d-a22e-b1f51459f3bb.png",
+    "codex-clipboard-60c4dd6f-e070-4bf6-a1c6-7058d413d711.png",
+    "codex-clipboard-bf6674cd-0a5f-4f9e-b029-834f3a8fd341.png"
+  ],
+  "cost_saving": "Use supplied composed images directly; no opening-image generation; exactly one video and one voice request per input.",
+  "profile": "mica-uploaded-images-fast-v1",
+  "presentation_mode": "hands_only",
+  "cache": {
+    "muse": true,
+    "tts": true
+  },
+  "size": "9:16",
+  "product": "Ấm inox cao cấp 1,8 lít",
+  "input_count": 3,
+  "resolution": "720p",
+  "selected_prompts": [
+    11,
+    15,
+    14
+  ]
+}

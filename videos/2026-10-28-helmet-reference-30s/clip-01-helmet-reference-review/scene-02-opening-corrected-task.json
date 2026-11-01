@@ -1,0 +1,35 @@
+{
+  "id": "task_a9e17228bd174444a0c4",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Edit reference image 2 with only this small product-fidelity correction. Keep the identical helmet, hands, sleeves, shop background, framing, light and vents. Restore the original product's small light-colored ROCKRIDER wordmark, precisely as pictured on the diagonal top-left ridge of the helmet in reference image 1. The letters must follow the existing ridge perspective, small and subtle. Do not add any other text, overlay, caption or watermark. Do not redesign any part.",
+  "status": "completed",
+  "created_at": 1793150556,
+  "updated_at": 1793150626,
+  "result": {
+    "filename": "751ab0818bb04edaaf32b5fb9b70c83d.webp",
+    "size": 260714,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/751ab0818bb04edaaf32b5fb9b70c83d.webp"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传附带的参考图片进行生图/编辑：Edit reference image 2 with only this small product-fidelity correction. Keep the identical helmet, hands, sleeves, shop background, framing, light and vents. Restore the original product's small light-colored ROCKRIDER wordmark, precisely as pictured on the diagonal top-left ridge of the helmet in reference image 1. The letters must follow the existing ridge perspective, small and subtle. Do not add any other text, overlay, caption or watermark. Do not redesign any part.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图，【纯净画面要求】：彻底清除并去除参考图中的所有文字、水印、签名、角标及Logo标记（clean image without any watermark, text, or logo），输出绝对纯净无字画面，Resolve the generic clean-image instruction as follows: preserve all original physical product branding on the helmet exactly from reference 1. Remove only added graphic overlays or watermarks. The small factory ROCKRIDER wordmark must remain. This explicit product preservation requirement takes precedence over the generic request to remove logos. There is no ambiguity: retain original product letters, add no new advertising text. Generate the requested photograph now.",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "ea99ef5136a7faded2621e3cb1b99448bad7fa79f49c50d26d97a468fde6e6e3",
+  "image_request_hash": "ba01d96b78bb9eb4058d7dc2d3aefb0e70ede1dcc87d3475e890d83e26e94bfc",
+  "account": "213903f25712",
+  "elapsed": 70.4,
+  "url": "http://127.0.0.1:18610/v1/media/751ab0818bb04edaaf32b5fb9b70c83d.webp",
+  "created": 1793150636,
+  "data": [
+    {
+      "revised_prompt": "Edit reference image 2 with only this small product-fidelity correction. Keep the identical helmet, hands, sleeves, shop background, framing, light and vents. Restore the original product's small light-colored ROCKRIDER wordmark, precisely as pictured on the diagonal top-left ridge of the helmet in reference image 1. The letters must follow the existing ridge perspective, small and subtle. Do not add any other text, overlay, caption or watermark. Do not redesign any part.",
+      "url": "http://127.0.0.1:18610/v1/media/751ab0818bb04edaaf32b5fb9b70c83d.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 260714
+    }
+  ]
+}

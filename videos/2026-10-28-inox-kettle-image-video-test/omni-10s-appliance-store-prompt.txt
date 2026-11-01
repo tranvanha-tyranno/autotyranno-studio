@@ -1,0 +1,15 @@
+Create one realistic 10-second vertical 9:16 product showcase video from the uploaded appliance-store reference image. Use the uploaded image as the exact first frame. Use Omni 1.1 Flash.
+
+Keep the transparent acrylic display box and the stainless-steel 1.8L kettle suspended in the same position. The woman does not walk and the product does not change location. Camera movement only.
+
+0–0.5 seconds: start camera motion immediately.
+0.5–3.5 seconds: make a smooth 10-degree camera arc from front-left toward the front center.
+3.5–7 seconds: continue a small 10–15-degree arc toward the black handle side, showing subtle reflections from the appliance-store lights and shelves.
+7–9 seconds: make a gentle 5% push-in while keeping the full box, silver arch handle, kettle and base visible.
+9–10 seconds: settle into a stable front product view.
+
+Preserve exactly the appliance-store background, neutral lighting, transparent box, adult woman's hand, red nails, silver 1.8L kettle, black handle, black lid, spout, red indicator light and every Vietnamese label. Keep all printed text stable and readable. Do not redraw or replace the words.
+
+Only one adult woman's hand and forearm are visible. No face, head, hair, body, second hand, extra fingers or face reflection. The box remains suspended and never touches a floor, table, shelf or platform.
+
+No walking, no scene change, no background replacement, no 360-degree spin, no box rotation, no flip, no morphing, no warping, no new props, no new text, no subtitles, no logo changes, no watermark, no slideshow, no static hold, no extreme close-up, no music and no sound effects. Add voice-over separately.

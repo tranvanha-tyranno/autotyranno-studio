@@ -1,0 +1,53 @@
+{
+  "profile": "uploaded-image-local-exact-preview",
+  "created_at": "2026-10-27T17:59:15.892331+00:00",
+  "source": "Muse upstream failed with no media; local FFmpeg fallback",
+  "outputs": [
+    {
+      "index": 1,
+      "slug": "inox-factory",
+      "product": "Ấm inox cao cấp 1,8 lít",
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-mica-6refs-fast\\01-inox-factory\\local-preview.mp4",
+      "source": "C:\\Users\\tyranno\\AppData\\Local\\Temp\\codex-clipboard-99a6e628-0aab-47e0-a7ec-ff3a0bc6d319.png"
+    },
+    {
+      "index": 2,
+      "slug": "inox-mall",
+      "product": "Ấm inox cao cấp 1,8 lít",
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-mica-6refs-fast\\02-inox-mall\\local-preview.mp4",
+      "source": "C:\\Users\\tyranno\\AppData\\Local\\Temp\\codex-clipboard-9ead2a26-3559-4eed-802c-a2385c3ecc81.png"
+    },
+    {
+      "index": 3,
+      "slug": "inox-appliance-store",
+      "product": "Ấm inox cao cấp 1,8 lít",
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-mica-6refs-fast\\03-inox-appliance-store\\local-preview.mp4",
+      "source": "C:\\Users\\tyranno\\AppData\\Local\\Temp\\codex-clipboard-aa2c4628-616b-4e0e-aa59-95ba7e664d3d.png"
+    },
+    {
+      "index": 4,
+      "slug": "oral-factory",
+      "product": "Máy tăm nước Oral Irrigator 6886",
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-mica-6refs-fast\\04-oral-factory\\local-preview.mp4",
+      "source": "C:\\Users\\tyranno\\AppData\\Local\\Temp\\codex-clipboard-bdf4abdd-ccfe-469c-a35b-8f61d1aba8bd.png"
+    },
+    {
+      "index": 5,
+      "slug": "oral-mall",
+      "product": "Máy tăm nước Oral Irrigator 6886",
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-mica-6refs-fast\\05-oral-mall\\local-preview.mp4",
+      "source": "C:\\Users\\tyranno\\AppData\\Local\\Temp\\codex-clipboard-bafccd7e-3706-48d2-8344-f3e9277f0f24.png"
+    },
+    {
+      "index": 6,
+      "slug": "oral-appliance-store",
+      "product": "Máy tăm nước Oral Irrigator 6886",
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-mica-6refs-fast\\06-oral-appliance-store\\local-preview.mp4",
+      "source": "C:\\Users\\tyranno\\AppData\\Local\\Temp\\codex-clipboard-eb703e33-ba91-4424-bbac-fd762b22e57d.png"
+    }
+  ],
+  "provider_calls": {
+    "muse_videos": 0,
+    "elevenlabs_tts": 6
+  }
+}

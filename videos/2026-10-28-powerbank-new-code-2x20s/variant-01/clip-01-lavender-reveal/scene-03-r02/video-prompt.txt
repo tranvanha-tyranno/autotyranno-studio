@@ -1,0 +1,4 @@
+生成一段10秒竖屏真实产品演示视频。第一张是唯一的起始构图，第二张只用于锁定产品，第三张只用于锁定同一成年虚构人物。全程同一个镜头，机位固定，保持第一张的亮度和白平衡。
+关键：充电宝始终平放在原来的托举手掌上，保持第一张的斜向构图、尺寸、短胖比例及握持方式。不能竖起来，不能在画面内旋转，不能翻面，不能换手，不能把产品变成长条。黑色显示窗始终在壳体同一端，保持纯黑底及原有白色刻度；短提环只有一个，形状与原图一致。
+动作只有一次：0–1秒，托举手掌连同产品上移1厘米；1–1.5秒自然停稳；1.5–2.5秒仅向镜头微微倾斜3度，仍看见完整正面；2.5–6秒，另一只手的食指和中指真正轻触紫色空白外壳，沿壳面轻抚2厘米一次，手指有真实接触阴影，不遮挡黑窗、不碰按钮、不碰提环；6–7秒抬起抚摸手指，托举手掌恢复原来3度；7–10秒维持原构图，自然轻微呼吸。产品不能滑出托举手掌。脸、衣服、紫色机身及黑窗全程稳定清晰。
+No extra rotation, grip change, camera motion, zoom, cut, fade or dimming. Keep original product, single short loop, shell proportions and black window from FIRST opening frame throughout. Do not animate charging or display numbers. Lips relaxed and closed, no speech or music. No added text, captions, cards, logos or watermark; retain original physical product markings.

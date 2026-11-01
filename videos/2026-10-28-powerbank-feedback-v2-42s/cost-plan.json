@@ -1,0 +1,72 @@
+{
+  "provider_calls_if_run_now": 15,
+  "provider_calls_by_kind": {
+    "tts_calls": 2,
+    "character_image_calls": 1,
+    "opening_image_calls": 6,
+    "video_scene_calls": 6,
+    "optional_llm_calls": 0
+  },
+  "canonical_character_reviewed": false,
+  "saved_tasks_to_resume_or_inspect": 0,
+  "cache_hits": 4,
+  "scenes": [
+    {
+      "clip": 1,
+      "scene": 1,
+      "seconds": 7,
+      "opening_reviewed": false,
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 2,
+      "seconds": 7,
+      "opening_reviewed": false,
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 3,
+      "seconds": 7,
+      "opening_reviewed": false,
+      "tts": "cache_hit",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 4,
+      "seconds": 7,
+      "opening_reviewed": false,
+      "tts": "cache_hit",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 5,
+      "seconds": 7,
+      "opening_reviewed": false,
+      "tts": "cache_hit",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 6,
+      "seconds": 7,
+      "opening_reviewed": false,
+      "tts": "cache_hit",
+      "image": "call",
+      "video": "call"
+    }
+  ],
+  "unknown_dependent_keys": "Future opening/video inputs are conservatively counted as calls until reference bytes exist.",
+  "money": "Counts are provider submissions, not a currency estimate.",
+  "generated_at": "2026-10-28T14:01:20.484560+07:00"
+}

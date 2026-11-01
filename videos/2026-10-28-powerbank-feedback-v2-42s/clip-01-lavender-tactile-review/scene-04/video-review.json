@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "b788ef5aa37e5999571cfa55ec68f7de79f51730099678ace8b2286df401731a",
+  "samples": "20 frames, 0.5s intervals",
+  "observed_action": "Immediate presentation and short settling, modest product reorientation with black front preserved, other hand rises and makes actual shell contact/strokes in middle of shot. Full product and one loop visible.",
+  "identity": "Consistent canonical face and low ponytail on visual samples.",
+  "limitations": "Mouth moves despite b-roll instruction, independent narration is not lip-synced. Exact pause duration and nominal rotation degrees not guaranteed; brief fingers over lower edge. Fine numerals vary. Exposure correction and final comparison pending."
+}

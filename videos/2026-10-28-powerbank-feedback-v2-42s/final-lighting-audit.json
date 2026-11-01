@@ -1,0 +1,95 @@
+{
+  "roi": [
+    0.1,
+    0.1,
+    0.9,
+    0.9
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "roi_luma": {
+        "Opening": 166.34109785563274,
+        "Raw start": 165.02788054968286,
+        "Raw end": 159.262779371791,
+        "Final start": 164.0660487768046,
+        "Final end": 167.64161129568106
+      },
+      "raw_end_opening_ratio": 0.957446965451767,
+      "final_end_opening_ratio": 1.0078183531118512,
+      "final_end_start_ratio": 1.021793433471057,
+      "note": "Fixed ROI averages; visual interpretation needed because framing/hand changes affect values."
+    },
+    {
+      "scene": 2,
+      "roi_luma": {
+        "Opening": 175.17392781636968,
+        "Raw start": 173.81329281183932,
+        "Raw end": 157.87428269405012,
+        "Final start": 172.80485502869223,
+        "Final end": 174.17415433403806
+      },
+      "raw_end_opening_ratio": 0.9012430369178321,
+      "final_end_opening_ratio": 0.9942926810239726,
+      "final_end_start_ratio": 1.007923963161327,
+      "note": "Fixed ROI averages; visual interpretation needed because framing/hand changes affect values."
+    },
+    {
+      "scene": 3,
+      "roi_luma": {
+        "Opening": 157.85483992751435,
+        "Raw start": 154.90382437330112,
+        "Raw end": 164.15395650860768,
+        "Final start": 158.15423965569315,
+        "Final end": 151.5372621564482
+      },
+      "raw_end_opening_ratio": 1.0399044880979629,
+      "final_end_opening_ratio": 0.9599785614811233,
+      "final_end_start_ratio": 0.9581612385880371,
+      "note": "Fixed ROI averages; visual interpretation needed because framing/hand changes affect values."
+    },
+    {
+      "scene": 4,
+      "roi_luma": {
+        "Opening": 170.03363787375415,
+        "Raw start": 168.9651540320145,
+        "Raw end": 171.26587511325883,
+        "Final start": 167.97995318634852,
+        "Final end": 166.88766611295682
+      },
+      "raw_end_opening_ratio": 1.0072470203832231,
+      "final_end_opening_ratio": 0.9814979447588298,
+      "final_end_start_ratio": 0.9934975153125565,
+      "note": "Fixed ROI averages; visual interpretation needed because framing/hand changes affect values."
+    },
+    {
+      "scene": 5,
+      "roi_luma": {
+        "Opening": 170.82782769556025,
+        "Raw start": 169.28099516762308,
+        "Raw end": 171.98429477499246,
+        "Final start": 168.26881984294775,
+        "Final end": 167.42145499848988
+      },
+      "raw_end_opening_ratio": 1.0067697815691552,
+      "final_end_opening_ratio": 0.980059614741803,
+      "final_end_start_ratio": 0.9949642194837478,
+      "note": "Fixed ROI averages; visual interpretation needed because framing/hand changes affect values."
+    },
+    {
+      "scene": 6,
+      "roi_luma": {
+        "Opening": 170.69150181214135,
+        "Raw start": 168.38855330715796,
+        "Raw end": 158.21328526125038,
+        "Final start": 170.99288356991846,
+        "Final end": 172.24311008758684
+      },
+      "raw_end_opening_ratio": 0.9268960878636818,
+      "final_end_opening_ratio": 1.0090901319572028,
+      "final_end_start_ratio": 1.0073115704675344,
+      "note": "Fixed ROI averages; visual interpretation needed because framing/hand changes affect values."
+    }
+  ],
+  "method": "Actual encoded final sampled at local scene 0.04 and 6.9s; original source at 0/9.7s and accepted opening. Grayscale mean of central ROI, not a tracked-product-only metric."
+}

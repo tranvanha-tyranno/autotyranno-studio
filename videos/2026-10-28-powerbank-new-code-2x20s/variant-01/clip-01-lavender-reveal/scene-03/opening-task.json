@@ -1,0 +1,35 @@
+{
+  "id": "task_758524162e784065813f",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Create ONE photorealistic vertical 9:16 product-review opening. REFERENCE 1 is product crop; REFERENCE 2 is canonical adult identity. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: low dark ponytail, oval face, cream long-sleeve blouse. Same face, hair and clothing throughout, normal five-finger hands, relaxed closed lips; separate male voice-over later.\nBright pale-oak electronics review counter, warm-white wall and soft blurred neutral accessory shelves, no signs or readable packaging. Fixed diffuse studio key and fill at 5200K, no visible window, no moving sunlight, same bright lighting in all scenes.\nDistinct medium-close portrait showing same face and upper torso, product on left palm slightly below shoulder level, free right hand beside blank shell. Entire palm-sized product and loop visible in central 65% of frame. Friendly closed-mouth smile.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+  "status": "completed",
+  "created_at": 1793188936,
+  "updated_at": 1793189029,
+  "result": {
+    "filename": "525a228bb8a74795ba1a56063adda005.webp",
+    "size": 247070,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/525a228bb8a74795ba1a56063adda005.webp"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传附带的参考图片进行生图/编辑：Create ONE photorealistic vertical 9:16 product-review opening. REFERENCE 1 is product crop; REFERENCE 2 is canonical adult identity. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: low dark ponytail, oval face, cream long-sleeve blouse. Same face, hair and clothing throughout, normal five-finger hands, relaxed closed lips; separate male voice-over later.\nBright pale-oak electronics review counter, warm-white wall and soft blurred neutral accessory shelves, no signs or readable packaging. Fixed diffuse studio key and fill at 5200K, no visible window, no moving sunlight, same bright lighting in all scenes.\nDistinct medium-close portrait showing same face and upper torso, product on left palm slightly below shoulder level, free right hand beside blank shell. Entire palm-sized product and loop visible in central 65% of frame. Friendly closed-mouth smile.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图，【纯净画面要求】：彻底清除并去除参考图中的所有文字、水印、签名、角标及Logo标记（clean image without any watermark, text, or logo），输出绝对纯净无字画面，【最终执行规则，覆盖上面自动附加的通用“纯净画面要求”】：忽略上文“清除参考图中的所有文字”及“绝对纯净无字”的要求，它们是通用模板，本任务不适用。只去掉后加的字幕、水印、签名和背景广告；必须保留产品本身原有的白色电量数字、刻度、标签及黑色显示窗。本任务已明确选择保留原机标记，不存在待确认的选项。直接生成所要求的照片。 Preserve the original physical product geometry, existing factory lettering, ports, finish and visible display from the product reference. The generic clean-image instruction applies only to added overlays and watermarks, not to original product labels or display markings. Add no invented brand, numbers, charging performance, connectors or extra accessories. Generate the requested photograph; retain original physical details.",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "191f86d1fd665dcf3d428f65fb67366a446d6698106666463a69f5ad7d658c06",
+  "image_request_hash": "6ed0288c02db75ee715d10e8c1ee663704a2fed81e6af0824d34e6774701a2e0",
+  "account": "c9a89b756a88",
+  "elapsed": 93.7,
+  "url": "http://127.0.0.1:18610/v1/media/525a228bb8a74795ba1a56063adda005.webp",
+  "created": 1793189036,
+  "data": [
+    {
+      "revised_prompt": "Create ONE photorealistic vertical 9:16 product-review opening. REFERENCE 1 is product crop; REFERENCE 2 is canonical adult identity. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.\nThe exact fictional adult woman from canonical reference: low dark ponytail, oval face, cream long-sleeve blouse. Same face, hair and clothing throughout, normal five-finger hands, relaxed closed lips; separate male voice-over later.\nBright pale-oak electronics review counter, warm-white wall and soft blurred neutral accessory shelves, no signs or readable packaging. Fixed diffuse studio key and fill at 5200K, no visible window, no moving sunlight, same bright lighting in all scenes.\nDistinct medium-close portrait showing same face and upper torso, product on left palm slightly below shoulder level, free right hand beside blank shell. Entire palm-sized product and loop visible in central 65% of frame. Friendly closed-mouth smile.\nNo added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+      "url": "http://127.0.0.1:18610/v1/media/525a228bb8a74795ba1a56063adda005.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 247070
+    }
+  ]
+}

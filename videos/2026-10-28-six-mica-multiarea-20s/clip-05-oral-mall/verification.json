@@ -1,0 +1,25 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.5,
+  "looped": false,
+  "independent_scenes": 3,
+  "audio_seconds": 16.51,
+  "audio_tempo": 1.0,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": {
+    "method": "agent contact-sheet review",
+    "result": "usable with limitations",
+    "observed": "Mall area changes and suspended case; printed text drifts, bag shape shifts and late scenes darken; incidental signs/people.",
+    "frame_by_frame_text_lock": false,
+    "playback_review": false
+  },
+  "sha256": "bf836d178788b19435caa1aa1be53ced638cb870808102798d6979622fe1304b"
+}

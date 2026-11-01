@@ -1,0 +1,112 @@
+{
+  "attempts": [
+    {
+      "record": "opening-task.json",
+      "id": "task_e2f54baac9eb47a1b744",
+      "status": "completed",
+      "elapsed_seconds": 77.9,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-01-task.json",
+      "id": "task_7244a19baf5947ad92fc",
+      "status": "completed",
+      "elapsed_seconds": 106.2,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-01-v2-task.json",
+      "id": "task_963d1adc2984417e8b0b",
+      "status": "completed",
+      "elapsed_seconds": 116.2,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-02-opening-corrected-task.json",
+      "id": "task_a9e17228bd174444a0c4",
+      "status": "completed",
+      "elapsed_seconds": 70.4,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-02-opening-task.json",
+      "id": "task_7a770fcaa2bd48c3b6d5",
+      "status": "completed",
+      "elapsed_seconds": 124.4,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-02-task.json",
+      "id": "task_57045513bdc84efa9f84",
+      "status": "failed",
+      "elapsed_seconds": 58.4,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-02-v2-task.json",
+      "id": "task_8409f2ad9d4344e992cf",
+      "status": "completed",
+      "elapsed_seconds": 189.8,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-03-opening-task.json",
+      "id": "task_ba67e4f8b16b482480ce",
+      "status": "completed",
+      "elapsed_seconds": 80.3,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-03-task.json",
+      "id": "task_a8c22daaf0f34ae7b939",
+      "status": "completed",
+      "elapsed_seconds": 129.7,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-04-opening-revised-task.json",
+      "id": "task_3b1e58a3b4154e86a7a5",
+      "status": "completed",
+      "elapsed_seconds": 86.5,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-04-opening-task.json",
+      "id": "task_8d56e155d01d49358fe9",
+      "status": "failed",
+      "elapsed_seconds": 49.0,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-04-task.json",
+      "id": "task_96d8201e90e2450291e2",
+      "status": "completed",
+      "elapsed_seconds": 130.3,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-05-opening-task.json",
+      "id": "task_27f644339c7c4a219258",
+      "status": "completed",
+      "elapsed_seconds": 79.8,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-05-task.json",
+      "id": "task_22f9dfd20ca442349b5d",
+      "status": "completed",
+      "elapsed_seconds": 111.2,
+      "cache_hit": false
+    },
+    {
+      "record": "scene-05-v2-task.json",
+      "id": "task_4e20d937803b4fe88e04",
+      "status": "completed",
+      "elapsed_seconds": 129.5,
+      "cache_hit": false
+    }
+  ],
+  "tts_successful_calls": 2,
+  "optional_llm_api_calls": 0,
+  "note": "Attempt counts are not actual monetary billing; includes failed and rejected generations, all retained."
+}

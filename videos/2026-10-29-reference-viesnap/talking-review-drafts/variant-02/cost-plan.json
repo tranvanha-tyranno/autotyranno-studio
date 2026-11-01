@@ -1,0 +1,77 @@
+{
+  "provider_calls_if_run_now": 16,
+  "provider_calls_by_kind": {
+    "tts_calls": 5,
+    "character_image_calls": 1,
+    "opening_image_calls": 5,
+    "video_scene_calls": 5,
+    "optional_llm_calls": 0
+  },
+  "canonical_character_reviewed": false,
+  "saved_tasks_to_resume_or_inspect": 0,
+  "cache_hits": 0,
+  "scenes": [
+    {
+      "clip": 1,
+      "scene": 1,
+      "seconds": 3,
+      "opening_reviewed": false,
+      "lip_sync": "requires_actual_audio_driven_engine_and_review",
+      "lip_sync_provider_cost": "unknown; excluded from Muse/TTS submission counts",
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 2,
+      "seconds": 3,
+      "opening_reviewed": false,
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 3,
+      "seconds": 5,
+      "opening_reviewed": false,
+      "lip_sync": "requires_actual_audio_driven_engine_and_review",
+      "lip_sync_provider_cost": "unknown; excluded from Muse/TTS submission counts",
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 4,
+      "seconds": 4,
+      "opening_reviewed": false,
+      "lip_sync": "requires_actual_audio_driven_engine_and_review",
+      "lip_sync_provider_cost": "unknown; excluded from Muse/TTS submission counts",
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    },
+    {
+      "clip": 1,
+      "scene": 5,
+      "seconds": 5,
+      "opening_reviewed": false,
+      "lip_sync": "requires_actual_audio_driven_engine_and_review",
+      "lip_sync_provider_cost": "unknown; excluded from Muse/TTS submission counts",
+      "tts": "call",
+      "image": "call",
+      "video": "call"
+    }
+  ],
+  "unknown_dependent_keys": "Future opening/video inputs are conservatively counted as calls until reference bytes exist.",
+  "money": "Counts are provider submissions, not a currency estimate.",
+  "generated_at": "2026-10-29T06:39:27.241574+07:00",
+  "lip_sync": {
+    "required_scenes": 4,
+    "engine_status": "external_audio_driven_engine_not_connected",
+    "additional_calls_and_cost": "unknown; excluded from provider_calls_if_run_now",
+    "ready_to_deliver": false
+  }
+}

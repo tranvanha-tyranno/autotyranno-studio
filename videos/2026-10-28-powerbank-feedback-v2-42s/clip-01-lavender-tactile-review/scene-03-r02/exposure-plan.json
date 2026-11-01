@@ -1,0 +1,106 @@
+{
+  "roi": [
+    0.1,
+    0.1,
+    0.9,
+    0.9
+  ],
+  "target_opening_luma": 157.6621,
+  "method": "Opening-reference ROI mean; three-point smoothing and interpolated bounded Y-luma offsets. Composition affects the metric; visual review is mandatory.",
+  "enabled": true,
+  "max_brightness": 0.07,
+  "points": [
+    {
+      "source_seconds": 0,
+      "output_seconds": 0.0,
+      "mean_luma": 154.7447,
+      "smoothed_luma": 154.7447,
+      "brightness": 0.013321779,
+      "bounded": false
+    },
+    {
+      "source_seconds": 1,
+      "output_seconds": 0.7142857142857143,
+      "mean_luma": 156.2436,
+      "smoothed_luma": 155.7725,
+      "brightness": 0.008628537,
+      "bounded": false
+    },
+    {
+      "source_seconds": 2,
+      "output_seconds": 1.4285714285714286,
+      "mean_luma": 156.3292,
+      "smoothed_luma": 155.1493,
+      "brightness": 0.011474314,
+      "bounded": false
+    },
+    {
+      "source_seconds": 3,
+      "output_seconds": 2.142857142857143,
+      "mean_luma": 152.875,
+      "smoothed_luma": 155.0249,
+      "brightness": 0.012042196,
+      "bounded": false
+    },
+    {
+      "source_seconds": 4,
+      "output_seconds": 2.857142857142857,
+      "mean_luma": 155.8705,
+      "smoothed_luma": 157.7387,
+      "brightness": -0.000349708,
+      "bounded": false
+    },
+    {
+      "source_seconds": 5,
+      "output_seconds": 3.5714285714285716,
+      "mean_luma": 164.4707,
+      "smoothed_luma": 161.8489,
+      "brightness": -0.019117403,
+      "bounded": false
+    },
+    {
+      "source_seconds": 6,
+      "output_seconds": 4.285714285714286,
+      "mean_luma": 165.2054,
+      "smoothed_luma": 163.8323,
+      "brightness": -0.028174311,
+      "bounded": false
+    },
+    {
+      "source_seconds": 7,
+      "output_seconds": 5.0,
+      "mean_luma": 161.8209,
+      "smoothed_luma": 164.0221,
+      "brightness": -0.029040895,
+      "bounded": false
+    },
+    {
+      "source_seconds": 8,
+      "output_seconds": 5.714285714285714,
+      "mean_luma": 165.04,
+      "smoothed_luma": 163.1242,
+      "brightness": -0.024940877,
+      "bounded": false
+    },
+    {
+      "source_seconds": 9,
+      "output_seconds": 6.428571428571429,
+      "mean_luma": 162.5117,
+      "smoothed_luma": 164.1756,
+      "brightness": -0.029741727,
+      "bounded": false
+    },
+    {
+      "source_seconds": 9.76,
+      "output_seconds": 6.9714285714285715,
+      "mean_luma": 164.9751,
+      "smoothed_luma": 164.9751,
+      "brightness": -0.033392341,
+      "bounded": false
+    }
+  ],
+  "end_to_opening_ratio": 1.046383503036921,
+  "end_to_start_ratio": 1.0661114324398575,
+  "needs_attention": false,
+  "ffmpeg_filter": "eq=brightness='if(lt(t,0.714285714),(0.013321779+(-0.004693242)*(t-0.000000000)/0.714285714),if(lt(t,1.428571429),(0.008628537+(0.002845777)*(t-0.714285714)/0.714285714),if(lt(t,2.142857143),(0.011474314+(0.000567882)*(t-1.428571429)/0.714285714),if(lt(t,2.857142857),(0.012042196+(-0.012391904)*(t-2.142857143)/0.714285714),if(lt(t,3.571428571),(-0.000349708+(-0.018767695)*(t-2.857142857)/0.714285714),if(lt(t,4.285714286),(-0.019117403+(-0.009056908)*(t-3.571428571)/0.714285714),if(lt(t,5.000000000),(-0.028174311+(-0.000866584)*(t-4.285714286)/0.714285714),if(lt(t,5.714285714),(-0.029040895+(0.004100018)*(t-5.000000000)/0.714285714),if(lt(t,6.428571429),(-0.024940877+(-0.004800850)*(t-5.714285714)/0.714285714),if(lt(t,6.971428571),(-0.029741727+(-0.003650614)*(t-6.428571429)/0.542857143),-0.033392341))))))))))':eval=frame"
+}

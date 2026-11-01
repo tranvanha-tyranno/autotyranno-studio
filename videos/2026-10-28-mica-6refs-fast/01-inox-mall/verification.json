@@ -1,0 +1,13 @@
+{
+  "index": 0,
+  "slug": "inox-mall-duplicate-attempt",
+  "product": "Ấm inox cao cấp 1,8 lít",
+  "seconds": 6.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "visual_method": "exact supplied still + local FFmpeg zoompan/pan",
+  "voice": "Adam eleven_v3",
+  "decode": "passed",
+  "muse_media": "failed: upstream 502; no retry issued",
+  "canonical_output": "../02-inox-mall/final.mp4"
+}

@@ -1,0 +1,1 @@
+Deterministic 9:16 crop of previously generated canonical scene opening; left=4% of width, top=36% of height, preserve aspect ratio to bottom. Product and full loop retained, no invented pixels. Source: videos\2026-10-28-powerbank-new-code-2x20s\variant-02\clip-01-lavender-desk\scene-03

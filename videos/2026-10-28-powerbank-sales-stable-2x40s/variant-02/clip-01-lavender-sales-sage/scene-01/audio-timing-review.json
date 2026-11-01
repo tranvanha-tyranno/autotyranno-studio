@@ -1,0 +1,44 @@
+{
+  "scene": 1,
+  "voice_sha256": "ebee229cd9c35bce37befcf36cf5602cb4a017924a3003bda2ad760060a96f41",
+  "original_seconds": 7.08,
+  "detected_quiet_ranges": [
+    [
+      1.770816,
+      2.46644
+    ],
+    [
+      4.982358,
+      5.370522
+    ]
+  ],
+  "noise_threshold_db": -40,
+  "retained_boundary_guard_seconds": 0.12,
+  "removed_quiet_interiors": [
+    [
+      1.890816,
+      2.34644
+    ],
+    [
+      5.102358,
+      5.250522
+    ]
+  ],
+  "speech_preserving_segments": [
+    [
+      0.0,
+      1.890816
+    ],
+    [
+      2.34644,
+      5.102358
+    ],
+    [
+      5.250522,
+      7.08
+    ]
+  ],
+  "used_seconds": 6.476212,
+  "render_tempo": 1.0,
+  "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+}

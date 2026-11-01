@@ -1,0 +1,25 @@
+{
+  "samples": [
+    {
+      "frame": "Opening",
+      "roi_luma": 166.34109785563274
+    },
+    {
+      "frame": "Raw 0s",
+      "roi_luma": 165.02788054968286
+    },
+    {
+      "frame": "Raw 9.7s",
+      "roi_luma": 159.262779371791
+    },
+    {
+      "frame": "Fixed 0s",
+      "roi_luma": 163.89285714285714
+    },
+    {
+      "frame": "Fixed 6.9s",
+      "roi_luma": 167.63608048927816
+    }
+  ],
+  "note": "Same fixed ROI used for opening/raw/corrected frames; composition still affects this average. No text overlay applied to actual preview; comparison labels are QA only."
+}

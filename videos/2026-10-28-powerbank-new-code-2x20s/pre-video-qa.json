@@ -1,0 +1,70 @@
+[
+  {
+    "variant": "variant-01",
+    "all_openings_inspected": true,
+    "all_narrations_available": true,
+    "scenes": [
+      {
+        "scene": 1,
+        "revision": 2,
+        "opening_hash": "b7120906469d2cc86400b8673f2e59b3c763e226a28c4b07298a67e78493fa6d",
+        "opening_review": "Inspected full opening: same ponytail/cream-shirt adult portrait; lavender body, one loop and black level window visible; both hands plausible and free fingertips ready for contact. No added text. Neutral pale counter/shelves generated rather than a specific electronics shop; suitable review setting.",
+        "narration_sha256": "7979c8746590eaf213dc77bfa274d29a204806d816021348f01fa9578b4af536",
+        "seconds": 6.666666666666667,
+        "source_seconds_required": 10.0
+      },
+      {
+        "scene": 2,
+        "revision": 1,
+        "opening_hash": "175d9229407f5697434dd77c6b8f3b0e56d16ec951a4543e8dbdf3d3e1e66020",
+        "opening_review": "Inspected: same adult identity/cream blouse, gaze down; lavender product and one strap fully within frame, black window unobstructed, other hand ready to stroke shell, no added text. Provider includes face despite requested below-chin close crop; identity remains consistent and product clear.",
+        "narration_sha256": "6e3fa83f8b475d703f3f60093d3b446d41d384d8fab3af84abb7eed970d25c53",
+        "seconds": 6.666666666666667,
+        "source_seconds_required": 10.0
+      },
+      {
+        "scene": 3,
+        "revision": 2,
+        "opening_hash": "d376d441ed4fa8a9084b07eba2d80d9a14d23241f483afc8e1ab3ead761c84d8",
+        "opening_review": "Corrected image inspected: squat lavender body lies flat at original diagonal with black window lower-right and single loop upper-right. Consistent canonical face/cream blouse, entire product in frame, no added text. Other hand starts on tabletop and must rise for actual shell contact.",
+        "narration_sha256": "b384426cd42e970d97b38f307b67ab84085c00681dc2e050c9fbf8e3c17052c9",
+        "seconds": 6.666666666666667,
+        "source_seconds_required": 10.0
+      }
+    ]
+  },
+  {
+    "variant": "variant-02",
+    "all_openings_inspected": true,
+    "all_narrations_available": true,
+    "scenes": [
+      {
+        "scene": 1,
+        "revision": 2,
+        "opening_hash": "d103d4656a4ab55b2a756993a0640cd1d3671f00d3b4f68e5599fcddc7da71fd",
+        "opening_review": "Revised image inspected: original squat diagonal lavender body, black window lower-right, single short loop and full body visible. Canonical bob/sage-shirt adult, no added text. Other hand clear and ready to touch.",
+        "narration_sha256": "2e3bab64087fce5b69ee896001cc20ffaf1a28cb421a9243ca912400e9eca9fb",
+        "seconds": 6.666666666666667,
+        "source_seconds_required": 10.0
+      },
+      {
+        "scene": 2,
+        "revision": 1,
+        "opening_hash": "7ef2fec932d556d91318729b14380b79b96d59966fb62b95a530bcf550b1d357",
+        "opening_review": "Inspected closer original diagonal product pose; squat lavender shell, black lower-right window and single original loop all visible. Same bob/sage-shirt adult identity. No added text. Free hand starts near loop; video must move fingertips onto blank shell, not merely point.",
+        "narration_sha256": "bca7cb3f43c935a7f51e6eaa0fceca0bc1a3259b63644fa33a71d06d3bd79a1d",
+        "seconds": 6.666666666666667,
+        "source_seconds_required": 10.0
+      },
+      {
+        "scene": 3,
+        "revision": 1,
+        "opening_hash": "e37bdde80d3e1939c786e0cb51a5578074fdc10856a9dc840400290deba77273",
+        "opening_review": "Inspected original diagonal squat lavender shell with black lower-right window and one short loop; entire product in frame, same canonical bob/sage-shirt adult; bright neutral light, no added text. Free hand starts low and must rise to contact shell.",
+        "narration_sha256": "485479d1b2391402a5cb17826b55fb22df43e739b6654d79c590e711963138f1",
+        "seconds": 6.666666666666667,
+        "source_seconds_required": 10.0
+      }
+    ]
+  }
+]

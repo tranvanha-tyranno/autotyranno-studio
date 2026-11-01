@@ -1,0 +1,1 @@
+Sau WHERE, chúng ta còn bảy phiếu hợp lệ. Nhưng chưa chắc phiếu chờ lâu nhất đang đứng đầu. ORDER BY wait_min DESC sẽ sắp xếp số phút chờ từ cao xuống thấp. Nếu hai phiếu có cùng thời gian chờ, ta thêm id DESC làm tiêu chí phụ để xác định thứ tự rõ ràng.

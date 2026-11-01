@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "867fb0b317db8cc72fdc5e41ba3b91b5ded442729792052149e85b9ff9047545",
+  "samples": "20 frames at 0.5s spacing",
+  "observed_action": "Immediate free-finger motion, short settling, small depth tilt with diagonal body retained; other hand visibly contacts and strokes blank shell before release. Product/window/one loop all in frame and black window remains black.",
+  "identity": "Bob haircut and sage shirt stay compatible with canonical portrait; lower face appears.",
+  "limitations": "Fine display glyphs change; nominal 3-degree tilt/pause not measured numerically, slight mouth movement late and slight reframing. No added text. Corrected exposure requires final review."
+}

@@ -1,0 +1,1 @@
+Trung tâm hỗ trợ nhận hàng loạt yêu cầu mỗi ngày. Nhiệm vụ của chúng ta là tìm các phiếu đang mở, gửi từ App hoặc Web, và đã chờ ít nhất 30 phút. Những người chờ lâu hơn cần được ưu tiên, mỗi trang hiển thị ba phiếu.

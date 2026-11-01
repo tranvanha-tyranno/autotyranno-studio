@@ -1,0 +1,1 @@
+Muse upstream returned a 502/text-only error. This final keeps the supplied image exact and uses local FFmpeg camera push/pan; it does not physically animate the hand or kettle.

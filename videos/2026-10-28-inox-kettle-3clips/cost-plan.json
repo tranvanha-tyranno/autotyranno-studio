@@ -1,0 +1,32 @@
+{
+  "batch": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-inox-kettle-3clips",
+  "provider_calls_by_kind": {
+    "optional_llm": 0,
+    "elevenlabs_tts": 3,
+    "muse_videos": 3,
+    "opening_images": 0
+  },
+  "selected_video_seconds": 18,
+  "local_steps": [
+    "copy supplied images",
+    "write three prompts",
+    "encode three 6-second finals",
+    "decode and contact-sheet QA"
+  ],
+  "profile": "mica-uploaded-images-fast-v1",
+  "note": "Plan created before provider calls. No opening-image calls because the three supplied images are already composed references.",
+  "cache_hits": {
+    "muse_videos": 0,
+    "elevenlabs_tts": 0
+  },
+  "provider_calls_if_run_now": 6,
+  "selected_video_count": 3,
+  "actual_after_run": {
+    "muse_video_attempts": 1,
+    "muse_video_failures": 1,
+    "elevenlabs_tts_calls": 3,
+    "opening_image_calls": 0,
+    "optional_llm_calls": 0,
+    "local_fallback_videos": 3
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "scene": 1,
+    "source_opening_luma": 162.797,
+    "corrected_final_samples": [
+      {
+        "scene_seconds": 0.1,
+        "mean_luma": 162.549,
+        "opening_ratio": 0.998
+      },
+      {
+        "scene_seconds": 3.3,
+        "mean_luma": 160.414,
+        "opening_ratio": 0.985
+      },
+      {
+        "scene_seconds": 6.5,
+        "mean_luma": 161.128,
+        "opening_ratio": 0.99
+      }
+    ],
+    "limits": "ROI mean includes changed composition; visual product/skin review remains authoritative."
+  },
+  {
+    "scene": 2,
+    "source_opening_luma": 175.04,
+    "corrected_final_samples": [
+      {
+        "scene_seconds": 0.1,
+        "mean_luma": 175.798,
+        "opening_ratio": 1.004
+      },
+      {
+        "scene_seconds": 3.3,
+        "mean_luma": 175.17,
+        "opening_ratio": 1.001
+      },
+      {
+        "scene_seconds": 6.5,
+        "mean_luma": 174.542,
+        "opening_ratio": 0.997
+      }
+    ],
+    "limits": "ROI mean includes changed composition; visual product/skin review remains authoritative."
+  },
+  {
+    "scene": 3,
+    "source_opening_luma": 157.662,
+    "corrected_final_samples": [
+      {
+        "scene_seconds": 0.1,
+        "mean_luma": 158.843,
+        "opening_ratio": 1.007
+      },
+      {
+        "scene_seconds": 3.3,
+        "mean_luma": 163.94,
+        "opening_ratio": 1.04
+      },
+      {
+        "scene_seconds": 6.5,
+        "mean_luma": 165.547,
+        "opening_ratio": 1.05
+      }
+    ],
+    "limits": "ROI mean includes changed composition; visual product/skin review remains authoritative."
+  }
+]

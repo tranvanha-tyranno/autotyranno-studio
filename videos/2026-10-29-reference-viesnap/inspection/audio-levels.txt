@@ -1,0 +1,42 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\tyranno\Documents\Project\AffilateAutoTyranno\videos\2026-10-29-reference-viesnap\input\reference.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    aigc_info       : {"aigc_label_type":0}
+    comment         : vid:v1c044g50000db1skpnog65otge5pacg
+    vid_md5         : 63a20fcf5963013656e6207ac586c939
+    encoder         : Lavf58.76.100
+  Duration: 00:00:21.15, start: 0.000000, bitrate: 1273 kb/s
+  Stream #0:0[0x1](und): Audio: aac (HE-AACv2) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 32 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 576x1024 [SAR 1:1 DAR 9:16], 1235 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+[Parsed_volumedetect_0 @ 0000011b8835f2c0] n_samples: 0
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    aigc_info       : {"aigc_label_type":0}
+    comment         : vid:v1c044g50000db1skpnog65otge5pacg
+    vid_md5         : 63a20fcf5963013656e6207ac586c939
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 pcm_s16le
+[Parsed_volumedetect_0 @ 0000011b8859e900] n_samples: 1865852
+[Parsed_volumedetect_0 @ 0000011b8859e900] mean_volume: -9.8 dB
+[Parsed_volumedetect_0 @ 0000011b8859e900] max_volume: 0.0 dB
+[Parsed_volumedetect_0 @ 0000011b8859e900] histogram_0db: 16557
+[out#0/null @ 0000011b8835e040] video:0KiB audio:3644KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:21.15 bitrate=N/A speed= 341x    

@@ -1,0 +1,97 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "independent_scenes": 3,
+  "looped": false,
+  "slowed_to_fill": false,
+  "full_scene_dialogue_preserved": true,
+  "scene_timings": [
+    {
+      "scene": 1,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 6.77,
+      "audio_tempo": 1.0247225025227042,
+      "audio_segments": [
+        [
+          0,
+          6.77
+        ]
+      ],
+      "used_audio_seconds": 6.77
+    },
+    {
+      "scene": 2,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 5.72,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          5.72
+        ]
+      ],
+      "used_audio_seconds": 5.72
+    },
+    {
+      "scene": 3,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 5.33,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          5.33
+        ]
+      ],
+      "used_audio_seconds": 5.33
+    }
+  ],
+  "decode_check": "passed",
+  "audio_levels_db": {
+    "mean_volume": -17.1,
+    "max_volume": -1.5
+  },
+  "black_or_freeze_alerts": [],
+  "visual_qa": "accepted_with_limitations after source action sheets, corrected full-duration contact sheet, exposure comparison and last-frame review",
+  "text_overlays": false,
+  "exposure_reports": [
+    {
+      "scene": 1,
+      "report": "clip-01-lavender-desk\\scene-01-r03\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9501489918493136,
+      "needs_attention": false
+    },
+    {
+      "scene": 2,
+      "report": "clip-01-lavender-desk\\scene-02-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 0.8532864920390344,
+      "needs_attention": true
+    },
+    {
+      "scene": 3,
+      "report": "clip-01-lavender-desk\\scene-03-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 0.8808773613970698,
+      "needs_attention": true
+    }
+  ],
+  "sha256": "cfe0d909597dddfff21925891c289ee2c2cfe46e92d340a5d8dc5d13a3ef1f43",
+  "visual_qa_notes": [
+    "All three independently generated ten-second sources included; no repeats or rejected source.",
+    "Full body and one loop visible; diagonal pose retained with slight depth movement. Real shell touch/stroke in all scenes.",
+    "Corrected source 2 evaluated against opening/raw/processed comparison: product purple and skin remain bright without washing out black window. Camera widens despite prompt; composition changes affect whole-ROI mean.",
+    "No added text. Fine display glyphs vary, fingers briefly cross window rim near end, exact tilt/pause not numerically established. Slight mouth motion is independent of male narration."
+  ]
+}

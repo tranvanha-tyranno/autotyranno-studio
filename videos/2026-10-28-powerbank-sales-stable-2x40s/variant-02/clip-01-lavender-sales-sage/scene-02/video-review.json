@@ -1,0 +1,7 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "06968888375aabbb105a8a62a8a094acaf903b38a8d908836b9b3874a20b59d5",
+  "samples": "20 frames at half-second spacing across full source",
+  "observed_action": "Secure diagonal original product on supporting palm, small wrist tilt, free hand rises from beside phone and actually strokes blank shell then releases. Entire product and single loop remain in frame; black window stays black. Separate phone/tote context static, no connection or invented charging action.",
+  "limitations": "Early first 1–2 seconds have only small natural hand movement before free-hand lift. Fine display glyphs vary, precise nominal tilt unmeasured. No added text, bright stable source; final grade still to inspect."
+}

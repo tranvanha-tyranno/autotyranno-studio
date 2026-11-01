@@ -1,0 +1,24 @@
+{
+  "id": "task_fb19871186274a2eb160",
+  "object": "task",
+  "kind": "video",
+  "prompt": "A single realistic ten-second vertical 9:16 product close-up using image 1 as the exact starting composition. Image 2 locks product; image 3 locks fictional adult identity. EXACTLY TWO HANDS TOTAL throughout: the existing supporting hand cradles the lavender power bank; the OTHER existing hand starts resting flat on the desk at screen right. At 0s the desk hand lifts from the desk and follows one continuous visible path up to the product. The desk position is then EMPTY. No third hand enters from left, no duplicate resting hand, no extra arms. At 1–1.5s settle naturally; at 2–5s that SAME lifted hand touches blank lavender shell with two fingers and makes one short stroke; at 5–7s lift fingers away; at 7–10s return that SAME hand to the desk. Supporting hand keeps same grip and original diagonal pose, only tiny depth tilt. Black window remains lower-right, one short loop upper-right. Keep squat shell and black window with original markings. Whole product and strap always in frame. Locked camera, no widening, no face-following, no cuts, constant neutral bright soft light, no dimming. No speech, music, captions, added text, watermark, cables, charging effects or extra ports. Generate the continuous shot. The separate phone and tote stay stationary, unconnected in the background.\nEXPOSURE CONTINUITY: identical bright diffuse studio illumination from the first to the last frame, locked camera exposure and white balance, no auto exposure ramp, no fade, vignette, dramatic grading, dimming or moving shadows. Preserve the opening photograph's product/skin brightness and colors. Camera motion must not cause the face, clothes or product to gradually darken.",
+  "status": "completed",
+  "created_at": 1793207486,
+  "updated_at": 1793207638,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/2dbf4122791e4d4e903420a70ea7becd.mp4",
+    "filename": "2dbf4122791e4d4e903420a70ea7becd.mp4",
+    "bytes": 2263866,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的 3 张参考图片生成视频（以第一张作为主要起始画面，其余图片作为主体、场景与风格参考，严禁使用历史图片或其他图像）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：A single realistic ten-second vertical 9:16 product close-up using image 1 as the exact starting composition. Image 2 locks product; image 3 locks fictional adult identity. EXACTLY TWO HANDS TOTAL throughout: the existing supporting hand cradles the lavender power bank; the OTHER existing hand starts resting flat on the desk at screen right. At 0s the desk hand lifts from the desk and follows one continuous visible path up to the product. The desk position is then EMPTY. No third hand enters from left, no duplicate resting hand, no extra arms. At 1–1.5s settle naturally; at 2–5s that SAME lifted hand touches blank lavender shell with two fingers and makes one short stroke; at 5–7s lift fingers away; at 7–10s return that SAME hand to the desk. Supporting hand keeps same grip and original diagonal pose, only tiny depth tilt. Black window remains lower-right, one short loop upper-right. Keep squat shell and black window with original markings. Whole product and strap always in frame. Locked camera, no widening, no face-following, no cuts, constant neutral bright soft light, no dimming. No speech, music, captions, added text, watermark, cables, charging effects or extra ports. Generate the continuous shot. The separate phone and tote stay stationary, unconnected in the background.\nEXPOSURE CONTINUITY: identical bright diffuse studio illumination from the first to the last frame, locked camera exposure and white balance, no auto exposure ramp, no fade, vignette, dramatic grading, dimming or moving shadows. Preserve the opening photograph's product/skin brightness and colors. Camera motion must not cause the face, clothes or product to gradually darken.，画质规格：720p",
+  "progress": 100,
+  "account": "213903f25712",
+  "elapsed": 151.7,
+  "url": "http://127.0.0.1:18610/v1/media/2dbf4122791e4d4e903420a70ea7becd.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/2dbf4122791e4d4e903420a70ea7becd.mp4"
+  }
+}

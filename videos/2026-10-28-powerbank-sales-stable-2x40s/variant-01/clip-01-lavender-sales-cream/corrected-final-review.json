@@ -1,0 +1,224 @@
+{
+  "final_sha256": "38646cb93921da345325fadafe21569c8d5de45cc3645d2bc13e2494fa6d7eb8",
+  "distinct_sources": 6,
+  "visual_review": "accepted_with_limitations after agent inspection of corrected full-scene comparison and enlarged source details",
+  "comparison": "opening-raw-final-comparison.jpg",
+  "scenes": [
+    {
+      "scene": 1,
+      "role": "Immediate concrete reveal",
+      "offset_seconds": 0.0,
+      "duration_seconds": 6.666666666666667,
+      "visual_speed": 1.5,
+      "source_seconds_used": [
+        0,
+        10.0
+      ],
+      "source_sha256": "5628b1b49c2c66952e78f6fe557c9a4d66313234e2d6d5f8ddb6fd5746eddbef",
+      "review_result": "accepted_with_limitations",
+      "enlarged_source_detail_sheet": "clip-01-lavender-sales-cream\\scene-01\\source-detail-review.jpg",
+      "source_detail_times": [
+        2.5,
+        5.0,
+        7.5
+      ],
+      "reference_opening_luma": 162.73773871527777,
+      "raw_selected_end_opening_ratio": 0.9622602415936622,
+      "corrected_samples": [
+        {
+          "scene_seconds": 0.1,
+          "opening_luma_ratio": 0.9977375180941878
+        },
+        {
+          "scene_seconds": 3.3333333333333335,
+          "opening_luma_ratio": 0.9834998676482257
+        },
+        {
+          "scene_seconds": 6.516666666666667,
+          "opening_luma_ratio": 0.9880014948749526
+        }
+      ],
+      "limitations": "ROI includes skin, product and background. Composition changes affect mean; inspect product/skin/black window in the actual comparison before acceptance."
+    },
+    {
+      "scene": 2,
+      "role": "Buyer situation: portable power away from a wall outlet",
+      "offset_seconds": 6.666666666666667,
+      "duration_seconds": 6.666666666666667,
+      "visual_speed": 1.5,
+      "source_seconds_used": [
+        0,
+        10.0
+      ],
+      "source_sha256": "6c6a0014e1fbbff2836f56f1ac629900ec904e8f93db15d519ee12bf2723c9fe",
+      "review_result": "accepted_with_limitations",
+      "enlarged_source_detail_sheet": "clip-01-lavender-sales-cream\\scene-02-r02\\source-detail-review.jpg",
+      "source_detail_times": [
+        2.5,
+        5.0,
+        7.5
+      ],
+      "reference_opening_luma": 167.10072157118054,
+      "raw_selected_end_opening_ratio": 0.9796238669441776,
+      "corrected_samples": [
+        {
+          "scene_seconds": 0.1,
+          "opening_luma_ratio": 1.0016084412973312
+        },
+        {
+          "scene_seconds": 3.3333333333333335,
+          "opening_luma_ratio": 1.0086198037954865
+        },
+        {
+          "scene_seconds": 6.516666666666667,
+          "opening_luma_ratio": 0.9931550335787284
+        }
+      ],
+      "limitations": "ROI includes skin, product and background. Composition changes affect mean; inspect product/skin/black window in the actual comparison before acceptance."
+    },
+    {
+      "scene": 3,
+      "role": "Visible design and coordinated accessories",
+      "offset_seconds": 13.333333333333334,
+      "duration_seconds": 6.666666666666667,
+      "visual_speed": 1.5,
+      "source_seconds_used": [
+        0,
+        10.0
+      ],
+      "source_sha256": "3b2558bf031e7e2d66b98d110caa125b18d6022a5bc1294e928956965ea3806d",
+      "review_result": "accepted_with_limitations",
+      "enlarged_source_detail_sheet": "clip-01-lavender-sales-cream\\scene-03\\source-detail-review.jpg",
+      "source_detail_times": [
+        2.5,
+        5.0,
+        7.5
+      ],
+      "reference_opening_luma": 175.11968315972223,
+      "raw_selected_end_opening_ratio": 0.9034320835886667,
+      "corrected_samples": [
+        {
+          "scene_seconds": 0.1,
+          "opening_luma_ratio": 0.9866158313108037
+        },
+        {
+          "scene_seconds": 3.3333333333333335,
+          "opening_luma_ratio": 0.9998824278782553
+        },
+        {
+          "scene_seconds": 6.516666666666667,
+          "opening_luma_ratio": 0.9906894962088799
+        }
+      ],
+      "limitations": "ROI includes skin, product and background. Composition changes affect mean; inspect product/skin/black window in the actual comparison before acceptance."
+    },
+    {
+      "scene": 4,
+      "role": "Front level window: check before leaving",
+      "offset_seconds": 20.0,
+      "duration_seconds": 6.666666666666667,
+      "visual_speed": 1.5,
+      "source_seconds_used": [
+        0,
+        10.0
+      ],
+      "source_sha256": "a0811989d7b1d743e9bb6df6dcd14d47794d444f733b002ec8d3758a89c04398",
+      "review_result": "accepted_with_limitations",
+      "enlarged_source_detail_sheet": "clip-01-lavender-sales-cream\\scene-04-r03\\source-detail-review.jpg",
+      "source_detail_times": [
+        2.5,
+        5.0,
+        7.5
+      ],
+      "reference_opening_luma": 172.58208550347223,
+      "raw_selected_end_opening_ratio": 0.9493444425128567,
+      "corrected_samples": [
+        {
+          "scene_seconds": 0.1,
+          "opening_luma_ratio": 1.0043551890219309
+        },
+        {
+          "scene_seconds": 3.3333333333333335,
+          "opening_luma_ratio": 1.0107452516210929
+        },
+        {
+          "scene_seconds": 6.516666666666667,
+          "opening_luma_ratio": 0.996287212361519
+        }
+      ],
+      "limitations": "ROI includes skin, product and background. Composition changes affect mean; inspect product/skin/black window in the actual comparison before acceptance."
+    },
+    {
+      "scene": 5,
+      "role": "Right variant and phone compatibility",
+      "offset_seconds": 26.666666666666668,
+      "duration_seconds": 6.666666666666667,
+      "visual_speed": 1.5,
+      "source_seconds_used": [
+        0,
+        10.0
+      ],
+      "source_sha256": "d70778f9619d510fbe754cf13600d2a52e621a530b573f275598c12b87965290",
+      "review_result": "accepted_with_limitations",
+      "enlarged_source_detail_sheet": "clip-01-lavender-sales-cream\\scene-05\\source-detail-review.jpg",
+      "source_detail_times": [
+        2.5,
+        5.0,
+        7.5
+      ],
+      "reference_opening_luma": 157.76969401041666,
+      "raw_selected_end_opening_ratio": 1.0486777732271304,
+      "corrected_samples": [
+        {
+          "scene_seconds": 0.1,
+          "opening_luma_ratio": 1.0062874590226791
+        },
+        {
+          "scene_seconds": 3.3333333333333335,
+          "opening_luma_ratio": 1.042744164310245
+        },
+        {
+          "scene_seconds": 6.516666666666667,
+          "opening_luma_ratio": 1.04606602244627
+        }
+      ],
+      "limitations": "ROI includes skin, product and background. Composition changes affect mean; inspect product/skin/black window in the actual comparison before acceptance."
+    },
+    {
+      "scene": 6,
+      "role": "Clear purchase close",
+      "offset_seconds": 33.333333333333336,
+      "duration_seconds": 6.666666666666667,
+      "visual_speed": 1.08,
+      "source_seconds_used": [
+        0,
+        7.200000000000001
+      ],
+      "source_sha256": "a066ad39a3760ae96f34224c7b8d6d5798fb4db71de20ba1b37f53d41e18371f",
+      "review_result": "accepted_selected_interval",
+      "enlarged_source_detail_sheet": "clip-01-lavender-sales-cream\\scene-06-r02\\source-detail-review.jpg",
+      "source_detail_times": [
+        1.8000000000000003,
+        3.6000000000000005,
+        5.4
+      ],
+      "reference_opening_luma": 170.941162109375,
+      "raw_selected_end_opening_ratio": 0.8668072664373588,
+      "corrected_samples": [
+        {
+          "scene_seconds": 0.1,
+          "opening_luma_ratio": 0.99331246553441
+        },
+        {
+          "scene_seconds": 3.3333333333333335,
+          "opening_luma_ratio": 1.0003467387121474
+        },
+        {
+          "scene_seconds": 6.516666666666667,
+          "opening_luma_ratio": 0.9755388137092711
+        }
+      ],
+      "limitations": "ROI includes skin, product and background. Composition changes affect mean; inspect product/skin/black window in the actual comparison before acceptance."
+    }
+  ]
+}

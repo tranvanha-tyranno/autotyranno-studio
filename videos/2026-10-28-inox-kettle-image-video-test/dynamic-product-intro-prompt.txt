@@ -1,0 +1,16 @@
+Tạo video AI chân thực dài 15 giây, khung dọc 9:16, 720x1280, dùng chính ảnh tham chiếu này làm khung hình đầu tiên.
+
+Đây là video giới thiệu sản phẩm có chuyển động thật, không phải slideshow ảnh tĩnh. Hành động bắt đầu ngay trong 0–0,3 giây.
+
+0–5 giây: bàn tay và cẳng tay nữ trưởng thành đang giữ quai hộp mica bước nhanh 3 bước về phía trước trong đúng lối đi nhà máy có sẵn trong ảnh. Camera đi theo chuyển động, tạo parallax rõ ở các kệ và đèn phía sau. Hộp nhún tự nhiên 1–2 cm theo bước nhưng vẫn chắc chắn.
+
+5–10 giây: camera dịch ngang nhẹ sang phải rồi trở về trục trước, cho thấy phản xạ mica và tay cầm đen ở góc khác. Mặt trước hộp luôn hướng thẳng vào camera; không xoay tới mặt sau.
+
+10–15 giây: camera tiến gần nhẹ khoảng 8–10%, giữ trọn quai, đáy hộp và toàn bộ ấm trong khung. Kết thúc bằng một nhịp ổn định ngắn, không đứng hình lâu.
+
+Giữ nguyên tuyệt đối sản phẩm trong ảnh: ấm inox màu bạc dung tích 1.8L, thân kim loại, quai đen, nắp đen, vòi rót, đèn báo đỏ, hộp mica trong suốt, kiểu quai, bàn tay, màu móng, nền nhà máy và toàn bộ chữ tiếng Việt. Giữ đúng các nhãn: “INOX CAO CẤP”, “Dung tích lớn 1.8L”, “Inox cao cấp”, “Đun sôi nhanh chóng”, “Tự động ngắt điện”, “Vòi rót tiện lợi”, “Tay cầm cách nhiệt”, “Nút mở nắp tiện lợi”, “Đế xoay 360°”.
+
+Chỉ được thấy một bàn tay và cẳng tay nữ trưởng thành; không mặt, đầu, tóc, thân người, phản chiếu mặt người, tay thừa hoặc ngón thừa. Hộp luôn lơ lửng, không chạm sàn, bàn, kệ hay bục. Không làm sản phẩm biến dạng, không làm chữ trôi, không thêm chữ, logo, phụ kiện, người, watermark, phụ đề, nhạc hoặc hiệu ứng âm thanh. Không spin 360 độ, không lật hộp, không slow motion, không zoom ảnh đơn giản. Một shot liên tục, chuyển động tự nhiên, camera bám sản phẩm từ đầu đến cuối.
+
+Voice-over tiếng Việt ghép riêng, giọng Adam V3, nhịp vui và nhanh:
+“[excited] Ê ê ê! Ấm inox cao cấp 1,8 lít đây nha! Đun sôi nhanh, tiết kiệm thời gian và điện năng, lại tự động ngắt điện khi nước sôi. Có vòi rót tiện lợi, tay cầm cách nhiệt và đế xoay 360 độ nữa đó!”

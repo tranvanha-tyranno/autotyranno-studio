@@ -31,6 +31,8 @@ Quy trình review sản phẩm bằng Muse2API và Adam V3 đã lưu tại [work
 
 Chạy `python workflows/product-video/run.py cache --batch <batch>` rồi `plan` trước khi tạo để dùng lại TTS/media và xem số lần gọi provider dự kiến.
 
+Review nhiều bối cảnh hoặc dài hơn 30 giây dùng schema `clips[].scenes`, xem [ví dụ sạc dự phòng dùng chân dung chuẩn](workflows/product-video/example-powerbank-portrait-first.json). Tạo chân dung chuẩn bằng stage `characters` trước các ảnh cảnh; runner giữ ảnh/lời đọc riêng, khóa sản phẩm và nhân vật, đo/hiệu chỉnh tối dần và yêu cầu QA trước ghép. Theo phản hồi mới nhất: **không chèn chữ**, hook nói phải đưa thông tin bất ngờ trong 3 giây, CTA nói ở cuối, chuyển động có nhịp dừng–xoay nhẹ–tay kia chạm vỏ. Thông số phải có nguồn và nêu đúng phạm vi xác minh.
+
 Bộ [prompt hộp mica POV 6 giây](workflows/product-video/mica/WORKFLOW.md) lưu nguyên bản và phiên bản nhịp nhanh 11–20. Compiler offline tạo prompt theo N × 3 ảnh, tách khỏi runner review 20 giây.
 
 Gửi `POST /products/import`, sau đó dùng `POST /video-jobs` với `product_id`. Pipeline sẽ tạo script tiếng Việt, poster và MP4 dọc nếu có ffmpeg (backend dùng binary của `imageio-ffmpeg`). Provider AI/TTS hiện là provider mô phỏng, được tách interface để thay bằng API thật.

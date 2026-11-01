@@ -1,0 +1,164 @@
+{
+  "final_seconds": 42.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "independent_scenes": 6,
+  "looped": false,
+  "slowed_to_fill": false,
+  "full_scene_dialogue_preserved": true,
+  "scene_timings": [
+    {
+      "scene": 1,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 8.05,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          2.35
+        ],
+        [
+          3.11,
+          7.15
+        ]
+      ],
+      "used_audio_seconds": 6.390000000000001
+    },
+    {
+      "scene": 2,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.08,
+      "audio_tempo": 1.0201729106628241,
+      "audio_segments": [
+        [
+          0,
+          7.08
+        ]
+      ],
+      "used_audio_seconds": 7.08
+    },
+    {
+      "scene": 3,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.47,
+      "audio_tempo": 1.0763688760806915,
+      "audio_segments": [
+        [
+          0,
+          7.47
+        ]
+      ],
+      "used_audio_seconds": 7.47
+    },
+    {
+      "scene": 4,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.39,
+      "audio_tempo": 1.0648414985590777,
+      "audio_segments": [
+        [
+          0,
+          7.39
+        ]
+      ],
+      "used_audio_seconds": 7.39
+    },
+    {
+      "scene": 5,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 7.63,
+      "audio_tempo": 1.0994236311239192,
+      "audio_segments": [
+        [
+          0,
+          7.63
+        ]
+      ],
+      "used_audio_seconds": 7.63
+    },
+    {
+      "scene": 6,
+      "seconds": 7,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 9.799999999999999,
+      "visual_speed": 1.4,
+      "voice_seconds": 6.03,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          6.03
+        ]
+      ],
+      "used_audio_seconds": 6.03
+    }
+  ],
+  "decode_check": "passed",
+  "audio_levels_db": {
+    "mean_volume": -16.7,
+    "max_volume": -1.5
+  },
+  "black_or_freeze_alerts": [],
+  "visual_qa": "pending final sampled-frame review",
+  "text_overlays": false,
+  "exposure_reports": [
+    {
+      "scene": 1,
+      "report": "clip-01-lavender-tactile-review\\scene-01-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9582796162006397,
+      "needs_attention": false
+    },
+    {
+      "scene": 2,
+      "report": "clip-01-lavender-tactile-review\\scene-02-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9031569783569287,
+      "needs_attention": true
+    },
+    {
+      "scene": 3,
+      "report": "clip-01-lavender-tactile-review\\scene-03-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 1.046383503036921,
+      "needs_attention": false
+    },
+    {
+      "scene": 4,
+      "report": "clip-01-lavender-tactile-review\\scene-04\\exposure-plan.json",
+      "end_to_opening_ratio": 1.0049978832611064,
+      "needs_attention": false
+    },
+    {
+      "scene": 5,
+      "report": "clip-01-lavender-tactile-review\\scene-05\\exposure-plan.json",
+      "end_to_opening_ratio": 1.0049656194997436,
+      "needs_attention": false
+    },
+    {
+      "scene": 6,
+      "report": "clip-01-lavender-tactile-review\\scene-06\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9298728092911751,
+      "needs_attention": false
+    }
+  ],
+  "sha256": "43ddbbe36b500fadbec25cfe77bcb755fb8a55a657695ba08849468dca1e2bd1"
+}

@@ -1,0 +1,75 @@
+{
+  "outputs": [
+    {
+      "variant": 1,
+      "output": "01-sac-du-phong-tim-20s.mp4",
+      "seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "tts": "Adam / eleven_v3, Vietnamese",
+      "audio_levels_db": {
+        "mean_volume": -17.1,
+        "max_volume": -1.8
+      },
+      "black_or_freeze_alerts": [],
+      "source_count": 3,
+      "source_sha256": [
+        "5628b1b49c2c66952e78f6fe557c9a4d66313234e2d6d5f8ddb6fd5746eddbef",
+        "3b2558bf031e7e2d66b98d110caa125b18d6022a5bc1294e928956965ea3806d",
+        "d70778f9619d510fbe754cf13600d2a52e621a530b573f275598c12b87965290"
+      ],
+      "local_reused_sources": 2,
+      "newly_generated_accepted_sources": 1,
+      "text_overlays": false,
+      "visual_qa": "accepted_with_limitations after source action sheets, corrected full-duration contact sheet and last-frame review",
+      "final_sha256": "2873d882b828891b73fc427b4973f2ca898b63d6cdf15a9acc09ea5f9d9eea40",
+      "bytes": 6747616
+    },
+    {
+      "variant": 2,
+      "output": "02-sac-du-phong-tim-20s.mp4",
+      "seconds": 20.0,
+      "resolution": "720x1280",
+      "fps": 30,
+      "source_seconds": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "visual_speed": 1.5,
+      "tts": "Adam / eleven_v3, Vietnamese",
+      "audio_levels_db": {
+        "mean_volume": -17.1,
+        "max_volume": -1.5
+      },
+      "black_or_freeze_alerts": [],
+      "source_count": 3,
+      "source_sha256": [
+        "867fb0b317db8cc72fdc5e41ba3b91b5ded442729792052149e85b9ff9047545",
+        "261ef62338ac6f15dead1dbb4c49e0a337c37df8f36e4e3a118475ba096de97e",
+        "a59c0621bacae7fe7e5d326b7a858c56e36a69b448e68df9511174f6b720dc64"
+      ],
+      "local_reused_sources": 0,
+      "newly_generated_accepted_sources": 3,
+      "text_overlays": false,
+      "visual_qa": "accepted_with_limitations after source action sheets, corrected full-duration contact sheet, exposure comparison and last-frame review",
+      "final_sha256": "cfe0d909597dddfff21925891c289ee2c2cfe46e92d340a5d8dc5d13a3ef1f43",
+      "bytes": 7125272
+    }
+  ],
+  "six_distinct_sources": true,
+  "decode_checks": "passed",
+  "visual_qa": "reviewed corrected final frames and full source action sheets",
+  "remaining_limitations": [
+    "AI-synthesized fine display numbers vary",
+    "Precise yaw angle and pause duration not numerically verified",
+    "Some source camera reframing/mouth movement persists; narration is independent voice-over"
+  ],
+  "workflow_tests": "17 passed including ten-second 24fps exposure regression"
+}

@@ -1,0 +1,7 @@
+{
+  "mean_volume": -16.3,
+  "max_volume": -1.5,
+  "duration_seconds": 30.0,
+  "source_seconds": 35.71,
+  "boundary_method": "Cuts lie inside measured silence intervals, 80 ms speech margin; five six-second paragraphs."
+}

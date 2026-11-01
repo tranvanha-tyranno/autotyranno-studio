@@ -1,0 +1,25 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.5,
+  "looped": false,
+  "independent_scenes": 3,
+  "audio_seconds": 15.73,
+  "audio_tempo": 1.0,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": {
+    "method": "agent contact-sheet review",
+    "result": "usable with limitations",
+    "observed": "Mall walking and varied areas; sleeve/body edge enters briefly; gold case trim partly changes; printed labels and kettle geometry drift; background signs/poster faces.",
+    "frame_by_frame_text_lock": false,
+    "playback_review": false
+  },
+  "sha256": "a87962339e609e4614472654e99b759c72cdd71eff919d58a3180c691d198df2"
+}

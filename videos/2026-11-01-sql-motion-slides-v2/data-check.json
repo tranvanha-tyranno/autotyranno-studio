@@ -1,0 +1,48 @@
+{
+  "engine": "SQLite (shared SELECT syntax)",
+  "filtered_rows": 7,
+  "sorted_ids": [
+    104,
+    109,
+    102,
+    105,
+    108,
+    110,
+    101
+  ],
+  "page_1": [
+    [
+      104,
+      "web",
+      90
+    ],
+    [
+      109,
+      "app",
+      70
+    ],
+    [
+      102,
+      "web",
+      70
+    ]
+  ],
+  "page_2": [
+    [
+      105,
+      "app",
+      60
+    ],
+    [
+      108,
+      "web",
+      45
+    ],
+    [
+      110,
+      "web",
+      35
+    ]
+  ],
+  "passed": true
+}

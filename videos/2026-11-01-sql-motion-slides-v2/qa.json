@@ -1,0 +1,17 @@
+{
+  "decode_passed": true,
+  "decode_errors": "",
+  "dimensions": [
+    1080,
+    1350
+  ],
+  "fps": 30,
+  "planned_duration": 180,
+  "layout_overflows": 0,
+  "tts_calls": 0,
+  "muse_calls": 0,
+  "reused_narration": true,
+  "caption_method": "Local ASR timestamps mapped to approved script; unmatched words interpolated",
+  "model_weights_trained": false,
+  "style_profile": "style-profile.json"
+}

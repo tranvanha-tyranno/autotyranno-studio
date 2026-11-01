@@ -1,0 +1,5 @@
+{
+  "result": "rejected",
+  "source_sha256": "9fcd8bdced024693a09b3814092373f72e49e974889b7a502a0d2da421595a56",
+  "notes": "20-frame action sheet inspected: real tactile contact but repeated large upright/in-plane reorientation from about 1s onward; black window becomes gray near 7s, original squat proportions not stable. Reject source; simplify motion with fixed supporting grip, original diagonal pose and only 3-degree depth tilt."
+}

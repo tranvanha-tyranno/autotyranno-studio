@@ -1,0 +1,14 @@
+{
+  "full_decode_passed": true,
+  "decode_errors": "",
+  "expected_duration_seconds": 180,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "audio": "AAC stereo 48 kHz",
+  "dataset_checks": "data-check.json",
+  "audio_timing": "audio-timing.json",
+  "frames_rendered": 4320
+}

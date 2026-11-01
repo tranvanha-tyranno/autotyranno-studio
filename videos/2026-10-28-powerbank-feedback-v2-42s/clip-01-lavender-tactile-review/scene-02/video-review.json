@@ -1,0 +1,6 @@
+{
+  "result": "rejected",
+  "source_sha256": "fb23af3249e0f3c2d1ddfd6d16965d671363597eec6d6e3533418409ce61447c",
+  "observed_action": "Actual touching/stroking exists, but model rotates product nearly upside down in latter half; black window changes gray/loses original markings and loop/body geometry drifts.",
+  "reason": "User requested LIGHT rotation, not flip or product redesign. Do not use in final; bounded corrective shot needed."
+}

@@ -1,0 +1,7 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "5628b1b49c2c66952e78f6fe557c9a4d66313234e2d6d5f8ddb6fd5746eddbef",
+  "samples": "20 frames at 0.5-second intervals",
+  "observed_action": "Free hand moves immediately away then rises, brief settling; actual fingertips stroke blank lavender shell across middle of shot then release. Supporting palm retains same diagonal original pose, full product and one loop remain visible. Black window stays black.",
+  "limitations": "Depth yaw is subtle and not numerically measured. Fine display glyphs vary; fingers briefly brush loop rim while approaching shell. Lower face remains compatible with canonical portrait. Exposure-corrected final still requires inspection."
+}

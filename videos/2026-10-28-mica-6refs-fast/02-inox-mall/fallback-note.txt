@@ -1,0 +1,1 @@
+Muse upstream returned no media. This preview keeps the supplied still image exact and uses FFmpeg camera push/pan; it does not physically animate the hand or product.

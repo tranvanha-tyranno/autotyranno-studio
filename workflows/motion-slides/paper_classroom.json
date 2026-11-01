@@ -1,0 +1,38 @@
+{
+  "name": "paper-classroom-v1",
+  "purpose": "Vietnamese educational motion slides inspired by the supplied local reference",
+  "canvas": {"width": 1080, "height": 1350, "fps": 30},
+  "palette": {
+    "paper": "#fffefa",
+    "ink": "#183a63",
+    "text": "#323b44",
+    "blue": "#eaf3f8",
+    "green": "#eaf4e9",
+    "green_ink": "#36774c",
+    "orange": "#fff0df",
+    "orange_ink": "#ad642f",
+    "purple": "#f0eaf8",
+    "purple_ink": "#735796",
+    "yellow": "#fff2aa",
+    "red": "#b7484f"
+  },
+  "typography": {
+    "heading": "Times New Roman Bold",
+    "body": "Times New Roman",
+    "code": "Consolas",
+    "minimum_logical_size": 17
+  },
+  "rules": [
+    "Portrait 4:5 white teaching canvas; no dark dashboard chrome.",
+    "Keep an original compact lesson header and a yellow checklist at the upper right.",
+    "Thin blue and green bordered tables with clearly labeled column headers.",
+    "Show the relevant operation progressively; use curved arrows and colored row highlights.",
+    "Display a short highlighted takeaway above the narration strip.",
+    "Narration strip resembles taped paper and uses the approved Vietnamese script.",
+    "Drive important visual beats from narration cue timestamps where possible.",
+    "Use generous whitespace but avoid long blank waits or unreadably small tables.",
+    "Do not copy the reference creator's logo, character artwork, or brand identity.",
+    "Retain original script, reference inspection, captions, source audio, renders and QA.",
+    "This is a reusable rendering profile, not model-weight training."
+  ]
+}

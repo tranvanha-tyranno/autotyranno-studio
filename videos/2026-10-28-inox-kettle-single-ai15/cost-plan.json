@@ -1,0 +1,9 @@
+{
+  "target_seconds": 15,
+  "opening_image_calls": 0,
+  "planned_provider_calls": {
+    "muse_video": 1,
+    "elevenlabs_tts": 1
+  },
+  "optional_llm": 0
+}

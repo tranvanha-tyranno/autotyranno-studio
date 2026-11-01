@@ -1,0 +1,191 @@
+{
+  "method": "Full-frame and central-region grayscale averages at 0/3/6/9s; composition changes also affect values, this is evidence for review rather than a lighting-only measurement.",
+  "scenes": [
+    {
+      "scene": 1,
+      "opening_mean_luma": 159.39,
+      "samples": [
+        {
+          "seconds": 0,
+          "mean_luma": 156.55,
+          "central_mean_luma": 172.82,
+          "median_luma": 175.0
+        },
+        {
+          "seconds": 3,
+          "mean_luma": 154.41,
+          "central_mean_luma": 167.12,
+          "median_luma": 168.0
+        },
+        {
+          "seconds": 6,
+          "mean_luma": 140.94,
+          "central_mean_luma": 158.23,
+          "median_luma": 157.0
+        },
+        {
+          "seconds": 9,
+          "mean_luma": 139.48,
+          "central_mean_luma": 154.63,
+          "median_luma": 152.0
+        }
+      ],
+      "end_to_opening_ratio": 0.875
+    },
+    {
+      "scene": 2,
+      "opening_mean_luma": 165.66,
+      "samples": [
+        {
+          "seconds": 0,
+          "mean_luma": 163.57,
+          "central_mean_luma": 154.4,
+          "median_luma": 170.0
+        },
+        {
+          "seconds": 3,
+          "mean_luma": 164.93,
+          "central_mean_luma": 161.68,
+          "median_luma": 168.0
+        },
+        {
+          "seconds": 6,
+          "mean_luma": 162.32,
+          "central_mean_luma": 168.6,
+          "median_luma": 170.0
+        },
+        {
+          "seconds": 9,
+          "mean_luma": 160.12,
+          "central_mean_luma": 174.84,
+          "median_luma": 172.0
+        }
+      ],
+      "end_to_opening_ratio": 0.967
+    },
+    {
+      "scene": 3,
+      "opening_mean_luma": 177.91,
+      "samples": [
+        {
+          "seconds": 0,
+          "mean_luma": 172.82,
+          "central_mean_luma": 176.72,
+          "median_luma": 186.0
+        },
+        {
+          "seconds": 3,
+          "mean_luma": 177.4,
+          "central_mean_luma": 186.2,
+          "median_luma": 193.0
+        },
+        {
+          "seconds": 6,
+          "mean_luma": 173.23,
+          "central_mean_luma": 182.26,
+          "median_luma": 191.0
+        },
+        {
+          "seconds": 9,
+          "mean_luma": 157.83,
+          "central_mean_luma": 168.3,
+          "median_luma": 167.0
+        }
+      ],
+      "end_to_opening_ratio": 0.887
+    },
+    {
+      "scene": 4,
+      "opening_mean_luma": 160.69,
+      "samples": [
+        {
+          "seconds": 0,
+          "mean_luma": 153.4,
+          "central_mean_luma": 167.72,
+          "median_luma": 170.0
+        },
+        {
+          "seconds": 3,
+          "mean_luma": 151.1,
+          "central_mean_luma": 161.28,
+          "median_luma": 166.0
+        },
+        {
+          "seconds": 6,
+          "mean_luma": 155.17,
+          "central_mean_luma": 166.29,
+          "median_luma": 173.0
+        },
+        {
+          "seconds": 9,
+          "mean_luma": 149.1,
+          "central_mean_luma": 160.17,
+          "median_luma": 170.0
+        }
+      ],
+      "end_to_opening_ratio": 0.928
+    },
+    {
+      "scene": 5,
+      "opening_mean_luma": 164.38,
+      "samples": [
+        {
+          "seconds": 0,
+          "mean_luma": 159.0,
+          "central_mean_luma": 169.55,
+          "median_luma": 180.0
+        },
+        {
+          "seconds": 3,
+          "mean_luma": 155.37,
+          "central_mean_luma": 165.45,
+          "median_luma": 172.0
+        },
+        {
+          "seconds": 6,
+          "mean_luma": 154.59,
+          "central_mean_luma": 163.92,
+          "median_luma": 176.0
+        },
+        {
+          "seconds": 9,
+          "mean_luma": 166.0,
+          "central_mean_luma": 177.85,
+          "median_luma": 185.0
+        }
+      ],
+      "end_to_opening_ratio": 1.01
+    },
+    {
+      "scene": 6,
+      "opening_mean_luma": 163.78,
+      "samples": [
+        {
+          "seconds": 0,
+          "mean_luma": 160.94,
+          "central_mean_luma": 171.16,
+          "median_luma": 178.0
+        },
+        {
+          "seconds": 3,
+          "mean_luma": 160.1,
+          "central_mean_luma": 163.85,
+          "median_luma": 175.0
+        },
+        {
+          "seconds": 6,
+          "mean_luma": 151.35,
+          "central_mean_luma": 166.13,
+          "median_luma": 164.0
+        },
+        {
+          "seconds": 9,
+          "mean_luma": 154.07,
+          "central_mean_luma": 158.86,
+          "median_luma": 168.0
+        }
+      ],
+      "end_to_opening_ratio": 0.941
+    }
+  ]
+}

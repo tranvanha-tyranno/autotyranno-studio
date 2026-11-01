@@ -1,0 +1,2203 @@
+[
+  {
+    "scene": 1,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.95,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 5.24,
+        "text": "Bạn yêu cầu SQL lấy ba khách hàng cần được hỗ trợ gấp nhất.",
+        "words": [
+          {
+            "text": "Bạn",
+            "start": 0.0
+          },
+          {
+            "text": "yêu",
+            "start": 0.54
+          },
+          {
+            "text": "cầu",
+            "start": 0.68
+          },
+          {
+            "text": "SQL",
+            "start": 1.04
+          },
+          {
+            "text": "lấy",
+            "start": 1.52
+          },
+          {
+            "text": "ba",
+            "start": 1.88
+          },
+          {
+            "text": "khách",
+            "start": 2.24
+          },
+          {
+            "text": "hàng",
+            "start": 2.56
+          },
+          {
+            "text": "cần",
+            "start": 2.78
+          },
+          {
+            "text": "được",
+            "start": 3.08
+          },
+          {
+            "text": "hỗ",
+            "start": 3.34
+          },
+          {
+            "text": "trợ",
+            "start": 3.62
+          },
+          {
+            "text": "gấp",
+            "start": 3.96
+          },
+          {
+            "text": "nhất.",
+            "start": 4.18
+          }
+        ]
+      },
+      {
+        "start": 5.24,
+        "end": 10.68,
+        "text": "Hệ thống trả về đúng ba dòng, nhưng người chờ 90 phút lại bị bỏ qua!",
+        "words": [
+          {
+            "text": "Hệ",
+            "start": 5.24
+          },
+          {
+            "text": "thống",
+            "start": 5.34
+          },
+          {
+            "text": "trả",
+            "start": 5.56
+          },
+          {
+            "text": "về",
+            "start": 5.86
+          },
+          {
+            "text": "đúng",
+            "start": 6.0
+          },
+          {
+            "text": "ba",
+            "start": 6.31
+          },
+          {
+            "text": "dòng,",
+            "start": 6.62
+          },
+          {
+            "text": "nhưng",
+            "start": 7.52
+          },
+          {
+            "text": "người",
+            "start": 7.58
+          },
+          {
+            "text": "chờ",
+            "start": 7.88
+          },
+          {
+            "text": "90",
+            "start": 8.2
+          },
+          {
+            "text": "phút",
+            "start": 8.58
+          },
+          {
+            "text": "lại",
+            "start": 9.06
+          },
+          {
+            "text": "bị",
+            "start": 9.2
+          },
+          {
+            "text": "bỏ",
+            "start": 9.36
+          },
+          {
+            "text": "qua!",
+            "start": 9.6
+          }
+        ]
+      },
+      {
+        "start": 10.68,
+        "end": 13.2,
+        "text": "SQL không báo lỗi.",
+        "words": [
+          {
+            "text": "SQL",
+            "start": 10.68
+          },
+          {
+            "text": "không",
+            "start": 11.28
+          },
+          {
+            "text": "báo",
+            "start": 11.92
+          },
+          {
+            "text": "lỗi.",
+            "start": 12.22
+          }
+        ]
+      },
+      {
+        "start": 13.2,
+        "end": 14.38,
+        "text": "Vậy vấn đề nằm ở đâu?",
+        "words": [
+          {
+            "text": "Vậy",
+            "start": 13.2
+          },
+          {
+            "text": "vấn",
+            "start": 13.46
+          },
+          {
+            "text": "đề",
+            "start": 13.68
+          },
+          {
+            "text": "nằm",
+            "start": 13.84
+          },
+          {
+            "text": "ở",
+            "start": 14.08
+          },
+          {
+            "text": "đâu?",
+            "start": 14.16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.857,
+    "cues": [
+      {
+        "start": 0.05,
+        "end": 3.73,
+        "text": "Trung tâm hỗ trợ nhận hàng loạt yêu cầu mỗi ngày.",
+        "words": [
+          {
+            "text": "Trung",
+            "start": 0.05
+          },
+          {
+            "text": "tâm",
+            "start": 0.55
+          },
+          {
+            "text": "hỗ",
+            "start": 0.89
+          },
+          {
+            "text": "trợ",
+            "start": 1.11
+          },
+          {
+            "text": "nhận",
+            "start": 1.45
+          },
+          {
+            "text": "hàng",
+            "start": 1.71
+          },
+          {
+            "text": "loạt",
+            "start": 1.91
+          },
+          {
+            "text": "yêu",
+            "start": 2.29
+          },
+          {
+            "text": "cầu",
+            "start": 2.43
+          },
+          {
+            "text": "mỗi",
+            "start": 2.77
+          },
+          {
+            "text": "ngày.",
+            "start": 3.03
+          }
+        ]
+      },
+      {
+        "start": 3.73,
+        "end": 7.57,
+        "text": "Nhiệm vụ của chúng ta là tìm các phiếu đang mở, gửi",
+        "words": [
+          {
+            "text": "Nhiệm",
+            "start": 3.73
+          },
+          {
+            "text": "vụ",
+            "start": 4.43
+          },
+          {
+            "text": "của",
+            "start": 4.61
+          },
+          {
+            "text": "chúng",
+            "start": 4.75
+          },
+          {
+            "text": "ta",
+            "start": 4.91
+          },
+          {
+            "text": "là",
+            "start": 5.17
+          },
+          {
+            "text": "tìm",
+            "start": 5.35
+          },
+          {
+            "text": "các",
+            "start": 5.71
+          },
+          {
+            "text": "phiếu",
+            "start": 5.87
+          },
+          {
+            "text": "đang",
+            "start": 6.19
+          },
+          {
+            "text": "mở,",
+            "start": 6.35
+          },
+          {
+            "text": "gửi",
+            "start": 7.37
+          }
+        ]
+      },
+      {
+        "start": 7.57,
+        "end": 12.23,
+        "text": "từ App hoặc Web, và đã chờ ít nhất 30 phút.",
+        "words": [
+          {
+            "text": "từ",
+            "start": 7.57
+          },
+          {
+            "text": "App",
+            "start": 7.73
+          },
+          {
+            "text": "hoặc",
+            "start": 8.51
+          },
+          {
+            "text": "Web,",
+            "start": 8.65
+          },
+          {
+            "text": "và",
+            "start": 9.67
+          },
+          {
+            "text": "đã",
+            "start": 9.73
+          },
+          {
+            "text": "chờ",
+            "start": 9.99
+          },
+          {
+            "text": "ít",
+            "start": 10.25
+          },
+          {
+            "text": "nhất",
+            "start": 10.51
+          },
+          {
+            "text": "30",
+            "start": 10.65
+          },
+          {
+            "text": "phút.",
+            "start": 11.17
+          }
+        ]
+      },
+      {
+        "start": 12.23,
+        "end": 17.09,
+        "text": "Những người chờ lâu hơn cần được ưu tiên, mỗi trang hiển thị ba phiếu.",
+        "words": [
+          {
+            "text": "Những",
+            "start": 12.23
+          },
+          {
+            "text": "người",
+            "start": 12.57
+          },
+          {
+            "text": "chờ",
+            "start": 12.8
+          },
+          {
+            "text": "lâu",
+            "start": 13.03
+          },
+          {
+            "text": "hơn",
+            "start": 13.27
+          },
+          {
+            "text": "cần",
+            "start": 13.53
+          },
+          {
+            "text": "được",
+            "start": 13.75
+          },
+          {
+            "text": "ưu",
+            "start": 14.0
+          },
+          {
+            "text": "tiên,",
+            "start": 14.25
+          },
+          {
+            "text": "mỗi",
+            "start": 15.23
+          },
+          {
+            "text": "trang",
+            "start": 15.49
+          },
+          {
+            "text": "hiển",
+            "start": 15.765
+          },
+          {
+            "text": "thị",
+            "start": 16.04
+          },
+          {
+            "text": "ba",
+            "start": 16.315
+          },
+          {
+            "text": "phiếu.",
+            "start": 16.59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.918,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 5.08,
+        "text": "Đầu tiên, FROM xác định bảng dữ liệu chúng ta cần truy vấn.",
+        "words": [
+          {
+            "text": "Đầu",
+            "start": 0.0
+          },
+          {
+            "text": "tiên,",
+            "start": 0.56
+          },
+          {
+            "text": "FROM",
+            "start": 1.3
+          },
+          {
+            "text": "xác",
+            "start": 1.66
+          },
+          {
+            "text": "định",
+            "start": 2.2
+          },
+          {
+            "text": "bảng",
+            "start": 2.4
+          },
+          {
+            "text": "dữ",
+            "start": 2.66
+          },
+          {
+            "text": "liệu",
+            "start": 2.92
+          },
+          {
+            "text": "chúng",
+            "start": 3.16
+          },
+          {
+            "text": "ta",
+            "start": 3.36
+          },
+          {
+            "text": "cần",
+            "start": 3.6
+          },
+          {
+            "text": "truy",
+            "start": 3.82
+          },
+          {
+            "text": "vấn.",
+            "start": 4.14
+          }
+        ]
+      },
+      {
+        "start": 5.08,
+        "end": 9.36,
+        "text": "Còn SELECT cho biết những cột nào sẽ xuất hiện trong kết quả.",
+        "words": [
+          {
+            "text": "Còn",
+            "start": 5.08
+          },
+          {
+            "text": "SELECT",
+            "start": 5.24
+          },
+          {
+            "text": "cho",
+            "start": 5.83
+          },
+          {
+            "text": "biết",
+            "start": 6.42
+          },
+          {
+            "text": "những",
+            "start": 6.58
+          },
+          {
+            "text": "cột",
+            "start": 6.78
+          },
+          {
+            "text": "nào",
+            "start": 7.1
+          },
+          {
+            "text": "sẽ",
+            "start": 7.34
+          },
+          {
+            "text": "xuất",
+            "start": 7.6
+          },
+          {
+            "text": "hiện",
+            "start": 7.82
+          },
+          {
+            "text": "trong",
+            "start": 8.0
+          },
+          {
+            "text": "kết",
+            "start": 8.22
+          },
+          {
+            "text": "quả.",
+            "start": 8.46
+          }
+        ]
+      },
+      {
+        "start": 9.36,
+        "end": 14.4,
+        "text": "Ở đây, ta chỉ cần mã phiếu, kênh tiếp nhận và số phút chờ.",
+        "words": [
+          {
+            "text": "Ở",
+            "start": 9.36
+          },
+          {
+            "text": "đây,",
+            "start": 9.58
+          },
+          {
+            "text": "ta",
+            "start": 10.2
+          },
+          {
+            "text": "chỉ",
+            "start": 10.4
+          },
+          {
+            "text": "cần",
+            "start": 10.56
+          },
+          {
+            "text": "mã",
+            "start": 11.027
+          },
+          {
+            "text": "phiếu,",
+            "start": 11.493
+          },
+          {
+            "text": "kênh",
+            "start": 11.96
+          },
+          {
+            "text": "tiếp",
+            "start": 12.16
+          },
+          {
+            "text": "nhận",
+            "start": 12.28
+          },
+          {
+            "text": "và",
+            "start": 12.64
+          },
+          {
+            "text": "số",
+            "start": 12.84
+          },
+          {
+            "text": "phút",
+            "start": 13.08
+          },
+          {
+            "text": "chờ.",
+            "start": 13.34
+          }
+        ]
+      },
+      {
+        "start": 14.4,
+        "end": 16.98,
+        "text": "Nhưng hiện tại, các yêu cầu chưa được lọc!",
+        "words": [
+          {
+            "text": "Nhưng",
+            "start": 14.4
+          },
+          {
+            "text": "hiện",
+            "start": 14.64
+          },
+          {
+            "text": "tại,",
+            "start": 14.8
+          },
+          {
+            "text": "các",
+            "start": 15.58
+          },
+          {
+            "text": "yêu",
+            "start": 15.68
+          },
+          {
+            "text": "cầu",
+            "start": 15.88
+          },
+          {
+            "text": "chưa",
+            "start": 16.24
+          },
+          {
+            "text": "được",
+            "start": 16.46
+          },
+          {
+            "text": "lọc!",
+            "start": 16.64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.822,
+    "cues": [
+      {
+        "start": 0.02,
+        "end": 3.12,
+        "text": "Đây là lúc WHERE phát huy tác dụng.",
+        "words": [
+          {
+            "text": "Đây",
+            "start": 0.02
+          },
+          {
+            "text": "là",
+            "start": 0.54
+          },
+          {
+            "text": "lúc",
+            "start": 0.7
+          },
+          {
+            "text": "WHERE",
+            "start": 0.94
+          },
+          {
+            "text": "phát",
+            "start": 1.4
+          },
+          {
+            "text": "huy",
+            "start": 1.68
+          },
+          {
+            "text": "tác",
+            "start": 1.96
+          },
+          {
+            "text": "dụng.",
+            "start": 2.24
+          }
+        ]
+      },
+      {
+        "start": 3.12,
+        "end": 5.9,
+        "text": "Dấu bằng dùng để so sánh trạng thái.",
+        "words": [
+          {
+            "text": "Dấu",
+            "start": 3.12
+          },
+          {
+            "text": "bằng",
+            "start": 3.28
+          },
+          {
+            "text": "dùng",
+            "start": 3.52
+          },
+          {
+            "text": "để",
+            "start": 3.84
+          },
+          {
+            "text": "so",
+            "start": 4.105
+          },
+          {
+            "text": "sánh",
+            "start": 4.37
+          },
+          {
+            "text": "trạng",
+            "start": 4.635
+          },
+          {
+            "text": "thái.",
+            "start": 4.9
+          }
+        ]
+      },
+      {
+        "start": 5.9,
+        "end": 12.1,
+        "text": "IN giúp kiểm tra kênh tiếp nhận có thuộc danh sách App hoặc Web hay không.",
+        "words": [
+          {
+            "text": "IN",
+            "start": 5.9
+          },
+          {
+            "text": "giúp",
+            "start": 6.84
+          },
+          {
+            "text": "kiểm",
+            "start": 7.0
+          },
+          {
+            "text": "tra",
+            "start": 7.28
+          },
+          {
+            "text": "kênh",
+            "start": 7.52
+          },
+          {
+            "text": "tiếp",
+            "start": 7.76
+          },
+          {
+            "text": "nhận",
+            "start": 8.0
+          },
+          {
+            "text": "có",
+            "start": 8.34
+          },
+          {
+            "text": "thuộc",
+            "start": 8.54
+          },
+          {
+            "text": "danh",
+            "start": 8.8
+          },
+          {
+            "text": "sách",
+            "start": 9.02
+          },
+          {
+            "text": "App",
+            "start": 9.24
+          },
+          {
+            "text": "hoặc",
+            "start": 10.08
+          },
+          {
+            "text": "Web",
+            "start": 10.22
+          },
+          {
+            "text": "hay",
+            "start": 10.6
+          },
+          {
+            "text": "không.",
+            "start": 11.0
+          }
+        ]
+      },
+      {
+        "start": 12.1,
+        "end": 17.18,
+        "text": "Còn lớn hơn hoặc bằng 30 giúp giữ lại những phiếu đã chờ đủ lâu.",
+        "words": [
+          {
+            "text": "Còn",
+            "start": 12.1
+          },
+          {
+            "text": "lớn",
+            "start": 12.18
+          },
+          {
+            "text": "hơn",
+            "start": 12.54
+          },
+          {
+            "text": "hoặc",
+            "start": 12.82
+          },
+          {
+            "text": "bằng",
+            "start": 13.16
+          },
+          {
+            "text": "30",
+            "start": 13.36
+          },
+          {
+            "text": "giúp",
+            "start": 14.4
+          },
+          {
+            "text": "giữ",
+            "start": 14.57
+          },
+          {
+            "text": "lại",
+            "start": 14.74
+          },
+          {
+            "text": "những",
+            "start": 15.0
+          },
+          {
+            "text": "phiếu",
+            "start": 15.26
+          },
+          {
+            "text": "đã",
+            "start": 15.76
+          },
+          {
+            "text": "chờ",
+            "start": 15.96
+          },
+          {
+            "text": "đủ",
+            "start": 16.16
+          },
+          {
+            "text": "lâu.",
+            "start": 16.4
+          }
+        ]
+      },
+      {
+        "start": 17.18,
+        "end": 19.9,
+        "text": "Khi nối bằng AND, một phiếu phải thỏa",
+        "words": [
+          {
+            "text": "Khi",
+            "start": 17.18
+          },
+          {
+            "text": "nối",
+            "start": 17.5
+          },
+          {
+            "text": "bằng",
+            "start": 17.7
+          },
+          {
+            "text": "AND,",
+            "start": 17.98
+          },
+          {
+            "text": "một",
+            "start": 18.98
+          },
+          {
+            "text": "phiếu",
+            "start": 19.06
+          },
+          {
+            "text": "phải",
+            "start": 19.42
+          },
+          {
+            "text": "thỏa",
+            "start": 19.66
+          }
+        ]
+      },
+      {
+        "start": 19.9,
+        "end": 22.82,
+        "text": "mãn tất cả điều kiện mới được giữ lại.",
+        "words": [
+          {
+            "text": "mãn",
+            "start": 19.9
+          },
+          {
+            "text": "tất",
+            "start": 20.14
+          },
+          {
+            "text": "cả",
+            "start": 20.44
+          },
+          {
+            "text": "điều",
+            "start": 20.7
+          },
+          {
+            "text": "kiện",
+            "start": 20.96
+          },
+          {
+            "text": "mới",
+            "start": 21.28
+          },
+          {
+            "text": "được",
+            "start": 21.46
+          },
+          {
+            "text": "giữ",
+            "start": 21.66
+          },
+          {
+            "text": "lại.",
+            "start": 21.86
+          }
+        ]
+      },
+      {
+        "start": 22.82,
+        "end": 26.58,
+        "text": "IN ở đây tương đương hai điều kiện nối bằng OR.",
+        "words": [
+          {
+            "text": "IN",
+            "start": 22.82
+          },
+          {
+            "text": "ở",
+            "start": 23.02
+          },
+          {
+            "text": "đây",
+            "start": 23.24
+          },
+          {
+            "text": "tương",
+            "start": 23.54
+          },
+          {
+            "text": "đương",
+            "start": 23.95
+          },
+          {
+            "text": "hai",
+            "start": 24.36
+          },
+          {
+            "text": "điều",
+            "start": 24.64
+          },
+          {
+            "text": "kiện",
+            "start": 24.82
+          },
+          {
+            "text": "nối",
+            "start": 25.56
+          },
+          {
+            "text": "bằng",
+            "start": 25.86
+          },
+          {
+            "text": "OR.",
+            "start": 26.2
+          }
+        ]
+      },
+      {
+        "start": 26.58,
+        "end": 32.48,
+        "text": "Nếu kết hợp OR với AND, hãy chú ý dấu ngoặc để tránh lọc sai!",
+        "words": [
+          {
+            "text": "Nếu",
+            "start": 26.58
+          },
+          {
+            "text": "kết",
+            "start": 27.7
+          },
+          {
+            "text": "hợp",
+            "start": 27.9
+          },
+          {
+            "text": "OR",
+            "start": 28.22
+          },
+          {
+            "text": "với",
+            "start": 28.62
+          },
+          {
+            "text": "AND,",
+            "start": 29.02
+          },
+          {
+            "text": "hãy",
+            "start": 30.18
+          },
+          {
+            "text": "chú",
+            "start": 30.3
+          },
+          {
+            "text": "ý",
+            "start": 30.52
+          },
+          {
+            "text": "dấu",
+            "start": 30.773
+          },
+          {
+            "text": "ngoặc",
+            "start": 31.027
+          },
+          {
+            "text": "để",
+            "start": 31.28
+          },
+          {
+            "text": "tránh",
+            "start": 31.62
+          },
+          {
+            "text": "lọc",
+            "start": 31.96
+          },
+          {
+            "text": "sai!",
+            "start": 32.22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.786,
+    "cues": [
+      {
+        "start": 0.35,
+        "end": 3.22,
+        "text": "Sau WHERE, chúng ta còn bảy phiếu hợp lệ.",
+        "words": [
+          {
+            "text": "Sau",
+            "start": 0.35
+          },
+          {
+            "text": "WHERE,",
+            "start": 0.945
+          },
+          {
+            "text": "chúng",
+            "start": 1.54
+          },
+          {
+            "text": "ta",
+            "start": 1.68
+          },
+          {
+            "text": "còn",
+            "start": 1.88
+          },
+          {
+            "text": "bảy",
+            "start": 2.16
+          },
+          {
+            "text": "phiếu",
+            "start": 2.44
+          },
+          {
+            "text": "hợp",
+            "start": 2.74
+          },
+          {
+            "text": "lệ.",
+            "start": 2.96
+          }
+        ]
+      },
+      {
+        "start": 3.22,
+        "end": 7.4,
+        "text": "Nhưng chưa chắc phiếu chờ lâu nhất đang đứng đầu.",
+        "words": [
+          {
+            "text": "Nhưng",
+            "start": 3.22
+          },
+          {
+            "text": "chưa",
+            "start": 3.78
+          },
+          {
+            "text": "chắc",
+            "start": 4.12
+          },
+          {
+            "text": "phiếu",
+            "start": 4.4
+          },
+          {
+            "text": "chờ",
+            "start": 4.693
+          },
+          {
+            "text": "lâu",
+            "start": 4.987
+          },
+          {
+            "text": "nhất",
+            "start": 5.28
+          },
+          {
+            "text": "đang",
+            "start": 5.46
+          },
+          {
+            "text": "đứng",
+            "start": 5.74
+          },
+          {
+            "text": "đầu.",
+            "start": 6.04
+          }
+        ]
+      },
+      {
+        "start": 7.4,
+        "end": 13.9,
+        "text": "ORDER BY wait_min DESC sẽ sắp xếp số phút chờ từ cao xuống thấp.",
+        "words": [
+          {
+            "text": "ORDER",
+            "start": 7.4
+          },
+          {
+            "text": "BY",
+            "start": 7.84
+          },
+          {
+            "text": "wait_min",
+            "start": 8.65
+          },
+          {
+            "text": "DESC",
+            "start": 9.46
+          },
+          {
+            "text": "sẽ",
+            "start": 9.96
+          },
+          {
+            "text": "sắp",
+            "start": 10.56
+          },
+          {
+            "text": "xếp",
+            "start": 10.87
+          },
+          {
+            "text": "số",
+            "start": 11.18
+          },
+          {
+            "text": "phút",
+            "start": 11.38
+          },
+          {
+            "text": "chờ",
+            "start": 11.68
+          },
+          {
+            "text": "từ",
+            "start": 11.98
+          },
+          {
+            "text": "cao",
+            "start": 12.2
+          },
+          {
+            "text": "xuống",
+            "start": 12.62
+          },
+          {
+            "text": "thấp.",
+            "start": 12.86
+          }
+        ]
+      },
+      {
+        "start": 13.9,
+        "end": 18.18,
+        "text": "Nếu hai phiếu có cùng thời gian chờ, ta thêm id DESC",
+        "words": [
+          {
+            "text": "Nếu",
+            "start": 13.9
+          },
+          {
+            "text": "hai",
+            "start": 14.04
+          },
+          {
+            "text": "phiếu",
+            "start": 14.28
+          },
+          {
+            "text": "có",
+            "start": 14.64
+          },
+          {
+            "text": "cùng",
+            "start": 14.8
+          },
+          {
+            "text": "thời",
+            "start": 15.0
+          },
+          {
+            "text": "gian",
+            "start": 15.26
+          },
+          {
+            "text": "chờ,",
+            "start": 15.82
+          },
+          {
+            "text": "ta",
+            "start": 16.38
+          },
+          {
+            "text": "thêm",
+            "start": 16.42
+          },
+          {
+            "text": "id",
+            "start": 16.7
+          },
+          {
+            "text": "DESC",
+            "start": 17.44
+          }
+        ]
+      },
+      {
+        "start": 18.18,
+        "end": 21.12,
+        "text": "làm tiêu chí phụ để xác định thứ tự rõ ràng.",
+        "words": [
+          {
+            "text": "làm",
+            "start": 18.18
+          },
+          {
+            "text": "tiêu",
+            "start": 18.44
+          },
+          {
+            "text": "chí",
+            "start": 18.733
+          },
+          {
+            "text": "phụ",
+            "start": 19.027
+          },
+          {
+            "text": "để",
+            "start": 19.32
+          },
+          {
+            "text": "xác",
+            "start": 19.56
+          },
+          {
+            "text": "định",
+            "start": 19.82
+          },
+          {
+            "text": "thứ",
+            "start": 20.03
+          },
+          {
+            "text": "tự",
+            "start": 20.24
+          },
+          {
+            "text": "rõ",
+            "start": 20.44
+          },
+          {
+            "text": "ràng.",
+            "start": 20.74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.846,
+    "cues": [
+      {
+        "start": 0.02,
+        "end": 3.66,
+        "text": "Bây giờ, LIMIT quyết định số dòng tối đa được",
+        "words": [
+          {
+            "text": "Bây",
+            "start": 0.02
+          },
+          {
+            "text": "giờ,",
+            "start": 0.6
+          },
+          {
+            "text": "LIMIT",
+            "start": 1.46
+          },
+          {
+            "text": "quyết",
+            "start": 1.84
+          },
+          {
+            "text": "định",
+            "start": 2.12
+          },
+          {
+            "text": "số",
+            "start": 2.34
+          },
+          {
+            "text": "dòng",
+            "start": 2.54
+          },
+          {
+            "text": "tối",
+            "start": 2.84
+          },
+          {
+            "text": "đa",
+            "start": 3.16
+          },
+          {
+            "text": "được",
+            "start": 3.46
+          }
+        ]
+      },
+      {
+        "start": 3.66,
+        "end": 8.54,
+        "text": "trả về, còn OFFSET quyết định bỏ qua bao nhiêu dòng.",
+        "words": [
+          {
+            "text": "trả",
+            "start": 3.66
+          },
+          {
+            "text": "về,",
+            "start": 3.92
+          },
+          {
+            "text": "còn",
+            "start": 4.74
+          },
+          {
+            "text": "OFFSET",
+            "start": 4.9
+          },
+          {
+            "text": "quyết",
+            "start": 5.72
+          },
+          {
+            "text": "định",
+            "start": 6.26
+          },
+          {
+            "text": "bỏ",
+            "start": 6.44
+          },
+          {
+            "text": "qua",
+            "start": 6.64
+          },
+          {
+            "text": "bao",
+            "start": 6.9
+          },
+          {
+            "text": "nhiêu",
+            "start": 7.21
+          },
+          {
+            "text": "dòng.",
+            "start": 7.52
+          }
+        ]
+      },
+      {
+        "start": 8.54,
+        "end": 13.533,
+        "text": "Trang đầu tiên, LIMIT 3 OFFSET 0 lấy ba phiếu đầu.",
+        "words": [
+          {
+            "text": "Trang",
+            "start": 8.54
+          },
+          {
+            "text": "đầu",
+            "start": 8.86
+          },
+          {
+            "text": "tiên,",
+            "start": 9.0
+          },
+          {
+            "text": "LIMIT",
+            "start": 9.98
+          },
+          {
+            "text": "3",
+            "start": 10.32
+          },
+          {
+            "text": "OFFSET",
+            "start": 10.66
+          },
+          {
+            "text": "0",
+            "start": 11.17
+          },
+          {
+            "text": "lấy",
+            "start": 11.68
+          },
+          {
+            "text": "ba",
+            "start": 12.34
+          },
+          {
+            "text": "phiếu",
+            "start": 12.58
+          },
+          {
+            "text": "đầu.",
+            "start": 12.94
+          }
+        ]
+      },
+      {
+        "start": 13.533,
+        "end": 17.64,
+        "text": "Sang trang hai, OFFSET 3 bỏ qua ba phiếu trước",
+        "words": [
+          {
+            "text": "Sang",
+            "start": 13.533
+          },
+          {
+            "text": "trang",
+            "start": 14.127
+          },
+          {
+            "text": "hai,",
+            "start": 14.72
+          },
+          {
+            "text": "OFFSET",
+            "start": 15.42
+          },
+          {
+            "text": "3",
+            "start": 15.82
+          },
+          {
+            "text": "bỏ",
+            "start": 16.22
+          },
+          {
+            "text": "qua",
+            "start": 16.52
+          },
+          {
+            "text": "ba",
+            "start": 16.8
+          },
+          {
+            "text": "phiếu",
+            "start": 17.08
+          },
+          {
+            "text": "trước",
+            "start": 17.5
+          }
+        ]
+      },
+      {
+        "start": 17.64,
+        "end": 21.75,
+        "text": "đó, rồi LIMIT 3 lấy ba phiếu tiếp theo.",
+        "words": [
+          {
+            "text": "đó,",
+            "start": 17.64
+          },
+          {
+            "text": "rồi",
+            "start": 18.64
+          },
+          {
+            "text": "LIMIT",
+            "start": 18.88
+          },
+          {
+            "text": "3",
+            "start": 19.33
+          },
+          {
+            "text": "lấy",
+            "start": 19.78
+          },
+          {
+            "text": "ba",
+            "start": 20.26
+          },
+          {
+            "text": "phiếu",
+            "start": 20.44
+          },
+          {
+            "text": "tiếp",
+            "start": 20.84
+          },
+          {
+            "text": "theo.",
+            "start": 20.98
+          }
+        ]
+      },
+      {
+        "start": 21.75,
+        "end": 23.72,
+        "text": "Quan trọng nhé:",
+        "words": [
+          {
+            "text": "Quan",
+            "start": 21.75
+          },
+          {
+            "text": "trọng",
+            "start": 22.52
+          },
+          {
+            "text": "nhé:",
+            "start": 22.88
+          }
+        ]
+      },
+      {
+        "start": 23.72,
+        "end": 26.46,
+        "text": "phải xác định thứ tự sắp xếp trước khi phân trang!",
+        "words": [
+          {
+            "text": "phải",
+            "start": 23.72
+          },
+          {
+            "text": "xác",
+            "start": 23.9
+          },
+          {
+            "text": "định",
+            "start": 24.12
+          },
+          {
+            "text": "thứ",
+            "start": 24.32
+          },
+          {
+            "text": "tự",
+            "start": 24.52
+          },
+          {
+            "text": "sắp",
+            "start": 24.66
+          },
+          {
+            "text": "xếp",
+            "start": 24.96
+          },
+          {
+            "text": "trước",
+            "start": 25.34
+          },
+          {
+            "text": "khi",
+            "start": 25.56
+          },
+          {
+            "text": "phân",
+            "start": 25.82
+          },
+          {
+            "text": "trang!",
+            "start": 26.08
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 7,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.919,
+    "cues": [
+      {
+        "start": 0.02,
+        "end": 2.32,
+        "text": "Và đây là điều thú vị!",
+        "words": [
+          {
+            "text": "Và",
+            "start": 0.02
+          },
+          {
+            "text": "đây",
+            "start": 0.52
+          },
+          {
+            "text": "là",
+            "start": 0.7
+          },
+          {
+            "text": "điều",
+            "start": 0.88
+          },
+          {
+            "text": "thú",
+            "start": 1.0
+          },
+          {
+            "text": "vị!",
+            "start": 1.26
+          }
+        ]
+      },
+      {
+        "start": 2.32,
+        "end": 5.88,
+        "text": "Mặc dù câu SQL được viết bắt đầu bằng SELECT,",
+        "words": [
+          {
+            "text": "Mặc",
+            "start": 2.32
+          },
+          {
+            "text": "dù",
+            "start": 2.48
+          },
+          {
+            "text": "câu",
+            "start": 2.853
+          },
+          {
+            "text": "SQL",
+            "start": 3.227
+          },
+          {
+            "text": "được",
+            "start": 3.6
+          },
+          {
+            "text": "viết",
+            "start": 3.9
+          },
+          {
+            "text": "bắt",
+            "start": 4.18
+          },
+          {
+            "text": "đầu",
+            "start": 4.38
+          },
+          {
+            "text": "bằng",
+            "start": 4.54
+          },
+          {
+            "text": "SELECT,",
+            "start": 4.78
+          }
+        ]
+      },
+      {
+        "start": 5.88,
+        "end": 8.81,
+        "text": "nhưng thứ tự xử lý logic lại bắt đầu từ FROM.",
+        "words": [
+          {
+            "text": "nhưng",
+            "start": 5.88
+          },
+          {
+            "text": "thứ",
+            "start": 5.96
+          },
+          {
+            "text": "tự",
+            "start": 6.22
+          },
+          {
+            "text": "xử",
+            "start": 6.43
+          },
+          {
+            "text": "lý",
+            "start": 6.64
+          },
+          {
+            "text": "logic",
+            "start": 6.8
+          },
+          {
+            "text": "lại",
+            "start": 7.16
+          },
+          {
+            "text": "bắt",
+            "start": 7.5
+          },
+          {
+            "text": "đầu",
+            "start": 7.72
+          },
+          {
+            "text": "từ",
+            "start": 7.9
+          },
+          {
+            "text": "FROM.",
+            "start": 8.1
+          }
+        ]
+      },
+      {
+        "start": 8.81,
+        "end": 13.66,
+        "text": "Hệ thống xác định dữ liệu, lọc các dòng hợp lệ, chọn các cột,",
+        "words": [
+          {
+            "text": "Hệ",
+            "start": 8.81
+          },
+          {
+            "text": "thống",
+            "start": 9.52
+          },
+          {
+            "text": "xác",
+            "start": 9.72
+          },
+          {
+            "text": "định",
+            "start": 9.96
+          },
+          {
+            "text": "dữ",
+            "start": 10.17
+          },
+          {
+            "text": "liệu,",
+            "start": 10.38
+          },
+          {
+            "text": "lọc",
+            "start": 11.14
+          },
+          {
+            "text": "các",
+            "start": 11.34
+          },
+          {
+            "text": "dòng",
+            "start": 11.44
+          },
+          {
+            "text": "hợp",
+            "start": 11.68
+          },
+          {
+            "text": "lệ,",
+            "start": 11.9
+          },
+          {
+            "text": "chọn",
+            "start": 12.64
+          },
+          {
+            "text": "các",
+            "start": 12.74
+          },
+          {
+            "text": "cột,",
+            "start": 13.0
+          }
+        ]
+      },
+      {
+        "start": 13.66,
+        "end": 18.12,
+        "text": "sắp xếp, bỏ qua những dòng trước đó, rồi giới hạn kết quả.",
+        "words": [
+          {
+            "text": "sắp",
+            "start": 13.66
+          },
+          {
+            "text": "xếp,",
+            "start": 14.14
+          },
+          {
+            "text": "bỏ",
+            "start": 14.62
+          },
+          {
+            "text": "qua",
+            "start": 14.7
+          },
+          {
+            "text": "những",
+            "start": 14.92
+          },
+          {
+            "text": "dòng",
+            "start": 15.08
+          },
+          {
+            "text": "trước",
+            "start": 15.36
+          },
+          {
+            "text": "đó,",
+            "start": 15.56
+          },
+          {
+            "text": "rồi",
+            "start": 16.42
+          },
+          {
+            "text": "giới",
+            "start": 16.58
+          },
+          {
+            "text": "hạn",
+            "start": 16.86
+          },
+          {
+            "text": "kết",
+            "start": 17.04
+          },
+          {
+            "text": "quả.",
+            "start": 17.22
+          }
+        ]
+      },
+      {
+        "start": 18.12,
+        "end": 21.0,
+        "text": "Đây là thứ tự logic để hiểu truy vấn, không",
+        "words": [
+          {
+            "text": "Đây",
+            "start": 18.12
+          },
+          {
+            "text": "là",
+            "start": 18.36
+          },
+          {
+            "text": "thứ",
+            "start": 18.52
+          },
+          {
+            "text": "tự",
+            "start": 18.64
+          },
+          {
+            "text": "logic",
+            "start": 18.86
+          },
+          {
+            "text": "để",
+            "start": 19.26
+          },
+          {
+            "text": "hiểu",
+            "start": 19.58
+          },
+          {
+            "text": "truy",
+            "start": 19.8
+          },
+          {
+            "text": "vấn,",
+            "start": 20.02
+          },
+          {
+            "text": "không",
+            "start": 20.86
+          }
+        ]
+      },
+      {
+        "start": 21.0,
+        "end": 24.46,
+        "text": "nhất thiết là thứ tự PostgreSQL thực thi bên trong.",
+        "words": [
+          {
+            "text": "nhất",
+            "start": 21.0
+          },
+          {
+            "text": "thiết",
+            "start": 21.2
+          },
+          {
+            "text": "là",
+            "start": 21.46
+          },
+          {
+            "text": "thứ",
+            "start": 21.62
+          },
+          {
+            "text": "tự",
+            "start": 21.78
+          },
+          {
+            "text": "PostgreSQL",
+            "start": 22.06
+          },
+          {
+            "text": "thực",
+            "start": 23.08
+          },
+          {
+            "text": "thi",
+            "start": 23.7
+          },
+          {
+            "text": "bên",
+            "start": 23.96
+          },
+          {
+            "text": "trong.",
+            "start": 24.14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": 8,
+    "method": "local Whisper base word timing + exact script matching/interpolation",
+    "matched_fraction": 0.789,
+    "cues": [
+      {
+        "start": 0.08,
+        "end": 3.56,
+        "text": "Vậy là chỉ với vài câu lệnh cơ bản, chúng ta đã",
+        "words": [
+          {
+            "text": "Vậy",
+            "start": 0.08
+          },
+          {
+            "text": "là",
+            "start": 0.64
+          },
+          {
+            "text": "chỉ",
+            "start": 0.82
+          },
+          {
+            "text": "với",
+            "start": 1.04
+          },
+          {
+            "text": "vài",
+            "start": 1.3
+          },
+          {
+            "text": "câu",
+            "start": 1.56
+          },
+          {
+            "text": "lệnh",
+            "start": 1.92
+          },
+          {
+            "text": "cơ",
+            "start": 2.1
+          },
+          {
+            "text": "bản,",
+            "start": 2.3
+          },
+          {
+            "text": "chúng",
+            "start": 3.12
+          },
+          {
+            "text": "ta",
+            "start": 3.24
+          },
+          {
+            "text": "đã",
+            "start": 3.42
+          }
+        ]
+      },
+      {
+        "start": 3.56,
+        "end": 8.0,
+        "text": "biến một danh sách hỗn độn thành danh sách ưu tiên rõ ràng.",
+        "words": [
+          {
+            "text": "biến",
+            "start": 3.56
+          },
+          {
+            "text": "một",
+            "start": 3.86
+          },
+          {
+            "text": "danh",
+            "start": 4.144
+          },
+          {
+            "text": "sách",
+            "start": 4.428
+          },
+          {
+            "text": "hỗn",
+            "start": 4.712
+          },
+          {
+            "text": "độn",
+            "start": 4.996
+          },
+          {
+            "text": "thành",
+            "start": 5.28
+          },
+          {
+            "text": "danh",
+            "start": 5.547
+          },
+          {
+            "text": "sách",
+            "start": 5.813
+          },
+          {
+            "text": "ưu",
+            "start": 6.08
+          },
+          {
+            "text": "tiên",
+            "start": 6.34
+          },
+          {
+            "text": "rõ",
+            "start": 6.6
+          },
+          {
+            "text": "ràng.",
+            "start": 6.84
+          }
+        ]
+      },
+      {
+        "start": 8.0,
+        "end": 9.1,
+        "text": "Hãy nhớ:",
+        "words": [
+          {
+            "text": "Hãy",
+            "start": 8.0
+          },
+          {
+            "text": "nhớ:",
+            "start": 8.14
+          }
+        ]
+      },
+      {
+        "start": 9.1,
+        "end": 12.76,
+        "text": "lọc đúng, sắp xếp đúng, rồi mới giới hạn kết quả!",
+        "words": [
+          {
+            "text": "lọc",
+            "start": 9.1
+          },
+          {
+            "text": "đúng,",
+            "start": 9.34
+          },
+          {
+            "text": "sắp",
+            "start": 10.2
+          },
+          {
+            "text": "xếp",
+            "start": 10.3
+          },
+          {
+            "text": "đúng,",
+            "start": 10.64
+          },
+          {
+            "text": "rồi",
+            "start": 11.42
+          },
+          {
+            "text": "mới",
+            "start": 11.48
+          },
+          {
+            "text": "giới",
+            "start": 11.72
+          },
+          {
+            "text": "hạn",
+            "start": 12.0
+          },
+          {
+            "text": "kết",
+            "start": 12.22
+          },
+          {
+            "text": "quả!",
+            "start": 12.44
+          }
+        ]
+      }
+    ]
+  }
+]

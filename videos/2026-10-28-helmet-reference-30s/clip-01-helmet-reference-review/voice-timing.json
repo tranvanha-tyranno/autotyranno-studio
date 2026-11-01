@@ -1,0 +1,51 @@
+{
+  "method": "Separate five paragraphs at four measured inter-paragraph silences; preserve speech with 80ms margins.",
+  "source_sha256": "dbf54b9e78cd7442848e909c68fcd6992833ebea020529174e3e664c03563506",
+  "paragraphs": [
+    {
+      "scene": 1,
+      "source_start": 0.0,
+      "source_end": 7.422245,
+      "audio_tempo": 1.2453431208053691,
+      "final_start": 0,
+      "final_end": 6,
+      "source": "voice.mp3"
+    },
+    {
+      "scene": 2,
+      "source_start": 0.0,
+      "source_end": 6.69,
+      "audio_tempo": 1.1224832214765101,
+      "final_start": 6,
+      "final_end": 12,
+      "source": "audio-detail-correction\\clip-01-detail\\voice.mp3"
+    },
+    {
+      "scene": 3,
+      "source_start": 15.310771,
+      "source_end": 21.909116,
+      "audio_tempo": 1.107104865771812,
+      "final_start": 12,
+      "final_end": 18,
+      "source": "voice.mp3"
+    },
+    {
+      "scene": 4,
+      "source_start": 22.729048,
+      "source_end": 28.51932,
+      "audio_tempo": 1.0,
+      "final_start": 18,
+      "final_end": 24,
+      "source": "voice.mp3"
+    },
+    {
+      "scene": 5,
+      "source_start": 29.252925,
+      "source_end": 35.71,
+      "audio_tempo": 1.0834018456375838,
+      "final_start": 24,
+      "final_end": 30,
+      "source": "voice.mp3"
+    }
+  ]
+}

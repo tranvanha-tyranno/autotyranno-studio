@@ -1,0 +1,16 @@
+{
+  "source_batch": "videos\\2026-10-28-powerbank-feedback-v2-42s",
+  "source_scene": "videos\\2026-10-28-powerbank-feedback-v2-42s\\clip-01-lavender-tactile-review\\scene-02-r02",
+  "source_sha256": "3b2558bf031e7e2d66b98d110caa125b18d6022a5bc1294e928956965ea3806d",
+  "original_review": {
+    "result": "accepted_with_limitations",
+    "source_sha256": "3b2558bf031e7e2d66b98d110caa125b18d6022a5bc1294e928956965ea3806d",
+    "samples": "20 frames, 0.5s intervals",
+    "observed_action": "Revised take retains original horizontal/diagonal palm orientation and BLACK window throughout. Clear free-hand rise, actual fingertip contact/stroking over blank shell, mild in-hand yaw and final release. No upside-down flip.",
+    "identity": "Cream blouse and low ponytail remain consistent; lower face appears late, matching anchor visually.",
+    "limitations": "Natural pause/precise 3-degree yaw not numerically verified. Fingers sometimes pass close to display rim; fine glyphs vary. Full body and one loop remain within frame. Final exposure correction pending."
+  },
+  "reference_match": "Agent visually compared lavender shell, black window, original loop and supplied collage. Original screenshot bytes differ; no exact-file identity claim.",
+  "provider_calls": 0,
+  "reason": "Reuse separately inspected close-up motion retaining diagonal pose rather than repeatedly billing failed medium-portrait poses."
+}

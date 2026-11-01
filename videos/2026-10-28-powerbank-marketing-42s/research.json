@@ -1,0 +1,38 @@
+{
+  "checked_date": "2026-10-28",
+  "identity": "Unbranded visual match to YM-931-style listings. Exact supplied unit has no readable model/rating label.",
+  "primary_source": "https://en.yiwugo.com/product/detail/985643339.html",
+  "image_match_source": "https://manuals.plus/ae/1005009175456096",
+  "conflicting_secondary_source": "https://manuals.plus/m/8be5c3aa7a3f015d633bb28259739e5d44a4b19185427f21c2f8a02d4b11cac3",
+  "claims": [
+    {
+      "claim": "Matching supplier advertises 10000/20000 mAh versions and 10 W",
+      "status": "listing claim, not exact-unit verification"
+    },
+    {
+      "claim": "Secondary page says 20 W",
+      "status": "conflicts; excluded from narration"
+    },
+    {
+      "claim": "Purple/black/light-blue/white body, rounded edges, strap, black level window",
+      "status": "visible in user image"
+    }
+  ],
+  "excluded": [
+    "brand certainty",
+    "20 W fast charging",
+    "PD/QC",
+    "actual capacity test",
+    "number of phone recharges",
+    "loop as cable",
+    "discounts",
+    "price",
+    "stock scarcity"
+  ],
+  "primary_direct_check": {
+    "status": 200,
+    "model_on_page": "ym-931",
+    "supplier_thumbnail": "input/research-supplier-thumbnail.jpg",
+    "observations": "Supplier illustration has same color family, level-window/loop design, and shows four rear cables not visible in user photo. No integrated-cable claim is included in the video. Capacity options and 10 W appear on supplier page; exact unit unverified."
+  }
+}

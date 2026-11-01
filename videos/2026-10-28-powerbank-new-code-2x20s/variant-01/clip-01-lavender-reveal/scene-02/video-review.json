@@ -1,0 +1,5 @@
+{
+  "result": "rejected",
+  "source_sha256": "802c36c55b9b6e6d90f6f959f4dd6a71d70c83c39c7992befabe9f90ad600d59",
+  "notes": "Action sheet inspected: product turned upright, level markings disappear/black window becomes gray; excessive turning changes geometry. Reject and use same locked-pose 3-degree retry as scene 1."
+}

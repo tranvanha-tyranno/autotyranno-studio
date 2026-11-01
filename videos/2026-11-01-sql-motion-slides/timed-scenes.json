@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "scene-01",
+    "dialogue": "Bạn yêu cầu SQL lấy ba khách hàng cần được hỗ trợ gấp nhất. Hệ thống trả về đúng ba dòng, nhưng người chờ 90 phút lại bị bỏ qua! SQL không báo lỗi. Vậy vấn đề nằm ở đâu?",
+    "duration_seconds": 15,
+    "title": "Đủ 3 dòng. Nhưng đã đúng 3 dòng?"
+  },
+  {
+    "slug": "scene-02",
+    "dialogue": "Trung tâm hỗ trợ nhận hàng loạt yêu cầu mỗi ngày. Nhiệm vụ của chúng ta là tìm các phiếu đang mở, gửi từ App hoặc Web, và đã chờ ít nhất 30 phút. Những người chờ lâu hơn cần được ưu tiên, mỗi trang hiển thị ba phiếu.",
+    "duration_seconds": 20,
+    "title": "Một hàng đợi. Bốn quy tắc."
+  },
+  {
+    "slug": "scene-03",
+    "dialogue": "Đầu tiên, FROM xác định bảng dữ liệu chúng ta cần truy vấn. Còn SELECT cho biết những cột nào sẽ xuất hiện trong kết quả. Ở đây, ta chỉ cần mã phiếu, kênh tiếp nhận và số phút chờ. Nhưng hiện tại, các yêu cầu chưa được lọc!",
+    "duration_seconds": 20,
+    "title": "Lấy bảng nào? Hiển thị cột nào?"
+  },
+  {
+    "slug": "scene-04",
+    "dialogue": "Đây là lúc WHERE phát huy tác dụng. Dấu bằng dùng để so sánh trạng thái. IN giúp kiểm tra kênh tiếp nhận có thuộc danh sách App hoặc Web hay không. Còn lớn hơn hoặc bằng 30 giúp giữ lại những phiếu đã chờ đủ lâu. Khi nối bằng AND, một phiếu phải thỏa mãn tất cả điều kiện mới được giữ lại. IN ở đây tương đương hai điều kiện nối bằng OR. Nếu kết hợp OR với AND, hãy chú ý dấu ngoặc để tránh lọc sai!",
+    "duration_seconds": 33,
+    "title": "Chỉ giữ lại phiếu thỏa mọi điều kiện"
+  },
+  {
+    "slug": "scene-05",
+    "dialogue": "Sau WHERE, chúng ta còn bảy phiếu hợp lệ. Nhưng chưa chắc phiếu chờ lâu nhất đang đứng đầu. ORDER BY wait_min DESC sẽ sắp xếp số phút chờ từ cao xuống thấp. Nếu hai phiếu có cùng thời gian chờ, ta thêm id DESC làm tiêu chí phụ để xác định thứ tự rõ ràng.",
+    "duration_seconds": 25,
+    "title": "Người chờ lâu hơn, được ưu tiên trước"
+  },
+  {
+    "slug": "scene-06",
+    "dialogue": "Bây giờ, LIMIT quyết định số dòng tối đa được trả về, còn OFFSET quyết định bỏ qua bao nhiêu dòng. Trang đầu tiên, LIMIT 3 OFFSET 0 lấy ba phiếu đầu. Sang trang hai, OFFSET 3 bỏ qua ba phiếu trước đó, rồi LIMIT 3 lấy ba phiếu tiếp theo. Quan trọng nhé: phải xác định thứ tự sắp xếp trước khi phân trang!",
+    "duration_seconds": 27,
+    "title": "Một danh sách. Nhiều trang."
+  },
+  {
+    "slug": "scene-07",
+    "dialogue": "Và đây là điều thú vị! Mặc dù câu SQL được viết bắt đầu bằng SELECT, nhưng thứ tự xử lý logic lại bắt đầu từ FROM. Hệ thống xác định dữ liệu, lọc các dòng hợp lệ, chọn các cột, sắp xếp, bỏ qua những dòng trước đó, rồi giới hạn kết quả. Đây là thứ tự logic để hiểu truy vấn, không nhất thiết là thứ tự PostgreSQL thực thi bên trong.",
+    "duration_seconds": 25,
+    "title": "Viết từ SELECT. Hiểu từ FROM."
+  },
+  {
+    "slug": "scene-08",
+    "dialogue": "Vậy là chỉ với vài câu lệnh cơ bản, chúng ta đã biến một danh sách hỗn độn thành danh sách ưu tiên rõ ràng. Hãy nhớ: lọc đúng, sắp xếp đúng, rồi mới giới hạn kết quả!",
+    "duration_seconds": 15,
+    "title": "Lọc đúng. Sắp xếp đúng. Rồi giới hạn."
+  }
+]

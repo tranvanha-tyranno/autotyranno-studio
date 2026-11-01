@@ -1,0 +1,142 @@
+[
+  {
+    "file": "variant-01\\clip-01-lavender-sales-cream\\scene-01\\clip-01-narration\\voice.mp3",
+    "seconds": 7.24,
+    "silence_events": [
+      "silence_start: 1.043719",
+      "silence_end: 1.352245 | silence_duration: 0.308526",
+      "silence_start: 2.438027",
+      "silence_end: 3.366508 | silence_duration: 0.928481",
+      "silence_start: 5.891927",
+      "silence_end: 6.188095 | silence_duration: 0.296168"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-sales-cream\\scene-02\\clip-01-narration\\voice.mp3",
+    "seconds": 6.53,
+    "silence_events": [
+      "silence_start: 2.109093",
+      "silence_end: 2.438413 | silence_duration: 0.32932",
+      "silence_start: 3.445578",
+      "silence_end: 4.020091 | silence_duration: 0.574512"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-sales-cream\\scene-03\\clip-01-narration\\voice.mp3",
+    "seconds": 8.52,
+    "silence_events": [
+      "silence_start: 0.861655",
+      "silence_end: 1.294467 | silence_duration: 0.432812",
+      "silence_start: 1.972721",
+      "silence_end: 2.366871 | silence_duration: 0.39415",
+      "silence_start: 3.101066",
+      "silence_end: 3.352517 | silence_duration: 0.251451",
+      "silence_start: 4.139683",
+      "silence_end: 4.65424 | silence_duration: 0.514558",
+      "silence_start: 6.446644",
+      "silence_end: 6.728617 | silence_duration: 0.281973"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-sales-cream\\scene-04\\clip-01-narration\\voice.mp3",
+    "seconds": 7.39,
+    "silence_events": [
+      "silence_start: 2.02907",
+      "silence_end: 2.408027 | silence_duration: 0.378957",
+      "silence_start: 3.871134",
+      "silence_end: 4.360544 | silence_duration: 0.48941"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-sales-cream\\scene-05\\clip-01-narration\\voice.mp3",
+    "seconds": 7.63,
+    "silence_events": [
+      "silence_start: 1.551882",
+      "silence_end: 2.01381 | silence_duration: 0.461927",
+      "silence_start: 5.089705",
+      "silence_end: 5.578617 | silence_duration: 0.488912"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-sales-cream\\scene-06\\clip-01-narration\\voice.mp3",
+    "seconds": 7.31,
+    "silence_events": [
+      "silence_start: 2.17932",
+      "silence_end: 2.74966 | silence_duration: 0.57034",
+      "silence_start: 4.532449",
+      "silence_end: 4.8978 | silence_duration: 0.365351"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-sales-sage\\scene-01\\clip-01-narration\\voice.mp3",
+    "seconds": 7.08,
+    "silence_events": [
+      "silence_start: 1.770816",
+      "silence_end: 2.46644 | silence_duration: 0.695624",
+      "silence_start: 4.982358",
+      "silence_end: 5.370522 | silence_duration: 0.388163"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-sales-sage\\scene-02\\clip-01-narration\\voice.mp3",
+    "seconds": 6.84,
+    "silence_events": [
+      "silence_start: 0.91966",
+      "silence_end: 1.311542 | silence_duration: 0.391882",
+      "silence_start: 3.264331",
+      "silence_end: 3.944694 | silence_duration: 0.680363"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-sales-sage\\scene-03\\clip-01-narration\\voice.mp3",
+    "seconds": 7.08,
+    "silence_events": [
+      "silence_start: 0.852426",
+      "silence_end: 1.235102 | silence_duration: 0.382676",
+      "silence_start: 1.9322",
+      "silence_end: 2.253605 | silence_duration: 0.321406",
+      "silence_start: 3.34551",
+      "silence_end: 3.628209 | silence_duration: 0.282698",
+      "silence_start: 4.394535",
+      "silence_end: 4.774376 | silence_duration: 0.379841"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-sales-sage\\scene-04\\clip-01-narration\\voice.mp3",
+    "seconds": 7.39,
+    "silence_events": [
+      "silence_start: 1.829932",
+      "silence_end: 2.189592 | silence_duration: 0.35966",
+      "silence_start: 4.036916",
+      "silence_end: 4.534354 | silence_duration: 0.497438",
+      "silence_start: 5.224308",
+      "silence_end: 5.488798 | silence_duration: 0.26449"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-sales-sage\\scene-05\\clip-01-narration\\voice.mp3",
+    "seconds": 8.12,
+    "silence_events": [
+      "silence_start: 0.898662",
+      "silence_end: 1.258073 | silence_duration: 0.35941",
+      "silence_start: 3.57068",
+      "silence_end: 4.054535 | silence_duration: 0.483855",
+      "silence_start: 5.763175",
+      "silence_end: 6.367664 | silence_duration: 0.60449"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-sales-sage\\scene-06\\clip-01-narration\\voice.mp3",
+    "seconds": 7.63,
+    "silence_events": [
+      "silence_start: 1.534989",
+      "silence_end: 2.093356 | silence_duration: 0.558367",
+      "silence_start: 2.794785",
+      "silence_end: 3.05093 | silence_duration: 0.256145",
+      "silence_start: 4.047052",
+      "silence_end: 4.393447 | silence_duration: 0.346395",
+      "silence_start: 5.426893",
+      "silence_end: 5.765034 | silence_duration: 0.338141"
+    ]
+  }
+]

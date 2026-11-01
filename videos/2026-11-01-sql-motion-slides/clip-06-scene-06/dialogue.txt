@@ -1,0 +1,1 @@
+Bây giờ, LIMIT quyết định số dòng tối đa được trả về, còn OFFSET quyết định bỏ qua bao nhiêu dòng. Trang đầu tiên, LIMIT 3 OFFSET 0 lấy ba phiếu đầu. Sang trang hai, OFFSET 3 bỏ qua ba phiếu trước đó, rồi LIMIT 3 lấy ba phiếu tiếp theo. Quan trọng nhé: phải xác định thứ tự sắp xếp trước khi phân trang!

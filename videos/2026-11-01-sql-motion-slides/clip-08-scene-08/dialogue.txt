@@ -1,0 +1,1 @@
+Vậy là chỉ với vài câu lệnh cơ bản, chúng ta đã biến một danh sách hỗn độn thành danh sách ưu tiên rõ ràng. Hãy nhớ: lọc đúng, sắp xếp đúng, rồi mới giới hạn kết quả!

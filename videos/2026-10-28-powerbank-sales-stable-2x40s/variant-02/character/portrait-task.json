@@ -1,0 +1,35 @@
+{
+  "id": "task_e50ca5c70299472da596",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Create ONE photorealistic canonical character portrait, vertical 9:16. A newly invented adult Vietnamese woman aged 30 with a softly angular face, warm tan skin, dark almond-shaped eyes, straight chin-length BLACK BOB haircut with a side part. Plain pastel sage-green long-sleeve shirt, simple collar, no jewelry or visible logos. Head and upper torso clearly visible, full hair and shoulders, friendly relaxed closed-mouth smile. Even bright diffuse neutral studio illumination, pale warm-gray background. Fictional adult, no likeness of a specific real person. One person only. No product, prop, text, watermark, illustration or collage.",
+  "status": "completed",
+  "created_at": 1793188508,
+  "updated_at": 1793188573,
+  "result": {
+    "filename": "dbdd053fe3184abcb4df715acd45b29b.webp",
+    "size": 264416,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/dbdd053fe3184abcb4df715acd45b29b.webp"
+  },
+  "error": null,
+  "api_prompt": "全新文生图创作（当前未提供任何参考图，请勿查找历史相册或向用户索要原图，直接根据文字描述从零绘制生成一张全新图片）：Create ONE photorealistic canonical character portrait, vertical 9:16. A newly invented adult Vietnamese woman aged 30 with a softly angular face, warm tan skin, dark almond-shaped eyes, straight chin-length BLACK BOB haircut with a side part. Plain pastel sage-green long-sleeve shirt, simple collar, no jewelry or visible logos. Head and upper torso clearly visible, full hair and shoulders, friendly relaxed closed-mouth smile. Even bright diffuse neutral studio illumination, pale warm-gray background. Fictional adult, no likeness of a specific real person. One person only. No product, prop, text, watermark, illustration or collage.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "7640e40b5c8b431b13488b6a36dfea1e3f59fcb4bc35584c889f8acb9ec43da0",
+  "image_request_hash": "1b9556b13f2b1610d2a657a487766eac3fc6ab473d51fb8182a8adac7e2242ab",
+  "account": "a751edd5ab57",
+  "elapsed": 65.2,
+  "url": "http://127.0.0.1:18610/v1/media/dbdd053fe3184abcb4df715acd45b29b.webp",
+  "created": 1793188578,
+  "data": [
+    {
+      "revised_prompt": "Create ONE photorealistic canonical character portrait, vertical 9:16. A newly invented adult Vietnamese woman aged 30 with a softly angular face, warm tan skin, dark almond-shaped eyes, straight chin-length BLACK BOB haircut with a side part. Plain pastel sage-green long-sleeve shirt, simple collar, no jewelry or visible logos. Head and upper torso clearly visible, full hair and shoulders, friendly relaxed closed-mouth smile. Even bright diffuse neutral studio illumination, pale warm-gray background. Fictional adult, no likeness of a specific real person. One person only. No product, prop, text, watermark, illustration or collage.",
+      "url": "http://127.0.0.1:18610/v1/media/dbdd053fe3184abcb4df715acd45b29b.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 264416
+    }
+  ]
+}

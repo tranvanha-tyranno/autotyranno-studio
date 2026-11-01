@@ -1,0 +1,35 @@
+{
+  "id": "task_1bdad803e3844e7e987c",
+  "object": "task",
+  "kind": "image",
+  "prompt": "Create ONE photorealistic canonical character-reference portrait, vertical 9:16. A newly invented adult Vietnamese woman, about 28 years old, oval face, natural dark-brown eyes, straight small nose, naturally shaped lips, warm medium-light skin with realistic slight texture, dark hair neatly tied in a LOW PONYTAIL, a few tidy small wisps by ears. Plain cream long-sleeve cotton blouse with a simple collar, no jewelry. Medium head-and-upper-torso view, facing camera, both ears and full hairline visible, shoulders level, relaxed closed-mouth friendly half-smile. Neutral pale warm-gray studio backdrop. Stable bright softbox illumination from front-left plus gentle fill, neutral white balance, no harsh shadows or backlight. This is a fictional adult, not a likeness of any real person. Exact face, hairstyle and blouse will be used as an identity anchor across later product-review scenes. No product, other person, text, collage, graphic, label, signature or watermark. One single portrait, not a contact sheet.",
+  "status": "completed",
+  "created_at": 1793170900,
+  "updated_at": 1793170938,
+  "result": {
+    "filename": "e3c6ae6e723d47e5b00c96c82235f561.webp",
+    "size": 272658,
+    "kind": "image",
+    "url": "http://127.0.0.1:18610/v1/media/e3c6ae6e723d47e5b00c96c82235f561.webp"
+  },
+  "error": null,
+  "api_prompt": "全新文生图创作（当前未提供任何参考图，请勿查找历史相册或向用户索要原图，直接根据文字描述从零绘制生成一张全新图片）：Create ONE photorealistic canonical character-reference portrait, vertical 9:16. A newly invented adult Vietnamese woman, about 28 years old, oval face, natural dark-brown eyes, straight small nose, naturally shaped lips, warm medium-light skin with realistic slight texture, dark hair neatly tied in a LOW PONYTAIL, a few tidy small wisps by ears. Plain cream long-sleeve cotton blouse with a simple collar, no jewelry. Medium head-and-upper-torso view, facing camera, both ears and full hairline visible, shoulders level, relaxed closed-mouth friendly half-smile. Neutral pale warm-gray studio backdrop. Stable bright softbox illumination from front-left plus gentle fill, neutral white balance, no harsh shadows or backlight. This is a fictional adult, not a likeness of any real person. Exact face, hairstyle and blouse will be used as an identity anchor across later product-review scenes. No product, other person, text, collage, graphic, label, signature or watermark. One single portrait, not a contact sheet.，【画面构图与比例要求】：严格 9:16 竖屏满屏画幅（9:16 vertical portrait aspect ratio，高大于宽的手机全屏竖版画面），绝对不要生成横屏，保持垂直构图",
+  "size": "9:16",
+  "response_format": "url",
+  "progress": 100,
+  "image_request_key": "76b32bda5f9f612ef7665ee157835a50330cc63fd2bc03de8bca556a3a3c37c7",
+  "image_request_hash": "a483ba095fb6ebc1f739d1deccca0bc6378a4ae9318315085fd19cec00fba890",
+  "account": "c9a89b756a88",
+  "elapsed": 38.0,
+  "url": "http://127.0.0.1:18610/v1/media/e3c6ae6e723d47e5b00c96c82235f561.webp",
+  "created": 1793170940,
+  "data": [
+    {
+      "revised_prompt": "Create ONE photorealistic canonical character-reference portrait, vertical 9:16. A newly invented adult Vietnamese woman, about 28 years old, oval face, natural dark-brown eyes, straight small nose, naturally shaped lips, warm medium-light skin with realistic slight texture, dark hair neatly tied in a LOW PONYTAIL, a few tidy small wisps by ears. Plain cream long-sleeve cotton blouse with a simple collar, no jewelry. Medium head-and-upper-torso view, facing camera, both ears and full hairline visible, shoulders level, relaxed closed-mouth friendly half-smile. Neutral pale warm-gray studio backdrop. Stable bright softbox illumination from front-left plus gentle fill, neutral white balance, no harsh shadows or backlight. This is a fictional adult, not a likeness of any real person. Exact face, hairstyle and blouse will be used as an identity anchor across later product-review scenes. No product, other person, text, collage, graphic, label, signature or watermark. One single portrait, not a contact sheet.",
+      "url": "http://127.0.0.1:18610/v1/media/e3c6ae6e723d47e5b00c96c82235f561.webp",
+      "size": "9:16",
+      "kind": "image",
+      "bytes": 272658
+    }
+  ]
+}

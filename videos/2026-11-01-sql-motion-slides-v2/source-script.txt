@@ -1,0 +1,238 @@
+## Scene 1 — Hook: Hệ thống đang ưu tiên sai? | 0–15 giây
+
+*Hình ảnh:*
+
+Một màn hình quản lý yêu cầu hỗ trợ khách hàng xuất hiện với tiêu đề “Ưu tiên xử lý”.
+
+Ba phiếu hỗ trợ được hiển thị trên màn hình. Bất ngờ, một phiếu đang chờ 90 phút xuất hiện ở phía dưới, trong khi phiếu chỉ chờ 30 phút lại được hiển thị ở đầu danh sách.
+
+Màn hình hiện dòng chữ lớn:
+
+*“TRẢ ĐÚNG 3 DÒNG ≠ CHỌN ĐÚNG 3 DÒNG”*
+
+*Lời dẫn:*
+
+“Bạn yêu cầu SQL lấy ba khách hàng cần được hỗ trợ gấp nhất. Hệ thống trả về đúng ba dòng, nhưng người chờ 90 phút lại bị bỏ qua! SQL không báo lỗi. Vậy vấn đề nằm ở đâu?”
+
+---
+
+## Scene 2 — Context: Bài toán thực tế | 15–35 giây
+
+*Hình ảnh:*
+
+Camera chuyển vào giao diện trung tâm chăm sóc khách hàng.
+
+Nhiều phiếu hỗ trợ xuất hiện, mỗi phiếu gồm bốn thuộc tính:
+
+- Mã yêu cầu
+- Trạng thái: Open hoặc Closed
+- Kênh tiếp nhận: App, Web hoặc Phone
+- Thời gian chờ (phút)
+
+Một bảng dữ liệu tickets xuất hiện.
+
+Bên cạnh là bảng điều khiển ghi yêu cầu của hệ thống:
+
+“Chỉ lấy yêu cầu đang mở, từ App hoặc Web, đã chờ ít nhất 30 phút. Ưu tiên người chờ lâu nhất. Mỗi trang hiển thị 3 yêu cầu.”
+
+*Lời dẫn:*
+
+“Trung tâm hỗ trợ nhận hàng loạt yêu cầu mỗi ngày. Nhiệm vụ của chúng ta là tìm các phiếu đang mở, gửi từ App hoặc Web, và đã chờ ít nhất 30 phút. Những người chờ lâu hơn cần được ưu tiên, mỗi trang hiển thị ba phiếu.”
+
+---
+
+## Scene 3 — SELECT và FROM: Chọn dữ liệu cần xem | 35–55 giây
+
+*Hình ảnh:*
+
+Bảng tickets hiện lên đầy đủ.
+
+Dòng code đầu tiên xuất hiện:
+
+SELECT id, channel, wait_min
+FROM tickets;
+
+Animation:
+
+- FROM tickets sáng lên, bảng dữ liệu được đưa vào khu vực xử lý.
+- SELECT sáng lên, ba cột id, channel, wait_min được khoanh lại.
+- Các cột khác mờ đi trong phần bảng kết quả.
+
+*Lời dẫn:*
+
+“Đầu tiên, FROM xác định bảng dữ liệu chúng ta cần truy vấn. Còn SELECT cho biết những cột nào sẽ xuất hiện trong kết quả. Ở đây, ta chỉ cần mã phiếu, kênh tiếp nhận và số phút chờ. Nhưng hiện tại, các yêu cầu chưa được lọc!”
+
+*Text animation:*
+
+FROM → Nguồn dữ liệu
+
+SELECT → Các cột cần hiển thị
+
+---
+
+## Scene 4 — WHERE và Filtering Operators | 55–88 giây
+
+*Hình ảnh:*
+
+Các phiếu hỗ trợ được đặt trên một băng chuyền dữ liệu.
+
+Bộ lọc thứ nhất xuất hiện:
+
+status = 'open'
+
+Những phiếu đã đóng chuyển sang màu xám và bị loại.
+
+Bộ lọc thứ hai:
+
+channel IN ('app', 'web')
+
+Các phiếu từ Phone bị loại.
+
+Bộ lọc thứ ba:
+
+wait_min >= 30
+
+Những phiếu chờ dưới 30 phút tiếp tục biến mất.
+
+Cả ba điều kiện ghép lại bằng AND.
+
+*Lời dẫn:*
+
+“Đây là lúc WHERE phát huy tác dụng. Dấu bằng dùng để so sánh trạng thái. IN giúp kiểm tra kênh tiếp nhận có thuộc danh sách App hoặc Web hay không. Còn lớn hơn hoặc bằng 30 giúp giữ lại những phiếu đã chờ đủ lâu.
+
+Khi nối bằng AND, một phiếu phải thỏa mãn tất cả điều kiện mới được giữ lại.”
+
+*Animation bổ sung:*
+
+Hiện hai biểu thức tương đương:
+
+channel IN ('app', 'web')
+
+(channel = 'app' OR channel = 'web')
+
+Một cặp dấu ngoặc sáng lên.
+
+*Lời dẫn tiếp:*
+
+“IN ở đây tương đương hai điều kiện nối bằng OR. Nếu kết hợp OR với AND, hãy chú ý dấu ngoặc để tránh lọc sai!”
+
+*Text phụ trên màn hình:*
+
+BETWEEN – Lọc theo khoảng giá trị
+
+LIKE – Lọc chuỗi theo mẫu
+
+---
+
+## Scene 5 — ORDER BY: Ai được ưu tiên? | 88–113 giây
+
+*Hình ảnh:*
+
+Sau khi lọc, bảy phiếu hợp lệ còn lại xuất hiện nhưng nằm lộn xộn.
+
+Dòng lệnh xuất hiện:
+
+ORDER BY wait_min DESC, id DESC
+
+Các phiếu tự di chuyển theo số phút chờ từ cao xuống thấp.
+
+Hai phiếu cùng chờ 70 phút được khoanh lại. Mã phiếu lớn hơn di chuyển lên trước.
+
+*Lời dẫn:*
+
+“Sau WHERE, chúng ta còn bảy phiếu hợp lệ. Nhưng chưa chắc phiếu chờ lâu nhất đang đứng đầu. ORDER BY wait_min DESC sẽ sắp xếp số phút chờ từ cao xuống thấp.
+
+Nếu hai phiếu có cùng thời gian chờ, ta thêm id DESC làm tiêu chí phụ để xác định thứ tự rõ ràng.”
+
+*Text animation:*
+
+ASC = Tăng dần
+
+DESC = Giảm dần
+
+---
+
+## Scene 6 — LIMIT/OFFSET: Chia dữ liệu thành nhiều trang | 113–140 giây
+
+*Hình ảnh:*
+
+Bảy phiếu sau khi sắp xếp đứng thành một hàng dọc.
+
+Trang 1 xuất hiện:
+
+LIMIT 3 OFFSET 0;
+
+Ba phiếu đầu được tô xanh và chuyển sang khung “Trang 1”.
+
+Sau đó người dùng nhấn nút Next.
+
+Code thay đổi thành:
+
+LIMIT 3 OFFSET 3;
+
+Ba phiếu đầu mờ đi và được đánh dấu “Bỏ qua”. Ba phiếu tiếp theo chuyển vào khung “Trang 2”.
+
+*Lời dẫn:*
+
+“Bây giờ, LIMIT quyết định số dòng tối đa được trả về, còn OFFSET quyết định bỏ qua bao nhiêu dòng.
+
+Trang đầu tiên, LIMIT 3 OFFSET 0 lấy ba phiếu đầu. Sang trang hai, OFFSET 3 bỏ qua ba phiếu trước đó, rồi LIMIT 3 lấy ba phiếu tiếp theo.
+
+Quan trọng nhé: phải xác định thứ tự sắp xếp trước khi phân trang!”
+
+---
+
+## Scene 7 — Logical Query Processing Order | 140–165 giây
+
+*Hình ảnh:*
+
+Câu SQL hoàn chỉnh xuất hiện giữa màn hình.
+
+Sau đó giao diện chuyển thành một đường dây xử lý dữ liệu với sáu trạm.
+
+Các phiếu lần lượt đi qua:
+
+FROM → WHERE → SELECT → ORDER BY → OFFSET → LIMIT
+
+Mỗi trạm thực hiện một thao tác trực quan:
+
+- FROM: Lấy bảng dữ liệu
+- WHERE: Loại phiếu không hợp lệ
+- SELECT: Chọn cột cần hiển thị
+- ORDER BY: Sắp xếp theo thứ tự ưu tiên
+- OFFSET: Bỏ qua các phiếu đầu
+- LIMIT: Chọn số phiếu cần trả về
+
+*Lời dẫn:*
+
+“Và đây là điều thú vị! Mặc dù câu SQL được viết bắt đầu bằng SELECT, nhưng thứ tự xử lý logic lại bắt đầu từ FROM.
+
+Hệ thống xác định dữ liệu, lọc các dòng hợp lệ, chọn các cột, sắp xếp, bỏ qua những dòng trước đó, rồi giới hạn kết quả.
+
+Đây là thứ tự logic để hiểu truy vấn, không nhất thiết là thứ tự PostgreSQL thực thi bên trong.”
+
+---
+
+## Scene 8 — Final Takeaway | 165–180 giây
+
+*Hình ảnh:*
+
+Dashboard hỗ trợ khách hàng giờ hiển thị đúng các phiếu được ưu tiên.
+
+Các thành phần SQL xuất hiện ngắn gọn quanh màn hình:
+
+SELECT — Chọn cột
+
+WHERE — Lọc dòng
+
+ORDER BY — Sắp xếp
+
+LIMIT/OFFSET — Phân trang
+
+Màn hình kết thúc bằng thông điệp lớn:
+
+*“SQL KHÔNG CHỈ LÀ VIẾT ĐÚNG CÚ PHÁP, MÀ CÒN LÀ HIỂU ĐÚNG LOGIC.”*
+
+*Lời dẫn:*
+
+“Vậy là chỉ với vài câu lệnh cơ bản, chúng ta đã biến một danh sách hỗn độn thành danh sách ưu tiên rõ ràng. Hãy nhớ: lọc đúng, sắp xếp đúng, rồi mới giới hạn kết quả!”

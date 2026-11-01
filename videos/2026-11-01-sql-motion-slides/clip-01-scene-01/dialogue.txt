@@ -1,0 +1,1 @@
+Bạn yêu cầu SQL lấy ba khách hàng cần được hỗ trợ gấp nhất. Hệ thống trả về đúng ba dòng, nhưng người chờ 90 phút lại bị bỏ qua! SQL không báo lỗi. Vậy vấn đề nằm ở đâu?

@@ -1,0 +1,5 @@
+{
+  "result": "rejected",
+  "sha256": "1a5c7e6cb4cb9aea64d02b746e1a5a85b45432fbe0aef03f3457a6e20a5d499a",
+  "notes": "Product stood upright and elongated compared with squat source body. Reject geometry; regenerate only scene 3 with explicit original diagonal pose."
+}

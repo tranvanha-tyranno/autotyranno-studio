@@ -1,0 +1,33 @@
+Create a realistic 18-second vertical 9:16 product review video using the uploaded image as the exact first-frame reference. Use image-to-video generation, not a slideshow or a simple Ken Burns zoom.
+
+PRODUCT AND IDENTITY LOCK:
+Keep the exact product shown in the reference image: a silver stainless-steel electric kettle inside a transparent rectangular acrylic display box. Preserve the 1.8L capacity, silver metal body, black handle on the right, black lid, silver spout on the left, red indicator light on the black base, transparent acrylic walls, transparent arched handle, adult woman's hand and forearm entering horizontally from the right, orange nail polish, factory background, lighting and perspective. Preserve the exact Vietnamese labels and layout visible in the reference, including “INOX CAO CẤP”, “Dung tích lớn 1.8L”, “Inox cao cấp”, “Đun sôi nhanh chóng”, “Tự động ngắt điện”, “Vòi rót tiện lợi”, “Tay cầm cách nhiệt”, “Nút mở nắp tiện lợi” and “Đế xoay 360°”. Do not redesign, replace, simplify or remove the kettle, box, labels or accessories.
+
+ACTION TIMELINE:
+
+0–0.5 seconds: begin with immediate natural movement. The woman starts walking forward through the exact factory aisle visible in the reference. The camera begins tracking at the same moment. Do not hold the first frame and do not fade in.
+
+0.5–5 seconds: show three brisk natural steps forward. The background shelves, workers and factory lights create clear but realistic parallax. The acrylic box remains suspended in the hand and gently bobs 1–2 cm with each step. The box remains rigid and the front panel stays almost parallel to the camera.
+
+5–9 seconds: the camera tracks slightly to the right and then eases back to center. Show subtle changing reflections on the acrylic walls and stainless steel, caused by the camera movement and factory lights. Keep the complete box, top handle, kettle lid, spout, base and bottom margin visible.
+
+9–13 seconds: the woman continues one more controlled step while the camera makes a small 10–15 degree lateral arc toward the black handle side. Do not rotate the box or reveal its back. Keep the front labels readable and stable.
+
+13–17 seconds: make a gentle 8–10 percent push-in toward the kettle while preserving generous margins around the acrylic box. The kettle becomes clearer and more prominent, but the top handle and bottom of the box remain inside the frame.
+
+17–18 seconds: settle into a short, stable product hero view with subtle natural hand movement. Do not freeze the image or create a hard cut.
+
+CAMERA AND MOTION:
+Use realistic handheld or smooth gimbal tracking at normal walking speed. Motion must be visible from the first frame and remain active throughout the video. Use natural acceleration and deceleration, realistic depth and parallax. Keep focus on the kettle and acrylic box, never on the background workers. The box must stay suspended and must not touch the floor, table, shelf, platform or any surface.
+
+PERSON AND HAND SAFETY:
+Show only one adult woman's hand and forearm. The forearm enters horizontally from the right side. Do not show a face, head, hair, shoulders, torso, legs, full person or face reflection. Do not add a second hand, extra fingers or malformed fingers. The hand keeps a believable grip on the transparent handle and does not cover the kettle labels.
+
+PRODUCT FIDELITY:
+Do not change the kettle into another appliance. Do not add steam, boiling water, buttons, screens, cables, brand logos or invented features. Do not make letters crawl, melt, rearrange or change language. Keep the product rigid and physically consistent in every frame.
+
+NEGATIVE PROMPT:
+No slideshow, no still-image hold, no simple digital zoom, no slow motion, no 360-degree spin, no box rotation, no flip, no morphing, no product deformation, no floating fingers, no extra hands, no face, no body, no new props, no new text, no subtitles, no watermark, no music, no sound effects, no scene change, no transition, no artificial camera shake, no close-up that crops the box, no invented rear view.
+
+AUDIO:
+Add a lively Vietnamese female voice-over, no lip-sync and no on-screen captions. Voice-over text: “Ê ê ê! Ấm inox cao cấp 1,8 lít đây nha! Đun sôi nhanh, tiết kiệm thời gian và điện năng, lại tự động ngắt điện khi nước sôi. Có vòi rót tiện lợi, tay cầm cách nhiệt và đế xoay 360 độ nữa đó!”

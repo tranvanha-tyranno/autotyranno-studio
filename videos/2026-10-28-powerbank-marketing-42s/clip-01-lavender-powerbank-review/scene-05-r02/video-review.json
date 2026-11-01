@@ -1,0 +1,6 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "b63b7b7beec9675fdaa4169a3432755e827e69a79c805f350ccb75d6c1cd34e5",
+  "samples": "0,2,4,6,8 seconds",
+  "observations": "Corrected take keeps face and hair outside frame, visible open-palm action toward separate phone. Complete lavender body and loop stay centered with safe margins in all sampled frames. Fine display glyphs remain synthesized and change slightly. First rejected attempt retained separately."
+}

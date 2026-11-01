@@ -1,0 +1,26 @@
+[
+  {
+    "scene": 1,
+    "raw_end_opening_ratio": 0.958,
+    "max_luma_offset": 0.0395,
+    "bounded": false
+  },
+  {
+    "scene": 4,
+    "raw_end_opening_ratio": 1.005,
+    "max_luma_offset": 0.0201,
+    "bounded": false
+  },
+  {
+    "scene": 5,
+    "raw_end_opening_ratio": 1.005,
+    "max_luma_offset": 0.0133,
+    "bounded": false
+  },
+  {
+    "scene": 6,
+    "raw_end_opening_ratio": 0.93,
+    "max_luma_offset": 0.0626,
+    "bounded": false
+  }
+]

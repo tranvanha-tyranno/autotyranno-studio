@@ -1,0 +1,8 @@
+{
+  "provider": "ElevenLabs",
+  "model_id": "eleven_v3",
+  "voice": "Adam",
+  "cache_hit": true,
+  "cache_key": "e869ab6c6fa7196cb0f76dbb1857111fa848bf084b3b3082469b8a899b256569",
+  "cached_at": 1793188512.332717
+}

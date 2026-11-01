@@ -1,0 +1,60 @@
+{
+  "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-29-reference-viesnap\\input\\reference.mp4",
+  "source_sha256": "2965598e7057aab487ddf4c953777b2f5112780ebb1381a94f22f03b275a255b",
+  "seconds": 21.15,
+  "full_decode": "passed",
+  "sample_period_seconds": 0.25,
+  "sampled_frames": 85,
+  "largest_visual_changes": [
+    {
+      "seconds": 7.75,
+      "mean_absolute_difference": 63.431
+    },
+    {
+      "seconds": 1.5,
+      "mean_absolute_difference": 44.601
+    },
+    {
+      "seconds": 21.0,
+      "mean_absolute_difference": 28.226
+    },
+    {
+      "seconds": 20.75,
+      "mean_absolute_difference": 28.036
+    },
+    {
+      "seconds": 7.25,
+      "mean_absolute_difference": 26.144
+    },
+    {
+      "seconds": 0.75,
+      "mean_absolute_difference": 25.246
+    },
+    {
+      "seconds": 6.5,
+      "mean_absolute_difference": 24.883
+    },
+    {
+      "seconds": 7.5,
+      "mean_absolute_difference": 20.634
+    },
+    {
+      "seconds": 11.75,
+      "mean_absolute_difference": 20.177
+    },
+    {
+      "seconds": 19.5,
+      "mean_absolute_difference": 19.795
+    },
+    {
+      "seconds": 6.75,
+      "mean_absolute_difference": 19.226
+    },
+    {
+      "seconds": 20.5,
+      "mean_absolute_difference": 19.166
+    }
+  ],
+  "scope": "Visual samples and audio-level measurements only. No transcript or objective lip-sync score. Mouth motion in frames cannot prove synchronization; audiovisual review is required.",
+  "provider_calls": 0
+}

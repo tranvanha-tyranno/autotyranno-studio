@@ -1,0 +1,12 @@
+{
+  "result": "not_submitted",
+  "reason": "requests ConnectionRefusedError / WinError 10061 during TCP connect to localhost; no HTTP request accepted. Muse task store inspected: newest task is pre-existing scene-3 opening; no new video task. Service restarted via experiments/start-muse2api.ps1.",
+  "intent": {
+    "endpoint": "/v1/videos",
+    "prompt_sha256": "8060de0c78d299a7498d73a23818e792310c88d265df1614f8a1ff5e5a2d52fd",
+    "intent_at": "2026-10-28T22:37:43.813325+07:00"
+  },
+  "task_store_count": 111,
+  "last_task_id": "task_0115bd3917544700b995",
+  "task_store_sha256": "c8fb7a5265ea3ef1b944fc52d78461c6c8962265f397de44fe9c7d44ece84815"
+}

@@ -1,0 +1,16 @@
+Create a realistic 15-second vertical 9:16 image-to-video clip from the uploaded image. Use the uploaded image as the exact first frame and keep the same factory background.
+
+The product is the hero. Keep the stainless-steel 1.8L kettle, transparent acrylic box, clear handle, black handle and lid, red indicator light, adult woman's hand, orange nails, all labels and the full box unchanged. The front of the box must face the camera for the entire clip.
+
+Motion plan:
+0–1 second: motion begins immediately. The hand gently lowers the suspended box by about 3 cm, then stabilizes it. The box remains floating and never touches a surface.
+1–7 seconds: the camera makes one smooth short lateral move from left to right, only 5–8 cm, creating mild factory background parallax. The box stays centered and front-facing.
+7–11 seconds: the hand makes one small natural correction to keep the box level. The acrylic catches subtle realistic light reflections. Do not rotate the box.
+11–14 seconds: the camera makes a gentle 5% push-in while keeping the complete handle, kettle and bottom of the box visible.
+14–15 seconds: finish with a stable product view and slight natural hand movement.
+
+Use realistic normal-speed motion. Animate only the camera, hand and natural acrylic reflections. Keep the kettle rigid and keep every printed label stable and readable. Do not redraw or regenerate the text.
+
+Only one adult woman's hand and forearm are visible. No face, head, hair, body, second hand, extra fingers or face reflection. No walking, no scene change, no new background, no new props, no steam, no pouring, no product operation, no spin, no flip, no morphing, no warping, no slideshow, no static image hold, no subtitles, no watermark, no logo changes, no music and no sound effects.
+
+Add voice-over separately after generation; do not make the video model create captions or lip-sync.

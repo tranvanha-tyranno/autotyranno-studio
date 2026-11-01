@@ -1,0 +1,3 @@
+{
+  "reason": "Earlier attempts hit two separate expired session pairs; service automatically marked them unhealthy. Existing remaining session tested valid and subsequent scene-6 image completed. Retry only unfinished scene; no duplicate accepted image job."
+}

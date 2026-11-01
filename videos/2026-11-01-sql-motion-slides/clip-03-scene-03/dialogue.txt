@@ -1,0 +1,1 @@
+Đầu tiên, FROM xác định bảng dữ liệu chúng ta cần truy vấn. Còn SELECT cho biết những cột nào sẽ xuất hiện trong kết quả. Ở đây, ta chỉ cần mã phiếu, kênh tiếp nhận và số phút chờ. Nhưng hiện tại, các yêu cầu chưa được lọc!

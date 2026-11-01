@@ -1,0 +1,14 @@
+{
+  "id": "task_70f1a85d045a46e9874a",
+  "object": "task",
+  "kind": "video",
+  "prompt": "Create a real AI-generated 15-second vertical 9:16 product video from this exact reference image. Start visible motion immediately: the adult woman carrying the transparent acrylic handled box walks briskly forward through the factory aisle for several steps while the camera tracks with natural background parallax, then makes a small lateral camera move and gentle push-in for the final seconds. Keep the box suspended, front facing camera, with a natural 1–2 cm bob. Preserve the silver stainless-steel 1.8L kettle, black handle and lid, red indicator light, transparent box, hand, nails, factory background, every Vietnamese label and all geometry. Do not spin, flip, morph or place the box on a surface. No face, body, extra hands, extra fingers, new props, new text, subtitles, logos, watermark, music or sound effects. One continuous realistic AI video, no slideshow, no static hold.",
+  "status": "failed",
+  "created_at": 1793127350,
+  "updated_at": 1793127795,
+  "result": null,
+  "error": "模型未生成媒体，仅返回文本: 抱歉，这次没能给你生成出来。 我已经只用你这次刚上传的这张图作为第一帧，规格也是按你说的准备的：严格 9:16 竖屏、720x1280、15 秒，工厂走道里手提透明盒 brisk 前行、背景视差，最后小幅横移加轻微推近，盒子悬空正对镜头、1-2cm 自然起伏，保留不锈钢水壶、黑柄黑盖、红色指示灯、透明盒、手和指甲以及全部越南文标签，不旋转、不变形、不放下、不加脸和身体、不加新文字或水印。 但视频生成服务那边出了问题，尝试 3 次后返回了上游不可用（502），我这边也没有产生新",
+  "api_prompt": "基于我本次上传的参考图片附件作为第一帧参考图（严禁使用历史图片或任何其他图像，必须严格以我当前刚刚上传并附带在此处的这张图片为起始帧）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 15 秒）：Create a real AI-generated 15-second vertical 9:16 product video from this exact reference image. Start visible motion immediately: the adult woman carrying the transparent acrylic handled box walks briskly forward through the factory aisle for several steps while the camera tracks with natural background parallax, then makes a small lateral camera move and gentle push-in for the final seconds. Keep the box suspended, front facing camera, with a natural 1–2 cm bob. Preserve the silver stainless-steel 1.8L kettle, black handle and lid, red indicator light, transparent box, hand, nails, factory background, every Vietnamese label and all geometry. Do not spin, flip, morph or place the box on a surface. No face, body, extra hands, extra fingers, new props, new text, subtitles, logos, watermark, music or sound effects. One continuous realistic AI video, no slideshow, no static hold.，画质规格：720p",
+  "progress": 40,
+  "elapsed": 445.1
+}

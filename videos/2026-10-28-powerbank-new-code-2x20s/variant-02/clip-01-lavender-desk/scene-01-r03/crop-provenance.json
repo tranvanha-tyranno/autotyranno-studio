@@ -1,0 +1,15 @@
+{
+  "source_image": "videos\\2026-10-28-powerbank-new-code-2x20s\\variant-02\\clip-01-lavender-desk\\scene-01-r02\\opening.png",
+  "source_sha256": "d103d4656a4ab55b2a756993a0640cd1d3671f00d3b4f68e5599fcddc7da71fd",
+  "crop_pixels": [
+    46,
+    737,
+    783,
+    2048
+  ],
+  "output_size": [
+    720,
+    1280
+  ],
+  "provider_calls": 0
+}

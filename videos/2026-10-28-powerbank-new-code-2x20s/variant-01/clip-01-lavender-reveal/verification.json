@@ -1,0 +1,101 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "independent_scenes": 3,
+  "looped": false,
+  "slowed_to_fill": false,
+  "full_scene_dialogue_preserved": true,
+  "scene_timings": [
+    {
+      "scene": 1,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 6.69,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          1.32
+        ],
+        [
+          1.47,
+          6.69
+        ]
+      ],
+      "used_audio_seconds": 6.540000000000001
+    },
+    {
+      "scene": 2,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 6.35,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          6.35
+        ]
+      ],
+      "used_audio_seconds": 6.35
+    },
+    {
+      "scene": 3,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 6.03,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0,
+          6.03
+        ]
+      ],
+      "used_audio_seconds": 6.03
+    }
+  ],
+  "decode_check": "passed",
+  "audio_levels_db": {
+    "mean_volume": -17.1,
+    "max_volume": -1.8
+  },
+  "black_or_freeze_alerts": [],
+  "visual_qa": "accepted_with_limitations after source action sheets, corrected full-duration contact sheet and last-frame review",
+  "text_overlays": false,
+  "exposure_reports": [
+    {
+      "scene": 1,
+      "report": "clip-01-lavender-reveal\\scene-01-r04\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9633280812370374,
+      "needs_attention": false
+    },
+    {
+      "scene": 2,
+      "report": "clip-01-lavender-reveal\\scene-02-r03\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9041598374952954,
+      "needs_attention": true
+    },
+    {
+      "scene": 3,
+      "report": "clip-01-lavender-reveal\\scene-03-r03\\exposure-plan.json",
+      "end_to_opening_ratio": 1.0499903911022412,
+      "needs_attention": false
+    }
+  ],
+  "sha256": "2873d882b828891b73fc427b4973f2ca898b63d6cdf15a9acc09ea5f9d9eea40",
+  "visual_qa_notes": [
+    "All three sources are distinct; two approved local sources reused with provenance, one new macro source. No rejected source included.",
+    "Complete body and single loop retained; real shell contact seen in every scene. Product stays diagonal with small depth reorientation.",
+    "No added text. Fine display numerals are generated and vary; exact yaw/pause timing not numerically established.",
+    "Exposure-corrected final inspected; no material progressive dimming of product/skin observed. Background composition varies between shots."
+  ]
+}

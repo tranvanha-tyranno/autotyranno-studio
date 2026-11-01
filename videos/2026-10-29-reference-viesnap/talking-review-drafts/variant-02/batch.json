@@ -1,0 +1,148 @@
+{
+  "recipe_version": 6,
+  "reference_style": "viesnap-talking-review-v1",
+  "duration_seconds": 20,
+  "text_overlays": false,
+  "visual_speed": 1.0,
+  "product_description": "Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body.",
+  "product_crop": [
+    0.145,
+    0.015,
+    0.6,
+    0.4
+  ],
+  "character": {
+    "reference": "character/portrait.png",
+    "prompt": "Create one photorealistic canonical adult portrait, 9:16. A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt. Face, hair and shoulders fully visible, looking toward camera, even neutral diffuse 5200K light, natural skin, relaxed expression, no glasses, no product or props. Invent a new face, do not resemble the performer in a reference clip. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout."
+  },
+  "quality": {
+    "lock_exposure": true,
+    "require_video_review": true,
+    "final_review_required": true,
+    "exposure_lock": {
+      "enabled": true,
+      "max_brightness": 0.07,
+      "allow_dimming": false,
+      "roi": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+      ],
+      "preserve_blacks": true,
+      "black_floor": 0.12,
+      "black_transition": 0.32
+    }
+  },
+  "cache": {
+    "muse": true,
+    "tts": true
+  },
+  "reference_learning": {
+    "sample": "viesnap.vn_tiktok_7693215191420456212.mp4",
+    "priority": "Most runtime shows a presenter whose mouth matches the exact spoken audio.",
+    "transfer": "Surprise → product pitch; expressive performer, steady camera, purposeful hand actions.",
+    "do_not_copy": "Real performer identity, unrelated wall-breaking skit, captions, black bars, fades.",
+    "lip_sync_engine": "not_connected; current local Muse VideoRequest has no audio input"
+  },
+  "claim_basis": {
+    "source": "Supplied image; lavender product crop",
+    "visible": [
+      "lavender rounded shell",
+      "single matching loop",
+      "black front level window"
+    ],
+    "excluded": [
+      "price",
+      "capacity",
+      "wattage",
+      "charge count",
+      "unseen cables",
+      "first-person testimonial"
+    ]
+  },
+  "clips": [
+    {
+      "slug": "talking-lavender-sage",
+      "presentation_mode": "presenter",
+      "presenter": "A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt",
+      "background": "Bright modern desk, pale-blue wall, soft blurred plant and a plain cream tote in the background",
+      "dialogue": "[surprised] Khoan! Cục tím này là SẠC DỰ PHÒNG!\n\n[playful] Bo góc, quai tím, ô đen ngay mặt trước.\n\n[upbeat] Mê đồ công nghệ hợp tông mà vẫn có việc để dùng? Đây là nguồn pin mang theo khi chưa tiện tìm ổ điện.\n\n[explaining] Liếc ô báo để kiểm tra mức pin trước khi mang đi nha.\n\n[encouraging] Thích màu này thì mở giỏ hàng, xem thông số, chọn phiên bản hợp điện thoại rồi đặt mua nha!",
+      "scenes": [
+        {
+          "title": "hook",
+          "beat": "hook",
+          "seconds": 3,
+          "visual_speed": 1.0,
+          "speech_mode": "lip_sync",
+          "face_visible": true,
+          "visible_action": "The existing free hand makes one brief surprised open-palm gesture beside the product, then settles",
+          "dialogue": "[surprised] Khoan! Cục tím này là SẠC DỰ PHÒNG!",
+          "opening_prompt": "Create one photorealistic 9:16 opening. Reference 1 locks product, reference 2 locks canonical fictional adult. A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body.\nStable medium-close frame, full face and mouth clearly visible, eyes toward lens. Product below the chin, far from mouth, held LOW AND FLAT on supporting left palm above desk. Leave clear space around mouth and both hands.\nBright modern desk, pale-blue wall, soft blurred plant and a plain cream tote in the background. Fixed diffuse key and fill, stable neutral 5200K, no visible window. Exactly TWO hands, existing supporting left palm and existing free right hand. Separate unbranded face-down phone on desk, unconnected. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "One continuous 10-second 9:16 source shot, exact opening in image 1, product in image 2, canonical adult in image 3. Locked tripod and identical exposure/white balance. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body. Supporting palm, grip and wrist remain still; do not stand the product upright, flip, roll, reveal rear, change digits or add a loop. Exactly the TWO existing hands; no duplicate hand left on desk. The existing free hand makes one brief surprised open-palm gesture beside the product, then settles. Begin the action within the first half second. No reframing, darkening or fade. Keep the entire face visible, natural expressive eyebrows and small head movement, unobstructed mouth facing lens. This is a TALKING presenter shot, not silent closed-mouth B-roll. Exact Vietnamese mouth motion will be driven by the FINAL timed audio in a separate actual lip-sync stage; random mouth motion is not synchronization. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout."
+        },
+        {
+          "title": "proof",
+          "beat": "proof",
+          "seconds": 3,
+          "visual_speed": 1.5,
+          "speech_mode": "voiceover",
+          "face_visible": false,
+          "visible_action": "The existing free fingertips touch the blank shell and stroke once by 1 cm after a brief natural settling pause; the supporting hand permits only one 3-degree depth tilt",
+          "dialogue": "[playful] Bo góc, quai tím, ô đen ngay mặt trước.",
+          "opening_prompt": "Create one photorealistic 9:16 opening. Reference 1 locks product, reference 2 locks canonical fictional adult. A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body.\nTight product close-up, face entirely out of frame, same shirt and hands. Complete body and single short loop within central 65% of frame.\nBright modern desk, pale-blue wall, soft blurred plant and a plain cream tote in the background. Fixed diffuse key and fill, stable neutral 5200K, no visible window. Exactly TWO hands, existing supporting left palm and existing free right hand. Separate unbranded face-down phone on desk, unconnected. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "One continuous 10-second 9:16 source shot, exact opening in image 1, product in image 2, canonical adult in image 3. Locked tripod and identical exposure/white balance. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body. Supporting palm, grip and wrist remain still; do not stand the product upright, flip, roll, reveal rear, change digits or add a loop. Exactly the TWO existing hands; no duplicate hand left on desk. The existing free fingertips touch the blank shell and stroke once by 1 cm after a brief natural settling pause; the supporting hand permits only one 3-degree depth tilt. Begin the action within the first half second. No reframing, darkening or fade. Product B-roll with offscreen narration; keep face out of this close-up. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout."
+        },
+        {
+          "title": "benefit",
+          "beat": "benefit",
+          "seconds": 5,
+          "visual_speed": 1.0,
+          "speech_mode": "lip_sync",
+          "face_visible": true,
+          "visible_action": "The existing free hand makes one small open-palm presenting gesture toward the separate face-down phone on the desk",
+          "dialogue": "[upbeat] Mê đồ công nghệ hợp tông mà vẫn có việc để dùng? Đây là nguồn pin mang theo khi chưa tiện tìm ổ điện.",
+          "opening_prompt": "Create one photorealistic 9:16 opening. Reference 1 locks product, reference 2 locks canonical fictional adult. A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body.\nStable medium-close frame, full face and mouth clearly visible, eyes toward lens. Product below the chin, far from mouth, held LOW AND FLAT on supporting left palm above desk. Leave clear space around mouth and both hands.\nBright modern desk, pale-blue wall, soft blurred plant and a plain cream tote in the background. Fixed diffuse key and fill, stable neutral 5200K, no visible window. Exactly TWO hands, existing supporting left palm and existing free right hand. Separate unbranded face-down phone on desk, unconnected. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "One continuous 10-second 9:16 source shot, exact opening in image 1, product in image 2, canonical adult in image 3. Locked tripod and identical exposure/white balance. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body. Supporting palm, grip and wrist remain still; do not stand the product upright, flip, roll, reveal rear, change digits or add a loop. Exactly the TWO existing hands; no duplicate hand left on desk. The existing free hand makes one small open-palm presenting gesture toward the separate face-down phone on the desk. Begin the action within the first half second. No reframing, darkening or fade. Keep the entire face visible, natural expressive eyebrows and small head movement, unobstructed mouth facing lens. This is a TALKING presenter shot, not silent closed-mouth B-roll. Exact Vietnamese mouth motion will be driven by the FINAL timed audio in a separate actual lip-sync stage; random mouth motion is not synchronization. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout."
+        },
+        {
+          "title": "use_case",
+          "beat": "use_case",
+          "seconds": 4,
+          "visual_speed": 1.0,
+          "speech_mode": "lip_sync",
+          "face_visible": true,
+          "visible_action": "The existing free index finger approaches and stops BESIDE the black level window, leaving it unobstructed",
+          "dialogue": "[explaining] Liếc ô báo để kiểm tra mức pin trước khi mang đi nha.",
+          "opening_prompt": "Create one photorealistic 9:16 opening. Reference 1 locks product, reference 2 locks canonical fictional adult. A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body.\nStable medium-close frame, full face and mouth clearly visible, eyes toward lens. Product below the chin, far from mouth, held LOW AND FLAT on supporting left palm above desk. Leave clear space around mouth and both hands.\nBright modern desk, pale-blue wall, soft blurred plant and a plain cream tote in the background. Fixed diffuse key and fill, stable neutral 5200K, no visible window. Exactly TWO hands, existing supporting left palm and existing free right hand. Separate unbranded face-down phone on desk, unconnected. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "One continuous 10-second 9:16 source shot, exact opening in image 1, product in image 2, canonical adult in image 3. Locked tripod and identical exposure/white balance. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body. Supporting palm, grip and wrist remain still; do not stand the product upright, flip, roll, reveal rear, change digits or add a loop. Exactly the TWO existing hands; no duplicate hand left on desk. The existing free index finger approaches and stops BESIDE the black level window, leaving it unobstructed. Begin the action within the first half second. No reframing, darkening or fade. Keep the entire face visible, natural expressive eyebrows and small head movement, unobstructed mouth facing lens. This is a TALKING presenter shot, not silent closed-mouth B-roll. Exact Vietnamese mouth motion will be driven by the FINAL timed audio in a separate actual lip-sync stage; random mouth motion is not synchronization. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout."
+        },
+        {
+          "title": "cta",
+          "beat": "cta",
+          "seconds": 5,
+          "visual_speed": 1.0,
+          "speech_mode": "lip_sync",
+          "face_visible": true,
+          "visible_action": "The existing free hand gives one small inviting palm-up gesture while the supporting palm keeps the product steady",
+          "dialogue": "[encouraging] Thích màu này thì mở giỏ hàng, xem thông số, chọn phiên bản hợp điện thoại rồi đặt mua nha!",
+          "opening_prompt": "Create one photorealistic 9:16 opening. Reference 1 locks product, reference 2 locks canonical fictional adult. A different fictional adult Vietnamese man aged 32, short textured dark hair, softly angular face, plain sage-green shirt. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body.\nStable medium-close frame, full face and mouth clearly visible, eyes toward lens. Product below the chin, far from mouth, held LOW AND FLAT on supporting left palm above desk. Leave clear space around mouth and both hands.\nBright modern desk, pale-blue wall, soft blurred plant and a plain cream tote in the background. Fixed diffuse key and fill, stable neutral 5200K, no visible window. Exactly TWO hands, existing supporting left palm and existing free right hand. Separate unbranded face-down phone on desk, unconnected. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout.",
+          "video_prompt": "One continuous 10-second 9:16 source shot, exact opening in image 1, product in image 2, canonical adult in image 3. Locked tripod and identical exposure/white balance. Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction. Product lies LOW AND FLAT across the supporting palm at the reference diagonal three-quarter angle: squat blank shell UPPER-LEFT, black window LOWER-RIGHT, one short original loop UPPER-RIGHT. Never stand upright or elongate the body. Supporting palm, grip and wrist remain still; do not stand the product upright, flip, roll, reveal rear, change digits or add a loop. Exactly the TWO existing hands; no duplicate hand left on desk. The existing free hand gives one small inviting palm-up gesture while the supporting palm keeps the product steady. Begin the action within the first half second. No reframing, darkening or fade. Keep the entire face visible, natural expressive eyebrows and small head movement, unobstructed mouth facing lens. This is a TALKING presenter shot, not silent closed-mouth B-roll. Exact Vietnamese mouth motion will be driven by the FINAL timed audio in a separate actual lip-sync stage; random mouth motion is not synchronization. No added text anywhere: no captions, subtitles, titles, cards, watermark, readable background signs or invented product lettering. Preserve only intrinsic product markings. No collage or graphic layout."
+        }
+      ],
+      "marketing": {
+        "hook": "Khoan! Cục tím này là SẠC DỰ PHÒNG!",
+        "hook_seconds": 3,
+        "cta": "Thích màu này thì mở giỏ hàng, xem thông số, chọn phiên bản hợp điện thoại rồi đặt mua nha!",
+        "buyer_benefit": "Carry a power source when an outlet is inconvenient; check front level window.",
+        "reason_to_believe": "Visible product details and general power-bank use; exact performance unverified."
+      }
+    }
+  ],
+  "references": [
+    "input/product-crop.png",
+    "input\\original.png"
+  ],
+  "created_at": "2026-10-29T06:33:52.936747+07:00",
+  "product_image_sha256": "c4b79ffe99b270da9b1f491adb94fb243931ba95bcaa68a45ade6c68d033d07a"
+}

@@ -1,0 +1,25 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.5,
+  "looped": false,
+  "independent_scenes": 3,
+  "audio_seconds": 14.68,
+  "audio_tempo": 1.0,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": {
+    "method": "agent contact-sheet review",
+    "result": "usable with limitations",
+    "observed": "Three appliance-store areas; held case retained; brightness drops late; small label drift and changing background signage.",
+    "frame_by_frame_text_lock": false,
+    "playback_review": false
+  },
+  "sha256": "b39c59a1e6ff1683d68a3c54389e79f96ccc7a69b34d5959918df3fb09a85006"
+}

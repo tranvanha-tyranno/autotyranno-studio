@@ -1,0 +1,9 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "9b398f747c3eee892b76ad143d34919c2ca3eab70e2a9d2040594731e926b330",
+  "samples": "20 frames at 0.5-second intervals",
+  "observed_action": "Immediate lift/presentation, a brief steadier presentation around 1–2s, then free hand moves up and fingertips visibly contact/stroke broad shell around 4–6.5s. Body is gently reoriented with front still shown.",
+  "identity": "Face visually remains consistent with canonical portrait, cream blouse and low ponytail.",
+  "lighting": "Measured raw end/opening ROI luma ratio ~0.958; bounded reference-matching correction will be applied and final result inspected.",
+  "limitations": "Model does not reproduce exact requested degree/timing numerically; reorientation is more than nominal 7 degrees. Fingers briefly approach black window and mouth moves in second half despite voice-over direction. Fine display numerals remain synthesized. Full body and one original-style loop remain visible, no added text."
+}

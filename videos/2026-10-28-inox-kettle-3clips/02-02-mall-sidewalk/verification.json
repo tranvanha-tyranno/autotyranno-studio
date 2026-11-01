@@ -1,0 +1,14 @@
+{
+  "index": 2,
+  "slug": "02-02-mall-sidewalk",
+  "product": "Ấm inox cao cấp 1,8 lít",
+  "seconds": 6.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "visual_method": "exact supplied still + local FFmpeg zoompan/pan",
+  "voice": "Adam eleven_v3",
+  "decode": "passed",
+  "muse_media": "not generated: upstream 502/text-only error; no retry issued",
+  "claims": "Only dialogue claims visible in source image were used.",
+  "physical_motion": "not represented; camera push/pan only"
+}

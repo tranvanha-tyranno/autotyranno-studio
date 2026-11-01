@@ -1,0 +1,52 @@
+[
+  {
+    "variant": "variant-01",
+    "hook": "Không phải hộp phấn, là pin dự phòng!",
+    "hook_seconds_target": 3,
+    "cta": "Mở giỏ hàng, xem thông số, chọn đúng phiên bản rồi đặt mua nha, mấy ní!",
+    "six_different_story_roles": [
+      "Immediate concrete reveal",
+      "Buyer situation: portable power away from a wall outlet",
+      "Visible design and coordinated accessories",
+      "Front level window: check before leaving",
+      "Right variant and phone compatibility",
+      "Clear purchase close"
+    ],
+    "spoken_words": 156,
+    "tempo_max": 1.1955319374369324,
+    "exact_unit_specs_claimed": false,
+    "price_or_discount_claimed": false,
+    "onscreen_text": false,
+    "background_context_new_scenes": [
+      2,
+      4,
+      6
+    ],
+    "no_fake_charging_visual": true
+  },
+  {
+    "variant": "variant-02",
+    "hook": "Ô báo pin nằm ngay mặt trước!",
+    "hook_seconds_target": 3,
+    "cta": "Mở giỏ hàng, xem đúng thông số, chọn phiên bản phù hợp, chọn màu mình thích rồi đặt mua nha!",
+    "six_different_story_roles": [
+      "Immediate concrete reveal",
+      "Buyer situation: portable power away from a wall outlet",
+      "Visible design and coordinated accessories",
+      "Front level window: check before leaving",
+      "Right variant and phone compatibility",
+      "Clear purchase close"
+    ],
+    "spoken_words": 156,
+    "tempo_max": 1.1369812310797172,
+    "exact_unit_specs_claimed": false,
+    "price_or_discount_claimed": false,
+    "onscreen_text": false,
+    "background_context_new_scenes": [
+      2,
+      4,
+      6
+    ],
+    "no_fake_charging_visual": true
+  }
+]

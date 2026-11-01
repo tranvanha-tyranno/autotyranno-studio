@@ -1,0 +1,29 @@
+{
+  "batch": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-10-28-helmet-reference-30s",
+  "provider_calls_if_run_now": 5,
+  "provider_calls_by_kind": {
+    "tts_calls": 0,
+    "opening_image_calls": 0,
+    "video_scene_calls": 5,
+    "optional_llm_calls": 0,
+    "additional_scene_opening_calls": 0
+  },
+  "cache_hits": 1,
+  "local_steps": 6,
+  "optional_llm_calls": 0,
+  "llm_policy": "off_when_dialogue_and_product_description_are supplied",
+  "clips": [
+    {
+      "clip": "clip-01-helmet-reference-review",
+      "tts": "ready",
+      "opening_image": "ready",
+      "video_scenes": 5,
+      "scene_count": 5,
+      "visual_speed": 1.5,
+      "cache_key_available_for_opening": true
+    }
+  ],
+  "cache_root": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\.cache\\product-video",
+  "generated_at": "2026-10-28T08:24:45.197150+07:00",
+  "multi_location_note": "Five separately inspected scene opening images, each anchored to original product and scene-one presenter."
+}

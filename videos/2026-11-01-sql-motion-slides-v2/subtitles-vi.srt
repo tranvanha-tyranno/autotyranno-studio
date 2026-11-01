@@ -1,0 +1,171 @@
+﻿1
+00:00:00,000 --> 00:00:05,240
+Bạn yêu cầu SQL lấy ba khách hàng cần được hỗ trợ gấp nhất.
+
+2
+00:00:05,240 --> 00:00:10,680
+Hệ thống trả về đúng ba dòng, nhưng người chờ 90 phút lại bị bỏ qua!
+
+3
+00:00:10,680 --> 00:00:13,200
+SQL không báo lỗi.
+
+4
+00:00:13,200 --> 00:00:14,380
+Vậy vấn đề nằm ở đâu?
+
+5
+00:00:15,050 --> 00:00:18,730
+Trung tâm hỗ trợ nhận hàng loạt yêu cầu mỗi ngày.
+
+6
+00:00:18,730 --> 00:00:22,570
+Nhiệm vụ của chúng ta là tìm các phiếu đang mở, gửi
+
+7
+00:00:22,570 --> 00:00:27,230
+từ App hoặc Web, và đã chờ ít nhất 30 phút.
+
+8
+00:00:27,230 --> 00:00:32,090
+Những người chờ lâu hơn cần được ưu tiên, mỗi trang hiển thị ba phiếu.
+
+9
+00:00:35,000 --> 00:00:40,080
+Đầu tiên, FROM xác định bảng dữ liệu chúng ta cần truy vấn.
+
+10
+00:00:40,080 --> 00:00:44,360
+Còn SELECT cho biết những cột nào sẽ xuất hiện trong kết quả.
+
+11
+00:00:44,360 --> 00:00:49,400
+Ở đây, ta chỉ cần mã phiếu, kênh tiếp nhận và số phút chờ.
+
+12
+00:00:49,400 --> 00:00:51,980
+Nhưng hiện tại, các yêu cầu chưa được lọc!
+
+13
+00:00:55,020 --> 00:00:58,120
+Đây là lúc WHERE phát huy tác dụng.
+
+14
+00:00:58,120 --> 00:01:00,900
+Dấu bằng dùng để so sánh trạng thái.
+
+15
+00:01:00,900 --> 00:01:07,100
+IN giúp kiểm tra kênh tiếp nhận có thuộc danh sách App hoặc Web hay không.
+
+16
+00:01:07,100 --> 00:01:12,180
+Còn lớn hơn hoặc bằng 30 giúp giữ lại những phiếu đã chờ đủ lâu.
+
+17
+00:01:12,180 --> 00:01:14,900
+Khi nối bằng AND, một phiếu phải thỏa
+
+18
+00:01:14,900 --> 00:01:17,820
+mãn tất cả điều kiện mới được giữ lại.
+
+19
+00:01:17,820 --> 00:01:21,580
+IN ở đây tương đương hai điều kiện nối bằng OR.
+
+20
+00:01:21,580 --> 00:01:27,480
+Nếu kết hợp OR với AND, hãy chú ý dấu ngoặc để tránh lọc sai!
+
+21
+00:01:28,350 --> 00:01:31,220
+Sau WHERE, chúng ta còn bảy phiếu hợp lệ.
+
+22
+00:01:31,220 --> 00:01:35,400
+Nhưng chưa chắc phiếu chờ lâu nhất đang đứng đầu.
+
+23
+00:01:35,400 --> 00:01:41,900
+ORDER BY wait_min DESC sẽ sắp xếp số phút chờ từ cao xuống thấp.
+
+24
+00:01:41,900 --> 00:01:46,180
+Nếu hai phiếu có cùng thời gian chờ, ta thêm id DESC
+
+25
+00:01:46,180 --> 00:01:49,120
+làm tiêu chí phụ để xác định thứ tự rõ ràng.
+
+26
+00:01:53,020 --> 00:01:56,660
+Bây giờ, LIMIT quyết định số dòng tối đa được
+
+27
+00:01:56,660 --> 00:02:01,540
+trả về, còn OFFSET quyết định bỏ qua bao nhiêu dòng.
+
+28
+00:02:01,540 --> 00:02:06,533
+Trang đầu tiên, LIMIT 3 OFFSET 0 lấy ba phiếu đầu.
+
+29
+00:02:06,533 --> 00:02:10,640
+Sang trang hai, OFFSET 3 bỏ qua ba phiếu trước
+
+30
+00:02:10,640 --> 00:02:14,750
+đó, rồi LIMIT 3 lấy ba phiếu tiếp theo.
+
+31
+00:02:14,750 --> 00:02:16,720
+Quan trọng nhé:
+
+32
+00:02:16,720 --> 00:02:19,460
+phải xác định thứ tự sắp xếp trước khi phân trang!
+
+33
+00:02:20,020 --> 00:02:22,320
+Và đây là điều thú vị!
+
+34
+00:02:22,320 --> 00:02:25,880
+Mặc dù câu SQL được viết bắt đầu bằng SELECT,
+
+35
+00:02:25,880 --> 00:02:28,810
+nhưng thứ tự xử lý logic lại bắt đầu từ FROM.
+
+36
+00:02:28,810 --> 00:02:33,660
+Hệ thống xác định dữ liệu, lọc các dòng hợp lệ, chọn các cột,
+
+37
+00:02:33,660 --> 00:02:38,120
+sắp xếp, bỏ qua những dòng trước đó, rồi giới hạn kết quả.
+
+38
+00:02:38,120 --> 00:02:41,000
+Đây là thứ tự logic để hiểu truy vấn, không
+
+39
+00:02:41,000 --> 00:02:44,460
+nhất thiết là thứ tự PostgreSQL thực thi bên trong.
+
+40
+00:02:45,080 --> 00:02:48,560
+Vậy là chỉ với vài câu lệnh cơ bản, chúng ta đã
+
+41
+00:02:48,560 --> 00:02:53,000
+biến một danh sách hỗn độn thành danh sách ưu tiên rõ ràng.
+
+42
+00:02:53,000 --> 00:02:54,100
+Hãy nhớ:
+
+43
+00:02:54,100 --> 00:02:57,760
+lọc đúng, sắp xếp đúng, rồi mới giới hạn kết quả!

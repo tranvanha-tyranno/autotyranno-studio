@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "261ef62338ac6f15dead1dbb4c49e0a337c37df8f36e4e3a118475ba096de97e",
+  "samples": "20 frames at 0.5s spacing",
+  "observed_action": "Free fingertips visibly rise and touch/stroke blank shell in early/middle source, then release. Product stays on same supporting palm with original diagonal orientation, black window remains black, full body and single loop in frame.",
+  "identity": "Sage shirt and bob remain compatible with canonical portrait as frame widens.",
+  "limitations": "Camera widens despite locked-tripod direction; face enters frame and mouth moves late. Fine display glyphs vary. Degree and precise pause not measured. Source appears a little darker late; evaluate measured correction and final frames before approval."
+}

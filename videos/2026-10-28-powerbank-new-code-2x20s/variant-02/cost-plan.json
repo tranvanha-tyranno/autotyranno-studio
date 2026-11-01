@@ -1,0 +1,45 @@
+{
+  "provider_calls_if_run_now": 0,
+  "provider_calls_by_kind": {
+    "tts_calls": 0,
+    "character_image_calls": 0,
+    "opening_image_calls": 0,
+    "video_scene_calls": 0,
+    "optional_llm_calls": 0
+  },
+  "canonical_character_reviewed": true,
+  "saved_tasks_to_resume_or_inspect": 0,
+  "cache_hits": 0,
+  "scenes": [
+    {
+      "clip": 1,
+      "scene": 1,
+      "seconds": 6.666666666666667,
+      "opening_reviewed": true,
+      "tts": "ready",
+      "image": "ready",
+      "video": "ready"
+    },
+    {
+      "clip": 1,
+      "scene": 2,
+      "seconds": 6.666666666666667,
+      "opening_reviewed": true,
+      "tts": "ready",
+      "image": "ready",
+      "video": "ready"
+    },
+    {
+      "clip": 1,
+      "scene": 3,
+      "seconds": 6.666666666666667,
+      "opening_reviewed": true,
+      "tts": "ready",
+      "image": "ready",
+      "video": "ready"
+    }
+  ],
+  "unknown_dependent_keys": "Future opening/video inputs are conservatively counted as calls until reference bytes exist.",
+  "money": "Counts are provider submissions, not a currency estimate.",
+  "generated_at": "2026-10-28T23:12:37.062134+07:00"
+}

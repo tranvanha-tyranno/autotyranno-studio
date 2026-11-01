@@ -1,0 +1,1 @@
+Và đây là điều thú vị! Mặc dù câu SQL được viết bắt đầu bằng SELECT, nhưng thứ tự xử lý logic lại bắt đầu từ FROM. Hệ thống xác định dữ liệu, lọc các dòng hợp lệ, chọn các cột, sắp xếp, bỏ qua những dòng trước đó, rồi giới hạn kết quả. Đây là thứ tự logic để hiểu truy vấn, không nhất thiết là thứ tự PostgreSQL thực thi bên trong.

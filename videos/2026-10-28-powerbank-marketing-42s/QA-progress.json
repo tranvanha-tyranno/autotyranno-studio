@@ -1,0 +1,16 @@
+{
+  "opening_images_reviewed": 6,
+  "marketing_overlay_preview": "marketing-preview.jpg",
+  "hook": "Spoken hook precedes first long pause near 2.47s in raw take; caption explicitly enabled 0–3s.",
+  "cta": "Explicit purchase action in final narration and caption, no invented discount/scarcity.",
+  "voice": "Six separate Adam / eleven_v3 takes, scene audio speed between 1.0 and 1.12.",
+  "technical_tests": "14 unit/integration tests passed, git diff --check clean.",
+  "visual_video_review": "complete with disclosed limitations",
+  "research": "Direct supplier page and image checked, exact unit remains unverified; 20 W claim excluded.",
+  "selected_scene_count": 6,
+  "corrective_video_calls": 1,
+  "correction": "scene-05-r02 removes invented loose-haired presenter and excessive camera drift; original rejected take retained.",
+  "final_seconds": 42,
+  "decode_check": "passed",
+  "black_or_freeze_alerts": []
+}

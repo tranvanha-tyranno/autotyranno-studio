@@ -1,0 +1,16 @@
+Create a realistic 15-second vertical 9:16 product showcase video from the uploaded image. Use the uploaded image as the exact first frame and keep the same factory background and lighting.
+
+The transparent acrylic box and the stainless-steel kettle stay suspended in the same position. Do not make the woman walk and do not move the product to another place. The product remains the hero for the entire shot.
+
+Camera movement only:
+0–1 second: begin immediately with a smooth camera move, no static hold.
+1–6 seconds: camera makes a gentle 10-degree arc from the front-left toward the front center. Keep the complete box, clear handle, kettle, spout, lid and base inside the frame.
+6–11 seconds: camera continues a small 10–15-degree arc toward the handle side, creating subtle parallax and realistic reflections on the acrylic and stainless steel. The box front stays aimed toward the camera; do not reveal the back.
+11–14 seconds: camera makes a very gentle 5% push-in while maintaining generous margins around the full box.
+14–15 seconds: camera eases to a stable front product view with only slight natural hand movement.
+
+Keep the exact silver stainless-steel 1.8L kettle, black handle, black lid, silver spout, red indicator light, transparent acrylic box, transparent arch handle, adult woman's hand, orange nail polish, factory background and every Vietnamese label unchanged. Keep the text stable and readable. Do not redraw, replace or animate the printed words.
+
+Only one adult woman's hand and forearm are visible. No face, head, hair, body, second hand, extra fingers or face reflection. The box stays suspended and never touches a floor, table, shelf or platform.
+
+No walking, no scene change, no background replacement, no product rotation, no box spin, no flip, no morphing, no warping, no new props, no new text, no subtitles, no logo changes, no watermark, no slideshow, no static image hold, no extreme close-up, no music and no sound effects. Use normal-speed realistic gimbal movement. Add voice-over separately after the video is generated.

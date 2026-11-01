@@ -1,0 +1,327 @@
+[
+  {
+    "word": "Bây",
+    "start": 0.02,
+    "end": 0.6
+  },
+  {
+    "word": "giờ,",
+    "start": 0.6,
+    "end": 0.9
+  },
+  {
+    "word": "LIMIT",
+    "start": 1.46,
+    "end": 1.84
+  },
+  {
+    "word": "quyết",
+    "start": 1.84,
+    "end": 2.12
+  },
+  {
+    "word": "định",
+    "start": 2.12,
+    "end": 2.34
+  },
+  {
+    "word": "số",
+    "start": 2.34,
+    "end": 2.54
+  },
+  {
+    "word": "dòng",
+    "start": 2.54,
+    "end": 2.84
+  },
+  {
+    "word": "tối",
+    "start": 2.84,
+    "end": 3.16
+  },
+  {
+    "word": "đa",
+    "start": 3.16,
+    "end": 3.46
+  },
+  {
+    "word": "được",
+    "start": 3.46,
+    "end": 3.66
+  },
+  {
+    "word": "trả",
+    "start": 3.66,
+    "end": 3.92
+  },
+  {
+    "word": "về,",
+    "start": 3.92,
+    "end": 4.16
+  },
+  {
+    "word": "còn",
+    "start": 4.74,
+    "end": 4.9
+  },
+  {
+    "word": "OFFSET",
+    "start": 4.9,
+    "end": 5.72
+  },
+  {
+    "word": "quyết",
+    "start": 5.72,
+    "end": 6.26
+  },
+  {
+    "word": "định",
+    "start": 6.26,
+    "end": 6.44
+  },
+  {
+    "word": "bỏ",
+    "start": 6.44,
+    "end": 6.64
+  },
+  {
+    "word": "qua",
+    "start": 6.64,
+    "end": 6.9
+  },
+  {
+    "word": "bao",
+    "start": 6.9,
+    "end": 7.24
+  },
+  {
+    "word": "nhiều",
+    "start": 7.24,
+    "end": 7.52
+  },
+  {
+    "word": "dòng.",
+    "start": 7.52,
+    "end": 7.8
+  },
+  {
+    "word": "Trang",
+    "start": 8.54,
+    "end": 8.86
+  },
+  {
+    "word": "đầu",
+    "start": 8.86,
+    "end": 9.0
+  },
+  {
+    "word": "tiên,",
+    "start": 9.0,
+    "end": 9.48
+  },
+  {
+    "word": "LIMIT",
+    "start": 9.98,
+    "end": 10.4
+  },
+  {
+    "word": "BRA",
+    "start": 10.4,
+    "end": 10.66
+  },
+  {
+    "word": "OFFSET",
+    "start": 10.66,
+    "end": 11.32
+  },
+  {
+    "word": "không",
+    "start": 11.32,
+    "end": 11.68
+  },
+  {
+    "word": "lấy",
+    "start": 11.68,
+    "end": 12.34
+  },
+  {
+    "word": "ba",
+    "start": 12.34,
+    "end": 12.58
+  },
+  {
+    "word": "phiếu",
+    "start": 12.58,
+    "end": 12.94
+  },
+  {
+    "word": "đầu.",
+    "start": 12.94,
+    "end": 13.1
+  },
+  {
+    "word": "Xăng",
+    "start": 13.98,
+    "end": 14.38
+  },
+  {
+    "word": "tranh",
+    "start": 14.38,
+    "end": 14.72
+  },
+  {
+    "word": "hai,",
+    "start": 14.72,
+    "end": 14.98
+  },
+  {
+    "word": "OFFSET",
+    "start": 15.42,
+    "end": 15.92
+  },
+  {
+    "word": "ba",
+    "start": 15.92,
+    "end": 16.22
+  },
+  {
+    "word": "bỏ",
+    "start": 16.22,
+    "end": 16.52
+  },
+  {
+    "word": "qua",
+    "start": 16.52,
+    "end": 16.8
+  },
+  {
+    "word": "ba",
+    "start": 16.8,
+    "end": 17.08
+  },
+  {
+    "word": "phiếu",
+    "start": 17.08,
+    "end": 17.5
+  },
+  {
+    "word": "trước",
+    "start": 17.5,
+    "end": 17.64
+  },
+  {
+    "word": "đó,",
+    "start": 17.64,
+    "end": 17.96
+  },
+  {
+    "word": "rồi",
+    "start": 18.64,
+    "end": 18.88
+  },
+  {
+    "word": "LIMIT",
+    "start": 18.88,
+    "end": 19.48
+  },
+  {
+    "word": "ba",
+    "start": 19.48,
+    "end": 19.78
+  },
+  {
+    "word": "lấy",
+    "start": 19.78,
+    "end": 20.26
+  },
+  {
+    "word": "ba",
+    "start": 20.26,
+    "end": 20.44
+  },
+  {
+    "word": "phiếu",
+    "start": 20.44,
+    "end": 20.84
+  },
+  {
+    "word": "tiếp",
+    "start": 20.84,
+    "end": 20.98
+  },
+  {
+    "word": "theo.",
+    "start": 20.98,
+    "end": 21.38
+  },
+  {
+    "word": "Quang",
+    "start": 22.0,
+    "end": 22.52
+  },
+  {
+    "word": "trọng",
+    "start": 22.52,
+    "end": 22.88
+  },
+  {
+    "word": "nhé,",
+    "start": 22.88,
+    "end": 23.14
+  },
+  {
+    "word": "phải",
+    "start": 23.72,
+    "end": 23.9
+  },
+  {
+    "word": "xác",
+    "start": 23.9,
+    "end": 24.12
+  },
+  {
+    "word": "định",
+    "start": 24.12,
+    "end": 24.34
+  },
+  {
+    "word": "thư",
+    "start": 24.34,
+    "end": 24.52
+  },
+  {
+    "word": "tự",
+    "start": 24.52,
+    "end": 24.66
+  },
+  {
+    "word": "sắp",
+    "start": 24.66,
+    "end": 24.96
+  },
+  {
+    "word": "xếp",
+    "start": 24.96,
+    "end": 25.34
+  },
+  {
+    "word": "trước",
+    "start": 25.34,
+    "end": 25.56
+  },
+  {
+    "word": "khi",
+    "start": 25.56,
+    "end": 25.82
+  },
+  {
+    "word": "phần",
+    "start": 25.82,
+    "end": 26.08
+  },
+  {
+    "word": "trang.",
+    "start": 26.08,
+    "end": 26.46
+  }
+]

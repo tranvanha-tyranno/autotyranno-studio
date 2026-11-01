@@ -1,0 +1,1 @@
+Muse task failed upstream with HTTP 502 and returned no media. This is a local FFmpeg exact-still preview for the earlier duplicate inox-mall attempt; canonical batch output is 02-inox-mall.

@@ -1,0 +1,25 @@
+{
+  "final_seconds": 20.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "source_seconds": [
+    10.0,
+    10.0,
+    10.0
+  ],
+  "visual_speed": 1.5,
+  "looped": false,
+  "independent_scenes": 3,
+  "audio_seconds": 16.2,
+  "audio_tempo": 1.0,
+  "full_dialogue_preserved": true,
+  "decode_check": "passed",
+  "visual_qa": {
+    "method": "agent contact-sheet review",
+    "result": "usable with limitations",
+    "observed": "Appliance and personal-care aisles; accessories remain visible; tip shapes, small labels and case transparency drift; background retail brands appear.",
+    "frame_by_frame_text_lock": false,
+    "playback_review": false
+  },
+  "sha256": "b9edcbd2d6db1755b050c955fe97a99953f0416f3657903d6e5333134ac24dbb"
+}

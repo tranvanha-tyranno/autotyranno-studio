@@ -1,0 +1,13 @@
+{
+  "index": 5,
+  "slug": "oral-mall",
+  "product": "Máy tăm nước Oral Irrigator 6886",
+  "seconds": 6.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "visual_method": "exact supplied still + local FFmpeg zoompan/pan",
+  "voice": "Adam eleven_v3",
+  "decode": "passed",
+  "muse_media": "not generated: upstream 502/text-only error; no retry issued",
+  "claims": "Only dialogue claims visible in source image were used."
+}

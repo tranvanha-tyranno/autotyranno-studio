@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "d70778f9619d510fbe754cf13600d2a52e621a530b573f275598c12b87965290",
+  "samples": "20 frames, 0.5s intervals",
+  "observed_action": "Corrected take preserves diagonal product orientation and black window, no flip. Finger approaches, contacts blank lavender face and gently strokes with supporting palm steady and slight depth tilt. One loop and full body visible.",
+  "identity": "Partial face/ponytail/cream blouse remain compatible with canonical reference on visual review.",
+  "limitations": "Small exact yaw/pause not measured; free fingers briefly close to window, fine glyphs vary. More restrained motion than first attempt, deliberately chosen for product fidelity. Final exposure QA pending."
+}

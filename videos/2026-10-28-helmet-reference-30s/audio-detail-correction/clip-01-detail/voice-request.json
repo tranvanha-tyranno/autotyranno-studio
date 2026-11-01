@@ -1,0 +1,6 @@
+{
+  "provider": "ElevenLabs",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "model_id": "eleven_v3",
+  "text_sha256": "319ce3e4995066fb1662e81782e94b10dc5ad403b8620f59658330117f6cb50c"
+}

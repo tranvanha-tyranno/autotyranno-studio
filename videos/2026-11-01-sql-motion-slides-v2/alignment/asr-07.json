@@ -1,0 +1,367 @@
+[
+  {
+    "word": "Và",
+    "start": 0.02,
+    "end": 0.52
+  },
+  {
+    "word": "đây",
+    "start": 0.52,
+    "end": 0.7
+  },
+  {
+    "word": "là",
+    "start": 0.7,
+    "end": 0.88
+  },
+  {
+    "word": "điều",
+    "start": 0.88,
+    "end": 1.0
+  },
+  {
+    "word": "thú",
+    "start": 1.0,
+    "end": 1.26
+  },
+  {
+    "word": "vị.",
+    "start": 1.26,
+    "end": 1.46
+  },
+  {
+    "word": "Mặc",
+    "start": 2.32,
+    "end": 2.48
+  },
+  {
+    "word": "dù",
+    "start": 2.48,
+    "end": 2.7
+  },
+  {
+    "word": "COSQL",
+    "start": 2.7,
+    "end": 3.6
+  },
+  {
+    "word": "được",
+    "start": 3.6,
+    "end": 3.9
+  },
+  {
+    "word": "viết",
+    "start": 3.9,
+    "end": 4.18
+  },
+  {
+    "word": "bắt",
+    "start": 4.18,
+    "end": 4.38
+  },
+  {
+    "word": "đầu",
+    "start": 4.38,
+    "end": 4.54
+  },
+  {
+    "word": "bằng",
+    "start": 4.54,
+    "end": 4.78
+  },
+  {
+    "word": "SELECT,",
+    "start": 4.78,
+    "end": 5.28
+  },
+  {
+    "word": "nhưng",
+    "start": 5.88,
+    "end": 5.96
+  },
+  {
+    "word": "thứ",
+    "start": 5.96,
+    "end": 6.22
+  },
+  {
+    "word": "tự",
+    "start": 6.22,
+    "end": 6.42
+  },
+  {
+    "word": "sử",
+    "start": 6.42,
+    "end": 6.64
+  },
+  {
+    "word": "lý",
+    "start": 6.64,
+    "end": 6.8
+  },
+  {
+    "word": "logic",
+    "start": 6.8,
+    "end": 7.16
+  },
+  {
+    "word": "lại",
+    "start": 7.16,
+    "end": 7.5
+  },
+  {
+    "word": "bắt",
+    "start": 7.5,
+    "end": 7.72
+  },
+  {
+    "word": "đầu",
+    "start": 7.72,
+    "end": 7.9
+  },
+  {
+    "word": "từ",
+    "start": 7.9,
+    "end": 8.1
+  },
+  {
+    "word": "FROM.",
+    "start": 8.1,
+    "end": 8.5
+  },
+  {
+    "word": "Hẻ",
+    "start": 9.26,
+    "end": 9.52
+  },
+  {
+    "word": "thống",
+    "start": 9.52,
+    "end": 9.72
+  },
+  {
+    "word": "xác",
+    "start": 9.72,
+    "end": 9.96
+  },
+  {
+    "word": "định",
+    "start": 9.96,
+    "end": 10.14
+  },
+  {
+    "word": "giữ",
+    "start": 10.14,
+    "end": 10.38
+  },
+  {
+    "word": "liệu,",
+    "start": 10.38,
+    "end": 10.64
+  },
+  {
+    "word": "lọc",
+    "start": 11.14,
+    "end": 11.34
+  },
+  {
+    "word": "các",
+    "start": 11.34,
+    "end": 11.44
+  },
+  {
+    "word": "dòng",
+    "start": 11.44,
+    "end": 11.68
+  },
+  {
+    "word": "hợp",
+    "start": 11.68,
+    "end": 11.9
+  },
+  {
+    "word": "lệ,",
+    "start": 11.9,
+    "end": 12.12
+  },
+  {
+    "word": "chọn",
+    "start": 12.64,
+    "end": 12.74
+  },
+  {
+    "word": "các",
+    "start": 12.74,
+    "end": 13.0
+  },
+  {
+    "word": "cột,",
+    "start": 13.0,
+    "end": 13.26
+  },
+  {
+    "word": "sắp",
+    "start": 13.66,
+    "end": 13.8
+  },
+  {
+    "word": "xép,",
+    "start": 13.8,
+    "end": 14.12
+  },
+  {
+    "word": "bỏ",
+    "start": 14.62,
+    "end": 14.7
+  },
+  {
+    "word": "qua",
+    "start": 14.7,
+    "end": 14.92
+  },
+  {
+    "word": "những",
+    "start": 14.92,
+    "end": 15.08
+  },
+  {
+    "word": "dòng",
+    "start": 15.08,
+    "end": 15.36
+  },
+  {
+    "word": "trước",
+    "start": 15.36,
+    "end": 15.56
+  },
+  {
+    "word": "đó,",
+    "start": 15.56,
+    "end": 15.84
+  },
+  {
+    "word": "rồi",
+    "start": 16.42,
+    "end": 16.58
+  },
+  {
+    "word": "giới",
+    "start": 16.58,
+    "end": 16.86
+  },
+  {
+    "word": "hạn",
+    "start": 16.86,
+    "end": 17.04
+  },
+  {
+    "word": "kết",
+    "start": 17.04,
+    "end": 17.22
+  },
+  {
+    "word": "quả.",
+    "start": 17.22,
+    "end": 17.48
+  },
+  {
+    "word": "Đây",
+    "start": 18.12,
+    "end": 18.36
+  },
+  {
+    "word": "là",
+    "start": 18.36,
+    "end": 18.52
+  },
+  {
+    "word": "thứ",
+    "start": 18.52,
+    "end": 18.64
+  },
+  {
+    "word": "tự",
+    "start": 18.64,
+    "end": 18.86
+  },
+  {
+    "word": "logic",
+    "start": 18.86,
+    "end": 19.26
+  },
+  {
+    "word": "để",
+    "start": 19.26,
+    "end": 19.58
+  },
+  {
+    "word": "hiểu",
+    "start": 19.58,
+    "end": 19.8
+  },
+  {
+    "word": "truy",
+    "start": 19.8,
+    "end": 20.02
+  },
+  {
+    "word": "vấn,",
+    "start": 20.02,
+    "end": 20.24
+  },
+  {
+    "word": "không",
+    "start": 20.86,
+    "end": 21.0
+  },
+  {
+    "word": "nhất",
+    "start": 21.0,
+    "end": 21.2
+  },
+  {
+    "word": "thiết",
+    "start": 21.2,
+    "end": 21.46
+  },
+  {
+    "word": "là",
+    "start": 21.46,
+    "end": 21.62
+  },
+  {
+    "word": "thứ",
+    "start": 21.62,
+    "end": 21.78
+  },
+  {
+    "word": "tự",
+    "start": 21.78,
+    "end": 22.06
+  },
+  {
+    "word": "PostgreSQL",
+    "start": 22.06,
+    "end": 23.08
+  },
+  {
+    "word": "thực",
+    "start": 23.08,
+    "end": 23.7
+  },
+  {
+    "word": "thi",
+    "start": 23.7,
+    "end": 23.96
+  },
+  {
+    "word": "bên",
+    "start": 23.96,
+    "end": 24.14
+  },
+  {
+    "word": "trong.",
+    "start": 24.14,
+    "end": 24.46
+  }
+]

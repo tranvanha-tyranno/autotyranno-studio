@@ -1,0 +1,72 @@
+[
+  {
+    "file": "variant-01\\clip-01-lavender-reveal\\scene-01\\clip-01-narration\\voice.mp3",
+    "seconds": 6.69,
+    "silence_events": [
+      "[silencedetect @ 00000240204ee980] silence_start: 1.219841",
+      "[silencedetect @ 00000240204ee980] silence_end: 1.571701 | silence_duration: 0.351859",
+      "[silencedetect @ 00000240204ee980] silence_start: 3.054263",
+      "[silencedetect @ 00000240204ee980] silence_end: 3.765692 | silence_duration: 0.711429",
+      "[silencedetect @ 00000240204ee980] silence_start: 4.644649",
+      "[silencedetect @ 00000240204ee980] silence_end: 4.991202 | silence_duration: 0.346553"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-reveal\\scene-02\\clip-01-narration\\voice.mp3",
+    "seconds": 6.35,
+    "silence_events": [
+      "[silencedetect @ 000002a1f02f1780] silence_start: 0.786689",
+      "[silencedetect @ 000002a1f02f1780] silence_end: 1.101383 | silence_duration: 0.314694",
+      "[silencedetect @ 000002a1f02f1780] silence_start: 1.811406",
+      "[silencedetect @ 000002a1f02f1780] silence_end: 2.076009 | silence_duration: 0.264603",
+      "[silencedetect @ 000002a1f02f1780] silence_start: 3.226531",
+      "[silencedetect @ 000002a1f02f1780] silence_end: 4.02839 | silence_duration: 0.801859"
+    ]
+  },
+  {
+    "file": "variant-01\\clip-01-lavender-reveal\\scene-03\\clip-01-narration\\voice.mp3",
+    "seconds": 6.03,
+    "silence_events": [
+      "[silencedetect @ 0000026632758c80] silence_start: 1.156735",
+      "[silencedetect @ 0000026632758c80] silence_end: 1.577778 | silence_duration: 0.421043",
+      "[silencedetect @ 0000026632758c80] silence_start: 3.410045",
+      "[silencedetect @ 0000026632758c80] silence_end: 3.688866 | silence_duration: 0.278821",
+      "[silencedetect @ 0000026632758c80] silence_start: 5.655669",
+      "[silencedetect @ 0000026632758c80] silence_end: 5.997415 | silence_duration: 0.341746"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-desk\\scene-01\\clip-01-narration\\voice.mp3",
+    "seconds": 6.77,
+    "silence_events": [
+      "[silencedetect @ 000001e1f3e46040] silence_start: 1.858753",
+      "[silencedetect @ 000001e1f3e46040] silence_end: 2.439229 | silence_duration: 0.580476",
+      "[silencedetect @ 000001e1f3e46040] silence_start: 2.858617",
+      "[silencedetect @ 000001e1f3e46040] silence_end: 3.295669 | silence_duration: 0.437052",
+      "[silencedetect @ 000001e1f3e46040] silence_start: 4.139388",
+      "[silencedetect @ 000001e1f3e46040] silence_end: 4.390408 | silence_duration: 0.25102",
+      "[silencedetect @ 000001e1f3e46040] silence_start: 6.078118",
+      "[silencedetect @ 000001e1f3e46040] silence_end: 6.72 | silence_duration: 0.641882"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-desk\\scene-02\\clip-01-narration\\voice.mp3",
+    "seconds": 5.72,
+    "silence_events": [
+      "[silencedetect @ 000001799ea3fec0] silence_start: 0.773787",
+      "[silencedetect @ 000001799ea3fec0] silence_end: 1.139683 | silence_duration: 0.365896",
+      "[silencedetect @ 000001799ea3fec0] silence_start: 2.437029",
+      "[silencedetect @ 000001799ea3fec0] silence_end: 3.160317 | silence_duration: 0.723288"
+    ]
+  },
+  {
+    "file": "variant-02\\clip-01-lavender-desk\\scene-03\\clip-01-narration\\voice.mp3",
+    "seconds": 5.33,
+    "silence_events": [
+      "[silencedetect @ 0000021f6f15e380] silence_start: 1.792948",
+      "[silencedetect @ 0000021f6f15e380] silence_end: 2.108435 | silence_duration: 0.315488",
+      "[silencedetect @ 0000021f6f15e380] silence_start: 3.136689",
+      "[silencedetect @ 0000021f6f15e380] silence_end: 3.502041 | silence_duration: 0.365351"
+    ]
+  }
+]

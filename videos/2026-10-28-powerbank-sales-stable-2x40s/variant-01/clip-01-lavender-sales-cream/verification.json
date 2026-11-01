@@ -1,0 +1,213 @@
+{
+  "final_seconds": 40.0,
+  "resolution": "720x1280",
+  "fps": 30,
+  "video_frame_count": 1200,
+  "video_seconds": 40.0,
+  "independent_scenes": 6,
+  "looped": false,
+  "slowed_to_fill": false,
+  "full_scene_dialogue_preserved": true,
+  "scene_timings": [
+    {
+      "scene": 1,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 7.24,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0.0,
+          2.558027
+        ],
+        [
+          3.246508,
+          7.24
+        ]
+      ],
+      "used_audio_seconds": 6.551519000000001
+    },
+    {
+      "scene": 2,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 6.53,
+      "audio_tempo": 1.0,
+      "audio_segments": [
+        [
+          0.0,
+          3.565578
+        ],
+        [
+          3.900091,
+          6.53
+        ]
+      ],
+      "used_audio_seconds": 6.195487
+    },
+    {
+      "scene": 3,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 8.52,
+      "audio_tempo": 1.1955319374369324,
+      "audio_segments": [
+        [
+          0.0,
+          0.981655
+        ],
+        [
+          1.174467,
+          2.092721
+        ],
+        [
+          2.246871,
+          4.259683
+        ],
+        [
+          4.53424,
+          8.52
+        ]
+      ],
+      "used_audio_seconds": 7.898481
+    },
+    {
+      "scene": 4,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 7.39,
+      "audio_tempo": 1.0597829969727546,
+      "audio_segments": [
+        [
+          0.0,
+          2.14907
+        ],
+        [
+          2.288027,
+          3.991134
+        ],
+        [
+          4.240544,
+          7.39
+        ]
+      ],
+      "used_audio_seconds": 7.001633
+    },
+    {
+      "scene": 5,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 10.0,
+      "visual_speed": 1.5,
+      "voice_seconds": 7.63,
+      "audio_tempo": 1.08362663975782,
+      "audio_segments": [
+        [
+          0.0,
+          1.671882
+        ],
+        [
+          1.89381,
+          5.209705
+        ],
+        [
+          5.458617,
+          7.63
+        ]
+      ],
+      "used_audio_seconds": 7.159159999999999
+    },
+    {
+      "scene": 6,
+      "seconds": 6.666666666666667,
+      "source_seconds": 10.0,
+      "source_start": 0,
+      "used_source_seconds": 7.200000000000001,
+      "visual_speed": 1.08,
+      "voice_seconds": 7.31,
+      "audio_tempo": 1.0374837033299695,
+      "audio_segments": [
+        [
+          0.0,
+          2.29932
+        ],
+        [
+          2.62966,
+          4.652449
+        ],
+        [
+          4.7778,
+          7.31
+        ]
+      ],
+      "used_audio_seconds": 6.854308999999999
+    }
+  ],
+  "decode_check": "passed",
+  "audio_levels_db": {
+    "mean_volume": -16.2,
+    "max_volume": -1.8
+  },
+  "black_or_freeze_alerts": [],
+  "visual_qa": "accepted_with_limitations after corrected comparison, enlarged two-hand source details, full action sheets and final frame review",
+  "text_overlays": false,
+  "exposure_reports": [
+    {
+      "scene": 1,
+      "report": "clip-01-lavender-sales-cream\\scene-01\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9633280812370374,
+      "needs_attention": false
+    },
+    {
+      "scene": 2,
+      "report": "clip-01-lavender-sales-cream\\scene-02-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9797604992836302,
+      "needs_attention": false
+    },
+    {
+      "scene": 3,
+      "report": "clip-01-lavender-sales-cream\\scene-03\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9041598374952954,
+      "needs_attention": true
+    },
+    {
+      "scene": 4,
+      "report": "clip-01-lavender-sales-cream\\scene-04-r03\\exposure-plan.json",
+      "end_to_opening_ratio": 0.9497633398081838,
+      "needs_attention": false
+    },
+    {
+      "scene": 5,
+      "report": "clip-01-lavender-sales-cream\\scene-05\\exposure-plan.json",
+      "end_to_opening_ratio": 1.0499903911022412,
+      "needs_attention": false
+    },
+    {
+      "scene": 6,
+      "report": "clip-01-lavender-sales-cream\\scene-06-r02\\exposure-plan.json",
+      "end_to_opening_ratio": 0.8701393022949503,
+      "needs_attention": true
+    }
+  ],
+  "sha256": "38646cb93921da345325fadafe21569c8d5de45cc3645d2bc13e2494fa6d7eb8",
+  "visual_qa_notes": [
+    "Six distinct independent sources, three reused approved visuals and three new context sources.",
+    "Faulty third-hand source replaced before delivery; enlarged detail review shows only supporting hand and free hand in selected footage.",
+    "Source 6 uses original interval 0–7.2s at 1.08x to omit late product focus loss. No slowed footage, freeze-fill or loop.",
+    "Mask-based brightening retains black window while keeping product and skin bright; whole-ROI measurements include composition changes.",
+    "Fine display glyphs vary; occasional fingers near display edge, slight reframing and mouth movement remain. No exact angle/pause or performance claim."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "muse_task_attempts": [
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-01\\opening-task.json",
+      "id": "task_fbce4043f45245b2b40d",
+      "status": "completed",
+      "kind": "image",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-01\\source-task.json",
+      "id": "task_47d71bc42a91426ea44e",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-02\\opening-task.json",
+      "id": "task_d34cd64d0280443192b8",
+      "status": "completed",
+      "kind": "image",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-02\\source-task.json",
+      "id": "task_b2df0bb1d7ad46ccaf69",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-03\\opening-task.json",
+      "id": "task_bfd98ad57ce24f11a3be",
+      "status": "completed",
+      "kind": "image",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-03\\source-task.json",
+      "id": "task_b3b9a63e1a034b63a31c",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-04\\opening-task.json",
+      "id": "task_4a0725d9a31a4ad2a8dd",
+      "status": "completed",
+      "kind": "image",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-04\\source-task.json",
+      "id": "task_f5f657fbad034ad29fe6",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-05\\opening-task.json",
+      "id": "task_4d84d4e9258f4044989e",
+      "status": "completed",
+      "kind": "image",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-05\\source-task.json",
+      "id": "task_84efe84adab848619eb8",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-05-r02\\source-task.json",
+      "id": "task_6bdf60b6a1e34749811d",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-06\\opening-task.json",
+      "id": "task_07f15ee55fa548f98419",
+      "status": "completed",
+      "kind": "image",
+      "cache_hit": false
+    },
+    {
+      "file": "clip-01-lavender-powerbank-review\\scene-06\\source-task.json",
+      "id": "task_8d8a5fef8cef4312a9f8",
+      "status": "completed",
+      "kind": "video",
+      "cache_hit": false
+    }
+  ],
+  "distinct_muse_tasks": 13,
+  "distinct_elevenlabs_request_ids": 6,
+  "optional_llm_api_calls": 0,
+  "note": "Task counts include one rejected video retained for QA. Corrected take reused original opening and cached narration. These counts are not an actual currency billing statement."
+}

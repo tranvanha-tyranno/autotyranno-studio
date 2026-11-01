@@ -1,0 +1,8 @@
+{
+  "result": "accepted_with_limitations",
+  "source_sha256": "e3d02ab15eaa20693eae2a1b92d30e20056f904d33d3a952f0da436268154d01",
+  "samples": "20 frames, 0.5s intervals",
+  "observed_action": "Brief steady initial pose, free hand rises and visibly strokes body, product reorients moderately while front remains visible, then held for CTA. Full product/one loop remain within frame.",
+  "identity": "Canonical face/ponytail/cream shirt visually consistent.",
+  "limitations": "Model starts with ~1s steady pose rather than immediate lift; no freeze used. Mouth moves during later source, narration remains separate. Glossy window reflections vary and fingers momentarily pass over edge. No added text. Final exposure QA pending."
+}

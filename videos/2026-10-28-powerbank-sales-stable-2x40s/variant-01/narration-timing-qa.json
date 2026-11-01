@@ -1,0 +1,274 @@
+[
+  {
+    "scene": 1,
+    "voice_sha256": "746ed673a845af2348e6d39e11b3f7bf43ac5c4656e9e2137c4f6ad045d83fa7",
+    "original_seconds": 7.24,
+    "detected_quiet_ranges": [
+      [
+        1.043719,
+        1.352245
+      ],
+      [
+        2.438027,
+        3.366508
+      ],
+      [
+        5.891927,
+        6.188095
+      ]
+    ],
+    "noise_threshold_db": -40,
+    "retained_boundary_guard_seconds": 0.12,
+    "removed_quiet_interiors": [
+      [
+        2.558027,
+        3.246508
+      ]
+    ],
+    "speech_preserving_segments": [
+      [
+        0.0,
+        2.558027
+      ],
+      [
+        3.246508,
+        7.24
+      ]
+    ],
+    "used_seconds": 6.551519000000001,
+    "render_tempo": 1.0,
+    "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+  },
+  {
+    "scene": 2,
+    "voice_sha256": "87adfd8a01c13bfd1d4b53df30385e10b3d4c9bd398cd26acad0a5966066fb59",
+    "original_seconds": 6.53,
+    "detected_quiet_ranges": [
+      [
+        2.109093,
+        2.438413
+      ],
+      [
+        3.445578,
+        4.020091
+      ]
+    ],
+    "noise_threshold_db": -40,
+    "retained_boundary_guard_seconds": 0.12,
+    "removed_quiet_interiors": [
+      [
+        3.565578,
+        3.900091
+      ]
+    ],
+    "speech_preserving_segments": [
+      [
+        0.0,
+        3.565578
+      ],
+      [
+        3.900091,
+        6.53
+      ]
+    ],
+    "used_seconds": 6.195487,
+    "render_tempo": 1.0,
+    "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+  },
+  {
+    "scene": 3,
+    "voice_sha256": "ee35fd52cd9d3b0b22947851fd5d6fd8ab0ccf3ed1d5e4ee21906c2e75fa98cd",
+    "original_seconds": 8.52,
+    "detected_quiet_ranges": [
+      [
+        0.861655,
+        1.294467
+      ],
+      [
+        1.972721,
+        2.366871
+      ],
+      [
+        3.101066,
+        3.352517
+      ],
+      [
+        4.139683,
+        4.65424
+      ],
+      [
+        6.446644,
+        6.728617
+      ]
+    ],
+    "noise_threshold_db": -40,
+    "retained_boundary_guard_seconds": 0.12,
+    "removed_quiet_interiors": [
+      [
+        0.981655,
+        1.174467
+      ],
+      [
+        2.092721,
+        2.246871
+      ],
+      [
+        4.259683,
+        4.53424
+      ]
+    ],
+    "speech_preserving_segments": [
+      [
+        0.0,
+        0.981655
+      ],
+      [
+        1.174467,
+        2.092721
+      ],
+      [
+        2.246871,
+        4.259683
+      ],
+      [
+        4.53424,
+        8.52
+      ]
+    ],
+    "used_seconds": 7.898481,
+    "render_tempo": 1.1955319374369324,
+    "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+  },
+  {
+    "scene": 4,
+    "voice_sha256": "eda59d7d894756fb93e1b74c99ed56f93e85495f08d06c69189f7f99d9a145e0",
+    "original_seconds": 7.39,
+    "detected_quiet_ranges": [
+      [
+        2.02907,
+        2.408027
+      ],
+      [
+        3.871134,
+        4.360544
+      ]
+    ],
+    "noise_threshold_db": -40,
+    "retained_boundary_guard_seconds": 0.12,
+    "removed_quiet_interiors": [
+      [
+        2.14907,
+        2.288027
+      ],
+      [
+        3.991134,
+        4.240544
+      ]
+    ],
+    "speech_preserving_segments": [
+      [
+        0.0,
+        2.14907
+      ],
+      [
+        2.288027,
+        3.991134
+      ],
+      [
+        4.240544,
+        7.39
+      ]
+    ],
+    "used_seconds": 7.001633,
+    "render_tempo": 1.0597829969727546,
+    "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+  },
+  {
+    "scene": 5,
+    "voice_sha256": "75af6450039778571139d5d0336bae99606067a158a2a1a51593febeb39f6db2",
+    "original_seconds": 7.63,
+    "detected_quiet_ranges": [
+      [
+        1.551882,
+        2.01381
+      ],
+      [
+        5.089705,
+        5.578617
+      ]
+    ],
+    "noise_threshold_db": -40,
+    "retained_boundary_guard_seconds": 0.12,
+    "removed_quiet_interiors": [
+      [
+        1.671882,
+        1.89381
+      ],
+      [
+        5.209705,
+        5.458617
+      ]
+    ],
+    "speech_preserving_segments": [
+      [
+        0.0,
+        1.671882
+      ],
+      [
+        1.89381,
+        5.209705
+      ],
+      [
+        5.458617,
+        7.63
+      ]
+    ],
+    "used_seconds": 7.159159999999999,
+    "render_tempo": 1.08362663975782,
+    "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+  },
+  {
+    "scene": 6,
+    "voice_sha256": "2ebe0b744762c3739cbb8f15f935dfb9833afe691235252db28e5395c827194d",
+    "original_seconds": 7.31,
+    "detected_quiet_ranges": [
+      [
+        2.17932,
+        2.74966
+      ],
+      [
+        4.532449,
+        4.8978
+      ]
+    ],
+    "noise_threshold_db": -40,
+    "retained_boundary_guard_seconds": 0.12,
+    "removed_quiet_interiors": [
+      [
+        2.29932,
+        2.62966
+      ],
+      [
+        4.652449,
+        4.7778
+      ]
+    ],
+    "speech_preserving_segments": [
+      [
+        0.0,
+        2.29932
+      ],
+      [
+        2.62966,
+        4.652449
+      ],
+      [
+        4.7778,
+        7.31
+      ]
+    ],
+    "used_seconds": 6.854308999999999,
+    "render_tempo": 1.0374837033299695,
+    "scope": "Derived only from this exact saved take; original voice retained. Never transfer ranges to a new take."
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "recipe_version": 5,
+  "duration_seconds": 20,
+  "visual_speed": 1.5,
+  "text_overlays": false,
+  "product_crop": [
+    0.145,
+    0.015,
+    0.6,
+    0.4
+  ],
+  "product_description": "Exactly ONE palm-sized pastel lavender power bank matching product reference: thick rounded rectangular rigid smooth shell, glossy BLACK rounded rectangular level window at one end of the broad front face, original white level markings, one short matching lavender loop and original seam. Preserve shell/window/loop proportions and relative positions. Never add cables, extra loops, new ports, brand names or accessories. The loop is a strap, not a charging cable. Keep original front facing the camera; no rear or hidden-edge reconstruction.",
+  "character": {
+    "reference": "character/portrait.png",
+    "prompt": "Create ONE photorealistic canonical character portrait, vertical 9:16. A newly invented adult Vietnamese woman aged 30 with a softly angular face, warm tan skin, dark almond-shaped eyes, straight chin-length BLACK BOB haircut with a side part. Plain pastel sage-green long-sleeve shirt, simple collar, no jewelry or visible logos. Head and upper torso clearly visible, full hair and shoulders, friendly relaxed closed-mouth smile. Even bright diffuse neutral studio illumination, pale warm-gray background. Fictional adult, no likeness of a specific real person. One person only. No product, prop, text, watermark, illustration or collage."
+  },
+  "quality": {
+    "lock_exposure": true,
+    "require_video_review": true,
+    "exposure_lock": {
+      "enabled": true,
+      "max_brightness": 0.07,
+      "allow_dimming": false,
+      "roi": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+      ]
+    }
+  },
+  "cache": {
+    "muse": true,
+    "tts": true
+  },
+  "claim_basis": {
+    "source": "Supplied collage only; lavender product selected.",
+    "observed": [
+      "pastel lavender shell",
+      "rounded corners",
+      "matching loop",
+      "black level window"
+    ],
+    "unverified_and_excluded": [
+      "price",
+      "capacity",
+      "power",
+      "charging protocols",
+      "certification",
+      "real user experience"
+    ]
+  },
+  "clips": [
+    {
+      "slug": "lavender-desk",
+      "presentation_mode": "presenter",
+      "background": "Bright modern home workspace, off-white desk, pale blue wall, small blurred leafy plant and closed plain notebook well away from product. Fixed large diffuse studio lights at 5200K, no visible window, no moving sunlight, no signage, consistent neutral exposure.",
+      "presenter": "The exact fictional adult woman from canonical reference: chin-length side-part black bob, softly angular face, sage-green long-sleeve shirt.",
+      "dialogue": "[excited] Sạc dự phòng mà tím như kẹo! [playful] Bo góc, có quai đồng màu; đặt cạnh đồ đi làm nhìn hợp ghê.\n\n[upbeat] Xoay nhẹ, chạm lớp vỏ trơn nè. [explaining] Ô báo mức pin ở mặt trước giúp mình tiện theo dõi.\n\n[encouraging] Mê màu tím này thì bấm giỏ hàng, xem kỹ thông số, chọn đúng phiên bản rồi đặt mua nha!",
+      "scenes": [
+        {
+          "title": "Hook and reveal",
+          "seconds": 6.666666666666667,
+          "visual_speed": 1.5,
+          "dialogue": "[excited] Sạc dự phòng mà tím như kẹo! [playful] Bo góc, có quai đồng màu; đặt cạnh đồ đi làm nhìn hợp ghê.",
+          "opening_prompt": "Deterministic 9:16 crop of previously generated canonical scene opening; left=4% of width, top=36% of height, preserve aspect ratio to bottom. Product and full loop retained, no invented pixels. Source: videos\\2026-10-28-powerbank-new-code-2x20s\\variant-02\\clip-01-lavender-desk\\scene-01-r02",
+          "video_prompt": "A realistic single continuous 10-second vertical product demonstration, 9:16, 720x1280. Use image 1 exactly as the starting shot. Same hands, sage-green shirt, lavender power bank and light. Image 2 locks the exact product, image 3 locks the same adult woman if any face becomes visible.\nKeep the product CRADLED HORIZONTALLY in the SAME supporting palm, in the SAME diagonal orientation as image 1 for all ten seconds. The black display stays at the LOWER-RIGHT of the visible body, the loop stays at the UPPER-RIGHT, and the same long edge stays nearest the camera. Do not roll it in the picture plane, turn it upright, turn it upside down, flip, change grip or show any other side. Keep the supporting forearm and wrist still. Only a tiny 3-degree side-to-side depth yaw once, which never changes those screen positions. The black window is always glossy solid BLACK with its original tiny white markings, never gray, never blank or glowing. Exactly one short lavender loop, original body proportions and visible side geometry.\nSimple action: immediately lift the FREE HAND toward the blank lavender shell; settle for half a second. Around second 2 make the tiny 3-degree depth yaw and stop. From seconds 3 to 6, gently place two fingertips ON the blank upper lavender shell and slowly stroke just 1 cm, then lift them away. Supporting hand and body remain in their original pose. From seconds 6 to 10 keep product steady, only natural hand breathing and one small free-finger gesture beside it. No extra action or handling. Do not touch/cover the black display or loop. Fingers must have believable contact shadows, no fingers through product.\nCamera is a LOCKED tripod, same crop as opening: no zoom, no pan, no travel, no face-following, no reframe. Full body and loop always inside frame. Same fixed bright diffuse light throughout with locked exposure/white balance, no darkening, fade, changing shadow or vignette. No speaking or mouth movement, no captions, subtitles, marketing cards, added text or watermark. Keep only original physical product markings. No audio, music or voice. No cuts, repeated or frozen frames.",
+          "action_timeline": "Free hand moves immediately; brief settling; tiny 3-degree depth yaw, same palm/grip; fingers actually stroke blank shell around 3–6s then release. Maintain original diagonal product pose, black window and short single loop.",
+          "revision": 3
+        },
+        {
+          "title": "Tactile design demonstration",
+          "seconds": 6.666666666666667,
+          "visual_speed": 1.5,
+          "dialogue": "[upbeat] Xoay nhẹ, chạm lớp vỏ trơn nè. [explaining] Ô báo mức pin ở mặt trước giúp mình tiện theo dõi.",
+          "opening_prompt": "Deterministic 9:16 crop of previously generated canonical scene opening; left=4% of width, top=36% of height, preserve aspect ratio to bottom. Product and full loop retained, no invented pixels. Source: videos\\2026-10-28-powerbank-new-code-2x20s\\variant-02\\clip-01-lavender-desk\\scene-02",
+          "video_prompt": "A realistic single continuous 10-second vertical product demonstration, 9:16, 720x1280. Use image 1 exactly as the starting shot. Same hands, sage-green shirt, lavender power bank and light. Image 2 locks the exact product, image 3 locks the same adult woman if any face becomes visible.\nKeep the product CRADLED HORIZONTALLY in the SAME supporting palm, in the SAME diagonal orientation as image 1 for all ten seconds. The black display stays at the LOWER-RIGHT of the visible body, the loop stays at the UPPER-RIGHT, and the same long edge stays nearest the camera. Do not roll it in the picture plane, turn it upright, turn it upside down, flip, change grip or show any other side. Keep the supporting forearm and wrist still. Only a tiny 3-degree side-to-side depth yaw once, which never changes those screen positions. The black window is always glossy solid BLACK with its original tiny white markings, never gray, never blank or glowing. Exactly one short lavender loop, original body proportions and visible side geometry.\nSimple action: immediately lift the FREE HAND toward the blank lavender shell; settle for half a second. Around second 2 make the tiny 3-degree depth yaw and stop. From seconds 3 to 6, gently place two fingertips ON the blank upper lavender shell and slowly stroke just 1 cm, then lift them away. Supporting hand and body remain in their original pose. From seconds 6 to 10 keep product steady, only natural hand breathing and one small free-finger gesture beside it. No extra action or handling. Do not touch/cover the black display or loop. Fingers must have believable contact shadows, no fingers through product.\nCamera is a LOCKED tripod, same crop as opening: no zoom, no pan, no travel, no face-following, no reframe. Full body and loop always inside frame. Same fixed bright diffuse light throughout with locked exposure/white balance, no darkening, fade, changing shadow or vignette. No speaking or mouth movement, no captions, subtitles, marketing cards, added text or watermark. Keep only original physical product markings. No audio, music or voice. No cuts, repeated or frozen frames.",
+          "action_timeline": "Free hand moves immediately; brief settling; tiny 3-degree depth yaw, same palm/grip; fingers actually stroke blank shell around 3–6s then release. Maintain original diagonal product pose, black window and short single loop.",
+          "revision": 2
+        },
+        {
+          "title": "Purchase CTA",
+          "seconds": 6.666666666666667,
+          "visual_speed": 1.5,
+          "dialogue": "[encouraging] Mê màu tím này thì bấm giỏ hàng, xem kỹ thông số, chọn đúng phiên bản rồi đặt mua nha!",
+          "opening_prompt": "Deterministic 9:16 crop of previously generated canonical scene opening; left=4% of width, top=36% of height, preserve aspect ratio to bottom. Product and full loop retained, no invented pixels. Source: videos\\2026-10-28-powerbank-new-code-2x20s\\variant-02\\clip-01-lavender-desk\\scene-03",
+          "video_prompt": "A realistic single continuous 10-second vertical product demonstration, 9:16, 720x1280. Use image 1 exactly as the starting shot. Same hands, sage-green shirt, lavender power bank and light. Image 2 locks the exact product, image 3 locks the same adult woman if any face becomes visible.\nKeep the product CRADLED HORIZONTALLY in the SAME supporting palm, in the SAME diagonal orientation as image 1 for all ten seconds. The black display stays at the LOWER-RIGHT of the visible body, the loop stays at the UPPER-RIGHT, and the same long edge stays nearest the camera. Do not roll it in the picture plane, turn it upright, turn it upside down, flip, change grip or show any other side. Keep the supporting forearm and wrist still. Only a tiny 3-degree side-to-side depth yaw once, which never changes those screen positions. The black window is always glossy solid BLACK with its original tiny white markings, never gray, never blank or glowing. Exactly one short lavender loop, original body proportions and visible side geometry.\nSimple action: immediately lift the FREE HAND toward the blank lavender shell; settle for half a second. Around second 2 make the tiny 3-degree depth yaw and stop. From seconds 3 to 6, gently place two fingertips ON the blank upper lavender shell and slowly stroke just 1 cm, then lift them away. Supporting hand and body remain in their original pose. From seconds 6 to 10 keep product steady, only natural hand breathing and one small free-finger gesture beside it. No extra action or handling. Do not touch/cover the black display or loop. Fingers must have believable contact shadows, no fingers through product.\nCamera is a LOCKED tripod, same crop as opening: no zoom, no pan, no travel, no face-following, no reframe. Full body and loop always inside frame. Same fixed bright diffuse light throughout with locked exposure/white balance, no darkening, fade, changing shadow or vignette. No speaking or mouth movement, no captions, subtitles, marketing cards, added text or watermark. Keep only original physical product markings. No audio, music or voice. No cuts, repeated or frozen frames.",
+          "action_timeline": "Free hand moves immediately; brief settling; tiny 3-degree depth yaw, same palm/grip; fingers actually stroke blank shell around 3–6s then release. Maintain original diagonal product pose, black window and short single loop.",
+          "revision": 2
+        }
+      ],
+      "marketing": {
+        "hook": "Sạc dự phòng mà tím như kẹo!",
+        "hook_seconds": 3,
+        "buyer_benefit": "A coordinated pastel design with a front-facing level window for convenient visual checking.",
+        "reason_to_believe": "Features visible in supplied image, demonstrated with hand contact; no unverified technical performance.",
+        "cta": "Mê màu tím này thì bấm giỏ hàng, xem kỹ thông số, chọn đúng phiên bản rồi đặt mua nha!"
+      }
+    }
+  ],
+  "references": [
+    "input/product-crop.png",
+    "input\\original.png"
+  ],
+  "created_at": "2026-10-28T18:54:45.787440+07:00",
+  "product_image_sha256": "c4b79ffe99b270da9b1f491adb94fb243931ba95bcaa68a45ade6c68d033d07a",
+  "motion_revision_notes": "Source scene 1 rejected for large upright reorientation and gray window. Replace long English action brief with concise locked-pose Chinese brief; only 3-degree depth tilt, same supporting grip, one real shell stroke. Preserve rejected source and task ID. Scene 2 already submitted separately and will be reviewed before decision.",
+  "composition_update": "Three distinct close product shots per output. Variant 1 uses two explicitly provenanced locally approved sources of the visually matched unit. Remaining sources start from deterministic tight crops of their own canonical scene images with the motion prompt previously validated on close-ups. No loop, slowdown or rejected medium-pose source is used."
+}

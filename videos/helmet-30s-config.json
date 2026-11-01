@@ -1,0 +1,22 @@
+{
+  "recipe_version": 3,
+  "duration_seconds": 30,
+  "muse_base": "http://127.0.0.1:18610",
+  "visual_speed": 1.0,
+  "scene_count": 3,
+  "product_description": "A dark charcoal/black adult bicycle helmet from the supplied image, with a broad curved front visor, sculpted aerodynamic shell, multiple long ventilation openings with dark mesh visible beneath, and black adjustable chin straps with buckle. A small white wordmark is visible on the central front ridge but is not legible; do not invent or rewrite branding. Preserve the exact silhouette, number and placement of vents, visor, colors, finish, straps and buckle. Do not add lights, accessories, safety certifications, impact ratings or other unshown features.",
+  "clips": [
+    {
+      "slug": "helmet-city-commute-review",
+      "presentation_mode": "presenter",
+      "background": "A bright modern bicycle shop with a clean wood counter, softly blurred rows of bicycles and helmets in the distance, neutral daylight and uncluttered premium product-review styling. Keep the product well lit and dominant.",
+      "presenter": "A fictional adult Vietnamese woman around 28, casual olive cycling jacket and simple dark hair tied back, friendly energetic expression; waist-up behind the counter, positioned to the side so she never blocks the helmet. Not resembling a real person.",
+      "staging": "Place the exact helmet on a small neutral display stand, front three-quarter view, whole product and hanging straps visible. The presenter makes small open-palm gestures beside it without obscuring it. No riding or accident scene.",
+      "dialogue": "[excited] Ê ê ê, ai đi xe đạp mà đang kiếm một chiếc mũ nhìn gọn, thể thao thì nghía thử nè!\n\n[playful] Mũ tông đen nhám, dáng vuốt khí động học, phía trước có lưỡi che nắng nhìn rất cá tính.\n\n[explaining] Nhìn kỹ nha: thân mũ có nhiều khe thoáng, bên trong thấy lớp lưới tối màu; quai cài phía dưới có khóa chỉnh được.\n\n[upbeat] Đi dạo phố hay đạp xe cuối tuần, phối đồ cũng dễ. Nhớ chọn đúng cỡ, chỉnh quai ôm vừa đầu và kiểm tra thông tin an toàn của mẫu trước khi mua nha! Thích kiểu này thì bấm giỏ hàng xem chi tiết liền, các dợ!"
+    }
+  ],
+  "cache": {
+    "muse": true,
+    "tts": true
+  }
+}

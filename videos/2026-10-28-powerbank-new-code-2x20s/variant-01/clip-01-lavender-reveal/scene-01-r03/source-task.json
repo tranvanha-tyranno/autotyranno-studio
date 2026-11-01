@@ -1,0 +1,24 @@
+{
+  "id": "task_070152bbc56b48e2a102",
+  "object": "task",
+  "kind": "video",
+  "prompt": "生成一段10秒竖屏真实产品演示视频。第一张是唯一的起始构图，第二张只用于锁定产品，第三张只用于锁定同一成年虚构人物。全程同一个镜头，机位固定，保持第一张的亮度和白平衡。\n关键：充电宝始终平放在原来的托举手掌上，保持第一张的斜向构图、尺寸、短胖比例及握持方式。不能竖起来，不能在画面内旋转，不能翻面，不能换手，不能把产品变成长条。黑色显示窗始终在壳体同一端，保持纯黑底及原有白色刻度；短提环只有一个，形状与原图一致。\n动作只有一次：0–1秒，托举手掌连同产品上移1厘米；1–1.5秒自然停稳；1.5–2.5秒仅向镜头微微倾斜3度，仍看见完整正面；2.5–6秒，另一只手的食指和中指真正轻触紫色空白外壳，沿壳面轻抚2厘米一次，手指有真实接触阴影，不遮挡黑窗、不碰按钮、不碰提环；6–7秒抬起抚摸手指，托举手掌恢复原来3度；7–10秒维持原构图，自然轻微呼吸。产品不能滑出托举手掌。脸、衣服、紫色机身及黑窗全程稳定清晰。\nNo extra rotation, grip change, camera motion, zoom, cut, fade or dimming. Keep original product, single short loop, shell proportions and black window from FIRST opening frame throughout. Do not animate charging or display numbers. Lips relaxed and closed, no speech or music. No added text, captions, cards, logos or watermark; retain original physical product markings.\nEXPOSURE CONTINUITY: identical bright diffuse studio illumination from the first to the last frame, locked camera exposure and white balance, no auto exposure ramp, no fade, vignette, dramatic grading, dimming or moving shadows. Preserve the opening photograph's product/skin brightness and colors. Camera motion must not cause the face, clothes or product to gradually darken.",
+  "status": "completed",
+  "created_at": 1793202334,
+  "updated_at": 1793202465,
+  "result": {
+    "url": "http://127.0.0.1:18610/v1/media/0fa9ea90a6ce45a797ce282ddde556f9.mp4",
+    "filename": "0fa9ea90a6ce45a797ce282ddde556f9.mp4",
+    "bytes": 2513883,
+    "kind": "video"
+  },
+  "error": null,
+  "api_prompt": "基于我本次上传的 3 张参考图片生成视频（以第一张作为主要起始画面，其余图片作为主体、场景与风格参考，严禁使用历史图片或其他图像）：生成一个严格9:16竖屏手机满屏的动态图生视频（9:16 vertical portrait video，720x1280，高大于宽的手机全屏竖版画面，严禁生成横屏或黑边，时长严格为 10 秒）：生成一段10秒竖屏真实产品演示视频。第一张是唯一的起始构图，第二张只用于锁定产品，第三张只用于锁定同一成年虚构人物。全程同一个镜头，机位固定，保持第一张的亮度和白平衡。\n关键：充电宝始终平放在原来的托举手掌上，保持第一张的斜向构图、尺寸、短胖比例及握持方式。不能竖起来，不能在画面内旋转，不能翻面，不能换手，不能把产品变成长条。黑色显示窗始终在壳体同一端，保持纯黑底及原有白色刻度；短提环只有一个，形状与原图一致。\n动作只有一次：0–1秒，托举手掌连同产品上移1厘米；1–1.5秒自然停稳；1.5–2.5秒仅向镜头微微倾斜3度，仍看见完整正面；2.5–6秒，另一只手的食指和中指真正轻触紫色空白外壳，沿壳面轻抚2厘米一次，手指有真实接触阴影，不遮挡黑窗、不碰按钮、不碰提环；6–7秒抬起抚摸手指，托举手掌恢复原来3度；7–10秒维持原构图，自然轻微呼吸。产品不能滑出托举手掌。脸、衣服、紫色机身及黑窗全程稳定清晰。\nNo extra rotation, grip change, camera motion, zoom, cut, fade or dimming. Keep original product, single short loop, shell proportions and black window from FIRST opening frame throughout. Do not animate charging or display numbers. Lips relaxed and closed, no speech or music. No added text, captions, cards, logos or watermark; retain original physical product markings.\nEXPOSURE CONTINUITY: identical bright diffuse studio illumination from the first to the last frame, locked camera exposure and white balance, no auto exposure ramp, no fade, vignette, dramatic grading, dimming or moving shadows. Preserve the opening photograph's product/skin brightness and colors. Camera motion must not cause the face, clothes or product to gradually darken.，画质规格：720p",
+  "progress": 100,
+  "account": "213903f25712",
+  "elapsed": 131.1,
+  "url": "http://127.0.0.1:18610/v1/media/0fa9ea90a6ce45a797ce282ddde556f9.mp4",
+  "video": {
+    "url": "http://127.0.0.1:18610/v1/media/0fa9ea90a6ce45a797ce282ddde556f9.mp4"
+  }
+}
