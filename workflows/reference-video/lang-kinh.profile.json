@@ -1,0 +1,77 @@
+{
+  "name": "lang-kinh-editorial-v2",
+  "brand": {
+    "display_name": "LĂNG KÍNH",
+    "signature": "TYRANNO",
+    "ink": "#151C25",
+    "paper": "#F5F1E8",
+    "amber": "#FFB347",
+    "mint": "#68D8C3",
+    "central_mic": false,
+    "continuous_waveform": false
+  },
+  "style_pool": [
+    "hero",
+    "full_bleed",
+    "editorial",
+    "split",
+    "filmstrip",
+    "inset",
+    "closing"
+  ],
+  "style_rules": [
+    "Use layouts to express ideas; keep a common palette.",
+    "Keep one narrator per analytical video unless dialogue is intentional.",
+    "Retain moving video under layouts.",
+    "Do not label symbolic bars as measured data.",
+    "Use brief silence and full-bleed breathing shots between dense layouts."
+  ],
+  "sound_presets": {
+    "whoosh": {
+      "prompt": "A single refined soft cinematic transition whoosh, fast airy sweep left to right, short smooth tail, clean isolated sound, no voices, no music, not harsh.",
+      "duration_seconds": 0.9
+    },
+    "impact": {
+      "prompt": "A single warm low cinematic punctuation hit, restrained deep soft thump with a delicate metallic tick on top, short clean decay, no explosion, no voice, no music.",
+      "duration_seconds": 1.2
+    },
+    "paper": {
+      "prompt": "One crisp tactile page turn and gentle paper slide on a wooden desk, clean close-up editorial foley, no voices, no room noise, no music.",
+      "duration_seconds": 1.3
+    },
+    "typing": {
+      "prompt": "A short burst of natural laptop keyboard typing, close detailed soft keys, business documentary foley, no voice, no music, no notification.",
+      "duration_seconds": 2.5
+    },
+    "tick": {
+      "prompt": "Two clean subtle digital UI ticks, precise small glass click followed by a warmer confirmation tone, quiet premium editorial sound, no voice or music.",
+      "duration_seconds": 1.0
+    },
+    "port": {
+      "prompt": "Soft distant commercial harbor ambience, cranes moving, gentle ship engine rumble, open air, no horns or speech, no music, low intensity documentary background.",
+      "duration_seconds": 5.0
+    }
+  },
+  "audio_model": "eleven_v3",
+  "sound_model": "eleven_text_to_sound_v3",
+  "voice_candidates": [
+    {
+      "name": "Thuy Tien — Vietnamese Narrator",
+      "id": "ZlVlUEsl3JykOGluaNu1",
+      "language": "vi"
+    },
+    {
+      "name": "Adam",
+      "id": "pNInz6obpgDQGcFmaJgB"
+    }
+  ],
+  "review_policy": {
+    "before_render": "Match every named example to footage with the same subject; generic industry is insufficient for a specific sewing-workshop analogy.",
+    "color": "Neutral base grade with per-source overrides; preserve the real object color, do not force all footage into the brand palette.",
+    "timing": "Choose shot cuts from the exact narration alignment, then cue SFX to those cuts.",
+    "layout": "Panels must leave useful footage visible; captions should use concise complete clauses.",
+    "iterations": "Each revision needs a stated observation, real output, technical checks and a reviewed focal sheet; no invented quality score.",
+    "frame_metadata": "Normalize SAR and color metadata between all shots; count decoded frames after final subtitle/mix pass."
+  },
+  "latest_review_series": "videos/2026-11-11-ten-pass-review/REVIEW_SUMMARY.md"
+}

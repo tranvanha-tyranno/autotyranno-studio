@@ -1,0 +1,16 @@
+{
+  "batch": "videos/REPLACE_BATCH",
+  "revision": "r01",
+  "dimension": "overall",
+  "decision": "accepted",
+  "reviewer": {"kind": "human_user", "name": "User"},
+  "target": {"clause_id": "__whole_video__", "narration": "REPLACE_SCRIPT_SCOPE", "start": 0, "end": 1},
+  "method": "human_feedback",
+  "quote": "REPLACE_EXACT_USER_WORDS",
+  "observation": "REPLACE_SCOPE_OF_THE_ACTUAL_USER_FEEDBACK",
+  "action": "REPLACE_WHAT_THE_USER_AUTHORIZED_KEEPING_OR_CHANGING",
+  "evidence": [
+    {"role": "render", "path": "videos/REPLACE_BATCH/r01/final.mp4", "sha256": "REPLACE_SHA256"},
+    {"role": "feedback", "path": "videos/REPLACE_BATCH/review/user-feedback.txt", "sha256": "REPLACE_SHA256"}
+  ]
+}

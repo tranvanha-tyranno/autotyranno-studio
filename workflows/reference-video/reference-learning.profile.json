@@ -1,0 +1,47 @@
+{
+  "id": "long-user-samples-2026-11-13",
+  "status": "reference-study-saved-not-a-new-video-approval",
+  "sourceIds": ["w3z43Hlzq3c", "1OGwWLvasIk", "gNznfzAUiLw", "3JUxxp2sIDM"],
+  "channel": "Lóng",
+  "scope": "Original writing patterns, editorial angles, inferred viewer needs, and sampled visual-word relationships across the complete source timelines.",
+  "readFirst": [
+    "workflows/reference-video/REFERENCE_LEARNING.md",
+    "docs/video-references/2026-11-13-user-samples/README.md",
+    "docs/video-references/2026-11-13-user-samples/PLAYBOOK.md"
+  ],
+  "preserve": {
+    "visualBaseline": "cinematic/src/directions/ — restored photo/gallery3D interface",
+    "voiceAndSound": "Approved Nhật Phong preset and sound approach",
+    "priorBatches": true
+  },
+  "futureUserStructure": ["hook", "brief-relevant-disclaimer", "main", "specific-relevant-cta"],
+  "currentLifeExplainerPreferences": {
+    "updatedFromUserFeedback": "2026-11-13",
+    "preferDocumentedCountry": "VN",
+    "locationEvidence": "Source-recorded place and URL; do not infer nationality/location from appearance or present archival prices as current offers.",
+    "motion": "Use purposeful actual Three.js object animation plus the retained photo/gallery interface. Animate the narrated action or relationship; avoid long static holds and cluttered dashboard layouts.",
+    "disclaimer": "A distinct short section immediately after the hook, headed MIỄN TRỪ TRÁCH NHIỆM, with relevant scope limits.",
+    "preserve": "Exact approved Nhật Phong take and speech-first sound approach; keep previous revisions.",
+    "acceptance": "Updated production capability and preferences, not user approval of a new export or model-weight training."
+  },
+  "sourceStructureCaveat": "Observed references vary: opening disclaimer in Vĩnh Hưng/TCG; Châu Âu opens with a scope caveat; Huấn has an investigation caveat later. Do not attribute the user-required four-part structure uniformly to all sources.",
+  "writingBriefFields": ["viewer-need-inference", "single-editorial-angle", "central-question", "concrete-hook", "promised-payoff", "causal-chain", "evidence", "counterargument", "limits", "meaningful-callback", "final-answer", "cta"],
+  "visualClauseFields": ["narrated-clause", "need-to-see", "role-evidence-context-mechanism-or-metaphor", "subject", "object", "action-or-state", "inspected-asset-and-crop", "source-and-reuse-rights", "supports", "does-not-establish", "display-claim-units-year-scope", "exact-new-take-timing", "hold-to-read", "retained-layout"],
+  "editingLessons": [
+    "Choose the subject and relationship before choosing effects.",
+    "Use subject-related source media for specific cases and concise diagrams for causal relations.",
+    "When a clause says discount, show an actual discount marker or old/new price. Two ordinary shelf prices or different pack sizes do not establish a reduction. Keep archival offers separate from current prices and hypothetical arithmetic.",
+    "Reveal one useful relation at a time; do not turn every clause into a dashboard.",
+    "Change layouts when narrative function changes, not on an arbitrary image timer.",
+    "Return to the opening question with a supported answer before CTA.",
+    "Treat source labels, ASR, numbers and illustrations as fallible; inspect mismatches."
+  ],
+  "limits": [
+    "Complete transcript and sampled-frame review is not continuous audiovisual playback or auditory approval.",
+    "Audience/retention interpretations are hypotheses; no private channel analytics were available.",
+    "Source claims were studied as rhetoric, not independently fact-verified.",
+    "Reference download does not authorize asset republication.",
+    "Saving this profile updates reusable project knowledge, not model weights.",
+    "This research does not authorize a new video or visual redesign."
+  ]
+}

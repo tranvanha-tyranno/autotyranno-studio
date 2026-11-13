@@ -1,0 +1,9 @@
+{
+  "title": "REPLACE_CONCISE_LESSON_TITLE",
+  "category": "visual_relevance",
+  "rule": "REPLACE_REUSABLE_RULE",
+  "action": "REPLACE_CONCRETE_ACTION_IN_THE_WORKFLOW",
+  "rationale": "REPLACE_HOW_THE_SOURCE_REVIEW_SUPPORTS_THIS_RULE",
+  "applies_to": ["photo_explainer"],
+  "source_feedback_ids": ["REPLACE_RECORDED_FEEDBACK_EVENT_ID"]
+}

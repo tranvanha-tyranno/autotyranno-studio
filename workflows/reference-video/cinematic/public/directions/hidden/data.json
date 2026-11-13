@@ -1,0 +1,768 @@
+{
+  "direction": "hidden",
+  "fps": 30,
+  "frames": 2490,
+  "title": "Đừng chỉ nhìn tên nghề. Hãy nhìn từng nhiệm vụ.",
+  "audio": "directions/hidden/mix.wav",
+  "shots": [
+    {
+      "phrase": "Một nghề không biến mất",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/candidate.jpg",
+          "credit": "MART PRODUCTION / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "eyebrow": "NHÌN LẠI CÂU HỎI VỀ AI",
+      "headline": "Tên nghề nói được bao nhiêu?",
+      "start": 0,
+      "phase": "hook",
+      "end": 89
+    },
+    {
+      "phrase": "Nhưng một người",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/home-learning.jpg",
+          "credit": "Mizuno K / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 0.6666666666666666
+        }
+      ],
+      "start": 89,
+      "phase": "hook",
+      "end": 242
+    },
+    {
+      "phrase": "Vậy rốt cuộc",
+      "layout": "diptych",
+      "images": [
+        {
+          "file": "directions/hidden/resume.jpg",
+          "credit": "cottonbro studio / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 0.6679654884497634
+        },
+        {
+          "file": "directions/hidden/board-team.jpg",
+          "credit": "Vitaly Gariev / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.7777777777777777
+        }
+      ],
+      "headline": "Tên nghề / Việc thực sự làm",
+      "start": 242,
+      "phase": "hook",
+      "end": 400
+    },
+    {
+      "phrase": "Phần sau",
+      "layout": "evidence",
+      "images": [
+        {
+          "file": "directions/hidden/discussion.jpg",
+          "credit": "Mikhail Nilov / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.4981273408239701
+        }
+      ],
+      "eyebrow": "LƯU Ý",
+      "headline": "Một cách tự rà soát",
+      "body": "Không phải kết luận về tương lai của mọi nghề.",
+      "start": 400,
+      "phase": "disclaimer",
+      "end": 560
+    },
+    {
+      "phrase": "Hãy lấy một ngày",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/colleagues.jpg",
+          "credit": "Ketut Subiyanto / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5028177833437695
+        }
+      ],
+      "eyebrow": "01 / MỘT NGÀY, NHIỀU NHIỆM VỤ",
+      "start": 560,
+      "phase": "content",
+      "end": 620
+    },
+    {
+      "phrase": "Bạn tìm thông tin",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/folders.jpg",
+          "credit": "Jakub Zerdzicki / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.499063085571518
+        }
+      ],
+      "start": 620,
+      "phase": "content",
+      "end": 660
+    },
+    {
+      "phrase": "viết bản đầu",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/typing-photo.jpg",
+          "credit": "Firmbee.com / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "start": 660,
+      "phase": "content",
+      "end": 697
+    },
+    {
+      "phrase": "kiểm tra, trao đổi",
+      "layout": "diptych",
+      "images": [
+        {
+          "file": "directions/hidden/pens-proof.jpg",
+          "credit": "Kaboompics.com / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        },
+        {
+          "file": "directions/hidden/client-meeting.jpg",
+          "credit": "Ron Lach / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "start": 697,
+      "phase": "content",
+      "end": 776
+    },
+    {
+      "phrase": "Những việc ấy",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/team-decision.jpg",
+          "credit": "Kaboompics.com / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "start": 776,
+      "phase": "content",
+      "end": 920
+    },
+    {
+      "phrase": "Vì vậy",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/asian-notes.jpg",
+          "credit": "Mikhail Nilov / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 0.6666666666666666
+        }
+      ],
+      "eyebrow": "02 / ĐỔI CÁCH ĐẶT CÂU HỎI",
+      "start": 920,
+      "phase": "content",
+      "end": 1030
+    },
+    {
+      "phrase": "phần nào có thể tạo nháp",
+      "layout": "gallery3d",
+      "images": [
+        {
+          "file": "directions/hidden/notes.jpg",
+          "credit": "Kampus Production / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.4981273408239701
+        },
+        {
+          "file": "directions/hidden/clipboard-check.jpg",
+          "credit": "Mikhail Nilov / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 0.9995835068721366
+        },
+        {
+          "file": "directions/hidden/team-decision.jpg",
+          "credit": "Kaboompics.com / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "headline": "Tạo nháp / Đối chiếu / Chịu trách nhiệm",
+      "start": 1030,
+      "phase": "content",
+      "end": 1183
+    },
+    {
+      "phrase": "Bạn có thể nhờ",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/sticky-board.jpg",
+          "credit": "Jakub Zerdzicki / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "start": 1183,
+      "phase": "content",
+      "end": 1260
+    },
+    {
+      "phrase": "Nhưng khi một con số",
+      "layout": "evidence",
+      "images": [
+        {
+          "file": "directions/hidden/calculator.jpg",
+          "credit": "Bia Limova / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "headline": "Quay về nguồn",
+      "sourceNote": "Tình huống giả định · Ảnh minh họa",
+      "start": 1260,
+      "phase": "content",
+      "end": 1363
+    },
+    {
+      "phrase": "Khi khách hàng",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/support-agent.jpg",
+          "credit": "MART PRODUCTION / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "start": 1363,
+      "phase": "content",
+      "end": 1432
+    },
+    {
+      "phrase": "một câu trả lời lịch sự",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/support-team.jpg",
+          "credit": "Yan Krukau / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.1401425178147269
+        }
+      ],
+      "start": 1432,
+      "phase": "content",
+      "end": 1522
+    },
+    {
+      "phrase": "Đây là điểm",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/held-docs.jpg",
+          "credit": "SHVETS production / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "eyebrow": "03 / KHOẢNG CÁCH CẦN KIỂM TRA",
+      "start": 1522,
+      "phase": "content",
+      "end": 1576
+    },
+    {
+      "phrase": "đầu ra trông",
+      "layout": "diptych",
+      "images": [
+        {
+          "file": "directions/hidden/notes.jpg",
+          "credit": "Kampus Production / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.4981273408239701
+        },
+        {
+          "file": "directions/hidden/review-team-detail.jpg",
+          "credit": "Artem Podrez / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.0666666666666667
+        }
+      ],
+      "headline": "Trông hoàn chỉnh / Thật sự hoàn thành",
+      "start": 1576,
+      "phase": "content",
+      "end": 1712
+    },
+    {
+      "phrase": "Khoảng cách giữa",
+      "layout": "gallery3d",
+      "images": [
+        {
+          "file": "directions/hidden/close-review.jpg",
+          "credit": "Mikhail Nilov / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.4981273408239701
+        },
+        {
+          "file": "directions/hidden/client-meeting.jpg",
+          "credit": "Ron Lach / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        },
+        {
+          "file": "directions/hidden/team-decision.jpg",
+          "credit": "Kaboompics.com / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "headline": "Kiểm tra → Bối cảnh → Quyết định",
+      "start": 1712,
+      "phase": "content",
+      "end": 1867
+    },
+    {
+      "phrase": "Hôm nay",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/home-learning.jpg",
+          "credit": "Mizuno K / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 0.6666666666666666
+        }
+      ],
+      "eyebrow": "04 / MỘT THỬ NGHIỆM NHỎ",
+      "start": 1867,
+      "phase": "content",
+      "end": 1935
+    },
+    {
+      "phrase": "Viết rõ tiêu chuẩn",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/board-team.jpg",
+          "credit": "Vitaly Gariev / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.7777777777777777
+        }
+      ],
+      "start": 1935,
+      "phase": "content",
+      "end": 1981
+    },
+    {
+      "phrase": "thử bằng dữ liệu",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/discussion.jpg",
+          "credit": "Mikhail Nilov / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.4981273408239701
+        }
+      ],
+      "start": 1981,
+      "phase": "content",
+      "end": 2077
+    },
+    {
+      "phrase": "Đo cả thời gian sửa",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/notes.jpg",
+          "credit": "Kampus Production / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.4981273408239701
+        }
+      ],
+      "headline": "Tính cả thời gian sửa",
+      "start": 2077,
+      "phase": "content",
+      "end": 2123
+    },
+    {
+      "phrase": "Chỉ giữ cách làm",
+      "layout": "full",
+      "images": [
+        {
+          "file": "directions/hidden/learning.jpg",
+          "credit": "Kampus Production / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5
+        }
+      ],
+      "start": 2123,
+      "phase": "content",
+      "end": 2222
+    },
+    {
+      "phrase": "Bạn muốn bóc tách",
+      "layout": "closing",
+      "images": [
+        {
+          "file": "directions/hidden/team-charts.jpg",
+          "credit": "Anna Shvets / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 0.6666666666666666
+        }
+      ],
+      "eyebrow": "MỘT CÂU HỎI CHO BẠN",
+      "headline": "Nhiệm vụ nào tiếp theo?",
+      "start": 2222,
+      "phase": "cta",
+      "end": 2285
+    },
+    {
+      "phrase": "Hãy để lại",
+      "layout": "closing",
+      "images": [
+        {
+          "file": "directions/hidden/interview.jpg",
+          "credit": "Vitaly Gariev / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.7777777777777777
+        }
+      ],
+      "headline": "Để lại một ví dụ",
+      "start": 2285,
+      "phase": "cta",
+      "end": 2358
+    },
+    {
+      "phrase": "và đăng ký TYRANNO",
+      "layout": "closing",
+      "images": [
+        {
+          "file": "directions/hidden/colleagues.jpg",
+          "credit": "Ketut Subiyanto / Pexels",
+          "focus": [
+            50,
+            45
+          ],
+          "aspect": 1.5028177833437695
+        }
+      ],
+      "headline": "Quan sát kỹ. Hiểu sâu hơn.",
+      "body": "Đăng ký TYRANNO để cùng theo dõi.",
+      "start": 2358,
+      "phase": "cta",
+      "end": 2490
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Một nghề không biến mất chỉ vì một thao tác"
+    },
+    {
+      "start": 1.968,
+      "end": 2.88,
+      "text": "được làm nhanh hơn."
+    },
+    {
+      "start": 2.973,
+      "end": 5.68,
+      "text": "Nhưng một người cũng khó yên tâm nếu phần"
+    },
+    {
+      "start": 5.712,
+      "end": 7.96,
+      "text": "việc mình làm hằng ngày đang đổi khác."
+    },
+    {
+      "start": 8.07,
+      "end": 10.32,
+      "text": "Vậy rốt cuộc, chúng ta nên nhìn vào tên"
+    },
+    {
+      "start": 10.368,
+      "end": 12.4,
+      "text": "nghề, hay nhìn vào từng việc mình thực sự"
+    },
+    {
+      "start": 12.46,
+      "end": 12.8,
+      "text": "làm?"
+    },
+    {
+      "start": 13.328,
+      "end": 15.92,
+      "text": "Phần sau là một cách tự rà soát công việc,"
+    },
+    {
+      "start": 15.947,
+      "end": 17.68,
+      "text": "không phải kết luận về tương lai của mọi"
+    },
+    {
+      "start": 17.728,
+      "end": 18.0,
+      "text": "nghề."
+    },
+    {
+      "start": 18.65,
+      "end": 20.48,
+      "text": "Hãy lấy một ngày làm việc bình thường."
+    },
+    {
+      "start": 20.66,
+      "end": 23.44,
+      "text": "Bạn tìm thông tin, viết bản đầu, kiểm"
+    },
+    {
+      "start": 23.5,
+      "end": 25.76,
+      "text": "tra, trao đổi và đưa ra quyết định."
+    },
+    {
+      "start": 25.88,
+      "end": 28.48,
+      "text": "Những việc ấy nằm chung trong một chức danh,"
+    },
+    {
+      "start": 28.533,
+      "end": 30.4,
+      "text": "nhưng không có cùng mức độ cần con người."
+    },
+    {
+      "start": 30.667,
+      "end": 32.96,
+      "text": "Vì vậy, thay vì hỏi máy có thay mình"
+    },
+    {
+      "start": 33.013,
+      "end": 34.24,
+      "text": "không, thử hỏi:"
+    },
+    {
+      "start": 34.32,
+      "end": 36.72,
+      "text": "phần nào có thể tạo nháp, phần nào phải đối"
+    },
+    {
+      "start": 36.773,
+      "end": 38.96,
+      "text": "chiếu, và phần nào cần mình chịu trách"
+    },
+    {
+      "start": 38.987,
+      "end": 39.2,
+      "text": "nhiệm?"
+    },
+    {
+      "start": 39.44,
+      "end": 41.92,
+      "text": "Bạn có thể nhờ công cụ gợi ý cấu trúc."
+    },
+    {
+      "start": 42.0,
+      "end": 44.48,
+      "text": "Nhưng khi một con số không khớp, bạn cần"
+    },
+    {
+      "start": 44.512,
+      "end": 45.2,
+      "text": "quay về nguồn."
+    },
+    {
+      "start": 45.44,
+      "end": 48.16,
+      "text": "Khi khách hàng đang bức xúc, một câu trả"
+    },
+    {
+      "start": 48.2,
+      "end": 50.24,
+      "text": "lời lịch sự chưa chắc đã giải quyết đúng vấn"
+    },
+    {
+      "start": 50.32,
+      "end": 50.56,
+      "text": "đề."
+    },
+    {
+      "start": 50.74,
+      "end": 52.4,
+      "text": "Đây là điểm cần phân biệt:"
+    },
+    {
+      "start": 52.52,
+      "end": 55.12,
+      "text": "đầu ra trông có vẻ hoàn chỉnh, và một công"
+    },
+    {
+      "start": 55.184,
+      "end": 56.96,
+      "text": "việc thật sự được hoàn thành."
+    },
+    {
+      "start": 57.08,
+      "end": 59.52,
+      "text": "Khoảng cách giữa hai điều đó chính là chỗ để"
+    },
+    {
+      "start": 59.568,
+      "end": 61.84,
+      "text": "kiểm tra, hiểu bối cảnh và quyết định."
+    },
+    {
+      "start": 62.24,
+      "end": 64.32,
+      "text": "Hôm nay, hãy chọn một nhiệm vụ."
+    },
+    {
+      "start": 64.507,
+      "end": 67.2,
+      "text": "Viết rõ tiêu chuẩn đạt, thử bằng dữ liệu giả"
+    },
+    {
+      "start": 67.232,
+      "end": 68.96,
+      "text": "định, rồi tự so kết quả."
+    },
+    {
+      "start": 69.227,
+      "end": 70.64,
+      "text": "Đo cả thời gian sửa."
+    },
+    {
+      "start": 70.78,
+      "end": 73.2,
+      "text": "Chỉ giữ cách làm khi bạn kiểm soát được chất"
+    },
+    {
+      "start": 73.24,
+      "end": 73.52,
+      "text": "lượng."
+    },
+    {
+      "start": 74.07,
+      "end": 76.0,
+      "text": "Bạn muốn bóc tách nhiệm vụ nào tiếp theo?"
+    },
+    {
+      "start": 76.18,
+      "end": 78.8,
+      "text": "Hãy để lại một ví dụ dưới bình luận, và"
+    },
+    {
+      "start": 78.848,
+      "end": 81.2,
+      "text": "đăng ký TYRANNO để cùng quan sát công việc"
+    },
+    {
+      "start": 81.232,
+      "end": 81.84,
+      "text": "đang thay đổi."
+    }
+  ]
+}

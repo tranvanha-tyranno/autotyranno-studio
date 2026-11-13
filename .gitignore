@@ -32,3 +32,18 @@ data/studio-logs/
 *.tsbuildinfo
 .DS_Store
 Thumbs.db
+
+# Local browser sessions, previews and generated exports
+/.playwright-cli/
+/.remotion/
+/output/
+
+# Explainer runtime dependencies and generated bundles
+/workflows/reference-video/cinematic/build/
+/workflows/reference-video/cinematic/.remotion/
+/workflows/reference-video/cinematic/public/**
+!/workflows/reference-video/cinematic/public/**/
+!/workflows/reference-video/cinematic/public/**/*.json
+
+# Local evidence ledger depends on private rendered batches
+/workflows/reference-video/learning-data/

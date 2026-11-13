@@ -1,0 +1,81 @@
+{
+  "schema": "optional-finance-styles/1",
+  "status": "revision-needed-after-user-feedback",
+  "defaultOverride": false,
+  "voice": {
+    "id": "6adFm46eyy74snVn6YrT",
+    "name": "Nhật Phong",
+    "model": "eleven_v3",
+    "language": "vi",
+    "speed": 1.0,
+    "stability": 0.5,
+    "similarity_boost": 0.8
+  },
+  "structure": [
+    "hook",
+    "brief-relevant-disclaimer",
+    "mechanism-and-limits",
+    "actionable-cta"
+  ],
+  "styles": [
+    {
+      "id": "finance-cast",
+      "composition": "FinanceCast",
+      "source": "cinematic/src/finance-demo/",
+      "cast": "finance-cast.json",
+      "paidVisualCallsRequired": 0,
+      "purpose": "Original character interactions and emotional reactions explaining personal finance",
+      "status": "revision-needed",
+      "candidate": {
+        "entry": "cinematic/src/finance-reset-entry.tsx",
+        "source": "cinematic/src/finance-comic/",
+        "composition": "FinanceComicProof",
+        "durationFrames": 535,
+        "fps": 30,
+        "proofOnly": true,
+        "userApproval": "pending",
+        "batch": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02"
+      }
+    },
+    {
+      "id": "finance-minimal",
+      "composition": "FinanceMinimal",
+      "source": "cinematic/src/finance-simple/",
+      "paidVisualCallsRequired": 0,
+      "purpose": "Content-first typography, arithmetic and restrained movement",
+      "status": "revision-needed",
+      "candidate": {
+        "entry": "cinematic/src/finance-reset-entry.tsx",
+        "source": "cinematic/src/finance-flow/",
+        "composition": "FinanceFlowProof",
+        "durationFrames": 535,
+        "fps": 30,
+        "proofOnly": true,
+        "userApproval": "pending",
+        "batch": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02"
+      }
+    }
+  ],
+  "costPolicy": {
+    "sameScriptComparison": "one cached narration take shared across styles",
+    "music": "reuse only with receipt and verified hash when appropriate",
+    "render": "local and sequential",
+    "zeroProviderVisualCostDoesNotMeanZeroTotalCost": true
+  },
+  "referenceLimit": "One user screenshot; no observed animation or audio",
+  "noBranding": true,
+  "approval": "New demos require user feedback; do not inherit previous approvals",
+  "latestFeedback": {
+    "quote": "dàn video số 2 tối giản làm chả khác gì 1 cái slide hả còn nhân vật thực sự chưa ưa mắt về ng cho lắm",
+    "evidence": "videos/2026-11-13-hai-style-tiet-kiem/review/user-critique/user-feedback.txt",
+    "sha256": "0fddf66bbdca9dbc2cbc0a154f7b97e9d49d2f5d64b2c2f61600044fb7624509",
+    "scope": "Both original demo visual styles need revision; narration is not criticized"
+  },
+  "revisionDirection": {
+    "characters": "Comic biểu cảm mạnh, hơi hài hước",
+    "chosenBy": "human_user",
+    "newDesignApproval": "pending",
+    "motion": "Content-specific continuous object actions and coherent transitions; static cards with entrance animation are insufficient",
+    "proofPolicy": "Short18s motion proofs and two leads before another full library expansion"
+  }
+}

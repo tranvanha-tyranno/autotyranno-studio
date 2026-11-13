@@ -1,0 +1,146 @@
+{
+  "cuts": [
+    0,
+    134,
+    403,
+    755,
+    1052,
+    1304,
+    1500
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.4990439770554493,
+      "text": "Một nghìn tỷ đô la."
+    },
+    {
+      "start": 1.5823241980029743,
+      "end": 3.7476099426386233,
+      "text": "Một con số đủ lớn để khiến chúng ta"
+    },
+    {
+      "start": 3.789250053112386,
+      "end": 4.330571489271298,
+      "text": "choáng ngợp."
+    },
+    {
+      "start": 4.469024856596558,
+      "end": 5.579774803484173,
+      "text": "Nhưng khoan."
+    },
+    {
+      "start": 5.774442319949012,
+      "end": 8.078181431909922,
+      "text": "Đó là kim ngạch, không phải lợi nhuận."
+    },
+    {
+      "start": 8.286381984278734,
+      "end": 10.493307839388146,
+      "text": "Một bên đo quy mô giao dịch."
+    },
+    {
+      "start": 10.55576800509879,
+      "end": 12.575313363076269,
+      "text": "Một bên chỉ còn lại sau khi trừ chi"
+    },
+    {
+      "start": 12.637773528786914,
+      "end": 12.991714467813894,
+      "text": "phí."
+    },
+    {
+      "start": 13.449755683025282,
+      "end": 15.490121096239644,
+      "text": "Mười tháng năm hai nghìn không trăm hai mươi"
+    },
+    {
+      "start": 15.57340131718717,
+      "end": 17.905247503717867,
+      "text": "sáu, thương mại Việt Nam vượt mốc này."
+    },
+    {
+      "start": 18.030167835139157,
+      "end": 20.65349479498619,
+      "text": "Con số ấy cộng cả hàng bán ra lẫn"
+    },
+    {
+      "start": 20.703462927554707,
+      "end": 21.48629700446144,
+      "text": "hàng mua vào."
+    },
+    {
+      "start": 21.619545357977483,
+      "end": 24.317824516677288,
+      "text": "Hàng đi ra thế giới, nguyên liệu lại đi"
+    },
+    {
+      "start": 24.359464627151052,
+      "end": 24.98406628425749,
+      "text": "vào nhà máy."
+    },
+    {
+      "start": 25.17144678138942,
+      "end": 26.649670703207992,
+      "text": "Hãy nhìn một đường may."
+    },
+    {
+      "start": 26.941151476524325,
+      "end": 30.147439983004038,
+      "text": "Đơn hàng lớn, nhưng vải, máy móc và thiết"
+    },
+    {
+      "start": 30.230720203951563,
+      "end": 31.313363076269386,
+      "text": "kế đều phải mua."
+    },
+    {
+      "start": 31.59131081368175,
+      "end": 34.14489058848523,
+      "text": "Doanh thu đi qua xưởng, chưa chắc đã là"
+    },
+    {
+      "start": 34.19485872105375,
+      "end": 34.894412577012965,
+      "text": "tiền ở lại."
+    },
+    {
+      "start": 35.06097301890801,
+      "end": 36.72657743785851,
+      "text": "Với nền kinh tế cũng vậy."
+    },
+    {
+      "start": 36.92124495432335,
+      "end": 39.80794561291694,
+      "text": "Muốn tiến xa, cần làm chủ công nghệ, thiết"
+    },
+    {
+      "start": 39.89122583386446,
+      "end": 41.0571489271298,
+      "text": "kế và thương hiệu."
+    },
+    {
+      "start": 41.390269810919904,
+      "end": 43.388995113660506,
+      "text": "Kỷ lục là một khởi đầu đáng mừng."
+    },
+    {
+      "start": 43.47227533460803,
+      "end": 45.30444019545359,
+      "text": "Nhưng câu hỏi dài hạn vẫn còn:"
+    },
+    {
+      "start": 45.421032504780115,
+      "end": 48.0526874867219,
+      "text": "Việt Nam sẽ chỉ bán nhiều hơn, hay sẽ"
+    },
+    {
+      "start": 48.09432759719567,
+      "end": 48.96876991714468,
+      "text": "làm chủ nhiều hơn?"
+    }
+  ],
+  "narrationFactor": 0.9606122448979592,
+  "source": "Provider alignment of exact Nhật Phong v3 take",
+  "sewingStart": 25.166666666666668
+}

@@ -1,0 +1,16 @@
+{
+  "batch": "videos/REPLACE_BATCH",
+  "revision": "r01",
+  "dimension": "visual_relevance",
+  "decision": "revision_needed",
+  "reviewer": {"kind": "agent", "name": "REPLACE_ACTUAL_REVIEWER"},
+  "target": {"clause_id": "REPLACE_CLAUSE_ID", "narration": "REPLACE_EXACT_CLAUSE", "start": 0, "end": 1},
+  "method": "rendered_frame_comparison",
+  "observation": "REPLACE_WITH_WHAT_WAS_ACTUALLY_SEEN_IN_THE_RENDER",
+  "action": "REPLACE_WITH_THE_SPECIFIC_CORRECTION",
+  "evidence": [
+    {"role": "render", "path": "videos/REPLACE_BATCH/r01/final.mp4", "sha256": "REPLACE_SHA256"},
+    {"role": "frame", "path": "videos/REPLACE_BATCH/r01/qa/frame.png", "sha256": "REPLACE_SHA256"},
+    {"role": "asset", "path": "videos/REPLACE_BATCH/assets/source.jpg", "sha256": "REPLACE_SHA256"}
+  ]
+}

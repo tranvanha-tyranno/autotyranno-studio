@@ -1,4 +1,11 @@
+> 11/11/2026 — Nhánh explainer mới: ưu tiên `workflows/reference-video/editorial.py` và `lang-kinh.profile.json`, nhiều bố cục trong một video, nhận diện Lăng Kính / Tyranno. Người dùng không muốn micro/waveform cố định xuyên video. Giọng và hiệu ứng ElevenLabs mới, cue sheet và nhạc ducked; đọc workflow nhánh tham chiếu. Mặc định riêng của product review vẫn theo phần bên dưới.
+
 # Quy trình tạo video sản phẩm của Tyranno
+
+## Phạm vi tham chiếu nội dung phân tích — 11/11/2026
+
+Người dùng đã cung cấp 17 video YouTube làm mẫu cho một nhánh nội dung phân tích kinh tế/xã hội. Hồ sơ bằng chứng, transcript và ghi chú phong cách nằm tại `docs/video-references/2026-11-11/STYLE_NOTES.md`; không dùng nhánh này để biến video review sản phẩm thành video kinh tế. Khi người dùng yêu cầu video theo nhóm mẫu, chọn một trong hai đầu vào: `auto_idea` (đề xuất ý tưởng từ các cụm chủ đề sau khi kiểm tra nguồn) hoặc `user_topic` (giữ chủ đề người dùng đưa). Luồng bắt buộc là research có nguồn → luận đề → kịch bản → shotlist → prompt → asset manifest → voice take → dựng → QA. Mỗi claim phải được phân loại là dữ kiện đã kiểm chứng, phát biểu của nguồn, suy luận hoặc chưa chắc chắn.
+**11/11/2026 — sửa sau hai lần người dùng từ chối:** hai renderer `render_one_minute.py` và `render_reference_style.py` chỉ vẽ poster/khối hình rồi lặp ảnh, không được dùng làm video theo mẫu YouTube. Dùng `workflows/reference-video/documentary.py` với asset MP4 chuyển động có nguồn, shotlist và in/out, voice take được đo trước, caption căn word timestamp, waveform từ đúng take. Phân biệt 9 mẫu podcast, 4 bản tin Giao lộ và 4 bình luận tài sản; không ép cả 17 vào một bố cục. Đọc `docs/video-references/2026-11-11/RELEARN_AUDIT.md`, mở media/khung mẫu trước mỗi batch và đối chiếu final thật. Decode thành công chỉ là QA kỹ thuật, không phải duyệt hình hoặc nghe. Giữ trọn câu kết; không cắt cứng audio dài hơn timeline. `reference.mp4` ban đầu chỉ có hình; bản đầy đủ là `reference-av.mp4`.
 
 ## Ưu tiên mới — 29/10/2026: nhân vật nói khớp miệng theo mẫu Viesnap
 

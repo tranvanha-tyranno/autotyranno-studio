@@ -1,0 +1,11 @@
+{
+  "batch": "videos/REPLACE_BATCH",
+  "revision": "r01",
+  "check_id": "full_av_decode",
+  "result": "passed",
+  "observation": "REPLACE_WITH_ACTUAL_MEASURED_RESULT_NOT_AESTHETIC_ACCEPTANCE",
+  "evidence": [
+    {"role": "render", "path": "videos/REPLACE_BATCH/r01/final.mp4", "sha256": "REPLACE_SHA256"},
+    {"role": "report", "path": "videos/REPLACE_BATCH/r01/qa/decode.json", "sha256": "REPLACE_SHA256"}
+  ]
+}

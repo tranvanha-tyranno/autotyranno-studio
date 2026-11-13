@@ -1,0 +1,11 @@
+{
+  "lesson_id": "REPLACE_LESSON_PROPOSAL_EVENT_ID",
+  "batch": "videos/REPLACE_BATCH",
+  "revision": "r02",
+  "change": "REPLACE_THE_CHANGE_ALREADY_MADE_NOT_A_FUTURE_PLAN",
+  "evidence": [
+    {"role": "render", "path": "videos/REPLACE_BATCH/r02/final.mp4", "sha256": "REPLACE_SHA256"},
+    {"role": "asset", "path": "videos/REPLACE_BATCH/r02/assets/corrected.jpg", "sha256": "REPLACE_SHA256"},
+    {"role": "code", "path": "videos/REPLACE_BATCH/r02/source-snapshot/renderer.py", "sha256": "REPLACE_SHA256"}
+  ]
+}

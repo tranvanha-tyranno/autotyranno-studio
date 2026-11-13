@@ -1,0 +1,2680 @@
+{
+  "title": "AI sẽ lấy việc, hay thay đổi từng phần công việc?",
+  "seconds": 300,
+  "fps": 30,
+  "frames": 9000,
+  "naturalVoiceSeconds": 295.81,
+  "tempo": 0.9926510067114094,
+  "lastWordEnd": 297.94962982995844,
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.095399073729759,
+      "text": "Một bản nháp từng mất cả buổi, giờ có"
+    },
+    {
+      "start": 2.1356952097630235,
+      "end": 3.626652242993814,
+      "text": "thể xuất hiện sau một câu lệnh."
+    },
+    {
+      "start": 3.908725195226666,
+      "end": 4.593759507792163,
+      "text": "Rất tiện."
+    },
+    {
+      "start": 4.835536323991751,
+      "end": 5.96382813292316,
+      "text": "Cũng rất đáng lo."
+    },
+    {
+      "start": 6.125012677056219,
+      "end": 8.784557655251682,
+      "text": "Nếu máy đã viết được, trả lời được, phần"
+    },
+    {
+      "start": 8.824853791284946,
+      "end": 10.074034008316149,
+      "text": "nào còn lại cho chúng ta?"
+    },
+    {
+      "start": 10.288610932693283,
+      "end": 12.572394442378554,
+      "text": "Trước khi hỏi AI có lấy mất việc hay"
+    },
+    {
+      "start": 12.612690578411819,
+      "end": 13.94246306750955,
+      "text": "không, hãy nhìn kỹ:"
+    },
+    {
+      "start": 14.12379567965924,
+      "end": 16.440823501571955,
+      "text": "một công việc thực ra gồm những gì?"
+    },
+    {
+      "start": 16.944525201987762,
+      "end": 18.93918393563436,
+      "text": "Hãy tưởng tượng công việc là một bó nhiệm"
+    },
+    {
+      "start": 19.01977620770089,
+      "end": 19.26155302390048,
+      "text": "vụ."
+    },
+    {
+      "start": 19.4630337040668,
+      "end": 20.792806193164534,
+      "text": "Thu thập thông tin."
+    },
+    {
+      "start": 20.926790845475136,
+      "end": 21.759913457962885,
+      "text": "Viết bản đầu."
+    },
+    {
+      "start": 22.041986410195733,
+      "end": 24.741827524424462,
+      "text": "Rồi kiểm tra, trao đổi với khách hàng và"
+    },
+    {
+      "start": 24.79018288766438,
+      "end": 26.192488421621988,
+      "text": "chịu trách nhiệm về kết quả."
+    },
+    {
+      "start": 26.56824989013218,
+      "end": 28.85203339981745,
+      "text": "AI có thể tác động vào vài mắt xích"
+    },
+    {
+      "start": 28.91952942767317,
+      "end": 30.383286569081505,
+      "text": "trước khi thay được cả chuỗi."
+    },
+    {
+      "start": 30.52432304519793,
+      "end": 32.559277914877796,
+      "text": "Làm nhanh một phần chưa có nghĩa là làm"
+    },
+    {
+      "start": 32.60763327811771,
+      "end": 33.445792907609615,
+      "text": "thay được cả nghề."
+    },
+    {
+      "start": 33.821554376119806,
+      "end": 36.105337885805085,
+      "text": "Ví dụ, người làm nội dung có thể nhờ"
+    },
+    {
+      "start": 36.23932253811568,
+      "end": 38.12014468746831,
+      "text": "AI đề xuất tiêu đề và phác thảo kịch"
+    },
+    {
+      "start": 38.20073695953484,
+      "end": 38.80517900003381,
+      "text": "bản."
+    },
+    {
+      "start": 38.865623204083704,
+      "end": 41.10205875392989,
+      "text": "Nhưng ai hiểu sản phẩm thật sự có gì?"
+    },
+    {
+      "start": 41.20985091781887,
+      "end": 43.116865555593115,
+      "text": "Ai phát hiện quảng cáo đang hứa quá mức?"
+    },
+    {
+      "start": 43.27805009972618,
+      "end": 45.21226462932288,
+      "text": "Ai nhận phản hồi khi khách hàng không hài"
+    },
+    {
+      "start": 45.260619992562795,
+      "end": 45.534633717588996,
+      "text": "lòng?"
+    },
+    {
+      "start": 45.67567019370542,
+      "end": 47.06588688685305,
+      "text": "Bản nháp là đầu vào."
+    },
+    {
+      "start": 47.186775294952845,
+      "end": 49.32247050471587,
+      "text": "Kết quả còn nằm ở những quyết định đó."
+    },
+    {
+      "start": 49.745579933065144,
+      "end": 51.49846185051215,
+      "text": "Nghiên cứu năm hai nghìn không trăm hai mươi"
+    },
+    {
+      "start": 51.53875798654541,
+      "end": 53.67445319630844,
+      "text": "lăm của Tổ chức Lao động Quốc tế ước"
+    },
+    {
+      "start": 53.72280855954836,
+      "end": 53.99682228457456,
+      "text": "tính:"
+    },
+    {
+      "start": 54.13080693688516,
+      "end": 56.333998174503904,
+      "text": "cứ bốn người lao động toàn cầu, có một"
+    },
+    {
+      "start": 56.36119806632636,
+      "end": 58.34880497616714,
+      "text": "người làm trong nghề có mức tiếp xúc nào"
+    },
+    {
+      "start": 58.42939724823366,
+      "end": 59.79946587336466,
+      "text": "đó với AI tạo sinh."
+    },
+    {
+      "start": 60.014042797741794,
+      "end": 62.62019539569318,
+      "text": "Từ quan trọng là tiếp xúc, không phải chắc"
+    },
+    {
+      "start": 62.6685507589331,
+      "end": 63.34552584429195,
+      "text": "chắn mất việc."
+    },
+    {
+      "start": 63.79885737466617,
+      "end": 65.6827017342213,
+      "text": "Chỉ số này xem nhiệm vụ có thể chịu"
+    },
+    {
+      "start": 65.72299787025455,
+      "end": 66.56921672695312,
+      "text": "ảnh hưởng đến đâu."
+    },
+    {
+      "start": 66.78379365133026,
+      "end": 68.90639261688247,
+      "text": "Nó không đếm số người đã bị sa thải."
+    },
+    {
+      "start": 69.10787329704878,
+      "end": 71.32416077887834,
+      "text": "Nghiên cứu nhận định biến đổi công việc là"
+    },
+    {
+      "start": 71.3644569149116,
+      "end": 73.66133666880769,
+      "text": "tác động có khả năng xảy ra hơn, vì"
+    },
+    {
+      "start": 73.70163280484094,
+      "end": 75.35377438220479,
+      "text": "nhiều nhiệm vụ vẫn cần con người."
+    },
+    {
+      "start": 75.48272201751124,
+      "end": 77.61035800006762,
+      "text": "Điều đó không bảo đảm mọi vị trí đều"
+    },
+    {
+      "start": 77.6637503803117,
+      "end": 78.13420776850005,
+      "text": "an toàn."
+    },
+    {
+      "start": 78.41628072073291,
+      "end": 80.51167979446267,
+      "text": "Câu trả lời trên màn hình khác với công"
+    },
+    {
+      "start": 80.54391670328927,
+      "end": 81.1564179709949,
+      "text": "việc đời thực."
+    },
+    {
+      "start": 81.35789865116122,
+      "end": 83.57418613299076,
+      "text": "Ở đó có dữ liệu thiếu, yêu cầu đổi"
+    },
+    {
+      "start": 83.62254149623068,
+      "end": 85.91136202292012,
+      "text": "liên tục và những người cần được thuyết phục."
+    },
+    {
+      "start": 86.1531388391197,
+      "end": 88.16794564078293,
+      "text": "Xử lý khách hàng tức giận là ví dụ."
+    },
+    {
+      "start": 88.35633007673844,
+      "end": 90.90808289104493,
+      "text": "Soạn câu trả lời lịch sự là một phần."
+    },
+    {
+      "start": 91.0158750549339,
+      "end": 93.08407423684122,
+      "text": "Hiểu hoàn cảnh và quyết định cách giải quyết"
+    },
+    {
+      "start": 93.204962644941,
+      "end": 94.21236604577263,
+      "text": "lại là phần khác."
+    },
+    {
+      "start": 94.6354754741219,
+      "end": 96.10628443933606,
+      "text": "Còn bài toán kinh tế:"
+    },
+    {
+      "start": 96.16269902978263,
+      "end": 98.08079510496603,
+      "text": "tổng thời gian và chi phí có thực sự"
+    },
+    {
+      "start": 98.12915046820595,
+      "end": 98.40316419323216,
+      "text": "giảm?"
+    },
+    {
+      "start": 98.56434873736521,
+      "end": 101.38507825969373,
+      "text": "Nếu viết nhanh nhưng sửa sai lâu hơn, lợi"
+    },
+    {
+      "start": 101.42537439572699,
+      "end": 102.43277779655861,
+      "text": "ích có thể biến mất."
+    },
+    {
+      "start": 102.57381427267502,
+      "end": 104.931138230621,
+      "text": "Nếu dữ liệu không được phép đưa ra ngoài,"
+    },
+    {
+      "start": 104.9633751394476,
+      "end": 105.81765322335283,
+      "text": "cách dùng phải đổi."
+    },
+    {
+      "start": 106.05943003955242,
+      "end": 108.55779047361483,
+      "text": "Doanh nghiệp cần một quy trình chạy được và"
+    },
+    {
+      "start": 108.6111828538589,
+      "end": 109.82006693485684,
+      "text": "có người chịu trách nhiệm."
+    },
+    {
+      "start": 110.10717690409385,
+      "end": 112.18444271660863,
+      "text": "Diễn đàn Kinh tế Thế giới dự báo đến"
+    },
+    {
+      "start": 112.2247388526419,
+      "end": 114.2798417903384,
+      "text": "năm hai nghìn không trăm ba mươi, thay đổi"
+    },
+    {
+      "start": 114.33323417058247,
+      "end": 116.17376018390182,
+      "text": "cơ cấu có thể tạo ra một trăm bảy"
+    },
+    {
+      "start": 116.23420438795172,
+      "end": 118.55123220986445,
+      "text": "mươi triệu việc làm, và làm dịch chuyển chín"
+    },
+    {
+      "start": 118.63182448193098,
+      "end": 119.76011629086237,
+      "text": "mươi hai triệu việc làm."
+    },
+    {
+      "start": 119.92130083499545,
+      "end": 122.33906899699132,
+      "text": "Đây là kỳ vọng của nhà tuyển dụng, không"
+    },
+    {
+      "start": 122.38742436023124,
+      "end": 124.67624488692067,
+      "text": "phải kết quả đã xảy ra, và không chỉ"
+    },
+    {
+      "start": 124.7568371589872,
+      "end": 125.40157533551942,
+      "text": "do AI."
+    },
+    {
+      "start": 125.60305601568575,
+      "end": 128.383489401981,
+      "text": "Các xu hướng còn gồm kinh tế, dân số"
+    },
+    {
+      "start": 128.49128156587,
+      "end": 129.5117812109124,
+      "text": "và chuyển đổi xanh."
+    },
+    {
+      "start": 129.79385416314526,
+      "end": 132.17132618910787,
+      "text": "Kể cả tổng việc làm tăng, người mất một"
+    },
+    {
+      "start": 132.22471856935195,
+      "end": 134.26672526283764,
+      "text": "vị trí không tự động bước sang việc mới."
+    },
+    {
+      "start": 134.48130218721477,
+      "end": 137.24863932929924,
+      "text": "Khác kỹ năng, khác địa điểm, khác thời điểm:"
+    },
+    {
+      "start": 137.46321625367636,
+      "end": 139.18285385889592,
+      "text": "đó là khoảng cách phải vượt qua."
+    },
+    {
+      "start": 139.34403840302897,
+      "end": 141.52002974882527,
+      "text": "Tin tốt toàn cầu vẫn có thể đi cùng"
+    },
+    {
+      "start": 141.56032588485854,
+      "end": 142.4065447415571,
+      "text": "khó khăn cá nhân."
+    },
+    {
+      "start": 142.8598762719313,
+      "end": 144.5825360873534,
+      "text": "Vậy lợi thế con người nằm ở đâu?"
+    },
+    {
+      "start": 144.76386869950306,
+      "end": 147.64504242588148,
+      "text": "Một hướng đáng thử là đặt yêu cầu rõ,"
+    },
+    {
+      "start": 147.67727933470812,
+      "end": 149.9016260437443,
+      "text": "biết thế nào là kết quả tốt và kiểm"
+    },
+    {
+      "start": 149.9620702477942,
+      "end": 151.02991785267568,
+      "text": "tra được kết quả ấy."
+    },
+    {
+      "start": 151.1911023968088,
+      "end": 153.77005510293768,
+      "text": "Khi bản nháp dễ tạo, nhận ra bản nháp"
+    },
+    {
+      "start": 153.85064737500423,
+      "end": 155.7042696325344,
+      "text": "sai ở đâu có thể quan trọng hơn."
+    },
+    {
+      "start": 156.02663872080052,
+      "end": 158.36381461072986,
+      "text": "Nhanh chỉ có ý nghĩa khi vẫn đúng mục"
+    },
+    {
+      "start": 158.41216997396978,
+      "end": 158.686183698996,
+      "text": "tiêu."
+    },
+    {
+      "start": 158.955160407018,
+      "end": 161.34572867719143,
+      "text": "Giả sử AI tóm tắt bảng doanh thu rất"
+    },
+    {
+      "start": 161.3991210574355,
+      "end": 163.84408911125382,
+      "text": "trôi chảy, nhưng nhầm doanh thu với lợi nhuận."
+    },
+    {
+      "start": 163.98512558737028,
+      "end": 166.66481863358237,
+      "text": "Nếu thấy hay rồi gửi đi, tốc độ giúp"
+    },
+    {
+      "start": 166.70511476961562,
+      "end": 167.95429498664683,
+      "text": "một lỗi đi xa hơn."
+    },
+    {
+      "start": 168.09533146276328,
+      "end": 170.69443223690882,
+      "text": "Hãy đối chiếu số với bảng gốc, xem định"
+    },
+    {
+      "start": 170.73472837294207,
+      "end": 172.14509313410636,
+      "text": "nghĩa từng cột và hỏi:"
+    },
+    {
+      "start": 172.2458334741895,
+      "end": 174.15989993576957,
+      "text": "kết luận có thật sự được dữ liệu hỗ"
+    },
+    {
+      "start": 174.22034413981947,
+      "end": 174.72404584023528,
+      "text": "trợ không?"
+    },
+    {
+      "start": 175.09980730874548,
+      "end": 176.57766809776547,
+      "text": "Thử chia việc thành ba nhóm."
+    },
+    {
+      "start": 176.73885264189852,
+      "end": 177.54477536256383,
+      "text": "Nhóm đầu:"
+    },
+    {
+      "start": 177.74625604273012,
+      "end": 180.28491261282582,
+      "text": "lặp lại, dễ mô tả và kiểm tra."
+    },
+    {
+      "start": 180.49948953720295,
+      "end": 181.41320442175723,
+      "text": "Nhóm hai:"
+    },
+    {
+      "start": 181.6549812379568,
+      "end": 184.11304553598592,
+      "text": "AI hỗ trợ nhưng bạn phải duyệt."
+    },
+    {
+      "start": 184.23393394408572,
+      "end": 184.87867212061798,
+      "text": "Nhóm ba:"
+    },
+    {
+      "start": 184.99956052871775,
+      "end": 187.61880937087997,
+      "text": "cần quan hệ, phán đoán hoặc trách nhiệm trực"
+    },
+    {
+      "start": 187.68328318853318,
+      "end": 187.94218586254692,
+      "text": "tiếp."
+    },
+    {
+      "start": 188.1426591393124,
+      "end": 190.68131570940807,
+      "text": "Đây là cách tự rà soát, không phải xếp"
+    },
+    {
+      "start": 190.7135526182347,
+      "end": 191.24546161387377,
+      "text": "hạng nghề."
+    },
+    {
+      "start": 191.3582907947669,
+      "end": 193.50204523173662,
+      "text": "Điều cần thấy là nhiệm vụ nào thay đổi"
+    },
+    {
+      "start": 193.55543761198066,
+      "end": 193.9050065920692,
+      "text": "trước."
+    },
+    {
+      "start": 194.28076806057945,
+      "end": 195.91981339373245,
+      "text": "Chọn một việc nhỏ ở nhóm đầu."
+    },
+    {
+      "start": 196.0809979378655,
+      "end": 198.90172746019405,
+      "text": "Chẳng hạn, nháp email thường gặp bằng thông tin"
+    },
+    {
+      "start": 198.9420235962273,
+      "end": 199.3852810925932,
+      "text": "giả định."
+    },
+    {
+      "start": 199.51926574490383,
+      "end": 202.3671951590548,
+      "text": "Viết rõ mục tiêu, người đọc và điều không"
+    },
+    {
+      "start": 202.3994320678814,
+      "end": 203.01193333558706,
+      "text": "được tự bịa."
+    },
+    {
+      "start": 203.1731178797201,
+      "end": 205.34910922551637,
+      "text": "Giữ bản làm cách cũ để so sánh."
+    },
+    {
+      "start": 205.63118217774925,
+      "end": 207.60569284337922,
+      "text": "Đừng bắt đầu với dữ liệu nhạy cảm."
+    },
+    {
+      "start": 207.7467293194956,
+      "end": 209.7816841891755,
+      "text": "Hãy chọn nơi sai sót có thể được phát"
+    },
+    {
+      "start": 209.83003955241543,
+      "end": 210.6681991819073,
+      "text": "hiện và sửa."
+    },
+    {
+      "start": 211.0983604340624,
+      "end": 213.32774416010275,
+      "text": "Đo cả thời gian ra lệnh, chờ kết quả,"
+    },
+    {
+      "start": 213.4687806362192,
+      "end": 214.7784050573003,
+      "text": "đọc lại và sửa."
+    },
+    {
+      "start": 214.97988573746662,
+      "end": 216.55143504276396,
+      "text": "Ghi những lỗi khó nhận ra."
+    },
+    {
+      "start": 216.75291572293025,
+      "end": 219.04979547682635,
+      "text": "Nếu tiết kiệm thời gian mà chất lượng đạt"
+    },
+    {
+      "start": 219.0900916128596,
+      "end": 221.18549068658936,
+      "text": "yêu cầu, đó là bước có ích."
+    },
+    {
+      "start": 221.27615699266423,
+      "end": 223.8853318008181,
+      "text": "Nếu chưa, sửa cách giao việc hoặc đổi nhiệm"
+    },
+    {
+      "start": 223.93872418106218,
+      "end": 224.12710861701768,
+      "text": "vụ."
+    },
+    {
+      "start": 224.30844122916739,
+      "end": 226.9478381393462,
+      "text": "Một quy trình nhỏ lặp lại đáng tin cậy"
+    },
+    {
+      "start": 227.0082823433961,
+      "end": 228.64027585274331,
+      "text": "hơn một màn trình diễn ấn tượng."
+    },
+    {
+      "start": 229.14397755315915,
+      "end": 231.46100537507184,
+      "text": "Bạn không nhất thiết phải thành kỹ sư AI."
+    },
+    {
+      "start": 231.60204185118826,
+      "end": 233.8787735370677,
+      "text": "Báo cáo của Diễn đàn Kinh tế Thế giới"
+    },
+    {
+      "start": 233.97951387715088,
+      "end": 236.2965416990636,
+      "text": "coi trọng tư duy phân tích, kỹ năng công"
+    },
+    {
+      "start": 236.34489706230352,
+      "end": 238.23075622866028,
+      "text": "nghệ và khả năng học hỏi."
+    },
+    {
+      "start": 238.39194077279333,
+      "end": 240.08437848619045,
+      "text": "Mỗi người cần chuẩn bị khác nhau."
+    },
+    {
+      "start": 240.17806700246783,
+      "end": 243.1468848247186,
+      "text": "Nhưng hiểu nghề, biết kiểm tra và diễn đạt"
+    },
+    {
+      "start": 243.20027720496267,
+      "end": 245.24228389844833,
+      "text": "rõ vấn đề là ba năng lực có thể"
+    },
+    {
+      "start": 245.2956762786924,
+      "end": 246.16909502721344,
+      "text": "rèn ngay hôm nay."
+    },
+    {
+      "start": 246.37057570737974,
+      "end": 248.9495284135087,
+      "text": "Thay vì chỉ sưu tầm câu lệnh hay, hãy"
+    },
+    {
+      "start": 248.98982454954194,
+      "end": 250.9643352151719,
+      "text": "giữ trước và sau của một nhiệm vụ:"
+    },
+    {
+      "start": 251.0852236232717,
+      "end": 254.18802609783307,
+      "text": "yêu cầu, bản nháp của máy, phần bạn sửa"
+    },
+    {
+      "start": 254.3764105337886,
+      "end": 256.1222406274298,
+      "text": "và kết quả đã kiểm tra."
+    },
+    {
+      "start": 256.31062506338526,
+      "end": 258.3788242452926,
+      "text": "Hồ sơ ấy cho thấy đóng góp thật của"
+    },
+    {
+      "start": 258.41912038132585,
+      "end": 260.3936310469558,
+      "text": "bạn, cũng như chỗ cần tiến bộ."
+    },
+    {
+      "start": 260.6354078631554,
+      "end": 263.1337682972178,
+      "text": "Mục tiêu là biết khi nào dùng thì có"
+    },
+    {
+      "start": 263.1942125012677,
+      "end": 263.4158412494507,
+      "text": "ích."
+    },
+    {
+      "start": 263.617321929617,
+      "end": 265.79331327541325,
+      "text": "Chuyển đổi không thể chỉ đặt lên vai người"
+    },
+    {
+      "start": 265.83360941144656,
+      "end": 266.27686690781246,
+      "text": "lao động."
+    },
+    {
+      "start": 266.41085156012304,
+      "end": 269.25878097427403,
+      "text": "Tổ chức cần hướng dẫn, thời gian đào tạo,"
+    },
+    {
+      "start": 269.29101788310066,
+      "end": 271.5959568642034,
+      "text": "tiêu chuẩn chất lượng và người xử lý khi"
+    },
+    {
+      "start": 271.6493492444475,
+      "end": 272.40187958486865,
+      "text": "hệ thống sai."
+    },
+    {
+      "start": 272.54291606098514,
+      "end": 274.98083229099757,
+      "text": "Chỉ yêu cầu làm nhiều hơn mà không cho"
+    },
+    {
+      "start": 275.0614245630642,
+      "end": 277.2374159088604,
+      "text": "học và kiểm tra có thể tạo thêm áp"
+    },
+    {
+      "start": 277.2777120448937,
+      "end": 277.47919272506,
+      "text": "lực."
+    },
+    {
+      "start": 277.7612656772929,
+      "end": 279.89696088705585,
+      "text": "Đổi công cụ cũng cần đổi cách tổ chức"
+    },
+    {
+      "start": 279.9291977958825,
+      "end": 280.62229133565467,
+      "text": "công việc ấy."
+    },
+    {
+      "start": 280.94466042392077,
+      "end": 283.60420540211624,
+      "text": "AI sẽ lấy việc hay thay đổi công việc?"
+    },
+    {
+      "start": 283.65759778236026,
+      "end": 285.1364659747811,
+      "text": "Không có một câu trả lời chung."
+    },
+    {
+      "start": 285.2563469794801,
+      "end": 287.63381900544266,
+      "text": "Hãy nhìn từng nhiệm vụ và từng quyết định."
+    },
+    {
+      "start": 287.79500354957577,
+      "end": 290.21277171157163,
+      "text": "Bạn không cần thắng máy ở mọi thao tác."
+    },
+    {
+      "start": 290.2933639836382,
+      "end": 292.6305398735675,
+      "text": "Hãy tìm phần mà sự hiểu biết và trách"
+    },
+    {
+      "start": 292.67083600960075,
+      "end": 294.80653121936376,
+      "text": "nhiệm của bạn làm kết quả tốt hơn."
+    },
+    {
+      "start": 294.871005037017,
+      "end": 297.14370710929313,
+      "text": "Ngày mai, bạn sẽ bắt đầu kiểm tra lại"
+    },
+    {
+      "start": 297.1840032453264,
+      "end": 297.94962982995844,
+      "text": "nhiệm vụ nào?"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "hook",
+      "label": "CÂU HỎI CỦA THỜI ĐẠI AI",
+      "kind": "chip",
+      "theme": "dark",
+      "text": "Một bản nháp từng mất cả buổi, giờ có thể xuất hiện sau một câu lệnh. Rất tiện. Cũng rất đáng lo. Nếu máy đã viết được, trả lời được, phần nào còn lại cho chúng ta? Trước khi hỏi AI có lấy mất việc hay không, hãy nhìn kỹ: một công việc thực ra gồm những gì?",
+      "beats": [
+        {
+          "phrase": "Một bản nháp",
+          "title": "MỘT CÂU LỆNH.",
+          "sub": "MỘT BẢN NHÁP.",
+          "at": 0
+        },
+        {
+          "phrase": "phần nào còn lại",
+          "title": "PHẦN NÀO CÒN LẠI?",
+          "sub": "CHO CON NGƯỜI",
+          "at": 258
+        },
+        {
+          "phrase": "một công việc thực ra",
+          "title": "CÔNG VIỆC",
+          "sub": "ĐƯỢC GHÉP TỪ NHỮNG GÌ?",
+          "at": 424
+        }
+      ],
+      "start": 0,
+      "end": 508,
+      "shots": [
+        {
+          "asset": "v-typing",
+          "type": "video",
+          "file": "typing.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Writing starts with an actual keyboard",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 117
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 117,
+          "phrase": "Rất tiện",
+          "purpose": "Draft/notes as tangible work",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 145
+        },
+        {
+          "asset": "paperwork",
+          "type": "photo",
+          "file": "paperwork.jpg",
+          "start": 145,
+          "phrase": "Cũng rất đáng lo",
+          "purpose": "Existing staged workload photo, illustrative",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 258
+        },
+        {
+          "asset": "v-worker",
+          "type": "video",
+          "file": "worker.mp4",
+          "start": 258,
+          "phrase": "phần nào còn lại",
+          "purpose": "A person at work instead of abstract AI chip",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 424
+        },
+        {
+          "asset": "team-decision",
+          "type": "photo",
+          "file": "team-decision.jpg",
+          "start": 424,
+          "phrase": "một công việc thực ra",
+          "purpose": "Work involves decisions and people",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 508
+        }
+      ]
+    },
+    {
+      "id": "bundle",
+      "label": "01 / TÁCH NHỎ CÔNG VIỆC",
+      "kind": "tasks",
+      "theme": "cream",
+      "text": "Hãy tưởng tượng công việc là một bó nhiệm vụ. Thu thập thông tin. Viết bản đầu. Rồi kiểm tra, trao đổi với khách hàng và chịu trách nhiệm về kết quả. AI có thể tác động vào vài mắt xích trước khi thay được cả chuỗi. Làm nhanh một phần chưa có nghĩa là làm thay được cả nghề.",
+      "beats": [
+        {
+          "phrase": "một bó nhiệm vụ",
+          "title": "MỘT NGHỀ.",
+          "sub": "NHIỀU NHIỆM VỤ.",
+          "at": 44
+        },
+        {
+          "phrase": "kiểm tra, trao đổi",
+          "title": "KIỂM TRA. TRAO ĐỔI.",
+          "sub": "CHỊU TRÁCH NHIỆM.",
+          "at": 166
+        },
+        {
+          "phrase": "làm nhanh một phần",
+          "title": "MỘT PHẦN",
+          "sub": "CHƯA PHẢI CẢ NGHỀ",
+          "at": 408
+        }
+      ],
+      "start": 508,
+      "end": 1015,
+      "shots": [
+        {
+          "asset": "sticky-board",
+          "type": "photo",
+          "file": "sticky-board.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Task board makes the bundle of tasks concrete",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 76
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 76,
+          "phrase": "Thu thập thông tin",
+          "purpose": "Collecting information and writing notes",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 153
+        },
+        {
+          "asset": "review-docs",
+          "type": "photo",
+          "file": "review-docs.jpg",
+          "start": 153,
+          "phrase": "Rồi kiểm tra",
+          "purpose": "Physical document checking",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.7421150278293135,
+          "end": 186
+        },
+        {
+          "asset": "client-meeting",
+          "type": "photo",
+          "file": "client-meeting.jpg",
+          "start": 186,
+          "phrase": "trao đổi với khách hàng",
+          "purpose": "Person-to-person client conversation",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 340
+        },
+        {
+          "asset": "board-team",
+          "type": "photo",
+          "file": "board-team.jpg",
+          "start": 340,
+          "phrase": "vài mắt xích",
+          "purpose": "People and real task board",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 507
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "label": "MỘT VÍ DỤ GIẢ ĐỊNH",
+      "kind": "documents",
+      "theme": "dark",
+      "text": "Ví dụ, người làm nội dung có thể nhờ AI đề xuất tiêu đề và phác thảo kịch bản. Nhưng ai hiểu sản phẩm thật sự có gì? Ai phát hiện quảng cáo đang hứa quá mức? Ai nhận phản hồi khi khách hàng không hài lòng? Bản nháp là đầu vào. Kết quả còn nằm ở những quyết định đó.",
+      "beats": [
+        {
+          "phrase": "đề xuất tiêu đề",
+          "title": "TIÊU ĐỀ. KỊCH BẢN.",
+          "sub": "AI HỖ TRỢ BẢN ĐẦU",
+          "at": 82
+        },
+        {
+          "phrase": "hứa quá mức",
+          "title": "LỜI HỨA ĐÚNG?",
+          "sub": "CẦN NGƯỜI KIỂM TRA",
+          "at": 261
+        },
+        {
+          "phrase": "Bản nháp là đầu vào",
+          "title": "BẢN NHÁP ≠ KẾT QUẢ",
+          "sub": "VÍ DỤ MINH HỌA",
+          "at": 355
+        }
+      ],
+      "start": 1015,
+      "end": 1492,
+      "shots": [
+        {
+          "asset": "v-typing",
+          "type": "video",
+          "file": "typing.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Real typing for content draft",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 82
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 82,
+          "phrase": "đề xuất tiêu đề",
+          "purpose": "Notebook and writing draft",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 174
+        },
+        {
+          "asset": "team-charts",
+          "type": "photo",
+          "file": "team-charts.jpg",
+          "start": 174,
+          "phrase": "sản phẩm thật sự",
+          "purpose": "Team examining actual materials",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 261
+        },
+        {
+          "asset": "close-review",
+          "type": "photo",
+          "file": "close-review.jpg",
+          "start": 261,
+          "phrase": "hứa quá mức",
+          "purpose": "Checking the claims on paper, illustrative",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 283
+        },
+        {
+          "asset": "support-agent",
+          "type": "photo",
+          "file": "support-agent.jpg",
+          "start": 283,
+          "phrase": "Ai nhận phản hồi",
+          "purpose": "Headset worker for customer feedback",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 477
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "label": "ILO / NGHIÊN CỨU NĂM 2025",
+      "kind": "people",
+      "theme": "dark",
+      "source": "ILO Working Paper 140 · 20.05.2025",
+      "text": "Nghiên cứu năm hai nghìn không trăm hai mươi lăm của Tổ chức Lao động Quốc tế ước tính: cứ bốn người lao động toàn cầu, có một người làm trong nghề có mức tiếp xúc nào đó với AI tạo sinh. Từ quan trọng là tiếp xúc, không phải chắc chắn mất việc.",
+      "beats": [
+        {
+          "phrase": "cứ bốn người lao động",
+          "title": "1 / 4",
+          "sub": "LAO ĐỘNG TOÀN CẦU",
+          "at": 132
+        },
+        {
+          "phrase": "mức tiếp xúc",
+          "title": "CÓ MỨC TIẾP XÚC",
+          "sub": "VỚI AI TẠO SINH",
+          "at": 238
+        },
+        {
+          "phrase": "không phải chắc chắn",
+          "title": "TIẾP XÚC ≠ MẤT VIỆC",
+          "sub": "ƯỚC TÍNH NGHIÊN CỨU 2025",
+          "at": 362
+        }
+      ],
+      "start": 1492,
+      "end": 1914,
+      "shots": [
+        {
+          "asset": "v-office",
+          "type": "video",
+          "file": "office.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "A workplace establishes the workforce context",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 132
+        },
+        {
+          "asset": "support-team",
+          "type": "photo",
+          "file": "support-team.jpg",
+          "start": 132,
+          "phrase": "cứ bốn người lao động",
+          "purpose": "Four actual workers for one-in-four exposure graphic",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.1401425178147269,
+          "end": 308
+        },
+        {
+          "asset": "colleagues",
+          "type": "photo",
+          "file": "colleagues.jpg",
+          "start": 308,
+          "phrase": "Từ quan trọng",
+          "purpose": "People still working together, no fake layoffs",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5028177833437695,
+          "end": 422
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "label": "ĐỌC ĐÚNG Ý NGHĨA CON SỐ",
+      "kind": "gate",
+      "theme": "cream",
+      "text": "Chỉ số này xem nhiệm vụ có thể chịu ảnh hưởng đến đâu. Nó không đếm số người đã bị sa thải. Nghiên cứu nhận định biến đổi công việc là tác động có khả năng xảy ra hơn, vì nhiều nhiệm vụ vẫn cần con người. Điều đó không bảo đảm mọi vị trí đều an toàn.",
+      "beats": [
+        {
+          "phrase": "không đếm số người",
+          "title": "ĐO KHẢ NĂNG TÁC ĐỘNG",
+          "sub": "KHÔNG ĐẾM NGƯỜI BỊ SA THẢI",
+          "at": 103
+        },
+        {
+          "phrase": "biến đổi công việc",
+          "title": "CÔNG VIỆC BIẾN ĐỔI",
+          "sub": "NHIỀU NHIỆM VỤ VẪN CẦN NGƯỜI",
+          "at": 191
+        },
+        {
+          "phrase": "không bảo đảm",
+          "title": "KHÔNG CÓ BẢO ĐẢM",
+          "sub": "CHO MỌI VỊ TRÍ",
+          "at": 374
+        }
+      ],
+      "start": 1914,
+      "end": 2352,
+      "shots": [
+        {
+          "asset": "review-docs",
+          "type": "photo",
+          "file": "review-docs.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Research needs careful reading",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.7421150278293135,
+          "end": 103
+        },
+        {
+          "asset": "folders",
+          "type": "photo",
+          "file": "folders.jpg",
+          "start": 103,
+          "phrase": "không đếm số người",
+          "purpose": "Documents, not identifiable layoffs",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.499063085571518,
+          "end": 191
+        },
+        {
+          "asset": "discussion",
+          "type": "photo",
+          "file": "discussion.jpg",
+          "start": 191,
+          "phrase": "biến đổi công việc",
+          "purpose": "People adapting a work discussion",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 391
+        },
+        {
+          "asset": "review-team",
+          "type": "photo",
+          "file": "review-team-detail.jpg",
+          "start": 391,
+          "phrase": "mọi vị trí",
+          "purpose": "Two people checking their work",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.0666666666666667,
+          "end": 438
+        }
+      ]
+    },
+    {
+      "id": "physical",
+      "label": "KHẢ NĂNG CỦA MÁY / THỰC TẾ CÔNG VIỆC",
+      "kind": "network",
+      "theme": "dark",
+      "text": "Câu trả lời trên màn hình khác với công việc đời thực. Ở đó có dữ liệu thiếu, yêu cầu đổi liên tục và những người cần được thuyết phục. Xử lý khách hàng tức giận là ví dụ. Soạn câu trả lời lịch sự là một phần. Hiểu hoàn cảnh và quyết định cách giải quyết lại là phần khác.",
+      "beats": [
+        {
+          "phrase": "trên màn hình",
+          "title": "TRÊN MÀN HÌNH",
+          "sub": "CHỈ LÀ MỘT PHẦN",
+          "at": 23
+        },
+        {
+          "phrase": "dữ liệu thiếu",
+          "title": "THIẾU DỮ LIỆU.",
+          "sub": "YÊU CẦU THAY ĐỔI.",
+          "at": 109
+        },
+        {
+          "phrase": "quyết định cách giải quyết",
+          "title": "HIỂU HOÀN CẢNH",
+          "sub": "QUYẾT ĐỊNH CÁCH GIẢI QUYẾT",
+          "at": 410
+        }
+      ],
+      "start": 2352,
+      "end": 2839,
+      "shots": [
+        {
+          "asset": "v-worker",
+          "type": "video",
+          "file": "worker.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Actual laptop work",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 109
+        },
+        {
+          "asset": "close-review",
+          "type": "photo",
+          "file": "close-review.jpg",
+          "start": 109,
+          "phrase": "dữ liệu thiếu",
+          "purpose": "Incomplete context illustrated by people checking documents",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 248
+        },
+        {
+          "asset": "support-agent",
+          "type": "photo",
+          "file": "support-agent.jpg",
+          "start": 248,
+          "phrase": "khách hàng tức giận",
+          "purpose": "Service worker shown neutrally; no claim about the model person",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 316
+        },
+        {
+          "asset": "headset",
+          "type": "photo",
+          "file": "headset.jpg",
+          "start": 316,
+          "phrase": "câu trả lời lịch sự",
+          "purpose": "Specific tool used to communicate",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 378
+        },
+        {
+          "asset": "client-meeting",
+          "type": "photo",
+          "file": "client-meeting.jpg",
+          "start": 378,
+          "phrase": "Hiểu hoàn cảnh",
+          "purpose": "Face-to-face listening and judgment",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 487
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "label": "KHẢ NĂNG KỸ THUẬT CHƯA ĐỦ",
+      "kind": "clock",
+      "theme": "cream",
+      "text": "Còn bài toán kinh tế: tổng thời gian và chi phí có thực sự giảm? Nếu viết nhanh nhưng sửa sai lâu hơn, lợi ích có thể biến mất. Nếu dữ liệu không được phép đưa ra ngoài, cách dùng phải đổi. Doanh nghiệp cần một quy trình chạy được và có người chịu trách nhiệm.",
+      "beats": [
+        {
+          "phrase": "tổng thời gian",
+          "title": "TÍNH TỔNG THỜI GIAN",
+          "sub": "KHÔNG CHỈ THỜI GIAN GÕ",
+          "at": 46
+        },
+        {
+          "phrase": "sửa sai lâu hơn",
+          "title": "NHANH HƠN?",
+          "sub": "HAY SỬA LÂU HƠN?",
+          "at": 158
+        },
+        {
+          "phrase": "một quy trình chạy được",
+          "title": "MỘT QUY TRÌNH",
+          "sub": "CÓ NGƯỜI CHỊU TRÁCH NHIỆM",
+          "at": 374
+        }
+      ],
+      "start": 2839,
+      "end": 3303,
+      "shots": [
+        {
+          "asset": "calculator",
+          "type": "photo",
+          "file": "calculator.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Real calculation for cost/time",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 133
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 133,
+          "phrase": "viết nhanh",
+          "purpose": "Writing a first version",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 158
+        },
+        {
+          "asset": "review-docs",
+          "type": "photo",
+          "file": "review-docs.jpg",
+          "start": 158,
+          "phrase": "sửa sai lâu hơn",
+          "purpose": "Checking takes time",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.7421150278293135,
+          "end": 253
+        },
+        {
+          "asset": "folders",
+          "type": "photo",
+          "file": "folders.jpg",
+          "start": 253,
+          "phrase": "dữ liệu không được phép",
+          "purpose": "Documents and data handling",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.499063085571518,
+          "end": 380
+        },
+        {
+          "asset": "team-decision",
+          "type": "photo",
+          "file": "team-decision.jpg",
+          "start": 380,
+          "phrase": "quy trình chạy được",
+          "purpose": "Coordinating a real work process",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "forecast",
+      "label": "WEF / DỰ BÁO ĐẾN NĂM 2030",
+      "kind": "bars",
+      "theme": "dark",
+      "source": "Future of Jobs Report 2025 · dự báo nhiều xu hướng",
+      "text": "Diễn đàn Kinh tế Thế giới dự báo đến năm hai nghìn không trăm ba mươi, thay đổi cơ cấu có thể tạo ra một trăm bảy mươi triệu việc làm, và làm dịch chuyển chín mươi hai triệu việc làm. Đây là kỳ vọng của nhà tuyển dụng, không phải kết quả đã xảy ra, và không chỉ do AI.",
+      "beats": [
+        {
+          "phrase": "một trăm bảy mươi",
+          "title": "170 TRIỆU",
+          "sub": "VIỆC LÀM CÓ THỂ ĐƯỢC TẠO RA",
+          "at": 163
+        },
+        {
+          "phrase": "chín mươi hai triệu",
+          "title": "92 TRIỆU",
+          "sub": "VIỆC LÀM CÓ THỂ BỊ DỊCH CHUYỂN",
+          "at": 248
+        },
+        {
+          "phrase": "không chỉ do AI",
+          "title": "KHÔNG CHỈ DO AI",
+          "sub": "DỰ BÁO ĐẾN 2030 / KHÔNG PHẢI KẾT QUẢ",
+          "at": 424
+        }
+      ],
+      "start": 3303,
+      "end": 3768,
+      "shots": [
+        {
+          "asset": "v-office",
+          "type": "video",
+          "file": "office.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Employment context",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 163
+        },
+        {
+          "asset": "g-forecast",
+          "type": "graphic",
+          "file": "",
+          "start": 163,
+          "phrase": "một trăm bảy mươi",
+          "purpose": "Only this short measured chart uses 3D",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 295
+        },
+        {
+          "asset": "interview",
+          "type": "photo",
+          "file": "interview.jpg",
+          "start": 295,
+          "phrase": "Đây là kỳ vọng",
+          "purpose": "Recruiter expectations, not already observed jobs",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 465
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "label": "TỔNG THỂ TĂNG / TỪNG NGƯỜI VẪN KHÓ",
+      "kind": "bridge",
+      "theme": "dark",
+      "text": "Các xu hướng còn gồm kinh tế, dân số và chuyển đổi xanh. Kể cả tổng việc làm tăng, người mất một vị trí không tự động bước sang việc mới. Khác kỹ năng, khác địa điểm, khác thời điểm: đó là khoảng cách phải vượt qua. Tin tốt toàn cầu vẫn có thể đi cùng khó khăn cá nhân.",
+      "beats": [
+        {
+          "phrase": "kinh tế, dân số",
+          "title": "KINH TẾ. DÂN SỐ.",
+          "sub": "CHUYỂN ĐỔI XANH.",
+          "at": 41
+        },
+        {
+          "phrase": "không tự động bước sang",
+          "title": "VIỆC MỚI",
+          "sub": "KHÔNG TỰ ĐỘNG ĐẾN VỚI MỌI NGƯỜI",
+          "at": 213
+        },
+        {
+          "phrase": "Khác kỹ năng",
+          "title": "KỸ NĂNG. ĐỊA ĐIỂM.",
+          "sub": "THỜI ĐIỂM.",
+          "at": 266
+        }
+      ],
+      "start": 3768,
+      "end": 4286,
+      "shots": [
+        {
+          "asset": "team-charts",
+          "type": "photo",
+          "file": "team-charts.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Multiple structural changes",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 94
+        },
+        {
+          "asset": "solar",
+          "type": "photo",
+          "file": "solar.jpg",
+          "start": 94,
+          "phrase": "chuyển đổi xanh",
+          "purpose": "Solar engineer specifically matches green transition",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.499063085571518,
+          "end": 181
+        },
+        {
+          "asset": "resume",
+          "type": "photo",
+          "file": "resume.jpg",
+          "start": 181,
+          "phrase": "người mất một vị trí",
+          "purpose": "Resume: search for another role; not a claim the pictured person was fired",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6679654884497634,
+          "end": 266
+        },
+        {
+          "asset": "candidate",
+          "type": "photo",
+          "file": "candidate.jpg",
+          "start": 266,
+          "phrase": "Khác kỹ năng",
+          "purpose": "Interview illustrates a transition barrier",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 479
+        },
+        {
+          "asset": "home-learning",
+          "type": "photo",
+          "file": "home-learning.jpg",
+          "start": 479,
+          "phrase": "khó khăn cá nhân",
+          "purpose": "Learning and preparing as an individual",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 518
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "label": "02 / GIÁ TRỊ CỦA NGƯỜI KIỂM TRA",
+      "kind": "gate",
+      "theme": "cream",
+      "text": "Vậy lợi thế con người nằm ở đâu? Một hướng đáng thử là đặt yêu cầu rõ, biết thế nào là kết quả tốt và kiểm tra được kết quả ấy. Khi bản nháp dễ tạo, nhận ra bản nháp sai ở đâu có thể quan trọng hơn. Nhanh chỉ có ý nghĩa khi vẫn đúng mục tiêu.",
+      "beats": [
+        {
+          "phrase": "đặt yêu cầu rõ",
+          "title": "YÊU CẦU RÕ",
+          "sub": "BIẾT THẾ NÀO LÀ TỐT",
+          "at": 106
+        },
+        {
+          "phrase": "bản nháp sai ở đâu",
+          "title": "NHẬN RA SAI Ở ĐÂU",
+          "sub": "KHẢ NĂNG KIỂM TRA",
+          "at": 317
+        },
+        {
+          "phrase": "đúng mục tiêu",
+          "title": "NHANH + ĐÚNG",
+          "sub": "ĐÚNG MỤC TIÊU MỚI CÓ GIÁ TRỊ",
+          "at": 454
+        }
+      ],
+      "start": 4286,
+      "end": 4769,
+      "shots": [
+        {
+          "asset": "v-reviewer",
+          "type": "video",
+          "file": "reviewer.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Human looking closely at a screen",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 106
+        },
+        {
+          "asset": "board-team",
+          "type": "photo",
+          "file": "board-team.jpg",
+          "start": 106,
+          "phrase": "đặt yêu cầu rõ",
+          "purpose": "Explaining the work goal to someone else",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 203
+        },
+        {
+          "asset": "review-team",
+          "type": "photo",
+          "file": "review-team-detail.jpg",
+          "start": 203,
+          "phrase": "kiểm tra được",
+          "purpose": "Actual joint document review",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.0666666666666667,
+          "end": 317
+        },
+        {
+          "asset": "close-review",
+          "type": "photo",
+          "file": "close-review.jpg",
+          "start": 317,
+          "phrase": "bản nháp sai ở đâu",
+          "purpose": "Attention to details in a draft",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 454
+        },
+        {
+          "asset": "calculator",
+          "type": "photo",
+          "file": "calculator.jpg",
+          "start": 454,
+          "phrase": "đúng mục tiêu",
+          "purpose": "Check the output instead of generic shapes",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 483
+        }
+      ]
+    },
+    {
+      "id": "hallucination",
+      "label": "MỘT BÀI TẬP KIỂM TRA NHỎ",
+      "kind": "documents",
+      "theme": "dark",
+      "text": "Giả sử AI tóm tắt bảng doanh thu rất trôi chảy, nhưng nhầm doanh thu với lợi nhuận. Nếu thấy hay rồi gửi đi, tốc độ giúp một lỗi đi xa hơn. Hãy đối chiếu số với bảng gốc, xem định nghĩa từng cột và hỏi: kết luận có thật sự được dữ liệu hỗ trợ không?",
+      "beats": [
+        {
+          "phrase": "doanh thu với lợi nhuận",
+          "title": "DOANH THU ≠ LỢI NHUẬN",
+          "sub": "VÍ DỤ GIẢ ĐỊNH / KHÔNG PHẢI SỐ LIỆU THỰC",
+          "at": 111
+        },
+        {
+          "phrase": "một lỗi đi xa hơn",
+          "title": "TRÔI CHẢY ≠ CHÍNH XÁC",
+          "sub": "ĐỪNG CHỈ ĐỌC THẤY HAY",
+          "at": 232
+        },
+        {
+          "phrase": "đối chiếu số với bảng gốc",
+          "title": "ĐỐI CHIẾU NGUỒN GỐC",
+          "sub": "SỐ LIỆU → ĐỊNH NGHĨA → KẾT LUẬN",
+          "at": 288
+        }
+      ],
+      "start": 4769,
+      "end": 5253,
+      "shots": [
+        {
+          "asset": "calculator",
+          "type": "photo",
+          "file": "calculator.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Real financial paperwork for the hypothetical summary",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 111
+        },
+        {
+          "asset": "review-docs",
+          "type": "photo",
+          "file": "review-docs.jpg",
+          "start": 111,
+          "phrase": "doanh thu với lợi nhuận",
+          "purpose": "Document detail; no fake data over stock",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.7421150278293135,
+          "end": 189
+        },
+        {
+          "asset": "v-typing",
+          "type": "video",
+          "file": "typing.mp4",
+          "start": 189,
+          "phrase": "gửi đi",
+          "purpose": "Typing/dispatch context",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 288
+        },
+        {
+          "asset": "close-review",
+          "type": "photo",
+          "file": "close-review.jpg",
+          "start": 288,
+          "phrase": "đối chiếu số với bảng gốc",
+          "purpose": "A finger/pencil points to source documents",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 348
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 348,
+          "phrase": "định nghĩa từng cột",
+          "purpose": "Writing down definitions and checking",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 484
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "label": "03 / VẼ LẠI CÔNG VIỆC CỦA MÌNH",
+      "kind": "tasks",
+      "theme": "cream",
+      "text": "Thử chia việc thành ba nhóm. Nhóm đầu: lặp lại, dễ mô tả và kiểm tra. Nhóm hai: AI hỗ trợ nhưng bạn phải duyệt. Nhóm ba: cần quan hệ, phán đoán hoặc trách nhiệm trực tiếp. Đây là cách tự rà soát, không phải xếp hạng nghề. Điều cần thấy là nhiệm vụ nào thay đổi trước.",
+      "beats": [
+        {
+          "phrase": "ba nhóm",
+          "title": "BA NHÓM NHIỆM VỤ",
+          "sub": "TỰ RÀ SOÁT / KHÔNG XẾP HẠNG NGHỀ",
+          "at": 27
+        },
+        {
+          "phrase": "Nhóm đầu",
+          "title": "LẶP LẠI → HỖ TRỢ",
+          "sub": "→ PHÁN ĐOÁN VÀ TRÁCH NHIỆM",
+          "at": 49
+        },
+        {
+          "phrase": "thay đổi trước",
+          "title": "ĐIỂM NÀO ĐỔI TRƯỚC?",
+          "sub": "BẮT ĐẦU TỪ NHIỆM VỤ",
+          "at": 543
+        }
+      ],
+      "start": 5253,
+      "end": 5828,
+      "shots": [
+        {
+          "asset": "board-team",
+          "type": "photo",
+          "file": "board-team.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Real board introduces self review",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 27
+        },
+        {
+          "asset": "sticky-board",
+          "type": "photo",
+          "file": "sticky-board.jpg",
+          "start": 27,
+          "phrase": "ba nhóm",
+          "purpose": "Three task labels placed over an actual planning board",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 162
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 162,
+          "phrase": "Nhóm hai",
+          "purpose": "Record what needs human review",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 274
+        },
+        {
+          "asset": "client-meeting",
+          "type": "photo",
+          "file": "client-meeting.jpg",
+          "start": 274,
+          "phrase": "Nhóm ba",
+          "purpose": "Human relationships and direct responsibility",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 522
+        },
+        {
+          "asset": "colleagues",
+          "type": "photo",
+          "file": "colleagues.jpg",
+          "start": 522,
+          "phrase": "nhiệm vụ nào",
+          "purpose": "Discuss the specific task to change",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5028177833437695,
+          "end": 575
+        }
+      ]
+    },
+    {
+      "id": "experiment",
+      "label": "THỬ NHỎ / CÓ THỂ KIỂM TRA",
+      "kind": "conveyor",
+      "theme": "dark",
+      "text": "Chọn một việc nhỏ ở nhóm đầu. Chẳng hạn, nháp email thường gặp bằng thông tin giả định. Viết rõ mục tiêu, người đọc và điều không được tự bịa. Giữ bản làm cách cũ để so sánh. Đừng bắt đầu với dữ liệu nhạy cảm. Hãy chọn nơi sai sót có thể được phát hiện và sửa.",
+      "beats": [
+        {
+          "phrase": "một việc nhỏ",
+          "title": "CHỌN MỘT VIỆC NHỎ",
+          "sub": "DÙNG THÔNG TIN GIẢ ĐỊNH",
+          "at": 10
+        },
+        {
+          "phrase": "mục tiêu, người đọc",
+          "title": "MỤC TIÊU. NGƯỜI ĐỌC.",
+          "sub": "RÀNG BUỘC RÕ RÀNG.",
+          "at": 177
+        },
+        {
+          "phrase": "phát hiện và sửa",
+          "title": "THẤY ĐƯỢC LỖI",
+          "sub": "SỬA ĐƯỢC LỖI",
+          "at": 462
+        }
+      ],
+      "start": 5828,
+      "end": 6333,
+      "shots": [
+        {
+          "asset": "home-learning",
+          "type": "photo",
+          "file": "home-learning.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Small personal trial",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 87
+        },
+        {
+          "asset": "v-typing",
+          "type": "video",
+          "file": "typing.mp4",
+          "start": 87,
+          "phrase": "nháp email",
+          "purpose": "A keyboard for writing the draft email",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 177
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 177,
+          "phrase": "mục tiêu, người đọc",
+          "purpose": "Written instructions and constraints",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 308
+        },
+        {
+          "asset": "review-docs",
+          "type": "photo",
+          "file": "review-docs.jpg",
+          "start": 308,
+          "phrase": "để so sánh",
+          "purpose": "Actual documents represent before/after review",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.7421150278293135,
+          "end": 373
+        },
+        {
+          "asset": "folders",
+          "type": "photo",
+          "file": "folders.jpg",
+          "start": 373,
+          "phrase": "dữ liệu nhạy cảm",
+          "purpose": "Folders/data rather than a decorative AI object",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.499063085571518,
+          "end": 462
+        },
+        {
+          "asset": "review-team",
+          "type": "photo",
+          "file": "review-team-detail.jpg",
+          "start": 462,
+          "phrase": "phát hiện và sửa",
+          "purpose": "People review and correct together",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.0666666666666667,
+          "end": 505
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "label": "ĐO LỢI ÍCH THỰC",
+      "kind": "clock",
+      "theme": "cream",
+      "text": "Đo cả thời gian ra lệnh, chờ kết quả, đọc lại và sửa. Ghi những lỗi khó nhận ra. Nếu tiết kiệm thời gian mà chất lượng đạt yêu cầu, đó là bước có ích. Nếu chưa, sửa cách giao việc hoặc đổi nhiệm vụ. Một quy trình nhỏ lặp lại đáng tin cậy hơn một màn trình diễn ấn tượng.",
+      "beats": [
+        {
+          "phrase": "ra lệnh, chờ kết quả",
+          "title": "GIAO VIỆC + CHỜ",
+          "sub": "+ KIỂM TRA + SỬA",
+          "at": 27
+        },
+        {
+          "phrase": "chất lượng đạt yêu cầu",
+          "title": "THỜI GIAN + CHẤT LƯỢNG",
+          "sub": "ĐO CẢ HAI",
+          "at": 221
+        },
+        {
+          "phrase": "lặp lại đáng tin cậy",
+          "title": "LẶP LẠI ĐƯỢC",
+          "sub": "ĐÁNG TIN CẬY",
+          "at": 436
+        }
+      ],
+      "start": 6333,
+      "end": 6874,
+      "shots": [
+        {
+          "asset": "v-worker",
+          "type": "video",
+          "file": "worker.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Doing the task at a computer",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 116
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 116,
+          "phrase": "Ghi những lỗi",
+          "purpose": "Write down the errors",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 189
+        },
+        {
+          "asset": "calculator",
+          "type": "photo",
+          "file": "calculator.jpg",
+          "start": 189,
+          "phrase": "tiết kiệm thời gian",
+          "purpose": "Evaluate time and benefit",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 329
+        },
+        {
+          "asset": "board-team",
+          "type": "photo",
+          "file": "board-team.jpg",
+          "start": 329,
+          "phrase": "sửa cách giao việc",
+          "purpose": "Refine the instructions on a board",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 436
+        },
+        {
+          "asset": "colleagues",
+          "type": "photo",
+          "file": "colleagues.jpg",
+          "start": 436,
+          "phrase": "lặp lại đáng tin cậy",
+          "purpose": "Repeatable collaboration",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5028177833437695,
+          "end": 541
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "label": "KỸ NĂNG CẦN NUÔI DƯỠNG",
+      "kind": "steps",
+      "theme": "dark",
+      "source": "Future of Jobs Report 2025 · kỳ vọng của nhà tuyển dụng",
+      "text": "Bạn không nhất thiết phải thành kỹ sư AI. Báo cáo của Diễn đàn Kinh tế Thế giới coi trọng tư duy phân tích, kỹ năng công nghệ và khả năng học hỏi. Mỗi người cần chuẩn bị khác nhau. Nhưng hiểu nghề, biết kiểm tra và diễn đạt rõ vấn đề là ba năng lực có thể rèn ngay hôm nay.",
+      "beats": [
+        {
+          "phrase": "không nhất thiết",
+          "title": "KHÔNG PHẢI AI CŨNG",
+          "sub": "CẦN THÀNH KỸ SƯ AI",
+          "at": 10
+        },
+        {
+          "phrase": "tư duy phân tích",
+          "title": "PHÂN TÍCH. CÔNG NGHỆ.",
+          "sub": "KHẢ NĂNG HỌC HỎI.",
+          "at": 166
+        },
+        {
+          "phrase": "hiểu nghề, biết kiểm tra",
+          "title": "HIỂU NGHỀ. KIỂM TRA.",
+          "sub": "DIỄN ĐẠT RÕ VẤN ĐỀ.",
+          "at": 347
+        }
+      ],
+      "start": 6874,
+      "end": 7391,
+      "shots": [
+        {
+          "asset": "home-learning",
+          "type": "photo",
+          "file": "home-learning.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Learning without needing to become an AI engineer",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 166
+        },
+        {
+          "asset": "learning",
+          "type": "photo",
+          "file": "learning.jpg",
+          "start": 166,
+          "phrase": "tư duy phân tích",
+          "purpose": "Adult learner coached by another person",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 195
+        },
+        {
+          "asset": "solar",
+          "type": "photo",
+          "file": "solar.jpg",
+          "start": 195,
+          "phrase": "kỹ năng công nghệ",
+          "purpose": "Technology skill in physical engineering work",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.499063085571518,
+          "end": 347
+        },
+        {
+          "asset": "review-team",
+          "type": "photo",
+          "file": "review-team-detail.jpg",
+          "start": 347,
+          "phrase": "hiểu nghề, biết kiểm tra",
+          "purpose": "Human expertise and checking",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.0666666666666667,
+          "end": 492
+        },
+        {
+          "asset": "asian-notes",
+          "type": "photo",
+          "file": "asian-notes.jpg",
+          "start": 492,
+          "phrase": "ngay hôm nay",
+          "purpose": "Taking notes and practising today",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "portfolio",
+      "label": "GIỮ LẠI BẰNG CHỨNG TIẾN BỘ",
+      "kind": "documents",
+      "theme": "cream",
+      "text": "Thay vì chỉ sưu tầm câu lệnh hay, hãy giữ trước và sau của một nhiệm vụ: yêu cầu, bản nháp của máy, phần bạn sửa và kết quả đã kiểm tra. Hồ sơ ấy cho thấy đóng góp thật của bạn, cũng như chỗ cần tiến bộ. Mục tiêu là biết khi nào dùng thì có ích.",
+      "beats": [
+        {
+          "phrase": "trước và sau",
+          "title": "TRƯỚC → SAU",
+          "sub": "GIỮ LẠI BẰNG CHỨNG",
+          "at": 84
+        },
+        {
+          "phrase": "phần bạn sửa",
+          "title": "PHẦN BẠN ĐÓNG GÓP",
+          "sub": "KIỂM TRA. SỬA. QUYẾT ĐỊNH.",
+          "at": 206
+        },
+        {
+          "phrase": "khi nào dùng thì có ích",
+          "title": "DÙNG ĐÚNG CHỖ",
+          "sub": "KHÔNG PHẢI DÙNG MỌI CHỖ",
+          "at": 465
+        }
+      ],
+      "start": 7391,
+      "end": 7909,
+      "shots": [
+        {
+          "asset": "folders",
+          "type": "photo",
+          "file": "folders.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Keeping work samples",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.499063085571518,
+          "end": 84
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 84,
+          "phrase": "trước và sau",
+          "purpose": "Record the original request",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 168
+        },
+        {
+          "asset": "v-typing",
+          "type": "video",
+          "file": "typing.mp4",
+          "start": 168,
+          "phrase": "bản nháp của máy",
+          "purpose": "Writing and editing a draft",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 206
+        },
+        {
+          "asset": "review-docs",
+          "type": "photo",
+          "file": "review-docs.jpg",
+          "start": 206,
+          "phrase": "phần bạn sửa",
+          "purpose": "Annotated/checked material as contribution",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.7421150278293135,
+          "end": 337
+        },
+        {
+          "asset": "team-decision",
+          "type": "photo",
+          "file": "team-decision.jpg",
+          "start": 337,
+          "phrase": "đóng góp thật",
+          "purpose": "Show the work in a real discussion",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 465
+        },
+        {
+          "asset": "home-learning",
+          "type": "photo",
+          "file": "home-learning.jpg",
+          "start": 465,
+          "phrase": "khi nào dùng",
+          "purpose": "Choose when the tool helps",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 518
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "label": "TRÁCH NHIỆM KHÔNG CHỈ Ở CÁ NHÂN",
+      "kind": "network",
+      "theme": "dark",
+      "text": "Chuyển đổi không thể chỉ đặt lên vai người lao động. Tổ chức cần hướng dẫn, thời gian đào tạo, tiêu chuẩn chất lượng và người xử lý khi hệ thống sai. Chỉ yêu cầu làm nhiều hơn mà không cho học và kiểm tra có thể tạo thêm áp lực. Đổi công cụ cũng cần đổi cách tổ chức công việc ấy.",
+      "beats": [
+        {
+          "phrase": "không thể chỉ đặt lên vai",
+          "title": "KHÔNG CHỈ CÁ NHÂN",
+          "sub": "TỔ CHỨC CŨNG CÓ TRÁCH NHIỆM",
+          "at": 20
+        },
+        {
+          "phrase": "thời gian đào tạo",
+          "title": "ĐÀO TẠO. TIÊU CHUẨN.",
+          "sub": "NGƯỜI XỬ LÝ KHI SAI.",
+          "at": 126
+        },
+        {
+          "phrase": "tổ chức công việc ấy",
+          "title": "ĐỔI CÔNG CỤ",
+          "sub": "CŨNG CẦN ĐỔI CÁCH LÀM",
+          "at": 478
+        }
+      ],
+      "start": 7909,
+      "end": 8428,
+      "shots": [
+        {
+          "asset": "v-office",
+          "type": "video",
+          "file": "office.mp4",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Responsibility at organization level",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 83
+        },
+        {
+          "asset": "team-decision",
+          "type": "photo",
+          "file": "team-decision.jpg",
+          "start": 83,
+          "phrase": "Tổ chức cần",
+          "purpose": "A team plans the process",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 126
+        },
+        {
+          "asset": "learning",
+          "type": "photo",
+          "file": "learning.jpg",
+          "start": 126,
+          "phrase": "thời gian đào tạo",
+          "purpose": "Real one-to-one training",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 170
+        },
+        {
+          "asset": "review-team",
+          "type": "photo",
+          "file": "review-team-detail.jpg",
+          "start": 170,
+          "phrase": "tiêu chuẩn chất lượng",
+          "purpose": "Joint review for quality",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.0666666666666667,
+          "end": 388
+        },
+        {
+          "asset": "file-stack",
+          "type": "photo",
+          "file": "file-stack.jpg",
+          "start": 388,
+          "phrase": "tạo thêm áp lực",
+          "purpose": "Staged paperwork load, no claim about the pictured worker",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 467
+        },
+        {
+          "asset": "board-team",
+          "type": "photo",
+          "file": "board-team.jpg",
+          "start": 467,
+          "phrase": "đổi cách tổ chức",
+          "purpose": "People reorganize a task board",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.7777777777777777,
+          "end": 519
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "label": "CÂU HỎI MANG THEO",
+      "kind": "chip",
+      "theme": "dark",
+      "text": "AI sẽ lấy việc hay thay đổi công việc? Không có một câu trả lời chung. Hãy nhìn từng nhiệm vụ và từng quyết định. Bạn không cần thắng máy ở mọi thao tác. Hãy tìm phần mà sự hiểu biết và trách nhiệm của bạn làm kết quả tốt hơn. Ngày mai, bạn sẽ bắt đầu kiểm tra lại nhiệm vụ nào?",
+      "beats": [
+        {
+          "phrase": "Không có một câu trả lời chung",
+          "title": "KHÔNG MỘT ĐÁP ÁN",
+          "sub": "CHO TẤT CẢ MỌI NGƯỜI",
+          "at": 82
+        },
+        {
+          "phrase": "sự hiểu biết và trách nhiệm",
+          "title": "HIỂU BIẾT + TRÁCH NHIỆM",
+          "sub": "GIÁ TRỊ BẠN ĐÓNG GÓP",
+          "at": 312
+        },
+        {
+          "phrase": "Ngày mai",
+          "title": "NGÀY MAI,",
+          "sub": "BẠN SẼ BẮT ĐẦU TỪ VIỆC NÀO?",
+          "at": 418
+        }
+      ],
+      "start": 8428,
+      "end": 9000,
+      "shots": [
+        {
+          "asset": "colleagues",
+          "type": "photo",
+          "file": "colleagues.jpg",
+          "start": 0,
+          "phrase": "",
+          "purpose": "Human collaboration",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5028177833437695,
+          "end": 82
+        },
+        {
+          "asset": "candidate",
+          "type": "photo",
+          "file": "candidate.jpg",
+          "start": 82,
+          "phrase": "Không có một câu trả lời chung",
+          "purpose": "Different people have different needs",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.5,
+          "end": 149
+        },
+        {
+          "asset": "notes",
+          "type": "photo",
+          "file": "notes.jpg",
+          "start": 149,
+          "phrase": "từng nhiệm vụ",
+          "purpose": "Focus on one written task",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.4981273408239701,
+          "end": 312
+        },
+        {
+          "asset": "review-team",
+          "type": "photo",
+          "file": "review-team-detail.jpg",
+          "start": 312,
+          "phrase": "sự hiểu biết và trách nhiệm",
+          "purpose": "Knowledge plus careful review",
+          "pan": 1,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 1.0666666666666667,
+          "end": 418
+        },
+        {
+          "asset": "home-learning",
+          "type": "photo",
+          "file": "home-learning.jpg",
+          "start": 418,
+          "phrase": "Ngày mai",
+          "purpose": "Close on an actual person learning and preparing",
+          "pan": 0,
+          "focus": [
+            50,
+            42
+          ],
+          "aspect": 0.6666666666666666,
+          "end": 572
+        }
+      ]
+    }
+  ],
+  "direction": "Illustration-led: real internet photographs and footage carry the story. Useful data graphics only, never a full runtime of 3D objects."
+}

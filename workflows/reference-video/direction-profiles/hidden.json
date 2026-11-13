@@ -1,0 +1,258 @@
+{
+  "id": "tyranno-hidden-inspired",
+  "direction": "hidden",
+  "title": "Đừng chỉ nhìn tên nghề. Hãy nhìn từng nhiệm vụ.",
+  "reference": "The Hidden Self — học cách mở mâu thuẫn, phân tích cơ chế và quay về hành động; không sao chép lời, hình, nhạc hay nhận diện",
+  "status": "new-direction-awaiting-user-review",
+  "sourceBatch": "videos/2026-11-12-ai-va-cong-viec-anh-that",
+  "structureNote": "Hook → disclaimer → content → CTA là yêu cầu người dùng cho cả hai hướng, không khẳng định mọi video gốc đều có disclaimer đầu.",
+  "artDirection": {
+    "palette": [
+      "#0a1722",
+      "#f0ede3",
+      "#68cbb6"
+    ],
+    "pace": "reflective, deliberate, mechanism-first",
+    "media": "Real illustrative internet photographs lead; short photo-based 3D galleries compare tasks",
+    "sound": "Approved Nhật Phong voice, speech-first mix and contextual Foley",
+    "headlineFont": "Times New Roman,serif",
+    "headlineNormalization": "NFC",
+    "fontValidation": "Full headline Unicode cmap coverage verified against Windows times.ttf; actual 1080p glyph review required after render."
+  },
+  "sections": [
+    {
+      "phase": "hook",
+      "text": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn. Nhưng một người cũng khó yên tâm nếu phần việc mình làm hằng ngày đang đổi khác. Vậy rốt cuộc, chúng ta nên nhìn vào tên nghề, hay nhìn vào từng việc mình thực sự làm?",
+      "shots": [
+        {
+          "phrase": "Một nghề không biến mất",
+          "layout": "full",
+          "images": [
+            "candidate"
+          ],
+          "eyebrow": "NHÌN LẠI CÂU HỎI VỀ AI",
+          "headline": "Tên nghề nói được bao nhiêu?"
+        },
+        {
+          "phrase": "Nhưng một người",
+          "layout": "full",
+          "images": [
+            "home-learning"
+          ]
+        },
+        {
+          "phrase": "Vậy rốt cuộc",
+          "layout": "diptych",
+          "images": [
+            "resume",
+            "board-team"
+          ],
+          "headline": "Tên nghề / Việc thực sự làm"
+        }
+      ]
+    },
+    {
+      "phase": "disclaimer",
+      "text": "Phần sau là một cách tự rà soát công việc, không phải kết luận về tương lai của mọi nghề.",
+      "shots": [
+        {
+          "phrase": "Phần sau",
+          "layout": "evidence",
+          "images": [
+            "discussion"
+          ],
+          "eyebrow": "LƯU Ý",
+          "headline": "Một cách tự rà soát",
+          "body": "Không phải kết luận về tương lai của mọi nghề."
+        }
+      ]
+    },
+    {
+      "phase": "content",
+      "text": "Hãy lấy một ngày làm việc bình thường. Bạn tìm thông tin, viết bản đầu, kiểm tra, trao đổi và đưa ra quyết định. Những việc ấy nằm chung trong một chức danh, nhưng không có cùng mức độ cần con người. Vì vậy, thay vì hỏi máy có thay mình không, thử hỏi: phần nào có thể tạo nháp, phần nào phải đối chiếu, và phần nào cần mình chịu trách nhiệm? Bạn có thể nhờ công cụ gợi ý cấu trúc. Nhưng khi một con số không khớp, bạn cần quay về nguồn. Khi khách hàng đang bức xúc, một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề. Đây là điểm cần phân biệt: đầu ra trông có vẻ hoàn chỉnh, và một công việc thật sự được hoàn thành. Khoảng cách giữa hai điều đó chính là chỗ để kiểm tra, hiểu bối cảnh và quyết định. Hôm nay, hãy chọn một nhiệm vụ. Viết rõ tiêu chuẩn đạt, thử bằng dữ liệu giả định, rồi tự so kết quả. Đo cả thời gian sửa. Chỉ giữ cách làm khi bạn kiểm soát được chất lượng.",
+      "shots": [
+        {
+          "phrase": "Hãy lấy một ngày",
+          "layout": "full",
+          "images": [
+            "colleagues"
+          ],
+          "eyebrow": "01 / MỘT NGÀY, NHIỀU NHIỆM VỤ"
+        },
+        {
+          "phrase": "Bạn tìm thông tin",
+          "layout": "full",
+          "images": [
+            "folders"
+          ]
+        },
+        {
+          "phrase": "viết bản đầu",
+          "layout": "full",
+          "images": [
+            "typing-photo"
+          ]
+        },
+        {
+          "phrase": "kiểm tra, trao đổi",
+          "layout": "diptych",
+          "images": [
+            "pens-proof",
+            "client-meeting"
+          ]
+        },
+        {
+          "phrase": "Những việc ấy",
+          "layout": "full",
+          "images": [
+            "team-decision"
+          ]
+        },
+        {
+          "phrase": "Vì vậy",
+          "layout": "full",
+          "images": [
+            "asian-notes"
+          ],
+          "eyebrow": "02 / ĐỔI CÁCH ĐẶT CÂU HỎI"
+        },
+        {
+          "phrase": "phần nào có thể tạo nháp",
+          "layout": "gallery3d",
+          "images": [
+            "notes",
+            "clipboard-check",
+            "team-decision"
+          ],
+          "headline": "Tạo nháp / Đối chiếu / Chịu trách nhiệm"
+        },
+        {
+          "phrase": "Bạn có thể nhờ",
+          "layout": "full",
+          "images": [
+            "sticky-board"
+          ]
+        },
+        {
+          "phrase": "Nhưng khi một con số",
+          "layout": "evidence",
+          "images": [
+            "calculator"
+          ],
+          "headline": "Quay về nguồn",
+          "sourceNote": "Tình huống giả định · Ảnh minh họa"
+        },
+        {
+          "phrase": "Khi khách hàng",
+          "layout": "full",
+          "images": [
+            "support-agent"
+          ]
+        },
+        {
+          "phrase": "một câu trả lời lịch sự",
+          "layout": "full",
+          "images": [
+            "support-team"
+          ]
+        },
+        {
+          "phrase": "Đây là điểm",
+          "layout": "full",
+          "images": [
+            "held-docs"
+          ],
+          "eyebrow": "03 / KHOẢNG CÁCH CẦN KIỂM TRA"
+        },
+        {
+          "phrase": "đầu ra trông",
+          "layout": "diptych",
+          "images": [
+            "notes",
+            "review-team-detail"
+          ],
+          "headline": "Trông hoàn chỉnh / Thật sự hoàn thành"
+        },
+        {
+          "phrase": "Khoảng cách giữa",
+          "layout": "gallery3d",
+          "images": [
+            "close-review",
+            "client-meeting",
+            "team-decision"
+          ],
+          "headline": "Kiểm tra → Bối cảnh → Quyết định"
+        },
+        {
+          "phrase": "Hôm nay",
+          "layout": "full",
+          "images": [
+            "home-learning"
+          ],
+          "eyebrow": "04 / MỘT THỬ NGHIỆM NHỎ"
+        },
+        {
+          "phrase": "Viết rõ tiêu chuẩn",
+          "layout": "full",
+          "images": [
+            "board-team"
+          ]
+        },
+        {
+          "phrase": "thử bằng dữ liệu",
+          "layout": "full",
+          "images": [
+            "discussion"
+          ]
+        },
+        {
+          "phrase": "Đo cả thời gian sửa",
+          "layout": "full",
+          "images": [
+            "notes"
+          ],
+          "headline": "Tính cả thời gian sửa"
+        },
+        {
+          "phrase": "Chỉ giữ cách làm",
+          "layout": "full",
+          "images": [
+            "learning"
+          ]
+        }
+      ]
+    },
+    {
+      "phase": "cta",
+      "text": "Bạn muốn bóc tách nhiệm vụ nào tiếp theo? Hãy để lại một ví dụ dưới bình luận, và đăng ký TYRANNO để cùng quan sát công việc đang thay đổi.",
+      "shots": [
+        {
+          "phrase": "Bạn muốn bóc tách",
+          "layout": "closing",
+          "images": [
+            "team-charts"
+          ],
+          "eyebrow": "MỘT CÂU HỎI CHO BẠN",
+          "headline": "Nhiệm vụ nào tiếp theo?"
+        },
+        {
+          "phrase": "Hãy để lại",
+          "layout": "closing",
+          "images": [
+            "interview"
+          ],
+          "headline": "Để lại một ví dụ"
+        },
+        {
+          "phrase": "và đăng ký TYRANNO",
+          "layout": "closing",
+          "images": [
+            "colleagues"
+          ],
+          "headline": "Quan sát kỹ. Hiểu sâu hơn.",
+          "body": "Đăng ký TYRANNO để cùng theo dõi."
+        }
+      ]
+    }
+  ]
+}

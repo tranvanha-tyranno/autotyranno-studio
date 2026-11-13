@@ -165,7 +165,7 @@ class Suggestion(BaseModel):
 
 
 class ProviderSettings(BaseModel):
-    provider: Literal['gemini','elevenlabs']
+    provider: Literal['gemini','elevenlabs','openai']
     key: str = Field(min_length=10,max_length=300)
 
 
@@ -487,9 +487,16 @@ def file(project_id:str,relative:str):
 
 
 def provider_key(provider):
-    variable='GOOGLE_API_KEY' if provider=='gemini' else 'ELEVENLABS_API_KEY'
+    variable={'gemini':'GOOGLE_API_KEY','elevenlabs':'ELEVENLABS_API_KEY','openai':'OPENAI_API_KEY'}[provider]
     if os.environ.get(variable):return os.environ[variable]
     if provider=='elevenlabs':return runner.eleven_key()
+    if provider=='openai':
+        path=PROJECT/'.secrets/openai.dpapi.xml'
+        if not path.exists():raise ValueError('Chưa cấu hình OpenAI API key trong Kết nối')
+        safe=str(path).replace("'","''")
+        result=subprocess.run(['powershell.exe','-NoProfile','-NonInteractive','-Command',f"$stored=Import-Clixml -LiteralPath '{safe}'; [System.Net.NetworkCredential]::new('', $stored).Password"],capture_output=True,text=True)
+        if result.returncode or not result.stdout.strip():raise ValueError('Không đọc được key OpenAI mã hóa')
+        return result.stdout.strip()
     path=PROJECT/'.secrets/gemini.dpapi.xml'
     if not path.exists():raise ValueError('Chưa cấu hình Gemini API key trong Kết nối')
     safe=str(path).replace("'","''")
@@ -516,7 +523,7 @@ def connections():
         response=httpx.get('http://127.0.0.1:18610/healthz',timeout=2)
         muse=response.status_code==200 and response.json().get('status')=='ok'
     except Exception:muse=False
-    return {'muse':{'online':muse,'base':'http://127.0.0.1:18610'},'gemini':{'configured':bool(os.environ.get('GOOGLE_API_KEY') or (PROJECT/'.secrets/gemini.dpapi.xml').exists())},'elevenlabs':{'configured':bool(os.environ.get('ELEVENLABS_API_KEY') or (PROJECT/'.secrets/elevenlabs.dpapi.xml').exists())},'models':{'muse':'muse-spark','gemini':'gemini-2.5-flash'},'storage':str(ROOT),'local_only':True}
+    return {'muse':{'online':muse,'base':'http://127.0.0.1:18610'},'gemini':{'configured':bool(os.environ.get('GOOGLE_API_KEY') or (PROJECT/'.secrets/gemini.dpapi.xml').exists())},'elevenlabs':{'configured':bool(os.environ.get('ELEVENLABS_API_KEY') or (PROJECT/'.secrets/elevenlabs.dpapi.xml').exists())},'openai':{'configured':bool(os.environ.get('OPENAI_API_KEY') or (PROJECT/'.secrets/openai.dpapi.xml').exists())},'models':{'muse':'muse-spark','gemini':'gemini-2.5-flash','openai_tts':'gpt-4o-mini-tts'},'storage':str(ROOT),'local_only':True}
 
 
 @router.post('/settings/muse/start')

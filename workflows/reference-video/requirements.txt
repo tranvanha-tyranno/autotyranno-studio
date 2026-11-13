@@ -1,0 +1,9 @@
+# Shared HTTP, image, FFmpeg and test dependencies.
+-r ../../backend/requirements.txt
+
+# Local narration mixing, render QA and research utilities.
+numpy>=1.24,<3
+opencv-python>=4.8,<5
+Markdown>=3.5,<4
+edge-tts>=6,<8
+yt-dlp

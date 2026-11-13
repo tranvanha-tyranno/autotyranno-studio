@@ -27,7 +27,13 @@ Dashboard mặc định gọi backend tại `http://localhost:8000`; có thể �
 
 ## Tạo video mẫu
 
+Mã explainer, hướng dẫn cài đặt và kiểm tra offline nằm tại [workflows/reference-video](workflows/reference-video/README.md). Hai lựa chọn tài chính mới là chuyển động tối giản theo hành động và nhân vật comic biểu cảm; xem [FINANCE_STYLES.md](workflows/reference-video/FINANCE_STYLES.md). Bản tối giản đầu bị chê giống slide, tạo hình cũ cần sửa; hướng comic do người dùng chọn, còn hình mới vẫn chờ phản hồi. Video/audio render và bằng chứng batch giữ local, không nằm trong lần đẩy mã này.
+
+Nhánh explainer ảnh thật/gallery 3D hiện dùng [quy trình sản xuất](workflows/reference-video/PRODUCTION.md) và [vòng cải tiến sau mỗi batch](workflows/reference-video/LEARNING_LOOP.md). `production.py` kiểm toàn bộ lời–hình, nguồn và take thật, chạy hàng đợi tuần tự; `learning.py` lưu phản hồi có bằng chứng, tách khỏi kiểm kỹ thuật và duyệt của người dùng. Bản thử đời sống mới nằm ở `videos/2026-11-13-di-sieu-thi/`.
+
 Quy trình review sản phẩm bằng Muse2API và Adam V3 đã lưu tại [workflows/product-video/WORKFLOW.md](workflows/product-video/WORKFLOW.md). Mặc định hai clip với người mẫu hoặc chỉ tay và bối cảnh khác nhau, nhịp hình nhanh 1,5× từ ba cảnh mới; mỗi batch nằm trong `videos/`.
+
+Hồ sơ 17 video tham chiếu cho nhánh phân tích kinh tế/xã hội được lưu tại [docs/video-references/2026-11-11/STYLE_NOTES.md](docs/video-references/2026-11-11/STYLE_NOTES.md). Khi tạo video dạng này, chọn `auto_idea` hoặc `user_topic`, rồi luôn lưu research sources và QA theo batch.
 
 Chạy `python workflows/product-video/run.py cache --batch <batch>` rồi `plan` trước khi tạo để dùng lại TTS/media và xem số lần gọi provider dự kiến.
 
@@ -44,3 +50,7 @@ Gửi `POST /products/import`, sau đó dùng `POST /video-jobs` với `product_
 ## Lưu ý
 
 Adapter đăng TikTok hiện chỉ mô phỏng idempotent publish. Trước khi bật đăng thật cần thêm OAuth/token vault và chỉ dùng API chính thức của nền tảng. Nội dung có claim nhạy cảm hoặc dữ liệu sản phẩm thiếu sẽ bị chặn.
+
+## Video phân tích — Lăng Kính / Tyranno
+
+Luồng mới dùng [workflow editorial](workflows/reference-video/WORKFLOW.md): 7 cách trình bày trong một video, footage chuyển động, giọng ElevenLabs có timestamp, SFX theo cue và nhạc ducked. Nhận diện lưu tại [lang-kinh.profile.json](workflows/reference-video/lang-kinh.profile.json); renderer là `editorial.py`. Batch minh họa: `videos/2026-11-11-lang-kinh-editorial-v2/`. Cấu hình khóa ElevenLabs trong local vault hoặc biến môi trường; không đưa key vào profile.
