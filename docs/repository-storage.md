@@ -8,6 +8,7 @@ Theo yêu cầu ngày 15/11/2026, repo lưu cả mã nguồn **và video/dữ li
 - Backend, frontend, workflow Python, source Remotion và các file khóa dependency.
 - Kịch bản, prompt, cấu hình, timeline, editorial map, nghiên cứu và ghi nhận phản hồi.
 - 14 bản xuất được chọn: bản mới nhất hữu ích của từng nhánh, baseline đã duyệt và hai preview so sánh; bản bread-lab vẫn được ghi rõ là preview tạm.
+- Hai phim AI ảnh thật và quán cà phê dùng bản `github-final-720p.mp4` để upload nhanh: H.264 CRF 24, giữ nguyên audio. Bản gốc hơn 250 MB/file vẫn ở máy; đường dẫn/hash gốc được ghi trong manifest.
 - Media đã có trên GitHub, ảnh/footage nguồn sản xuất, take âm thanh nén và tài nguyên cần thiết trong `videos/`.
 - URL, transcript và hồ sơ phân tích tham chiếu trong `docs/video-references/`.
 - Snapshot source theo batch để giữ khả năng đối chiếu bản đã render.

@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-15",
+  "checks": [
+    {
+      "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/github-final-720p.mp4",
+      "audio_packet_hash_matches": true,
+      "original_duration": 300.01,
+      "compressed_duration": 300.01,
+      "full_decode_ok": true
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/github-final-720p.mp4",
+      "audio_packet_hash_matches": true,
+      "original_duration": 594.93,
+      "compressed_duration": 594.93,
+      "full_decode_ok": true
+    }
+  ],
+  "limits": "Technical integrity only; lossy 720p encoding changes visual quality and is not user quality approval."
+}

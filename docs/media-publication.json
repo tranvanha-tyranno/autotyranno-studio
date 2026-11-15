@@ -18,9 +18,16 @@
       "status": "retained_output_not_automatic_user_approval"
     },
     {
-      "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
-      "bytes": 267636447,
-      "status": "retained_output_not_automatic_user_approval"
+      "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/github-final-720p.mp4",
+      "bytes": 33573662,
+      "status": "retained_output_not_automatic_user_approval",
+      "local_original": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
+      "encoding": {
+        "height": 720,
+        "video": "H.264 CRF 24 veryfast",
+        "audio": "copied without re-encoding",
+        "original_sha256": "bd8d53c39707ddeba5f4ac1a96200f49f68554f70772a81605022bd06dd1fbb2"
+      }
     },
     {
       "path": "videos/2026-11-12-hai-huong/hidden/final.mp4",
@@ -53,9 +60,16 @@
       "status": "retained_output_not_automatic_user_approval"
     },
     {
-      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
-      "bytes": 268014380,
-      "status": "retained_output_not_automatic_user_approval"
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/github-final-720p.mp4",
+      "bytes": 39573842,
+      "status": "retained_output_not_automatic_user_approval",
+      "local_original": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
+      "encoding": {
+        "height": 720,
+        "video": "H.264 CRF 24 veryfast",
+        "audio": "copied without re-encoding",
+        "original_sha256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e"
+      }
     },
     {
       "path": "videos/2026-11-14-banh-mi-documentary/r02/final.mp4",
@@ -75,7 +89,7 @@
   ],
   "retained_media": {
     "files": 1521,
-    "bytes_before_lfs_dedup": 4065769381,
+    "bytes_before_lfs_dedup": 3603266058,
     "reasons": {
       "already_published": 702,
       "selected_latest_output": 14,
@@ -85,11 +99,12 @@
     }
   },
   "local_only_media": {
-    "files": 8244,
-    "bytes": 12725508402,
+    "files": 8246,
+    "bytes": 13261159229,
     "reasons": {
       "downloaded_reference_media_or_sample": 816,
-      "superseded_or_generated_media": 7428
+      "superseded_or_generated_media": 7428,
+      "large_originals_replaced_by_720p_copies": 2
     }
   },
   "rules": [
