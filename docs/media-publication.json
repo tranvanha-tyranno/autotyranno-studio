@@ -21,13 +21,13 @@
       "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/github-final-720p.mp4",
       "bytes": 33573662,
       "status": "retained_output_not_automatic_user_approval",
-      "local_original": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
       "encoding": {
         "height": 720,
         "video": "H.264 CRF 24 veryfast",
         "audio": "copied without re-encoding",
         "original_sha256": "bd8d53c39707ddeba5f4ac1a96200f49f68554f70772a81605022bd06dd1fbb2"
-      }
+      },
+      "archived_original": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4"
     },
     {
       "path": "videos/2026-11-12-hai-huong/hidden/final.mp4",
@@ -63,13 +63,13 @@
       "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/github-final-720p.mp4",
       "bytes": 39573842,
       "status": "retained_output_not_automatic_user_approval",
-      "local_original": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
       "encoding": {
         "height": 720,
         "video": "H.264 CRF 24 veryfast",
         "audio": "copied without re-encoding",
         "original_sha256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e"
-      }
+      },
+      "archived_original": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4"
     },
     {
       "path": "videos/2026-11-14-banh-mi-documentary/r02/final.mp4",
@@ -88,23 +88,23 @@
     }
   ],
   "retained_media": {
-    "files": 1521,
-    "bytes_before_lfs_dedup": 3603266058,
+    "files": 1523,
+    "bytes_before_lfs_dedup": 4138916885,
     "reasons": {
       "already_published": 702,
       "selected_latest_output": 14,
       "production_source_asset": 565,
       "original_compressed_audio": 239,
-      "approved_baseline_audio": 1
+      "approved_baseline_audio": 1,
+      "full_quality_master": 2
     }
   },
   "local_only_media": {
-    "files": 8246,
-    "bytes": 13261159229,
+    "files": 8244,
+    "bytes": 12725508402,
     "reasons": {
       "downloaded_reference_media_or_sample": 816,
-      "superseded_or_generated_media": 7428,
-      "large_originals_replaced_by_720p_copies": 2
+      "superseded_or_generated_media": 7428
     }
   },
   "rules": [
@@ -113,5 +113,19 @@
     "Keep source/text metadata even for old revisions.",
     "Exclude superseded renders, silent picture passes, chunks, proofs, frame samples and expanded WAV stems.",
     "Keep full downloaded reference videos and samples local; publish source URLs, transcripts and analyses."
+  ],
+  "additional_archives": [
+    {
+      "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
+      "role": "full_quality_master",
+      "bytes": 267636447,
+      "sha256": "bd8d53c39707ddeba5f4ac1a96200f49f68554f70772a81605022bd06dd1fbb2"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
+      "role": "full_quality_master",
+      "bytes": 268014380,
+      "sha256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e"
+    }
   ]
 }
