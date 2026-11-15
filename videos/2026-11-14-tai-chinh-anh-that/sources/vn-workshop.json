@@ -1,0 +1,32 @@
+{
+  "id": "vn-workshop",
+  "pexelsID": 30383020,
+  "sourceURL": "https://www.pexels.com/photo/mechanic-repairs-machinery-in-outdoor-shop-setting-30383020/",
+  "creator": "Pew Nguyen",
+  "theme": "repair",
+  "documentedLocation": "Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A mechanic works among equipment, tools and machine parts in an outdoor workshop.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-workshop.jpg",
+  "downloadURL": "https://images.pexels.com/photos/30383020/pexels-photo-30383020.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "b301890da837ff07d17161180c710e0b91f1fe8e4911fa76383933c9b4cc1865",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

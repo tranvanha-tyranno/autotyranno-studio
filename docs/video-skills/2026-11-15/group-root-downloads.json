@@ -1,0 +1,192 @@
+[
+  {
+    "repo": "ishuagrawal/skills",
+    "canonicalURL": "https://github.com/ishuagrawal/skills",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "63278582cf758794ad2f42aad015f8a88c6cbdca",
+    "archive": "sources\\ishuagrawal__skills\\source.zip",
+    "archiveBytes": 99690,
+    "archiveSHA256": "6545fb35ebd034bdaaf091b11395eb4c41bc243b76456b923009faafa2524527",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\ishuagrawal__skills\\snapshot",
+    "skillPaths": [
+      "skills/video-by-reference/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE"
+    ],
+    "fileCount": 36
+  },
+  {
+    "repo": "Clipwing/skills",
+    "canonicalURL": "https://github.com/Clipwing/skills",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "edbefcbc3474869e6cc1e8a7ca583b0efd0dab7e",
+    "archive": "sources\\Clipwing__skills\\source.zip",
+    "archiveBytes": 11049630,
+    "archiveSHA256": "f9ee7d58a9f130f6ab36e907017e99ded6133c99589de14fa2578fb6462137f7",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Clipwing__skills\\snapshot",
+    "skillPaths": [
+      "skills/hyperframes-to-after-effects/SKILL.md",
+      "skills/real-sfx/SKILL.md"
+    ],
+    "licenses": [
+      "skills/real-sfx/vendor/node_modules/uisfx/LICENSE"
+    ],
+    "fileCount": 1025
+  },
+  {
+    "repo": "smixs/visual-skills",
+    "canonicalURL": "https://github.com/smixs/visual-skills",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "61a60d317f0fa0c3dc98902e58a7cb178838ae3f",
+    "archive": "sources\\smixs__visual-skills\\source.zip",
+    "archiveBytes": 384502,
+    "archiveSHA256": "eb573ca9778be918e4d33c51d8ad7152eac02d0758d37e0c1c82fed376b9769e",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\smixs__visual-skills\\snapshot",
+    "skillPaths": [
+      "image/SKILL.md",
+      "video/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE"
+    ],
+    "fileCount": 60
+  },
+  {
+    "repo": "Barty-Bart/motion-graphics",
+    "canonicalURL": "https://github.com/Barty-Bart/motion-graphics",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "3d83d987d658601d8a1269eb691622bdcd427335",
+    "archive": "sources\\Barty-Bart__motion-graphics\\source.zip",
+    "archiveBytes": 27964573,
+    "archiveSHA256": "50440369fec07b4c1232cb18fce38cdf415c8323e0032e672d0b74cda358da49",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\snapshot",
+    "skillPaths": [
+      "skills/explainer-default/SKILL.md",
+      "skills/explainer-engaging/SKILL.md",
+      "skills/explainer-high-energy/SKILL.md",
+      "skills/motion-broll/SKILL.md",
+      "skills/object-separation/SKILL.md",
+      "skills/sound-effects/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE"
+    ],
+    "fileCount": 160
+  },
+  {
+    "repo": "liangdabiao/math-concept-film",
+    "canonicalURL": "https://github.com/liangdabiao/math-concept-film",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "e34c84f83391674934f955316a37997f43dd8633",
+    "archive": "sources\\liangdabiao__math-concept-film\\source.zip",
+    "archiveBytes": 67150,
+    "archiveSHA256": "a5ebdb851dbf4cd126411902559a700d7b693d1bfe906be1ca67cc3b1f592ff2",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\liangdabiao__math-concept-film\\snapshot",
+    "skillPaths": [
+      "SKILL.md"
+    ],
+    "licenses": [],
+    "fileCount": 19
+  },
+  {
+    "repo": "Yusuke710/manim-skill",
+    "canonicalURL": "https://github.com/Yusuke710/manim-skill",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "a0048d9e265499038f34a9aa58ff16d306b5034c",
+    "archive": "sources\\Yusuke710__manim-skill\\source.zip",
+    "archiveBytes": 1117422,
+    "archiveSHA256": "aee63c9a65c03739bbc9f40d8bb3284d95185eeed6c566980b9270f858e3c0e3",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Yusuke710__manim-skill\\snapshot",
+    "skillPaths": [
+      "skills/manim-skill/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE"
+    ],
+    "fileCount": 14
+  },
+  {
+    "repo": "TashanGKD/tashan-research-skills",
+    "canonicalURL": "https://github.com/TashanGKD/tashan-research-skills",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "9a3001b329778e68faa045da2d8ec5abe90f2ae0",
+    "archive": "sources\\TashanGKD__tashan-research-skills\\source.zip",
+    "archiveBytes": 2747476,
+    "archiveSHA256": "fe9f13cb9b20640cd4c3b4327d8ca358d9097056f206e88cebddea69d4bb26c0",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\TashanGKD__tashan-research-skills\\snapshot",
+    "skillPaths": [
+      "skills/academic-writing/SKILL.md",
+      "skills/cognitive-profile/SKILL.md",
+      "skills/experiment-design/SKILL.md",
+      "skills/find-science-skills/SKILL.md",
+      "skills/giiisp-paper-search-apis/SKILL.md",
+      "skills/giiisp-scientific-image-generation/SKILL.md",
+      "skills/manim-agent/SKILL.md",
+      "skills/mcp-criticagent/SKILL.md",
+      "skills/papercheck/SKILL.md",
+      "skills/practical-course-producer/SKILL.md",
+      "skills/research-baseline-builder/SKILL.md",
+      "skills/research-dream/SKILL.md",
+      "skills/sci-employee-deep-research/SKILL.md",
+      "skills/scientific-humanization/SKILL.md",
+      "skills/scispark/SKILL.md",
+      "skills/skill-criticagent/SKILL.md",
+      "skills/statistical-analysis/SKILL.md",
+      "skills/thesis-audit-reviewer/SKILL.md",
+      "skills/visual-deck-builder/SKILL.md",
+      "skills/world-threads-entry/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE",
+      "skills/academic-writing/LICENSE",
+      "skills/experiment-design/LICENSE",
+      "skills/papercheck/assets/paperchecker-rules/LICENSE",
+      "skills/research-dream/LICENSE"
+    ],
+    "fileCount": 384
+  },
+  {
+    "repo": "win4r/video-director",
+    "canonicalURL": "https://github.com/win4r/video-director",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "02d1912ab251bf5235b45e8e7aad81b4bc786b15",
+    "archive": "sources\\win4r__video-director\\source.zip",
+    "archiveBytes": 34981501,
+    "archiveSHA256": "647ae087289ca68fc6a063414a78df09f0d5e4f550d09ffdccb0bb4198630520",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\win4r__video-director\\snapshot",
+    "skillPaths": [
+      "video-director/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE"
+    ],
+    "fileCount": 68
+  },
+  {
+    "repo": "Aaryan-Kapoor/video-production-skill",
+    "canonicalURL": "https://github.com/Aaryan-Kapoor/video-production-skill",
+    "externalCodeExecuted": false,
+    "reviewStatus": "downloaded_not_yet_read",
+    "commit": "662738c012174788d860fdee9627239e23cffef6",
+    "archive": "sources\\Aaryan-Kapoor__video-production-skill\\source.zip",
+    "archiveBytes": 43570275,
+    "archiveSHA256": "12fe8f52c620b4987ff6c670ae4326e32ea2b992a29fc48cfc45006716d889b1",
+    "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Aaryan-Kapoor__video-production-skill\\snapshot",
+    "skillPaths": [
+      "skills/video-production/SKILL.md"
+    ],
+    "licenses": [
+      "LICENSE"
+    ],
+    "fileCount": 48
+  }
+]

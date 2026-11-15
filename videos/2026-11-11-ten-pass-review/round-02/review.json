@@ -1,0 +1,14 @@
+{
+  "round": 2,
+  "focus": "Minh họa xưởng may",
+  "problem": "Lời nói xưởng may nhưng hình là refinery, bàn phím và phòng thí nghiệm.",
+  "change": "Thay hai đoạn ví dụ bằng video thật kim may/vải, giữ voice.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-01",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Kim may và vải khớp trực tiếp với ví dụ xưởng may, rõ thao tác hơn collage cũ; màu cam giảm bão hòa vừa phải. Cảnh chuyển sang office ở 25s còn sớm khi câu xưởng chưa hết, sẽ căn ở vòng 4."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

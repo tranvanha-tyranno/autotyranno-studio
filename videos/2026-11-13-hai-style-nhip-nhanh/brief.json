@@ -1,0 +1,18 @@
+{
+  "requestedChange": "Motion and cuts faster, upgrade both styles, add subscribe/bell/comment outro",
+  "previousBatch": "videos\\2026-11-13-hai-style-10-phut",
+  "previousUserStatus": "rejected-slide-style",
+  "newVisualSources": [
+    "finance-pace-comic",
+    "finance-pace-flow"
+  ],
+  "noPersistentSlideHeader": true,
+  "targetShotSeconds": [
+    2.2,
+    4.4
+  ],
+  "transitionFrames": 8,
+  "voice": "Nhật Phong",
+  "inventedChannelBranding": false,
+  "userApproval": "pending"
+}

@@ -1,0 +1,13 @@
+{
+  "provider": "ElevenLabs",
+  "voice": {
+    "id": "ZlVlUEsl3JykOGluaNu1",
+    "name": "Thuy Tien — Vietnamese Narrator",
+    "model": "eleven_v3"
+  },
+  "original_duration": 49.79,
+  "atempo": 1.016122448979592,
+  "last_word_end": 48.97047599919662,
+  "timing_source": "provider character alignment of exact take",
+  "synthetic": true
+}

@@ -1,0 +1,21 @@
+{
+  "plan": "512016323181774f64e5746f5315a451f7321e04c498f6e92c34e5f58498bddd",
+  "mix": "3c6f1deef2268fcd3dc15ec7a177f397c46657cc589891e86465049d217ca8e3",
+  "source": {
+    "src\\finance-demo-entry.tsx": "d715cc937b50ccc8122c4c3187c6d6f4bbb377b29518c2065fafa82d090960ba",
+    "src\\finance-demo\\BudgetScene.tsx": "1f61c84539b7618b11bea358808173a5071ce9af63f2159a05b9a2fedb921fd8",
+    "src\\finance-demo\\CastFilm.tsx": "389bd999714954ce118e6e94072e97b8b3e29247a85599dc9ac0a86b9c2c4f10",
+    "src\\finance-demo\\DailyScene.tsx": "c1d03c38600db5ed0f1177906b43f03b35e9a6d17a4676092b9cc46862bb858c",
+    "src\\finance-demo\\DecisionScene.tsx": "1a0c130cc62cb0b26c375f43972d7f06294b069e3841f506b2809cdcafeb32ce",
+    "src\\finance-demo\\Stage.tsx": "ec6fbc13998715a9cd80c4797b678a1c428bb39fa47bc6e99106331ae3658f71",
+    "src\\finance-demo\\types.ts": "cf6f04c76a7c76d03c75ab4a1a372c42d9b417d639f367008b7b256a54d4abeb",
+    "src\\finance-cast\\CastSheet.tsx": "09f7415549a73940465021439df8e4e678bda56e04b9bca911a86e7c3f20fa4b",
+    "src\\finance-cast\\Character.tsx": "432479457a26851d8466352380cd0430a922200241ee156a0c8802aca1db6ef6",
+    "src\\finance-cast\\export-cast.cjs": "eb64ba5672c289832bdfa43ad95816f8f49a2b19035bc249fa989463afbd2edc",
+    "src\\finance-cast\\index.ts": "ed34ed87020909ca6b8333032dc19ea7793c6533b29318a06b6e0e2b0563116a",
+    "src\\finance-cast\\preview-entry.tsx": "df6bc9b80831507200b0e20a3b951da5024cda19188307605de15d2e1d1adb2d",
+    "src\\finance-cast\\README.md": "087d52533347ff6f002e1e20655beeb51235b1f5646c049bcd05d543d92bd133",
+    "src\\finance-cast\\roster.ts": "0f8777226973909f97f01e6f1423c7102818e4f6aa19e92ec41761b11a4bf082",
+    "src\\finance-simple\\Minimal.tsx": "e589330f4af20e32565d5c11773bf7a7ddbf8056a2279146992def94709e5ece"
+  }
+}

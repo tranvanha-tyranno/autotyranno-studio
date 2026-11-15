@@ -1,0 +1,1023 @@
+{
+  "schema": "paced-comic-all-shot-preflight-review/1",
+  "revision": "r05",
+  "reviewed_at": "2026-11-13T17:17:51.703971+00:00",
+  "method": "all_shots_single_static_frame_review_via_ordered_contact_sheets",
+  "coverage": {
+    "sampled_shots": 186,
+    "contact_sheet_pages": 11,
+    "sample_fraction_each_shot": 0.62,
+    "all_pages_visually_reviewed": true
+  },
+  "decision": "no_new_major_numeric_or_main_content_crop_issue_in_static_preflight",
+  "scope": "Static layout and state progression audit only; review limitations remain and moving representative sequences are reviewed separately by parent/root. Not aesthetic approval.",
+  "bundle": {
+    "dependencies": {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/dependencies.json",
+      "sha256": "9c27233d459fc27ad456afef28c288ed18d84f014e0e032c22cd3e43be27492b"
+    },
+    "bundle_timing": {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/bundle-timing.json",
+      "sha256": "809af9ab28b8085481c3d5080b1f08212d56ba889ccf03c115222c8e00eb92b1"
+    },
+    "props": {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/props.json",
+      "sha256": "800cd9510512b5ddb413593c7a44ab48d8d83aca89689fadf40cfcfb0c28ca27"
+    },
+    "plan": {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/plan.json",
+      "sha256": "fa51ba04ea9896c2afa02c2983ac3a871355b2084f459f047e11ddb70da181c8"
+    },
+    "comic_sources_match_bundle": true,
+    "source_hash_comparison": {
+      "workflows/reference-video/cinematic/src/finance-pace-comic/art.tsx": {
+        "bundle": "224f7931244fa9646765d99c040987cf158f42cbddf821001799decd27b5bd42",
+        "current": "224f7931244fa9646765d99c040987cf158f42cbddf821001799decd27b5bd42",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/continuations.tsx": {
+        "bundle": "9f3a5adfc3019aed7bc569a648a11b10da79afd57c55db8181472894ad37153b",
+        "current": "9f3a5adfc3019aed7bc569a648a11b10da79afd57c55db8181472894ad37153b",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/decisions.tsx": {
+        "bundle": "08e86a3019daea93deaa782dd1719ea580553577f8a4c4c3f026f1be810b383c",
+        "current": "08e86a3019daea93deaa782dd1719ea580553577f8a4c4c3f026f1be810b383c",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/final-states.tsx": {
+        "bundle": "829bd920f3179e4a95b3cdd5d60f8a8a7d5746b1b8e39fac35ea8550f0aac16d",
+        "current": "829bd920f3179e4a95b3cdd5d60f8a8a7d5746b1b8e39fac35ea8550f0aac16d",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/index.tsx": {
+        "bundle": "26ffedc40f84afe186a14455d51fc16de9ca910c24a75d5d471842ce279614ea",
+        "current": "26ffedc40f84afe186a14455d51fc16de9ca910c24a75d5d471842ce279614ea",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/money-scenes.tsx": {
+        "bundle": "9b4dcfce5088707803a16d42b368e4f57291f0de0099236133891a6b7d7a5a29",
+        "current": "9b4dcfce5088707803a16d42b368e4f57291f0de0099236133891a6b7d7a5a29",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/remaining-scenes.tsx": {
+        "bundle": "7d5d9cefbdd122e0cfb08081207618dd146f9786aefe8ac9ae8df32e6fd17a93",
+        "current": "7d5d9cefbdd122e0cfb08081207618dd146f9786aefe8ac9ae8df32e6fd17a93",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/timing-scenes.tsx": {
+        "bundle": "fb3abbe31ef96b37e637ac26fb408b8a573b26efa45ea650186006c9eb317ec3",
+        "current": "fb3abbe31ef96b37e637ac26fb408b8a573b26efa45ea650186006c9eb317ec3",
+        "matches": true
+      },
+      "workflows/reference-video/cinematic/src/finance-pace-comic/types.ts": {
+        "bundle": "13759cb0294cc1c69979ed4fd390db054d54385f9a4f8b54d3f9bcceac3a25b9",
+        "current": "13759cb0294cc1c69979ed4fd390db054d54385f9a4f8b54d3f9bcceac3a25b9",
+        "matches": true
+      }
+    }
+  },
+  "positive_observations": [
+    {
+      "beats": [
+        "b04"
+      ],
+      "observation": "Unallocated raise now follows broken-bike need; future buffer use/replenishment no longer appears in this early beat."
+    },
+    {
+      "beats": [
+        "b17"
+      ],
+      "observation": "Internal move, withdrawal to cash and duplicate-record crossout are three distinct states."
+    },
+    {
+      "beats": [
+        "b23"
+      ],
+      "observation": "Physical maintenance/replacement need becomes dated obligation, then expected items are placed apart from unknown incident."
+    },
+    {
+      "beats": [
+        "b25"
+      ],
+      "observation": "Account obligation, labelled-envelope transfer, unchanged total and protected-spending choice differ across all four parts."
+    },
+    {
+      "beats": [
+        "b26",
+        "b27",
+        "b28",
+        "b29",
+        "b30"
+      ],
+      "observation": "Timing explanation now uses distinct due-date, carry-forward balance, bridge, reminder and two-question states rather than repeated calendar triplets."
+    },
+    {
+      "beats": [
+        "b31",
+        "b32"
+      ],
+      "observation": "Needs now use house, food, bicycle, family bag and protected health/obligation actions across eight parts; shield/scissors loop removed."
+    },
+    {
+      "beats": [
+        "b39"
+      ],
+      "observation": "Payment from reserve, lower reserve and paid receipt, repaired bicycle and small suitable refill follow the narration."
+    },
+    {
+      "beats": [
+        "b40"
+      ],
+      "observation": "Two-pocket transfer, purpose-assigned envelopes, old wallet and three assigned wallet compartments are distinct."
+    },
+    {
+      "beats": [
+        "b43"
+      ],
+      "observation": "Dated obligations accumulate from existing obligation to multiple installments and the final row."
+    },
+    {
+      "beats": [
+        "b38",
+        "b48",
+        "b49",
+        "b50"
+      ],
+      "observation": "Fourth parts respectively revise transfer schedule, exclude internal transfer as new expense, insert new bill into intact planning book, and retain review-day decision."
+    },
+    {
+      "beats": [
+        "b14",
+        "b33",
+        "b41",
+        "b45"
+      ],
+      "observation": "Earlier scoped upgrades remain visible: selected frequency, major options, cumulative total-purchase costs, useful bike versus unused parcel."
+    },
+    {
+      "beats": [
+        "b01",
+        "b06",
+        "b07",
+        "b08",
+        "b13",
+        "b15",
+        "b22",
+        "b24",
+        "b34"
+      ],
+      "observation": "Sampled primary numerical labels remain readable; displayed 12-10=2,14-12=2,1.8m+0.2m=2m,20k*30=600k,14-11.4=2.6 and120k*12=1.44m are consistent."
+    },
+    {
+      "beats": [
+        "subscribe"
+      ],
+      "observation": "Subscribe, bell, written comment and sent comment states differ; no invented channel name visible."
+    }
+  ],
+  "remaining_visual_limits": [
+    {
+      "beats": [
+        "b09"
+      ],
+      "observation": "Fourth part revisits shopping-cart composition as a callback."
+    },
+    {
+      "beats": [
+        "b12"
+      ],
+      "observation": "Parts3 and4 use same paired receipts and pencil composition for the continuing monthly-total explanation."
+    },
+    {
+      "beats": [
+        "b18"
+      ],
+      "observation": "Parts2 and3 share paired reimbursement receipts; part4 returns to meal composition. This remains visible repetition."
+    },
+    {
+      "beats": [
+        "b24"
+      ],
+      "observation": "Parts2 and3 retain same conditional jar/receipt setup, with changed receipt text."
+    },
+    {
+      "beats": [
+        "b47"
+      ],
+      "observation": "Parts2 and3 retain same cups/reduced-frequency setup."
+    },
+    {
+      "beats": [
+        "b01",
+        "b17",
+        "b24",
+        "b28",
+        "b29",
+        "b36",
+        "b37",
+        "b38",
+        "b48"
+      ],
+      "observation": "Some secondary text crosses prop edges or extends beyond jar outline; primary content remains within image, though visual polish is limited."
+    }
+  ],
+  "frames": [
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b01-p01-00062.jpg",
+      "sha256": "5e20e8a9438364cafa33a98f610a146e1c442751664e62d8026abd58bd038a9e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b01-p02-00153.jpg",
+      "sha256": "0bb6c280419aa10b81ec890b09288941dc9de80b9f2b5ac8735c8f1f7ec2f27e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b01-p03-00223.jpg",
+      "sha256": "2f979f3105f5cf2d6053d94833db3c35af9e9018c25d5ae6b80dcb3ca362456e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b01-p04-00311.jpg",
+      "sha256": "b6fa2d0f95b6ff0a37c634c828401b125dc6c311be5f32592982b7854c9ec789"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b02-p01-00421.jpg",
+      "sha256": "42cde051a04113212be8188befd7ae52dd4c7290d20e25b7853f34be5dc3cc12"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b02-p02-00538.jpg",
+      "sha256": "04fd620dabca73a65eb89dd76f670a9be21d0be31f367f19b26c2c1805c46493"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b02-p03-00622.jpg",
+      "sha256": "dcc0e99167af6348234c06626c4747bae2f43b2c271dd878ebe764869a38c03a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b03-p01-00708.jpg",
+      "sha256": "60d5ab0d73e5a46ec493b858469c404bc1da9818425f2558c5ea7ec2c1ae8ba2"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b03-p02-00819.jpg",
+      "sha256": "91541bc88a03ac0116f3b803a04597d91f6f8da392919a79842f77f8260cd7b9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b03-p03-00927.jpg",
+      "sha256": "f0922fce8aed30ebcbc1e52349ab09da24815cf6e032be7a46424d18639c12e4"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b04-p01-01015.jpg",
+      "sha256": "c5d9eccfc429833d8f194ffa84281951a3cbf590e852d7a7545ce3ac51f567d3"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b04-p02-01094.jpg",
+      "sha256": "12204e2e58d58b9a1d515083e8907becccd95fe66a85fb25a50ef38a2d11c70e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b04-p03-01179.jpg",
+      "sha256": "eea024917a2be5d99b6c363c0c4c2dea24fd62f176c7962399bac510635909a5"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b04-p04-01260.jpg",
+      "sha256": "2e15f795f861b129c888ca28f41668b19032af3ed30133b6cd4101ae910b6cda"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b05-p01-01346.jpg",
+      "sha256": "0ba9cc55daf0b0526133cbf4be7281ac50aa26835a23629ea1cb4e299a5586d8"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b05-p02-01460.jpg",
+      "sha256": "0870f2b87430be556fcf248c2b65fd0e42f91d07112e015fe507357f693555f5"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b05-p03-01569.jpg",
+      "sha256": "4be61c552f938ef27f71b7e90a6239d8292638b62397ca4c0587ac4f35bafc65"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b06-p01-01676.jpg",
+      "sha256": "b3fdebfa2f673a86d3356317a284bbfd1aa7c34c4ae1e8741324f27367a68753"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b06-p02-01766.jpg",
+      "sha256": "00c0b934c13621c56d032ecae6f00862c95d0a6a73e85c2707f474fe5d95c351"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b06-p03-01844.jpg",
+      "sha256": "4799a0a70d3596e124df84f16ec52e2f8f6e7a91fac12e37c5eb6169027655c3"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b06-p04-01918.jpg",
+      "sha256": "9da0b31d78a231408e522a6faf5c20ed1014f54a1e2207fe5da101543381da8a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b07-p01-02021.jpg",
+      "sha256": "d422f53c871fcecce3348863bb77808e270cc9cb8c601c27bc77d1d2718f63d1"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b07-p02-02127.jpg",
+      "sha256": "81d728b24c18eea9b23e4a66e925c86a181f897d2fee4c5108410756786da46c"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b07-p03-02247.jpg",
+      "sha256": "685d643fb12bcdf69dc94f556af6e6e99e7a90143eb2ee42f89bde16cf43c84f"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b08-p01-02333.jpg",
+      "sha256": "d00710793d1f4ac135c240a1b041ece98d4b60ad1337d58018aca4d967fe9275"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b08-p02-02412.jpg",
+      "sha256": "799f142af0988d31c7f3fec31466feb8230ed6646b109d0b29cfedd2d2e447f4"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b08-p03-02505.jpg",
+      "sha256": "e69644cab0accfd0ea6dbe0619f5d969ff45d88f81ae2efa15cc82fdc8a7560a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b08-p04-02620.jpg",
+      "sha256": "79bdb8864ae689d42ee063befc4cf74ca20500d333255bd660571009de38801e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b09-p01-02734.jpg",
+      "sha256": "6079d1703e443ec237e49e0b0f8835f65e31f765793acc72682ce9c76994c4da"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b09-p02-02834.jpg",
+      "sha256": "9d9b105d3a14f15575b82caee72837fe51c0b714f9b906d2f1ddee7737da8c08"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b09-p03-02932.jpg",
+      "sha256": "d9084d685ebc72a55704925a83d2bc0546b5d51d44cd1bed60e62be93cc8321e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b09-p04-03020.jpg",
+      "sha256": "e3f12a3250060b94a4206efbaadb93a47d78db5853c8acf2230475728129f307"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b10-p01-03118.jpg",
+      "sha256": "cd5e337f8dc4adea645dedfd9347e20b29b2f2f81c10ba530dc677f5871f7650"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b10-p02-03237.jpg",
+      "sha256": "8c4571bfd2eab050ba8439fd9e87a51daf36a69fd37a56bea253b8796e1aad87"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b10-p03-03354.jpg",
+      "sha256": "c13e8801c059290b15e8fb46377f3aa4dd2f8f973fbc5ae43d63dba942378256"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b11-p01-03463.jpg",
+      "sha256": "874780701a139bf9fca75c15cfe224b7e20cb86ae4fec2a821f165795de2cbb7"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b11-p02-03575.jpg",
+      "sha256": "74aa9b61a1736755e43e3066dba90414a92cbdb019190b857d8d4b4b1fb67c67"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b11-p03-03686.jpg",
+      "sha256": "354ae06d3417ae4dd080e14a7f7f35ba00acf448679c96d5e78d519aa72b5bfa"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b12-p01-03772.jpg",
+      "sha256": "a99f431e6e3230bd60aae8949bf2d5468a47aaeacfe335a44212dc266102c184"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b12-p02-03853.jpg",
+      "sha256": "95b5376746d5200b3bd3198c40b4d18b7c40f0c6e292a776748b19458893cf40"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b12-p03-03955.jpg",
+      "sha256": "aa0b96046bf04ca4ed4035fd54c6d948e4a46370d0e756c0dbdb9a354701514c"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b12-p04-04050.jpg",
+      "sha256": "a852561a2ed73fe16d7238ea03cecc4c6a2bf3c9ce21ecd4b3b56674d22d0eab"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b13-p01-04134.jpg",
+      "sha256": "15782f4fe6716ffe701a4530d505883a3f553e1b80ebb5be12cf7f5eb5b42087"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b13-p02-04234.jpg",
+      "sha256": "8e645233a59a9f319ec384252668999273c58367eb7e9508503138ec11e6fbfb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b13-p03-04332.jpg",
+      "sha256": "c59bf310a302a78c5977db180dedb1238cff2230d6bc93919296951c12222cc4"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b13-p04-04418.jpg",
+      "sha256": "15913d74f78e90e9e48563c9465ef0865a447745711d2f026c09e372394e728b"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b14-p01-04526.jpg",
+      "sha256": "ff49aff307fdcdad373bc1e5c2195c8c8feccdd904fda5f9a7a6bc299b89f7f6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b14-p02-04639.jpg",
+      "sha256": "a80a9e43120f225bdbace1eb32d5ff943d059b8e895d87c4726ab4d46a8de4d6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b14-p03-04713.jpg",
+      "sha256": "232d297b2e190e51e2f7a9004aefd0cee12221642114eeee2e05725e2b99bab9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b15-p01-04773.jpg",
+      "sha256": "b739346ceb15fc8586d08ca744e0bde0bbbf553cf5bf67467e77d20a38a13361"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b15-p02-04848.jpg",
+      "sha256": "e468e841c654ddee7685bfb55c7093a24928ee07ea25ad2e03f4ae00587147fb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b15-p03-04928.jpg",
+      "sha256": "4f09f92794cddc559f7a6e79ee3e8ada517691c1254f737ae515b962832a739b"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b15-p04-05006.jpg",
+      "sha256": "ab48d2c1dbfd3408f6321dfc05a9d5cbfbbdfcb2a7aee3ba1a6212f49871ae5b"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b15-p05-05098.jpg",
+      "sha256": "d17df3754554febe7c24e73ec47010f06e4d7277dcfd62e826ad981835be603e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b16-p01-05188.jpg",
+      "sha256": "9d31d55e71723d181b0982d5ed448b727cf24122951680fa10c67982c4f36080"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b16-p02-05295.jpg",
+      "sha256": "fc722a9296ef5d4fd819bb0f114a6d86062d24b1142b859f427672bb47daa32b"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b16-p03-05408.jpg",
+      "sha256": "ac2ccb98e7a79ca68d2b5c3ae7c2d15bf8812c4938b4b9489081a516ee069676"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b17-p01-05515.jpg",
+      "sha256": "cce9a2ce78fe363d06c65216c2eca26691c4c181cb45ac3662a4566c7e8abeac"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b17-p02-05627.jpg",
+      "sha256": "c966951f45b4cdd48d048eb54708ec1ccdd5392b2e20342fd39c12a9b20ee9f5"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b17-p03-05741.jpg",
+      "sha256": "de7c25ab6a7bf550b998e3e8ccb48acc8af5180671aa1ad5018192355d6880a9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b18-p01-05845.jpg",
+      "sha256": "800406920468528702688d30ed02523b40065200432e051bd1043a3af5fc323f"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b18-p02-05935.jpg",
+      "sha256": "e4e6aeba4b3dc0dafb9d658654284a793cdd7b5c485d16a4ef024f644e360f96"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b18-p03-06015.jpg",
+      "sha256": "c6e94033ef40f7eadc03b87fc1f3d184f9c5581f15a570e69f6e43ad83fada15"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b18-p04-06089.jpg",
+      "sha256": "33409637ad8e28939bd228badeb99ec70eedc2150a2fae08edceff52295e61dc"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b19-p01-06194.jpg",
+      "sha256": "3410fb3d07806598b99ef505de410a14ce89162aeec8509a005dcef0c7b24bb3"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b19-p02-06323.jpg",
+      "sha256": "73ca8e561d84335a199081f81d800d525292c047b5bc9e4765f4701053315de9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b19-p03-06437.jpg",
+      "sha256": "11725ad09e027f8e9456b77ef20f26484a1ced4648eb30bdb27125cb9dbfaa40"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b20-p01-06532.jpg",
+      "sha256": "21d07b0accf98bb621a791cfb93a0bedc6acdd6123cc594e68a5ab017e67d87e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b20-p02-06632.jpg",
+      "sha256": "73247fe704069d2e665d04933df35c59b2b24abe291c203f74fbd211b8c56570"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b20-p03-06713.jpg",
+      "sha256": "59312c80252c83e30bef58efdd8393149cbf9f44ce254d510dd9cae960c30899"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b20-p04-06803.jpg",
+      "sha256": "abdd5b67ab6ec999002de94f4c1e3b203a32eaf56f5ce01e4afd0eba3e39ef61"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b21-p01-06907.jpg",
+      "sha256": "ed145772334fa89c6dd9947b260d8f2d3cfc333d0d78398215b8f1f9a77267ca"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b21-p02-07027.jpg",
+      "sha256": "36df6d0d3a0e4cbfe255ce5101f415a5d144583852e7c3ad430b661c06b557f2"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b21-p03-07140.jpg",
+      "sha256": "f9801b4176c9f1322e743fc61dd43946da006401a254db4ca01b279e6c5db99e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b22-p01-07230.jpg",
+      "sha256": "930af12bc027f9fad4af2999811c3b12a98f8fffc503ca3301e5d720927d53b0"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b22-p02-07322.jpg",
+      "sha256": "c544ad78156e364d068d82d61a5fca227fbb5605e1885bbe3bf43ce54e884494"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b22-p03-07403.jpg",
+      "sha256": "f76ef230e52b97999ccb1b1040ec624564bda85497aa93a58e791d3492bf8607"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b22-p04-07513.jpg",
+      "sha256": "e7374f8c90737c4291f9df794fec10e373f7c1a774c377985e12689f7577315a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b23-p01-07634.jpg",
+      "sha256": "b89f11bd7adb4ec76a405b17a66ded879b534848b630f4f77c363a7525db86e9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b23-p02-07743.jpg",
+      "sha256": "9dc122971d793a1a2d2fdd79d25dfce845b85be88dc9a22f83f8a59fadbf244a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b23-p03-07858.jpg",
+      "sha256": "972d158f92c7c8e9cf247648fabaaa9ecd81a1593087892bf33ac94f24d29147"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b24-p01-07977.jpg",
+      "sha256": "96868a7e87e5b23934c046d2d60e060fa17657b16ad8744b070868b3f26e2c01"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b24-p02-08095.jpg",
+      "sha256": "bee3d268e26235d0070b25633101db7605ccbf780aba5394ea5752745598f763"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b24-p03-08197.jpg",
+      "sha256": "8ec346420c782f5be24ab91ffb88e922427611ab4335eba9b7da1af33e01a8a0"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b25-p01-08288.jpg",
+      "sha256": "5c3ce911d2c41c2747afb7d1fb4a8768ce922bb45c4f28cabc6a431bc71d3d47"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b25-p02-08376.jpg",
+      "sha256": "f4f1e76915e47fd54b3dccabd6fa040f160a186fab6bf551e72c0ce6b502a6a7"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b25-p03-08455.jpg",
+      "sha256": "db833102c2a4cb7b86e2178b4f35e766527ed27f929e6975bccc2d0fbd89e1a6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b25-p04-08533.jpg",
+      "sha256": "77acba42d954bf4695834758cee79a96ef9bcaa73af7f3b5e297d97b148ff349"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b26-p01-08612.jpg",
+      "sha256": "66f349b6ad0b5525f1f578abebc0db8bee919ea73486e47d398e696856abd6cf"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b26-p02-08706.jpg",
+      "sha256": "bf37269d6f08fcfc8be77d60e382fe63037085602bb7a35c9cbbf507afa275d3"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b26-p03-08818.jpg",
+      "sha256": "101eaaef52b75c2ed04c7b76bdec4614b2d6a5456393fae30e8e2f5a9c374875"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b26-p04-08911.jpg",
+      "sha256": "7c56b1a0b61eb39d3051600a3719351cac72122cfe2866cdf11685c9abc1af56"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b27-p01-09005.jpg",
+      "sha256": "d81df6b20994773e60d30fb5966b68b05ada3d1e3f1eae1db397f4e34e857ff0"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b27-p02-09113.jpg",
+      "sha256": "3fb9e971e7057b1ed13eedae3a5b70fb7d0d1041a7194b0d28ab856de60bcbef"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b27-p03-09192.jpg",
+      "sha256": "7523082b67a6893d9e0850f018a14ba65ac5df74eec39105621b1230f1be1fcb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b27-p04-09273.jpg",
+      "sha256": "b62b29b4328fd0a3acc6636e77f9ddc2fa22baf16ad227b7251a8e658f139374"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b28-p01-09352.jpg",
+      "sha256": "eb8aee83b5847531c306a6c972e072cf0b2156d0eebd9447568490303efd1ed7"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b28-p02-09440.jpg",
+      "sha256": "aeb9dcfed60c050342ff9c2d148fa65e6d484b2846e49e2c44bc73dee98fa211"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b28-p03-09532.jpg",
+      "sha256": "8093341b297909d86ad982848785961593bff46e7f8749b86d96b50f84f04c7e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b28-p04-09608.jpg",
+      "sha256": "1349b0495663af384f40cd71ce33795046845ae89a93adcddff655756bc9cd12"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b29-p01-09694.jpg",
+      "sha256": "8d6cd2d685f181635dcbac98611f640581e9fb4cc10e950588ec23d8288dfea6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b29-p02-09797.jpg",
+      "sha256": "9bd95742716b9c89cec66531ec0a20f571f5b54e02bf1e65c2c181521fa21bf5"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b29-p03-09906.jpg",
+      "sha256": "7f64ab82c590e584f4020dc9f83550f893d4bbe506400bed010a6299fbe77840"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b29-p04-09994.jpg",
+      "sha256": "e4ddfe6d54d79563f2faeb6a1dd8003ebade69619cdf6d0b69c435f1cfe32022"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b30-p01-10097.jpg",
+      "sha256": "f6b58287ff445efc81a711cf42567d78f2d02a4cbe2b88e091172fc2a780d110"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b30-p02-10185.jpg",
+      "sha256": "73262be1ce91c3b0f168a4f2fe42a6a7848f9017598ecc12c55a68ab9a2f91eb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b30-p03-10280.jpg",
+      "sha256": "93c8ab5f8b7a3ce6fcd289dad4fdc62a89f5ab881e6817ce16cab39bb57237b1"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b30-p04-10382.jpg",
+      "sha256": "684b18f6d4a07578444b174cd6ec608d3d8837b1f228d7d824635524059a51f0"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b31-p01-10459.jpg",
+      "sha256": "3439e9c4dbe8858f8d3d37507bb9cef6b5184f93a87e798a08eb84e0b7a0bd10"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b31-p02-10532.jpg",
+      "sha256": "9e684318055f228319a137cbdf910ca893b31e83345d3f0e8c29274f63044053"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b31-p03-10621.jpg",
+      "sha256": "bc1a3a63ddc80b0a0303c947942305c95c5d8d3d6a8e9b5bd8cec92e03675657"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b31-p04-10714.jpg",
+      "sha256": "523ce621e9935698e483c91109ed22809dcc13f3aec5593cd49a7021f520e024"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b32-p01-10822.jpg",
+      "sha256": "a9f0a652ed9d3cd9df7a24739f2458e744ee5dd7a008fa7ee2caa2d8d1a768c2"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b32-p02-10916.jpg",
+      "sha256": "762b87c6a58e48db825e1d73a19e1bba667ba734f080c0b105ab66252624982d"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b32-p03-10999.jpg",
+      "sha256": "382ce8159753ff85711ef63a2d096b277f3367f81d6950bf7ae1f241c6729218"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b32-p04-11082.jpg",
+      "sha256": "ed1e285c7c3911e73c5fdb63538062ecf384b9c48c7e574615ff581ea2b98edf"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b33-p01-11190.jpg",
+      "sha256": "40526d4cc34cf1f7d9f8c5f21a9ab60f4a7eb6b64c13c70e99ef51bc37dbaf02"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b33-p02-11313.jpg",
+      "sha256": "7023693b4c1ecd242746aed58f5532fed959159bc9436ca0c9dbd38d142844dd"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b33-p03-11431.jpg",
+      "sha256": "fd76f0cf2c61dd0e9c9632d462ea6cc676d3c8d7eeca03f2d88a8488a73abc31"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b34-p01-11527.jpg",
+      "sha256": "94b8270be5b3e65db34c42b245b5139963fd7b3d6d37ac55667235b5ebf7904c"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b34-p02-11643.jpg",
+      "sha256": "2147773d37d8441a522d29f410a94f6e050990a96683b1cc79622c2631ec2929"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b34-p03-11762.jpg",
+      "sha256": "b691172b45c6ef59d566e571c7d8322df0aa0b02dde43a46cd26ea78804f8210"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b35-p01-11881.jpg",
+      "sha256": "7f79cbf9263b2b189c548f959dcc0eb868a9daf627aa65dea8c50a536bbef413"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b35-p02-12004.jpg",
+      "sha256": "9c32193a466e0c61e22574ec2ac626d36bd9209efc5ad5b19ae97bb24b375107"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b35-p03-12114.jpg",
+      "sha256": "4996885fc5712eaedc4cd31d0854a99569f60af84d04857a962aa60314b51e48"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b36-p01-12232.jpg",
+      "sha256": "2254de7ca869bf99803f194698b1ec818629329c4504fbda5a3981ae6b64e75c"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b36-p02-12341.jpg",
+      "sha256": "9c9cd96c936cf3e28b338ecc06e0538d456e5d35a8d0f8790660e19d25a2cdc6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b36-p03-12442.jpg",
+      "sha256": "6f36474bcbcd817eb9a21268293fd170fefdc56c2f1b2746c7da78b318c77c97"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b37-p01-12541.jpg",
+      "sha256": "8a3c69d3104a55f01ad90a746922af649e659d18eb3ebdea0db1eab61b01c0f4"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b37-p02-12644.jpg",
+      "sha256": "cc80874ff5dde823664307897033313db4cbc2fca90a701a12598c3161cd0738"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b37-p03-12761.jpg",
+      "sha256": "50d2a7e77ff194ae5c7941099370d034267d30bbed5c65adc119a9e32b403aeb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b38-p01-12858.jpg",
+      "sha256": "5111ac603fe9d233b1224e21a3832cb32c8f7304eb2da6df1f8d251d786c48e8"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b38-p02-12930.jpg",
+      "sha256": "b6b0a293533bf7fb4fa7549a4bf09123ca9d4c92d58306f377be0876d998ee44"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b38-p03-13018.jpg",
+      "sha256": "345db33a1310b0a94d6e821bcf65847eeb7a9013c680ea8328fc2dc3a28b0f10"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b38-p04-13131.jpg",
+      "sha256": "4f2fb01526798b57f6b31919efe568aa65582f77963059d3f1e0519157ba7ea4"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b39-p01-13230.jpg",
+      "sha256": "31ae6783414a5bdd5ec9c846c6176ddc4b0aa6032cf80f89785d11e16c6869f5"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b39-p02-13313.jpg",
+      "sha256": "d76003fbb66f3a46c2003486d18cff443517676bea2499f4aab3a3548e9aeecd"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b39-p03-13396.jpg",
+      "sha256": "08557ded10d1e9a3de52a752c74485890b398e86c1913b9315df2565b5fc1164"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b39-p04-13493.jpg",
+      "sha256": "ea3c5cdac92933359922811a5671bb9d102c8b56db6c71e34b4d4c760cbf4c5a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b40-p01-13584.jpg",
+      "sha256": "479e4ca2020cd1f793f3c2956e22c0d8ce8d4db1fd4d20810aee6aa1ad5c91ff"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b40-p02-13689.jpg",
+      "sha256": "bf650cd1c77405d1041963f5de8221e742fb8ccdca304a740cd0ccc8719473ff"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b40-p03-13799.jpg",
+      "sha256": "dc24f157dcea481017299f75a3c661e4e333dc32ee43e35e094c4fd5cc220a32"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b40-p04-13890.jpg",
+      "sha256": "bc3331a5d5696e12526ba5c6d59226971bcb8497775b577ceb4d444e88dcc074"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b41-p01-13970.jpg",
+      "sha256": "b5d7a2058ee33dcccf18f4ee62970f0ad11311f4946ac02affffb9b1c7a6a89e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b41-p02-14065.jpg",
+      "sha256": "266bcc0e80070193d94dc5f11a1eb19d7d26f346dcb5c12cb96215bf811c3930"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b41-p03-14161.jpg",
+      "sha256": "1fc78e6c7d3b49113631600bfadad4e24a16034a1bf8809f91da8ff6902095e8"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b41-p04-14266.jpg",
+      "sha256": "ad366a46c6167b5fad4080e3f51bd9f3bf5e7cac84b726fbf816afb36744da58"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b42-p01-14349.jpg",
+      "sha256": "38749d4b03da9b791baeddb2a5be8a7ebe144b4279f4425c36ddf815983d5a62"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b42-p02-14424.jpg",
+      "sha256": "15d1ec8329d87e614fd56363be026bfcbac0536baa74a0053d21971bcbee6b8b"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b42-p03-14528.jpg",
+      "sha256": "8d1bd733c417677c49182d95728cc11f3e3fce2f8735c8ba93ca8aa203c45a14"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b42-p04-14627.jpg",
+      "sha256": "5ef23801f12ce93069dcc11250ed8ff238f05c26e6301b86ce64b33f0f918681"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b42-p05-14699.jpg",
+      "sha256": "a355f1dc7a42a1d0268adefdd120ea1208b11b7e443c4bf860fa464a658902a6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b43-p01-14781.jpg",
+      "sha256": "b529a5f145446fd9242ec7788995d067ca91c0b4e005d7e89d2df437f935edc5"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b43-p02-14883.jpg",
+      "sha256": "ac4f9e0fafa21df662071fee6451deaef9461965f88a81d0b1706002536f142f"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b43-p03-14989.jpg",
+      "sha256": "17b12c392aa65b697da95162e710483caae3153ad0a20fa3c35a4e16e3021f38"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b43-p04-15085.jpg",
+      "sha256": "9bab9b25ae52d19c77babb93066c8d5c1acc38701a0fc8899211db0f818decbb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b44-p01-15178.jpg",
+      "sha256": "ed69964ef4a4de1727034260946a11adbc17b70321728d108d21f72f5dc001db"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b44-p02-15299.jpg",
+      "sha256": "9a038ca3a2d4634c6cd0c0fe1571230b8767fa46e28c2109a36e4094e50d350a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b44-p03-15431.jpg",
+      "sha256": "c4d9e9779fec8d33ddb992df12b86b60fc8c591a5a856820e4308266af53cd9c"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b45-p01-15546.jpg",
+      "sha256": "84e8d8dff5f89cc5328dff999c15224d7c9ecc8a57f7864212e6e77e766bcd52"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b45-p02-15645.jpg",
+      "sha256": "84b72347817a22c67663f6873b865fdd11cffc3769ce98a581291463ebd0de16"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b45-p03-15723.jpg",
+      "sha256": "efae1d7fd480cd9ae407d6f2eb4657ead104e5dfe4672280b5abf82e25fcb504"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b45-p04-15804.jpg",
+      "sha256": "2df391e411e33cd8123e8dd12f5485348fcfdced69ce65c2f452730a36780317"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b46-p01-15886.jpg",
+      "sha256": "608ba87a34f33bfc8b1324e5b3915074ffeef59464b3910d06a0b613efafe132"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b46-p02-15993.jpg",
+      "sha256": "046b9cbfe8365587cc08b25b8724b1a1bc901ed14faf41946723e658f101f6da"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b46-p03-16117.jpg",
+      "sha256": "f7de324ac807af72940977eebebccc7fa643b733e035f81b5f0b9ef61dd8f693"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b47-p01-16243.jpg",
+      "sha256": "acf50a89f307a9533439dfab14c9837e1b4e4ea68901dcc9f4f41cfdb4a96719"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b47-p02-16343.jpg",
+      "sha256": "ee992e2671ba0440a614af8f5c03b9575c4fa924a9dc60cffcb1607d33a6e907"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b47-p03-16430.jpg",
+      "sha256": "a550743cd6835a5790007b941c3df074bc9018e1746492ca345a9f9a2e65d4b9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b47-p04-16534.jpg",
+      "sha256": "7fa64ca5db652b2ff15825db8e14b620f27c3dfbae632b49446eda4827368ab1"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b48-p01-16648.jpg",
+      "sha256": "e20feed3bcff3651a6f8e097af97a6155c3b47ab79063e377dc64ff17941f5ec"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b48-p02-16755.jpg",
+      "sha256": "c2c1ea151b4368fbbe408382a5dbb3aee1e7a2358f4c22f4259b2f6ac87a84eb"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b48-p03-16826.jpg",
+      "sha256": "8634f307068f7395ff20562b74be350c9f1d7fa4e54ffd6c3ae46b8f5487f554"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b48-p04-16903.jpg",
+      "sha256": "b43fc1cb954fc4b01cdeeda88ede02e85ec21e4349aa041907e43f96bfbd78ae"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b49-p01-16996.jpg",
+      "sha256": "28b42a9ed21585e46c3335c83b3345177ea8ff1499caa99afec69effb67c25c3"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b49-p02-17090.jpg",
+      "sha256": "6d8abd4127b0bc05a675f9cae4e0fb52503ddf1d22b49f701b7c774e7937e70a"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b49-p03-17171.jpg",
+      "sha256": "30f111917333bb739597b500e49a78f68ca8b218565af9f09e69cb20b199fc18"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b49-p04-17284.jpg",
+      "sha256": "a6b07e8bc2ab62e3d57387fbe7520ee159e90429aa5779f227a5ffbf28faf62e"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b50-p01-17395.jpg",
+      "sha256": "f4656d34e88b0e8ea2a2b2b049f8850f0f2e932b749b0ad8e0223c9d514e2e0b"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b50-p02-17483.jpg",
+      "sha256": "a2c7ce5479ea8d8187d145d8e6e78159f143e9dbed01a0d2c637746156f92cf9"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b50-p03-17575.jpg",
+      "sha256": "28f575c5c232bc749586be9d7b56b389b7d64413a57b81b3601849403ae3e023"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/b50-p04-17693.jpg",
+      "sha256": "1d8350d5a1c40f4c1cd3aa4b93c67ec980a6f5f009e7e173ea296ca3db38f5b0"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/subscribe-p01-17798.jpg",
+      "sha256": "4920fbdefbd5079938ecb1aa154f7ceb5efae5fc4399fefd7d90841d8c92e1ba"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/subscribe-p02-17879.jpg",
+      "sha256": "afa45367c9b99e27cf855107350f439c7baf68661454988e266f366cf0134554"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/subscribe-p03-17968.jpg",
+      "sha256": "b3fa736b53f82ed186de62a2a6fe8b1b8ae72b42d102a76999dc4996d9e0fc91"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/subscribe-p04-18045.jpg",
+      "sha256": "bbe659601e897515c4686be80efe155dba502dcda8c62e2caa1ef51febb3f303"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-01.jpg",
+      "sha256": "8bd0bc38eac74d66283e2ec235beae2db647eda42e482b0eac954bea627bd151"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-02.jpg",
+      "sha256": "50f22953d8971d9a680d724d351edf335acaad3541b971e38f78a19e276d1441"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-03.jpg",
+      "sha256": "018d86ba3e164303921cd4e3b5969e199f4056ecf43361925a6e662114b1b053"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-04.jpg",
+      "sha256": "6475eaf8c016232ca0c4fd2e9c877c1bc49ea748bc266295bec8d8447199b28d"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-05.jpg",
+      "sha256": "ddb2759f39cff38b33ec27fcc72d8cdcb646d7b27016969b700fa207e9c168b3"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-06.jpg",
+      "sha256": "05a6e3a4cfe9c984763188d846e0543ce49e6a365b04d8cf32cf40fe1b3f78a0"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-07.jpg",
+      "sha256": "5527a4ff0df008d536adb2406615612b66527c40e326421f8331d5c46024156d"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-08.jpg",
+      "sha256": "d390f25240e8ad1a9f26b3a1417a310abebaeff232bc39612e860128b3b73bb8"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-09.jpg",
+      "sha256": "5004801b0c47418b429f3e63367488eda2023c600ad2365dbc8eb18955543e23"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-10.jpg",
+      "sha256": "4cb5ccae6f32ea7228ef6e0b14c50fa58952f71cbcc557400d9f4cde368928b6"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r05/comic/preflight/comic-audit/audit-11.jpg",
+      "sha256": "409afa6f41edbbf55d36a8d164d1f967b991435de6aeb4b69d98a12d60b5b8cb"
+    }
+  ],
+  "limits": [
+    "One frame per shot cannot establish unfolding motion, absence of holds, continuous audiovisual correspondence or user approval.",
+    "No audio playback or listening performed by this reviewer.",
+    "Source frozen; no source edits made during this audit.",
+    "Repeated layouts are retained as explicit limitations and are not counted as unique creative mechanisms."
+  ]
+}

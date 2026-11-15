@@ -1,0 +1,48 @@
+{
+  "id": "vn-market-dalat",
+  "file": "assets/vn-market-dalat.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 35723468,
+  "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+  "downloadURL": "https://images.pexels.com/photos/35723468/pexels-photo-35723468.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Kushie In Vietnam",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "733398a388dbb5a9ea54202db5d75277335aa14d5cdefca17195df85e7fee6e1",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "market"
+  ],
+  "credit": "Kushie In Vietnam / Pexels",
+  "expectedFromSource": "Vendors and shoppers at market",
+  "observed": "People standing at vegetable stall with cabbage and other produce, scooters at left, vendor in hat. Landscape crop preserves human interaction and goods.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "733398a388dbb5a9ea54202db5d75277335aa14d5cdefca17195df85e7fee6e1"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Source locates archival photo in Dalat, Vietnam, taken in 2019. Context of market trade only; no contemporary prices, personal finances or fictional identities asserted.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/vn-market-dalat.jpg",
+  "location": {
+    "countryCode": "VN",
+    "place": "Dalat, Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+    "evidence": "Primary photo page location field says Dalat, Vietnam; photograph is archival (taken 2019)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pexelsID": 10047227,
+  "pageURL": "https://www.pexels.com/video/a-person-scooping-a-flour-10047227/",
+  "title": "Hands scooping flour for baking preparation",
+  "creator": "Ron Lach",
+  "fps": [
+    25
+  ],
+  "tags": [
+    "flour",
+    "ingredients",
+    "storage"
+  ],
+  "id": "pexels-10047227",
+  "file": "assets/raw/pexels-10047227.mp4",
+  "sha256": "66b892be44397d816ef25af40858a28c9ec1d84373a747e16664b27e158185d2",
+  "bytes": 4795575,
+  "durationSeconds": 20.84,
+  "downloadURL": "https://videos.pexels.com/video-files/10047227/10047227-hd_1366_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 1.717,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-10047227.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1366,
+  "height": 720
+}

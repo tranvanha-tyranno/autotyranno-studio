@@ -1,0 +1,321 @@
+[
+  {
+    "beat": "e01",
+    "narration": "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu?",
+    "assets": [
+      "vn-filled-banhmi",
+      "vn-filled-banhmi-bag"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e03",
+    "narration": "Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh. Nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê. Bảng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình.",
+    "assets": [
+      "baker-kneading",
+      "flour-butter"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e07",
+    "narration": "Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát. Tiệm có thể đổi nhân, kích cỡ hoặc vị trí. Lạm phát nói đến mức tăng giá rộng hơn của nhiều hàng hóa và dịch vụ.",
+    "assets": [
+      "vn-market-dalat",
+      "grocery-cart"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e13",
+    "narration": "Người nhớ giá năm ngoái. Người nhớ giá vài năm trước. Họ nghe cùng tỷ lệ lạm phát mà hình dung hai khoảng cách khác nhau. Khi đọc tin, hãy tìm rõ kỳ so sánh: tháng trước, cùng kỳ, hay một mốc xa hơn.",
+    "assets": [
+      "receipt-hands",
+      "cash-vnd"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e14",
+    "narration": "Phép nhân chưa giải thích tại sao chị Hạnh thay bảng giá. Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ. Để hiểu nguyên nhân, phải quay lại trước lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.",
+    "assets": [
+      "baker-kneading",
+      "flour-counter"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e19",
+    "narration": "Bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hụt có thể làm người bán trả nhiều hơn. Nếu nhiều doanh nghiệp gặp sức ép tương tự, chi phí có thể lan sang giá hàng tiêu dùng.",
+    "assets": [
+      "flour-butter",
+      "flour-sifting"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e20",
+    "narration": "Nhiên liệu đắt hơn có thể đi vào cước giao hàng, vận hành máy móc và phân phối. Khách không mua dầu thô cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chuỗi cung ứng trước khi hàng tới quầy.",
+    "assets": [
+      "vn-fuel",
+      "delivery-truck"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e21",
+    "narration": "Đầu vào tăng không có nghĩa giá bán luôn tăng đúng bấy nhiêu. Chủ tiệm còn chịu cạnh tranh và sức mua của khách. Có nơi chấp nhận giảm phần dư, có nơi đổi cách vận hành, có nơi mới tăng giá.",
+    "assets": [
+      "bread-basket",
+      "vn-market-dalat"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e22",
+    "narration": "Đổi tình huống: nguyên liệu chưa tăng giá, nhưng quanh tiệm có thêm người làm việc. Lượng khách muốn mua nhiều hơn trong khi lò nướng, quầy và thời gian phục vụ vẫn như cũ. Sức ép lúc này đến từ nhu cầu.",
+    "assets": [
+      "bread-oven",
+      "oven-loading"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e23",
+    "narration": "Chị Hạnh có thể tăng ca, mua thiết bị hoặc thuê người, nhưng cần thời gian. Khi cung ứng chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện rộng có thể tạo áp lực lạm phát.",
+    "assets": [
+      "baker-kneading",
+      "oven-loading"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e25",
+    "narration": "Còn mắt xích kỳ vọng. Nếu tin nguyên liệu sắp đắt hơn, chủ tiệm có thể cân nhắc giá sớm. Nếu lo sức mua giảm, người lao động có thể đề nghị tăng lương. Những dự tính ấy ảnh hưởng quyết định hiện tại.",
+    "assets": [
+      "cash-vnd",
+      "receipt-hands"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e26",
+    "narration": "Không có nghĩa cứ tăng lương là gây lạm phát, hay dự báo đều tự thành thật. Năng suất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn chen vào. Kỳ vọng là một kênh tác động, không phải nút duy nhất điều khiển giá.",
+    "assets": [
+      "baker-kneading",
+      "cash-vnd"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e27",
+    "narration": "Đừng từ chị Hạnh mà kết luận mọi người bán chịu thiệt. Có doanh nghiệp tăng được biên lợi nhuận khi nhu cầu mạnh hoặc cạnh tranh yếu. Có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh doanh để phân biệt.",
+    "assets": [
+      "vn-market-dalat",
+      "vn-market-scooters"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e28",
+    "narration": "Ta có ba lối vào: chi phí, nhu cầu và kỳ vọng. Nhưng khách vẫn hỏi: nếu vận chuyển bớt căng, nguyên liệu bớt đắt, tại sao bảng giá chưa hạ? Câu trả lời nằm ở cấu trúc chi phí và cạnh tranh.",
+    "assets": [
+      "delivery-truck",
+      "vn-fuel"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e29",
+    "narration": "Cước giao hàng giảm, nhưng tiền thuê vẫn theo hợp đồng, lương đã thỏa thuận chưa đổi, vài nguyên liệu khác còn tăng. Tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cũ. Không thể nhìn một hóa đơn để đoán tất cả.",
+    "assets": [
+      "receipt-hands",
+      "bread-basket"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e30",
+    "narration": "Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá.",
+    "assets": [
+      "flour-counter",
+      "flour-butter"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e31",
+    "narration": "Chi phí giảm bền vững và cạnh tranh mạnh tạo động lực hạ giá giữ khách. Nếu khách khó chuyển nơi mua, sức ép ấy có thể yếu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh.",
+    "assets": [
+      "vn-market-dalat",
+      "bread-basket"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e32",
+    "narration": "Một vài mặt hàng có thể rẻ đi trong khi mức giá chung tăng: nhóm này giảm nhưng nhóm khác tăng nhiều hơn. Vì thế, lạm phát còn dương không đồng nghĩa mọi món ở chợ đều tăng giá như nhau.",
+    "assets": [
+      "vn-market-scooters",
+      "grocery-cart"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e35",
+    "narration": "Điều người mua quan tâm là thu nhập mua được bao nhiêu hàng hóa và dịch vụ. Giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thu nhập tăng nhanh hơn chi phí sinh hoạt phù hợp với họ.",
+    "assets": [
+      "cash-vnd",
+      "grocery-cart"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e36",
+    "narration": "Hãy nhìn cả giỏ chi tiêu. Chỉ số giá tiêu dùng dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng nay. Khoản chiếm tỷ trọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả chung.",
+    "assets": [
+      "grocery-cart",
+      "receipt-hands"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e39",
+    "narration": "Nhà có con nhỏ, người thuê trọ và người đi làm xa chi tiêu khác nhau. Nếu khoản bạn mua nhiều tăng mạnh, áp lực thực tế có thể cao hơn bình quân. Cảm giác khó khăn không vì thế mà tự động thành sai.",
+    "assets": [
+      "budget-couple",
+      "grocery-cart"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e43",
+    "narration": "Làm gì để giá tăng bớt nhanh? Nếu vướng nguồn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đầu vào hiệu quả hơn. Nếu cầu quá nóng, chỉ sửa đường vận chuyển có thể chưa đủ.",
+    "assets": [
+      "delivery-truck",
+      "cargo-ship"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e44",
+    "narration": "Một công cụ là lãi suất. Khi chi phí vay tăng, một số gia đình và doanh nghiệp có thể hoãn mua sắm hoặc đầu tư. Nhu cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều.",
+    "assets": [
+      "cash-vnd",
+      "receipt-hands"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e45",
+    "narration": "Khách bớt mua thì tăng giá khó hơn, nhưng doanh thu và việc làm có thể chịu áp lực. Lãi suất không tự tạo thêm bột hay xăng. Người điều hành phải cân nhắc nguyên nhân, độ trễ và những đánh đổi trong thực tế.",
+    "assets": [
+      "bread-basket",
+      "receipt-hands"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e46",
+    "narration": "Giảm bánh hỏng, sắp xếp ca làm và dùng thiết bị hiệu quả có thể tạo cùng lượng hàng với ít nguồn lực hơn. Năng suất cải thiện tạo khoảng trống cho lương và giá, dù không bảo đảm mọi lợi ích chuyển ngay tới khách.",
+    "assets": [
+      "baker-kneading",
+      "oven-loading"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e47",
+    "narration": "Người mua dễ so sánh khi khối lượng, chất lượng và giá được trình bày rõ. Tiệm làm tốt có cơ hội giữ khách bằng giá trị thật. Nhìn giá trên cùng đơn vị hữu ích hơn chỉ nhìn số tiền trên bao bì.",
+    "assets": [
+      "bread-shelf",
+      "bread-rustic"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e49",
+    "narration": "Lạm phát hạ có ý nghĩa: áp lực tăng giá đang bớt theo thước đo báo cáo. Nhưng để gia đình thấy dễ thở hơn, còn cần nhìn mặt bằng giá đã tích lũy, thu nhập, việc làm và giỏ chi tiêu của họ.",
+    "assets": [
+      "budget-couple",
+      "grocery-cart"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e51",
+    "narration": "Giữ hóa đơn vài khoản mua thường xuyên, ghi khối lượng và chất lượng tương đương, rồi so theo thời gian. Đây là cách quan sát giỏ cá nhân, không phải cách tính lạm phát chính thức từ vài món quen thuộc.",
+    "assets": [
+      "receipt-hands"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e52",
+    "narration": "Đặt thay đổi của giỏ cạnh thu nhập thực nhận và khoản bắt buộc khác. Mục đích là biết sức mua đổi ra sao để điều chỉnh kế hoạch, không phải tự trách bản thân vì mức giá mình không quyết định được.",
+    "assets": [
+      "cash-vnd",
+      "receipt-hands"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e53",
+    "narration": "Chị Hạnh không thể chỉ nhìn hóa đơn đầu vào rồi quên khách. Khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn bao nhiêu. Cả hai cần bức tranh đầy đủ hơn tấm bảng trước cửa.",
+    "assets": [
+      "bread-basket",
+      "vn-filled-banhmi"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e55",
+    "narration": "Ổ bánh nối đồng ruộng, nhiên liệu, chuyến xe, người làm và túi tiền người mua. Hiểu mối nối ấy giúp ta bớt vội kết luận, hỏi đúng điều cần kiểm chứng. Kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày.",
+    "assets": [
+      "vn-filled-banhmi",
+      "vn-filled-banhmi-bag"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  },
+  {
+    "beat": "e56",
+    "narration": "Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+    "assets": [
+      "vn-filled-banhmi",
+      "vn-filled-banhmi-bag"
+    ],
+    "role": "context",
+    "limits": "Photographs illustrate visible subjects only, not fictional identity, amounts, business condition or causal proof"
+  }
+]

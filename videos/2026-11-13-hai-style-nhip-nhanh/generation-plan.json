@@ -1,0 +1,20 @@
+{
+  "newSpeech": [
+    {
+      "file": "audio/subscribe.mp3",
+      "endpoint": "/v1/text-to-speech/6adFm46eyy74snVn6YrT/with-timestamps",
+      "payload": {
+        "text": "Nếu thấy video hữu ích, hãy đăng ký kênh và bật chuông để đón xem những nội dung tiếp theo. Bạn muốn xem lại khoản chi nào trong tháng này? Hãy để lại bình luận nhé.",
+        "model_id": "eleven_v3",
+        "language_code": "vi",
+        "voice_settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.8,
+          "speed": 1.0
+        }
+      }
+    }
+  ],
+  "mainNarration": "Reuse exact previous approved-voice takes; no repeated body synthesis",
+  "newImageVideoMusicSFXCalls": 0
+}

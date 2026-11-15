@@ -1,0 +1,194 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "7ec7744ceeadfbf61e6b435049342ac5093f3841a6cfc4a9df68edd6e868953f",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "8344f589df16bcaa48cde0c11a077eed3698378f715f67a8dd8c6c07b1247f93",
+    "startFrame": 10920,
+    "endFrameExclusive": 13754,
+    "expectedSHA256": "c8d85226b4d3d9e72ca1cd9a5050248b060d0e4423186f2d3f249303f038b73d",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "gio-hang-va-tien-luong",
+  "expected": "Hãy nhìn cả giỏ chi tiêu. Chỉ số giá tiêu dùng dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng nay. Khoản chiếm tỷ trọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả chung. Giỏ giả định có một trăm phần chi tiêu: bốn mươi cho ăn uống, ba mươi cho nhà ở, hai mươi cho đi lại, mười cho phần khác. Tỷ trọng này chỉ để tính dễ, không mô tả hộ gia đình Việt Nam trung bình. Ăn uống tăng mười phần trăm, ba nhóm còn lại đứng giá, giỏ tăng bốn phần trăm nếu giữ nguyên lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm một phần giỏ. Nhà có con nhỏ, người thuê trọ và người đi làm xa chi tiêu khác nhau. Nếu khoản bạn mua nhiều tăng mạnh, áp lực thực tế có thể cao hơn bình quân. Cảm giác khó khăn không vì thế mà tự động thành sai. Thu nhập giả định từ mười lên mười triệu rưỡi, tăng năm phần trăm. Cùng lúc, giỏ hàng phù hợp tăng tám phần trăm. Tiền nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng cũ. Một phẩy không năm chia một phẩy không tám, trừ một, sức mua giảm khoảng hai phẩy tám phần trăm. Trừ năm với tám chỉ là ước lượng gần. Lương danh nghĩa tăng chưa đủ để kết luận đời sống khá lên. Giá niêm yết không đổi mà lượng hàng giảm: hai mươi nghìn mua một trăm gram, rồi chỉ mua chín mươi gram. Giá mỗi gram tăng khoảng mười một phẩy một phần trăm. So sánh đúng cần nhìn cả lượng và chất lượng.",
+  "recognized": "Hãy nhìn cả dọt chi tiêu. Chỉ số giá tiêu dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng ngày. Quảng chiếm tì chọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả trung. Giọ giá định có 100% chi tiêu. 40 cho ăn nguấn, 30 cho nhà ờ, 20 cho đi lại, 10 cho phần khác, tì chọng này chỉ để tính dễ không mô tả hộ gia đình Việt Nam trung bình. Anh uống tăng 10%, 3 nhóm còn lại đừng giá, giỏ tăng 40% nếu dựa mươi lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm 1 phần giỏ. Nhà có con nhỏ, người thuyết chọn và người đi làm xa chỉ tiêu khác nhau. Nếu khoảng bạn mua nhiều tăng mạnh, ab lực thực tế có thể cao hơn bình quân. Tảm giác khó khăn không vì thế mà tự động thành xai. Thôi nhập giả định từ 10 lên 10 triệu dưới, tăng 5%. Cùng lúc do hàng phù hợp tăng 8% Tiên nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng quốc. Một phải không 5, chia 1 phải không 8, chia 1, xước mua giảm khoảng 2,8%. Chừ năm vơi 8 chỉ là ước lượng gần, lừng dành nghĩa tăng chưa đủ để kết luận đời sống khá lên. Giá nha biết không đổi mà lượng hàng giảm. 20.000 mô 100 g, rồi chỉ mô 90 g, giá mỗi gram tăng khoảng 11.1% Sau sang đúng, cần nhìn cả lượng và chất lượng.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.48,
+      "text": " Hãy nhìn cả dọt chi tiêu. Chỉ số giá tiêu dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng ngày.",
+      "globalStart": 364.0,
+      "globalEnd": 371.48
+    },
+    {
+      "start": 7.48,
+      "end": 12.120000000000001,
+      "text": " Quảng chiếm tì chọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả trung.",
+      "globalStart": 371.48,
+      "globalEnd": 376.12
+    },
+    {
+      "start": 12.120000000000001,
+      "end": 15.16,
+      "text": " Giọ giá định có 100% chi tiêu.",
+      "globalStart": 376.12,
+      "globalEnd": 379.16
+    },
+    {
+      "start": 15.16,
+      "end": 22.16,
+      "text": " 40 cho ăn nguấn, 30 cho nhà ờ, 20 cho đi lại, 10 cho phần khác,",
+      "globalStart": 379.16,
+      "globalEnd": 386.16
+    },
+    {
+      "start": 22.16,
+      "end": 26.72,
+      "text": " tì chọng này chỉ để tính dễ không mô tả hộ gia đình Việt Nam trung bình.",
+      "globalStart": 386.16,
+      "globalEnd": 390.72
+    },
+    {
+      "start": 26.72,
+      "end": 33.9,
+      "text": " Anh uống tăng 10%, 3 nhóm còn lại đừng giá, giỏ tăng 40% nếu dựa mươi lượng mua.",
+      "globalStart": 390.72,
+      "globalEnd": 397.9
+    },
+    {
+      "start": 33.9,
+      "end": 40.379999999999995,
+      "text": " Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm 1 phần giỏ.",
+      "globalStart": 397.9,
+      "globalEnd": 404.38
+    },
+    {
+      "start": 40.379999999999995,
+      "end": 45.72,
+      "text": " Nhà có con nhỏ, người thuyết chọn và người đi làm xa chỉ tiêu khác nhau.",
+      "globalStart": 404.38,
+      "globalEnd": 409.72
+    },
+    {
+      "start": 45.72,
+      "end": 50.32,
+      "text": " Nếu khoảng bạn mua nhiều tăng mạnh, ab lực thực tế có thể cao hơn bình quân.",
+      "globalStart": 409.72,
+      "globalEnd": 414.32
+    },
+    {
+      "start": 50.32,
+      "end": 54.06,
+      "text": " Tảm giác khó khăn không vì thế mà tự động thành xai.",
+      "globalStart": 414.32,
+      "globalEnd": 418.06
+    },
+    {
+      "start": 54.06,
+      "end": 58.7,
+      "text": " Thôi nhập giả định từ 10 lên 10 triệu dưới, tăng 5%.",
+      "globalStart": 418.06,
+      "globalEnd": 422.7
+    },
+    {
+      "start": 58.7,
+      "end": 62.06,
+      "text": " Cùng lúc do hàng phù hợp tăng 8%",
+      "globalStart": 422.7,
+      "globalEnd": 426.06
+    },
+    {
+      "start": 62.06,
+      "end": 66.86,
+      "text": " Tiên nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng quốc.",
+      "globalStart": 426.06,
+      "globalEnd": 430.86
+    },
+    {
+      "start": 66.86,
+      "end": 73.26,
+      "text": " Một phải không 5, chia 1 phải không 8, chia 1, xước mua giảm khoảng 2,8%.",
+      "globalStart": 430.86,
+      "globalEnd": 437.26
+    },
+    {
+      "start": 73.26,
+      "end": 80.06,
+      "text": " Chừ năm vơi 8 chỉ là ước lượng gần, lừng dành nghĩa tăng chưa đủ để kết luận đời sống khá lên.",
+      "globalStart": 437.26,
+      "globalEnd": 444.06
+    },
+    {
+      "start": 80.06,
+      "end": 83.30000000000001,
+      "text": " Giá nha biết không đổi mà lượng hàng giảm.",
+      "globalStart": 444.06,
+      "globalEnd": 447.3
+    },
+    {
+      "start": 83.3,
+      "end": 90.8,
+      "text": " 20.000 mô 100 g, rồi chỉ mô 90 g, giá mỗi gram tăng khoảng 11.1%",
+      "globalStart": 447.3,
+      "globalEnd": 454.8
+    },
+    {
+      "start": 90.8,
+      "end": 94.3,
+      "text": " Sau sang đúng, cần nhìn cả lượng và chất lượng.",
+      "globalStart": 454.8,
+      "globalEnd": 458.3
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 31.037,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\06-gio-hang-va-tien-luong-d4eff57d1ee04625.wav",
+  "chunk": {
+    "chunkKey": "d4eff57d1ee04625b74a4bd66e82fc9347204e56a2db4c637ffc2e307b577263",
+    "sha256": "8344f589df16bcaa48cde0c11a077eed3698378f715f67a8dd8c6c07b1247f93",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1511467,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 17472000,
+    "sourceEndSampleExclusive": 22006400,
+    "sourceSampleRate": 48000,
+    "seconds": 94.4666875,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8496,
+    "expectedTokenCoverage": 0.851,
+    "expectedTailTokenCoverage": 0.84,
+    "expectedTokens": 302,
+    "observedTokens": 303,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

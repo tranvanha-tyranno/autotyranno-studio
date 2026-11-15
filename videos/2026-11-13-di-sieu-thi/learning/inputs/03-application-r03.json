@@ -1,0 +1,23 @@
+{
+  "lesson_id": "evt-000002-31ff7b0972b3",
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r03",
+  "change": "Changed c11 source asset from total-example to total-change, replacing TỔNG CHI:+20.000đ with CHI THÊM20.000đ without changing the hypothetical quantities, totals or unit prices.",
+  "evidence": [
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r03.json",
+      "sha256": "28a5b8784311eeb12e745b0cd10e6de2aab4bd5d698da74530d5501ec1df37fd"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/total-change-r03.jpg",
+      "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+    },
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-r03.txt",
+      "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+    }
+  ]
+}

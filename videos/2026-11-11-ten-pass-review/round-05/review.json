@@ -1,0 +1,14 @@
+{
+  "round": 5,
+  "focus": "Giảm phần che hình",
+  "problem": "Panel giấy ngà che gần 40% khung trong đoạn công nghệ/thương hiệu.",
+  "change": "Thu panel và chữ để thấy thêm footage, giữ vùng subtitle riêng.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-04",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Panel hẹp hơn để lộ tay và phần footage phải, ba dòng vẫn đọc được, không đè subtitle. Giữ bố cục; footage spreadsheet cho phần công nghệ còn chung chung, sẽ thay bằng thiết bị/người vận hành ở vòng 7."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

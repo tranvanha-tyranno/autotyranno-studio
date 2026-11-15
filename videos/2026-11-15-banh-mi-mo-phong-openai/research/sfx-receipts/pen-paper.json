@@ -1,0 +1,48 @@
+{
+  "id": "pen-paper",
+  "file": "audio/sfx/downloaded/pen-paper.mp3",
+  "sha256": "f28f16e168a4ee14e769e79c571b60376f333dd1674725227482a966ac9f7cda",
+  "bytes": 760032,
+  "durationSeconds": 32.81,
+  "sourceURL": "https://freesound.org/people/khenshom/sounds/565206/",
+  "downloadURL": "https://cdn.freesound.org/previews/565/565206_6652872-hq.mp3",
+  "creator": "khenshom",
+  "sourceTitle": "Pen or marker writing on paper - close up",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Close-up pen or marker writing on paper",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "pen",
+    "paper"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b04",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b13",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b23",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/pen-paper.html",
+    "htmlSHA256": "c420a40fcba1a842aa2ae55b100b6886ec084d64042c06eb4d1d51037d8f9718",
+    "text": "research/sfx-source-pages/pen-paper.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Close-up pen or marker writing on paper by khenshom, Freesound #565206, CC0 1.0: https://freesound.org/people/khenshom/sounds/565206/"
+}

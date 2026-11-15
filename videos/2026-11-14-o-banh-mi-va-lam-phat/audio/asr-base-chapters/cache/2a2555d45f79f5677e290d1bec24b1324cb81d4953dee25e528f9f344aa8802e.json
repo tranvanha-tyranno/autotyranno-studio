@@ -1,0 +1,201 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "2a2555d45f79f5677e290d1bec24b1324cb81d4953dee25e528f9f344aa8802e",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "65e92e67fc1eacd9467881a2f1fb334993d44109efd760d4fa2b2e4d772e6cd6",
+    "startFrame": 6496,
+    "endFrameExclusive": 8735,
+    "expectedSHA256": "ef99dbac7375b4e1f58e656a3d2725426153f4bdffe24fbfefaf752a07c6fb19",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "khach-va-cong-suat",
+  "expected": "Đổi tình huống: nguyên liệu chưa tăng giá, nhưng quanh tiệm có thêm người làm việc. Lượng khách muốn mua nhiều hơn trong khi lò nướng, quầy và thời gian phục vụ vẫn như cũ. Sức ép lúc này đến từ nhu cầu. Chị Hạnh có thể tăng ca, mua thiết bị hoặc thuê người, nhưng cần thời gian. Khi cung ứng chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện rộng có thể tạo áp lực lạm phát. Còn mắt xích kỳ vọng. Nếu tin nguyên liệu sắp đắt hơn, chủ tiệm có thể cân nhắc giá sớm. Nếu lo sức mua giảm, người lao động có thể đề nghị tăng lương. Những dự tính ấy ảnh hưởng quyết định hiện tại. Không có nghĩa cứ tăng lương là gây lạm phát, hay dự báo đều tự thành thật. Năng suất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn chen vào. Kỳ vọng là một kênh tác động, không phải nút duy nhất điều khiển giá. Đừng từ chị Hạnh mà kết luận mọi người bán chịu thiệt. Có doanh nghiệp tăng được biên lợi nhuận khi nhu cầu mạnh hoặc cạnh tranh yếu. Có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh doanh để phân biệt. Ta có ba lối vào: chi phí, nhu cầu và kỳ vọng. Nhưng khách vẫn hỏi: nếu vận chuyển bớt căng, nguyên liệu bớt đắt, tại sao bảng giá chưa hạ? Câu trả lời nằm ở cấu trúc chi phí và cạnh tranh.",
+  "recognized": "Lổi tình huấn, mươi liệu chưa tăng giá nhưng quen tiệm có thêm người làm việc, lượng khách muốn mua nhiều hơn trong khi lo nướng, quảy và thời gian phục vụ vẫn như cú. Sự gây bước này đến từ nhiều cầu, chỉ hạnh có thể tăng ca mùa thét bị mọc thêm người, nhưng cần thời gian, khi cũng vẫn chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện giọc có thể tạo áp lực lạm phát, con mắc sức kỳ vọng. Nếu tin mươi liệu xắp đặt hơn, chủ tiệm có thể cần nhắc giá sớm. Nếu lo sức mua giảm, người lâu động có thể đế nghị tăng lương. Những dựa tình gái ảnh hưởng quyết định hiện tại, không có nghĩa cứ tăng lương là gây lạng phát hay dự báo đều tự thành thật. Năng xuất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn trên vào. Khi vọng là một kinh tác động, không phải nút duy nhất điều khiển giá. Đừng từ chỉ hạnh mà cái luận mọi người bán triệu thiệt, có rất nghiệp tăng được biên lợi nhuận khi như cầu mạnh hoặc cạnh tranh giấu, có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh dành để phân biệt. Tàu có 3 lối vào, chi phí, nhu cầu và kỳ vọng. Nhưng khác vấn hỏi, nếu vận chuyển bất căng, nguyên liệu bất đất tại sao bằng giá chứ hả? Câu trả lời nằm ở cấu chút chi phí và cạnh tranh.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": " Lổi tình huấn, mươi liệu chưa tăng giá nhưng quen tiệm có thêm người làm việc,",
+      "globalStart": 216.53333333333333,
+      "globalEnd": 220.77333333333334
+    },
+    {
+      "start": 4.24,
+      "end": 9.6,
+      "text": " lượng khách muốn mua nhiều hơn trong khi lo nướng, quảy và thời gian phục vụ vẫn như cú.",
+      "globalStart": 220.77333333333334,
+      "globalEnd": 226.13333333333333
+    },
+    {
+      "start": 9.6,
+      "end": 16.28,
+      "text": " Sự gây bước này đến từ nhiều cầu, chỉ hạnh có thể tăng ca mùa thét bị mọc thêm người, nhưng cần thời gian,",
+      "globalStart": 226.13333333333333,
+      "globalEnd": 232.81333333333333
+    },
+    {
+      "start": 16.28,
+      "end": 20.0,
+      "text": " khi cũng vẫn chưa theo kịp, người bán có thêm điều kiện tăng giá.",
+      "globalStart": 232.81333333333333,
+      "globalEnd": 236.53333333333333
+    },
+    {
+      "start": 20.0,
+      "end": 25.240000000000002,
+      "text": " Cơ chế tương tự trên diện giọc có thể tạo áp lực lạm phát, con mắc sức kỳ vọng.",
+      "globalStart": 236.53333333333333,
+      "globalEnd": 241.77333333333334
+    },
+    {
+      "start": 25.240000000000002,
+      "end": 29.36,
+      "text": " Nếu tin mươi liệu xắp đặt hơn, chủ tiệm có thể cần nhắc giá sớm.",
+      "globalStart": 241.77333333333334,
+      "globalEnd": 245.89333333333332
+    },
+    {
+      "start": 29.36,
+      "end": 33.0,
+      "text": " Nếu lo sức mua giảm, người lâu động có thể đế nghị tăng lương.",
+      "globalStart": 245.89333333333332,
+      "globalEnd": 249.53333333333333
+    },
+    {
+      "start": 33.0,
+      "end": 35.64,
+      "text": " Những dựa tình gái ảnh hưởng quyết định hiện tại,",
+      "globalStart": 249.53333333333333,
+      "globalEnd": 252.17333333333335
+    },
+    {
+      "start": 35.64,
+      "end": 40.04,
+      "text": " không có nghĩa cứ tăng lương là gây lạng phát hay dự báo đều tự thành thật.",
+      "globalStart": 252.17333333333335,
+      "globalEnd": 256.5733333333333
+    },
+    {
+      "start": 40.04,
+      "end": 44.64,
+      "text": " Năng xuất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn trên vào.",
+      "globalStart": 256.5733333333333,
+      "globalEnd": 261.17333333333335
+    },
+    {
+      "start": 44.64,
+      "end": 48.519999999999996,
+      "text": " Khi vọng là một kinh tác động, không phải nút duy nhất điều khiển giá.",
+      "globalStart": 261.17333333333335,
+      "globalEnd": 265.05333333333334
+    },
+    {
+      "start": 48.519999999999996,
+      "end": 51.68,
+      "text": " Đừng từ chỉ hạnh mà cái luận mọi người bán triệu thiệt,",
+      "globalStart": 265.05333333333334,
+      "globalEnd": 268.2133333333333
+    },
+    {
+      "start": 51.68,
+      "end": 55.760000000000005,
+      "text": " có rất nghiệp tăng được biên lợi nhuận khi như cầu mạnh hoặc cạnh tranh giấu,",
+      "globalStart": 268.2133333333333,
+      "globalEnd": 272.29333333333335
+    },
+    {
+      "start": 55.760000000000005,
+      "end": 57.28,
+      "text": " có nơi không làm được.",
+      "globalStart": 272.29333333333335,
+      "globalEnd": 273.81333333333333
+    },
+    {
+      "start": 57.28,
+      "end": 60.86,
+      "text": " Cần dữ liệu về chi phí và kết quả kinh dành để phân biệt.",
+      "globalStart": 273.81333333333333,
+      "globalEnd": 277.3933333333333
+    },
+    {
+      "start": 61.58,
+      "end": 65.62,
+      "text": " Tàu có 3 lối vào, chi phí, nhu cầu và kỳ vọng.",
+      "globalStart": 278.11333333333334,
+      "globalEnd": 282.1533333333333
+    },
+    {
+      "start": 65.62,
+      "end": 68.28,
+      "text": " Nhưng khác vấn hỏi, nếu vận chuyển bất căng,",
+      "globalStart": 282.1533333333333,
+      "globalEnd": 284.81333333333333
+    },
+    {
+      "start": 68.28,
+      "end": 71.08,
+      "text": " nguyên liệu bất đất tại sao bằng giá chứ hả?",
+      "globalStart": 284.81333333333333,
+      "globalEnd": 287.61333333333334
+    },
+    {
+      "start": 71.08,
+      "end": 74.42,
+      "text": " Câu trả lời nằm ở cấu chút chi phí và cạnh tranh.",
+      "globalStart": 287.61333333333334,
+      "globalEnd": 290.9533333333333
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 14.061,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\04-khach-va-cong-suat-0d4129b054cd6e31.wav",
+  "chunk": {
+    "chunkKey": "0d4129b054cd6e31f40a87a57a1b6048e482b3ed6ab6a8fd6988fe7dbfe2609f",
+    "sha256": "65e92e67fc1eacd9467881a2f1fb334993d44109efd760d4fa2b2e4d772e6cd6",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1194133,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 10393600,
+    "sourceEndSampleExclusive": 13976000,
+    "sourceSampleRate": 48000,
+    "seconds": 74.6333125,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8015,
+    "expectedTokenCoverage": 0.8015,
+    "expectedTailTokenCoverage": 0.72,
+    "expectedTokens": 267,
+    "observedTokens": 267,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

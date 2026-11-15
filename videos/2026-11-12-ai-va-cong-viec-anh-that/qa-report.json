@@ -1,0 +1,64 @@
+{
+  "file": "final.mp4",
+  "bytes": 267636447,
+  "sha256": "bd8d53c39707ddeba5f4ac1a96200f49f68554f70772a81605022bd06dd1fbb2",
+  "decode": {
+    "file": "videos\\2026-11-12-ai-va-cong-viec-anh-that\\final.mp4",
+    "decodedFrames": 9000,
+    "fps": 30.0,
+    "seconds": 300.0,
+    "width": 1920,
+    "height": 1080,
+    "expectedFrames": 9000,
+    "frameCountPass": true,
+    "deltaTopPictureMean": 4.582352822302037,
+    "minimumConsecutiveSampleDelta": 0.000361111102392897,
+    "aestheticAcceptance": "not inferred; requires visual review and user feedback",
+    "audioListening": "not performed by this script"
+  },
+  "audioFinal": {
+    "input_i": "-16.10",
+    "input_tp": "-4.35",
+    "input_lra": "2.00",
+    "input_thresh": "-26.43",
+    "output_i": "-16.00",
+    "output_tp": "-4.23",
+    "output_lra": "2.00",
+    "output_thresh": "-26.34",
+    "normalization_type": "dynamic",
+    "target_offset": "0.00"
+  },
+  "direction": {
+    "shots": 88,
+    "uniquePhotos": 25,
+    "secondsByType": {
+      "photo": 252.23333333333332,
+      "video": 43.36666666666667,
+      "graphic": 4.4
+    },
+    "audioChange": "None: exact previous final mix copied with matching SHA256",
+    "audioSHA256": "83f79862fdf5913191dff695d08e6fc33bca464b744b940f48a22c0cb5925545",
+    "sourceRevision": "videos\\2026-11-11-ai-va-cong-viec-5phut",
+    "newDirectionRequested": "2026-11-12",
+    "userAcceptance": "pending"
+  },
+  "typescript": "npx tsc --noEmit passed",
+  "visualReview": {
+    "currentFinalPages": [
+      "keyframes-01.jpg",
+      "keyframes-02.jpg",
+      "keyframes-03.jpg",
+      "keyframes-04.jpg",
+      "full-duration-04.jpg",
+      "full-duration-06.jpg",
+      "motion-strips-02.jpg"
+    ],
+    "previousExportReview": "All six 1fps pages of pre-crop export reviewed; source defect found and fixed. Retained separately.",
+    "scope": "Final decode, 36 chapter keyframes, current 150–200s and 250–300s sheets, one motion page; not a claim of continuous playback",
+    "observations": "Real photos/footage carry 295.6 seconds; report chart 4.4s. Cropped review-team photo now shows both people/hands/papers clearly; no excess upper wall. Full-width and portrait compositions preserve the selected actions. Captions remain at bottom; emphasis only at chosen phrases. No obvious clipped headline in checked frames; end question and fade intact."
+  },
+  "audioSourceHash": "83f79862fdf5913191dff695d08e6fc33bca464b744b940f48a22c0cb5925545",
+  "manualAudioListening": false,
+  "userAcceptance": "pending",
+  "latestWorkflow": "workflows/reference-video/REAL_IMAGE_DIRECTION.md"
+}

@@ -1,0 +1,255 @@
+{
+  "schema": "china-variety-final-independent-sampled-review/1",
+  "recordedUTC": "2026-11-13T07:03:31.062889+00:00",
+  "reviewer": "variety_people",
+  "finalSHA256": "dbbb016a2a57107d4bc943059fa8e3eb41ff0f087f67604e399c370cab59620e",
+  "actualEvidenceViewed": {
+    "threeSecondSheets": 23,
+    "threeSecondSamples": 200,
+    "timelineSeconds": [
+      0,
+      597
+    ],
+    "temporalStrips": 15,
+    "temporalSamplesPerStrip": 5,
+    "temporalShotIds": [
+      "o01",
+      "f02",
+      "r02",
+      "h03",
+      "t04",
+      "d02",
+      "d03",
+      "p06",
+      "f05",
+      "r05",
+      "h07",
+      "d01",
+      "d06",
+      "p02",
+      "e02"
+    ],
+    "lastFrameViewedAtNative": true
+  },
+  "observations": [
+    {
+      "scope": "whole_sequence",
+      "finding": "All23sheetsviewedfrom0to597seconds;scenegrammarvariesports/rail,balancingscale,foldedatlas,explodedproduct,warehouse,sourceextract,construction,escrow,jars,lens,householdbaskets,scopepaper,bridge,cohortgrid,ageruler,trainingstair,ledgerandchecklist. Theoldrepeateddonut/conveyor/ribbonsequencedoesnotrecur."
+    },
+    {
+      "shot": "o01",
+      "finding": "Craneworkandtrainpresentfirst;home/familylightsupasdomesticspendingcontrast. Captionstripstaysbelowgeometry."
+    },
+    {
+      "shot": "f02",
+      "finding": "Separatedpartsconvergeintolayeredproduct,theninspectioncheckappears;notmerelytextswappingaboveaconveyor."
+    },
+    {
+      "shot": "r02",
+      "finding": "Coinsentertheprojectaccount,collectionslowlabelappears,calendarpaymentbreakandwaitingcontractorappearlater. Visibleorderedstatesfitnarratedmechanism."
+    },
+    {
+      "shot": "h03",
+      "finding": "50/25/25coinjarsfillsequentially,stickerlabelsremainlegible;hypotheticaldisclaimerstaysvisible. NotpresentedasactualChinasavingsdata."
+    },
+    {
+      "shot": "t04",
+      "finding": "10originalcratesvisiblysplitinto7subtractedgrayand3remainingred;finalred3movetorightunder+3. Midpointcanneedthefollowingmovementtoreadbutfinal5samplesequenceisconsistent."
+    },
+    {
+      "shot": "d02",
+      "finding": "60+and23%appeartogether;65+emergesasdistinctthresholdwithnocopied23%,labelsfittheageruler."
+    },
+    {
+      "shot": "d03",
+      "finding": "ActualBeijingparkcontextwindowfadesbeforeillustratedcare/work/familyroom;contextlabeldoesnotclaimparkactivityiscarebeingprovided."
+    },
+    {
+      "shot": "p06",
+      "finding": "LiabilitynotesmoveA→Bthenactualresolutioncardappears;thisvisuallyseparatesmovingriskfromsettlingit."
+    },
+    {
+      "shot": "d06",
+      "finding": "Personadvancesupstairswithfeetattachedtostepsincurrentfinal;skillcubesandgraduationhatprogressintheillustration."
+    },
+    {
+      "shot": "closing",
+      "finding": "FinalframekeepsCTAandlastcaptionvisibleandseparate;nocut-offendingtextseen."
+    }
+  ],
+  "remainingLimits": [
+    {
+      "level": "art_direction",
+      "finding": "Thefilmstillhasonecoherentoutlined2D/2.5Dstyleandmostscenesuseupper-leftheadlines;itshouldnotbeclaimed51differentartstylesorphotoreal3D."
+    },
+    {
+      "level": "visual_pacing",
+      "finding": "Factory/shop/house/crate/peoplepropsrecurcontextually;somecompletedexplanatorydiagramssettleandholdseveralseconds. Thisissubstantiallymoremechanicvariety,notproofuserwillfindpaceentertaining."
+    },
+    {
+      "level": "review_scope",
+      "finding": "Thiswasactualsampledimageviewing,notcontinuousmovieplaybackorsubjectivelistening;audioqualitiesandretentionnotcertified."
+    }
+  ],
+  "blockingIssuesFoundInViewedEvidence": [],
+  "sourceEditsDuringReview": false,
+  "aestheticAcceptance": "pending user feedback",
+  "evidenceHashes": [
+    {
+      "file": "qa/three-second-01.jpg",
+      "sha256": "e8d3bd967096b189202ec10378dff04e9929a2dbb642e5a7cd09e6b5808801bc"
+    },
+    {
+      "file": "qa/three-second-02.jpg",
+      "sha256": "7f36a6ac4fe2f74193669fe4fa3dd0f5738695dbfe3a9124e7a3dcbf2da97845"
+    },
+    {
+      "file": "qa/three-second-03.jpg",
+      "sha256": "ce89696d1d16829f2846cb238a83456ae16ef1bdbaf96dea93af53cff29d1b89"
+    },
+    {
+      "file": "qa/three-second-04.jpg",
+      "sha256": "ac8cc359c6ec1bc9bc99f18e9f360ae3e27496d76937ddacb61618e04aa067ca"
+    },
+    {
+      "file": "qa/three-second-05.jpg",
+      "sha256": "46fb5b6a17e91b7f9a2d2dc29325a43f2a20395d87c2bd512f9eec12343d94f5"
+    },
+    {
+      "file": "qa/three-second-06.jpg",
+      "sha256": "b9d63af63524823badb5b8fd906510dfae27d026bc30a3e66543476caee90be2"
+    },
+    {
+      "file": "qa/three-second-07.jpg",
+      "sha256": "e6d1aa33b71948e0e70902c5907d041c04119dcbe1203893c47fe14422f61e40"
+    },
+    {
+      "file": "qa/three-second-08.jpg",
+      "sha256": "c08ba0d9dff55ad60f473a67eba0c66ab2777c53711f02f34859a0b77f19c519"
+    },
+    {
+      "file": "qa/three-second-09.jpg",
+      "sha256": "8f7a2a381749c4c9fac3e48fc876b91c7addb89b76c9d52673d981ef363dc4fe"
+    },
+    {
+      "file": "qa/three-second-10.jpg",
+      "sha256": "cc8db551cb1a84692583b7912c47ac7272d86745a6d5ef41764c75c75e9bfd1e"
+    },
+    {
+      "file": "qa/three-second-11.jpg",
+      "sha256": "926511cdeb99a9cf53e54cbbc1f4d104b4e2edf2a0ed1fe90f40045408317949"
+    },
+    {
+      "file": "qa/three-second-12.jpg",
+      "sha256": "24e75311c6f4ccd8f1873e0145ce188d6283241fd9efe6f937996a8ea88658d0"
+    },
+    {
+      "file": "qa/three-second-13.jpg",
+      "sha256": "aa16f41dfc2359b89e68d5a96f914a27004dda53cbf5b43fc53f7272e68e3770"
+    },
+    {
+      "file": "qa/three-second-14.jpg",
+      "sha256": "db533463cccf4c005a0d26f8e9e00569737f604f8470146a465036023fb64fcc"
+    },
+    {
+      "file": "qa/three-second-15.jpg",
+      "sha256": "0f2f1be467bf41f00df6d3ac0c41b4e9d9bc4ccc42296d39e8233194df9f7276"
+    },
+    {
+      "file": "qa/three-second-16.jpg",
+      "sha256": "034fbc8aacc5c76a4a215a48f91a15b3fe328434fad661599fc41acb6a6fb30c"
+    },
+    {
+      "file": "qa/three-second-17.jpg",
+      "sha256": "f77a86b588413611c094d2b15f8c7842a2026f588afb5ef8dc82f5fae552923e"
+    },
+    {
+      "file": "qa/three-second-18.jpg",
+      "sha256": "16406015e764f189cb90be79912e52f080d4c7b1e6691d52c648d5c610583d09"
+    },
+    {
+      "file": "qa/three-second-19.jpg",
+      "sha256": "afecc841b4655f08a23ca0a7ec2e7a0ba3e509476b4d4dc329d20145fa40a5b7"
+    },
+    {
+      "file": "qa/three-second-20.jpg",
+      "sha256": "3c5612a2aa60b4346bf577c4043735893ce2f16453e420cd197baf46c4759976"
+    },
+    {
+      "file": "qa/three-second-21.jpg",
+      "sha256": "b3e5d9762ae24213686c4a391be7c35bc08dffe727242dc8903b714a37c3f76b"
+    },
+    {
+      "file": "qa/three-second-22.jpg",
+      "sha256": "417da2e00ac18afc6aa5109d428957721749a3d7b25dd9034fcb1646badd3fc3"
+    },
+    {
+      "file": "qa/three-second-23.jpg",
+      "sha256": "265150cc950b9c802a82c01ca22801d30c2c813b5bcbbc1dafb2c1b931db10bb"
+    },
+    {
+      "file": "qa/independent-review/o01-strip.jpg",
+      "sha256": "c160659039ce20e9e9522ae0c81df3aec3f416b98df164c330b68d0b53cd7a12"
+    },
+    {
+      "file": "qa/independent-review/f02-strip.jpg",
+      "sha256": "835d5b1c2d062267cc98a6b86bdff456a8456abf3fbe9dc817b8f52b563a0b5c"
+    },
+    {
+      "file": "qa/independent-review/r02-strip.jpg",
+      "sha256": "98edb73a6557523ff18ed280bc920c182480709d076f624b68785fa25f24ea51"
+    },
+    {
+      "file": "qa/independent-review/h03-strip.jpg",
+      "sha256": "5f480c851d2d0eeaa37141a496d4d7dfccfd2113aa1a906cba98a2667f69b890"
+    },
+    {
+      "file": "qa/independent-review/t04-strip.jpg",
+      "sha256": "3547811cd44644e50883a00d53733d7b26d5adeb4f296b833d4f0bce513ff292"
+    },
+    {
+      "file": "qa/independent-review/d02-strip.jpg",
+      "sha256": "b6fc9f0be266134995e62bbde365eab22d3890e364f76c36ded8e7b585b504fb"
+    },
+    {
+      "file": "qa/independent-review/d03-strip.jpg",
+      "sha256": "0c76103055cc8c95efe32ba44ae6340146bce46f4915298e3b89d5a8f069544b"
+    },
+    {
+      "file": "qa/independent-review/p06-strip.jpg",
+      "sha256": "0fcddb0e8c6b0d754b4db9e85bdc338a32e64e2d362f6a40c8c07e18cf148935"
+    },
+    {
+      "file": "qa/independent-review/f05-strip.jpg",
+      "sha256": "a148cded16cc519899e1b4e05b224493c284694ba5cc178a0d36895e2906737e"
+    },
+    {
+      "file": "qa/independent-review/r05-strip.jpg",
+      "sha256": "3937aaf874ede8a0211251fae05a1b877cc37f0fd2ff0e174dec8d2cbcddf435"
+    },
+    {
+      "file": "qa/independent-review/h07-strip.jpg",
+      "sha256": "c97bffb48581c86f4422bfd5886347d6f1e9ee474fcf0fc38e64eeea4206b4bc"
+    },
+    {
+      "file": "qa/independent-review/d01-strip.jpg",
+      "sha256": "0dcda7dfdb8ac522441403b586a757204b41ed4922b2d406a28f9cfadebe270b"
+    },
+    {
+      "file": "qa/independent-review/d06-strip.jpg",
+      "sha256": "71f3ee1e7c4145f2e21ce10a087100d2dff662e20bf25d1fa4786b75648d3a0a"
+    },
+    {
+      "file": "qa/independent-review/p02-strip.jpg",
+      "sha256": "e66ea39eaaffbac704d879d5eeb170e9c2516537b29d39f17a283ff615b74a6a"
+    },
+    {
+      "file": "qa/independent-review/e02-strip.jpg",
+      "sha256": "cbf12d65c7981b06b57975b7cd180c7825c33042900d6de6d4742efcca1ca2f3"
+    },
+    {
+      "file": "qa/last-frame.jpg",
+      "sha256": "a85baddd8de531785b60418472b81cf615b9e7b5f651e1b1d419772474665eba"
+    }
+  ]
+}

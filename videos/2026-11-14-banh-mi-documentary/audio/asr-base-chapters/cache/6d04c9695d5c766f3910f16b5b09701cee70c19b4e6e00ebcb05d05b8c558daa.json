@@ -1,0 +1,159 @@
+{
+  "schema": "bread-documentary-chapter-asr/1",
+  "requestHash": "6d04c9695d5c766f3910f16b5b09701cee70c19b4e6e00ebcb05d05b8c558daa",
+  "request": {
+    "sourceSHA256": "07876208d98f45a4c1e6f5161755014651b18567728aa212f943331bef61b41f",
+    "audioSHA256": "b1a994b738f730908891043ae938e7b04e4ed439489fad04f756e23387c2473f",
+    "scriptSHA256": "752e523350d1f9c3491501b10c4d4bf599eb1708c378fd0a384d2d228d4415f5",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1",
+      "source": "exact individual narration takes; no music",
+      "numberCheck": "explicit illustrative number phrases within each chapter; not exact local alignment"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "giam-cai-gi",
+  "expected": "Hãy giữ đúng chiếc bánh ấy, cùng lượng nhân và kích cỡ. Từ hai mươi lên hai mươi hai nghìn là tăng mười phần trăm. Nếu kỳ sau chỉ tăng hai phần trăm, bánh không trở lại hai mươi nghìn. Nó thành hai mươi hai nghìn bốn trăm bốn mươi đồng trong phép tính.\n\nTỷ lệ đã hạ từ mười xuống hai. Số tiền phải trả vẫn tăng. Đây là chỗ lời nói và kỳ vọng dễ đi lệch nhau: bản tin nói tốc độ tăng chậm lại, còn khách đang chờ giá hạ xuống. Hai việc ấy khác nhau.\n\nMột ổ bánh không đại diện cho lạm phát cả nước. Chỉ số chung nhìn một rổ nhiều hàng hóa và dịch vụ. Chiếc bánh ở đây chỉ giúp ta thấy phép tính: mức tăng mới có thể nhỏ, nhưng nó cộng lên phần giá đã tăng từ trước.\n\nVì thế, chị Hạnh không thể nghe một tỷ lệ lạm phát thấp hơn rồi tự suy ra bao bột, tiền thuê và tiền điện của mình đã về giá cũ. Nhưng nếu có một hóa đơn thực sự giảm thì sao? Chẳng hạn, bột mua cho mẻ bánh mới đã rẻ hơn. Lúc ấy khách có được chờ bánh rẻ lại không?",
+  "recognized": "Hãy dự đúng trước bài ngõ, cùng lượng nhân và cái cơ. Từ 20 lên 22.000 là tăng 10% Nếu kỳ sau chỉ tăng 2%, bánh không chữ lại 20.000, nó thành 22.440 đồng trong phép tính, tì lệ đã hạ từ người suôn 2, số tiền phải trả vận tăng. Đây là chỗ lời nói và kỳ vọng dễ đi lệnh nhau. Bản tin nói tất lộ tăng chậm lại, còn khách đăng trừ giá hạ xuống, hai về khách nhau. Một ổ bánh không đại diện cho lạm phát cả nước. Chỉ số chung nhìn một dổ nhiều hàng hóa và dịch vụ. Chức bánh ở đây chỉ dước ta thấy phép tính, mức tăng mời có thể nhỏ, nhưng nó cộng lên phần giá đã tăng từ trước. Vì thế, chỉ hành không tỉnh nghe một tỉ lệ lạm phát thấp hơn rồi tự suy ra, bào bột, tiền thê và tiền điện của mình đã về giá cu. Nhưng nếu có một hoa đơn thực sự giảm thì sao? Chẳng hạn, bụt mua cho mẹ bánh mươi đã dẻ hơn. Lúc ấy, khách có được trừ bánh dẻ lại không?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": " Hãy dự đúng trước bài ngõ, cùng lượng nhân và cái cơ."
+    },
+    {
+      "start": 3.8200000000000003,
+      "end": 7.36,
+      "text": " Từ 20 lên 22.000 là tăng 10%"
+    },
+    {
+      "start": 7.68,
+      "end": 11.38,
+      "text": " Nếu kỳ sau chỉ tăng 2%, bánh không chữ lại 20.000,"
+    },
+    {
+      "start": 11.38,
+      "end": 14.82,
+      "text": " nó thành 22.440 đồng trong phép tính,"
+    },
+    {
+      "start": 14.82,
+      "end": 17.14,
+      "text": " tì lệ đã hạ từ người suôn 2,"
+    },
+    {
+      "start": 17.14,
+      "end": 18.96,
+      "text": " số tiền phải trả vận tăng."
+    },
+    {
+      "start": 18.96,
+      "end": 22.0,
+      "text": " Đây là chỗ lời nói và kỳ vọng dễ đi lệnh nhau."
+    },
+    {
+      "start": 22.0,
+      "end": 24.060000000000002,
+      "text": " Bản tin nói tất lộ tăng chậm lại,"
+    },
+    {
+      "start": 24.060000000000002,
+      "end": 26.14,
+      "text": " còn khách đăng trừ giá hạ xuống,"
+    },
+    {
+      "start": 26.14,
+      "end": 27.94,
+      "text": " hai về khách nhau."
+    },
+    {
+      "start": 27.94,
+      "end": 41.620000000000005,
+      "text": " Một ổ bánh không đại diện cho lạm phát cả nước. Chỉ số chung nhìn một dổ nhiều hàng hóa và dịch vụ. Chức bánh ở đây chỉ dước ta thấy phép tính, mức tăng mời có thể nhỏ, nhưng nó cộng lên phần giá đã tăng từ trước."
+    },
+    {
+      "start": 41.620000000000005,
+      "end": 50.7,
+      "text": " Vì thế, chỉ hành không tỉnh nghe một tỉ lệ lạm phát thấp hơn rồi tự suy ra, bào bột, tiền thê và tiền điện của mình đã về giá cu."
+    },
+    {
+      "start": 50.7,
+      "end": 53.46,
+      "text": " Nhưng nếu có một hoa đơn thực sự giảm thì sao?"
+    },
+    {
+      "start": 53.46,
+      "end": 56.72,
+      "text": " Chẳng hạn, bụt mua cho mẹ bánh mươi đã dẻ hơn."
+    },
+    {
+      "start": 56.72,
+      "end": 59.72,
+      "text": " Lúc ấy, khách có được trừ bánh dẻ lại không?"
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 7.959,
+  "chapterAudio": "audio/asr-base-chapters/chunks/02-giam-cai-gi-b09f3b9f4f040a33.wav",
+  "audio": {
+    "sourceSHA256": "07876208d98f45a4c1e6f5161755014651b18567728aa212f943331bef61b41f",
+    "sha256": "b1a994b738f730908891043ae938e7b04e4ed439489fad04f756e23387c2473f",
+    "seconds": 59.36,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "scope": "Complete individual take resampled, no time stretching or mix."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8274,
+    "expectedTokenCoverage": 0.8255,
+    "expectedTailTokenCoverage": 0.76,
+    "expectedTokens": 212,
+    "observedTokens": 211,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission.",
+    "numberPhrases": [
+      {
+        "expectedPhrase": "mười phần trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "hai phần trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "hai mươi hai nghìn bốn trăm bốn mươi",
+        "foundSomewhereInChapter": true
+      }
+    ],
+    "numberPhrasesNotFound": [],
+    "expectedFinalSentence": "Lúc ấy khách có được chờ bánh rẻ lại không?",
+    "finalSentenceExactNormalizedMatch": false,
+    "requiresReview": true,
+    "lexicalLimits": "Number checks search the chapter, not the corresponding speech location. A match cannot prove every number was spoken in its intended order; a missing phrase can be an ASR mistake. Final-sentence normalization can also fail on harmless recognition differences. This is not prosody assessment."
+  },
+  "cacheHit": false,
+  "continuousListening": false,
+  "aestheticApproval": false
+}

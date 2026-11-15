@@ -1,0 +1,3060 @@
+{
+  "duration": 1524,
+  "sampled_at_fps": 2,
+  "selected_frames": 610,
+  "blocks": 26,
+  "samples": [
+    {
+      "time": 0.0,
+      "change": 0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 5.0,
+      "change": 19.63,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 10.0,
+      "change": 12.76,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 11.5,
+      "change": 66.45,
+      "reason": "change 66.5"
+    },
+    {
+      "time": 13.0,
+      "change": 45.62,
+      "reason": "change 45.6"
+    },
+    {
+      "time": 14.5,
+      "change": 42.53,
+      "reason": "change 42.5"
+    },
+    {
+      "time": 15.0,
+      "change": 46.45,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 16.5,
+      "change": 33.0,
+      "reason": "change 33.0"
+    },
+    {
+      "time": 18.0,
+      "change": 37.47,
+      "reason": "change 37.5"
+    },
+    {
+      "time": 19.5,
+      "change": 48.86,
+      "reason": "change 48.9"
+    },
+    {
+      "time": 20.0,
+      "change": 64.34,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 21.5,
+      "change": 41.42,
+      "reason": "change 41.4"
+    },
+    {
+      "time": 23.0,
+      "change": 38.91,
+      "reason": "change 38.9"
+    },
+    {
+      "time": 25.0,
+      "change": 60.68,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 28.0,
+      "change": 66.06,
+      "reason": "change 66.1"
+    },
+    {
+      "time": 29.5,
+      "change": 36.49,
+      "reason": "change 36.5"
+    },
+    {
+      "time": 30.0,
+      "change": 36.14,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 31.5,
+      "change": 37.45,
+      "reason": "change 37.5"
+    },
+    {
+      "time": 33.0,
+      "change": 38.15,
+      "reason": "change 38.1"
+    },
+    {
+      "time": 34.5,
+      "change": 38.52,
+      "reason": "change 38.5"
+    },
+    {
+      "time": 35.0,
+      "change": 86.11,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 36.5,
+      "change": 45.99,
+      "reason": "change 46.0"
+    },
+    {
+      "time": 38.0,
+      "change": 45.33,
+      "reason": "change 45.3"
+    },
+    {
+      "time": 39.5,
+      "change": 44.27,
+      "reason": "change 44.3"
+    },
+    {
+      "time": 40.0,
+      "change": 43.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 41.5,
+      "change": 44.28,
+      "reason": "change 44.3"
+    },
+    {
+      "time": 45.0,
+      "change": 0.29,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 50.0,
+      "change": 0.92,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 51.5,
+      "change": 118.64,
+      "reason": "change 118.6"
+    },
+    {
+      "time": 53.0,
+      "change": 47.56,
+      "reason": "change 47.6"
+    },
+    {
+      "time": 54.5,
+      "change": 41.57,
+      "reason": "change 41.6"
+    },
+    {
+      "time": 55.0,
+      "change": 40.85,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 56.5,
+      "change": 36.39,
+      "reason": "change 36.4"
+    },
+    {
+      "time": 58.0,
+      "change": 37.53,
+      "reason": "change 37.5"
+    },
+    {
+      "time": 60.0,
+      "change": 11.72,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 63.0,
+      "change": 61.78,
+      "reason": "change 61.8"
+    },
+    {
+      "time": 65.0,
+      "change": 14.55,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 66.5,
+      "change": 62.48,
+      "reason": "change 62.5"
+    },
+    {
+      "time": 68.0,
+      "change": 31.06,
+      "reason": "change 31.1"
+    },
+    {
+      "time": 69.5,
+      "change": 29.74,
+      "reason": "change 29.7"
+    },
+    {
+      "time": 70.0,
+      "change": 31.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 71.5,
+      "change": 32.53,
+      "reason": "change 32.5"
+    },
+    {
+      "time": 75.0,
+      "change": 12.37,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 76.5,
+      "change": 30.54,
+      "reason": "change 30.5"
+    },
+    {
+      "time": 78.0,
+      "change": 28.46,
+      "reason": "change 28.5"
+    },
+    {
+      "time": 79.5,
+      "change": 54.64,
+      "reason": "change 54.6"
+    },
+    {
+      "time": 80.0,
+      "change": 48.14,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 81.5,
+      "change": 45.25,
+      "reason": "change 45.2"
+    },
+    {
+      "time": 83.0,
+      "change": 39.98,
+      "reason": "change 40.0"
+    },
+    {
+      "time": 84.5,
+      "change": 38.12,
+      "reason": "change 38.1"
+    },
+    {
+      "time": 85.0,
+      "change": 62.9,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 87.0,
+      "change": 57.86,
+      "reason": "change 57.9"
+    },
+    {
+      "time": 90.0,
+      "change": 47.37,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 92.0,
+      "change": 57.81,
+      "reason": "change 57.8"
+    },
+    {
+      "time": 95.0,
+      "change": 3.79,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 96.5,
+      "change": 32.65,
+      "reason": "change 32.7"
+    },
+    {
+      "time": 98.5,
+      "change": 73.82,
+      "reason": "change 73.8"
+    },
+    {
+      "time": 100.0,
+      "change": 62.62,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 101.5,
+      "change": 40.4,
+      "reason": "change 40.4"
+    },
+    {
+      "time": 103.0,
+      "change": 59.46,
+      "reason": "change 59.5"
+    },
+    {
+      "time": 105.0,
+      "change": 22.86,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 109.0,
+      "change": 50.09,
+      "reason": "change 50.1"
+    },
+    {
+      "time": 110.0,
+      "change": 12.97,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 114.5,
+      "change": 130.76,
+      "reason": "change 130.8"
+    },
+    {
+      "time": 115.0,
+      "change": 137.42,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 117.0,
+      "change": 67.11,
+      "reason": "change 67.1"
+    },
+    {
+      "time": 118.5,
+      "change": 70.11,
+      "reason": "change 70.1"
+    },
+    {
+      "time": 120.0,
+      "change": 28.84,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 122.5,
+      "change": 61.78,
+      "reason": "change 61.8"
+    },
+    {
+      "time": 124.0,
+      "change": 28.52,
+      "reason": "change 28.5"
+    },
+    {
+      "time": 125.0,
+      "change": 57.85,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 126.5,
+      "change": 32.0,
+      "reason": "change 32.0"
+    },
+    {
+      "time": 130.0,
+      "change": 0.61,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 131.5,
+      "change": 54.5,
+      "reason": "change 54.5"
+    },
+    {
+      "time": 133.5,
+      "change": 55.23,
+      "reason": "change 55.2"
+    },
+    {
+      "time": 135.0,
+      "change": 23.45,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 137.5,
+      "change": 68.31,
+      "reason": "change 68.3"
+    },
+    {
+      "time": 139.0,
+      "change": 58.25,
+      "reason": "change 58.3"
+    },
+    {
+      "time": 140.0,
+      "change": 58.42,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 141.5,
+      "change": 54.79,
+      "reason": "change 54.8"
+    },
+    {
+      "time": 143.0,
+      "change": 47.11,
+      "reason": "change 47.1"
+    },
+    {
+      "time": 145.0,
+      "change": 8.49,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 148.5,
+      "change": 51.11,
+      "reason": "change 51.1"
+    },
+    {
+      "time": 150.0,
+      "change": 29.11,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 151.5,
+      "change": 28.78,
+      "reason": "change 28.8"
+    },
+    {
+      "time": 153.0,
+      "change": 27.35,
+      "reason": "change 27.3"
+    },
+    {
+      "time": 154.5,
+      "change": 27.89,
+      "reason": "change 27.9"
+    },
+    {
+      "time": 155.0,
+      "change": 63.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 156.5,
+      "change": 35.32,
+      "reason": "change 35.3"
+    },
+    {
+      "time": 158.0,
+      "change": 37.86,
+      "reason": "change 37.9"
+    },
+    {
+      "time": 159.5,
+      "change": 26.23,
+      "reason": "change 26.2"
+    },
+    {
+      "time": 160.0,
+      "change": 17.71,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 162.0,
+      "change": 60.34,
+      "reason": "change 60.3"
+    },
+    {
+      "time": 165.0,
+      "change": 25.05,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 166.5,
+      "change": 49.7,
+      "reason": "change 49.7"
+    },
+    {
+      "time": 169.5,
+      "change": 68.06,
+      "reason": "change 68.1"
+    },
+    {
+      "time": 170.0,
+      "change": 50.93,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 171.5,
+      "change": 49.65,
+      "reason": "change 49.6"
+    },
+    {
+      "time": 175.0,
+      "change": 14.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 180.0,
+      "change": 18.51,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 184.0,
+      "change": 57.03,
+      "reason": "change 57.0"
+    },
+    {
+      "time": 185.0,
+      "change": 13.62,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 187.0,
+      "change": 43.05,
+      "reason": "change 43.0"
+    },
+    {
+      "time": 190.0,
+      "change": 18.06,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 193.0,
+      "change": 52.9,
+      "reason": "change 52.9"
+    },
+    {
+      "time": 195.0,
+      "change": 12.18,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 197.0,
+      "change": 56.34,
+      "reason": "change 56.3"
+    },
+    {
+      "time": 200.0,
+      "change": 19.25,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 201.5,
+      "change": 51.29,
+      "reason": "change 51.3"
+    },
+    {
+      "time": 205.0,
+      "change": 45.69,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 209.5,
+      "change": 53.45,
+      "reason": "change 53.5"
+    },
+    {
+      "time": 210.0,
+      "change": 14.45,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 212.0,
+      "change": 74.11,
+      "reason": "change 74.1"
+    },
+    {
+      "time": 215.0,
+      "change": 5.53,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 218.5,
+      "change": 60.99,
+      "reason": "change 61.0"
+    },
+    {
+      "time": 220.0,
+      "change": 4.06,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 222.0,
+      "change": 68.56,
+      "reason": "change 68.6"
+    },
+    {
+      "time": 223.5,
+      "change": 29.19,
+      "reason": "change 29.2"
+    },
+    {
+      "time": 225.0,
+      "change": 31.54,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 227.5,
+      "change": 26.77,
+      "reason": "change 26.8"
+    },
+    {
+      "time": 229.5,
+      "change": 26.83,
+      "reason": "change 26.8"
+    },
+    {
+      "time": 230.0,
+      "change": 104.39,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 235.0,
+      "change": 2.9,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 238.5,
+      "change": 27.48,
+      "reason": "change 27.5"
+    },
+    {
+      "time": 240.0,
+      "change": 9.3,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 243.5,
+      "change": 66.64,
+      "reason": "change 66.6"
+    },
+    {
+      "time": 245.0,
+      "change": 42.44,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 246.5,
+      "change": 41.85,
+      "reason": "change 41.8"
+    },
+    {
+      "time": 250.0,
+      "change": 6.83,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 253.0,
+      "change": 41.32,
+      "reason": "change 41.3"
+    },
+    {
+      "time": 255.0,
+      "change": 4.7,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 257.5,
+      "change": 48.91,
+      "reason": "change 48.9"
+    },
+    {
+      "time": 259.0,
+      "change": 42.35,
+      "reason": "change 42.3"
+    },
+    {
+      "time": 260.0,
+      "change": 38.68,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 261.5,
+      "change": 41.29,
+      "reason": "change 41.3"
+    },
+    {
+      "time": 263.0,
+      "change": 36.66,
+      "reason": "change 36.7"
+    },
+    {
+      "time": 265.0,
+      "change": 16.83,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 267.5,
+      "change": 36.07,
+      "reason": "change 36.1"
+    },
+    {
+      "time": 269.0,
+      "change": 27.87,
+      "reason": "change 27.9"
+    },
+    {
+      "time": 270.0,
+      "change": 27.14,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 273.0,
+      "change": 29.31,
+      "reason": "change 29.3"
+    },
+    {
+      "time": 275.0,
+      "change": 22.42,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 279.0,
+      "change": 68.72,
+      "reason": "change 68.7"
+    },
+    {
+      "time": 280.0,
+      "change": 20.39,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 285.0,
+      "change": 17.15,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 288.5,
+      "change": 80.73,
+      "reason": "change 80.7"
+    },
+    {
+      "time": 290.0,
+      "change": 3.24,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 295.0,
+      "change": 3.35,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 300.0,
+      "change": 4.41,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 305.0,
+      "change": 3.87,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 310.0,
+      "change": 4.72,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 315.0,
+      "change": 3.02,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 319.0,
+      "change": 26.31,
+      "reason": "change 26.3"
+    },
+    {
+      "time": 320.0,
+      "change": 4.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 323.0,
+      "change": 172.02,
+      "reason": "change 172.0"
+    },
+    {
+      "time": 325.0,
+      "change": 1.71,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 330.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 335.0,
+      "change": 0.09,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 340.0,
+      "change": 1.2,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 345.0,
+      "change": 33.01,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 350.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 351.5,
+      "change": 35.24,
+      "reason": "change 35.2"
+    },
+    {
+      "time": 355.0,
+      "change": 0.54,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 360.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 365.0,
+      "change": 0.32,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 370.0,
+      "change": 0.32,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 375.0,
+      "change": 0.49,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 380.0,
+      "change": 2.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 385.0,
+      "change": 0.37,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 390.0,
+      "change": 0.62,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 395.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 400.0,
+      "change": 0.25,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 405.0,
+      "change": 0.36,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 408.0,
+      "change": 56.94,
+      "reason": "change 56.9"
+    },
+    {
+      "time": 410.0,
+      "change": 1.85,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 415.0,
+      "change": 1.92,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 420.0,
+      "change": 1.86,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 425.0,
+      "change": 1.83,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 430.0,
+      "change": 1.63,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 435.0,
+      "change": 1.47,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 437.0,
+      "change": 31.44,
+      "reason": "change 31.4"
+    },
+    {
+      "time": 439.0,
+      "change": 32.38,
+      "reason": "change 32.4"
+    },
+    {
+      "time": 440.0,
+      "change": 31.17,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 441.5,
+      "change": 32.5,
+      "reason": "change 32.5"
+    },
+    {
+      "time": 443.0,
+      "change": 33.55,
+      "reason": "change 33.6"
+    },
+    {
+      "time": 444.5,
+      "change": 33.35,
+      "reason": "change 33.4"
+    },
+    {
+      "time": 445.0,
+      "change": 70.92,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 450.0,
+      "change": 16.88,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 455.0,
+      "change": 16.24,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 456.5,
+      "change": 115.56,
+      "reason": "change 115.6"
+    },
+    {
+      "time": 460.0,
+      "change": 1.5,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 465.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 469.5,
+      "change": 30.49,
+      "reason": "change 30.5"
+    },
+    {
+      "time": 470.0,
+      "change": 33.17,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 471.5,
+      "change": 32.9,
+      "reason": "change 32.9"
+    },
+    {
+      "time": 473.0,
+      "change": 33.87,
+      "reason": "change 33.9"
+    },
+    {
+      "time": 474.5,
+      "change": 32.38,
+      "reason": "change 32.4"
+    },
+    {
+      "time": 475.0,
+      "change": 33.07,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 476.5,
+      "change": 32.85,
+      "reason": "change 32.8"
+    },
+    {
+      "time": 478.0,
+      "change": 32.12,
+      "reason": "change 32.1"
+    },
+    {
+      "time": 479.5,
+      "change": 40.87,
+      "reason": "change 40.9"
+    },
+    {
+      "time": 480.0,
+      "change": 33.86,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 481.5,
+      "change": 34.44,
+      "reason": "change 34.4"
+    },
+    {
+      "time": 483.0,
+      "change": 34.93,
+      "reason": "change 34.9"
+    },
+    {
+      "time": 484.5,
+      "change": 35.03,
+      "reason": "change 35.0"
+    },
+    {
+      "time": 485.0,
+      "change": 33.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 486.5,
+      "change": 40.86,
+      "reason": "change 40.9"
+    },
+    {
+      "time": 488.0,
+      "change": 41.15,
+      "reason": "change 41.2"
+    },
+    {
+      "time": 489.5,
+      "change": 42.07,
+      "reason": "change 42.1"
+    },
+    {
+      "time": 490.0,
+      "change": 41.52,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 491.5,
+      "change": 42.02,
+      "reason": "change 42.0"
+    },
+    {
+      "time": 493.0,
+      "change": 42.43,
+      "reason": "change 42.4"
+    },
+    {
+      "time": 494.5,
+      "change": 40.25,
+      "reason": "change 40.3"
+    },
+    {
+      "time": 495.0,
+      "change": 39.82,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 499.5,
+      "change": 71.72,
+      "reason": "change 71.7"
+    },
+    {
+      "time": 500.0,
+      "change": 11.15,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 505.0,
+      "change": 11.3,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 507.5,
+      "change": 57.82,
+      "reason": "change 57.8"
+    },
+    {
+      "time": 509.0,
+      "change": 34.3,
+      "reason": "change 34.3"
+    },
+    {
+      "time": 510.0,
+      "change": 34.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 511.5,
+      "change": 32.98,
+      "reason": "change 33.0"
+    },
+    {
+      "time": 515.0,
+      "change": 21.28,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 517.5,
+      "change": 68.75,
+      "reason": "change 68.8"
+    },
+    {
+      "time": 519.0,
+      "change": 42.53,
+      "reason": "change 42.5"
+    },
+    {
+      "time": 520.0,
+      "change": 41.3,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 522.5,
+      "change": 55.96,
+      "reason": "change 56.0"
+    },
+    {
+      "time": 524.0,
+      "change": 43.77,
+      "reason": "change 43.8"
+    },
+    {
+      "time": 525.0,
+      "change": 50.23,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 526.5,
+      "change": 50.25,
+      "reason": "change 50.2"
+    },
+    {
+      "time": 528.0,
+      "change": 50.26,
+      "reason": "change 50.3"
+    },
+    {
+      "time": 529.5,
+      "change": 29.3,
+      "reason": "change 29.3"
+    },
+    {
+      "time": 530.0,
+      "change": 28.98,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 532.0,
+      "change": 49.21,
+      "reason": "change 49.2"
+    },
+    {
+      "time": 533.5,
+      "change": 26.16,
+      "reason": "change 26.2"
+    },
+    {
+      "time": 535.0,
+      "change": 22.9,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 537.0,
+      "change": 26.48,
+      "reason": "change 26.5"
+    },
+    {
+      "time": 538.5,
+      "change": 68.45,
+      "reason": "change 68.4"
+    },
+    {
+      "time": 540.0,
+      "change": 22.43,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 543.5,
+      "change": 26.4,
+      "reason": "change 26.4"
+    },
+    {
+      "time": 545.0,
+      "change": 29.04,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 546.5,
+      "change": 43.59,
+      "reason": "change 43.6"
+    },
+    {
+      "time": 549.0,
+      "change": 30.12,
+      "reason": "change 30.1"
+    },
+    {
+      "time": 550.0,
+      "change": 60.05,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 551.5,
+      "change": 32.1,
+      "reason": "change 32.1"
+    },
+    {
+      "time": 553.0,
+      "change": 33.02,
+      "reason": "change 33.0"
+    },
+    {
+      "time": 554.5,
+      "change": 31.97,
+      "reason": "change 32.0"
+    },
+    {
+      "time": 555.0,
+      "change": 31.22,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 556.5,
+      "change": 29.59,
+      "reason": "change 29.6"
+    },
+    {
+      "time": 560.0,
+      "change": 6.17,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 564.5,
+      "change": 64.09,
+      "reason": "change 64.1"
+    },
+    {
+      "time": 565.0,
+      "change": 66.36,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 566.5,
+      "change": 57.35,
+      "reason": "change 57.4"
+    },
+    {
+      "time": 568.0,
+      "change": 32.06,
+      "reason": "change 32.1"
+    },
+    {
+      "time": 569.5,
+      "change": 44.64,
+      "reason": "change 44.6"
+    },
+    {
+      "time": 570.0,
+      "change": 47.52,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 571.5,
+      "change": 59.88,
+      "reason": "change 59.9"
+    },
+    {
+      "time": 573.0,
+      "change": 46.33,
+      "reason": "change 46.3"
+    },
+    {
+      "time": 574.5,
+      "change": 28.53,
+      "reason": "change 28.5"
+    },
+    {
+      "time": 575.0,
+      "change": 28.75,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 576.5,
+      "change": 29.53,
+      "reason": "change 29.5"
+    },
+    {
+      "time": 578.0,
+      "change": 29.58,
+      "reason": "change 29.6"
+    },
+    {
+      "time": 579.5,
+      "change": 27.71,
+      "reason": "change 27.7"
+    },
+    {
+      "time": 580.0,
+      "change": 27.87,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 581.5,
+      "change": 27.64,
+      "reason": "change 27.6"
+    },
+    {
+      "time": 583.5,
+      "change": 46.44,
+      "reason": "change 46.4"
+    },
+    {
+      "time": 585.0,
+      "change": 23.49,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 586.5,
+      "change": 28.48,
+      "reason": "change 28.5"
+    },
+    {
+      "time": 588.0,
+      "change": 30.75,
+      "reason": "change 30.8"
+    },
+    {
+      "time": 589.5,
+      "change": 26.59,
+      "reason": "change 26.6"
+    },
+    {
+      "time": 590.0,
+      "change": 16.82,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 592.5,
+      "change": 31.94,
+      "reason": "change 31.9"
+    },
+    {
+      "time": 594.0,
+      "change": 26.43,
+      "reason": "change 26.4"
+    },
+    {
+      "time": 595.0,
+      "change": 26.01,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 598.0,
+      "change": 79.8,
+      "reason": "change 79.8"
+    },
+    {
+      "time": 600.0,
+      "change": 3.78,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 605.0,
+      "change": 3.7,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 610.0,
+      "change": 4.17,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 615.0,
+      "change": 9.69,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 620.0,
+      "change": 3.26,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 625.0,
+      "change": 3.66,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 629.5,
+      "change": 205.15,
+      "reason": "change 205.2"
+    },
+    {
+      "time": 630.0,
+      "change": 138.49,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 632.0,
+      "change": 36.05,
+      "reason": "change 36.0"
+    },
+    {
+      "time": 634.5,
+      "change": 44.48,
+      "reason": "change 44.5"
+    },
+    {
+      "time": 635.0,
+      "change": 8.87,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 637.5,
+      "change": 42.61,
+      "reason": "change 42.6"
+    },
+    {
+      "time": 640.0,
+      "change": 18.6,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 644.0,
+      "change": 48.12,
+      "reason": "change 48.1"
+    },
+    {
+      "time": 645.0,
+      "change": 6.23,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 650.0,
+      "change": 3.96,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 654.5,
+      "change": 73.62,
+      "reason": "change 73.6"
+    },
+    {
+      "time": 655.0,
+      "change": 6.14,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 660.0,
+      "change": 3.39,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 665.0,
+      "change": 4.09,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 670.0,
+      "change": 3.91,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 675.0,
+      "change": 4.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 680.0,
+      "change": 9.46,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 682.5,
+      "change": 192.42,
+      "reason": "change 192.4"
+    },
+    {
+      "time": 685.0,
+      "change": 20.78,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 690.0,
+      "change": 22.73,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 692.0,
+      "change": 107.75,
+      "reason": "change 107.7"
+    },
+    {
+      "time": 693.5,
+      "change": 31.17,
+      "reason": "change 31.2"
+    },
+    {
+      "time": 695.0,
+      "change": 31.43,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 696.5,
+      "change": 32.45,
+      "reason": "change 32.4"
+    },
+    {
+      "time": 698.0,
+      "change": 30.57,
+      "reason": "change 30.6"
+    },
+    {
+      "time": 699.5,
+      "change": 28.01,
+      "reason": "change 28.0"
+    },
+    {
+      "time": 700.0,
+      "change": 67.54,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 702.5,
+      "change": 32.51,
+      "reason": "change 32.5"
+    },
+    {
+      "time": 705.0,
+      "change": 7.73,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 708.0,
+      "change": 87.96,
+      "reason": "change 88.0"
+    },
+    {
+      "time": 709.5,
+      "change": 33.48,
+      "reason": "change 33.5"
+    },
+    {
+      "time": 710.0,
+      "change": 35.93,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 711.5,
+      "change": 35.24,
+      "reason": "change 35.2"
+    },
+    {
+      "time": 713.0,
+      "change": 36.66,
+      "reason": "change 36.7"
+    },
+    {
+      "time": 714.5,
+      "change": 33.3,
+      "reason": "change 33.3"
+    },
+    {
+      "time": 715.0,
+      "change": 33.04,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 716.5,
+      "change": 73.69,
+      "reason": "change 73.7"
+    },
+    {
+      "time": 720.0,
+      "change": 4.4,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 725.0,
+      "change": 3.79,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 730.0,
+      "change": 5.58,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 734.0,
+      "change": 26.98,
+      "reason": "change 27.0"
+    },
+    {
+      "time": 735.0,
+      "change": 28.32,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 736.5,
+      "change": 28.17,
+      "reason": "change 28.2"
+    },
+    {
+      "time": 738.5,
+      "change": 79.61,
+      "reason": "change 79.6"
+    },
+    {
+      "time": 740.0,
+      "change": 15.96,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 741.5,
+      "change": 34.57,
+      "reason": "change 34.6"
+    },
+    {
+      "time": 743.0,
+      "change": 29.94,
+      "reason": "change 29.9"
+    },
+    {
+      "time": 745.0,
+      "change": 15.31,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 750.0,
+      "change": 1.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 755.0,
+      "change": 1.85,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 760.0,
+      "change": 1.8,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 765.0,
+      "change": 1.49,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 770.0,
+      "change": 1.52,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 775.0,
+      "change": 1.46,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 780.0,
+      "change": 1.21,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 783.0,
+      "change": 156.32,
+      "reason": "change 156.3"
+    },
+    {
+      "time": 785.0,
+      "change": 18.67,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 787.0,
+      "change": 46.03,
+      "reason": "change 46.0"
+    },
+    {
+      "time": 788.5,
+      "change": 27.79,
+      "reason": "change 27.8"
+    },
+    {
+      "time": 790.0,
+      "change": 21.86,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 791.5,
+      "change": 50.92,
+      "reason": "change 50.9"
+    },
+    {
+      "time": 794.5,
+      "change": 58.93,
+      "reason": "change 58.9"
+    },
+    {
+      "time": 795.0,
+      "change": 24.12,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 796.5,
+      "change": 28.49,
+      "reason": "change 28.5"
+    },
+    {
+      "time": 798.5,
+      "change": 50.83,
+      "reason": "change 50.8"
+    },
+    {
+      "time": 800.0,
+      "change": 11.56,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 801.5,
+      "change": 77.61,
+      "reason": "change 77.6"
+    },
+    {
+      "time": 803.0,
+      "change": 63.27,
+      "reason": "change 63.3"
+    },
+    {
+      "time": 804.5,
+      "change": 62.23,
+      "reason": "change 62.2"
+    },
+    {
+      "time": 805.0,
+      "change": 18.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 810.0,
+      "change": 71.44,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 813.5,
+      "change": 61.36,
+      "reason": "change 61.4"
+    },
+    {
+      "time": 815.0,
+      "change": 20.05,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 820.0,
+      "change": 19.87,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 821.5,
+      "change": 32.4,
+      "reason": "change 32.4"
+    },
+    {
+      "time": 823.0,
+      "change": 35.78,
+      "reason": "change 35.8"
+    },
+    {
+      "time": 824.5,
+      "change": 52.84,
+      "reason": "change 52.8"
+    },
+    {
+      "time": 825.0,
+      "change": 37.8,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 826.5,
+      "change": 33.14,
+      "reason": "change 33.1"
+    },
+    {
+      "time": 828.0,
+      "change": 31.18,
+      "reason": "change 31.2"
+    },
+    {
+      "time": 830.0,
+      "change": 10.88,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 832.0,
+      "change": 34.24,
+      "reason": "change 34.2"
+    },
+    {
+      "time": 834.5,
+      "change": 110.41,
+      "reason": "change 110.4"
+    },
+    {
+      "time": 835.0,
+      "change": 72.25,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 839.5,
+      "change": 34.17,
+      "reason": "change 34.2"
+    },
+    {
+      "time": 840.0,
+      "change": 12.6,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 842.5,
+      "change": 48.25,
+      "reason": "change 48.3"
+    },
+    {
+      "time": 845.0,
+      "change": 6.65,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 850.0,
+      "change": 10.93,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 852.0,
+      "change": 44.08,
+      "reason": "change 44.1"
+    },
+    {
+      "time": 855.0,
+      "change": 16.41,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 860.0,
+      "change": 20.33,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 862.5,
+      "change": 64.94,
+      "reason": "change 64.9"
+    },
+    {
+      "time": 865.0,
+      "change": 19.03,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 866.5,
+      "change": 53.73,
+      "reason": "change 53.7"
+    },
+    {
+      "time": 868.0,
+      "change": 27.66,
+      "reason": "change 27.7"
+    },
+    {
+      "time": 869.5,
+      "change": 41.26,
+      "reason": "change 41.3"
+    },
+    {
+      "time": 870.0,
+      "change": 57.86,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 875.0,
+      "change": 3.55,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 878.0,
+      "change": 60.83,
+      "reason": "change 60.8"
+    },
+    {
+      "time": 880.0,
+      "change": 1.25,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 885.0,
+      "change": 2.5,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 890.0,
+      "change": 1.19,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 891.5,
+      "change": 71.86,
+      "reason": "change 71.9"
+    },
+    {
+      "time": 893.0,
+      "change": 30.66,
+      "reason": "change 30.7"
+    },
+    {
+      "time": 895.0,
+      "change": 25.79,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 896.5,
+      "change": 33.99,
+      "reason": "change 34.0"
+    },
+    {
+      "time": 898.0,
+      "change": 50.92,
+      "reason": "change 50.9"
+    },
+    {
+      "time": 900.0,
+      "change": 33.84,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 903.0,
+      "change": 30.9,
+      "reason": "change 30.9"
+    },
+    {
+      "time": 904.5,
+      "change": 63.38,
+      "reason": "change 63.4"
+    },
+    {
+      "time": 905.0,
+      "change": 30.08,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 908.5,
+      "change": 26.07,
+      "reason": "change 26.1"
+    },
+    {
+      "time": 910.0,
+      "change": 27.3,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 911.5,
+      "change": 27.19,
+      "reason": "change 27.2"
+    },
+    {
+      "time": 915.0,
+      "change": 5.73,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 920.0,
+      "change": 3.45,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 925.0,
+      "change": 16.57,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 930.0,
+      "change": 4.23,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 933.5,
+      "change": 26.66,
+      "reason": "change 26.7"
+    },
+    {
+      "time": 935.0,
+      "change": 27.25,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 936.5,
+      "change": 28.25,
+      "reason": "change 28.3"
+    },
+    {
+      "time": 938.0,
+      "change": 65.94,
+      "reason": "change 65.9"
+    },
+    {
+      "time": 940.0,
+      "change": 9.81,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 942.5,
+      "change": 44.73,
+      "reason": "change 44.7"
+    },
+    {
+      "time": 945.0,
+      "change": 20.89,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 947.0,
+      "change": 43.12,
+      "reason": "change 43.1"
+    },
+    {
+      "time": 949.0,
+      "change": 79.73,
+      "reason": "change 79.7"
+    },
+    {
+      "time": 950.0,
+      "change": 23.88,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 953.0,
+      "change": 30.88,
+      "reason": "change 30.9"
+    },
+    {
+      "time": 954.5,
+      "change": 56.59,
+      "reason": "change 56.6"
+    },
+    {
+      "time": 955.0,
+      "change": 32.64,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 956.5,
+      "change": 28.0,
+      "reason": "change 28.0"
+    },
+    {
+      "time": 958.0,
+      "change": 33.31,
+      "reason": "change 33.3"
+    },
+    {
+      "time": 960.0,
+      "change": 23.87,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 965.0,
+      "change": 23.73,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 966.5,
+      "change": 38.64,
+      "reason": "change 38.6"
+    },
+    {
+      "time": 970.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 974.0,
+      "change": 36.11,
+      "reason": "change 36.1"
+    },
+    {
+      "time": 975.0,
+      "change": 56.79,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 976.5,
+      "change": 31.91,
+      "reason": "change 31.9"
+    },
+    {
+      "time": 978.0,
+      "change": 43.39,
+      "reason": "change 43.4"
+    },
+    {
+      "time": 980.0,
+      "change": 11.91,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 982.0,
+      "change": 56.74,
+      "reason": "change 56.7"
+    },
+    {
+      "time": 985.0,
+      "change": 13.1,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 986.5,
+      "change": 49.99,
+      "reason": "change 50.0"
+    },
+    {
+      "time": 988.0,
+      "change": 31.84,
+      "reason": "change 31.8"
+    },
+    {
+      "time": 990.0,
+      "change": 27.18,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 991.5,
+      "change": 32.15,
+      "reason": "change 32.1"
+    },
+    {
+      "time": 993.0,
+      "change": 29.29,
+      "reason": "change 29.3"
+    },
+    {
+      "time": 994.5,
+      "change": 58.93,
+      "reason": "change 58.9"
+    },
+    {
+      "time": 995.0,
+      "change": 39.83,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1000.0,
+      "change": 5.27,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1005.0,
+      "change": 1.04,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1010.0,
+      "change": 32.65,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1015.0,
+      "change": 8.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1018.0,
+      "change": 28.54,
+      "reason": "change 28.5"
+    },
+    {
+      "time": 1020.0,
+      "change": 14.09,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1025.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1030.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1035.0,
+      "change": 5.83,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1040.0,
+      "change": 6.25,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1042.5,
+      "change": 76.25,
+      "reason": "change 76.3"
+    },
+    {
+      "time": 1045.0,
+      "change": 15.93,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1047.0,
+      "change": 87.63,
+      "reason": "change 87.6"
+    },
+    {
+      "time": 1050.0,
+      "change": 7.44,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1055.0,
+      "change": 7.72,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1059.5,
+      "change": 30.58,
+      "reason": "change 30.6"
+    },
+    {
+      "time": 1060.0,
+      "change": 14.01,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1064.0,
+      "change": 61.85,
+      "reason": "change 61.8"
+    },
+    {
+      "time": 1065.0,
+      "change": 14.78,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1070.0,
+      "change": 16.2,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1075.0,
+      "change": 16.43,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1077.0,
+      "change": 46.68,
+      "reason": "change 46.7"
+    },
+    {
+      "time": 1080.0,
+      "change": 6.49,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1085.0,
+      "change": 6.31,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1087.5,
+      "change": 35.5,
+      "reason": "change 35.5"
+    },
+    {
+      "time": 1090.0,
+      "change": 7.01,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1093.0,
+      "change": 31.08,
+      "reason": "change 31.1"
+    },
+    {
+      "time": 1095.0,
+      "change": 5.84,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1100.0,
+      "change": 5.42,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1102.0,
+      "change": 73.68,
+      "reason": "change 73.7"
+    },
+    {
+      "time": 1103.5,
+      "change": 70.57,
+      "reason": "change 70.6"
+    },
+    {
+      "time": 1105.0,
+      "change": 7.37,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1108.5,
+      "change": 85.53,
+      "reason": "change 85.5"
+    },
+    {
+      "time": 1110.0,
+      "change": 12.24,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1111.5,
+      "change": 60.32,
+      "reason": "change 60.3"
+    },
+    {
+      "time": 1113.5,
+      "change": 61.7,
+      "reason": "change 61.7"
+    },
+    {
+      "time": 1115.0,
+      "change": 14.61,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1117.0,
+      "change": 59.65,
+      "reason": "change 59.7"
+    },
+    {
+      "time": 1119.0,
+      "change": 35.37,
+      "reason": "change 35.4"
+    },
+    {
+      "time": 1120.0,
+      "change": 31.15,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1125.0,
+      "change": 44.43,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1126.5,
+      "change": 58.35,
+      "reason": "change 58.3"
+    },
+    {
+      "time": 1130.0,
+      "change": 3.8,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1135.0,
+      "change": 1.65,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1140.0,
+      "change": 3.34,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1143.5,
+      "change": 100.19,
+      "reason": "change 100.2"
+    },
+    {
+      "time": 1145.0,
+      "change": 21.75,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1150.0,
+      "change": 25.26,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1155.0,
+      "change": 10.47,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1156.5,
+      "change": 113.86,
+      "reason": "change 113.9"
+    },
+    {
+      "time": 1160.0,
+      "change": 26.7,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1161.5,
+      "change": 26.77,
+      "reason": "change 26.8"
+    },
+    {
+      "time": 1163.5,
+      "change": 59.22,
+      "reason": "change 59.2"
+    },
+    {
+      "time": 1165.0,
+      "change": 23.09,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1167.5,
+      "change": 26.32,
+      "reason": "change 26.3"
+    },
+    {
+      "time": 1170.0,
+      "change": 23.73,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1171.5,
+      "change": 35.1,
+      "reason": "change 35.1"
+    },
+    {
+      "time": 1173.0,
+      "change": 36.35,
+      "reason": "change 36.3"
+    },
+    {
+      "time": 1174.5,
+      "change": 50.97,
+      "reason": "change 51.0"
+    },
+    {
+      "time": 1175.0,
+      "change": 21.26,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1179.5,
+      "change": 122.27,
+      "reason": "change 122.3"
+    },
+    {
+      "time": 1180.0,
+      "change": 2.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1185.0,
+      "change": 2.15,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1190.0,
+      "change": 2.72,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1195.0,
+      "change": 1.47,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1196.5,
+      "change": 125.76,
+      "reason": "change 125.8"
+    },
+    {
+      "time": 1198.0,
+      "change": 31.89,
+      "reason": "change 31.9"
+    },
+    {
+      "time": 1199.5,
+      "change": 33.64,
+      "reason": "change 33.6"
+    },
+    {
+      "time": 1200.0,
+      "change": 34.1,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1201.5,
+      "change": 35.46,
+      "reason": "change 35.5"
+    },
+    {
+      "time": 1203.0,
+      "change": 34.66,
+      "reason": "change 34.7"
+    },
+    {
+      "time": 1204.5,
+      "change": 35.5,
+      "reason": "change 35.5"
+    },
+    {
+      "time": 1205.0,
+      "change": 35.85,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1206.5,
+      "change": 36.39,
+      "reason": "change 36.4"
+    },
+    {
+      "time": 1208.0,
+      "change": 57.74,
+      "reason": "change 57.7"
+    },
+    {
+      "time": 1210.0,
+      "change": 22.72,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1211.5,
+      "change": 57.98,
+      "reason": "change 58.0"
+    },
+    {
+      "time": 1213.0,
+      "change": 40.38,
+      "reason": "change 40.4"
+    },
+    {
+      "time": 1214.5,
+      "change": 40.42,
+      "reason": "change 40.4"
+    },
+    {
+      "time": 1215.0,
+      "change": 98.57,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1220.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1225.0,
+      "change": 1.16,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1227.0,
+      "change": 81.07,
+      "reason": "change 81.1"
+    },
+    {
+      "time": 1228.5,
+      "change": 32.92,
+      "reason": "change 32.9"
+    },
+    {
+      "time": 1230.0,
+      "change": 33.11,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1231.5,
+      "change": 32.49,
+      "reason": "change 32.5"
+    },
+    {
+      "time": 1233.0,
+      "change": 32.41,
+      "reason": "change 32.4"
+    },
+    {
+      "time": 1234.5,
+      "change": 31.14,
+      "reason": "change 31.1"
+    },
+    {
+      "time": 1235.0,
+      "change": 33.19,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1240.0,
+      "change": 20.08,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1242.0,
+      "change": 54.13,
+      "reason": "change 54.1"
+    },
+    {
+      "time": 1245.0,
+      "change": 25.62,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1250.0,
+      "change": 19.98,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1255.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1260.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1265.0,
+      "change": 0.01,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1270.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1273.5,
+      "change": 83.65,
+      "reason": "change 83.6"
+    },
+    {
+      "time": 1275.0,
+      "change": 14.88,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1280.0,
+      "change": 12.72,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1285.0,
+      "change": 14.47,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1287.0,
+      "change": 94.68,
+      "reason": "change 94.7"
+    },
+    {
+      "time": 1290.0,
+      "change": 8.53,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1291.5,
+      "change": 46.22,
+      "reason": "change 46.2"
+    },
+    {
+      "time": 1295.0,
+      "change": 11.1,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1298.5,
+      "change": 49.71,
+      "reason": "change 49.7"
+    },
+    {
+      "time": 1300.0,
+      "change": 19.52,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1301.5,
+      "change": 29.67,
+      "reason": "change 29.7"
+    },
+    {
+      "time": 1305.0,
+      "change": 13.05,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1306.5,
+      "change": 62.88,
+      "reason": "change 62.9"
+    },
+    {
+      "time": 1308.0,
+      "change": 27.1,
+      "reason": "change 27.1"
+    },
+    {
+      "time": 1310.0,
+      "change": 1.07,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1314.0,
+      "change": 57.77,
+      "reason": "change 57.8"
+    },
+    {
+      "time": 1315.0,
+      "change": 8.11,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1317.5,
+      "change": 72.89,
+      "reason": "change 72.9"
+    },
+    {
+      "time": 1320.0,
+      "change": 1.8,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1321.5,
+      "change": 92.2,
+      "reason": "change 92.2"
+    },
+    {
+      "time": 1325.0,
+      "change": 0.03,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1330.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1335.0,
+      "change": 0.0,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1337.0,
+      "change": 65.92,
+      "reason": "change 65.9"
+    },
+    {
+      "time": 1338.5,
+      "change": 49.22,
+      "reason": "change 49.2"
+    },
+    {
+      "time": 1340.0,
+      "change": 49.52,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1341.5,
+      "change": 41.31,
+      "reason": "change 41.3"
+    },
+    {
+      "time": 1343.0,
+      "change": 45.56,
+      "reason": "change 45.6"
+    },
+    {
+      "time": 1344.5,
+      "change": 70.71,
+      "reason": "change 70.7"
+    },
+    {
+      "time": 1345.0,
+      "change": 38.51,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1346.5,
+      "change": 38.66,
+      "reason": "change 38.7"
+    },
+    {
+      "time": 1350.0,
+      "change": 4.23,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1355.0,
+      "change": 4.74,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1360.0,
+      "change": 3.9,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1365.0,
+      "change": 3.55,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1366.5,
+      "change": 182.76,
+      "reason": "change 182.8"
+    },
+    {
+      "time": 1370.0,
+      "change": 0.35,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1375.0,
+      "change": 2.4,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1380.0,
+      "change": 0.18,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1385.0,
+      "change": 0.4,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1390.0,
+      "change": 0.31,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1391.5,
+      "change": 31.1,
+      "reason": "change 31.1"
+    },
+    {
+      "time": 1395.0,
+      "change": 11.55,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1400.0,
+      "change": 4.47,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1405.0,
+      "change": 2.11,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1410.0,
+      "change": 1.77,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1415.0,
+      "change": 1.99,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1420.0,
+      "change": 18.2,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1425.0,
+      "change": 2.68,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1430.0,
+      "change": 1.44,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1435.0,
+      "change": 2.51,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1440.0,
+      "change": 12.48,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1445.0,
+      "change": 1.28,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1446.5,
+      "change": 38.94,
+      "reason": "change 38.9"
+    },
+    {
+      "time": 1449.0,
+      "change": 119.77,
+      "reason": "change 119.8"
+    },
+    {
+      "time": 1450.0,
+      "change": 6.04,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1455.0,
+      "change": 5.98,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1457.5,
+      "change": 33.33,
+      "reason": "change 33.3"
+    },
+    {
+      "time": 1460.0,
+      "change": 9.21,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1465.0,
+      "change": 28.94,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1470.0,
+      "change": 11.47,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1472.0,
+      "change": 44.78,
+      "reason": "change 44.8"
+    },
+    {
+      "time": 1475.0,
+      "change": 8.87,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1478.5,
+      "change": 43.08,
+      "reason": "change 43.1"
+    },
+    {
+      "time": 1480.0,
+      "change": 9.46,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1485.0,
+      "change": 9.05,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1490.0,
+      "change": 0.34,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1493.5,
+      "change": 59.25,
+      "reason": "change 59.2"
+    },
+    {
+      "time": 1495.0,
+      "change": 16.07,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1496.5,
+      "change": 51.93,
+      "reason": "change 51.9"
+    },
+    {
+      "time": 1499.5,
+      "change": 42.74,
+      "reason": "change 42.7"
+    },
+    {
+      "time": 1500.0,
+      "change": 32.03,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1501.5,
+      "change": 26.58,
+      "reason": "change 26.6"
+    },
+    {
+      "time": 1503.0,
+      "change": 28.18,
+      "reason": "change 28.2"
+    },
+    {
+      "time": 1504.5,
+      "change": 68.68,
+      "reason": "change 68.7"
+    },
+    {
+      "time": 1505.0,
+      "change": 8.08,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1510.0,
+      "change": 3.83,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1512.5,
+      "change": 72.1,
+      "reason": "change 72.1"
+    },
+    {
+      "time": 1515.0,
+      "change": 2.27,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1520.0,
+      "change": 1.3,
+      "reason": "5s cadence"
+    },
+    {
+      "time": 1521.5,
+      "change": 36.33,
+      "reason": "change 36.3"
+    }
+  ],
+  "coverage": "Every consecutive 60-second interval; 5-second cadence plus large frame-change candidates.",
+  "limits": "Sampled contact-sheet inspection does not establish continuous watching, auditory judgment, exact edit timing, or coverage of every sub-0.5-second shot. Cut detector may also flag motion."
+}

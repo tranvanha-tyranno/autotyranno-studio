@@ -1,0 +1,60 @@
+{
+  "directions": {
+    "long": {
+      "decodedFrames": 2460,
+      "expectedFrames": 2460,
+      "frameCountPass": true,
+      "fps": 30.0,
+      "seconds": 82.0,
+      "width": 1920,
+      "height": 1080,
+      "clauses": 38,
+      "fullNarratedClausesPairedToActualMP4": true,
+      "videoSHA256": "b6fa87ebf7e27266f1ac7471a47852e116aeb1f2628cecfdb409d8c0aac7156c",
+      "audioMeasuredOnFinalMP4": {
+        "input_i": "-16.08",
+        "input_tp": "-4.81",
+        "input_lra": "2.00",
+        "input_thresh": "-26.43",
+        "output_i": "-15.97",
+        "output_tp": "-4.58",
+        "output_lra": "2.00",
+        "output_thresh": "-26.31",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.03"
+      },
+      "semanticAcceptance": "All clause samples reviewed on final MP4; core narrated meaning visible. See VISUAL_REVIEW.md for actual scope and limits. User aesthetic acceptance pending.",
+      "userAcceptance": "pending",
+      "humanAudioListening": "not performed by this script"
+    },
+    "hidden": {
+      "decodedFrames": 2490,
+      "expectedFrames": 2490,
+      "frameCountPass": true,
+      "fps": 30.0,
+      "seconds": 83.0,
+      "width": 1920,
+      "height": 1080,
+      "clauses": 37,
+      "fullNarratedClausesPairedToActualMP4": true,
+      "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92",
+      "audioMeasuredOnFinalMP4": {
+        "input_i": "-16.05",
+        "input_tp": "-4.84",
+        "input_lra": "2.10",
+        "input_thresh": "-26.52",
+        "output_i": "-15.93",
+        "output_tp": "-4.56",
+        "output_lra": "1.80",
+        "output_thresh": "-26.39",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.07"
+      },
+      "semanticAcceptance": "All clause samples reviewed on final MP4; core narrated meaning visible. See VISUAL_REVIEW.md for actual scope and limits. User aesthetic acceptance pending.",
+      "userAcceptance": "pending",
+      "humanAudioListening": "not performed by this script"
+    }
+  },
+  "userAcceptance": "pending",
+  "scope": "rebuild after explicit rejection for semantic mismatch"
+}

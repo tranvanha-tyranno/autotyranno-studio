@@ -1,0 +1,60 @@
+{
+  "schema": "older-content-study/1",
+  "date": "2026-11-14",
+  "status": "partial_preserved_on_user_task_change",
+  "sources": [
+    {
+      "id": "9I2suK0eob4",
+      "title": "Sóng Suy Thoái Tàn Khốc 2027: Cơ Hội Để Giàu Cả Đời, Tài Sản Nào Sẽ Lên Ngôi? | Bí Mật Kinh Doanh",
+      "channel": "Bí mật kinh doanh",
+      "url": "https://www.youtube.com/watch?v=9I2suK0eob4",
+      "duration": 1877,
+      "transcript_path": "docs/video-references/2026-11-11/9I2suK0eob4/transcript.txt",
+      "transcript_sha256": "75537c02ec3074a5d9dd83bc2eac0e6deafa627ae6e7e5c231502f16a9cbe2a7",
+      "full_read": false,
+      "continuous_av_review": false,
+      "status": "incomplete_after_user_steered_to_full_bread_video_rebuild",
+      "coverage_note": "Initial batched transcript output was truncated; cannot claim full read. No full functional chapter analysis completed for this source in this pass."
+    },
+    {
+      "id": "bm5q0e4MXhg",
+      "title": "Bảng Giá Đất Mới Tăng Gấp 10 Lần: Hàng Triệu Mảnh Đất Vườn Có Nguy Cơ Không Thể Lên Thổ Cư!",
+      "channel": "Giao Lộ Chính Sách",
+      "url": "https://www.youtube.com/watch?v=bm5q0e4MXhg",
+      "duration": 2390,
+      "transcript_path": "docs/video-references/2026-11-11/bm5q0e4MXhg/transcript.txt",
+      "transcript_sha256": "ba8b2d634710b2c6e0b77185bc940719946d7b75c61df0dd13a98f0e8368bd0e",
+      "full_read": false,
+      "continuous_av_review": false,
+      "status": "incomplete_after_user_steered_to_full_bread_video_rebuild",
+      "coverage_note": "Initial batched transcript output was truncated; cannot claim full read. No full functional chapter analysis completed for this source in this pass."
+    },
+    {
+      "id": "BOD_6bf_6pM",
+      "title": "Cơ Hội Ngàn Năm Có Một - Chu Kỳ 18 Năm Lặp Lại: 2026 Sẽ Là Năm Tạo Triệu Phú Nhanh Nhất Thế Kỷ?",
+      "channel": "Bí mật kinh doanh",
+      "url": "https://www.youtube.com/watch?v=BOD_6bf_6pM",
+      "duration": 1955,
+      "transcript_path": "docs/video-references/2026-11-11/BOD_6bf_6pM/transcript.txt",
+      "transcript_sha256": "0ccd3c9ebffaa34f479fd95e601445525e0037114c6e9f7ff500ca6b874b1f12",
+      "full_read": false,
+      "continuous_av_review": false,
+      "status": "incomplete_after_user_steered_to_full_bread_video_rebuild",
+      "coverage_note": "Initial batched transcript output was truncated; cannot claim full read. No full functional chapter analysis completed for this source in this pass."
+    },
+    {
+      "id": "ERI4I4V4sBs",
+      "title": "Lạm Phát Khủng Khiếp 2026-2027: Mọi Tài Sản Sụp Đổ Trắng Tay? Cơ Hội Ở Đâu? | Bí Mật Kinh Doanh",
+      "channel": "Bí mật kinh doanh",
+      "url": "https://www.youtube.com/watch?v=ERI4I4V4sBs",
+      "duration": 1827,
+      "transcript_path": "docs/video-references/2026-11-11/ERI4I4V4sBs/transcript.txt",
+      "transcript_sha256": "ffa34cb164d7ca48717f7356bf33b81ca81f4d4966fda6e234df44d4e83e015c",
+      "full_read": false,
+      "continuous_av_review": false,
+      "status": "incomplete_after_user_steered_to_full_bread_video_rebuild",
+      "coverage_note": "Initial batched transcript output was truncated; cannot claim full read. No full functional chapter analysis completed for this source in this pass."
+    }
+  ],
+  "next_step": "Read each transcript in bounded untruncated chunks before functional analysis or full_read=true. Prioritize newly requested bread documentary renderer now."
+}

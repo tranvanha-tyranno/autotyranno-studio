@@ -1,0 +1,120 @@
+{
+  "technical": "passed",
+  "proofExcerptSeconds": 17.833333333333332,
+  "fullOriginalNarrationSeconds": 77.76666666666667,
+  "sameDecodedAudio": true,
+  "newPaidCalls": 0,
+  "records": [
+    {
+      "style": "flow",
+      "sha256": "e3acdf3c60a44c98385daf6f638f8021847075577d8bafe6915075e3aada564a",
+      "decodedFrames": 535,
+      "fps": 30.0,
+      "size": [
+        1920,
+        1080
+      ],
+      "decodedAudioSeconds": 17.834666666666667,
+      "audioPCMHash": "7d1e62a40feb57031d5a78c977fe6a48dd8c8199405f01e3f61dbb3064f2d597",
+      "samples": [
+        {
+          "frame": 29,
+          "file": "frame-0029.png"
+        },
+        {
+          "frame": 89,
+          "file": "frame-0089.png"
+        },
+        {
+          "frame": 149,
+          "file": "frame-0149.png"
+        },
+        {
+          "frame": 208,
+          "file": "frame-0208.png"
+        },
+        {
+          "frame": 268,
+          "file": "frame-0268.png"
+        },
+        {
+          "frame": 321,
+          "file": "frame-0321.png"
+        },
+        {
+          "frame": 369,
+          "file": "frame-0369.png"
+        },
+        {
+          "frame": 416,
+          "file": "frame-0416.png"
+        },
+        {
+          "frame": 463,
+          "file": "frame-0463.png"
+        },
+        {
+          "frame": 511,
+          "file": "frame-0511.png"
+        }
+      ]
+    },
+    {
+      "style": "comic",
+      "sha256": "1c665e9008ab62de270f32b6a9fa8f35d007ab62ec148bb97387291e3d350aed",
+      "decodedFrames": 535,
+      "fps": 30.0,
+      "size": [
+        1920,
+        1080
+      ],
+      "decodedAudioSeconds": 17.834666666666667,
+      "audioPCMHash": "7d1e62a40feb57031d5a78c977fe6a48dd8c8199405f01e3f61dbb3064f2d597",
+      "samples": [
+        {
+          "frame": 29,
+          "file": "frame-0029.png"
+        },
+        {
+          "frame": 89,
+          "file": "frame-0089.png"
+        },
+        {
+          "frame": 149,
+          "file": "frame-0149.png"
+        },
+        {
+          "frame": 208,
+          "file": "frame-0208.png"
+        },
+        {
+          "frame": 268,
+          "file": "frame-0268.png"
+        },
+        {
+          "frame": 321,
+          "file": "frame-0321.png"
+        },
+        {
+          "frame": 369,
+          "file": "frame-0369.png"
+        },
+        {
+          "frame": 416,
+          "file": "frame-0416.png"
+        },
+        {
+          "frame": 463,
+          "file": "frame-0463.png"
+        },
+        {
+          "frame": 511,
+          "file": "frame-0511.png"
+        }
+      ]
+    }
+  ],
+  "editorialReview": "Pending actual rendered review; frame counts are not aesthetic acceptance",
+  "continuousAVReview": false,
+  "userApproval": "pending"
+}

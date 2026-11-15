@@ -1,0 +1,29 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,47,&H00FFFFFF,&H00FFFFFF,&H00202020,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,130,130,100,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.25,Default,,0,0,0,,{\fad(70,70)}Một nghìn tỷ đô la xuất {\c&H47B3FF&}nhập khẩu.
+Dialogue: 0,0:00:02.31,0:00:06.01,Default,,0,0,0,,{\fad(70,70)}Nghe như Việt Nam vừa kiếm được một gia tài. {\c&H47B3FF&}Nhưng khoan:
+Dialogue: 0,0:00:06.01,0:00:07.44,Default,,0,0,0,,{\fad(70,70)}đó không phải {\c&H47B3FF&}lợi nhuận.
+Dialogue: 0,0:00:07.46,0:00:10.47,Default,,0,0,0,,{\fad(70,70)}Báo cáo mười tháng năm hai nghìn không trăm hai {\c&H47B3FF&}mươi sáu
+Dialogue: 0,0:00:10.47,0:00:12.87,Default,,0,0,0,,{\fad(70,70)}ghi nhận thương mại hàng hóa vượt {\c&H47B3FF&}mốc này.
+Dialogue: 0,0:00:12.91,0:00:16.26,Default,,0,0,0,,{\fad(70,70)}Con số cộng cả hàng bán ra lẫn hàng {\c&H47B3FF&}mua vào.
+Dialogue: 0,0:00:16.30,0:00:18.15,Default,,0,0,0,,{\fad(70,70)}Hãy hình dung một {\c&H47B3FF&}xưởng may:
+Dialogue: 0,0:00:18.15,0:00:21.06,Default,,0,0,0,,{\fad(70,70)}đơn hàng rất lớn, nhưng vải, máy {\c&H47B3FF&}móc và
+Dialogue: 0,0:00:21.06,0:00:22.56,Default,,0,0,0,,{\fad(70,70)}thiết kế đều {\c&H47B3FF&}phải mua.
+Dialogue: 0,0:00:22.60,0:00:26.26,Default,,0,0,0,,{\fad(70,70)}Doanh thu chạy qua xưởng không đồng nghĩa tiền ở lại {\c&H47B3FF&}trong túi.
+Dialogue: 0,0:00:26.32,0:00:28.20,Default,,0,0,0,,{\fad(70,70)}Với nền kinh tế {\c&H47B3FF&}cũng vậy.
+Dialogue: 0,0:00:28.20,0:00:32.01,Default,,0,0,0,,{\fad(70,70)}Điều đáng hỏi là doanh nghiệp Việt giữ được bao nhiêu {\c&H47B3FF&}giá trị?
+Dialogue: 0,0:00:32.10,0:00:35.07,Default,,0,0,0,,{\fad(70,70)}Muốn tiến xa, không chỉ cần thêm {\c&H47B3FF&}đơn hàng.
+Dialogue: 0,0:00:35.07,0:00:37.99,Default,,0,0,0,,{\fad(70,70)}Còn cần công nghệ, thiết kế, thương {\c&H47B3FF&}hiệu và
+Dialogue: 0,0:00:37.99,0:00:39.64,Default,,0,0,0,,{\fad(70,70)}những doanh nghiệp nội {\c&H47B3FF&}đủ mạnh.
+Dialogue: 0,0:00:39.84,0:00:41.96,Default,,0,0,0,,{\fad(70,70)}Mốc kỷ lục là tín hiệu {\c&H47B3FF&}tích cực.
+Dialogue: 0,0:00:41.96,0:00:45.00,Default,,0,0,0,,{\fad(70,70)}Nhưng thước đo dài hạn vẫn là năng suất và {\c&H47B3FF&}thu nhập.
+Dialogue: 0,0:00:45.00,0:00:48.01,Default,,0,0,0,,{\fad(70,70)}Việt Nam sẽ chỉ bán nhiều hơn, hay {\c&H47B3FF&}sẽ làm
+Dialogue: 0,0:00:48.01,0:00:49.09,Default,,0,0,0,,{\fad(70,70)}chủ {\c&H47B3FF&}nhiều hơn?

@@ -1,0 +1,126 @@
+[
+  {
+    "file": "batch/content.json",
+    "sha256": "5939a64aa7c6e7606e9915ca96e9f5c0fdb5fecb68f58f6785d6c21883246ce0"
+  },
+  {
+    "file": "batch/data.json",
+    "sha256": "5780a919b1f6ae5c0d1ad7b2f501e18ef90f9ed43e945de957a6d0cdbadcae6c"
+  },
+  {
+    "file": "batch/props.json",
+    "sha256": "3e9fa8692f9b2680c81e396303e87e5c3b67c2d397abb6a657f960c88d42cf35"
+  },
+  {
+    "file": "batch/visual-plan.json",
+    "sha256": "3521682197bb73f4d7fd53bbe1d8fb1ddb3ee842af10b63d0695e7d57661008c"
+  },
+  {
+    "file": "batch/source-receipts.json",
+    "sha256": "20ede4a54986536024f24ae27e4665becb574811092d33b840235d71fd373ec6"
+  },
+  {
+    "file": "batch/preflight.json",
+    "sha256": "0c45ff49129e04ccc4e392419f0589a694802fa6eb2b8b3babba6055bddf601a"
+  },
+  {
+    "file": "batch/chapter-timing.json",
+    "sha256": "dca5e27f47658cdcd8a0b0ff63ac67dd7eefd60b4e746ec5871e189a9f3ac597"
+  },
+  {
+    "file": "batch/audio/mix-report.json",
+    "sha256": "b1b83e4fc4da5ced7f59853d77478902b34d87d749a1b9dac54d47a977c55eab"
+  },
+  {
+    "file": "batch/audio/narration.receipt.json",
+    "sha256": "cfdc7b1f33649abe299784aee5a81e9d04a62140fe82a4ed57511ab18edbff2e"
+  },
+  {
+    "file": "batch/audio/cue-plan.json",
+    "sha256": "0191076a7a03b7b446ca7c4626321d975afe1fa19bd0bcba14995629696bb933"
+  },
+  {
+    "file": "batch/audio/mix-dependencies.json",
+    "sha256": "cf376270dcbc4eb101f1804d6708c03be3b42f7f153832493ecad3c09f4dedc3"
+  },
+  {
+    "file": "workflow/china.py",
+    "sha256": "3a5783e824fe492ade01a8c1098cd31fcb56af597162ddd0ccee45e4d6b98ac6"
+  },
+  {
+    "file": "workflow/china_audio.py",
+    "sha256": "cdb661845e75d02b5ab164035657d78aebf2f990f7cc4197048bfe62c06aaf54"
+  },
+  {
+    "file": "workflow/china_render.py",
+    "sha256": "f879e6feabfebfe0f7843014ea5bd43473dbc0fe3914fc404f0dc0d1ac3d2acb"
+  },
+  {
+    "file": "workflow/eleven_audio.py",
+    "sha256": "66d23c113d72b70d96ea01d79f2055e250ec7578aab62b4be3dd96a863bd8db3"
+  },
+  {
+    "file": "workflow/cinematic/src/china-entry.tsx",
+    "sha256": "4eec75794d22201f18da25ed313cba89f84a65090466db278823696d3e7ef80a"
+  },
+  {
+    "file": "workflow/cinematic/package.json",
+    "sha256": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f"
+  },
+  {
+    "file": "workflow/cinematic/package-lock.json",
+    "sha256": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c"
+  },
+  {
+    "file": "workflow/cinematic/remotion.config.ts",
+    "sha256": "af5ce97f98b2c91a7891f2bef4801f7dc700843f010fd81e1566d9eebf6f5ad1"
+  },
+  {
+    "file": "workflow/cinematic/src/china/ChartScene.tsx",
+    "sha256": "78f9173a95324745999292fabe851569070fdc208e8ee189db5cdcbbbcf9edc2"
+  },
+  {
+    "file": "workflow/cinematic/src/china/ChinaFilm.tsx",
+    "sha256": "fdfe964fedbe326856723f14e474bb9fe4698375ab86e94326f796b8a0fe4ece"
+  },
+  {
+    "file": "workflow/cinematic/src/china/CompareScene.tsx",
+    "sha256": "8e3031050ae1c8432b9282f8547eee81f20d57623abef67274c70819ed72d708"
+  },
+  {
+    "file": "workflow/cinematic/src/china/FlowScene.tsx",
+    "sha256": "04c2cefb8e17bf91508f08146560a0d67296d1c1f1f7b4bb5c78283733a93ee0"
+  },
+  {
+    "file": "workflow/cinematic/src/china/index.ts",
+    "sha256": "32ab23595a3a751aa71d877f8d32feb504b3a635a46867d313354c174671d9f1"
+  },
+  {
+    "file": "workflow/cinematic/src/china/MapScene.tsx",
+    "sha256": "0188b0d9cca2023fc7bcd95239ea4e03e5b823fe36c1c66ff6d891ac254292cd"
+  },
+  {
+    "file": "workflow/cinematic/src/china/README.md",
+    "sha256": "fc560d66a509126c9f2463540721361124a10081c0c17a08108c8568dc89ff00"
+  },
+  {
+    "file": "workflow/cinematic/src/china/Shared.tsx",
+    "sha256": "5236dcdd1a3c844559979d0d5e4297a44a9c46edceb828546df7cb9fa333e24c"
+  },
+  {
+    "file": "workflow/cinematic/src/china/SimulationScene.tsx",
+    "sha256": "381c662c4e443395db442919bb009b2f9b49f5aae052e4285b2ef8aa86af0c63"
+  },
+  {
+    "file": "workflow/cinematic/src/china/types.ts",
+    "sha256": "61eca5572b64071d8b03d20f2b19a69df39eb8aab2135120b4e9e09db243ddbc"
+  },
+  {
+    "file": "workflow/cinematic/src/china/geography/natural-earth-110m.json",
+    "sha256": "2ce99e35cb4a9f7e595e6abe8eec1b5a9de33d1c6518f45ef780f1a786b9b499"
+  },
+  {
+    "file": "workflow/cinematic/src/china/geography/source-receipt.json",
+    "sha256": "42d0542520b9f21332da926b2f56b060c53e545ec493a98baa21bddb1acbd0e0"
+  }
+]

@@ -1,0 +1,141 @@
+{
+  "schema": "china-variety-data-scene-review/1",
+  "recordedUTC": "2026-11-13T06:29:14.304611+00:00",
+  "sourceFile": "workflows\\reference-video\\cinematic\\src\\china-v2\\DataTradeScenes.tsx",
+  "sourceSHA256": "3a4c2c28c77eb91203de3938ccd470d55c4d5bf2a2658f3e4fc7c1490c16cca8",
+  "typeScript": "Full-project tsc --noEmit passed before still bundle",
+  "actualViewed": {
+    "all13MatureStills": true,
+    "contact": "first-contact.jpg",
+    "native": [
+      "t07.jpg",
+      "r04.jpg"
+    ],
+    "temporal": "temporal-contact.jpg",
+    "temporalShots": [
+      "h04",
+      "t04",
+      "t06",
+      "p06"
+    ],
+    "temporalFractions": [
+      0.15,
+      0.46,
+      0.9
+    ]
+  },
+  "observations": [
+    "Thirteen data/trade compositions use different mechanisms and spatial arrangements; no donor donut, conveyor or ribbon component imports.",
+    "f06 markers cross a shared numeric zero and negative construction marker points left; all three values labelled.",
+    "r04 labels100→79.4 as calculatedcomparisonindex, highlights−20.6%investment, and explicitly denies houseprice interpretation.",
+    "h04 lens reveals real2.7%after nominal3.6%; arithmetic difference is not called exact inflation.",
+    "t04 starts10visible blocks, repositions7toimports and3toremainder without generating newcounts.",
+    "t06 partialreroute leaves originalsupplierparts anddottedoriginalconnection visible.",
+    "p06 three obligation slips move AtoB before illustrated handling; reclassification alone is not marked solved.",
+    "No internaltextclipping observed on opened1080pstills; productionwrapper/captions still requireintegrated review."
+  ],
+  "blockingIssues": [],
+  "scope": "Isolatedcomposition still/temporal evidence only; not final-film motion/audio review or user approval.",
+  "files": [
+    {
+      "file": "f05.jpg",
+      "sha256": "d1fd36b0a28fe7aba84e0c320cdd0383a8088e5780ee578241dc09ef17b01e45"
+    },
+    {
+      "file": "f06.jpg",
+      "sha256": "f24471ba6c67857418ebe41859756144ad76889cb934e729c9c0c549ca91b7fb"
+    },
+    {
+      "file": "r04.jpg",
+      "sha256": "b1652f75174e86eadc334b8f877e2a56615a0786daf50917811dcc82ec5e6247"
+    },
+    {
+      "file": "h04.jpg",
+      "sha256": "69a17756501f4bb5d3839d48dededaefb7b3243212bb1cf4c68d61e691f8b2ed"
+    },
+    {
+      "file": "t02.jpg",
+      "sha256": "2a4ece0758724650c81ea7a962c663b91ae639e81104a30c1d3f1d6611ded3c0"
+    },
+    {
+      "file": "t03.jpg",
+      "sha256": "f3aee40aa3d352eb563d74b990a095844272904cbc2e4b9265f7c5ee19125554"
+    },
+    {
+      "file": "t04.jpg",
+      "sha256": "ec2dcd473e31aa369bd555c085b18b8aaedd80f74c98fed32d64eff3a32ca976"
+    },
+    {
+      "file": "t05.jpg",
+      "sha256": "6ddb2570f71045ddc2fbd247bd49a2fca70b14dc38c99a9da4965acac3e25331"
+    },
+    {
+      "file": "t06.jpg",
+      "sha256": "de790e414ca7c3d0abdaf226e5d43a9a75d48cf0932b040edfb5f553918b9fcf"
+    },
+    {
+      "file": "t07.jpg",
+      "sha256": "8a859512968c4c73c04195f05a01629ac4867abc32d936873cb5adbb259ddaf9"
+    },
+    {
+      "file": "p01.jpg",
+      "sha256": "096f1178473f6f80327faea4cc02bc841b5c717655512b1a992645e8dc71c6b6"
+    },
+    {
+      "file": "p02.jpg",
+      "sha256": "ac1e937827592fb6deb926d483f794167f22e802d021277d75875ae7f11a9e54"
+    },
+    {
+      "file": "p06.jpg",
+      "sha256": "0755e8f626bae1a133d4d130d64242027485ae4dc512b2e47ef551df1480749f"
+    },
+    {
+      "file": "h04-t15.jpg",
+      "sha256": "b575b2e3bd30523d48ed1c037aba3be1795fadfa3ed7b3a6acb8ea45fa2e19e5"
+    },
+    {
+      "file": "h04-t46.jpg",
+      "sha256": "3d52e200c75093cead8d32715c2613f89ded24cd412f8557af801fccdc7634dd"
+    },
+    {
+      "file": "h04-t90.jpg",
+      "sha256": "69a17756501f4bb5d3839d48dededaefb7b3243212bb1cf4c68d61e691f8b2ed"
+    },
+    {
+      "file": "p06-t15.jpg",
+      "sha256": "fce81d56d042321c520769c36dd9e477e7b46e50f11d45d9540d1c29a9bd34e4"
+    },
+    {
+      "file": "p06-t46.jpg",
+      "sha256": "a83ca4050f216e7b0079bf7c387d476a1eaef2deb47f68435f57639031ad6020"
+    },
+    {
+      "file": "p06-t90.jpg",
+      "sha256": "bea8f729af2cf90a173d83ee02a6ab6642defcd759b6087a4b37bbdfa264b5dc"
+    },
+    {
+      "file": "t04-t15.jpg",
+      "sha256": "a0b94d0db60d8d4fa9d6adfb70a100c83467b8271d290d92466b3ca2379271aa"
+    },
+    {
+      "file": "t04-t46.jpg",
+      "sha256": "0ff6ce8c16e60fa119733dca724884e4bfb3f50b6bab5eadfdca1e6c32b252be"
+    },
+    {
+      "file": "t04-t90.jpg",
+      "sha256": "d7ece4c99dae000e9c9a18df0222260248bcd023281f1523f2396f994b167035"
+    },
+    {
+      "file": "t06-t15.jpg",
+      "sha256": "0b9a77aa00b3f026db0f6b15fbfe089992643ec1c27fc0ceb535c45814545c87"
+    },
+    {
+      "file": "t06-t46.jpg",
+      "sha256": "47c2c46ad75bac61d12793a21a27bca2ce7ea92fda7d641a164adaef346d016b"
+    },
+    {
+      "file": "t06-t90.jpg",
+      "sha256": "de790e414ca7c3d0abdaf226e5d43a9a75d48cf0932b040edfb5f553918b9fcf"
+    }
+  ]
+}

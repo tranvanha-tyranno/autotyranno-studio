@@ -1,0 +1,42 @@
+{
+  "id": "receipt-hands",
+  "file": "assets/receipt-hands.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 4959926,
+  "sourceURL": "https://www.pexels.com/photo/close-up-of-woman-hands-holding-bill-4959926/",
+  "downloadURL": "https://images.pexels.com/photos/4959926/pexels-photo-4959926.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Kaboompics",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a",
+  "width": 2400,
+  "height": 3600,
+  "tags": [
+    "household"
+  ],
+  "credit": "Kaboompics / Pexels",
+  "expectedFromSource": "Hands reviewing paper receipt",
+  "observed": "Hands hold a long white receipt against light gray backdrop. Full portrait preserves receipt from top to lower hand. Text not read or used as evidence.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Receipt-review context only, not actual bill of fictional household or shop. No receipt numbers or present-day prices inferred.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/receipt-hands.jpg"
+}

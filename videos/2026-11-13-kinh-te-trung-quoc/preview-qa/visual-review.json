@@ -1,0 +1,142 @@
+{
+  "schema": "china-preview-visual-review/1",
+  "reviewedUTC": "2026-11-13T05:48:42.746693+00:00",
+  "reviewer": "animated_shopping agent",
+  "method": "Actual pixels from two bounded seven-image sheets, followed by native image inspection of12of14previews",
+  "reviewedStillCount": 14,
+  "nativeImageCount": 12,
+  "contactSheets": [
+    {
+      "file": "visual-inspection-sheet-1.jpg",
+      "sha256": "2f881634a78260b3cdc73e686e608ac54493c1a09881834f14ff6a4db2b19b96",
+      "tiles": 7
+    },
+    {
+      "file": "visual-inspection-sheet-2.jpg",
+      "sha256": "2126ae79b4edb56e84b9d3e6b0e09962736452d9b095a918f46b73e0823552de",
+      "tiles": 7
+    }
+  ],
+  "stills": [
+    {
+      "shot": "o01",
+      "file": "o01.jpg",
+      "sha256": "5e15184d019badbbffcb70bb4acd118e1f341f9c579d35d2d16b176a4a7a398b",
+      "method": "contact sheet and native image opened",
+      "observation": "China outline and Beijing/Shanghai/Chongqing/Shenzhen labels are visibly readable and stay clear of headline/footnotes. Connection lines form an explanatory network; visible note says they are illustrative, not flow statistics. No label collision seen in this still."
+    },
+    {
+      "shot": "o02",
+      "file": "o02.jpg",
+      "sha256": "2fd9a57c5dfa33ca7f3aa8601db358007a20048ba945beb22d3cda9fe623f617",
+      "method": "bounded contact sheet opened",
+      "observation": "Three flow roles—production capacity, income, demand—sit on one readable left-to-right line. Node labels fit within their rectangles. Schematic-width note is visible. This still does not establish animation direction or cadence."
+    },
+    {
+      "shot": "o04",
+      "file": "o04.jpg",
+      "sha256": "4e04bf5c697447efc100e12ffa09b93cffa02df9c9bdaef1eef7c60a8945c5b6",
+      "method": "bounded contact sheet opened",
+      "observation": "Separate disclaimer heading and short educational/simulation limitations are readable; text is not cropped or hidden by captions."
+    },
+    {
+      "shot": "f02",
+      "file": "f02.jpg",
+      "sha256": "8fb8223c9f9034ee844d59ff16acdb02501f3dfdc7ba82bffc2798152b65d9b9",
+      "method": "contact sheet and native image opened",
+      "observation": "Three labeled assembly stages show incoming square parts and checked round outputs. Numeric3/3/3 are presented inside a clearly labeled illustrative conveyor, not as observed productivity statistics. Station labels and captions do not overlap. A still cannot verify throughput motion."
+    },
+    {
+      "shot": "f04",
+      "file": "f04.jpg",
+      "sha256": "d7901414de20866a9ac478a9fa6e5ba1d128185cc8b823607d7aa671dec0a354",
+      "method": "contact sheet and native image opened",
+      "observation": "Capacity8 versus orders5/output5 is visibly differentiated from f02: five filled/three empty capacity slots, gauges and faded upstream packages are present. Hypothetical/schematic notes remain readable. No placeholder-only or clipped rendering seen."
+    },
+    {
+      "shot": "f06",
+      "file": "f06.jpg",
+      "sha256": "ce64bd3d9b6a117a608b8cf583de25f59b6dd9b16e1f1a7a85faf46cdc46e905",
+      "method": "contact sheet and native image opened",
+      "observation": "Bars display5.6,-4.1,5.2 with the negative construction bar extending below zero. The x labels and source period stay outside the bars and captions. Signed chart geometry agrees with the displayed signs; external source accuracy was not re-researched in this review."
+    },
+    {
+      "shot": "r01",
+      "file": "r01.jpg",
+      "sha256": "f32e8ee1fed74607c88f0bf829a408818d66cf83340a77933d46ab052fb76023",
+      "method": "contact sheet and native image opened",
+      "observation": "Buyer/bank nodes connect to developer then contractor/local-government nodes. All five labels fit; links remain behind nodes. Width note states no statistical scale. No cluttered overlap in this still."
+    },
+    {
+      "shot": "r02",
+      "file": "r02.jpg",
+      "sha256": "33f7b6dd733fb16a70311e0e91e6bbe743cced712dbaefd35f1504f8ac6ff97f",
+      "method": "contact sheet and native image opened",
+      "observation": "Buyer/project/contractor transmission graphic is complete and readable. Previous numeric placeholder1s are absent. No pixel clipping seen around the three icons, arrows or captions."
+    },
+    {
+      "shot": "r04",
+      "file": "r04.jpg",
+      "sha256": "fbccad7798668b32be9abc239a89a6e0ee9e15fce86debbeec2ed3d8df8e79ca",
+      "method": "contact sheet and native image opened",
+      "observation": "Property-investment label and bar both show-20.6, with a downward negative bar. The explanatory sentence distinguishes investment from every home price. Full headline preserves the negative sign; numeric annotation above the bar has subdued contrast against the warm background."
+    },
+    {
+      "shot": "h03",
+      "file": "h03.jpg",
+      "sha256": "6f538094603470d3c2d99457a282859c926f944c78c9ee2d44bade2786204af2",
+      "method": "contact sheet and native image opened",
+      "observation": "Hypothetical allocation50/25/25 is rendered as half/quarter/quarter arcs with matching three labels. The100-part hypothetical note explicitly says these are not China household statistics. A minor bottom-ring/caption-to-ring contact is visible in the small explanatory ring label."
+    },
+    {
+      "shot": "h04",
+      "file": "h04.jpg",
+      "sha256": "3f23fb0ebb3f7e274a8b7c0799404e2080a70eb80a75e4f74f1bba221b768497",
+      "method": "contact sheet and native image opened",
+      "observation": "Nominal3.6 and real2.7 are separate upward bars, clearly labeled per-capita spending and year-on-year. Labels, baseline and source period are legible; no collision seen."
+    },
+    {
+      "shot": "t01",
+      "file": "t01.jpg",
+      "sha256": "c99d9c4d6d91d25f0143bc38fb5862fd3ef68514851ced8f86ea2cab4d43c344",
+      "method": "contact sheet and native image opened",
+      "observation": "World outline has readable North America/Europe/Africa/China/Southeast Asia labels and schematic connection arcs. The note explicitly says these are not actual shipping routes or trade volume. No clipping or node-label collision seen in this still."
+    },
+    {
+      "shot": "d01",
+      "file": "d01.jpg",
+      "sha256": "8bec9f61494554938d1325714403a0bdf936f0534ae555af256b38819c780c08",
+      "method": "contact sheet and native image opened",
+      "observation": "The headline says60+ and23%, while bars are labeled under60=77 and60+=23. The note explicitly distinguishes60+ from65+. Numeric labels fit without clipping. Decorative people are not treated as a measured count."
+    },
+    {
+      "shot": "p02",
+      "file": "p02.jpg",
+      "sha256": "8653f7bc30c16a7805fa76ce0f940ad31c292fd4846c30b5017eca6ab2a61f77",
+      "method": "contact sheet and native image opened",
+      "observation": "The line shows Q1=5,Q2=4.3,Q3=4.5 with consistent y coordinates and a readable year-on-year, not quarter-on-quarter headline. Quarter labels and source period are clear."
+    }
+  ],
+  "blockingIssues": [],
+  "nonBlockingObservations": [
+    {
+      "shot": "h03",
+      "issue": "Small explanatory label at the bottom of the allocation ring touches/overlaps its lower edge slightly; core50/25/25 labels, hypothetical note and narration caption remain clear.",
+      "action": "If making a later visual revision, move only this explanatory label a little lower; do not interrupt the frozen render."
+    },
+    {
+      "shot": "r04",
+      "issue": "The tan-20.6annotation on the warm background is subdued. The large cream headline carries the same full negative value clearly.",
+      "action": "For a later palette revision, improve the annotation contrast; no missing sign/value or stopping issue found."
+    }
+  ],
+  "scopeLimits": [
+    "Inspected14existing preview stills only, not the final full rendered video or continuous motion.",
+    "No continuous listening or audio quality/synchronization verdict.",
+    "No re-verification of external economic source facts; checks concern visible values, signs, labels and stated illustration limits.",
+    "More original graphics and no clipping do not establish user acceptance or retention performance."
+  ],
+  "sourceFrozen": true,
+  "inputOrRendererEditsMade": false,
+  "userAcceptance": "pending"
+}

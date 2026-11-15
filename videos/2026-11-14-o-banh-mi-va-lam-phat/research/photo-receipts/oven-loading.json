@@ -1,0 +1,42 @@
+{
+  "id": "oven-loading",
+  "file": "assets/oven-loading.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 7633904,
+  "sourceURL": "https://www.pexels.com/photo/a-person-baking-bread-7633904/",
+  "downloadURL": "https://images.pexels.com/photos/7633904/pexels-photo-7633904.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Ilaria M",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "b448e284ff1fcf455fab76aaec7b705bed434e788202a3729892f854a0328073",
+  "width": 2400,
+  "height": 3610,
+  "tags": [
+    "bakery"
+  ],
+  "credit": "Ilaria M / Pexels",
+  "expectedFromSource": "Hand loading dough into oven",
+  "observed": "Hand holds wooden peel with round raw dough at open dark oven; oven thermometer visible at side. Full portrait contains the dough and hand, while center landscape crop cuts away key loading action.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "b448e284ff1fcf455fab76aaec7b705bed434e788202a3729892f854a0328073"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+  "reusedSource": null
+}

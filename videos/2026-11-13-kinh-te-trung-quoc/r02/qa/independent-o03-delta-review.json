@@ -1,0 +1,30 @@
+{
+  "schema": "china-independent-visual-delta-review/1",
+  "reviewedUTC": "2026-11-13T06:08:13.092732+00:00",
+  "reviewer": "animated_shopping agent",
+  "revision": "r02",
+  "videoSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+  "method": "Actual original and corrected native midframe images opened consecutively with view_image",
+  "reviewedShot": "o03",
+  "frame": 793,
+  "seconds": 26.433333333333334,
+  "oldEvidence": {
+    "file": "../qa/midframes/03-o03.jpg",
+    "sha256": "96cc1e78d9f72d4226a292c5aeed1513cb06301a895f363fbf1e53d5ff970b66",
+    "headline": "Bốn câu hỏi để đọc Trung Quốc"
+  },
+  "correctedEvidence": {
+    "file": "midframes/03-o03.jpg",
+    "sha256": "a28f35d9aa6126ef471a6d7c7b3060e146f60679f3a99385e14e01c94a13389c",
+    "headline": "Ba góc nhìn để đọc Trung Quốc"
+  },
+  "observation": "Corrected native frame visibly says “Ba góc nhìn để đọc Trung Quốc” above exactly three labeled cards01/02/03. The full title, all three card headings and bodies, source note and unchanged caption are readable with no clipping or overlap in the viewed frame. The original four-versus-three title mismatch is resolved in this corrected frame.",
+  "clauseScopedFinding": "Title/card-count consistency accepted for the inspected corrected frame only",
+  "unchangedNarrationBasis": "repair-receipt records sameSpokenTake/sameCaptions/sameTiming; this image review did not independently listen to or prove audio equality.",
+  "priorReview": "../../qa/independent-visual-review.json covers200three-second samples and15five-frame temporal strips of the initial full render; it must not be presented as a full-r02continuous review.",
+  "remainingBlockersInReviewedDelta": [],
+  "manualAudioListening": false,
+  "fullR02VisualAcceptance": "not assigned by this one-frame delta review",
+  "userAcceptance": "pending",
+  "sourceOrVideoMutations": false
+}

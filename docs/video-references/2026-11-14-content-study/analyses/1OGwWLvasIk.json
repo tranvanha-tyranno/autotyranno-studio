@@ -1,0 +1,432 @@
+{
+  "schema": "reference-content-analysis/1",
+  "study_date": "2026-11-14",
+  "source": {
+    "id": "1OGwWLvasIk",
+    "url": "https://www.youtube.com/watch?v=1OGwWLvasIk",
+    "title": "Tại sao dự án tái thiết đô thị Vĩnh Hưng lại cần thiết?",
+    "channel": "Lóng",
+    "transcript_path": "docs/video-references/2026-11-13-user-samples/1OGwWLvasIk/transcript.json",
+    "transcript_sha256": "1ed15a8a68786eb251360c9de96e25222c22104d759afcae4f105ad9884cb718",
+    "media_path": "docs/video-references/2026-11-13-user-samples/1OGwWLvasIk/reference.mp4",
+    "media_sha256_receipt": "8c04e17c9bf0a37c021a2e0e5ed710f109d05969aee5de5981f85e4310b6b61a",
+    "metadata_duration_seconds": 1524,
+    "official_chapters": null,
+    "chapter_origin": "agent editorial inference; metadata has no official chapters"
+  },
+  "coverage": {
+    "method": "full_caption_reread_plus_named_sampled_contact_sheets",
+    "reviewed_start": 0.0,
+    "reviewed_end": 1520.947,
+    "caption_rows": 801,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listened": false,
+    "all_shots_reviewed": false,
+    "source_claims_independently_verified": false,
+    "sheets_actually_opened": [
+      "docs/video-references/2026-11-13-user-samples/1OGwWLvasIk/sheets/07-01.jpg",
+      "docs/video-references/2026-11-13-user-samples/1OGwWLvasIk/sheets/07-02.jpg",
+      "docs/video-references/2026-11-13-user-samples/1OGwWLvasIk/sheets/11-01.jpg",
+      "docs/video-references/2026-11-13-user-samples/1OGwWLvasIk/sheets/19-01.jpg"
+    ],
+    "limits": [
+      "Caption có thể sai năm, đơn vị, tên riêng; mốc là biên lời gần đúng, không phải cut đến frame.",
+      "Dữ kiện và lời chuyên gia được phân tích như điều người kể nói, chưa xác minh độc lập.",
+      "Không có analytics retention; nhu cầu người xem là suy luận biên tập.",
+      "Sheet chỉ hỗ trợ quan sát tại pixel/mốc ghi trên sheet, không xác nhận xem/nghe liên tục."
+    ]
+  },
+  "central_spine": "Vị trí tốt nhưng đời sống chưa tốt → bốn điểm nghẽn → nghịch lý tăng dân/tăng đất công → nén giải đất, TOD giải đi xa, 15 phút giải việc hằng ngày → nhà và nghề → điều kiện thực thi.",
+  "chapters": [
+    {
+      "start": 0.0,
+      "end": 43.0,
+      "title": "Hook: vị trí tốt, đời sống chưa tốt",
+      "question": "Vì sao gần trung tâm vẫn cần tái thiết?",
+      "claim": "Vị trí trên bản đồ không tự tạo điều kiện sống tốt.",
+      "evidence_example": "Nguồn đối lập Hồ Gươm/vành đai/khu đô thị với ngõ, tắc, ngập, cứu hộ.",
+      "mechanism": "Kỳ vọng–thực trạng; cư dân chịu hệ quả, không chỉ tài sản.",
+      "transition": "Hai câu hỏi dự án là gì và vì sao cần.",
+      "payoff": "Đặt lời giải một nghịch lý, không phải tour tiện ích.",
+      "emphasis": "Khoảng cách vị trí–trải nghiệm.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Địa lý, dân số và vai trò tăng trưởng do nguồn đưa, chưa xác minh."
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 51.0,
+      "title": "Disclaimer nguồn/góc nhìn",
+      "question": "Tổng hợp hay kết luận chuyên môn?",
+      "claim": "Người kể giới hạn tư cách và mời đính chính.",
+      "evidence_example": "Caption nói tổng hợp nhiều nguồn, có quan điểm cá nhân.",
+      "mechanism": "Đặt kỳ vọng trước thân bài.",
+      "transition": "Vào bài ngay ở 51.0.",
+      "payoff": "Không rẽ sang chủ đề mới.",
+      "emphasis": "Ngắn và đúng phạm vi; disclaimer không hợp thức dữ kiện sai.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": []
+    },
+    {
+      "start": 51.0,
+      "end": 144.37,
+      "title": "Bối cảnh có nhân quả",
+      "question": "Vì sao manh mún tích tụ?",
+      "claim": "Nguồn dùng địa hình khó và phát triển tự phát để giải thích hiện trạng.",
+      "evidence_example": "Đất trũng, nghề cũ, đầu tư thiếu đồng bộ, ao hồ/xưởng/dân cư xen kẽ, dự án chậm.",
+      "mechanism": "Chi phí nền/ngập → ít đồng bộ → phát triển lẻ → nút thắt đời sống.",
+      "transition": "139.41–144.37 gom thành bốn điểm nghẽn.",
+      "payoff": "Lịch sử tạo lý do cho chương chẩn đoán.",
+      "emphasis": "Chỉ giữ bối cảnh giải thích hiện tại.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Cách gọi xóm liều/thu nhập thấp cần bối cảnh tôn trọng, không gán mặc định nguy cơ xã hội cho cư dân."
+      ]
+    },
+    {
+      "start": 144.37,
+      "end": 301.65,
+      "title": "Chẩn đoán: bốn điểm nghẽn",
+      "question": "Cần sửa gì trước khi nói dự án?",
+      "claim": "Giao thông, nước, cứu hộ, dịch vụ công là bốn tiêu chí đời sống.",
+      "evidence_example": "Bề rộng ngõ, quét nước, vụ cháy nguồn nhắc, đất xanh/hạ tầng xã hội.",
+      "mechanism": "Hẹp/thiếu nối → tắc và cản cứu hộ; nền/cống → ngập; thiếu quỹ đất → thiếu dịch vụ.",
+      "transition": "Dẫn chuyên gia ở 289.33 chuyển sang quy hoạch tổng thể.",
+      "payoff": "Có tiêu chí đánh giá lời giải phía sau.",
+      "emphasis": "Mỗi đoạn một vấn đề và người chịu ảnh hưởng.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 144.37,
+          "end": 186.45,
+          "focus": "Giao thông",
+          "narrative_job": "Ngõ hẹp và thiếu trục nối, ví dụ giờ cao điểm."
+        },
+        {
+          "start": 186.45,
+          "end": 217.29,
+          "focus": "Ngập/nước thải",
+          "narrative_job": "Chi tiết quét nước làm mỏ neo đời thường."
+        },
+        {
+          "start": 217.29,
+          "end": 252.73,
+          "focus": "Cứu hộ",
+          "narrative_job": "Từ bất tiện lên rủi ro tính mạng."
+        },
+        {
+          "start": 252.73,
+          "end": 301.65,
+          "focus": "Công viên, trường, y tế",
+          "narrative_job": "Nhu cầu để so quỹ đất kế hoạch."
+        }
+      ],
+      "risks": []
+    },
+    {
+      "start": 301.65,
+      "end": 435.38,
+      "title": "Đặt lời giải và tự phản biện bằng số",
+      "question": "Dân tăng mà cây xanh/đường cũng tăng bằng cách nào?",
+      "claim": "Cần cơ chế giải thích chứ không chỉ số đẹp.",
+      "evidence_example": "Nguồn liệt kê diện tích, vốn, phân vùng, dân, đất xanh, hạ tầng, đường, metro dự kiến.",
+      "mechanism": "Bảng trước–sau tạo nghịch lý; ba mô hình được hứa trả lời.",
+      "transition": "396.74–406.18 tự hỏi số có mờ ảo không rồi mở nén–TOD–15 phút.",
+      "payoff": "Thuật ngữ có lý do xuất hiện.",
+      "emphasis": "Chỉ nhấn nghịch lý, không buộc nhớ cả bảng.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Bảng số ~95 giây dễ quá tải; chọn số thật sự tạo câu hỏi.",
+        "Dự thảo/tương lai không được kể như kết quả đã đạt."
+      ]
+    },
+    {
+      "start": 435.38,
+      "end": 674.5,
+      "title": "Mô hình 1: đất, cộng đồng và nguồn lực",
+      "question": "Thêm sàn mà bớt chiếm đất, rồi tiền đâu?",
+      "claim": "Nén chiều cao khác với chỉ thêm nhà cao tầng.",
+      "evidence_example": "Hộp xếp ngang/chồng, Roppongi, Thượng Hải, Đà Nẵng, Phú Mỹ Hưng theo lời nguồn.",
+      "mechanism": "Giữ diện tích sàn/giảm chân công trình; chỉnh trang đan xen; giá trị tăng tài trợ hạ tầng.",
+      "transition": "541.46 nêu đất đang có người; 613.86 hỏi tiền; 674.5 hỏi người đông đi bằng gì.",
+      "payoff": "Ba mắt xích đất → cộng đồng → tài chính trước giao thông.",
+      "emphasis": "Hộp chỉ giải một quan hệ, sau đó phải trở về người và tiền.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 435.38,
+          "end": 518.1,
+          "focus": "Hộp và nén",
+          "narrative_job": "Thao tác trước–sau minh họa dùng chiều cao."
+        },
+        {
+          "start": 518.1,
+          "end": 541.46,
+          "focus": "Hạ tầng ngầm",
+          "narrative_job": "Điều kiện mặt đất thực sự thoáng."
+        },
+        {
+          "start": 541.46,
+          "end": 597.7,
+          "focus": "Có cư dân hiện hữu",
+          "narrative_job": "Tự phản biện ví dụ đất trống; tái thiết đan xen."
+        },
+        {
+          "start": 597.7,
+          "end": 674.5,
+          "focus": "Nguồn lực từ đất",
+          "narrative_job": "Vòng tiền và quyền lợi người dân trong vòng ấy."
+        }
+      ],
+      "risks": [
+        "So sánh quốc tế không chứng minh dự án sẽ đạt giống.",
+        "Giá đất tăng không tự tạo ngân sách; phải có thu hồi giá trị thực thi được."
+      ]
+    },
+    {
+      "start": 674.5,
+      "end": 862.94,
+      "title": "Mô hình 2: TOD giải hệ quả mật độ",
+      "question": "Nhiều người hơn đi bằng gì?",
+      "claim": "Nén nhà cần vận tải lớn; giao thông là điều kiện của mô hình một.",
+      "evidence_example": "Định nghĩa TOD, bán kính, cấp ga, value capture, Hồng Kông, các tuyến dự kiến.",
+      "mechanism": "Mật độ → nhu cầu đi → gom quanh ga → đổi phương tiện; đất hỗ trợ hạ tầng.",
+      "transition": "Câu hỏi có trước thuật ngữ; 862.94 phản biện việc lặt vặt cũng đi tàu sao.",
+      "payoff": "Ba mô hình không phải ba tiện ích song song.",
+      "emphasis": "Mật độ–vận tải và cửa nhà–ga; giảm luật/số không phục vụ câu hỏi.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Caption năm luật/quyết định/tỷ lệ dễ nhận sai, phải kiểm bản gốc.",
+        "Không còn lựa chọn nào khác là khẳng định mạnh; phân biệt nhu cầu vận tải lớn với lựa chọn giải pháp duy nhất."
+      ]
+    },
+    {
+      "start": 862.94,
+      "end": 974.78,
+      "title": "Mô hình 3: 15 phút và việc hằng ngày",
+      "question": "Đi chợ/đưa con/khám bệnh đều lên tàu?",
+      "claim": "Dịch vụ gần bổ sung giao thông đường dài.",
+      "evidence_example": "Sáu nhu cầu, Paris, trải nghiệm Úc của người viết, cụm dịch vụ và công viên dự kiến.",
+      "mechanism": "Chức năng tách gây đi xa; trộn tại chỗ giảm nhu cầu đi, thời gian, chi phí.",
+      "transition": "Phản biện đời thường dẫn thuật ngữ; 974.78 chuyển sang tương lai.",
+      "payoff": "Đất, đi xa, sống gần là ba nhiệm vụ phân biệt.",
+      "emphasis": "Hành vi mỗi ngày thay vì nhấn mỗi nhãn 15 phút.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Trải nghiệm cá nhân Úc không chứng minh toàn quốc hay dự án.",
+        "Mục tiêu tiếp cận không đồng nghĩa quyền lợi đã thực hiện."
+      ]
+    },
+    {
+      "start": 974.78,
+      "end": 1171.74,
+      "title": "Đối chiếu tương lai với bốn điểm nghẽn",
+      "question": "Nếu làm đúng, đời sống khác ở đâu?",
+      "claim": "Hạng mục có nghĩa khi trả nhu cầu đầu bài.",
+      "evidence_example": "Đường/ngõ/cứu hộ, kết nối vùng, hồ, cây xanh, trường/y tế được nguồn nêu.",
+      "mechanism": "Đường → cứu hộ; hồ+cống → điều tiết mưa; đất công → chỗ dịch vụ.",
+      "transition": "1171.74 từ đường–hồ–trường sang người và nhà.",
+      "payoff": "1140.38–1143.7 gọi lại chổi quét nước như phép thử công trình giúp dân.",
+      "emphasis": "Giao thông nhấn an toàn; nước nhấn trữ–thoát; trường nhấn cung dịch vụ.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 974.78,
+          "end": 1077.58,
+          "focus": "Đường/cứu hộ/kết nối",
+          "narrative_job": "Trả hai điểm nghẽn giao thông và cứu hộ."
+        },
+        {
+          "start": 1077.58,
+          "end": 1143.7,
+          "focus": "Hồ/cây xanh/quét nước",
+          "narrative_job": "Biến thấp trũng thành phần lời giải, callback đời thường."
+        },
+        {
+          "start": 1143.7,
+          "end": 1171.74,
+          "focus": "Trường/y tế",
+          "narrative_job": "Khép tiêu chí công cộng."
+        }
+      ],
+      "risks": [
+        "Một số câu hết ngập/xe tới từng nhà mạnh hơn điều kiện hiện có; bài mới phải giữ điều kiện.",
+        "Sheet 19-01 thấy icon trữ/thoát ở 19:00, không đủ nói có phát lại cảnh quét nước."
+      ]
+    },
+    {
+      "start": 1171.74,
+      "end": 1287.38,
+      "title": "Nhà tôi thì sao?",
+      "question": "Ai ở lại, ai đi và cộng đồng có đứt không?",
+      "claim": "An cư cần nhóm tác động, nơi ở và trình tự di chuyển.",
+      "evidence_example": "Nguồn tách di dời/ở lại, quỹ đất nhà, cuốn chiếu, nhu cầu diện tích/giá.",
+      "mechanism": "Xây nhà/hạ tầng trước → chuyển sau → bớt đứt trường lớp/nếp sống.",
+      "transition": "Câu hỏi ngắn kéo từ bản đồ về hộ; cuối mở sinh kế.",
+      "payoff": "Kiểm lợi ích bằng người chịu chuyển đổi.",
+      "emphasis": "Trình tự trước–sau và nhóm chịu tác động.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Cam kết 100%/ưu tiên cần kiểm pháp lý; không coi là bảo đảm có hiệu lực."
+      ]
+    },
+    {
+      "start": 1287.38,
+      "end": 1366.71,
+      "title": "Có nhà nhưng còn cách kiếm sống",
+      "question": "Sinh kế có theo chỗ ở?",
+      "claim": "Giao nhà chưa đủ nếu mất mô hình kiếm sống.",
+      "evidence_example": "Nghề cũ ở ngõ, không gian thương mại, đào tạo/việc làm, tiêu dùng dự kiến.",
+      "mechanism": "Đổi hình thái → đổi khách/không gian sản xuất → cần chuyển đổi sinh kế.",
+      "transition": "1366.71 cảnh báo đây mới là bản vẽ.",
+      "payoff": "Không hoàn tất giả ở bước giao nhà.",
+      "emphasis": "Nhà khác nghề; một hộ cụ thể hơn câu kinh tế phát triển.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Dòng tiền/việc làm dự báo không phải thu nhập đã đo."
+      ]
+    },
+    {
+      "start": 1366.71,
+      "end": 1494.27,
+      "title": "Ba điều kiện thực thi",
+      "question": "Điều gì khiến lời hứa thành thật hoặc hỏng?",
+      "claim": "Hạ tầng, vốn, đồng thuận là điều kiện chứ không phụ lục.",
+      "evidence_example": "Nhà lên trước đường/trường/metro, vốn tư phụ thuộc vốn công, dự thảo và lấy ý kiến.",
+      "mechanism": "Lệch tiến độ → quá tải; lệch vốn → mất kết nối; thiếu công khai → rủi ro xã hội.",
+      "transition": "Hạ giọng từ viễn cảnh sang khả thi; 1488.15 gom ba điều kiện.",
+      "payoff": "Checklist đánh giá thay vì chỉ tin phối cảnh.",
+      "emphasis": "Mỗi biến một kịch bản hỏng và điều cần kiểm.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 1366.71,
+          "end": 1416.31,
+          "focus": "Hạ tầng trước/đồng thời",
+          "narrative_job": "Phản ví dụ tiến độ kiểm được."
+        },
+        {
+          "start": 1416.31,
+          "end": 1445.31,
+          "focus": "Vốn công–tư khớp",
+          "narrative_job": "Điểm phụ thuộc ngoài ranh giới."
+        },
+        {
+          "start": 1445.31,
+          "end": 1494.27,
+          "focus": "Minh bạch/ý kiến",
+          "narrative_job": "Dự thảo khác quy định cuối; ba điều kiện chốt."
+        }
+      ],
+      "risks": []
+    },
+    {
+      "start": 1494.27,
+      "end": 1524.0,
+      "title": "Kết: câu chuyện lớn và CTA",
+      "question": "Ca này có nghĩa ngoài một phường?",
+      "claim": "Nguồn đặt tái thiết trong tầm nhìn đô thị rồi mời đánh giá.",
+      "evidence_example": "Mục tiêu thủ đô/thu nhập dài hạn, bình luận và đăng ký từ 1511.35.",
+      "mechanism": "Mở từ riêng lên chung và tham gia của người xem.",
+      "transition": "CTA sau điều kiện nhưng thêm claim tham vọng mới.",
+      "payoff": "Câu hỏi đầu có hiện trạng, cơ chế, điều kiện trả lời.",
+      "emphasis": "Kết bằng điều đã chứng minh, hỏi điều kiện nào quan trọng nhất.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Mục tiêu mới 1494–1511 dễ loãng payoff.",
+        "Caption hết 1520.947; đuôi đến duration 1524 chưa xem/nghe."
+      ]
+    }
+  ],
+  "observations": [
+    "Phân đoạn mạnh vì mỗi mô hình khép một bài toán rồi làm lộ bài toán kế. Đây khác ba bài định nghĩa đặt cạnh nhau.",
+    "Sheet 07-02 ở 07:36.5–07:45 thấy hộp đổi ngang sang chồng, một biến rõ. Sampling không xác nhận mượt hoặc toàn chuyển động.",
+    "Sheet 11-01 có công trình ↔ đất ở 11:10, chữ TOD ở 11:25–11:30, giao thông đông 11:33.5–11:36.5: vòng cơ chế → khái niệm → hậu quả thiếu nó.",
+    "Mạch quay về cư dân: ngập/cháy/trường rồi nhà tôi, nghề tôi. Thuật ngữ có nghĩa qua hành vi; nhu cầu khán giả vẫn là suy luận từ lời.",
+    "Nên cắt gọn bảng số trước mô hình, danh mục pháp lý/cấp TOD, kết nối vùng, mục tiêu mới cuối bài. Nhiều chi tiết không tự tạo chuyên nghiệp.",
+    "Dự thảo khác sẽ làm; vốn dự kiến khác vốn có; khách dự báo không bảo đảm sinh kế. Điều kiện cuối không xóa giọng chắc chắn quá mức trước đó."
+  ],
+  "transferable_rules": [
+    {
+      "start": 396.74,
+      "end": 435.38,
+      "observation": "Tự hỏi dân tăng mà đất công tăng trước mô hình.",
+      "action": "Nêu mâu thuẫn cần giải trước thuật ngữ.",
+      "avoid": "Định nghĩa dài khi người xem chưa có lý do cần biết.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 435.38,
+      "end": 493.78,
+      "observation": "Hộp giữ số lượng, đổi cách chiếm mặt sàn.",
+      "action": "Mỗi cơ chế một biến: đầu → thao tác → cuối → kết luận.",
+      "avoid": "Đổi chữ/icon rồi gọi giải thích.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 674.5,
+      "end": 686.1,
+      "observation": "Nén nhà → người đông đi bằng gì → TOD.",
+      "action": "Cầu nối: A giải X nhưng sinh Y; B xử lý Y.",
+      "avoid": "Chỉ tiếp theo/thêm vấn đề khác.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 862.94,
+      "end": 874.42,
+      "observation": "Chợ/con/khám bệnh tạo lý do 15 phút.",
+      "action": "Chuyển hệ thống sang một hành vi đời thường cụ thể.",
+      "avoid": "Nỗi đau chung chung không liên hệ cơ chế.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 186.45,
+      "end": 1143.7,
+      "observation": "Quét nước trở lại sau hồ+cống.",
+      "action": "Callback lần đầu vấn đề, lần sau phép thử lời giải; rải đúng hai mốc.",
+      "avoid": "Nhắc lại lời/hình không thêm cách hiểu.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 1171.74,
+      "end": 1366.71,
+      "observation": "Nhà và nghề thành hai câu hỏi riêng.",
+      "action": "Mỗi chương một nhiệm vụ; đổi đối tượng chịu tác động thì đặt câu hỏi mới.",
+      "avoid": "Trộn ở/việc/vốn/tăng trưởng dưới một mục quyền lợi.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 1366.71,
+      "end": 1494.27,
+      "observation": "Ba điều kiện kèm cách có thể hỏng.",
+      "action": "Chương giới hạn: phải đúng gì, hỏng gì, kiểm ở đâu.",
+      "avoid": "Một câu cần minh bạch chiếu lệ.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    }
+  ],
+  "editorial_verdict": "Đáng học kiến trúc câu hỏi nối nhân quả và tách nhà khỏi nghề. Giữ chẩn đoán → cơ chế → hệ quả → điều kiện; giảm bảng số/danh mục và giữ trạng thái dự thảo có điều kiện. Không sao chép lời, mascot, shot hoặc giọng bảo đảm của nguồn."
+}

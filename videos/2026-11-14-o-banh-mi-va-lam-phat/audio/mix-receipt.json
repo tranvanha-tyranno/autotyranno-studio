@@ -1,0 +1,42 @@
+{
+  "narrationSHA256": "a3906f92abdd0ed34cdb7c401bdece42ea2953a36ba231c7db0b3de3e22d5c33",
+  "mixSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+  "music": [
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\coffee-opening.mp3",
+      "sha256": "0a077952a3c8df5f42510ab5b97e13ac648e6aa858a3dece88d3b1db12ac23de",
+      "receiptSHA256": "a61bc4fb74f6fcefff9acaaa2b0d99a22bbcfff086d50863b136be1b535ad48d"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\precise-unit-math.mp3",
+      "sha256": "d5b5fbba86486be356298b9b1e89c8ad60c182989483a10d11ca035f0863a94b",
+      "receiptSHA256": "c6bdbaac2ff54b81319085295e94ec5b70af000d96235e7a9f9ec5896d92971d"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\cash-tension.mp3",
+      "sha256": "3625a05819765d346c4bc8d0f054ff26d8c9a01bcf8fed1f4ded82485e862ec7",
+      "receiptSHA256": "b5fce313d48dbbee1e88eee9a0759563ecf31a3ae366a7cf817d524ca96eb3fd"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\operating-pulse.mp3",
+      "sha256": "3a13ebd5aca1d21221ad0544f04666619c90ab3e00b0eea9e7607de365c8c119",
+      "receiptSHA256": "f108cac137a063378a222550e2a6967f8ea735a56f22f1783fb63814fa3a3ce6"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\agency-bridge.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a",
+      "receiptSHA256": "0b5e629e2a714328ff247ae799dca884a738c01ea158936835cf9fe940d28e00"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\hopeful-outro.mp3",
+      "sha256": "2db06d855d0730224bcbfd9eb8c53f0622f143fadd63218df29a6d64e7c40055",
+      "receiptSHA256": "644968420a68c204bd98f2cd72c10f29689efb8e1efc2b07daf357b18ee7153a"
+    }
+  ],
+  "crossfadeSeconds": 3,
+  "newMusicProviderCalls": 0,
+  "speechSpeed": 1,
+  "sharedAcrossStyles": true,
+  "cues": [],
+  "listening": "Measurement and frame inspection do not establish continuous listening"
+}

@@ -1,0 +1,12 @@
+{
+  "schema": "reference-video-editorial-check/1",
+  "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+  "readyForNewNarration": true,
+  "errors": [],
+  "warnings": [
+    "Formal coverage and declared review do not establish engaging content, factual truth, audiovisual quality or user approval."
+  ],
+  "chapterCount": 5,
+  "spokenUnitCount": 24,
+  "userApproval": "not_established"
+}

@@ -1,0 +1,21 @@
+{
+  "movingMediaSeconds": 11.866666666666667,
+  "clips": 2,
+  "intervals": {
+    "d60261eaee96ff4c50a33c50e0e6d9a83a37d20bb5d47f67cc56bde413b17a89": [
+      [
+        0,
+        162,
+        "h05"
+      ]
+    ],
+    "134e19cb5fd361a245a9b190889c866b2905187a89976a1a038fbc2d0d5dc119": [
+      [
+        0,
+        194,
+        "e04"
+      ]
+    ]
+  },
+  "scope": "Playback bounds and non-overlapping trims only, not semantic/aesthetic approval."
+}

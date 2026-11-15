@@ -1,0 +1,68 @@
+{
+  "startedUTC": "2026-11-13T06:39:51.730Z",
+  "finishedUTC": "2026-11-13T06:40:04.306Z",
+  "wallSeconds": 12.574389199999999,
+  "captures": [
+    {
+      "id": "o01",
+      "frame": 164,
+      "file": "o01.jpg"
+    },
+    {
+      "id": "o02",
+      "frame": 471,
+      "file": "o02.jpg"
+    },
+    {
+      "id": "f01",
+      "frame": 1516,
+      "file": "f01.jpg"
+    },
+    {
+      "id": "f02",
+      "frame": 1871,
+      "file": "f02.jpg"
+    },
+    {
+      "id": "f08",
+      "frame": 3851,
+      "file": "f08.jpg"
+    },
+    {
+      "id": "r05",
+      "frame": 5705,
+      "file": "r05.jpg"
+    },
+    {
+      "id": "h02",
+      "frame": 7153,
+      "file": "h02.jpg"
+    },
+    {
+      "id": "h03",
+      "frame": 7497,
+      "file": "h03.jpg"
+    },
+    {
+      "id": "d02",
+      "frame": 12244,
+      "file": "d02.jpg"
+    },
+    {
+      "id": "d03",
+      "frame": 12595,
+      "file": "d03.jpg"
+    },
+    {
+      "id": "d05",
+      "frame": 13358,
+      "file": "d05.jpg"
+    },
+    {
+      "id": "d06",
+      "frame": 13701,
+      "file": "d06.jpg"
+    }
+  ],
+  "scope": "Actual rendered midpoint images; requires visual review, not an animation/aesthetic acceptance check."
+}

@@ -1,0 +1,19 @@
+{
+  "schema": "bread-local-word-alignment-summary/1",
+  "method": "ASR word-anchor mapping to known script; unmatched spans and within-word character times interpolated; not forced/phoneme alignment.",
+  "records": [
+    {
+      "chapter": "giam-cai-gi",
+      "file": "audio/02-giam-cai-gi.mp3",
+      "alignment": "audio/02-giam-cai-gi.alignment.json",
+      "alignmentSHA256": "c573470ee262b3880b495266d2f5c6df0d1a5ad62df594e9761e878c82c141cc",
+      "review": "audio/02-giam-cai-gi.alignment-review.json",
+      "matchedTokenCoverage": 0.9198113207547169,
+      "requiresReview": true
+    }
+  ],
+  "skippedChapters": [],
+  "status": "complete-estimated-timing",
+  "continuousListening": false,
+  "userApproval": "not_established"
+}

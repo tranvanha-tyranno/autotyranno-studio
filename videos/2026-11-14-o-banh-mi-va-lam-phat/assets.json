@@ -1,0 +1,1612 @@
+{
+  "bread": [
+    {
+      "id": "vn-filled-banhmi",
+      "file": "assets/vn-filled-banhmi.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 32961648,
+      "sourceURL": "https://www.pexels.com/photo/vibrant-vietnamese-banh-mi-sandwich-close-up-32961648/",
+      "downloadURL": "https://images.pexels.com/photos/32961648/pexels-photo-32961648.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Hậu Mai",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "91ace0d5ae34c02d939a1e2347904a8f0d3260e680fc4da68b38366a29ef7977",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "bread"
+      ],
+      "credit": "Hậu Mai / Pexels",
+      "expectedFromSource": "Filled Vietnamese bánh mì sandwich close-up",
+      "observed": "Bright close photograph of a filled crusty roll cut across to show pink sliced meat, cucumber and orange vegetables; rear half and red chili on warm wooden surface. Full and center crop show actual filling. Landscape crop keeps cross-section visible.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop tile in photo-sheet-01.jpg after downloading exact file.",
+        "date": "2026-11-14",
+        "sha256": "91ace0d5ae34c02d939a1e2347904a8f0d3260e680fc4da68b38366a29ef7977"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Primary Pexels location field says Việt Nam. Actual meal illustration; not a purchase from fictional Hạnh or evidence of the model’s twenty-thousand price, portion weight or quality.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "VN",
+        "place": "Việt Nam",
+        "sourceURL": "https://www.pexels.com/photo/vibrant-vietnamese-banh-mi-sandwich-close-up-32961648/",
+        "evidence": "Primary Pexels photo page location field says Việt Nam."
+      }
+    },
+    {
+      "id": "vn-filled-banhmi-bag",
+      "file": "assets/vn-filled-banhmi-bag.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 26619988,
+      "sourceURL": "https://www.pexels.com/photo/a-sandwich-with-meat-and-vegetables-on-top-of-a-paper-bag-26619988/",
+      "downloadURL": "https://images.pexels.com/photos/26619988/pexels-photo-26619988.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Theodore Nguyen",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "ee2f314844274596b609d86dbd4770e90bc726c2927c59153fb5256496418ef2",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "bread"
+      ],
+      "credit": "Theodore Nguyen / Pexels",
+      "expectedFromSource": "Filled Vietnamese bánh mì on paper bag",
+      "observed": "Filled long bread in brown paper wrapping, visible dark grilled meat, shredded white vegetables, carrot and green herbs; shallow background. Portrait contain keeps whole sandwich and wrap; landscape center crop loses outer loaf and magnifies filling.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop tile in photo-sheet-01.jpg after downloading exact file.",
+        "date": "2026-11-14",
+        "sha256": "ee2f314844274596b609d86dbd4770e90bc726c2927c59153fb5256496418ef2"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Primary Pexels location field says Ho Chi Minh City, Vietnam. Food context only, not fictional Hạnh’s product or any quoted portion/price/recipe.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "VN",
+        "place": "Ho Chi Minh City, Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/a-sandwich-with-meat-and-vegetables-on-top-of-a-paper-bag-26619988/",
+        "evidence": "Primary Pexels photo page location field says Ho Chi Minh City, Ho Chi Minh City, Vietnam."
+      }
+    },
+    {
+      "id": "bread-shelf",
+      "file": "assets/bread-shelf.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 11953880,
+      "sourceURL": "https://www.pexels.com/photo/close-up-photo-of-baguettes-11953880/",
+      "downloadURL": "https://images.pexels.com/photos/11953880/pexels-photo-11953880.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Diana Roşca",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "e0ec36c2ddd1d418f0d3b39fb0462e6bd0ae91a110cfce598e7e70485f66ce5d",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "bread"
+      ],
+      "credit": "Diana Roşca / Pexels",
+      "expectedFromSource": "Fresh baguettes on shelf",
+      "observed": "Several browned long baguettes laid diagonally on wooden shelves; foremost loaf sharply visible, background soft. Proposed landscape crop preserves bread and crust detail.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "e0ec36c2ddd1d418f0d3b39fb0462e6bd0ae91a110cfce598e7e70485f66ce5d"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null
+    },
+    {
+      "id": "bread-rustic",
+      "file": "assets/bread-rustic.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 29635018,
+      "sourceURL": "https://www.pexels.com/photo/rustic-baguette-bread-on-dark-background-29635018/",
+      "downloadURL": "https://images.pexels.com/photos/29635018/pexels-photo-29635018.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Büşra Boduroğlu",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "a6854e6005a63bbfc1d4080a0e56c1fe4aa85012011a8c07815eed205a7987b1",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "bread"
+      ],
+      "credit": "Büşra Boduroğlu / Pexels",
+      "expectedFromSource": "Baguette and slices on dark surface",
+      "observed": "Baguette pieces and sliced crumb on a board with scattered flour against black background. Center landscape crop cuts bread edges, so preserve complete portrait photograph.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "a6854e6005a63bbfc1d4080a0e56c1fe4aa85012011a8c07815eed205a7987b1"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "TR",
+        "place": "Istanbul, Türkiye",
+        "sourceURL": "https://www.pexels.com/photo/rustic-baguette-bread-on-dark-background-29635018/",
+        "evidence": "Primary photo page location field says İstanbul, Türkiye."
+      }
+    },
+    {
+      "id": "bread-display",
+      "file": "assets/bread-display.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 30826793,
+      "sourceURL": "https://www.pexels.com/photo/rustic-artisan-baguettes-at-bakery-30826793/",
+      "downloadURL": "https://images.pexels.com/photos/30826793/pexels-photo-30826793.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Magda Ehlers",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "9ca8a66d5b1ff8959ec7324f85741242dbf9de3115612cd91911a129e9311f6b",
+      "width": 2400,
+      "height": 1800,
+      "tags": [
+        "bread",
+        "shop"
+      ],
+      "credit": "Magda Ehlers / Pexels",
+      "expectedFromSource": "Bread display in bakery",
+      "observed": "Baguettes standing in a wooden barrel and paper sleeves inside a bread shop. Intrinsic sign includes R25; archival foreign shelf price must not be presented as the fictional shop price or current Vietnam price.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "9ca8a66d5b1ff8959ec7324f85741242dbf9de3115612cd91911a129e9311f6b"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Illustrates bread display only. Intrinsic foreign price signage is archival and unrelated to all hypothetical VND arithmetic. Not Hạnh’s shop or documentary evidence of Vietnam pricing.",
+      "reusedSource": null
+    },
+    {
+      "id": "bread-oven",
+      "file": "assets/bread-oven.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 30596422,
+      "sourceURL": "https://www.pexels.com/photo/freshly-baked-baguettes-in-a-traditional-bakery-30596422/",
+      "downloadURL": "https://images.pexels.com/photos/30596422/pexels-photo-30596422.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Zehra K.",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2",
+      "width": 1728,
+      "height": 3072,
+      "tags": [
+        "bread",
+        "bakery"
+      ],
+      "credit": "Zehra K. / Pexels",
+      "expectedFromSource": "Baked bread inside bakery",
+      "observed": "Dark bakery interior with metal tray holding multiple small oblong golden breads. Portrait contain preserves tray, interior and visible baking context; landscape crop loses much of setting.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null
+    },
+    {
+      "id": "bread-basket",
+      "file": "assets/bread-basket.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 30509573,
+      "sourceURL": "https://www.pexels.com/photo/artisanal-baguettes-in-rustic-bakery-setting-30509573/",
+      "downloadURL": "https://images.pexels.com/photos/30509573/pexels-photo-30509573.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Anna Danilina",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "bread",
+        "shop"
+      ],
+      "credit": "Anna Danilina / Pexels",
+      "expectedFromSource": "Baguettes in basket",
+      "observed": "Basket holding several pale brown baguettes behind a wooden-framed glass display. Portrait contain preserves basket and shop window; no fictional identity asserted.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null
+    },
+    {
+      "id": "vn-banhmi-vendor",
+      "file": "assets/vn-banhmi-vendor.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 33885703,
+      "sourceURL": "https://www.pexels.com/photo/vietnamese-street-food-vendor-serving-banh-mi-33885703/",
+      "downloadURL": "https://images.pexels.com/photos/33885703/pexels-photo-33885703.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Sóc Năng Động",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "shop",
+        "bread"
+      ],
+      "credit": "Sóc Năng Động / Pexels",
+      "expectedFromSource": "Street vendor at banh mi cart",
+      "observed": "Sidewalk bánh mì cart with bread rolls behind glass, an actual vendor and customer beside a green shutter. Vietnamese cart signage visible. Portrait contain retains cart and two people.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Primary source locates photo in Vietnam. People and stall are real contextual stock, not fictional Hạnh and her shop; no claimed price, profit, wage or transaction outcome.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/vietnamese-street-food-vendor-serving-banh-mi-33885703/",
+        "evidence": "Primary photo page location field says Vietnam."
+      }
+    }
+  ],
+  "bakery": [
+    {
+      "id": "bread-oven",
+      "file": "assets/bread-oven.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 30596422,
+      "sourceURL": "https://www.pexels.com/photo/freshly-baked-baguettes-in-a-traditional-bakery-30596422/",
+      "downloadURL": "https://images.pexels.com/photos/30596422/pexels-photo-30596422.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Zehra K.",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2",
+      "width": 1728,
+      "height": 3072,
+      "tags": [
+        "bread",
+        "bakery"
+      ],
+      "credit": "Zehra K. / Pexels",
+      "expectedFromSource": "Baked bread inside bakery",
+      "observed": "Dark bakery interior with metal tray holding multiple small oblong golden breads. Portrait contain preserves tray, interior and visible baking context; landscape crop loses much of setting.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null
+    },
+    {
+      "id": "baker-kneading",
+      "file": "assets/baker-kneading.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 3218467,
+      "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+      "downloadURL": "https://images.pexels.com/photos/3218467/pexels-photo-3218467.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Vaibhav Jadhav",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "bakery",
+        "wages"
+      ],
+      "credit": "Vaibhav Jadhav / Pexels",
+      "expectedFromSource": "Baker kneading dough",
+      "observed": "Aproned adult pressing flour-covered dough with both hands on work surface, dough balls nearby. Landscape crop preserves hands and dough. Face not shown.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Work process in Pune, India according to source; not Vietnam or Hạnh’s shop. Shows kneading labor, not wage amount or productivity measurement.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "IN",
+        "place": "Pune, India",
+        "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+        "evidence": "Primary photo page location field says Pune, MH, India."
+      }
+    },
+    {
+      "id": "baker-work",
+      "file": "assets/baker-work.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 36445104,
+      "sourceURL": "https://www.pexels.com/photo/artisan-baker-preparing-fresh-bread-in-bakery-36445104/",
+      "downloadURL": "https://images.pexels.com/photos/36445104/pexels-photo-36445104.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Yasin Onuş",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "82386e5896c65651aafaf00e94a9e7997b3d6159b85453a7bfa0b937d7a04fbb",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "bakery",
+        "wages"
+      ],
+      "credit": "Yasin Onuş / Pexels",
+      "expectedFromSource": "Baker at work",
+      "observed": "Adult baker in hairnet smiling behind counter with broad flat golden breads and a masonry oven. Shows bakery labor; the bread is flatbread, not a Vietnamese baguette.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "82386e5896c65651aafaf00e94a9e7997b3d6159b85453a7bfa0b937d7a04fbb"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Use only for general bakery work or labor context. Flatbread is visibly different from bánh mì. Pictured adult is not fictional Hạnh; no claims about wages or finances.",
+      "reusedSource": null
+    },
+    {
+      "id": "oven-loading",
+      "file": "assets/oven-loading.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 7633904,
+      "sourceURL": "https://www.pexels.com/photo/a-person-baking-bread-7633904/",
+      "downloadURL": "https://images.pexels.com/photos/7633904/pexels-photo-7633904.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Ilaria M",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "b448e284ff1fcf455fab76aaec7b705bed434e788202a3729892f854a0328073",
+      "width": 2400,
+      "height": 3610,
+      "tags": [
+        "bakery"
+      ],
+      "credit": "Ilaria M / Pexels",
+      "expectedFromSource": "Hand loading dough into oven",
+      "observed": "Hand holds wooden peel with round raw dough at open dark oven; oven thermometer visible at side. Full portrait contains the dough and hand, while center landscape crop cuts away key loading action.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "b448e284ff1fcf455fab76aaec7b705bed434e788202a3729892f854a0328073"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null
+    }
+  ],
+  "flour": [
+    {
+      "id": "flour-butter",
+      "file": "assets/flour-butter.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 94443,
+      "sourceURL": "https://www.pexels.com/photo/bakery-flour-cooking-baking-94443/",
+      "downloadURL": "https://images.pexels.com/photos/94443/pexels-photo-94443.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Markus Spiske",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "10e7c74b9eb3556d4a58482fec479b5f68469728591763a33bff41914ff8729f",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "flour"
+      ],
+      "credit": "Markus Spiske / Pexels",
+      "expectedFromSource": "Butter and flour on counter",
+      "observed": "Pale flour mound topped with yellow butter cubes on wooden work surface. Landscape crop keeps both ingredients clearly visible.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "10e7c74b9eb3556d4a58482fec479b5f68469728591763a33bff41914ff8729f"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Ingredient context; not the fictional recipe, quantities, prices or proof that all bánh mì contains butter.",
+      "reusedSource": null
+    },
+    {
+      "id": "flour-sifting",
+      "file": "assets/flour-sifting.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 7669733,
+      "sourceURL": "https://www.pexels.com/photo/person-sifting-flour-7669733/",
+      "downloadURL": "https://images.pexels.com/photos/7669733/pexels-photo-7669733.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Polina Tankilevitch",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "55bc0d35bf8bec62cda59cd6bb7dc6d6049dc421ba2b5c38e36249eb082aab0d",
+      "width": 2258,
+      "height": 3000,
+      "tags": [
+        "flour"
+      ],
+      "credit": "Polina Tankilevitch / Pexels",
+      "expectedFromSource": "Person sifting flour into bowl",
+      "observed": "Adult in white shirt tapping a metal sieve; falling flour visible under sieve. Portrait contain retains sieve, flour and hands.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "55bc0d35bf8bec62cda59cd6bb7dc6d6049dc421ba2b5c38e36249eb082aab0d"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Illustration of flour preparation only; real adult not fictional Hạnh and no claim about income, employment or recipe.",
+      "reusedSource": null
+    },
+    {
+      "id": "flour-counter",
+      "file": "assets/flour-counter.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 36912597,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-dough-and-flour-on-kitchen-counter-36912597/",
+      "downloadURL": "https://images.pexels.com/photos/36912597/pexels-photo-36912597.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Debora Silveira",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "b8812f924cdad69dacf7c975cfb9370bff44014a7766323ee3dc1b4d0f0de9f1",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "flour"
+      ],
+      "credit": "Debora Silveira / Pexels",
+      "expectedFromSource": "Flour on work surface",
+      "observed": "Close detail of white flour spread in foreground and pale raw dough across work surface at rear; no prices or identifiable people.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "b8812f924cdad69dacf7c975cfb9370bff44014a7766323ee3dc1b4d0f0de9f1"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "BR",
+        "place": "RN, Brazil",
+        "sourceURL": "https://www.pexels.com/photo/close-up-of-dough-and-flour-on-kitchen-counter-36912597/",
+        "evidence": "Primary photo page location field says RN, Brasil."
+      }
+    }
+  ],
+  "oil": [
+    {
+      "id": "oil-bottle",
+      "file": "assets/oil-bottle.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 6213754,
+      "sourceURL": "https://www.pexels.com/photo/olive-oil-in-a-glass-bottle-6213754/",
+      "downloadURL": "https://images.pexels.com/photos/6213754/pexels-photo-6213754.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Vladimir Gladkov",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "b3b143d2710057ec584e206029f59bd6c3c59b9e611b34e0be57c655f14e677f",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "oil"
+      ],
+      "credit": "Vladimir Gladkov / Pexels",
+      "expectedFromSource": "Bottle of culinary oil",
+      "observed": "Small clear cruet with golden culinary oil on a circular wooden board, black seeds and herbs; larger green container and bottle behind. Full portrait needed: landscape crop cuts the cruet body.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "b3b143d2710057ec584e206029f59bd6c3c59b9e611b34e0be57c655f14e677f"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Culinary olive-oil illustration only. Must not substitute for crude oil, petrol, gas or diesel. Does not establish Hạnh’s ingredients or purchases.",
+      "reusedSource": null
+    },
+    {
+      "id": "vn-fuel",
+      "file": "assets/vn-fuel.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 19059918,
+      "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+      "downloadURL": "https://images.pexels.com/photos/19059918/pexels-photo-19059918.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Bui Van Dong",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "oil",
+        "logistics"
+      ],
+      "credit": "Bui Van Dong / Pexels",
+      "expectedFromSource": "Petrol station and motorbikes in Vietnam",
+      "observed": "Nighttime Petrolimex forecourt with illuminated canopy, fuel pumps, riders and motorcycles. Landscape crop preserves clear fuel-station subject.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Vietnam location per primary source. Archival fuel context, not live fuel prices, shortage, contemporary event or endorsement. No connection to the fictional shop.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+        "evidence": "Primary photo page location field says Vietnam."
+      }
+    }
+  ],
+  "logistics": [
+    {
+      "id": "vn-fuel",
+      "file": "assets/vn-fuel.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 19059918,
+      "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+      "downloadURL": "https://images.pexels.com/photos/19059918/pexels-photo-19059918.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Bui Van Dong",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "oil",
+        "logistics"
+      ],
+      "credit": "Bui Van Dong / Pexels",
+      "expectedFromSource": "Petrol station and motorbikes in Vietnam",
+      "observed": "Nighttime Petrolimex forecourt with illuminated canopy, fuel pumps, riders and motorcycles. Landscape crop preserves clear fuel-station subject.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Vietnam location per primary source. Archival fuel context, not live fuel prices, shortage, contemporary event or endorsement. No connection to the fictional shop.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+        "evidence": "Primary photo page location field says Vietnam."
+      }
+    },
+    {
+      "id": "delivery-truck",
+      "file": "assets/delivery-truck.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 18800465,
+      "sourceURL": "https://www.pexels.com/photo/truck-in-a-city-center-18800465/",
+      "downloadURL": "https://images.pexels.com/photos/18800465/pexels-photo-18800465.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Matheus Bertelli",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "72d85e3bd522a20e16f0aaa1095ce52c6f6701832cf9c3a6f88231049cdecd1b",
+      "width": 2263,
+      "height": 4032,
+      "tags": [
+        "logistics"
+      ],
+      "credit": "Matheus Bertelli / Pexels",
+      "expectedFromSource": "Delivery truck on street",
+      "observed": "Red/yellow/white delivery lorry on wet narrow European street, shop awning and bicycles beside it. Portrait contain preserves vehicle and road; crop magnifies logo and loses logistics context.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "72d85e3bd522a20e16f0aaa1095ce52c6f6701832cf9c3a6f88231049cdecd1b"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Amsterdam delivery context per source; not Vietnam or Hạnh’s delivery truck. Cannot evidence freight rates or a specific disruption.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "NL",
+        "place": "Amsterdam, Netherlands",
+        "sourceURL": "https://www.pexels.com/photo/truck-in-a-city-center-18800465/",
+        "evidence": "Primary photo page location field says Amsterdam, Netherlands."
+      }
+    },
+    {
+      "id": "cargo-ship",
+      "file": "assets/cargo-ship.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 7128920,
+      "sourceURL": "https://www.pexels.com/photo/stacks-of-shipping-containers-on-a-cargo-ship-7128920/",
+      "downloadURL": "https://images.pexels.com/photos/7128920/pexels-photo-7128920.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Wolf Achim Wiegand",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "bbc23c809371cceb9e0294816794e9e938cfcf097101544f16a6d8bb76e1e0e3",
+      "width": 2400,
+      "height": 1800,
+      "tags": [
+        "logistics"
+      ],
+      "credit": "Wolf Achim Wiegand / Pexels",
+      "expectedFromSource": "Container ship",
+      "observed": "Front view of large blue container ship with stacked multicolor containers and bridge. Full image keeps entire vessel profile; center landscape crop clips bridge.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "bbc23c809371cceb9e0294816794e9e938cfcf097101544f16a6d8bb76e1e0e3"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Hamburg port per source. Illustrates international freight; no freight price, route, shortage or connection to fictional shop established.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "DE",
+        "place": "Hamburg, Germany",
+        "sourceURL": "https://www.pexels.com/photo/stacks-of-shipping-containers-on-a-cargo-ship-7128920/",
+        "evidence": "Primary photo page location field says Hamburg, Germany."
+      }
+    }
+  ],
+  "market": [
+    {
+      "id": "vn-market-dalat",
+      "file": "assets/vn-market-dalat.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 35723468,
+      "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+      "downloadURL": "https://images.pexels.com/photos/35723468/pexels-photo-35723468.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Kushie In Vietnam",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "733398a388dbb5a9ea54202db5d75277335aa14d5cdefca17195df85e7fee6e1",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "market"
+      ],
+      "credit": "Kushie In Vietnam / Pexels",
+      "expectedFromSource": "Vendors and shoppers at market",
+      "observed": "People standing at vegetable stall with cabbage and other produce, scooters at left, vendor in hat. Landscape crop preserves human interaction and goods.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "733398a388dbb5a9ea54202db5d75277335aa14d5cdefca17195df85e7fee6e1"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Source locates archival photo in Dalat, Vietnam, taken in 2019. Context of market trade only; no contemporary prices, personal finances or fictional identities asserted.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/vn-market-dalat.jpg",
+      "location": {
+        "countryCode": "VN",
+        "place": "Dalat, Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+        "evidence": "Primary photo page location field says Dalat, Vietnam; photograph is archival (taken 2019)."
+      }
+    },
+    {
+      "id": "vn-market-scooters",
+      "file": "assets/vn-market-scooters.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 28463355,
+      "sourceURL": "https://www.pexels.com/photo/bustling-street-market-scene-in-vietnam-28463355/",
+      "downloadURL": "https://images.pexels.com/photos/28463355/pexels-photo-28463355.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Sam Tan",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "4c47de35f059d11a29a2dd257638924f80fcba114bf17c0e0473fbb486436dbd",
+      "width": 2400,
+      "height": 3000,
+      "tags": [
+        "market"
+      ],
+      "credit": "Sam Tan / Pexels",
+      "expectedFromSource": "Street market and scooters",
+      "observed": "Narrow market lane with flowers/produce at left, striped awnings and scooter riders. Full portrait retains crowded lane and market setting.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "4c47de35f059d11a29a2dd257638924f80fcba114bf17c0e0473fbb486436dbd"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Vietnam context per retained source receipt. No measured crowd demand, purchasing volume or current price inferred.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/vn-market-scooters.jpg",
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/bustling-street-market-scene-in-vietnam-28463355/",
+        "evidence": "Prior source receipt records primary photo page location field as Vietnam."
+      }
+    },
+    {
+      "id": "grocery-cart",
+      "file": "assets/grocery-cart.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 4971925,
+      "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+      "downloadURL": "https://images.pexels.com/photos/4971925/pexels-photo-4971925.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Gustavo Fring",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "household",
+        "market"
+      ],
+      "credit": "Gustavo Fring / Pexels",
+      "expectedFromSource": "Shopper with trolley in grocery aisle",
+      "observed": "Adult shopper pushes trolley containing produce along refrigerated grocery aisle. Full landscape keeps the shopper’s face, basket and aisle; center crop cuts head.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Grocery-shopping context only, not Vietnamese location or measured price/income/purchasing behavior of pictured adult.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/grocery-cart.jpg"
+    }
+  ],
+  "shop": [
+    {
+      "id": "bread-display",
+      "file": "assets/bread-display.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 30826793,
+      "sourceURL": "https://www.pexels.com/photo/rustic-artisan-baguettes-at-bakery-30826793/",
+      "downloadURL": "https://images.pexels.com/photos/30826793/pexels-photo-30826793.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Magda Ehlers",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "9ca8a66d5b1ff8959ec7324f85741242dbf9de3115612cd91911a129e9311f6b",
+      "width": 2400,
+      "height": 1800,
+      "tags": [
+        "bread",
+        "shop"
+      ],
+      "credit": "Magda Ehlers / Pexels",
+      "expectedFromSource": "Bread display in bakery",
+      "observed": "Baguettes standing in a wooden barrel and paper sleeves inside a bread shop. Intrinsic sign includes R25; archival foreign shelf price must not be presented as the fictional shop price or current Vietnam price.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "9ca8a66d5b1ff8959ec7324f85741242dbf9de3115612cd91911a129e9311f6b"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Illustrates bread display only. Intrinsic foreign price signage is archival and unrelated to all hypothetical VND arithmetic. Not Hạnh’s shop or documentary evidence of Vietnam pricing.",
+      "reusedSource": null
+    },
+    {
+      "id": "bread-basket",
+      "file": "assets/bread-basket.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 30509573,
+      "sourceURL": "https://www.pexels.com/photo/artisanal-baguettes-in-rustic-bakery-setting-30509573/",
+      "downloadURL": "https://images.pexels.com/photos/30509573/pexels-photo-30509573.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Anna Danilina",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "bread",
+        "shop"
+      ],
+      "credit": "Anna Danilina / Pexels",
+      "expectedFromSource": "Baguettes in basket",
+      "observed": "Basket holding several pale brown baguettes behind a wooden-framed glass display. Portrait contain preserves basket and shop window; no fictional identity asserted.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+      "reusedSource": null
+    },
+    {
+      "id": "vn-banhmi-vendor",
+      "file": "assets/vn-banhmi-vendor.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 33885703,
+      "sourceURL": "https://www.pexels.com/photo/vietnamese-street-food-vendor-serving-banh-mi-33885703/",
+      "downloadURL": "https://images.pexels.com/photos/33885703/pexels-photo-33885703.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Sóc Năng Động",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "shop",
+        "bread"
+      ],
+      "credit": "Sóc Năng Động / Pexels",
+      "expectedFromSource": "Street vendor at banh mi cart",
+      "observed": "Sidewalk bánh mì cart with bread rolls behind glass, an actual vendor and customer beside a green shutter. Vietnamese cart signage visible. Portrait contain retains cart and two people.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Primary source locates photo in Vietnam. People and stall are real contextual stock, not fictional Hạnh and her shop; no claimed price, profit, wage or transaction outcome.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/vietnamese-street-food-vendor-serving-banh-mi-33885703/",
+        "evidence": "Primary photo page location field says Vietnam."
+      }
+    }
+  ],
+  "money": [
+    {
+      "id": "cash-vnd",
+      "file": "assets/cash-vnd.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 34944540,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+      "downloadURL": "https://images.pexels.com/photos/34944540/pexels-photo-34944540.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Nguyễn Tiến Thịnh",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "money",
+        "wages"
+      ],
+      "credit": "Nguyễn Tiến Thịnh / Pexels",
+      "expectedFromSource": "Vietnamese dong banknotes in hand",
+      "observed": "Hand holding blue Vietnamese twenty-thousand-dong banknotes. Portrait contain preserves visible denomination and notes; landscape crop truncates notes and makes amount ambiguous.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Currency illustration only; not a particular character’s wages, bank balance or fictional payment. Multiple notes visible, so do not imply photograph itself equals one twenty-thousand payment.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/cash-vnd.jpg",
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+        "evidence": "Primary photo page location field says Vietnam; visible currency corroborates currency, not place."
+      }
+    },
+    {
+      "id": "cash-vnd-halong",
+      "file": "assets/cash-vnd-halong.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 8089862,
+      "sourceURL": "https://www.pexels.com/photo/person-holding-a-vietnamese-dong-8089862/",
+      "downloadURL": "https://images.pexels.com/photos/8089862/pexels-photo-8089862.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "My Tran",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "321ff208568d9f5ac4243817d0310f9fd2b2ed45ff4f66cc3a2835f4b681ec30",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "money"
+      ],
+      "credit": "My Tran / Pexels",
+      "expectedFromSource": "Vietnamese dong banknote in hand",
+      "observed": "Two hands hold a reddish two-hundred-thousand-dong banknote in front of water and limestone islands. Landscape image preserves whole note and both hands.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "321ff208568d9f5ac4243817d0310f9fd2b2ed45ff4f66cc3a2835f4b681ec30"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Currency context; visible note denomination is 200000 VND and is unrelated to example price of 20000. Do not label the photographed note as 20000 or wage payment.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/cash-vnd-halong.jpg",
+      "location": {
+        "countryCode": "VN",
+        "place": "Quảng Ninh, Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/person-holding-a-vietnamese-dong-8089862/",
+        "evidence": "Prior source receipt records primary photo page location field as Quảng Ninh, Vietnam."
+      }
+    }
+  ],
+  "household": [
+    {
+      "id": "budget-calculator",
+      "file": "assets/budget-calculator.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 4386373,
+      "sourceURL": "https://www.pexels.com/photo/calculator-and-notepad-placed-over-stack-of-paper-bills-4386373/",
+      "downloadURL": "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Kaboompics",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "294d2da50d5c6e1ea2475e3c1ee0aec6038a820b42f0e4d8f3c2903f5eee5e6a",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "household"
+      ],
+      "credit": "Kaboompics / Pexels",
+      "expectedFromSource": "Calculator and household budget materials",
+      "observed": "Calculator, blank spiral notepad, pen and US dollar notes on white tabletop. Landscape crop keeps calculator but visible currency is USD.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "294d2da50d5c6e1ea2475e3c1ee0aec6038a820b42f0e4d8f3c2903f5eee5e6a"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Generic household budgeting context only. Currency is US dollars, so never use as literal illustration of Vietnamese dong price or wages. No personal balance, debt or expense amount established.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/budget-calculator.jpg"
+    },
+    {
+      "id": "budget-couple",
+      "file": "assets/budget-couple.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 6964105,
+      "sourceURL": "https://www.pexels.com/photo/couple-looking-at-their-bills-6964105/",
+      "downloadURL": "https://images.pexels.com/photos/6964105/pexels-photo-6964105.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Mikhail Nilov",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd",
+      "width": 2400,
+      "height": 1720,
+      "tags": [
+        "household"
+      ],
+      "credit": "Mikhail Nilov / Pexels",
+      "expectedFromSource": "Adults reviewing paper bills",
+      "observed": "Two adults seated at table reviewing paper bills with calculator and laptop. Landscape image keeps hands and paperwork; no text legible enough to establish amounts.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Context of reviewing household bills. People not fictional characters; no poverty, stress cause, debt or actual household finances asserted.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/budget-couple.jpg"
+    },
+    {
+      "id": "grocery-cart",
+      "file": "assets/grocery-cart.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 4971925,
+      "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+      "downloadURL": "https://images.pexels.com/photos/4971925/pexels-photo-4971925.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Gustavo Fring",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "household",
+        "market"
+      ],
+      "credit": "Gustavo Fring / Pexels",
+      "expectedFromSource": "Shopper with trolley in grocery aisle",
+      "observed": "Adult shopper pushes trolley containing produce along refrigerated grocery aisle. Full landscape keeps the shopper’s face, basket and aisle; center crop cuts head.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Grocery-shopping context only, not Vietnamese location or measured price/income/purchasing behavior of pictured adult.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/grocery-cart.jpg"
+    },
+    {
+      "id": "receipt-hands",
+      "file": "assets/receipt-hands.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 4959926,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-woman-hands-holding-bill-4959926/",
+      "downloadURL": "https://images.pexels.com/photos/4959926/pexels-photo-4959926.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Kaboompics",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "household"
+      ],
+      "credit": "Kaboompics / Pexels",
+      "expectedFromSource": "Hands reviewing paper receipt",
+      "observed": "Hands hold a long white receipt against light gray backdrop. Full portrait preserves receipt from top to lower hand. Text not read or used as evidence.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Receipt-review context only, not actual bill of fictional household or shop. No receipt numbers or present-day prices inferred.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/receipt-hands.jpg"
+    }
+  ],
+  "wages": [
+    {
+      "id": "baker-kneading",
+      "file": "assets/baker-kneading.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 3218467,
+      "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+      "downloadURL": "https://images.pexels.com/photos/3218467/pexels-photo-3218467.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Vaibhav Jadhav",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "bakery",
+        "wages"
+      ],
+      "credit": "Vaibhav Jadhav / Pexels",
+      "expectedFromSource": "Baker kneading dough",
+      "observed": "Aproned adult pressing flour-covered dough with both hands on work surface, dough balls nearby. Landscape crop preserves hands and dough. Face not shown.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Work process in Pune, India according to source; not Vietnam or Hạnh’s shop. Shows kneading labor, not wage amount or productivity measurement.",
+      "reusedSource": null,
+      "location": {
+        "countryCode": "IN",
+        "place": "Pune, India",
+        "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+        "evidence": "Primary photo page location field says Pune, MH, India."
+      }
+    },
+    {
+      "id": "baker-work",
+      "file": "assets/baker-work.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 36445104,
+      "sourceURL": "https://www.pexels.com/photo/artisan-baker-preparing-fresh-bread-in-bakery-36445104/",
+      "downloadURL": "https://images.pexels.com/photos/36445104/pexels-photo-36445104.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Yasin Onuş",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "82386e5896c65651aafaf00e94a9e7997b3d6159b85453a7bfa0b937d7a04fbb",
+      "width": 2400,
+      "height": 1600,
+      "tags": [
+        "bakery",
+        "wages"
+      ],
+      "credit": "Yasin Onuş / Pexels",
+      "expectedFromSource": "Baker at work",
+      "observed": "Adult baker in hairnet smiling behind counter with broad flat golden breads and a masonry oven. Shows bakery labor; the bread is flatbread, not a Vietnamese baguette.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "82386e5896c65651aafaf00e94a9e7997b3d6159b85453a7bfa0b937d7a04fbb"
+      },
+      "fit": "cover",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Use only for general bakery work or labor context. Flatbread is visibly different from bánh mì. Pictured adult is not fictional Hạnh; no claims about wages or finances.",
+      "reusedSource": null
+    },
+    {
+      "id": "cash-vnd",
+      "file": "assets/cash-vnd.jpg",
+      "provider": "Pexels",
+      "providerPhotoId": 34944540,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+      "downloadURL": "https://images.pexels.com/photos/34944540/pexels-photo-34944540.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "creator": "Nguyễn Tiến Thịnh",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0",
+      "width": 2400,
+      "height": 3600,
+      "tags": [
+        "money",
+        "wages"
+      ],
+      "credit": "Nguyễn Tiến Thịnh / Pexels",
+      "expectedFromSource": "Vietnamese dong banknotes in hand",
+      "observed": "Hand holding blue Vietnamese twenty-thousand-dong banknotes. Portrait contain preserves visible denomination and notes; landscape crop truncates notes and makes amount ambiguous.",
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex story_photos",
+        "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+        "date": "2026-11-14",
+        "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0"
+      },
+      "fit": "contain",
+      "focus": [
+        50,
+        50
+      ],
+      "crop": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "medium": "real sourced photograph",
+      "role": "context illustration",
+      "limits": "Currency illustration only; not a particular character’s wages, bank balance or fictional payment. Multiple notes visible, so do not imply photograph itself equals one twenty-thousand payment.",
+      "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/cash-vnd.jpg",
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam",
+        "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+        "evidence": "Primary photo page location field says Vietnam; visible currency corroborates currency, not place."
+      }
+    }
+  ]
+}

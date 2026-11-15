@@ -1,0 +1,28 @@
+{
+  "schema": "bread-mix-metadata-review/1",
+  "date": "2026-11-15",
+  "source": "audio/final-mix.wav",
+  "sha256": "8875d04e0d8f4fd80113a97f3693c2b8a0d1628c7df62f67b7fa32309a9d0276",
+  "sampleRate": 48000,
+  "channels": 2,
+  "sampleWidth": 2,
+  "sampleFrames": 17171200,
+  "seconds": 357.73333333333335,
+  "timelineSeconds": 357.76666666666665,
+  "durationDifferenceSeconds": -0.03333333333330302,
+  "samplePeakDBFS": -4.5198953857886695,
+  "rmsDBFS": -19.403881312101156,
+  "lastSecondRmsDBFS": null,
+  "lastSecondAllDigitalZero": true,
+  "lastSpeechEndFromTiming": 355.9,
+  "tailAfterLastSpeechSeconds": 1.8333333333333712,
+  "continuousListening": false,
+  "truePeakMeasured": false,
+  "findings": [
+    "No sample clipping; positive headroom at measured PCM peak.",
+    "Last speech ends before media tail; closing sentence is not truncated according to timing metadata.",
+    "If the mix is one frame short, difference lies in trailing padding. Pad if export requires exact frame-matched audio.",
+    "RMS and sample peak do not establish good balance, emotional narration or absence of perceived masking."
+  ],
+  "userApproval": "pending"
+}

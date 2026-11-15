@@ -25,7 +25,11 @@ def generate(target,endpoint,payload,timed=False):
         if timed:shutil.copy2(ca,alignment)
         return target
     if intent.exists():raise RuntimeError('Unresolved prior provider call. Reconcile before retrying '+str(intent))
-    secret=key();save(intent,{'request_hash':digest,'endpoint':endpoint,'payload':payload})
+    editorial = None
+    if timed and '/text-to-speech/' in endpoint:
+        from editorial_gate import require_for_take
+        editorial = require_for_take(target, payload.get('text', ''), PROJECT)
+    secret=key();save(intent,{'request_hash':digest,'endpoint':endpoint,'payload':payload,'editorial':editorial})
     try:r=requests.post('https://api.elevenlabs.io'+endpoint,params={'output_format':'mp3_44100_128'},headers={'xi-api-key':secret,'Content-Type':'application/json'},json=payload,timeout=180)
     except requests.RequestException:raise RuntimeError('Provider transport failed; intent retained to prevent duplicate billing') from None
     if r.status_code!=200:
@@ -43,6 +47,7 @@ def generate(target,endpoint,payload,timed=False):
         audio=r.content
     target.with_suffix('.partial').write_bytes(audio);target.with_suffix('.partial').replace(target)
     meta={'provider':'ElevenLabs','model':payload.get('model_id'),'request_hash':digest,'endpoint':endpoint,'character_cost':r.headers.get('character-cost'),'request_id':r.headers.get('request-id'),'sha256':hashlib.sha256(audio).hexdigest(),'bytes':len(audio)}
+    if editorial: meta['editorial'] = editorial
     save(receipt,meta);shutil.copy2(target,cached);shutil.copy2(receipt,cm);intent.unlink()
     print('AUDIO_OK',target.name,len(audio),'cost',meta['character_cost'],flush=True);return target
 

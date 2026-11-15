@@ -1,0 +1,45 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r07",
+  "dimension": "visual_relevance",
+  "decision": "accepted",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex motion_pipeline — actual rendered-frame comparison"
+  },
+  "target": {
+    "clause_id": "c9",
+    "narration": "Nhìn một mức giảm, ta rất dễ chỉ hỏi",
+    "start": 101.68,
+    "end": 104.4
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "Opened actual r07 frame3121 and the promotion crop. Left panel visibly shows KHUYẾN MẠI, crossed-out19.600, new15.400 and2022.04.20 10:29; the tag and date remain above the caption without overlap. Footer identifies archival2022/2020 prices and says not current prices. This corrects the visible discount relationship missing in r06. Acceptance is only c9 discount-phrase visual relevance/readability in this inspected frame; not whole c9 motion, current offers, basket totals, hypothetical30k/50k arithmetic, audio or whole-video/user acceptance.",
+  "action": "Retain this visible discount/date relationship for the scoped c9 correction. Continue topic-specific source/crop review and keep overall user acceptance pending.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/final.mp4",
+      "sha256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861",
+      "description": "Actual r07 final; SHA matches full-duration QA receipt."
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/qa/frame-03121.jpg",
+      "sha256": "e60d52dcd59eb86bb911e35308be64f6cf9710257fe08a9382864fc75a61ea6a",
+      "description": "Opened actual r07/c9 frame with discount label/date above caption."
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/production-public/directions/long/vn-promotion-close.jpg",
+      "sha256": "63d00833dcd7517dfc93ec064bc6c9c20e9bb67795d85a581ce84b62ae788e68",
+      "description": "Opened promotion crop; discount and historical date visible."
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/r07-c9-discount-render-review.md",
+      "sha256": "cd166a60e2130cde854f75f2bef8e477cf4afbd715422cb09c779a313fa9ba5e",
+      "description": "Direct side-by-side frame observations with explicit scope limits."
+    }
+  ]
+}

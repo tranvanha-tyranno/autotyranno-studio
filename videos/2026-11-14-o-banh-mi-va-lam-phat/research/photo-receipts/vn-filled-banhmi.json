@@ -1,0 +1,48 @@
+{
+  "id": "vn-filled-banhmi",
+  "file": "assets/vn-filled-banhmi.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 32961648,
+  "sourceURL": "https://www.pexels.com/photo/vibrant-vietnamese-banh-mi-sandwich-close-up-32961648/",
+  "downloadURL": "https://images.pexels.com/photos/32961648/pexels-photo-32961648.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Hậu Mai",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "91ace0d5ae34c02d939a1e2347904a8f0d3260e680fc4da68b38366a29ef7977",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "bread"
+  ],
+  "credit": "Hậu Mai / Pexels",
+  "expectedFromSource": "Filled Vietnamese bánh mì sandwich close-up",
+  "observed": "Bright close photograph of a filled crusty roll cut across to show pink sliced meat, cucumber and orange vegetables; rear half and red chili on warm wooden surface. Full and center crop show actual filling. Landscape crop keeps cross-section visible.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop tile in photo-sheet-01.jpg after downloading exact file.",
+    "date": "2026-11-14",
+    "sha256": "91ace0d5ae34c02d939a1e2347904a8f0d3260e680fc4da68b38366a29ef7977"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Primary Pexels location field says Việt Nam. Actual meal illustration; not a purchase from fictional Hạnh or evidence of the model’s twenty-thousand price, portion weight or quality.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "VN",
+    "place": "Việt Nam",
+    "sourceURL": "https://www.pexels.com/photo/vibrant-vietnamese-banh-mi-sandwich-close-up-32961648/",
+    "evidence": "Primary Pexels photo page location field says Việt Nam."
+  }
+}

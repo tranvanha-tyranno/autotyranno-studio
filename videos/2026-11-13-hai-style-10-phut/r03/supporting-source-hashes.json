@@ -1,0 +1,22 @@
+[
+  {
+    "source": "workflows\\reference-video\\finance_long_asr.py",
+    "snapshot": "r03\\supporting-source-snapshot\\finance_long_asr.py",
+    "sha256": "7d35b34f1e687aa831fb360f813889e25dbd93140b38b15ef52c823492c5da45"
+  },
+  {
+    "source": "workflows\\reference-video\\finance_long_review.py",
+    "snapshot": "r03\\supporting-source-snapshot\\finance_long_review.py",
+    "sha256": "ac8e5b8d16218b2efd7b29cd01e9a30ae25fbd36b613989e90e3de024cc3ebe7"
+  },
+  {
+    "source": "workflows\\reference-video\\FINANCE_LONGFORM.md",
+    "snapshot": "r03\\supporting-source-snapshot\\FINANCE_LONGFORM.md",
+    "sha256": "77a4a7b9d79e9f8a9e1f4c12d615a2f6ceda1d4217a2823fd131e962c8854b12"
+  },
+  {
+    "source": "workflows\\reference-video\\FINANCE_STYLES.md",
+    "snapshot": "r03\\supporting-source-snapshot\\FINANCE_STYLES.md",
+    "sha256": "98462f5899501f90fd8dccc943fe572557f866343aa69dc35423c8bad23af9ef"
+  }
+]

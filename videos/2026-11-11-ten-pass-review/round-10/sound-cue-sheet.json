@@ -1,0 +1,79 @@
+{
+  "events": [
+    {
+      "file": "audio/impact.mp3",
+      "at": 0,
+      "peak_gain_db": -18,
+      "used_seconds": 1.2
+    },
+    {
+      "file": "audio/whoosh.mp3",
+      "at": 7.35,
+      "peak_gain_db": -20,
+      "used_seconds": 0.88
+    },
+    {
+      "file": "audio/paper.mp3",
+      "at": 12.75,
+      "peak_gain_db": -18,
+      "used_seconds": 1.28
+    },
+    {
+      "file": "audio/paper.mp3",
+      "at": 16.2,
+      "peak_gain_db": -20,
+      "used_seconds": 1.28
+    },
+    {
+      "file": "audio/tick.mp3",
+      "at": 19.8,
+      "peak_gain_db": -26,
+      "used_seconds": 1.0
+    },
+    {
+      "file": "audio/whoosh.mp3",
+      "at": 26.15,
+      "peak_gain_db": -21,
+      "used_seconds": 0.88
+    },
+    {
+      "file": "audio/tick.mp3",
+      "at": 28.1,
+      "peak_gain_db": -21,
+      "used_seconds": 1.0
+    },
+    {
+      "file": "audio/paper.mp3",
+      "at": 35,
+      "peak_gain_db": -21,
+      "used_seconds": 1.28
+    },
+    {
+      "file": "audio/impact.mp3",
+      "at": 41.85,
+      "peak_gain_db": -22,
+      "used_seconds": 1.2
+    },
+    {
+      "file": "audio/whoosh.mp3",
+      "at": 44.85,
+      "peak_gain_db": -18,
+      "used_seconds": 0.88
+    },
+    {
+      "file": "audio/port.mp3",
+      "at": 0,
+      "peak_gain_db": -30,
+      "used_seconds": 3.4
+    },
+    {
+      "file": "audio/port.mp3",
+      "at": 45,
+      "peak_gain_db": -33,
+      "used_seconds": 4.8
+    }
+  ],
+  "effects_bus_peak_db": -17.833821918695598,
+  "music_source": "original locally synthesized harmonic bed; rebalanced and ducked",
+  "voice_priority": true
+}

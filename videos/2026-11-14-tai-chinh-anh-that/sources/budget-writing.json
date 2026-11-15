@@ -1,0 +1,30 @@
+{
+  "id": "budget-writing",
+  "pexelsID": 6962993,
+  "sourceURL": "https://www.pexels.com/photo/person-calculating-on-a-notebook-6962993/",
+  "creator": "Mikhail Nilov",
+  "theme": "budget",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/budget-writing.jpg",
+  "downloadURL": "https://images.pexels.com/photos/6962993/pexels-photo-6962993.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 2539,
+  "sha256": "f7bba24b7c4470bb97261a112908d4cbd82192c219f38ba7ee411ef50f543c76",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

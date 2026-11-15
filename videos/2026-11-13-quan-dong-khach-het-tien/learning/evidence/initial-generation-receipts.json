@@ -1,0 +1,196 @@
+{
+  "schema": "business-generated-audio/1",
+  "sources": [
+    {
+      "file": "audio/music/coffee-opening.mp3",
+      "sha256": "0a077952a3c8df5f42510ab5b97e13ac648e6aa858a3dece88d3b1db12ac23de",
+      "receiptSHA256": "a61bc4fb74f6fcefff9acaaa2b0d99a22bbcfff086d50863b136be1b535ad48d",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "6bdd5318552040868d6b0cd6686a7391b32d19b5af4c6b73369592e9a461192c",
+      "seconds": 120.08,
+      "id": "coffee-opening",
+      "kind": "music"
+    },
+    {
+      "file": "audio/music/precise-unit-math.mp3",
+      "sha256": "d5b5fbba86486be356298b9b1e89c8ad60c182989483a10d11ca035f0863a94b",
+      "receiptSHA256": "c6bdbaac2ff54b81319085295e94ec5b70af000d96235e7a9f9ec5896d92971d",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "59ce34a231c92c21f23ccd3c915e59297c8d384acf41720d9b01bb1595ec5af1",
+      "seconds": 120.08,
+      "id": "precise-unit-math",
+      "kind": "music"
+    },
+    {
+      "file": "audio/music/operating-pulse.mp3",
+      "sha256": "3a13ebd5aca1d21221ad0544f04666619c90ab3e00b0eea9e7607de365c8c119",
+      "receiptSHA256": "f108cac137a063378a222550e2a6967f8ea735a56f22f1783fb63814fa3a3ce6",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "916506ab622cd300da31f36ec3b030a0408f746cbb6bb3ad86dabffb12257be4",
+      "seconds": 110.11,
+      "id": "operating-pulse",
+      "kind": "music"
+    },
+    {
+      "file": "audio/music/cash-tension.mp3",
+      "sha256": "3625a05819765d346c4bc8d0f054ff26d8c9a01bcf8fed1f4ded82485e862ec7",
+      "receiptSHA256": "b5fce313d48dbbee1e88eee9a0759563ecf31a3ae366a7cf817d524ca96eb3fd",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "28c0166a730160f226664fc5bec0af8e7c7752ff3bd3b9442b3887c07c91b784",
+      "seconds": 120.03,
+      "id": "cash-tension",
+      "kind": "music"
+    },
+    {
+      "file": "audio/music/hopeful-outro.mp3",
+      "sha256": "2db06d855d0730224bcbfd9eb8c53f0622f143fadd63218df29a6d64e7c40055",
+      "receiptSHA256": "644968420a68c204bd98f2cd72c10f29689efb8e1efc2b07daf357b18ee7153a",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "c8bb749e6716ba44b61a7af3644740c28310314e88b9c4d1a536049c02d2af68",
+      "seconds": 120.08,
+      "id": "hopeful-outro",
+      "kind": "music"
+    },
+    {
+      "file": "audio/sfx/cup-set.mp3",
+      "sha256": "301cddaefec75a42669fd5ad51fd19ceb6bab0da9ec5ce02deaad66106be71c5",
+      "receiptSHA256": "f65f8ed2748f43d5fae9eedc7ba18ff0e47b81d3c9b5bda46448d2e738d96d93",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "65371193c8d40fcbc3819662c673d6ef3427e25c1db3cebf969afd74ebf2acfb",
+      "seconds": 2.25,
+      "id": "cup-set",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/grinder.mp3",
+      "sha256": "cd6797439d94c280495450169f825d7977a78850e429175a47876c70f87ea1c3",
+      "receiptSHA256": "12e032b0c07721c19741fa1809cebb23481d4f4c21237051c86241553f5d0354",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "723260a33b5b42d9e639854776e584258887996e2a2b5860ccc95032b7febdf0",
+      "seconds": 4.05,
+      "id": "grinder",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/espresso.mp3",
+      "sha256": "947ef73c7758a8059b5dca4608476cc77d5235e05187e099bb96eb885efc9d84",
+      "receiptSHA256": "e4ca5956876407cbaccf5d392a49409f71c74ec508cd69aa6d428d0bd2706ffd",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "2ab0ec9c4cf6138916288b45b8837d8b5013f3b9c8701784b67c8cc0d03a19b6",
+      "seconds": 5.04,
+      "id": "espresso",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/milk-steam.mp3",
+      "sha256": "1f76e3dd95761fcb645a53f479896440eff938af89003e91cadb9d8678081c05",
+      "receiptSHA256": "1365e11ed0bf3c4862ad8c3f6e47116fc64e2d9d21fb3c413ae1e7eb969d56a4",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "ab0a49e90edf17bb9b5c2f56a2093000097e5cd3b3e4370365b16dc44154ab64",
+      "seconds": 4.05,
+      "id": "milk-steam",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/paper-pen.mp3",
+      "sha256": "d6beb31d8db6be5285cc4d8515005af869acd74bbbd22a8526677d23c4290e46",
+      "receiptSHA256": "6fc0de23a74f506fbea49dbf2d16d9090cb187707b3e0aee2a736304b80b10c8",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "5f98b42dc0b9fb0d469f2c175fb3c4e2a83983e9975c70b5c3bdd07132331ff9",
+      "seconds": 4.52,
+      "id": "paper-pen",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/coins.mp3",
+      "sha256": "52545605caa7264abb33678008062895a93db13ee46983f148de35e87c1c5045",
+      "receiptSHA256": "6729a0bd4935b51c76f8ee89873119a919acf4af3b81819b76ea2b9c44a6f5a0",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "0ba79984e30d21b1cacbf8d4b6ed088efd16e31c1a259c73c2943e781e729cb3",
+      "seconds": 2.8,
+      "id": "coins",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/wood-tick.mp3",
+      "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090",
+      "receiptSHA256": "1d5e4f08e4d63b0b92763e53778935dfdf9bff3d3de250dfb859baa96649ddba",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "33e719b542c481c34a5d156445d4049e493148f7c78ebe6798f85d3b77be2f61",
+      "seconds": 1.52,
+      "id": "wood-tick",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/transition.mp3",
+      "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819",
+      "receiptSHA256": "8a0a08a86d560c2ff40a5eb25dad58926a1c89796c9455db64ec390f9457b91e",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "648e28c69745fa0199984937e4ee120037fc6ec39a6f7aa3367cc65d687423e8",
+      "seconds": 1.65,
+      "id": "transition",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/cafe-ambience.mp3",
+      "sha256": "3e38c2299c67c82d57b6e84aa9eacd0f34b851b9f1a0a0e99b6f0458e5a82bc2",
+      "receiptSHA256": "ba93e7a33c5c61f0ea9b48d3efbfc43b5f44bf32266811aee1d91eae0e45e342",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "e657eb37f6716f6a45f79e6c1059d200526ae2b5d69701ccadb755081320d005",
+      "seconds": 18.05,
+      "id": "cafe-ambience",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/sfx/low-hit.mp3",
+      "sha256": "8ed8e2da9e75bdb5d69adc3149feae84729ce657b2451134ab759f5ac199d7ea",
+      "receiptSHA256": "f371b307dbc05419616a32d10d9f404d752b5649f847ed6e5d210f652a15e5a9",
+      "provider": "ElevenLabs",
+      "model": "eleven_text_to_sound_v3",
+      "requestHash": "52c75d826049443cf4a15f60101486130f2a8f95875579553921bb53859b48bb",
+      "seconds": 1.8,
+      "id": "low-hit",
+      "kind": "foley"
+    },
+    {
+      "file": "audio/music/motion-bridge.mp3",
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96",
+      "receiptSHA256": "15f10bdaf34e67b4d0eb1ca2508b6e751361ec3c17df32c8061b8133dcb199df",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "5eb510b961e727235553934a6a31e019ee6d725ded5b38eb52a152d74e26ca80",
+      "seconds": 50.05,
+      "id": "motion-bridge",
+      "kind": "retained-generated-music",
+      "originalSource": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-cinematic-reset\\audio\\motion-score.mp3"
+    },
+    {
+      "file": "audio/music/agency-bridge.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a",
+      "receiptSHA256": "0b5e629e2a714328ff247ae799dca884a738c01ea158936835cf9fe940d28e00",
+      "provider": "ElevenLabs",
+      "model": "music_v1",
+      "requestHash": "2de45fc46bc0ea3b2de9520c2b0b02c20e13fca7c382d5704855050d32e1d522",
+      "seconds": 120.08,
+      "id": "agency-bridge",
+      "kind": "retained-generated-music",
+      "originalSource": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ai-va-cong-viec-5phut\\audio\\agency-score.mp3"
+    }
+  ],
+  "soundPlanSHA256": "86ac5ff325f587dfe079c66f4fa0cf6ee9e7196e34e51034db16cbea0099db8b",
+  "humanListening": "Not established by generation"
+}

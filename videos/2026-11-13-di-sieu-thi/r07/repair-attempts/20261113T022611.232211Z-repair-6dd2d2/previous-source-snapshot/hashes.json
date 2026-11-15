@@ -1,0 +1,22 @@
+[
+  {
+    "file": "data.json",
+    "sha256": "984a809dd1fffec9e3f947d341144dd673e37d7ddaaa07932c9f8278dc3ea7ab"
+  },
+  {
+    "file": "script.txt",
+    "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+  },
+  {
+    "file": "audio-sources.json",
+    "sha256": "55e80782996eb806fd7ad4b30e42ba95112fab36356e3d9241652e6c0486bb26"
+  },
+  {
+    "file": "render-assets.json",
+    "sha256": "433ea4b0e7b63dc6327ab9e6b01346e3cce793507fcb38af2a14955dc0e6ae63"
+  },
+  {
+    "file": "qa/report.json",
+    "sha256": "bc3fc4918309da18962888b4d2a07dcb957588bec1f82293c4001c81889e2b40"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "event": "evt-000028-564405ac952f",
+  "eventSHA256": "f65e3056bfedabf99cd0e5420279e9cd62c75c1592265dcf94a0864d0d359ae9",
+  "audit": {
+    "schema": "reference-video-learning-audit/1",
+    "events": 28,
+    "ledger_head_sha256": "f65e3056bfedabf99cd0e5420279e9cd62c75c1592265dcf94a0864d0d359ae9",
+    "file_integrity": "passed",
+    "failures": [],
+    "scope": "Event chain and retained file hashes, not editorial or user acceptance."
+  },
+  "videoSHA256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e",
+  "priorInitialExportsUnchanged": {
+    "business-initial-guidance.json": "81cfbdb3eee85d349955328959be9cde7a984a1d1791affd71abb0b0e1639848",
+    "business-initial-report.json": "6f6fdad49471bbc44e3447c3475ee79d86a7970e6b8f66ebfa3b728a6c78bf84",
+    "business-initial-audit.json": "5d0b8b8ebbbee0a07bc2d002fc6d899e2b441d35f2dd933403bcbaa2bd320e01",
+    "business-initial-ledger-receipt.json": "6b66e9f8e8d15813ad06190978f3688a150beaae1ff1cf381d9dab665cb75b69"
+  },
+  "newBusinessUserAcceptance": "pending",
+  "workflowLessonState": "applied; not verified by this technical check",
+  "audioListening": "not claimed"
+}

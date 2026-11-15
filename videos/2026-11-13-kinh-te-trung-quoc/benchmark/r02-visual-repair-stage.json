@@ -1,0 +1,47 @@
+{
+  "schema": "china-visual-repair-benchmark/1",
+  "startedUTC": "2026-11-13T06:01:21.901348+00:00",
+  "finishedUTC": "2026-11-13T06:03:51.537944+00:00",
+  "wallSeconds": 149.64,
+  "changedShots": [
+    "o03"
+  ],
+  "patchFrames": 366,
+  "patchRender": {
+    "startedUTC": "2026-11-13T06:01:22.155354+00:00",
+    "finishedUTC": "2026-11-13T06:01:49.977206+00:00",
+    "wallSeconds": 27.813,
+    "returncode": 0,
+    "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02\\patch.log",
+    "directProcessCPUSeconds": 5.328125,
+    "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+  },
+  "spliceTiming": {
+    "startedUTC": "2026-11-13T06:01:50.260615+00:00",
+    "finishedUTC": "2026-11-13T06:03:38.821911+00:00",
+    "wallSeconds": 108.563,
+    "returncode": 0,
+    "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02\\splice.log",
+    "directProcessCPUSeconds": 856.78125,
+    "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+  },
+  "finalDecode": {
+    "sha256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+    "frames": 17913,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "decodeWallSeconds": 11.562,
+    "decodeFramesPerSecond": 1549.299
+  },
+  "audioDecode": {
+    "decodedSamplesMono48000": 28661760,
+    "seconds": 597.12,
+    "lastWordEnd": 595.58,
+    "wallSeconds": 0.813,
+    "manualListening": false
+  },
+  "newProviderCalls": 0,
+  "newProviderCredits": 0,
+  "scope": "Local heading repair only; full normalized encode retained prior movie. Final production ready time still awaits QA/sample-review completion."
+}

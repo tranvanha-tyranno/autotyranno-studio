@@ -1,0 +1,214 @@
+{
+  "schema": "paced-comic-temporal-frame-review/2",
+  "revision": "r05",
+  "reviewedAt": "2026-11-13T17:18:01.447507+00:00",
+  "bundleDependenciesSHA256": "9c27233d459fc27ad456afef28c288ed18d84f014e0e032c22cd3e43be27492b",
+  "method": "ordered_dense_frame_sequence_review",
+  "decision": "ready_for_long_render",
+  "clips": [
+    {
+      "beat": "b01",
+      "file": "r05/comic/proof/b01.mp4",
+      "sha256": "6625895e0960561ce30ce06737eb0d54ca8e71027814456f14fbe39afb3d25fc",
+      "frames": 351,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 44,
+      "observation": "Salary cash moves to the jar; extra spending moves to the bag; a reaction follows. The final part shows adjacent 12-10 and 14-12 budgets without replaying the opening.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b01-01.jpg",
+          "sha256": "0a904a729b7736883240a848742e730b7de391a1431431a3914a18c3fa2234da"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b01-02.jpg",
+          "sha256": "ad815f4beede1b717b89a0b0443e63170e3272331da4583cfc2a9c2b58723006"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b01-03.jpg",
+          "sha256": "f3221ccefcad489af4b92dcf089f44a5350ca504d63f2916e27cf1676b57251f"
+        }
+      ]
+    },
+    {
+      "beat": "b15",
+      "file": "r05/comic/proof/b15.mp4",
+      "sha256": "0fbc21893a62fb5b18b99474e09173e7528dc3d0367dc5bb32cae5d5f571897b",
+      "frames": 402,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 51,
+      "observation": "Daily 20k becomes 600k across 30 days. The 600k deduction keeps other costs unchanged, produces 11.4m expense and 2.6m surplus, then ends on a personal plan. Main arithmetic is readable.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b15-01.jpg",
+          "sha256": "8c71e026534e98071b9fa208ee37ab1240d7420a31842a0a9e01d48092e7dca4"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b15-02.jpg",
+          "sha256": "95c22939d330878a8b874b52913bdee9c90e3df9c14e4be8bee21b56ac062497"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b15-03.jpg",
+          "sha256": "4a7884f81c9c6856592916f6ddf9743f6242ee706e503facece245f409c9f3b2"
+        }
+      ]
+    },
+    {
+      "beat": "b17",
+      "file": "r05/comic/proof/b17.mp4",
+      "sha256": "29631f0278cf7a65e87341a0dd1e6a2d348300b25148777cff93a7ba9d4c6324",
+      "frames": 335,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 42,
+      "observation": "An internal account transfer leads to an ATM withdrawal, then a duplicate withdrawal entry is crossed out while the actual purchase record is checked.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b17-01.jpg",
+          "sha256": "f36cc5bfb2f1d3dc102667d45d9d3e435240f180d3b7735f558b6dc289ab9881"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b17-02.jpg",
+          "sha256": "89c20b7ddca71d84a05d44b10a8bef14418f3f4474a243fdf12b2bd07e058a25"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b17-03.jpg",
+          "sha256": "dfc0b87eb3d394cd03a300ff862fec919922ba178a60ab97cfa5000e630f2260"
+        }
+      ]
+    },
+    {
+      "beat": "b25",
+      "file": "r05/comic/proof/b25.mp4",
+      "sha256": "ff6facf40c559fb04116652b8701a246cb7b090058587dcd82a5b3b5b104e9bf",
+      "frames": 332,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 42,
+      "observation": "A known obligation leads to an account-to-envelope transfer. Total money stays unchanged, then today spending is kept separate from the protected future envelope.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b25-01.jpg",
+          "sha256": "69ec0c3b5dc5c4ccc959eb8760934074f9e267d458b78de14efc33b6db077e9b"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b25-02.jpg",
+          "sha256": "6304c4ed474431eaf2de690bbf669ee3c5f2bfb02dd1cde3a3ef66ab7c7861ff"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b25-03.jpg",
+          "sha256": "a0ca0bb9d8fddf430091e425b404faa8ca6abfe133c16f7ecb7b34b94b9878d6"
+        }
+      ]
+    },
+    {
+      "beat": "b26",
+      "file": "r05/comic/proof/b26.mp4",
+      "sha256": "680fd8389a3d64d3ac349c43a178166588471cfa7e5bdec089574a5d99d8a19c",
+      "frames": 377,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 48,
+      "observation": "A monthly total is compared with a missing day. Rent is due before income, the bill and income are placed on appropriate days, and the deadline constraint remains. The final part does not reset the opening calendar.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b26-01.jpg",
+          "sha256": "3b0ea8c237a427121a167d877259536207cc4b7c38fa1f07084a4fcbbe0419e5"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b26-02.jpg",
+          "sha256": "aee012ec6bee6ad161541d07f84f2816827c969b14616c6166f7f7f1830f7723"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b26-03.jpg",
+          "sha256": "126a3cf8aa8d12d1b589ef0fd7ddd1a8df953e2cf12bc31ff75069c0af209d83"
+        }
+      ]
+    },
+    {
+      "beat": "b31",
+      "file": "r05/comic/proof/b31.mp4",
+      "sha256": "94604c19497606f9118bcee35e875ed2584257e50ffe042185386ef1c7f8db6f",
+      "frames": 329,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 42,
+      "observation": "Home, food and travel lead to family cash assignment, essential category underlining, then flexible extras move away while larger needs stay.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b31-01.jpg",
+          "sha256": "0875cd01800eba0f83d5683876d922b1a2347b3a3e2fe022cd9b6fa9af781304"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b31-02.jpg",
+          "sha256": "8240ee509ac431757b533af8a3132b452924b0cdafd6640feaf30dc5133ff162"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b31-03.jpg",
+          "sha256": "bc611874b171764697b27d8b2e623332f74b652a154bd6ea19b4e37773065c7c"
+        }
+      ]
+    },
+    {
+      "beat": "b42",
+      "file": "r05/comic/proof/b42.mp4",
+      "sha256": "9bf0a0bad14e93999b00327446cfa0f39bb995b48f78c1229ccd2ff278289b0b",
+      "frames": 414,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 52,
+      "observation": "Purchase context and phone comparison lead to the explicitly narrated putdown callback, then a total-payable receipt and save-for-later phone. The earlier putdown composition is reused as a callback; no additional reset occurs in part 3.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b42-01.jpg",
+          "sha256": "e231ad00ee0b0242e7888897e2dfe692adac0599993eeb4a16b38f49c2aac5fb"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b42-02.jpg",
+          "sha256": "57729cbf5f1cb9d24c1a3e0cc7c1d46321cbcf6e6a06eeaac16cb4293f35638d"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/b42-03.jpg",
+          "sha256": "445fe310a2205a7a84c88e7a58c986e87cc1e0eed947a3934c17031b99d4b8d9"
+        }
+      ]
+    },
+    {
+      "beat": "subscribe",
+      "file": "r05/comic/proof/subscribe.mp4",
+      "sha256": "62bca804640821dd77ca1db25e7e8beade0a16868da3546ac7af289ec0f2c662",
+      "frames": 327,
+      "samplingEveryFrames": 8,
+      "samplingSeconds": 0.26666666666666666,
+      "sampleCount": 41,
+      "observation": "Subscribe tap changes the button state, the bell rings, a comment is written, and the written state persists into the Send tap. The comment never becomes blank again.",
+      "sheets": [
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/subscribe-01.jpg",
+          "sha256": "9cdd7ed3a84c9965b1dc19322676bdc0a9c7e98ea4cc1d4a84cc41e5a237ee1e"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/subscribe-02.jpg",
+          "sha256": "b746f476612254064ab09252ea4618679e67e0e82936a5a042b5f48801fdb7dc"
+        },
+        {
+          "file": "r05/comic/proof/temporal-comic-audit/subscribe-03.jpg",
+          "sha256": "a1830d73097325ce56f237cc21b244d71c4d4a1a212a3586a2e759584d284874"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "completeProofBeats": 8,
+    "sheetPages": 24,
+    "sampling": "Every 8 frames, in order, approximately 3.75 fps; all proof parts from opening through ending."
+  },
+  "observedMaterialIssues": [],
+  "limitations": [
+    "This reviewer inspected ordered dense rendered frames, not continuous audio playback. The parent reviews full clips in a real browser.",
+    "Entering papers and hands sometimes cross secondary text transiently. Some inherited cash or jar labels extend the primitive bounds but stay inside the frame and remain readable.",
+    "Several other beats retain visual callbacks or paired receipt compositions. See the all-shot static review; static frames cannot establish continuous motion or user aesthetic approval.",
+    "The new output remains pending user feedback."
+  ]
+}

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "cn-auto-assembly",
+    "source": {
+      "id": "cn-auto-assembly",
+      "type": "photo",
+      "provider": "Wikimedia Commons",
+      "providerPhotoId": 18168648,
+      "file": "sources/photos/cn-auto-assembly.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Geely_assembly_line_in_Beilun,_Ningbo.JPG",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Geely_assembly_line_in_Beilun%2C_Ningbo.JPG/1920px-Geely_assembly_line_in_Beilun%2C_Ningbo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Siyuwj",
+      "title": "Geely assembly line in Beilun, Ningbo.JPG",
+      "sourceDescription": "Car assembly line of Geely in Beilun District, Ningbo",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "bytes": 426642,
+      "width": 1440,
+      "height": 1080,
+      "sha256": "2a9db2f9f8e771aa8d5bceee0711bd134aa39292433798e5684abb32d0994ea8",
+      "capturedDate": "2011-12-22",
+      "location": {
+        "countryCode": "CN",
+        "place": "Beilun District, Ningbo, China",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Geely_assembly_line_in_Beilun,_Ningbo.JPG",
+        "evidence": "Source description: Car assembly line of Geely in Beilun District, Ningbo."
+      },
+      "inspection": {
+        "method": "Actual downloaded image opened in source contact sheets; source-photo inspection only, no rendered production crop acceptance or continuous AV review.",
+        "observedSubjectAction": "Dark sedans on a car assembly line with raised rear hatches, overhead yellow rails and workers.",
+        "supports": "Archival Geely automobile assembly context.",
+        "doesNotEstablish": "Not BYD, not established to be EV production; no output, employment, efficiency or export numbers established.",
+        "sourceSha256": "2a9db2f9f8e771aa8d5bceee0711bd134aa39292433798e5684abb32d0994ea8",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative archival context",
+      "attribution": "Siyuwj — Geely assembly line in Beilun, Ningbo.JPG — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Geely_assembly_line_in_Beilun,_Ningbo.JPG — https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Commons thumbnail downloaded, converted/recompressed to JPEG and bounded to at most 1600×1080. Subsequent cropping/animation must be recorded in production; adapted CC BY-SA photos retain their original license.",
+      "inspectionStatus": "source-contact-sheet-inspected",
+      "sourceReceipt": "sources/selected-photo-metadata.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in opened sheet; intrinsic real-world store/product markings may remain."
+    },
+    "sourceSHA256": "2a9db2f9f8e771aa8d5bceee0711bd134aa39292433798e5684abb32d0994ea8",
+    "publicFile": "china/cn-auto-assembly.jpg",
+    "publicSHA256": "24e99415b5e8059626362bb56e7a2542244f168d04853fdd21b374e321c5f485",
+    "override": {}
+  },
+  {
+    "id": "cn-toy-assembly-workers",
+    "source": {
+      "id": "cn-toy-assembly-workers",
+      "type": "photo",
+      "provider": "Wikimedia Commons",
+      "providerPhotoId": 127072505,
+      "file": "sources/photos/cn-toy-assembly-workers.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pengeluaran_produksi_Rubik_Kiub.png",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Pengeluaran_produksi_Rubik_Kiub.png/960px-Pengeluaran_produksi_Rubik_Kiub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Encik Tekateki",
+      "title": "Pengeluaran produksi Rubik Kiub.png",
+      "sourceDescription": "Operator memasang Rubik kiub di assembly line di Guandong, China",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 94041,
+      "width": 960,
+      "height": 519,
+      "sha256": "678092b200962a005f96e35ad33fa936f45574eea53f8bf982135c82f5554588",
+      "capturedDate": "2022-12-27",
+      "location": {
+        "countryCode": "CN",
+        "place": "Guangdong, China; exact factory/city not established",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Pengeluaran_produksi_Rubik_Kiub.png",
+        "evidence": "Author description: Operator memasang Rubik kiub di assembly line di Guandong, China. Province spelling reproduced in source."
+      },
+      "inspection": {
+        "method": "Actual downloaded image opened in source contact sheets; source-photo inspection only, no rendered production crop acceptance or continuous AV review.",
+        "observedSubjectAction": "Worker at a bench assembling colorful puzzle cubes, many blue parts bins and rows of cube parts, second person behind.",
+        "supports": "Manual toy/puzzle assembly and worker context.",
+        "doesNotEstablish": "Not evidence of wages, labor rights, worker intent, employment growth or representative national factory conditions.",
+        "sourceSha256": "678092b200962a005f96e35ad33fa936f45574eea53f8bf982135c82f5554588",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative archival context",
+      "attribution": "Encik Tekateki — Pengeluaran produksi Rubik Kiub.png — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Pengeluaran_produksi_Rubik_Kiub.png — https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "Commons thumbnail downloaded, converted/recompressed to JPEG and bounded to at most 1600×1080. Subsequent cropping/animation must be recorded in production; adapted CC BY-SA photos retain their original license.",
+      "inspectionStatus": "source-contact-sheet-inspected",
+      "sourceReceipt": "sources/selected-photo-metadata.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in opened sheet; intrinsic real-world store/product markings may remain.",
+      "resolutionLimit": "960px source thumbnail; prefer a smaller inset/panel rather than full-width 1080 display."
+    },
+    "sourceSHA256": "678092b200962a005f96e35ad33fa936f45574eea53f8bf982135c82f5554588",
+    "publicFile": "china/cn-toy-assembly-workers.jpg",
+    "publicSHA256": "1325c2c96ca13a3e96b335f6f9ae3569eaae6e77ee3b1b200c08cf8ddbcd1e52",
+    "override": {}
+  },
+  {
+    "id": "cn-clip-guangzhou-retail",
+    "source": {
+      "id": "cn-clip-guangzhou-retail",
+      "type": "video",
+      "provider": "Pexels",
+      "providerVideoId": 36692153,
+      "file": "sources/videos/cn-clip-guangzhou-retail.mp4",
+      "page": "https://www.pexels.com/video/busy-guangzhou-shopping-center-lifestyle-scene-36692153/",
+      "download": "https://videos.pexels.com/video-files/36692153/15555023_3840_2160_50fps.mp4",
+      "creator": "LayG Traveller",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "bytes": 3205887,
+      "width": 1280,
+      "height": 720,
+      "sha256": "d60261eaee96ff4c50a33c50e0e6d9a83a37d20bb5d47f67cc56bde413b17a89",
+      "duration": 9.0,
+      "fps": 30.0,
+      "frames": 270,
+      "sourcePublishedDate": "2026-03-23",
+      "capturedDate": null,
+      "location": {
+        "countryCode": "CN",
+        "place": "Guangzhou, China",
+        "sourceURL": "https://www.pexels.com/video/busy-guangzhou-shopping-center-lifestyle-scene-36692153/",
+        "evidence": "Official source description explicitly identifies a crowded shopping center in Guangzhou, China."
+      },
+      "inspection": {
+        "method": "Opened actual derivative video contact sheet, five frames per clip at the recorded sample times; not continuous audiovisual playback.",
+        "sampleTimes": [
+          0.433,
+          2.233,
+          4.5,
+          6.733,
+          8.533
+        ],
+        "observedSubjectAction": "People walking through a shopping-center passage beside a CoCo tea/juice counter; overhead store signs and other shops.",
+        "supports": "Short real moving location context only.",
+        "doesNotEstablish": "Crowds do not establish actual purchases, spending trend, confidence or the national consumption rate. Intrinsic CoCo branding remains.",
+        "sourceSha256": "d60261eaee96ff4c50a33c50e0e6d9a83a37d20bb5d47f67cc56bde413b17a89",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative location footage",
+      "attribution": "LayG Traveller — Pexels video 36692153 — https://www.pexels.com/video/busy-guangzhou-shopping-center-lifestyle-scene-36692153/ — https://www.pexels.com/license/",
+      "modifications": "Streamed official source through FFmpeg: first9seconds only, native-time playback, source audio removed, scaled/padded1280x720, normalized30fps, H264CRF24. Raw4K rendition not retained on disk; originalURL+bounded derivative/hash retained.",
+      "rawSourceRetained": false,
+      "sourceInterval": [
+        0,
+        9
+      ],
+      "inspectionStatus": "sampled-video-frames-inspected",
+      "sourceReceipt": "sources/videos/download-receipts.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in the five sampled frames. Intrinsic retail signs and real-world brands may remain; not an endorsement."
+    },
+    "sourceSHA256": "d60261eaee96ff4c50a33c50e0e6d9a83a37d20bb5d47f67cc56bde413b17a89",
+    "publicFile": "china/cn-clip-guangzhou-retail.mp4",
+    "publicSHA256": "d60261eaee96ff4c50a33c50e0e6d9a83a37d20bb5d47f67cc56bde413b17a89",
+    "override": {}
+  },
+  {
+    "id": "cn-shanghai-supermarket",
+    "source": {
+      "id": "cn-shanghai-supermarket",
+      "type": "photo",
+      "provider": "Wikimedia Commons",
+      "providerPhotoId": 194276409,
+      "file": "sources/photos/cn-shanghai-supermarket.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Qingmei_Xianshi_at_Guohe_Road,_Yangpu_District-20251021.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Qingmei_Xianshi_at_Guohe_Road%2C_Yangpu_District-20251021.jpg/1920px-Qingmei_Xianshi_at_Guohe_Road%2C_Yangpu_District-20251021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Shwangtianyuan",
+      "title": "Qingmei Xianshi at Guohe Road, Yangpu District-20251021.jpg",
+      "sourceDescription": "Qingmei also have supermarket, although it is originated from a soybean products manufacturer.",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 249531,
+      "width": 1440,
+      "height": 1080,
+      "sha256": "e49b27520e34052eb520799b7cf4f94b254affdfa1bd8f972170fd6c9fe58546",
+      "capturedDate": "2025-10-21 19:05:33",
+      "location": {
+        "countryCode": "CN",
+        "place": "Guohe Road, Yangpu District, Shanghai, China",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Qingmei_Xianshi_at_Guohe_Road,_Yangpu_District-20251021.jpg",
+        "evidence": "Source title names Qingmei Xianshi at Guohe Road, Yangpu District; location metadata/categories identify Shanghai."
+      },
+      "inspection": {
+        "method": "Actual downloaded image opened in source contact sheets; source-photo inspection only, no rendered production crop acceptance or continuous AV review.",
+        "observedSubjectAction": "Night supermarket storefront with Chinese signage, open goods-filled entrance and people passing outside.",
+        "supports": "Shanghai neighborhood retail/store context.",
+        "doesNotEstablish": "Does not establish basket spending, confidence, prices, sales or current business condition.",
+        "sourceSha256": "e49b27520e34052eb520799b7cf4f94b254affdfa1bd8f972170fd6c9fe58546",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative archival context",
+      "attribution": "Shwangtianyuan — Qingmei Xianshi at Guohe Road, Yangpu District-20251021.jpg — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Qingmei_Xianshi_at_Guohe_Road,_Yangpu_District-20251021.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "Commons thumbnail downloaded, converted/recompressed to JPEG and bounded to at most 1600×1080. Subsequent cropping/animation must be recorded in production; adapted CC BY-SA photos retain their original license.",
+      "inspectionStatus": "source-contact-sheet-inspected",
+      "sourceReceipt": "sources/selected-photo-metadata.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in opened sheet; intrinsic real-world store/product markings may remain."
+    },
+    "sourceSHA256": "e49b27520e34052eb520799b7cf4f94b254affdfa1bd8f972170fd6c9fe58546",
+    "publicFile": "china/cn-shanghai-supermarket.jpg",
+    "publicSHA256": "0bbde4c00b56fdbe5cb27d470d3e7b65434160e13b7c617145b676c1c3028a39",
+    "override": {}
+  },
+  {
+    "id": "cn-industry-robots",
+    "source": {
+      "id": "cn-industry-robots",
+      "type": "photo",
+      "provider": "Wikimedia Commons",
+      "providerPhotoId": 78465249,
+      "file": "sources/photos/cn-industry-robots.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Automated_Robots_Replace_Workers_in_China.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Automated_Robots_Replace_Workers_in_China.jpg/1920px-Automated_Robots_Replace_Workers_in_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Cory M. Grenier",
+      "title": "Automated Robots Replace Workers in China.jpg",
+      "sourceDescription": "Automated Robots Replace Workers in China",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "bytes": 426760,
+      "width": 1440,
+      "height": 1080,
+      "sha256": "91cd219449b5f779838d9b69004d781ade74f324fcdc552555142f72eb14e102",
+      "capturedDate": "2010-05-08 10:21",
+      "location": {
+        "countryCode": "CN",
+        "place": "China; exact city not established",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Automated_Robots_Replace_Workers_in_China.jpg",
+        "evidence": "Source title/description explicitly says in China; no exact city location is established by this receipt."
+      },
+      "inspection": {
+        "method": "Actual downloaded image opened in source contact sheets; source-photo inspection only, no rendered production crop acceptance or continuous AV review.",
+        "observedSubjectAction": "Black-and-white industrial interior with robotic arms, conveyor and equipment.",
+        "supports": "Automation equipment context.",
+        "doesNotEstablish": "The source title makes a replacement claim, but these pixels do not prove displacement, layoffs, productivity or a causal effect. Do not repeat the causal file title as evidence.",
+        "sourceSha256": "91cd219449b5f779838d9b69004d781ade74f324fcdc552555142f72eb14e102",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative archival context",
+      "attribution": "Cory M. Grenier — Automated Robots Replace Workers in China.jpg — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Automated_Robots_Replace_Workers_in_China.jpg — https://creativecommons.org/licenses/by-sa/2.0",
+      "modifications": "Commons thumbnail downloaded, converted/recompressed to JPEG and bounded to at most 1600×1080. Subsequent cropping/animation must be recorded in production; adapted CC BY-SA photos retain their original license.",
+      "inspectionStatus": "source-contact-sheet-inspected",
+      "sourceReceipt": "sources/selected-photo-metadata.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in opened sheet; intrinsic real-world store/product markings may remain."
+    },
+    "sourceSHA256": "91cd219449b5f779838d9b69004d781ade74f324fcdc552555142f72eb14e102",
+    "publicFile": "china/cn-industry-robots.jpg",
+    "publicSHA256": "a2f3c682e12f8a88f393e67510dd5201e3cc448869ede5feb07df114bc5f5a80",
+    "override": {}
+  },
+  {
+    "id": "cn-silk-suzhou",
+    "source": {
+      "id": "cn-silk-suzhou",
+      "type": "photo",
+      "provider": "Wikimedia Commons",
+      "providerPhotoId": 69181427,
+      "file": "sources/photos/cn-silk-suzhou.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Silk_processing_line_(7440308376).jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Silk_processing_line_%287440308376%29.jpg/960px-Silk_processing_line_%287440308376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Caitriana Nicholson  from 北京 ~ Beijing, 中国 ~ China",
+      "title": "Silk processing line (7440308376).jpg",
+      "sourceDescription": "Suzhou No. 1 Silk Factory",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "bytes": 273212,
+      "width": 960,
+      "height": 720,
+      "sha256": "f31a3cb55d2f729753e35901df3e4213e98370b938494c8834dfe3911d76fdd3",
+      "capturedDate": "2012-06-13 15:40",
+      "location": {
+        "countryCode": "CN",
+        "place": "Suzhou No. 1 Silk Factory, Suzhou, China",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Silk_processing_line_(7440308376).jpg",
+        "evidence": "Source description: Suzhou No. 1 Silk Factory. Author home city is not used as photo-location evidence."
+      },
+      "inspection": {
+        "method": "Actual downloaded image opened in source contact sheets; source-photo inspection only, no rendered production crop acceptance or continuous AV review.",
+        "observedSubjectAction": "Silk-reeling/processing machinery with pale cocoons in water basins and thread rollers.",
+        "supports": "Silk/textile processing equipment context.",
+        "doesNotEstablish": "No workers visible; not robot, EV or battery assembly, no output or employment measures.",
+        "sourceSha256": "f31a3cb55d2f729753e35901df3e4213e98370b938494c8834dfe3911d76fdd3",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative archival context",
+      "attribution": "Caitriana Nicholson  from 北京 ~ Beijing, 中国 ~ China — Silk processing line (7440308376).jpg — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Silk_processing_line_(7440308376).jpg — https://creativecommons.org/licenses/by-sa/2.0",
+      "modifications": "Commons thumbnail downloaded, converted/recompressed to JPEG and bounded to at most 1600×1080. Subsequent cropping/animation must be recorded in production; adapted CC BY-SA photos retain their original license.",
+      "inspectionStatus": "source-contact-sheet-inspected",
+      "sourceReceipt": "sources/selected-photo-metadata.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in opened sheet; intrinsic real-world store/product markings may remain.",
+      "resolutionLimit": "960px source thumbnail; prefer a smaller inset/panel rather than full-width 1080 display."
+    },
+    "sourceSHA256": "f31a3cb55d2f729753e35901df3e4213e98370b938494c8834dfe3911d76fdd3",
+    "publicFile": "china/cn-silk-suzhou.jpg",
+    "publicSHA256": "684a2e8bc8dc0f05a0c72cee17392d46804731072d3d1362a5c5ec4f1f28828d",
+    "override": {}
+  },
+  {
+    "id": "cn-clip-shenzhen-night",
+    "source": {
+      "id": "cn-clip-shenzhen-night",
+      "type": "video",
+      "provider": "Pexels",
+      "providerVideoId": 35987653,
+      "file": "sources/videos/cn-clip-shenzhen-night.mp4",
+      "page": "https://www.pexels.com/video/spectacular-shenzhen-skyline-at-night-35987653/",
+      "download": "https://videos.pexels.com/video-files/35987653/15259550_3840_2160_60fps.mp4",
+      "creator": "LayG Traveller",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "bytes": 1611281,
+      "width": 1280,
+      "height": 720,
+      "sha256": "134e19cb5fd361a245a9b190889c866b2905187a89976a1a038fbc2d0d5dc119",
+      "duration": 9.0,
+      "fps": 30.0,
+      "frames": 270,
+      "sourcePublishedDate": "2026-02-03",
+      "capturedDate": null,
+      "location": {
+        "countryCode": "CN",
+        "place": "Shenzhen, China",
+        "sourceURL": "https://www.pexels.com/video/spectacular-shenzhen-skyline-at-night-35987653/",
+        "evidence": "Official source title: Spectacular Shenzhen Skyline at Night. Description identifies Shenzhen skyline. City provenance comes from the source, not the appearance."
+      },
+      "inspection": {
+        "method": "Opened actual derivative video contact sheet, five frames per clip at the recorded sample times; not continuous audiovisual playback.",
+        "sampleTimes": [
+          0.433,
+          2.233,
+          4.5,
+          6.733,
+          8.533
+        ],
+        "observedSubjectAction": "Illuminated high-rise waterfront skyline at night, colored reflections on the water and subtle moving light patterns.",
+        "supports": "Short real moving location context only.",
+        "doesNotEstablish": "Not economic growth, real-estate occupancy or present-day business condition.",
+        "sourceSha256": "134e19cb5fd361a245a9b190889c866b2905187a89976a1a038fbc2d0d5dc119",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative location footage",
+      "attribution": "LayG Traveller — Pexels video 35987653 — https://www.pexels.com/video/spectacular-shenzhen-skyline-at-night-35987653/ — https://www.pexels.com/license/",
+      "modifications": "Streamed official source through FFmpeg: first9seconds only, native-time playback, source audio removed, scaled/padded1280x720, normalized30fps, H264CRF24. Raw4K rendition not retained on disk; originalURL+bounded derivative/hash retained.",
+      "rawSourceRetained": false,
+      "sourceInterval": [
+        0,
+        9
+      ],
+      "inspectionStatus": "sampled-video-frames-inspected",
+      "sourceReceipt": "sources/videos/download-receipts.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in the five sampled frames. Intrinsic retail signs and real-world brands may remain; not an endorsement."
+    },
+    "sourceSHA256": "134e19cb5fd361a245a9b190889c866b2905187a89976a1a038fbc2d0d5dc119",
+    "publicFile": "china/cn-clip-shenzhen-night.mp4",
+    "publicSHA256": "134e19cb5fd361a245a9b190889c866b2905187a89976a1a038fbc2d0d5dc119",
+    "override": {}
+  },
+  {
+    "id": "cn-shanghai-skyline",
+    "source": {
+      "id": "cn-shanghai-skyline",
+      "type": "photo",
+      "provider": "Wikimedia Commons",
+      "providerPhotoId": 186985624,
+      "file": "sources/photos/cn-shanghai-skyline.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Shanghai_Skyline_2025.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shanghai_Skyline_2025.jpg/1920px-Shanghai_Skyline_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Gankbank789",
+      "title": "Shanghai Skyline 2025.jpg",
+      "sourceDescription": "Shanghai Skyline 2025",
+      "license": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "bytes": 337384,
+      "width": 1440,
+      "height": 1080,
+      "sha256": "de78e137d197c88fbde6c8493250e4d1bc87a9b021c3c2fb65272f36b45629b8",
+      "capturedDate": "2025-07-07 19:43:30",
+      "location": {
+        "countryCode": "CN",
+        "place": "Lujiazui, Shanghai, China",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Shanghai_Skyline_2025.jpg",
+        "evidence": "Source title Shanghai Skyline 2025; categories identify Lujiazui skyline from the Bund at night."
+      },
+      "inspection": {
+        "method": "Actual downloaded image opened in source contact sheets; source-photo inspection only, no rendered production crop acceptance or continuous AV review.",
+        "observedSubjectAction": "Lit Shanghai high-rise skyline across the river at night, including distinctive Lujiazui towers.",
+        "supports": "City-scale Shanghai establishing context.",
+        "doesNotEstablish": "Does not establish GDP, growth, current demand, real-estate values or occupancy.",
+        "sourceSha256": "de78e137d197c88fbde6c8493250e4d1bc87a9b021c3c2fb65272f36b45629b8",
+        "checkedDate": "2026-11-13"
+      },
+      "recommendedFocus": [
+        50,
+        50
+      ],
+      "recommendedFit": "cover",
+      "role": "illustrative archival context",
+      "attribution": "Gankbank789 — Shanghai Skyline 2025.jpg — CC0 — https://commons.wikimedia.org/wiki/File:Shanghai_Skyline_2025.jpg — http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "modifications": "Commons thumbnail downloaded, converted/recompressed to JPEG and bounded to at most 1600×1080. Subsequent cropping/animation must be recorded in production; adapted CC BY-SA photos retain their original license.",
+      "inspectionStatus": "source-contact-sheet-inspected",
+      "sourceReceipt": "sources/selected-photo-metadata.json",
+      "productionUse": {
+        "maximumAppearances": 1
+      },
+      "visibleBranding": "No requested channel branding or source-overlay watermark observed in opened sheet; intrinsic real-world store/product markings may remain."
+    },
+    "sourceSHA256": "de78e137d197c88fbde6c8493250e4d1bc87a9b021c3c2fb65272f36b45629b8",
+    "publicFile": "china/cn-shanghai-skyline.jpg",
+    "publicSHA256": "f1a46e22f20ea15154a26f12d1c518e8cf71af8165c2cf0ba7ddd4592ca233c8",
+    "override": {}
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "schema": "bread-asr-followup-review/1",
+  "date": "2026-11-15",
+  "scope": "Full review of five base-ASR reports plus independent cached local small-model recognition of chapters2,4,5. No listening; dry narration audio, not final mix ASR.",
+  "sourceVoice": "vi-VN-NamMinhNeural",
+  "evidence": {
+    "baseReport": "audio/asr-base-chapters/review.json",
+    "baseReportSHA256": "fb0a743f76431021e4a0809a129847a9f37a1454865bb0ede32228bdec4ccf67",
+    "activePlanSHA256": "883fa65ebc24753172492f85718e0eab3ffae99e29df818f1ef7d5021360eb42",
+    "smallRuns": [
+      {
+        "path": "audio/asr-small-followup/5028bdd492ce52e45c0a3e3a58851e56e0de856a5fd56516bcca7fe505ce73f4.json",
+        "sha256": "aac5b54d74141646827e79e57d5ef4cda6dcb52d06e219b6870ee772548728fd"
+      },
+      {
+        "path": "audio/asr-small-followup/6742af35aa66a826d3eb712c2a8268013546ef46a2e2e7a05aae56e969133de4.json",
+        "sha256": "4700675150154147db355a2c582ec90dc3cb927e5bccddba4dee14fddca5468f"
+      },
+      {
+        "path": "audio/asr-small-followup/d160d0fa005fb46794451c80e71842e84ae3b4375e65980a710d4c01e4342ef6.json",
+        "sha256": "07ea5c3748d347d425f52e309b9f01b9d96462c26b6a79af7195e507299a01f7"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter": "hai-nghin-di-dau",
+      "baseSimilarity": 0.8338,
+      "baseExpectedCoverage": 0.8338,
+      "baseNumberPhrasesNotFound": [],
+      "baseExactTail": false,
+      "baseLongOmissionSpans": [],
+      "smallFollowup": null
+    },
+    {
+      "chapter": "giam-cai-gi",
+      "baseSimilarity": 0.6754,
+      "baseExpectedCoverage": 0.8538,
+      "baseNumberPhrasesNotFound": [],
+      "baseExactTail": false,
+      "baseLongOmissionSpans": [],
+      "smallFollowup": {
+        "path": "audio/asr-small-followup/d160d0fa005fb46794451c80e71842e84ae3b4375e65980a710d4c01e4342ef6.json",
+        "sha256": "07ea5c3748d347d425f52e309b9f01b9d96462c26b6a79af7195e507299a01f7",
+        "similarity": 0.9292,
+        "expectedCoverage": 0.9292,
+        "tailCoverage": 0.96,
+        "exactFinalSentence": true,
+        "numberPhrasesNotFound": []
+      }
+    },
+    {
+      "chapter": "hoa-don-nao-giam",
+      "baseSimilarity": 0.8031,
+      "baseExpectedCoverage": 0.8047,
+      "baseNumberPhrasesNotFound": [],
+      "baseExactTail": false,
+      "baseLongOmissionSpans": [],
+      "smallFollowup": null
+    },
+    {
+      "chapter": "luong-mua-bao-nhieu-banh",
+      "baseSimilarity": 0.8928,
+      "baseExpectedCoverage": 0.8944,
+      "baseNumberPhrasesNotFound": [
+        "mười triệu rưỡi"
+      ],
+      "baseExactTail": false,
+      "baseLongOmissionSpans": [],
+      "smallFollowup": {
+        "path": "audio/asr-small-followup/6742af35aa66a826d3eb712c2a8268013546ef46a2e2e7a05aae56e969133de4.json",
+        "sha256": "4700675150154147db355a2c582ec90dc3cb927e5bccddba4dee14fddca5468f",
+        "similarity": 0.8944,
+        "expectedCoverage": 0.8944,
+        "tailCoverage": 0.8,
+        "exactFinalSentence": false,
+        "numberPhrasesNotFound": [
+          "mười triệu rưỡi"
+        ]
+      }
+    },
+    {
+      "chapter": "tro-lai-quay-banh",
+      "baseSimilarity": 0.8274,
+      "baseExpectedCoverage": 0.8274,
+      "baseNumberPhrasesNotFound": [],
+      "baseExactTail": false,
+      "baseLongOmissionSpans": [],
+      "smallFollowup": {
+        "path": "audio/asr-small-followup/5028bdd492ce52e45c0a3e3a58851e56e0de856a5fd56516bcca7fe505ce73f4.json",
+        "sha256": "aac5b54d74141646827e79e57d5ef4cda6dcb52d06e219b6870ee772548728fd",
+        "similarity": 0.9053,
+        "expectedCoverage": 0.9107,
+        "tailCoverage": 0.96,
+        "exactFinalSentence": false,
+        "numberPhrasesNotFound": []
+      }
+    }
+  ],
+  "findings": [
+    {
+      "chapter": "giam-cai-gi",
+      "finding": "The suspected missing-number issue is not present in either recognizer:10%,2%,22,440 all appear. The small recognizer matches the final sentence exactly after normalization, with coverage0.9292/tail0.96. Base low similarity0.6754 mainly reflects an impossible repeated-word tail, not an identified content omission.",
+      "decision": "number/tail concern resolved at ASR diagnostic level; not listening approval"
+    },
+    {
+      "chapter": "luong-mua-bao-nhieu-banh",
+      "finding": "Base has10 triệu rưới twice. Small has10 triểu rưỡi and10 triễu rưới. Both transcriptions include the location and shape of the expected10.5m amount, but an exact lexical phrase matcher rejects the spelling. The5%,500,477 and4.5% phrases are recognized by both. No actual omitted amount is established.",
+      "decision": "Likely ASR spelling mismatch; exact pronunciation remains unverified by listening. Do not silently add misspellings to the numerical normalizer or regenerate the voice from this flag."
+    },
+    {
+      "chapter": "tro-lai-quay-banh",
+      "finding": "Small recognizes the complete final subscribe/bell sentence and has final-tail coverage0.96. It spells bóc as bóp, causing exact tail mismatch. The sentence and final bật chuông are present; no tail truncation indicated by recognition.",
+      "decision": "No diagnostic evidence of missing closing sentence; exact wording/pronunciation still requires listening."
+    },
+    {
+      "chapter": "hai-nghin-di-dau;hoa-don-nao-giam",
+      "finding": "Base recognizes337/337 and257/256 normalized words respectively, coverage0.8338/0.8047, with no20-word omission spans. Errors are spread across recognizer spelling, including fictional Hạnh. End-of-chapter text is present with substitutions.",
+      "decision": "No base evidence of a long omitted span. Lack of flags does not prove all words were spoken correctly."
+    }
+  ],
+  "baseHallucinationTail": {
+    "start": 57.72,
+    "duration": 0.16,
+    "rmsDBFS": null,
+    "maxAbsSample": 0,
+    "interpretation": "Base produced over100 repeated words inside this0.16-second end interval. The source samples in this interval are silent; the repeated transcript is a recognition artifact, not evidence of generated speech."
+  },
+  "actualSpokenOmissionsConfirmed": [],
+  "audioModified": false,
+  "continuousListening": false,
+  "voiceQualityAcceptance": "not_established",
+  "userApproval": "pending",
+  "limits": [
+    "Two ASR models can share errors, and source word metadata is not independent acoustic verification.",
+    "Chapter-level number presence does not verify the exact order or placement of every number.",
+    "No naturalness, emotional emphasis, timbre, pace acceptability or music masking conclusion is made from ASR.",
+    "Keep original base and small results intact. Human listening remains needed for the spelling/pronunciation uncertainty."
+  ]
+}

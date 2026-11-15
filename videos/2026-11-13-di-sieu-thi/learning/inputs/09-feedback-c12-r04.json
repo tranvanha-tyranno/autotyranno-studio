@@ -1,0 +1,46 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r04",
+  "dimension": "visual_relevance",
+  "decision": "accepted",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "c12-graphic-visibility",
+    "narration": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.",
+    "start": 124.73333333333333,
+    "end": 135.13333333333333
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "At the actual130s r04 frame, contain preserves the complete hypothetical header, one-versus-two carton count, both30.000/50.000 totals, both30.000/25.000 unit prices and the comparison sentence. The r03 left-edge crop loss is fixed at this inspected frame; no continuous-motion or whole-video acceptance is asserted.",
+  "action": "Retain this scoped fit/overlay correction; keep whole-video aesthetic, motion and auditory acceptance pending until those reviews actually occur.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r04/long/final.mp4",
+      "sha256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128"
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-c12-r04.jpg",
+      "sha256": "94ee4299120fe048074026d5fac5b998b7fb1ec04c803145fb317a7f4973e35c"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-visibility-r04-review.md",
+      "sha256": "68e546c24ed33a3a0de958afa72895a5e0d1d9ea84a98872d3dd04bac8f6cf9c"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/qa-r04.json",
+      "sha256": "440f06beade2af4b7a7c406949cbb89312486190757661e7b1a24e2c26002db1"
+    }
+  ]
+}

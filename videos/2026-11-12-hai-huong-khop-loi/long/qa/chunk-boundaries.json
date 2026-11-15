@@ -1,0 +1,470 @@
+{
+  "source": "final.mp4",
+  "method": "Actual frame at each 3-second boundary minus1, exact, plus1. Visual inspection required.",
+  "sheets": [
+    "chunk-boundaries-01.jpg",
+    "chunk-boundaries-02.jpg",
+    "chunk-boundaries-03.jpg"
+  ],
+  "boundaries": [
+    {
+      "second": 3,
+      "frames": [
+        {
+          "frame": 89,
+          "meanLuma": 234.84655719521604
+        },
+        {
+          "frame": 90,
+          "meanLuma": 234.84755160108026
+        },
+        {
+          "frame": 91,
+          "meanLuma": 234.84819396219135
+        }
+      ]
+    },
+    {
+      "second": 6,
+      "frames": [
+        {
+          "frame": 179,
+          "meanLuma": 231.32933063271605
+        },
+        {
+          "frame": 180,
+          "meanLuma": 231.32486979166666
+        },
+        {
+          "frame": 181,
+          "meanLuma": 231.32497395833335
+        }
+      ]
+    },
+    {
+      "second": 9,
+      "frames": [
+        {
+          "frame": 269,
+          "meanLuma": 234.0350853587963
+        },
+        {
+          "frame": 270,
+          "meanLuma": 234.0220597029321
+        },
+        {
+          "frame": 271,
+          "meanLuma": 234.02256317515432
+        }
+      ]
+    },
+    {
+      "second": 12,
+      "frames": [
+        {
+          "frame": 359,
+          "meanLuma": 233.848526716821
+        },
+        {
+          "frame": 360,
+          "meanLuma": 233.85737027391974
+        },
+        {
+          "frame": 361,
+          "meanLuma": 233.85741367669752
+        }
+      ]
+    },
+    {
+      "second": 15,
+      "frames": [
+        {
+          "frame": 449,
+          "meanLuma": 231.8727555941358
+        },
+        {
+          "frame": 450,
+          "meanLuma": 231.87234905478394
+        },
+        {
+          "frame": 451,
+          "meanLuma": 231.87329427083333
+        }
+      ]
+    },
+    {
+      "second": 18,
+      "frames": [
+        {
+          "frame": 539,
+          "meanLuma": 231.61480275848766
+        },
+        {
+          "frame": 540,
+          "meanLuma": 231.61959249614196
+        },
+        {
+          "frame": 541,
+          "meanLuma": 231.62113425925926
+        }
+      ]
+    },
+    {
+      "second": 21,
+      "frames": [
+        {
+          "frame": 629,
+          "meanLuma": 235.02597173996912
+        },
+        {
+          "frame": 630,
+          "meanLuma": 235.0291232638889
+        },
+        {
+          "frame": 631,
+          "meanLuma": 235.0293928433642
+        }
+      ]
+    },
+    {
+      "second": 24,
+      "frames": [
+        {
+          "frame": 719,
+          "meanLuma": 233.62417727623458
+        },
+        {
+          "frame": 720,
+          "meanLuma": 233.61672550154321
+        },
+        {
+          "frame": 721,
+          "meanLuma": 233.61652777777778
+        }
+      ]
+    },
+    {
+      "second": 27,
+      "frames": [
+        {
+          "frame": 809,
+          "meanLuma": 237.91387056327162
+        },
+        {
+          "frame": 810,
+          "meanLuma": 237.9147940779321
+        },
+        {
+          "frame": 811,
+          "meanLuma": 237.91927276234568
+        }
+      ]
+    },
+    {
+      "second": 30,
+      "frames": [
+        {
+          "frame": 899,
+          "meanLuma": 232.99273244598766
+        },
+        {
+          "frame": 900,
+          "meanLuma": 232.9904190779321
+        },
+        {
+          "frame": 901,
+          "meanLuma": 232.9919772376543
+        }
+      ]
+    },
+    {
+      "second": 33,
+      "frames": [
+        {
+          "frame": 989,
+          "meanLuma": 236.5989168595679
+        },
+        {
+          "frame": 990,
+          "meanLuma": 236.6016792052469
+        },
+        {
+          "frame": 991,
+          "meanLuma": 236.60227430555557
+        }
+      ]
+    },
+    {
+      "second": 36,
+      "frames": [
+        {
+          "frame": 1079,
+          "meanLuma": 232.8082889660494
+        },
+        {
+          "frame": 1080,
+          "meanLuma": 232.80210696373456
+        },
+        {
+          "frame": 1081,
+          "meanLuma": 232.8028544560185
+        }
+      ]
+    },
+    {
+      "second": 39,
+      "frames": [
+        {
+          "frame": 1169,
+          "meanLuma": 232.65168161651235
+        },
+        {
+          "frame": 1170,
+          "meanLuma": 232.65849537037036
+        },
+        {
+          "frame": 1171,
+          "meanLuma": 232.6587215470679
+        }
+      ]
+    },
+    {
+      "second": 42,
+      "frames": [
+        {
+          "frame": 1259,
+          "meanLuma": 232.76654851466049
+        },
+        {
+          "frame": 1260,
+          "meanLuma": 232.76242332175926
+        },
+        {
+          "frame": 1261,
+          "meanLuma": 232.76222125771605
+        }
+      ]
+    },
+    {
+      "second": 45,
+      "frames": [
+        {
+          "frame": 1349,
+          "meanLuma": 232.30712673611112
+        },
+        {
+          "frame": 1350,
+          "meanLuma": 232.30653211805554
+        },
+        {
+          "frame": 1351,
+          "meanLuma": 232.3082286844136
+        }
+      ]
+    },
+    {
+      "second": 48,
+      "frames": [
+        {
+          "frame": 1439,
+          "meanLuma": 231.52202883873457
+        },
+        {
+          "frame": 1440,
+          "meanLuma": 231.5198152970679
+        },
+        {
+          "frame": 1441,
+          "meanLuma": 231.52363233024693
+        }
+      ]
+    },
+    {
+      "second": 51,
+      "frames": [
+        {
+          "frame": 1529,
+          "meanLuma": 234.24785059799382
+        },
+        {
+          "frame": 1530,
+          "meanLuma": 234.24067226080246
+        },
+        {
+          "frame": 1531,
+          "meanLuma": 234.24082851080246
+        }
+      ]
+    },
+    {
+      "second": 54,
+      "frames": [
+        {
+          "frame": 1619,
+          "meanLuma": 233.80926697530865
+        },
+        {
+          "frame": 1620,
+          "meanLuma": 233.79035783179012
+        },
+        {
+          "frame": 1621,
+          "meanLuma": 233.7741121720679
+        }
+      ]
+    },
+    {
+      "second": 57,
+      "frames": [
+        {
+          "frame": 1709,
+          "meanLuma": 234.71062017746914
+        },
+        {
+          "frame": 1710,
+          "meanLuma": 234.7081143904321
+        },
+        {
+          "frame": 1711,
+          "meanLuma": 234.7097873263889
+        }
+      ]
+    },
+    {
+      "second": 60,
+      "frames": [
+        {
+          "frame": 1799,
+          "meanLuma": 232.3969314236111
+        },
+        {
+          "frame": 1800,
+          "meanLuma": 232.38863618827162
+        },
+        {
+          "frame": 1801,
+          "meanLuma": 232.388973283179
+        }
+      ]
+    },
+    {
+      "second": 63,
+      "frames": [
+        {
+          "frame": 1889,
+          "meanLuma": 237.78782889660494
+        },
+        {
+          "frame": 1890,
+          "meanLuma": 237.79147858796296
+        },
+        {
+          "frame": 1891,
+          "meanLuma": 237.79438223379628
+        }
+      ]
+    },
+    {
+      "second": 66,
+      "frames": [
+        {
+          "frame": 1979,
+          "meanLuma": 234.35132908950618
+        },
+        {
+          "frame": 1980,
+          "meanLuma": 234.35194540895063
+        },
+        {
+          "frame": 1981,
+          "meanLuma": 234.35486255787038
+        }
+      ]
+    },
+    {
+      "second": 69,
+      "frames": [
+        {
+          "frame": 2069,
+          "meanLuma": 233.9986154513889
+        },
+        {
+          "frame": 2070,
+          "meanLuma": 233.99478491512346
+        },
+        {
+          "frame": 2071,
+          "meanLuma": 233.99502748842593
+        }
+      ]
+    },
+    {
+      "second": 72,
+      "frames": [
+        {
+          "frame": 2159,
+          "meanLuma": 231.5144174382716
+        },
+        {
+          "frame": 2160,
+          "meanLuma": 231.51475646219137
+        },
+        {
+          "frame": 2161,
+          "meanLuma": 231.51856722608025
+        }
+      ]
+    },
+    {
+      "second": 75,
+      "frames": [
+        {
+          "frame": 2249,
+          "meanLuma": 234.34468991126542
+        },
+        {
+          "frame": 2250,
+          "meanLuma": 234.31834104938272
+        },
+        {
+          "frame": 2251,
+          "meanLuma": 234.28695071373457
+        }
+      ]
+    },
+    {
+      "second": 78,
+      "frames": [
+        {
+          "frame": 2339,
+          "meanLuma": 225.81885416666665
+        },
+        {
+          "frame": 2340,
+          "meanLuma": 225.81954234182098
+        },
+        {
+          "frame": 2341,
+          "meanLuma": 225.82031008873457
+        }
+      ]
+    },
+    {
+      "second": 81,
+      "frames": [
+        {
+          "frame": 2429,
+          "meanLuma": 229.47373697916666
+        },
+        {
+          "frame": 2430,
+          "meanLuma": 229.46900800540124
+        },
+        {
+          "frame": 2431,
+          "meanLuma": 229.47417824074074
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "decodedFrames": 2460,
+  "expectedFrames": 2460,
+  "frameCountPass": true,
+  "fps": 30.0,
+  "seconds": 82.0,
+  "width": 1920,
+  "height": 1080,
+  "phases": [
+    "hook",
+    "disclaimer",
+    "content",
+    "cta"
+  ],
+  "shots": 26,
+  "uniqueImages": 23,
+  "imageAppearances": 33,
+  "spatialImageSeconds": 7.7,
+  "audioMeasuredOnFinalMP4": {
+    "input_i": "-16.07",
+    "input_tp": "-4.96",
+    "input_lra": "2.10",
+    "input_thresh": "-26.41",
+    "output_i": "-15.96",
+    "output_tp": "-4.76",
+    "output_lra": "2.00",
+    "output_thresh": "-26.30",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.04"
+  },
+  "videoSHA256": "1e2995ae91c2e671679e94cfa029cb893acc8081cebb7a7e678a732687ae95a9",
+  "visualInspection": "Root viewed all three full-duration sheets from this MP4, closing keyframes and both spatial motion strips. Independent reviewer opened keyframes and full-size crops; see ../VISUAL_REVIEW.md. No manual audio listening claimed.",
+  "aestheticAcceptance": "pending user feedback",
+  "manualAudioListening": "not performed by this script"
+}

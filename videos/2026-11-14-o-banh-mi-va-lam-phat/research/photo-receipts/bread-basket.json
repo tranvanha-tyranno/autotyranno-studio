@@ -1,0 +1,43 @@
+{
+  "id": "bread-basket",
+  "file": "assets/bread-basket.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 30509573,
+  "sourceURL": "https://www.pexels.com/photo/artisanal-baguettes-in-rustic-bakery-setting-30509573/",
+  "downloadURL": "https://images.pexels.com/photos/30509573/pexels-photo-30509573.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Anna Danilina",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab",
+  "width": 2400,
+  "height": 3600,
+  "tags": [
+    "bread",
+    "shop"
+  ],
+  "credit": "Anna Danilina / Pexels",
+  "expectedFromSource": "Baguettes in basket",
+  "observed": "Basket holding several pale brown baguettes behind a wooden-framed glass display. Portrait contain preserves basket and shop window; no fictional identity asserted.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+  "reusedSource": null
+}

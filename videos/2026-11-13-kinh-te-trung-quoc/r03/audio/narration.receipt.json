@@ -1,0 +1,74 @@
+{
+  "sha256": "76a73bc373bc6442eb4fc8d0d016fa06c1d0de5307649b5af864d1e0835e34d5",
+  "seconds": 595.58,
+  "speed": 1.0,
+  "chapters": [
+    {
+      "id": "opening",
+      "title": "Một nền kinh tế, nhiều nhịp chuyển động",
+      "startSeconds": 0.0,
+      "voiceSeconds": 43.84,
+      "source": "audio/01-opening.mp3",
+      "sha256": "2d2e3911190590a8d79c5105976f9bfb370ff1d68f0f8fad1e18ac6b33230829"
+    },
+    {
+      "id": "factory",
+      "title": "Cỗ máy sản xuất và những kết nối",
+      "startSeconds": 44.34,
+      "voiceSeconds": 89.44,
+      "source": "audio/02-factory.mp3",
+      "sha256": "adc7404d19ef325fba9f7551f91246e69331bd9c152bdcb20467efc234bc4c2d"
+    },
+    {
+      "id": "property",
+      "title": "Vì sao nhà ở tác động vượt khỏi công trường",
+      "startSeconds": 134.28,
+      "voiceSeconds": 87.52,
+      "source": "audio/03-property.mp3",
+      "sha256": "7b30729f0d2a65b2b9e96bfea9017393855d407059476ffc96012f80d7d97b51"
+    },
+    {
+      "id": "households",
+      "title": "Dòng thu nhập quay về sức mua như thế nào?",
+      "startSeconds": 222.3,
+      "voiceSeconds": 91.28,
+      "source": "audio/04-households.mp3",
+      "sha256": "6180641a075d30d24295090b4eb363a8dfb15f78551208c88bc5ea1c92d54f2f"
+    },
+    {
+      "id": "trade",
+      "title": "Xuất khẩu giúp gì, và không thay được điều gì?",
+      "startSeconds": 314.08000000000004,
+      "voiceSeconds": 77.44,
+      "source": "audio/05-trade.mp3",
+      "sha256": "5923381acea9ae9b1275ed04305b6c68240f452ac38cedba1179b8eb788058e7"
+    },
+    {
+      "id": "demography",
+      "title": "Già hóa và bài toán năng suất",
+      "startSeconds": 392.02000000000004,
+      "voiceSeconds": 69.28,
+      "source": "audio/06-demography.mp3",
+      "sha256": "3c17d8c154fa816543136e05bbeee8349b09e256bda964048c737567eacc7b01"
+    },
+    {
+      "id": "policy",
+      "title": "Ba phép thử để đọc tăng trưởng",
+      "startSeconds": 461.80000000000007,
+      "voiceSeconds": 82.64,
+      "source": "audio/07-policy.mp3",
+      "sha256": "bdb6bbc6f58d42b82261ba880c262a7c02e6765bb4adac21474cf057cf1ba575"
+    },
+    {
+      "id": "ending",
+      "title": "Đọc đúng những chuyển động cùng tồn tại",
+      "startSeconds": 544.94,
+      "voiceSeconds": 50.64,
+      "source": "audio/08-ending.mp3",
+      "sha256": "373483ff5febc81ad187b67552f953b4e13732c732f295016f8b7ce21ea072ca"
+    }
+  ],
+  "lastWordEnd": 595.58,
+  "tailSeconds": 1.5,
+  "manualListening": "Not established by assembly"
+}

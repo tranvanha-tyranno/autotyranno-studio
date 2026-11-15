@@ -1,0 +1,42 @@
+{
+  "id": "budget-couple",
+  "file": "assets/budget-couple.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 6964105,
+  "sourceURL": "https://www.pexels.com/photo/couple-looking-at-their-bills-6964105/",
+  "downloadURL": "https://images.pexels.com/photos/6964105/pexels-photo-6964105.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Mikhail Nilov",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd",
+  "width": 2400,
+  "height": 1720,
+  "tags": [
+    "household"
+  ],
+  "credit": "Mikhail Nilov / Pexels",
+  "expectedFromSource": "Adults reviewing paper bills",
+  "observed": "Two adults seated at table reviewing paper bills with calculator and laptop. Landscape image keeps hands and paperwork; no text legible enough to establish amounts.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Context of reviewing household bills. People not fictional characters; no poverty, stress cause, debt or actual household finances asserted.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/budget-couple.jpg"
+}

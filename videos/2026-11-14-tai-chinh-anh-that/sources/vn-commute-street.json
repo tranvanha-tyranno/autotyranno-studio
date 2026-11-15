@@ -1,0 +1,32 @@
+{
+  "id": "vn-commute-street",
+  "pexelsID": 28515992,
+  "sourceURL": "https://www.pexels.com/photo/busy-street-scene-in-ho-chi-minh-city-vietnam-28515992/",
+  "creator": "Luan Nguyen Luca",
+  "theme": "commuting",
+  "documentedLocation": "Thành phố Hồ Chí Minh, Hồ Chí Minh, Việt Nam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "Motorbikes occupy a busy city intersection.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-commute-street.jpg",
+  "downloadURL": "https://images.pexels.com/photos/28515992/pexels-photo-28515992.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1601,
+  "sha256": "4659f88d56757f1c665a61e673595fcb13b9f0270fc239020bf0652e3dd53b4b",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

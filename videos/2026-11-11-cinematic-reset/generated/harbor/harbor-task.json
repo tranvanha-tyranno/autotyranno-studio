@@ -1,0 +1,14 @@
+{
+  "id": "task_a1444a8a6b32437e84df",
+  "object": "task",
+  "kind": "video",
+  "prompt": "A single uninterrupted ten-second premium documentary drone shot, widescreen 16:9. Slow decisive forward glide above a vast commercial container port at blue hour before dawn. Tall cranes form dramatic silhouettes, tiny warm amber working lights trace the docks, calm deep-blue seawater reflects the lights. Atmospheric mist and real depth, natural parallax as foreground containers pass below, beautifully detailed industrial scale. Photorealistic high-end cinema camera, restrained contrast, rich steel blue and warm highlights, graceful purposeful camera motion from the very first frame. Generic unlabeled containers, no readable text, no logos, no overlays, no subtitles, no human narrator. Stable horizon, no warping, no sudden zoom, no implausible moving cranes. This is an illustrative scene, not evidence of any named port.",
+  "status": "failed",
+  "created_at": 1794407655,
+  "updated_at": 1794407658,
+  "result": null,
+  "error": "会话认证失败 (/api/session HTTP 401)，请在官网确认登录后重新导入 cookie",
+  "api_prompt": "全新文生视频创作（纯文本全新生成，严禁参考任何历史图片或上下文）：生成一个16:9横屏宽屏视频（16:9 widescreen landscape video，时长严格为 10 秒）：A single uninterrupted ten-second premium documentary drone shot, widescreen 16:9. Slow decisive forward glide above a vast commercial container port at blue hour before dawn. Tall cranes form dramatic silhouettes, tiny warm amber working lights trace the docks, calm deep-blue seawater reflects the lights. Atmospheric mist and real depth, natural parallax as foreground containers pass below, beautifully detailed industrial scale. Photorealistic high-end cinema camera, restrained contrast, rich steel blue and warm highlights, graceful purposeful camera motion from the very first frame. Generic unlabeled containers, no readable text, no logos, no overlays, no subtitles, no human narrator. Stable horizon, no warping, no sudden zoom, no implausible moving cranes. This is an illustrative scene, not evidence of any named port.",
+  "progress": 15,
+  "elapsed": 3.1
+}

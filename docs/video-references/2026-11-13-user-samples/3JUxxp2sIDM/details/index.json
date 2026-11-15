@@ -1,0 +1,30 @@
+[
+  {
+    "time": 0.8,
+    "path": "details/0000.8.jpg"
+  },
+  {
+    "time": 90.5,
+    "path": "details/0090.5.jpg"
+  },
+  {
+    "time": 365,
+    "path": "details/0365.0.jpg"
+  },
+  {
+    "time": 494,
+    "path": "details/0494.0.jpg"
+  },
+  {
+    "time": 615,
+    "path": "details/0615.0.jpg"
+  },
+  {
+    "time": 648,
+    "path": "details/0648.0.jpg"
+  },
+  {
+    "time": 800,
+    "path": "details/0800.0.jpg"
+  }
+]

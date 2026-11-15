@@ -1,0 +1,50 @@
+{
+  "pexelsID": 7593795,
+  "pageURL": "https://www.pexels.com/video/a-person-counting-money-7593795/",
+  "title": "Counting banknotes",
+  "creator": "Pavel Danilyuk",
+  "fps": [
+    25
+  ],
+  "tags": [
+    "payment"
+  ],
+  "id": "pexels-7593795",
+  "file": "assets/raw/pexels-7593795.mp4",
+  "sha256": "63b4fd2403c065fca02318d1f0e890371a940103192c36de9accef7d1f1bff8b",
+  "bytes": 4592524,
+  "durationSeconds": 25.76,
+  "downloadURL": "https://videos.pexels.com/video-files/7593795/7593795-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.735,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Seated people in business clothes count banknotes in an office. USD-like banknotes visible; not VND, no link to Hạnh or exact wage. Contextual general money only.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-7593795.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 25.5,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 1280,
+  "height": 720,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/a-person-counting-money-7593795/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "chunks": [
+    {
+      "from": 0,
+      "endExclusive": 1800,
+      "decodedFrames": 1800,
+      "sha256": "2ef6c69c11b3e211386d268f6d8e288a8e0896aa0ec1881c164be9600594d668",
+      "wallSeconds": 61.576,
+      "framesPerSecond": 29.232168377289852
+    },
+    {
+      "from": 1800,
+      "endExclusive": 3600,
+      "decodedFrames": 1800,
+      "sha256": "8f512f8cee948b7d0f9ec23269245c08dc5882a18ff47d5672eb3b65fff29e68",
+      "wallSeconds": 64.214,
+      "framesPerSecond": 28.03127043946803
+    },
+    {
+      "from": 3600,
+      "endExclusive": 5400,
+      "decodedFrames": 1800,
+      "sha256": "893775a0fe3c708b1add46d22ec8dba31d8dcb2259ec14dc86211090ab92837f",
+      "wallSeconds": 63.425,
+      "framesPerSecond": 28.37997635001971
+    },
+    {
+      "from": 5400,
+      "endExclusive": 7200,
+      "decodedFrames": 1800,
+      "sha256": "a1916009d2b70aaf41b35ac2067b58595de594800088601763533f1d8ff91dc4",
+      "wallSeconds": 61.205,
+      "framesPerSecond": 29.409361980230376
+    },
+    {
+      "from": 7200,
+      "endExclusive": 9000,
+      "decodedFrames": 1800,
+      "sha256": "3258dc83c6e0dfe6772e9fc7de0f5b96e8f2e1172a882c1a5cf04b6ce33ddd4f",
+      "wallSeconds": 60.755,
+      "framesPerSecond": 29.62719117768085
+    }
+  ],
+  "renderWallSeconds": 311.17499999999995,
+  "renderedFrames": 9000
+}

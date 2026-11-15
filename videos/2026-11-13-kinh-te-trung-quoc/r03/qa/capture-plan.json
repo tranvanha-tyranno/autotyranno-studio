@@ -1,0 +1,3104 @@
+{
+  "midframes": [
+    {
+      "shot": "o01",
+      "frame": 164,
+      "seconds": 5.466666666666667,
+      "file": "midframes/01-o01.jpg",
+      "layout": "c-map"
+    },
+    {
+      "shot": "o02",
+      "frame": 471,
+      "seconds": 15.7,
+      "file": "midframes/02-o02.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "o03",
+      "frame": 793,
+      "seconds": 26.433333333333334,
+      "file": "midframes/03-o03.jpg",
+      "layout": "c-compare"
+    },
+    {
+      "shot": "o04",
+      "frame": 1151,
+      "seconds": 38.36666666666667,
+      "file": "midframes/04-o04.jpg",
+      "layout": "c-question"
+    },
+    {
+      "shot": "f01",
+      "frame": 1516,
+      "seconds": 50.53333333333333,
+      "file": "midframes/05-f01.jpg",
+      "layout": "c-map"
+    },
+    {
+      "shot": "f02",
+      "frame": 1871,
+      "seconds": 62.36666666666667,
+      "file": "midframes/06-f02.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "f03",
+      "frame": 2213,
+      "seconds": 73.76666666666667,
+      "file": "midframes/07-f03.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "f04",
+      "frame": 2540,
+      "seconds": 84.66666666666667,
+      "file": "midframes/08-f04.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "f05",
+      "frame": 2863,
+      "seconds": 95.43333333333334,
+      "file": "midframes/09-f05.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "f06",
+      "frame": 3196,
+      "seconds": 106.53333333333333,
+      "file": "midframes/10-f06.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "f07",
+      "frame": 3517,
+      "seconds": 117.23333333333333,
+      "file": "midframes/11-f07.jpg",
+      "layout": "c-photo"
+    },
+    {
+      "shot": "f08",
+      "frame": 3851,
+      "seconds": 128.36666666666667,
+      "file": "midframes/12-f08.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "r01",
+      "frame": 4199,
+      "seconds": 139.96666666666667,
+      "file": "midframes/13-r01.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "r02",
+      "frame": 4547,
+      "seconds": 151.56666666666666,
+      "file": "midframes/14-r02.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "r03",
+      "frame": 4929,
+      "seconds": 164.3,
+      "file": "midframes/15-r03.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "r04",
+      "frame": 5328,
+      "seconds": 177.6,
+      "file": "midframes/16-r04.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "r05",
+      "frame": 5705,
+      "seconds": 190.16666666666666,
+      "file": "midframes/17-r05.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "r06",
+      "frame": 6097,
+      "seconds": 203.23333333333332,
+      "file": "midframes/18-r06.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "r07",
+      "frame": 6488,
+      "seconds": 216.26666666666668,
+      "file": "midframes/19-r07.jpg",
+      "layout": "c-compare"
+    },
+    {
+      "shot": "h01",
+      "frame": 6827,
+      "seconds": 227.56666666666666,
+      "file": "midframes/20-h01.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "h02",
+      "frame": 7153,
+      "seconds": 238.43333333333334,
+      "file": "midframes/21-h02.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "h03",
+      "frame": 7497,
+      "seconds": 249.9,
+      "file": "midframes/22-h03.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "h04",
+      "frame": 7845,
+      "seconds": 261.5,
+      "file": "midframes/23-h04.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "h05",
+      "frame": 8181,
+      "seconds": 272.7,
+      "file": "midframes/24-h05.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "h06",
+      "frame": 8522,
+      "seconds": 284.06666666666666,
+      "file": "midframes/25-h06.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "h07",
+      "frame": 8906,
+      "seconds": 296.8666666666667,
+      "file": "midframes/26-h07.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "h08",
+      "frame": 9266,
+      "seconds": 308.8666666666667,
+      "file": "midframes/27-h08.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "t01",
+      "frame": 9599,
+      "seconds": 319.96666666666664,
+      "file": "midframes/28-t01.jpg",
+      "layout": "c-map"
+    },
+    {
+      "shot": "t02",
+      "frame": 9948,
+      "seconds": 331.6,
+      "file": "midframes/29-t02.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "t03",
+      "frame": 10294,
+      "seconds": 343.1333333333333,
+      "file": "midframes/30-t03.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "t04",
+      "frame": 10627,
+      "seconds": 354.23333333333335,
+      "file": "midframes/31-t04.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "t05",
+      "frame": 10945,
+      "seconds": 364.8333333333333,
+      "file": "midframes/32-t05.jpg",
+      "layout": "c-map"
+    },
+    {
+      "shot": "t06",
+      "frame": 11269,
+      "seconds": 375.6333333333333,
+      "file": "midframes/33-t06.jpg",
+      "layout": "c-map"
+    },
+    {
+      "shot": "t07",
+      "frame": 11597,
+      "seconds": 386.56666666666666,
+      "file": "midframes/34-t07.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "d01",
+      "frame": 11924,
+      "seconds": 397.46666666666664,
+      "file": "midframes/35-d01.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "d02",
+      "frame": 12244,
+      "seconds": 408.1333333333333,
+      "file": "midframes/36-d02.jpg",
+      "layout": "c-compare"
+    },
+    {
+      "shot": "d03",
+      "frame": 12595,
+      "seconds": 419.8333333333333,
+      "file": "midframes/37-d03.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "d04",
+      "frame": 12978,
+      "seconds": 432.6,
+      "file": "midframes/38-d04.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "d05",
+      "frame": 13358,
+      "seconds": 445.26666666666665,
+      "file": "midframes/39-d05.jpg",
+      "layout": "c-photo"
+    },
+    {
+      "shot": "d06",
+      "frame": 13701,
+      "seconds": 456.7,
+      "file": "midframes/40-d06.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "p01",
+      "frame": 13992,
+      "seconds": 466.4,
+      "file": "midframes/41-p01.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "p02",
+      "frame": 14306,
+      "seconds": 476.8666666666667,
+      "file": "midframes/42-p02.jpg",
+      "layout": "c-chart"
+    },
+    {
+      "shot": "p03",
+      "frame": 14679,
+      "seconds": 489.3,
+      "file": "midframes/43-p03.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "p04",
+      "frame": 15057,
+      "seconds": 501.9,
+      "file": "midframes/44-p04.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "p05",
+      "frame": 15434,
+      "seconds": 514.4666666666667,
+      "file": "midframes/45-p05.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "p06",
+      "frame": 15818,
+      "seconds": 527.2666666666667,
+      "file": "midframes/46-p06.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "p07",
+      "frame": 16177,
+      "seconds": 539.2333333333333,
+      "file": "midframes/47-p07.jpg",
+      "layout": "c-compare"
+    },
+    {
+      "shot": "e01",
+      "frame": 16552,
+      "seconds": 551.7333333333333,
+      "file": "midframes/48-e01.jpg",
+      "layout": "c-flow"
+    },
+    {
+      "shot": "e02",
+      "frame": 16951,
+      "seconds": 565.0333333333333,
+      "file": "midframes/49-e02.jpg",
+      "layout": "c-sim"
+    },
+    {
+      "shot": "e03",
+      "frame": 17335,
+      "seconds": 577.8333333333334,
+      "file": "midframes/50-e03.jpg",
+      "layout": "c-compare"
+    },
+    {
+      "shot": "e04",
+      "frame": 17718,
+      "seconds": 590.6,
+      "file": "midframes/51-e04.jpg",
+      "layout": "c-closing"
+    }
+  ],
+  "thumbnails": [
+    {
+      "frame": 0,
+      "seconds": 0.0,
+      "file": "thumbnails/001.jpg"
+    },
+    {
+      "frame": 90,
+      "seconds": 3.0,
+      "file": "thumbnails/002.jpg"
+    },
+    {
+      "frame": 180,
+      "seconds": 6.0,
+      "file": "thumbnails/003.jpg"
+    },
+    {
+      "frame": 270,
+      "seconds": 9.0,
+      "file": "thumbnails/004.jpg"
+    },
+    {
+      "frame": 360,
+      "seconds": 12.0,
+      "file": "thumbnails/005.jpg"
+    },
+    {
+      "frame": 450,
+      "seconds": 15.0,
+      "file": "thumbnails/006.jpg"
+    },
+    {
+      "frame": 540,
+      "seconds": 18.0,
+      "file": "thumbnails/007.jpg"
+    },
+    {
+      "frame": 630,
+      "seconds": 21.0,
+      "file": "thumbnails/008.jpg"
+    },
+    {
+      "frame": 720,
+      "seconds": 24.0,
+      "file": "thumbnails/009.jpg"
+    },
+    {
+      "frame": 810,
+      "seconds": 27.0,
+      "file": "thumbnails/010.jpg"
+    },
+    {
+      "frame": 900,
+      "seconds": 30.0,
+      "file": "thumbnails/011.jpg"
+    },
+    {
+      "frame": 990,
+      "seconds": 33.0,
+      "file": "thumbnails/012.jpg"
+    },
+    {
+      "frame": 1080,
+      "seconds": 36.0,
+      "file": "thumbnails/013.jpg"
+    },
+    {
+      "frame": 1170,
+      "seconds": 39.0,
+      "file": "thumbnails/014.jpg"
+    },
+    {
+      "frame": 1260,
+      "seconds": 42.0,
+      "file": "thumbnails/015.jpg"
+    },
+    {
+      "frame": 1350,
+      "seconds": 45.0,
+      "file": "thumbnails/016.jpg"
+    },
+    {
+      "frame": 1440,
+      "seconds": 48.0,
+      "file": "thumbnails/017.jpg"
+    },
+    {
+      "frame": 1530,
+      "seconds": 51.0,
+      "file": "thumbnails/018.jpg"
+    },
+    {
+      "frame": 1620,
+      "seconds": 54.0,
+      "file": "thumbnails/019.jpg"
+    },
+    {
+      "frame": 1710,
+      "seconds": 57.0,
+      "file": "thumbnails/020.jpg"
+    },
+    {
+      "frame": 1800,
+      "seconds": 60.0,
+      "file": "thumbnails/021.jpg"
+    },
+    {
+      "frame": 1890,
+      "seconds": 63.0,
+      "file": "thumbnails/022.jpg"
+    },
+    {
+      "frame": 1980,
+      "seconds": 66.0,
+      "file": "thumbnails/023.jpg"
+    },
+    {
+      "frame": 2070,
+      "seconds": 69.0,
+      "file": "thumbnails/024.jpg"
+    },
+    {
+      "frame": 2160,
+      "seconds": 72.0,
+      "file": "thumbnails/025.jpg"
+    },
+    {
+      "frame": 2250,
+      "seconds": 75.0,
+      "file": "thumbnails/026.jpg"
+    },
+    {
+      "frame": 2340,
+      "seconds": 78.0,
+      "file": "thumbnails/027.jpg"
+    },
+    {
+      "frame": 2430,
+      "seconds": 81.0,
+      "file": "thumbnails/028.jpg"
+    },
+    {
+      "frame": 2520,
+      "seconds": 84.0,
+      "file": "thumbnails/029.jpg"
+    },
+    {
+      "frame": 2610,
+      "seconds": 87.0,
+      "file": "thumbnails/030.jpg"
+    },
+    {
+      "frame": 2700,
+      "seconds": 90.0,
+      "file": "thumbnails/031.jpg"
+    },
+    {
+      "frame": 2790,
+      "seconds": 93.0,
+      "file": "thumbnails/032.jpg"
+    },
+    {
+      "frame": 2880,
+      "seconds": 96.0,
+      "file": "thumbnails/033.jpg"
+    },
+    {
+      "frame": 2970,
+      "seconds": 99.0,
+      "file": "thumbnails/034.jpg"
+    },
+    {
+      "frame": 3060,
+      "seconds": 102.0,
+      "file": "thumbnails/035.jpg"
+    },
+    {
+      "frame": 3150,
+      "seconds": 105.0,
+      "file": "thumbnails/036.jpg"
+    },
+    {
+      "frame": 3240,
+      "seconds": 108.0,
+      "file": "thumbnails/037.jpg"
+    },
+    {
+      "frame": 3330,
+      "seconds": 111.0,
+      "file": "thumbnails/038.jpg"
+    },
+    {
+      "frame": 3420,
+      "seconds": 114.0,
+      "file": "thumbnails/039.jpg"
+    },
+    {
+      "frame": 3510,
+      "seconds": 117.0,
+      "file": "thumbnails/040.jpg"
+    },
+    {
+      "frame": 3600,
+      "seconds": 120.0,
+      "file": "thumbnails/041.jpg"
+    },
+    {
+      "frame": 3690,
+      "seconds": 123.0,
+      "file": "thumbnails/042.jpg"
+    },
+    {
+      "frame": 3780,
+      "seconds": 126.0,
+      "file": "thumbnails/043.jpg"
+    },
+    {
+      "frame": 3870,
+      "seconds": 129.0,
+      "file": "thumbnails/044.jpg"
+    },
+    {
+      "frame": 3960,
+      "seconds": 132.0,
+      "file": "thumbnails/045.jpg"
+    },
+    {
+      "frame": 4050,
+      "seconds": 135.0,
+      "file": "thumbnails/046.jpg"
+    },
+    {
+      "frame": 4140,
+      "seconds": 138.0,
+      "file": "thumbnails/047.jpg"
+    },
+    {
+      "frame": 4230,
+      "seconds": 141.0,
+      "file": "thumbnails/048.jpg"
+    },
+    {
+      "frame": 4320,
+      "seconds": 144.0,
+      "file": "thumbnails/049.jpg"
+    },
+    {
+      "frame": 4410,
+      "seconds": 147.0,
+      "file": "thumbnails/050.jpg"
+    },
+    {
+      "frame": 4500,
+      "seconds": 150.0,
+      "file": "thumbnails/051.jpg"
+    },
+    {
+      "frame": 4590,
+      "seconds": 153.0,
+      "file": "thumbnails/052.jpg"
+    },
+    {
+      "frame": 4680,
+      "seconds": 156.0,
+      "file": "thumbnails/053.jpg"
+    },
+    {
+      "frame": 4770,
+      "seconds": 159.0,
+      "file": "thumbnails/054.jpg"
+    },
+    {
+      "frame": 4860,
+      "seconds": 162.0,
+      "file": "thumbnails/055.jpg"
+    },
+    {
+      "frame": 4950,
+      "seconds": 165.0,
+      "file": "thumbnails/056.jpg"
+    },
+    {
+      "frame": 5040,
+      "seconds": 168.0,
+      "file": "thumbnails/057.jpg"
+    },
+    {
+      "frame": 5130,
+      "seconds": 171.0,
+      "file": "thumbnails/058.jpg"
+    },
+    {
+      "frame": 5220,
+      "seconds": 174.0,
+      "file": "thumbnails/059.jpg"
+    },
+    {
+      "frame": 5310,
+      "seconds": 177.0,
+      "file": "thumbnails/060.jpg"
+    },
+    {
+      "frame": 5400,
+      "seconds": 180.0,
+      "file": "thumbnails/061.jpg"
+    },
+    {
+      "frame": 5490,
+      "seconds": 183.0,
+      "file": "thumbnails/062.jpg"
+    },
+    {
+      "frame": 5580,
+      "seconds": 186.0,
+      "file": "thumbnails/063.jpg"
+    },
+    {
+      "frame": 5670,
+      "seconds": 189.0,
+      "file": "thumbnails/064.jpg"
+    },
+    {
+      "frame": 5760,
+      "seconds": 192.0,
+      "file": "thumbnails/065.jpg"
+    },
+    {
+      "frame": 5850,
+      "seconds": 195.0,
+      "file": "thumbnails/066.jpg"
+    },
+    {
+      "frame": 5940,
+      "seconds": 198.0,
+      "file": "thumbnails/067.jpg"
+    },
+    {
+      "frame": 6030,
+      "seconds": 201.0,
+      "file": "thumbnails/068.jpg"
+    },
+    {
+      "frame": 6120,
+      "seconds": 204.0,
+      "file": "thumbnails/069.jpg"
+    },
+    {
+      "frame": 6210,
+      "seconds": 207.0,
+      "file": "thumbnails/070.jpg"
+    },
+    {
+      "frame": 6300,
+      "seconds": 210.0,
+      "file": "thumbnails/071.jpg"
+    },
+    {
+      "frame": 6390,
+      "seconds": 213.0,
+      "file": "thumbnails/072.jpg"
+    },
+    {
+      "frame": 6480,
+      "seconds": 216.0,
+      "file": "thumbnails/073.jpg"
+    },
+    {
+      "frame": 6570,
+      "seconds": 219.0,
+      "file": "thumbnails/074.jpg"
+    },
+    {
+      "frame": 6660,
+      "seconds": 222.0,
+      "file": "thumbnails/075.jpg"
+    },
+    {
+      "frame": 6750,
+      "seconds": 225.0,
+      "file": "thumbnails/076.jpg"
+    },
+    {
+      "frame": 6840,
+      "seconds": 228.0,
+      "file": "thumbnails/077.jpg"
+    },
+    {
+      "frame": 6930,
+      "seconds": 231.0,
+      "file": "thumbnails/078.jpg"
+    },
+    {
+      "frame": 7020,
+      "seconds": 234.0,
+      "file": "thumbnails/079.jpg"
+    },
+    {
+      "frame": 7110,
+      "seconds": 237.0,
+      "file": "thumbnails/080.jpg"
+    },
+    {
+      "frame": 7200,
+      "seconds": 240.0,
+      "file": "thumbnails/081.jpg"
+    },
+    {
+      "frame": 7290,
+      "seconds": 243.0,
+      "file": "thumbnails/082.jpg"
+    },
+    {
+      "frame": 7380,
+      "seconds": 246.0,
+      "file": "thumbnails/083.jpg"
+    },
+    {
+      "frame": 7470,
+      "seconds": 249.0,
+      "file": "thumbnails/084.jpg"
+    },
+    {
+      "frame": 7560,
+      "seconds": 252.0,
+      "file": "thumbnails/085.jpg"
+    },
+    {
+      "frame": 7650,
+      "seconds": 255.0,
+      "file": "thumbnails/086.jpg"
+    },
+    {
+      "frame": 7740,
+      "seconds": 258.0,
+      "file": "thumbnails/087.jpg"
+    },
+    {
+      "frame": 7830,
+      "seconds": 261.0,
+      "file": "thumbnails/088.jpg"
+    },
+    {
+      "frame": 7920,
+      "seconds": 264.0,
+      "file": "thumbnails/089.jpg"
+    },
+    {
+      "frame": 8010,
+      "seconds": 267.0,
+      "file": "thumbnails/090.jpg"
+    },
+    {
+      "frame": 8100,
+      "seconds": 270.0,
+      "file": "thumbnails/091.jpg"
+    },
+    {
+      "frame": 8190,
+      "seconds": 273.0,
+      "file": "thumbnails/092.jpg"
+    },
+    {
+      "frame": 8280,
+      "seconds": 276.0,
+      "file": "thumbnails/093.jpg"
+    },
+    {
+      "frame": 8370,
+      "seconds": 279.0,
+      "file": "thumbnails/094.jpg"
+    },
+    {
+      "frame": 8460,
+      "seconds": 282.0,
+      "file": "thumbnails/095.jpg"
+    },
+    {
+      "frame": 8550,
+      "seconds": 285.0,
+      "file": "thumbnails/096.jpg"
+    },
+    {
+      "frame": 8640,
+      "seconds": 288.0,
+      "file": "thumbnails/097.jpg"
+    },
+    {
+      "frame": 8730,
+      "seconds": 291.0,
+      "file": "thumbnails/098.jpg"
+    },
+    {
+      "frame": 8820,
+      "seconds": 294.0,
+      "file": "thumbnails/099.jpg"
+    },
+    {
+      "frame": 8910,
+      "seconds": 297.0,
+      "file": "thumbnails/100.jpg"
+    },
+    {
+      "frame": 9000,
+      "seconds": 300.0,
+      "file": "thumbnails/101.jpg"
+    },
+    {
+      "frame": 9090,
+      "seconds": 303.0,
+      "file": "thumbnails/102.jpg"
+    },
+    {
+      "frame": 9180,
+      "seconds": 306.0,
+      "file": "thumbnails/103.jpg"
+    },
+    {
+      "frame": 9270,
+      "seconds": 309.0,
+      "file": "thumbnails/104.jpg"
+    },
+    {
+      "frame": 9360,
+      "seconds": 312.0,
+      "file": "thumbnails/105.jpg"
+    },
+    {
+      "frame": 9450,
+      "seconds": 315.0,
+      "file": "thumbnails/106.jpg"
+    },
+    {
+      "frame": 9540,
+      "seconds": 318.0,
+      "file": "thumbnails/107.jpg"
+    },
+    {
+      "frame": 9630,
+      "seconds": 321.0,
+      "file": "thumbnails/108.jpg"
+    },
+    {
+      "frame": 9720,
+      "seconds": 324.0,
+      "file": "thumbnails/109.jpg"
+    },
+    {
+      "frame": 9810,
+      "seconds": 327.0,
+      "file": "thumbnails/110.jpg"
+    },
+    {
+      "frame": 9900,
+      "seconds": 330.0,
+      "file": "thumbnails/111.jpg"
+    },
+    {
+      "frame": 9990,
+      "seconds": 333.0,
+      "file": "thumbnails/112.jpg"
+    },
+    {
+      "frame": 10080,
+      "seconds": 336.0,
+      "file": "thumbnails/113.jpg"
+    },
+    {
+      "frame": 10170,
+      "seconds": 339.0,
+      "file": "thumbnails/114.jpg"
+    },
+    {
+      "frame": 10260,
+      "seconds": 342.0,
+      "file": "thumbnails/115.jpg"
+    },
+    {
+      "frame": 10350,
+      "seconds": 345.0,
+      "file": "thumbnails/116.jpg"
+    },
+    {
+      "frame": 10440,
+      "seconds": 348.0,
+      "file": "thumbnails/117.jpg"
+    },
+    {
+      "frame": 10530,
+      "seconds": 351.0,
+      "file": "thumbnails/118.jpg"
+    },
+    {
+      "frame": 10620,
+      "seconds": 354.0,
+      "file": "thumbnails/119.jpg"
+    },
+    {
+      "frame": 10710,
+      "seconds": 357.0,
+      "file": "thumbnails/120.jpg"
+    },
+    {
+      "frame": 10800,
+      "seconds": 360.0,
+      "file": "thumbnails/121.jpg"
+    },
+    {
+      "frame": 10890,
+      "seconds": 363.0,
+      "file": "thumbnails/122.jpg"
+    },
+    {
+      "frame": 10980,
+      "seconds": 366.0,
+      "file": "thumbnails/123.jpg"
+    },
+    {
+      "frame": 11070,
+      "seconds": 369.0,
+      "file": "thumbnails/124.jpg"
+    },
+    {
+      "frame": 11160,
+      "seconds": 372.0,
+      "file": "thumbnails/125.jpg"
+    },
+    {
+      "frame": 11250,
+      "seconds": 375.0,
+      "file": "thumbnails/126.jpg"
+    },
+    {
+      "frame": 11340,
+      "seconds": 378.0,
+      "file": "thumbnails/127.jpg"
+    },
+    {
+      "frame": 11430,
+      "seconds": 381.0,
+      "file": "thumbnails/128.jpg"
+    },
+    {
+      "frame": 11520,
+      "seconds": 384.0,
+      "file": "thumbnails/129.jpg"
+    },
+    {
+      "frame": 11610,
+      "seconds": 387.0,
+      "file": "thumbnails/130.jpg"
+    },
+    {
+      "frame": 11700,
+      "seconds": 390.0,
+      "file": "thumbnails/131.jpg"
+    },
+    {
+      "frame": 11790,
+      "seconds": 393.0,
+      "file": "thumbnails/132.jpg"
+    },
+    {
+      "frame": 11880,
+      "seconds": 396.0,
+      "file": "thumbnails/133.jpg"
+    },
+    {
+      "frame": 11970,
+      "seconds": 399.0,
+      "file": "thumbnails/134.jpg"
+    },
+    {
+      "frame": 12060,
+      "seconds": 402.0,
+      "file": "thumbnails/135.jpg"
+    },
+    {
+      "frame": 12150,
+      "seconds": 405.0,
+      "file": "thumbnails/136.jpg"
+    },
+    {
+      "frame": 12240,
+      "seconds": 408.0,
+      "file": "thumbnails/137.jpg"
+    },
+    {
+      "frame": 12330,
+      "seconds": 411.0,
+      "file": "thumbnails/138.jpg"
+    },
+    {
+      "frame": 12420,
+      "seconds": 414.0,
+      "file": "thumbnails/139.jpg"
+    },
+    {
+      "frame": 12510,
+      "seconds": 417.0,
+      "file": "thumbnails/140.jpg"
+    },
+    {
+      "frame": 12600,
+      "seconds": 420.0,
+      "file": "thumbnails/141.jpg"
+    },
+    {
+      "frame": 12690,
+      "seconds": 423.0,
+      "file": "thumbnails/142.jpg"
+    },
+    {
+      "frame": 12780,
+      "seconds": 426.0,
+      "file": "thumbnails/143.jpg"
+    },
+    {
+      "frame": 12870,
+      "seconds": 429.0,
+      "file": "thumbnails/144.jpg"
+    },
+    {
+      "frame": 12960,
+      "seconds": 432.0,
+      "file": "thumbnails/145.jpg"
+    },
+    {
+      "frame": 13050,
+      "seconds": 435.0,
+      "file": "thumbnails/146.jpg"
+    },
+    {
+      "frame": 13140,
+      "seconds": 438.0,
+      "file": "thumbnails/147.jpg"
+    },
+    {
+      "frame": 13230,
+      "seconds": 441.0,
+      "file": "thumbnails/148.jpg"
+    },
+    {
+      "frame": 13320,
+      "seconds": 444.0,
+      "file": "thumbnails/149.jpg"
+    },
+    {
+      "frame": 13410,
+      "seconds": 447.0,
+      "file": "thumbnails/150.jpg"
+    },
+    {
+      "frame": 13500,
+      "seconds": 450.0,
+      "file": "thumbnails/151.jpg"
+    },
+    {
+      "frame": 13590,
+      "seconds": 453.0,
+      "file": "thumbnails/152.jpg"
+    },
+    {
+      "frame": 13680,
+      "seconds": 456.0,
+      "file": "thumbnails/153.jpg"
+    },
+    {
+      "frame": 13770,
+      "seconds": 459.0,
+      "file": "thumbnails/154.jpg"
+    },
+    {
+      "frame": 13860,
+      "seconds": 462.0,
+      "file": "thumbnails/155.jpg"
+    },
+    {
+      "frame": 13950,
+      "seconds": 465.0,
+      "file": "thumbnails/156.jpg"
+    },
+    {
+      "frame": 14040,
+      "seconds": 468.0,
+      "file": "thumbnails/157.jpg"
+    },
+    {
+      "frame": 14130,
+      "seconds": 471.0,
+      "file": "thumbnails/158.jpg"
+    },
+    {
+      "frame": 14220,
+      "seconds": 474.0,
+      "file": "thumbnails/159.jpg"
+    },
+    {
+      "frame": 14310,
+      "seconds": 477.0,
+      "file": "thumbnails/160.jpg"
+    },
+    {
+      "frame": 14400,
+      "seconds": 480.0,
+      "file": "thumbnails/161.jpg"
+    },
+    {
+      "frame": 14490,
+      "seconds": 483.0,
+      "file": "thumbnails/162.jpg"
+    },
+    {
+      "frame": 14580,
+      "seconds": 486.0,
+      "file": "thumbnails/163.jpg"
+    },
+    {
+      "frame": 14670,
+      "seconds": 489.0,
+      "file": "thumbnails/164.jpg"
+    },
+    {
+      "frame": 14760,
+      "seconds": 492.0,
+      "file": "thumbnails/165.jpg"
+    },
+    {
+      "frame": 14850,
+      "seconds": 495.0,
+      "file": "thumbnails/166.jpg"
+    },
+    {
+      "frame": 14940,
+      "seconds": 498.0,
+      "file": "thumbnails/167.jpg"
+    },
+    {
+      "frame": 15030,
+      "seconds": 501.0,
+      "file": "thumbnails/168.jpg"
+    },
+    {
+      "frame": 15120,
+      "seconds": 504.0,
+      "file": "thumbnails/169.jpg"
+    },
+    {
+      "frame": 15210,
+      "seconds": 507.0,
+      "file": "thumbnails/170.jpg"
+    },
+    {
+      "frame": 15300,
+      "seconds": 510.0,
+      "file": "thumbnails/171.jpg"
+    },
+    {
+      "frame": 15390,
+      "seconds": 513.0,
+      "file": "thumbnails/172.jpg"
+    },
+    {
+      "frame": 15480,
+      "seconds": 516.0,
+      "file": "thumbnails/173.jpg"
+    },
+    {
+      "frame": 15570,
+      "seconds": 519.0,
+      "file": "thumbnails/174.jpg"
+    },
+    {
+      "frame": 15660,
+      "seconds": 522.0,
+      "file": "thumbnails/175.jpg"
+    },
+    {
+      "frame": 15750,
+      "seconds": 525.0,
+      "file": "thumbnails/176.jpg"
+    },
+    {
+      "frame": 15840,
+      "seconds": 528.0,
+      "file": "thumbnails/177.jpg"
+    },
+    {
+      "frame": 15930,
+      "seconds": 531.0,
+      "file": "thumbnails/178.jpg"
+    },
+    {
+      "frame": 16020,
+      "seconds": 534.0,
+      "file": "thumbnails/179.jpg"
+    },
+    {
+      "frame": 16110,
+      "seconds": 537.0,
+      "file": "thumbnails/180.jpg"
+    },
+    {
+      "frame": 16200,
+      "seconds": 540.0,
+      "file": "thumbnails/181.jpg"
+    },
+    {
+      "frame": 16290,
+      "seconds": 543.0,
+      "file": "thumbnails/182.jpg"
+    },
+    {
+      "frame": 16380,
+      "seconds": 546.0,
+      "file": "thumbnails/183.jpg"
+    },
+    {
+      "frame": 16470,
+      "seconds": 549.0,
+      "file": "thumbnails/184.jpg"
+    },
+    {
+      "frame": 16560,
+      "seconds": 552.0,
+      "file": "thumbnails/185.jpg"
+    },
+    {
+      "frame": 16650,
+      "seconds": 555.0,
+      "file": "thumbnails/186.jpg"
+    },
+    {
+      "frame": 16740,
+      "seconds": 558.0,
+      "file": "thumbnails/187.jpg"
+    },
+    {
+      "frame": 16830,
+      "seconds": 561.0,
+      "file": "thumbnails/188.jpg"
+    },
+    {
+      "frame": 16920,
+      "seconds": 564.0,
+      "file": "thumbnails/189.jpg"
+    },
+    {
+      "frame": 17010,
+      "seconds": 567.0,
+      "file": "thumbnails/190.jpg"
+    },
+    {
+      "frame": 17100,
+      "seconds": 570.0,
+      "file": "thumbnails/191.jpg"
+    },
+    {
+      "frame": 17190,
+      "seconds": 573.0,
+      "file": "thumbnails/192.jpg"
+    },
+    {
+      "frame": 17280,
+      "seconds": 576.0,
+      "file": "thumbnails/193.jpg"
+    },
+    {
+      "frame": 17370,
+      "seconds": 579.0,
+      "file": "thumbnails/194.jpg"
+    },
+    {
+      "frame": 17460,
+      "seconds": 582.0,
+      "file": "thumbnails/195.jpg"
+    },
+    {
+      "frame": 17550,
+      "seconds": 585.0,
+      "file": "thumbnails/196.jpg"
+    },
+    {
+      "frame": 17640,
+      "seconds": 588.0,
+      "file": "thumbnails/197.jpg"
+    },
+    {
+      "frame": 17730,
+      "seconds": 591.0,
+      "file": "thumbnails/198.jpg"
+    },
+    {
+      "frame": 17820,
+      "seconds": 594.0,
+      "file": "thumbnails/199.jpg"
+    },
+    {
+      "frame": 17910,
+      "seconds": 597.0,
+      "file": "thumbnails/200.jpg"
+    }
+  ],
+  "temporal": [
+    {
+      "shot": "o01",
+      "layout": "c-map",
+      "module": "spatial",
+      "mechanic": "port, rail and domestic-life spatial juxtaposition",
+      "samples": [
+        {
+          "frame": 26,
+          "fraction": 0.08,
+          "file": "temporal/o01-1.jpg"
+        },
+        {
+          "frame": 95,
+          "fraction": 0.29,
+          "file": "temporal/o01-2.jpg"
+        },
+        {
+          "frame": 164,
+          "fraction": 0.5,
+          "file": "temporal/o01-3.jpg"
+        },
+        {
+          "frame": 232,
+          "fraction": 0.71,
+          "file": "temporal/o01-4.jpg"
+        },
+        {
+          "frame": 301,
+          "fraction": 0.92,
+          "file": "temporal/o01-5.jpg"
+        }
+      ],
+      "strip": "temporal/o01-strip.jpg"
+    },
+    {
+      "shot": "o02",
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "two engines and a balance of production and demand",
+      "samples": [
+        {
+          "frame": 351,
+          "fraction": 0.08,
+          "file": "temporal/o02-1.jpg"
+        },
+        {
+          "frame": 411,
+          "fraction": 0.29,
+          "file": "temporal/o02-2.jpg"
+        },
+        {
+          "frame": 470,
+          "fraction": 0.5,
+          "file": "temporal/o02-3.jpg"
+        },
+        {
+          "frame": 530,
+          "fraction": 0.71,
+          "file": "temporal/o02-4.jpg"
+        },
+        {
+          "frame": 590,
+          "fraction": 0.92,
+          "file": "temporal/o02-5.jpg"
+        }
+      ],
+      "strip": "temporal/o02-strip.jpg"
+    },
+    {
+      "shot": "o03",
+      "layout": "c-compare",
+      "module": "story",
+      "mechanic": "folded chapter atlas",
+      "samples": [
+        {
+          "frame": 643,
+          "fraction": 0.08,
+          "file": "temporal/o03-1.jpg"
+        },
+        {
+          "frame": 718,
+          "fraction": 0.29,
+          "file": "temporal/o03-2.jpg"
+        },
+        {
+          "frame": 793,
+          "fraction": 0.5,
+          "file": "temporal/o03-3.jpg"
+        },
+        {
+          "frame": 868,
+          "fraction": 0.71,
+          "file": "temporal/o03-4.jpg"
+        },
+        {
+          "frame": 943,
+          "fraction": 0.92,
+          "file": "temporal/o03-5.jpg"
+        }
+      ],
+      "strip": "temporal/o03-strip.jpg"
+    },
+    {
+      "shot": "o04",
+      "layout": "c-question",
+      "module": "story",
+      "mechanic": "brief educational scope disclaimer",
+      "samples": [
+        {
+          "frame": 1001,
+          "fraction": 0.08,
+          "file": "temporal/o04-1.jpg"
+        },
+        {
+          "frame": 1076,
+          "fraction": 0.29,
+          "file": "temporal/o04-2.jpg"
+        },
+        {
+          "frame": 1151,
+          "fraction": 0.5,
+          "file": "temporal/o04-3.jpg"
+        },
+        {
+          "frame": 1226,
+          "fraction": 0.71,
+          "file": "temporal/o04-4.jpg"
+        },
+        {
+          "frame": 1301,
+          "fraction": 0.92,
+          "file": "temporal/o04-5.jpg"
+        }
+      ],
+      "strip": "temporal/o04-strip.jpg"
+    },
+    {
+      "shot": "f01",
+      "layout": "c-map",
+      "module": "spatial",
+      "mechanic": "industrial city with infrastructure and districts",
+      "samples": [
+        {
+          "frame": 1360,
+          "fraction": 0.08,
+          "file": "temporal/f01-1.jpg"
+        },
+        {
+          "frame": 1438,
+          "fraction": 0.29,
+          "file": "temporal/f01-2.jpg"
+        },
+        {
+          "frame": 1516,
+          "fraction": 0.5,
+          "file": "temporal/f01-3.jpg"
+        },
+        {
+          "frame": 1594,
+          "fraction": 0.71,
+          "file": "temporal/f01-4.jpg"
+        },
+        {
+          "frame": 1672,
+          "fraction": 0.92,
+          "file": "temporal/f01-5.jpg"
+        }
+      ],
+      "strip": "temporal/f01-strip.jpg"
+    },
+    {
+      "shot": "f02",
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "exploded product parts assembling and inspection",
+      "samples": [
+        {
+          "frame": 1730,
+          "fraction": 0.08,
+          "file": "temporal/f02-1.jpg"
+        },
+        {
+          "frame": 1800,
+          "fraction": 0.29,
+          "file": "temporal/f02-2.jpg"
+        },
+        {
+          "frame": 1871,
+          "fraction": 0.5,
+          "file": "temporal/f02-3.jpg"
+        },
+        {
+          "frame": 1941,
+          "fraction": 0.71,
+          "file": "temporal/f02-4.jpg"
+        },
+        {
+          "frame": 2011,
+          "fraction": 0.92,
+          "file": "temporal/f02-5.jpg"
+        }
+      ],
+      "strip": "temporal/f02-strip.jpg"
+    },
+    {
+      "shot": "f03",
+      "layout": "c-flow",
+      "module": "spatial",
+      "mechanic": "supplier cluster neighborhood",
+      "samples": [
+        {
+          "frame": 2067,
+          "fraction": 0.08,
+          "file": "temporal/f03-1.jpg"
+        },
+        {
+          "frame": 2140,
+          "fraction": 0.29,
+          "file": "temporal/f03-2.jpg"
+        },
+        {
+          "frame": 2213,
+          "fraction": 0.5,
+          "file": "temporal/f03-3.jpg"
+        },
+        {
+          "frame": 2285,
+          "fraction": 0.71,
+          "file": "temporal/f03-4.jpg"
+        },
+        {
+          "frame": 2358,
+          "fraction": 0.92,
+          "file": "temporal/f03-5.jpg"
+        }
+      ],
+      "strip": "temporal/f03-strip.jpg"
+    },
+    {
+      "shot": "f04",
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "warehouse inventory and order tickets",
+      "samples": [
+        {
+          "frame": 2411,
+          "fraction": 0.08,
+          "file": "temporal/f04-1.jpg"
+        },
+        {
+          "frame": 2475,
+          "fraction": 0.29,
+          "file": "temporal/f04-2.jpg"
+        },
+        {
+          "frame": 2539,
+          "fraction": 0.5,
+          "file": "temporal/f04-3.jpg"
+        },
+        {
+          "frame": 2604,
+          "fraction": 0.71,
+          "file": "temporal/f04-4.jpg"
+        },
+        {
+          "frame": 2668,
+          "fraction": 0.92,
+          "file": "temporal/f04-5.jpg"
+        }
+      ],
+      "strip": "temporal/f04-strip.jpg"
+    },
+    {
+      "shot": "f05",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "statistical ruler and manufacturing source extract",
+      "samples": [
+        {
+          "frame": 2720,
+          "fraction": 0.08,
+          "file": "temporal/f05-1.jpg"
+        },
+        {
+          "frame": 2792,
+          "fraction": 0.29,
+          "file": "temporal/f05-2.jpg"
+        },
+        {
+          "frame": 2863,
+          "fraction": 0.5,
+          "file": "temporal/f05-3.jpg"
+        },
+        {
+          "frame": 2934,
+          "fraction": 0.71,
+          "file": "temporal/f05-4.jpg"
+        },
+        {
+          "frame": 3006,
+          "fraction": 0.92,
+          "file": "temporal/f05-5.jpg"
+        }
+      ],
+      "strip": "temporal/f05-strip.jpg"
+    },
+    {
+      "shot": "f06",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "diverging sector markers",
+      "samples": [
+        {
+          "frame": 3060,
+          "fraction": 0.08,
+          "file": "temporal/f06-1.jpg"
+        },
+        {
+          "frame": 3128,
+          "fraction": 0.29,
+          "file": "temporal/f06-2.jpg"
+        },
+        {
+          "frame": 3196,
+          "fraction": 0.5,
+          "file": "temporal/f06-3.jpg"
+        },
+        {
+          "frame": 3264,
+          "fraction": 0.71,
+          "file": "temporal/f06-4.jpg"
+        },
+        {
+          "frame": 3332,
+          "fraction": 0.92,
+          "file": "temporal/f06-5.jpg"
+        }
+      ],
+      "strip": "temporal/f06-strip.jpg"
+    },
+    {
+      "shot": "f07",
+      "layout": "c-photo",
+      "module": "story",
+      "mechanic": "two different industrial contexts with limits of inference",
+      "samples": [
+        {
+          "frame": 3384,
+          "fraction": 0.08,
+          "file": "temporal/f07-1.jpg"
+        },
+        {
+          "frame": 3450,
+          "fraction": 0.29,
+          "file": "temporal/f07-2.jpg"
+        },
+        {
+          "frame": 3517,
+          "fraction": 0.5,
+          "file": "temporal/f07-3.jpg"
+        },
+        {
+          "frame": 3583,
+          "fraction": 0.71,
+          "file": "temporal/f07-4.jpg"
+        },
+        {
+          "frame": 3649,
+          "fraction": 0.92,
+          "file": "temporal/f07-5.jpg"
+        }
+      ],
+      "strip": "temporal/f07-strip.jpg"
+    },
+    {
+      "shot": "f08",
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "pulling and braking economic engines",
+      "samples": [
+        {
+          "frame": 3703,
+          "fraction": 0.08,
+          "file": "temporal/f08-1.jpg"
+        },
+        {
+          "frame": 3777,
+          "fraction": 0.29,
+          "file": "temporal/f08-2.jpg"
+        },
+        {
+          "frame": 3851,
+          "fraction": 0.5,
+          "file": "temporal/f08-3.jpg"
+        },
+        {
+          "frame": 3925,
+          "fraction": 0.71,
+          "file": "temporal/f08-4.jpg"
+        },
+        {
+          "frame": 3999,
+          "fraction": 0.92,
+          "file": "temporal/f08-5.jpg"
+        }
+      ],
+      "strip": "temporal/f08-strip.jpg"
+    },
+    {
+      "shot": "r01",
+      "layout": "c-flow",
+      "module": "spatial",
+      "mechanic": "sectional housing project with stakeholder places",
+      "samples": [
+        {
+          "frame": 4055,
+          "fraction": 0.08,
+          "file": "temporal/r01-1.jpg"
+        },
+        {
+          "frame": 4127,
+          "fraction": 0.29,
+          "file": "temporal/r01-2.jpg"
+        },
+        {
+          "frame": 4199,
+          "fraction": 0.5,
+          "file": "temporal/r01-3.jpg"
+        },
+        {
+          "frame": 4271,
+          "fraction": 0.71,
+          "file": "temporal/r01-4.jpg"
+        },
+        {
+          "frame": 4343,
+          "fraction": 0.92,
+          "file": "temporal/r01-5.jpg"
+        }
+      ],
+      "strip": "temporal/r01-strip.jpg"
+    },
+    {
+      "shot": "r02",
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "escrow, payment calendar and waiting contractor",
+      "samples": [
+        {
+          "frame": 4399,
+          "fraction": 0.08,
+          "file": "temporal/r02-1.jpg"
+        },
+        {
+          "frame": 4473,
+          "fraction": 0.29,
+          "file": "temporal/r02-2.jpg"
+        },
+        {
+          "frame": 4547,
+          "fraction": 0.5,
+          "file": "temporal/r02-3.jpg"
+        },
+        {
+          "frame": 4621,
+          "fraction": 0.71,
+          "file": "temporal/r02-4.jpg"
+        },
+        {
+          "frame": 4695,
+          "fraction": 0.92,
+          "file": "temporal/r02-5.jpg"
+        }
+      ],
+      "strip": "temporal/r02-strip.jpg"
+    },
+    {
+      "shot": "r03",
+      "layout": "c-flow",
+      "module": "spatial",
+      "mechanic": "construction floors and materials response",
+      "samples": [
+        {
+          "frame": 4757,
+          "fraction": 0.08,
+          "file": "temporal/r03-1.jpg"
+        },
+        {
+          "frame": 4843,
+          "fraction": 0.29,
+          "file": "temporal/r03-2.jpg"
+        },
+        {
+          "frame": 4928,
+          "fraction": 0.5,
+          "file": "temporal/r03-3.jpg"
+        },
+        {
+          "frame": 5014,
+          "fraction": 0.71,
+          "file": "temporal/r03-4.jpg"
+        },
+        {
+          "frame": 5100,
+          "fraction": 0.92,
+          "file": "temporal/r03-5.jpg"
+        }
+      ],
+      "strip": "temporal/r03-strip.jpg"
+    },
+    {
+      "shot": "r04",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "investment comparison index, not house price",
+      "samples": [
+        {
+          "frame": 5165,
+          "fraction": 0.08,
+          "file": "temporal/r04-1.jpg"
+        },
+        {
+          "frame": 5247,
+          "fraction": 0.29,
+          "file": "temporal/r04-2.jpg"
+        },
+        {
+          "frame": 5328,
+          "fraction": 0.5,
+          "file": "temporal/r04-3.jpg"
+        },
+        {
+          "frame": 5409,
+          "fraction": 0.71,
+          "file": "temporal/r04-4.jpg"
+        },
+        {
+          "frame": 5491,
+          "fraction": 0.92,
+          "file": "temporal/r04-5.jpg"
+        }
+      ],
+      "strip": "temporal/r04-strip.jpg"
+    },
+    {
+      "shot": "r05",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "family postponing a purchase at a decision desk",
+      "samples": [
+        {
+          "frame": 5552,
+          "fraction": 0.08,
+          "file": "temporal/r05-1.jpg"
+        },
+        {
+          "frame": 5628,
+          "fraction": 0.29,
+          "file": "temporal/r05-2.jpg"
+        },
+        {
+          "frame": 5705,
+          "fraction": 0.5,
+          "file": "temporal/r05-3.jpg"
+        },
+        {
+          "frame": 5781,
+          "fraction": 0.71,
+          "file": "temporal/r05-4.jpg"
+        },
+        {
+          "frame": 5857,
+          "fraction": 0.92,
+          "file": "temporal/r05-5.jpg"
+        }
+      ],
+      "strip": "temporal/r05-strip.jpg"
+    },
+    {
+      "shot": "r06",
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "source documents and unfinished-obligations board",
+      "samples": [
+        {
+          "frame": 5921,
+          "fraction": 0.08,
+          "file": "temporal/r06-1.jpg"
+        },
+        {
+          "frame": 6009,
+          "fraction": 0.29,
+          "file": "temporal/r06-2.jpg"
+        },
+        {
+          "frame": 6097,
+          "fraction": 0.5,
+          "file": "temporal/r06-3.jpg"
+        },
+        {
+          "frame": 6184,
+          "fraction": 0.71,
+          "file": "temporal/r06-4.jpg"
+        },
+        {
+          "frame": 6272,
+          "fraction": 0.92,
+          "file": "temporal/r06-5.jpg"
+        }
+      ],
+      "strip": "temporal/r06-strip.jpg"
+    },
+    {
+      "shot": "r07",
+      "layout": "c-compare",
+      "module": "people",
+      "mechanic": "complete old apartment versus new empty foundation",
+      "samples": [
+        {
+          "frame": 6336,
+          "fraction": 0.08,
+          "file": "temporal/r07-1.jpg"
+        },
+        {
+          "frame": 6412,
+          "fraction": 0.29,
+          "file": "temporal/r07-2.jpg"
+        },
+        {
+          "frame": 6487,
+          "fraction": 0.5,
+          "file": "temporal/r07-3.jpg"
+        },
+        {
+          "frame": 6563,
+          "fraction": 0.71,
+          "file": "temporal/r07-4.jpg"
+        },
+        {
+          "frame": 6639,
+          "fraction": 0.92,
+          "file": "temporal/r07-5.jpg"
+        }
+      ],
+      "strip": "temporal/r07-strip.jpg"
+    },
+    {
+      "shot": "h01",
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "payroll and purchases in an actual store vignette",
+      "samples": [
+        {
+          "frame": 6694,
+          "fraction": 0.08,
+          "file": "temporal/h01-1.jpg"
+        },
+        {
+          "frame": 6760,
+          "fraction": 0.29,
+          "file": "temporal/h01-2.jpg"
+        },
+        {
+          "frame": 6827,
+          "fraction": 0.5,
+          "file": "temporal/h01-3.jpg"
+        },
+        {
+          "frame": 6893,
+          "fraction": 0.71,
+          "file": "temporal/h01-4.jpg"
+        },
+        {
+          "frame": 6959,
+          "fraction": 0.92,
+          "file": "temporal/h01-5.jpg"
+        }
+      ],
+      "strip": "temporal/h01-strip.jpg"
+    },
+    {
+      "shot": "h02",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "family calendar and financial protection objects",
+      "samples": [
+        {
+          "frame": 7012,
+          "fraction": 0.08,
+          "file": "temporal/h02-1.jpg"
+        },
+        {
+          "frame": 7082,
+          "fraction": 0.29,
+          "file": "temporal/h02-2.jpg"
+        },
+        {
+          "frame": 7153,
+          "fraction": 0.5,
+          "file": "temporal/h02-3.jpg"
+        },
+        {
+          "frame": 7224,
+          "fraction": 0.71,
+          "file": "temporal/h02-4.jpg"
+        },
+        {
+          "frame": 7294,
+          "fraction": 0.92,
+          "file": "temporal/h02-5.jpg"
+        }
+      ],
+      "strip": "temporal/h02-strip.jpg"
+    },
+    {
+      "shot": "h03",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "100 illustrative coins allocated to three physical jars",
+      "samples": [
+        {
+          "frame": 7350,
+          "fraction": 0.08,
+          "file": "temporal/h03-1.jpg"
+        },
+        {
+          "frame": 7423,
+          "fraction": 0.29,
+          "file": "temporal/h03-2.jpg"
+        },
+        {
+          "frame": 7496,
+          "fraction": 0.5,
+          "file": "temporal/h03-3.jpg"
+        },
+        {
+          "frame": 7570,
+          "fraction": 0.71,
+          "file": "temporal/h03-4.jpg"
+        },
+        {
+          "frame": 7643,
+          "fraction": 0.92,
+          "file": "temporal/h03-5.jpg"
+        }
+      ],
+      "strip": "temporal/h03-strip.jpg"
+    },
+    {
+      "shot": "h04",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "nominal-to-real price-adjustment lens",
+      "samples": [
+        {
+          "frame": 7700,
+          "fraction": 0.08,
+          "file": "temporal/h04-1.jpg"
+        },
+        {
+          "frame": 7772,
+          "fraction": 0.29,
+          "file": "temporal/h04-2.jpg"
+        },
+        {
+          "frame": 7845,
+          "fraction": 0.5,
+          "file": "temporal/h04-3.jpg"
+        },
+        {
+          "frame": 7918,
+          "fraction": 0.71,
+          "file": "temporal/h04-4.jpg"
+        },
+        {
+          "frame": 7990,
+          "fraction": 0.92,
+          "file": "temporal/h04-5.jpg"
+        }
+      ],
+      "strip": "temporal/h04-strip.jpg"
+    },
+    {
+      "shot": "h05",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "different household baskets behind an average",
+      "samples": [
+        {
+          "frame": 8045,
+          "fraction": 0.08,
+          "file": "temporal/h05-1.jpg"
+        },
+        {
+          "frame": 8113,
+          "fraction": 0.29,
+          "file": "temporal/h05-2.jpg"
+        },
+        {
+          "frame": 8181,
+          "fraction": 0.5,
+          "file": "temporal/h05-3.jpg"
+        },
+        {
+          "frame": 8248,
+          "fraction": 0.71,
+          "file": "temporal/h05-4.jpg"
+        },
+        {
+          "frame": 8316,
+          "fraction": 0.92,
+          "file": "temporal/h05-5.jpg"
+        }
+      ],
+      "strip": "temporal/h05-strip.jpg"
+    },
+    {
+      "shot": "h06",
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "nested goods and service measurement scopes",
+      "samples": [
+        {
+          "frame": 8372,
+          "fraction": 0.08,
+          "file": "temporal/h06-1.jpg"
+        },
+        {
+          "frame": 8447,
+          "fraction": 0.29,
+          "file": "temporal/h06-2.jpg"
+        },
+        {
+          "frame": 8521,
+          "fraction": 0.5,
+          "file": "temporal/h06-3.jpg"
+        },
+        {
+          "frame": 8596,
+          "fraction": 0.71,
+          "file": "temporal/h06-4.jpg"
+        },
+        {
+          "frame": 8671,
+          "fraction": 0.92,
+          "file": "temporal/h06-5.jpg"
+        }
+      ],
+      "strip": "temporal/h06-strip.jpg"
+    },
+    {
+      "shot": "h07",
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "income and safety-net bridge towards a store",
+      "samples": [
+        {
+          "frame": 8734,
+          "fraction": 0.08,
+          "file": "temporal/h07-1.jpg"
+        },
+        {
+          "frame": 8820,
+          "fraction": 0.29,
+          "file": "temporal/h07-2.jpg"
+        },
+        {
+          "frame": 8905,
+          "fraction": 0.5,
+          "file": "temporal/h07-3.jpg"
+        },
+        {
+          "frame": 8991,
+          "fraction": 0.71,
+          "file": "temporal/h07-4.jpg"
+        },
+        {
+          "frame": 9077,
+          "fraction": 0.92,
+          "file": "temporal/h07-5.jpg"
+        }
+      ],
+      "strip": "temporal/h07-strip.jpg"
+    },
+    {
+      "shot": "h08",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "warehouse and shopping demand bottleneck",
+      "samples": [
+        {
+          "frame": 9136,
+          "fraction": 0.08,
+          "file": "temporal/h08-1.jpg"
+        },
+        {
+          "frame": 9201,
+          "fraction": 0.29,
+          "file": "temporal/h08-2.jpg"
+        },
+        {
+          "frame": 9266,
+          "fraction": 0.5,
+          "file": "temporal/h08-3.jpg"
+        },
+        {
+          "frame": 9331,
+          "fraction": 0.71,
+          "file": "temporal/h08-4.jpg"
+        },
+        {
+          "frame": 9396,
+          "fraction": 0.92,
+          "file": "temporal/h08-5.jpg"
+        }
+      ],
+      "strip": "temporal/h08-strip.jpg"
+    },
+    {
+      "shot": "t01",
+      "layout": "c-map",
+      "module": "story",
+      "mechanic": "geographic trade atlas and actual port photograph",
+      "samples": [
+        {
+          "frame": 9450,
+          "fraction": 0.08,
+          "file": "temporal/t01-1.jpg"
+        },
+        {
+          "frame": 9525,
+          "fraction": 0.29,
+          "file": "temporal/t01-2.jpg"
+        },
+        {
+          "frame": 9599,
+          "fraction": 0.5,
+          "file": "temporal/t01-3.jpg"
+        },
+        {
+          "frame": 9673,
+          "fraction": 0.71,
+          "file": "temporal/t01-4.jpg"
+        },
+        {
+          "frame": 9748,
+          "fraction": 0.92,
+          "file": "temporal/t01-5.jpg"
+        }
+      ],
+      "strip": "temporal/t01-strip.jpg"
+    },
+    {
+      "shot": "t02",
+      "layout": "c-flow",
+      "module": "data",
+      "mechanic": "imports, local assembly, export and domestic sale",
+      "samples": [
+        {
+          "frame": 9804,
+          "fraction": 0.08,
+          "file": "temporal/t02-1.jpg"
+        },
+        {
+          "frame": 9876,
+          "fraction": 0.29,
+          "file": "temporal/t02-2.jpg"
+        },
+        {
+          "frame": 9948,
+          "fraction": 0.5,
+          "file": "temporal/t02-3.jpg"
+        },
+        {
+          "frame": 10020,
+          "fraction": 0.71,
+          "file": "temporal/t02-4.jpg"
+        },
+        {
+          "frame": 10092,
+          "fraction": 0.92,
+          "file": "temporal/t02-5.jpg"
+        }
+      ],
+      "strip": "temporal/t02-strip.jpg"
+    },
+    {
+      "shot": "t03",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "domestic-value ledger excluding foreign input",
+      "samples": [
+        {
+          "frame": 10148,
+          "fraction": 0.08,
+          "file": "temporal/t03-1.jpg"
+        },
+        {
+          "frame": 10221,
+          "fraction": 0.29,
+          "file": "temporal/t03-2.jpg"
+        },
+        {
+          "frame": 10294,
+          "fraction": 0.5,
+          "file": "temporal/t03-3.jpg"
+        },
+        {
+          "frame": 10366,
+          "fraction": 0.71,
+          "file": "temporal/t03-4.jpg"
+        },
+        {
+          "frame": 10439,
+          "fraction": 0.92,
+          "file": "temporal/t03-5.jpg"
+        }
+      ],
+      "strip": "temporal/t03-strip.jpg"
+    },
+    {
+      "shot": "t04",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "hypothetical unit blocks, ten minus seven",
+      "samples": [
+        {
+          "frame": 10493,
+          "fraction": 0.08,
+          "file": "temporal/t04-1.jpg"
+        },
+        {
+          "frame": 10560,
+          "fraction": 0.29,
+          "file": "temporal/t04-2.jpg"
+        },
+        {
+          "frame": 10626,
+          "fraction": 0.5,
+          "file": "temporal/t04-3.jpg"
+        },
+        {
+          "frame": 10693,
+          "fraction": 0.71,
+          "file": "temporal/t04-4.jpg"
+        },
+        {
+          "frame": 10760,
+          "fraction": 0.92,
+          "file": "temporal/t04-5.jpg"
+        }
+      ],
+      "strip": "temporal/t04-strip.jpg"
+    },
+    {
+      "shot": "t05",
+      "layout": "c-map",
+      "module": "data",
+      "mechanic": "trade obstacles acting on a container",
+      "samples": [
+        {
+          "frame": 10811,
+          "fraction": 0.08,
+          "file": "temporal/t05-1.jpg"
+        },
+        {
+          "frame": 10878,
+          "fraction": 0.29,
+          "file": "temporal/t05-2.jpg"
+        },
+        {
+          "frame": 10945,
+          "fraction": 0.5,
+          "file": "temporal/t05-3.jpg"
+        },
+        {
+          "frame": 11012,
+          "fraction": 0.71,
+          "file": "temporal/t05-4.jpg"
+        },
+        {
+          "frame": 11079,
+          "fraction": 0.92,
+          "file": "temporal/t05-5.jpg"
+        }
+      ],
+      "strip": "temporal/t05-strip.jpg"
+    },
+    {
+      "shot": "t06",
+      "layout": "c-map",
+      "module": "data",
+      "mechanic": "partial supply-chain relocation with parts remaining",
+      "samples": [
+        {
+          "frame": 11131,
+          "fraction": 0.08,
+          "file": "temporal/t06-1.jpg"
+        },
+        {
+          "frame": 11200,
+          "fraction": 0.29,
+          "file": "temporal/t06-2.jpg"
+        },
+        {
+          "frame": 11269,
+          "fraction": 0.5,
+          "file": "temporal/t06-3.jpg"
+        },
+        {
+          "frame": 11338,
+          "fraction": 0.71,
+          "file": "temporal/t06-4.jpg"
+        },
+        {
+          "frame": 11407,
+          "fraction": 0.92,
+          "file": "temporal/t06-5.jpg"
+        }
+      ],
+      "strip": "temporal/t06-strip.jpg"
+    },
+    {
+      "shot": "t07",
+      "layout": "c-flow",
+      "module": "data",
+      "mechanic": "gross receipts, costs, profits and household income ledger",
+      "samples": [
+        {
+          "frame": 11460,
+          "fraction": 0.08,
+          "file": "temporal/t07-1.jpg"
+        },
+        {
+          "frame": 11529,
+          "fraction": 0.29,
+          "file": "temporal/t07-2.jpg"
+        },
+        {
+          "frame": 11597,
+          "fraction": 0.5,
+          "file": "temporal/t07-3.jpg"
+        },
+        {
+          "frame": 11665,
+          "fraction": 0.71,
+          "file": "temporal/t07-4.jpg"
+        },
+        {
+          "frame": 11734,
+          "fraction": 0.92,
+          "file": "temporal/t07-5.jpg"
+        }
+      ],
+      "strip": "temporal/t07-strip.jpg"
+    },
+    {
+      "shot": "d01",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "100 people with 23 aged-60-plus pictograms",
+      "samples": [
+        {
+          "frame": 11787,
+          "fraction": 0.08,
+          "file": "temporal/d01-1.jpg"
+        },
+        {
+          "frame": 11856,
+          "fraction": 0.29,
+          "file": "temporal/d01-2.jpg"
+        },
+        {
+          "frame": 11924,
+          "fraction": 0.5,
+          "file": "temporal/d01-3.jpg"
+        },
+        {
+          "frame": 11992,
+          "fraction": 0.71,
+          "file": "temporal/d01-4.jpg"
+        },
+        {
+          "frame": 12061,
+          "fraction": 0.92,
+          "file": "temporal/d01-5.jpg"
+        }
+      ],
+      "strip": "temporal/d01-strip.jpg"
+    },
+    {
+      "shot": "d02",
+      "layout": "c-compare",
+      "module": "people",
+      "mechanic": "age ruler with distinct 60 and 65 thresholds",
+      "samples": [
+        {
+          "frame": 12113,
+          "fraction": 0.08,
+          "file": "temporal/d02-1.jpg"
+        },
+        {
+          "frame": 12178,
+          "fraction": 0.29,
+          "file": "temporal/d02-2.jpg"
+        },
+        {
+          "frame": 12244,
+          "fraction": 0.5,
+          "file": "temporal/d02-3.jpg"
+        },
+        {
+          "frame": 12310,
+          "fraction": 0.71,
+          "file": "temporal/d02-4.jpg"
+        },
+        {
+          "frame": 12375,
+          "fraction": 0.92,
+          "file": "temporal/d02-5.jpg"
+        }
+      ],
+      "strip": "temporal/d02-strip.jpg"
+    },
+    {
+      "shot": "d03",
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "life-course care, work and family spaces",
+      "samples": [
+        {
+          "frame": 12432,
+          "fraction": 0.08,
+          "file": "temporal/d03-1.jpg"
+        },
+        {
+          "frame": 12513,
+          "fraction": 0.29,
+          "file": "temporal/d03-2.jpg"
+        },
+        {
+          "frame": 12595,
+          "fraction": 0.5,
+          "file": "temporal/d03-3.jpg"
+        },
+        {
+          "frame": 12676,
+          "fraction": 0.71,
+          "file": "temporal/d03-4.jpg"
+        },
+        {
+          "frame": 12757,
+          "fraction": 0.92,
+          "file": "temporal/d03-5.jpg"
+        }
+      ],
+      "strip": "temporal/d03-strip.jpg"
+    },
+    {
+      "shot": "d04",
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "human skills, tools and process at a workbench",
+      "samples": [
+        {
+          "frame": 12819,
+          "fraction": 0.08,
+          "file": "temporal/d04-1.jpg"
+        },
+        {
+          "frame": 12898,
+          "fraction": 0.29,
+          "file": "temporal/d04-2.jpg"
+        },
+        {
+          "frame": 12977,
+          "fraction": 0.5,
+          "file": "temporal/d04-3.jpg"
+        },
+        {
+          "frame": 13057,
+          "fraction": 0.71,
+          "file": "temporal/d04-4.jpg"
+        },
+        {
+          "frame": 13136,
+          "fraction": 0.92,
+          "file": "temporal/d04-5.jpg"
+        }
+      ],
+      "strip": "temporal/d04-strip.jpg"
+    },
+    {
+      "shot": "d05",
+      "layout": "c-photo",
+      "module": "story",
+      "mechanic": "automation and worker contexts in a moving photographic aperture",
+      "samples": [
+        {
+          "frame": 13197,
+          "fraction": 0.08,
+          "file": "temporal/d05-1.jpg"
+        },
+        {
+          "frame": 13277,
+          "fraction": 0.29,
+          "file": "temporal/d05-2.jpg"
+        },
+        {
+          "frame": 13357,
+          "fraction": 0.5,
+          "file": "temporal/d05-3.jpg"
+        },
+        {
+          "frame": 13438,
+          "fraction": 0.71,
+          "file": "temporal/d05-4.jpg"
+        },
+        {
+          "frame": 13518,
+          "fraction": 0.92,
+          "file": "temporal/d05-5.jpg"
+        }
+      ],
+      "strip": "temporal/d05-strip.jpg"
+    },
+    {
+      "shot": "d06",
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "multi-year education and training staircase",
+      "samples": [
+        {
+          "frame": 13573,
+          "fraction": 0.08,
+          "file": "temporal/d06-1.jpg"
+        },
+        {
+          "frame": 13637,
+          "fraction": 0.29,
+          "file": "temporal/d06-2.jpg"
+        },
+        {
+          "frame": 13701,
+          "fraction": 0.5,
+          "file": "temporal/d06-3.jpg"
+        },
+        {
+          "frame": 13765,
+          "fraction": 0.71,
+          "file": "temporal/d06-4.jpg"
+        },
+        {
+          "frame": 13829,
+          "fraction": 0.92,
+          "file": "temporal/d06-5.jpg"
+        }
+      ],
+      "strip": "temporal/d06-strip.jpg"
+    },
+    {
+      "shot": "p01",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "nine-month GDP statistical book and growth scale",
+      "samples": [
+        {
+          "frame": 13876,
+          "fraction": 0.08,
+          "file": "temporal/p01-1.jpg"
+        },
+        {
+          "frame": 13934,
+          "fraction": 0.29,
+          "file": "temporal/p01-2.jpg"
+        },
+        {
+          "frame": 13992,
+          "fraction": 0.5,
+          "file": "temporal/p01-3.jpg"
+        },
+        {
+          "frame": 14049,
+          "fraction": 0.71,
+          "file": "temporal/p01-4.jpg"
+        },
+        {
+          "frame": 14107,
+          "fraction": 0.92,
+          "file": "temporal/p01-5.jpg"
+        }
+      ],
+      "strip": "temporal/p01-strip.jpg"
+    },
+    {
+      "shot": "p02",
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "three quarterly year-on-year calendar markers",
+      "samples": [
+        {
+          "frame": 14158,
+          "fraction": 0.08,
+          "file": "temporal/p02-1.jpg"
+        },
+        {
+          "frame": 14232,
+          "fraction": 0.29,
+          "file": "temporal/p02-2.jpg"
+        },
+        {
+          "frame": 14306,
+          "fraction": 0.5,
+          "file": "temporal/p02-3.jpg"
+        },
+        {
+          "frame": 14380,
+          "fraction": 0.71,
+          "file": "temporal/p02-4.jpg"
+        },
+        {
+          "frame": 14454,
+          "fraction": 0.92,
+          "file": "temporal/p02-5.jpg"
+        }
+      ],
+      "strip": "temporal/p02-strip.jpg"
+    },
+    {
+      "shot": "p03",
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "policy plumbing with three different destinations",
+      "samples": [
+        {
+          "frame": 14514,
+          "fraction": 0.08,
+          "file": "temporal/p03-1.jpg"
+        },
+        {
+          "frame": 14597,
+          "fraction": 0.29,
+          "file": "temporal/p03-2.jpg"
+        },
+        {
+          "frame": 14679,
+          "fraction": 0.5,
+          "file": "temporal/p03-3.jpg"
+        },
+        {
+          "frame": 14761,
+          "fraction": 0.71,
+          "file": "temporal/p03-4.jpg"
+        },
+        {
+          "frame": 14844,
+          "fraction": 0.92,
+          "file": "temporal/p03-5.jpg"
+        }
+      ],
+      "strip": "temporal/p03-strip.jpg"
+    },
+    {
+      "shot": "p04",
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "effective productive project versus empty construction",
+      "samples": [
+        {
+          "frame": 14905,
+          "fraction": 0.08,
+          "file": "temporal/p04-1.jpg"
+        },
+        {
+          "frame": 14981,
+          "fraction": 0.29,
+          "file": "temporal/p04-2.jpg"
+        },
+        {
+          "frame": 15056,
+          "fraction": 0.5,
+          "file": "temporal/p04-3.jpg"
+        },
+        {
+          "frame": 15132,
+          "fraction": 0.71,
+          "file": "temporal/p04-4.jpg"
+        },
+        {
+          "frame": 15208,
+          "fraction": 0.92,
+          "file": "temporal/p04-5.jpg"
+        }
+      ],
+      "strip": "temporal/p04-strip.jpg"
+    },
+    {
+      "shot": "p05",
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "household income security and store orders",
+      "samples": [
+        {
+          "frame": 15269,
+          "fraction": 0.08,
+          "file": "temporal/p05-1.jpg"
+        },
+        {
+          "frame": 15351,
+          "fraction": 0.29,
+          "file": "temporal/p05-2.jpg"
+        },
+        {
+          "frame": 15434,
+          "fraction": 0.5,
+          "file": "temporal/p05-3.jpg"
+        },
+        {
+          "frame": 15516,
+          "fraction": 0.71,
+          "file": "temporal/p05-4.jpg"
+        },
+        {
+          "frame": 15598,
+          "fraction": 0.92,
+          "file": "temporal/p05-5.jpg"
+        }
+      ],
+      "strip": "temporal/p05-strip.jpg"
+    },
+    {
+      "shot": "p06",
+      "layout": "c-flow",
+      "module": "data",
+      "mechanic": "moving a liability versus actually settling it",
+      "samples": [
+        {
+          "frame": 15660,
+          "fraction": 0.08,
+          "file": "temporal/p06-1.jpg"
+        },
+        {
+          "frame": 15739,
+          "fraction": 0.29,
+          "file": "temporal/p06-2.jpg"
+        },
+        {
+          "frame": 15818,
+          "fraction": 0.5,
+          "file": "temporal/p06-3.jpg"
+        },
+        {
+          "frame": 15897,
+          "fraction": 0.71,
+          "file": "temporal/p06-4.jpg"
+        },
+        {
+          "frame": 15976,
+          "fraction": 0.92,
+          "file": "temporal/p06-5.jpg"
+        }
+      ],
+      "strip": "temporal/p06-strip.jpg"
+    },
+    {
+      "shot": "p07",
+      "layout": "c-compare",
+      "module": "story",
+      "mechanic": "reading a claim through a moving scope lens",
+      "samples": [
+        {
+          "frame": 16034,
+          "fraction": 0.08,
+          "file": "temporal/p07-1.jpg"
+        },
+        {
+          "frame": 16106,
+          "fraction": 0.29,
+          "file": "temporal/p07-2.jpg"
+        },
+        {
+          "frame": 16177,
+          "fraction": 0.5,
+          "file": "temporal/p07-3.jpg"
+        },
+        {
+          "frame": 16248,
+          "fraction": 0.71,
+          "file": "temporal/p07-4.jpg"
+        },
+        {
+          "frame": 16320,
+          "fraction": 0.92,
+          "file": "temporal/p07-5.jpg"
+        }
+      ],
+      "strip": "temporal/p07-strip.jpg"
+    },
+    {
+      "shot": "e01",
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "a layered economic landscape showing simultaneous pressures",
+      "samples": [
+        {
+          "frame": 16381,
+          "fraction": 0.08,
+          "file": "temporal/e01-1.jpg"
+        },
+        {
+          "frame": 16466,
+          "fraction": 0.29,
+          "file": "temporal/e01-2.jpg"
+        },
+        {
+          "frame": 16552,
+          "fraction": 0.5,
+          "file": "temporal/e01-3.jpg"
+        },
+        {
+          "frame": 16637,
+          "fraction": 0.71,
+          "file": "temporal/e01-4.jpg"
+        },
+        {
+          "frame": 16722,
+          "fraction": 0.92,
+          "file": "temporal/e01-5.jpg"
+        }
+      ],
+      "strip": "temporal/e01-strip.jpg"
+    },
+    {
+      "shot": "e02",
+      "layout": "c-sim",
+      "module": "story",
+      "mechanic": "meaningful callback to a town income-demand cycle",
+      "samples": [
+        {
+          "frame": 16787,
+          "fraction": 0.08,
+          "file": "temporal/e02-1.jpg"
+        },
+        {
+          "frame": 16869,
+          "fraction": 0.29,
+          "file": "temporal/e02-2.jpg"
+        },
+        {
+          "frame": 16951,
+          "fraction": 0.5,
+          "file": "temporal/e02-3.jpg"
+        },
+        {
+          "frame": 17033,
+          "fraction": 0.71,
+          "file": "temporal/e02-4.jpg"
+        },
+        {
+          "frame": 17115,
+          "fraction": 0.92,
+          "file": "temporal/e02-5.jpg"
+        }
+      ],
+      "strip": "temporal/e02-strip.jpg"
+    },
+    {
+      "shot": "e03",
+      "layout": "c-compare",
+      "module": "story",
+      "mechanic": "four-question source inspection with a page magnifier",
+      "samples": [
+        {
+          "frame": 17177,
+          "fraction": 0.08,
+          "file": "temporal/e03-1.jpg"
+        },
+        {
+          "frame": 17256,
+          "fraction": 0.29,
+          "file": "temporal/e03-2.jpg"
+        },
+        {
+          "frame": 17335,
+          "fraction": 0.5,
+          "file": "temporal/e03-3.jpg"
+        },
+        {
+          "frame": 17414,
+          "fraction": 0.71,
+          "file": "temporal/e03-4.jpg"
+        },
+        {
+          "frame": 17493,
+          "fraction": 0.92,
+          "file": "temporal/e03-5.jpg"
+        }
+      ],
+      "strip": "temporal/e03-strip.jpg"
+    },
+    {
+      "shot": "e04",
+      "layout": "c-closing",
+      "module": "story",
+      "mechanic": "moving China context and an actionable three-topic closing",
+      "samples": [
+        {
+          "frame": 17555,
+          "fraction": 0.08,
+          "file": "temporal/e04-1.jpg"
+        },
+        {
+          "frame": 17637,
+          "fraction": 0.29,
+          "file": "temporal/e04-2.jpg"
+        },
+        {
+          "frame": 17718,
+          "fraction": 0.5,
+          "file": "temporal/e04-3.jpg"
+        },
+        {
+          "frame": 17799,
+          "fraction": 0.71,
+          "file": "temporal/e04-4.jpg"
+        },
+        {
+          "frame": 17881,
+          "fraction": 0.92,
+          "file": "temporal/e04-5.jpg"
+        }
+      ],
+      "strip": "temporal/e04-strip.jpg"
+    }
+  ],
+  "lastFrame": {
+    "frame": 17912,
+    "file": "last-frame.jpg"
+  },
+  "scope": "Every authored shot, including media, disclaimer and closing; five samples per shot."
+}

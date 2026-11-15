@@ -1,0 +1,76 @@
+{
+  "schema": "video-benchmark/1",
+  "taskStartUTC": "2026-11-13T04:55:13Z",
+  "taskDefinition": "Approximately10minute unbranded Vietnamese China economy film, newassets and originalanimateddiagrams/maps/charts; taskstart is first recorded tool clock, not the unknown message-send time.",
+  "stages": {
+    "audioProviderCalls": {
+      "cumulativeRequestWallSeconds": 259.67299999999994,
+      "newCalls": 17,
+      "voiceNewCalls": 8,
+      "musicNewCalls": 3,
+      "sfxNewCalls": 6,
+      "scope": "Cumulative request durations, not whole-task elapsed time."
+    },
+    "localAudioMix": {
+      "schema": "audio-local-mix-benchmark/1",
+      "startedUTC": "2026-11-13T05:16:40.143365+00:00",
+      "finishedUTC": "2026-11-13T05:18:16.824005+00:00",
+      "elapsedSeconds": 96.672,
+      "cache_hit": false,
+      "outputSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+      "seconds": 597.1,
+      "scope": "Measured local audio mixing/checking; no provider request or cash/CPU-power estimate."
+    },
+    "firstFullRender": {
+      "startedUTC": "2026-11-13T05:36:19.821165+00:00",
+      "finishedUTC": "2026-11-13T05:55:52.701835+00:00",
+      "wallSeconds": 1173.484,
+      "chapterWallSeconds": 1059.188,
+      "renderFramesPerSecond": 16.912011843034474,
+      "joinWallSeconds": 58.812,
+      "joinMode": "stream-copy"
+    },
+    "firstQA": {
+      "schema": "china-final-qa-timing/1",
+      "startedUTC": "2026-11-13T05:56:30.040936+00:00",
+      "status": "completed",
+      "decodedFrames": 17913,
+      "technicalIntegrity": "passed",
+      "finishedUTC": "2026-11-13T05:59:37.738773+00:00",
+      "wallSeconds": 187.703
+    },
+    "visualRepairR02": {
+      "startedUTC": "2026-11-13T06:01:21.901348+00:00",
+      "finishedUTC": "2026-11-13T06:03:51.537944+00:00",
+      "wallSeconds": 149.64,
+      "patchFrames": 366,
+      "newProviderCalls": 0
+    },
+    "finalQAR02": {
+      "schema": "china-final-qa-timing/1",
+      "startedUTC": "2026-11-13T06:04:55.394335+00:00",
+      "status": "completed",
+      "decodedFrames": 17913,
+      "technicalIntegrity": "passed",
+      "finishedUTC": "2026-11-13T06:07:59.994037+00:00",
+      "wallSeconds": 184.593
+    }
+  },
+  "costPolicy": "Provider-confirmed per-request usage separate from plan-rate estimates; no invented invoice or hardware/electricity cost.",
+  "readyUTC": "2026-11-13T06:09:35Z",
+  "readyDefinition": "Root recorded actual UTC clock06:09:35Z after verifying r02 server/hash/QA/report links and independent delta review; later report-writing time is not added to production readiness.",
+  "totalProductionWallSeconds": 4462.0,
+  "finalRevision": "r02",
+  "finalSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+  "status": "ready-for-user-review",
+  "costSummary": {
+    "confirmedRequestCredits": 4366,
+    "musicRequestsMissingUsage": 3,
+    "newProviderCalls": 17,
+    "reusedAudioAssets": 5,
+    "datedListPriceEstimateUSD": 1.7732,
+    "actualCashCostUSD": null,
+    "scope": "Confirmed request usage and dated list estimate kept separate. No per-task invoice, credit-to-USD or hardware/token charge is asserted."
+  },
+  "finalBytes": 64372346
+}

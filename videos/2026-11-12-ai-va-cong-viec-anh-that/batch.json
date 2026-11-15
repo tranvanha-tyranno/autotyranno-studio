@@ -1,0 +1,458 @@
+{
+  "title": "AI sẽ lấy việc, hay thay đổi từng phần công việc?",
+  "targetSeconds": 300,
+  "chapters": [
+    {
+      "id": "hook",
+      "label": "CÂU HỎI CỦA THỜI ĐẠI AI",
+      "kind": "chip",
+      "theme": "dark",
+      "text": "Một bản nháp từng mất cả buổi, giờ có thể xuất hiện sau một câu lệnh. Rất tiện. Cũng rất đáng lo. Nếu máy đã viết được, trả lời được, phần nào còn lại cho chúng ta? Trước khi hỏi AI có lấy mất việc hay không, hãy nhìn kỹ: một công việc thực ra gồm những gì?",
+      "beats": [
+        {
+          "phrase": "Một bản nháp",
+          "title": "MỘT CÂU LỆNH.",
+          "sub": "MỘT BẢN NHÁP."
+        },
+        {
+          "phrase": "phần nào còn lại",
+          "title": "PHẦN NÀO CÒN LẠI?",
+          "sub": "CHO CON NGƯỜI"
+        },
+        {
+          "phrase": "một công việc thực ra",
+          "title": "CÔNG VIỆC",
+          "sub": "ĐƯỢC GHÉP TỪ NHỮNG GÌ?"
+        }
+      ]
+    },
+    {
+      "id": "bundle",
+      "label": "01 / TÁCH NHỎ CÔNG VIỆC",
+      "kind": "tasks",
+      "theme": "cream",
+      "text": "Hãy tưởng tượng công việc là một bó nhiệm vụ. Thu thập thông tin. Viết bản đầu. Rồi kiểm tra, trao đổi với khách hàng và chịu trách nhiệm về kết quả. AI có thể tác động vào vài mắt xích trước khi thay được cả chuỗi. Làm nhanh một phần chưa có nghĩa là làm thay được cả nghề.",
+      "beats": [
+        {
+          "phrase": "một bó nhiệm vụ",
+          "title": "MỘT NGHỀ.",
+          "sub": "NHIỀU NHIỆM VỤ."
+        },
+        {
+          "phrase": "kiểm tra, trao đổi",
+          "title": "KIỂM TRA. TRAO ĐỔI.",
+          "sub": "CHỊU TRÁCH NHIỆM."
+        },
+        {
+          "phrase": "làm nhanh một phần",
+          "title": "MỘT PHẦN",
+          "sub": "CHƯA PHẢI CẢ NGHỀ"
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "label": "MỘT VÍ DỤ GIẢ ĐỊNH",
+      "kind": "documents",
+      "theme": "dark",
+      "text": "Ví dụ, người làm nội dung có thể nhờ AI đề xuất tiêu đề và phác thảo kịch bản. Nhưng ai hiểu sản phẩm thật sự có gì? Ai phát hiện quảng cáo đang hứa quá mức? Ai nhận phản hồi khi khách hàng không hài lòng? Bản nháp là đầu vào. Kết quả còn nằm ở những quyết định đó.",
+      "beats": [
+        {
+          "phrase": "đề xuất tiêu đề",
+          "title": "TIÊU ĐỀ. KỊCH BẢN.",
+          "sub": "AI HỖ TRỢ BẢN ĐẦU"
+        },
+        {
+          "phrase": "hứa quá mức",
+          "title": "LỜI HỨA ĐÚNG?",
+          "sub": "CẦN NGƯỜI KIỂM TRA"
+        },
+        {
+          "phrase": "Bản nháp là đầu vào",
+          "title": "BẢN NHÁP ≠ KẾT QUẢ",
+          "sub": "VÍ DỤ MINH HỌA"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "label": "ILO / NGHIÊN CỨU NĂM 2025",
+      "kind": "people",
+      "theme": "dark",
+      "source": "ILO Working Paper 140 · 20.05.2025",
+      "text": "Nghiên cứu năm hai nghìn không trăm hai mươi lăm của Tổ chức Lao động Quốc tế ước tính: cứ bốn người lao động toàn cầu, có một người làm trong nghề có mức tiếp xúc nào đó với AI tạo sinh. Từ quan trọng là tiếp xúc, không phải chắc chắn mất việc.",
+      "beats": [
+        {
+          "phrase": "cứ bốn người lao động",
+          "title": "1 / 4",
+          "sub": "LAO ĐỘNG TOÀN CẦU"
+        },
+        {
+          "phrase": "mức tiếp xúc",
+          "title": "CÓ MỨC TIẾP XÚC",
+          "sub": "VỚI AI TẠO SINH"
+        },
+        {
+          "phrase": "không phải chắc chắn",
+          "title": "TIẾP XÚC ≠ MẤT VIỆC",
+          "sub": "ƯỚC TÍNH NGHIÊN CỨU 2025"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "label": "ĐỌC ĐÚNG Ý NGHĨA CON SỐ",
+      "kind": "gate",
+      "theme": "cream",
+      "text": "Chỉ số này xem nhiệm vụ có thể chịu ảnh hưởng đến đâu. Nó không đếm số người đã bị sa thải. Nghiên cứu nhận định biến đổi công việc là tác động có khả năng xảy ra hơn, vì nhiều nhiệm vụ vẫn cần con người. Điều đó không bảo đảm mọi vị trí đều an toàn.",
+      "beats": [
+        {
+          "phrase": "không đếm số người",
+          "title": "ĐO KHẢ NĂNG TÁC ĐỘNG",
+          "sub": "KHÔNG ĐẾM NGƯỜI BỊ SA THẢI"
+        },
+        {
+          "phrase": "biến đổi công việc",
+          "title": "CÔNG VIỆC BIẾN ĐỔI",
+          "sub": "NHIỀU NHIỆM VỤ VẪN CẦN NGƯỜI"
+        },
+        {
+          "phrase": "không bảo đảm",
+          "title": "KHÔNG CÓ BẢO ĐẢM",
+          "sub": "CHO MỌI VỊ TRÍ"
+        }
+      ]
+    },
+    {
+      "id": "physical",
+      "label": "KHẢ NĂNG CỦA MÁY / THỰC TẾ CÔNG VIỆC",
+      "kind": "network",
+      "theme": "dark",
+      "text": "Câu trả lời trên màn hình khác với công việc đời thực. Ở đó có dữ liệu thiếu, yêu cầu đổi liên tục và những người cần được thuyết phục. Xử lý khách hàng tức giận là ví dụ. Soạn câu trả lời lịch sự là một phần. Hiểu hoàn cảnh và quyết định cách giải quyết lại là phần khác.",
+      "beats": [
+        {
+          "phrase": "trên màn hình",
+          "title": "TRÊN MÀN HÌNH",
+          "sub": "CHỈ LÀ MỘT PHẦN"
+        },
+        {
+          "phrase": "dữ liệu thiếu",
+          "title": "THIẾU DỮ LIỆU.",
+          "sub": "YÊU CẦU THAY ĐỔI."
+        },
+        {
+          "phrase": "quyết định cách giải quyết",
+          "title": "HIỂU HOÀN CẢNH",
+          "sub": "QUYẾT ĐỊNH CÁCH GIẢI QUYẾT"
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "label": "KHẢ NĂNG KỸ THUẬT CHƯA ĐỦ",
+      "kind": "clock",
+      "theme": "cream",
+      "text": "Còn bài toán kinh tế: tổng thời gian và chi phí có thực sự giảm? Nếu viết nhanh nhưng sửa sai lâu hơn, lợi ích có thể biến mất. Nếu dữ liệu không được phép đưa ra ngoài, cách dùng phải đổi. Doanh nghiệp cần một quy trình chạy được và có người chịu trách nhiệm.",
+      "beats": [
+        {
+          "phrase": "tổng thời gian",
+          "title": "TÍNH TỔNG THỜI GIAN",
+          "sub": "KHÔNG CHỈ THỜI GIAN GÕ"
+        },
+        {
+          "phrase": "sửa sai lâu hơn",
+          "title": "NHANH HƠN?",
+          "sub": "HAY SỬA LÂU HƠN?"
+        },
+        {
+          "phrase": "một quy trình chạy được",
+          "title": "MỘT QUY TRÌNH",
+          "sub": "CÓ NGƯỜI CHỊU TRÁCH NHIỆM"
+        }
+      ]
+    },
+    {
+      "id": "forecast",
+      "label": "WEF / DỰ BÁO ĐẾN NĂM 2030",
+      "kind": "bars",
+      "theme": "dark",
+      "source": "Future of Jobs Report 2025 · dự báo nhiều xu hướng",
+      "text": "Diễn đàn Kinh tế Thế giới dự báo đến năm hai nghìn không trăm ba mươi, thay đổi cơ cấu có thể tạo ra một trăm bảy mươi triệu việc làm, và làm dịch chuyển chín mươi hai triệu việc làm. Đây là kỳ vọng của nhà tuyển dụng, không phải kết quả đã xảy ra, và không chỉ do AI.",
+      "beats": [
+        {
+          "phrase": "một trăm bảy mươi",
+          "title": "170 TRIỆU",
+          "sub": "VIỆC LÀM CÓ THỂ ĐƯỢC TẠO RA"
+        },
+        {
+          "phrase": "chín mươi hai triệu",
+          "title": "92 TRIỆU",
+          "sub": "VIỆC LÀM CÓ THỂ BỊ DỊCH CHUYỂN"
+        },
+        {
+          "phrase": "không chỉ do AI",
+          "title": "KHÔNG CHỈ DO AI",
+          "sub": "DỰ BÁO ĐẾN 2030 / KHÔNG PHẢI KẾT QUẢ"
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "label": "TỔNG THỂ TĂNG / TỪNG NGƯỜI VẪN KHÓ",
+      "kind": "bridge",
+      "theme": "dark",
+      "text": "Các xu hướng còn gồm kinh tế, dân số và chuyển đổi xanh. Kể cả tổng việc làm tăng, người mất một vị trí không tự động bước sang việc mới. Khác kỹ năng, khác địa điểm, khác thời điểm: đó là khoảng cách phải vượt qua. Tin tốt toàn cầu vẫn có thể đi cùng khó khăn cá nhân.",
+      "beats": [
+        {
+          "phrase": "kinh tế, dân số",
+          "title": "KINH TẾ. DÂN SỐ.",
+          "sub": "CHUYỂN ĐỔI XANH."
+        },
+        {
+          "phrase": "không tự động bước sang",
+          "title": "VIỆC MỚI",
+          "sub": "KHÔNG TỰ ĐỘNG ĐẾN VỚI MỌI NGƯỜI"
+        },
+        {
+          "phrase": "Khác kỹ năng",
+          "title": "KỸ NĂNG. ĐỊA ĐIỂM.",
+          "sub": "THỜI ĐIỂM."
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "label": "02 / GIÁ TRỊ CỦA NGƯỜI KIỂM TRA",
+      "kind": "gate",
+      "theme": "cream",
+      "text": "Vậy lợi thế con người nằm ở đâu? Một hướng đáng thử là đặt yêu cầu rõ, biết thế nào là kết quả tốt và kiểm tra được kết quả ấy. Khi bản nháp dễ tạo, nhận ra bản nháp sai ở đâu có thể quan trọng hơn. Nhanh chỉ có ý nghĩa khi vẫn đúng mục tiêu.",
+      "beats": [
+        {
+          "phrase": "đặt yêu cầu rõ",
+          "title": "YÊU CẦU RÕ",
+          "sub": "BIẾT THẾ NÀO LÀ TỐT"
+        },
+        {
+          "phrase": "bản nháp sai ở đâu",
+          "title": "NHẬN RA SAI Ở ĐÂU",
+          "sub": "KHẢ NĂNG KIỂM TRA"
+        },
+        {
+          "phrase": "đúng mục tiêu",
+          "title": "NHANH + ĐÚNG",
+          "sub": "ĐÚNG MỤC TIÊU MỚI CÓ GIÁ TRỊ"
+        }
+      ]
+    },
+    {
+      "id": "hallucination",
+      "label": "MỘT BÀI TẬP KIỂM TRA NHỎ",
+      "kind": "documents",
+      "theme": "dark",
+      "text": "Giả sử AI tóm tắt bảng doanh thu rất trôi chảy, nhưng nhầm doanh thu với lợi nhuận. Nếu thấy hay rồi gửi đi, tốc độ giúp một lỗi đi xa hơn. Hãy đối chiếu số với bảng gốc, xem định nghĩa từng cột và hỏi: kết luận có thật sự được dữ liệu hỗ trợ không?",
+      "beats": [
+        {
+          "phrase": "doanh thu với lợi nhuận",
+          "title": "DOANH THU ≠ LỢI NHUẬN",
+          "sub": "VÍ DỤ GIẢ ĐỊNH / KHÔNG PHẢI SỐ LIỆU THỰC"
+        },
+        {
+          "phrase": "một lỗi đi xa hơn",
+          "title": "TRÔI CHẢY ≠ CHÍNH XÁC",
+          "sub": "ĐỪNG CHỈ ĐỌC THẤY HAY"
+        },
+        {
+          "phrase": "đối chiếu số với bảng gốc",
+          "title": "ĐỐI CHIẾU NGUỒN GỐC",
+          "sub": "SỐ LIỆU → ĐỊNH NGHĨA → KẾT LUẬN"
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "label": "03 / VẼ LẠI CÔNG VIỆC CỦA MÌNH",
+      "kind": "tasks",
+      "theme": "cream",
+      "text": "Thử chia việc thành ba nhóm. Nhóm đầu: lặp lại, dễ mô tả và kiểm tra. Nhóm hai: AI hỗ trợ nhưng bạn phải duyệt. Nhóm ba: cần quan hệ, phán đoán hoặc trách nhiệm trực tiếp. Đây là cách tự rà soát, không phải xếp hạng nghề. Điều cần thấy là nhiệm vụ nào thay đổi trước.",
+      "beats": [
+        {
+          "phrase": "ba nhóm",
+          "title": "BA NHÓM NHIỆM VỤ",
+          "sub": "TỰ RÀ SOÁT / KHÔNG XẾP HẠNG NGHỀ"
+        },
+        {
+          "phrase": "Nhóm đầu",
+          "title": "LẶP LẠI → HỖ TRỢ",
+          "sub": "→ PHÁN ĐOÁN VÀ TRÁCH NHIỆM"
+        },
+        {
+          "phrase": "thay đổi trước",
+          "title": "ĐIỂM NÀO ĐỔI TRƯỚC?",
+          "sub": "BẮT ĐẦU TỪ NHIỆM VỤ"
+        }
+      ]
+    },
+    {
+      "id": "experiment",
+      "label": "THỬ NHỎ / CÓ THỂ KIỂM TRA",
+      "kind": "conveyor",
+      "theme": "dark",
+      "text": "Chọn một việc nhỏ ở nhóm đầu. Chẳng hạn, nháp email thường gặp bằng thông tin giả định. Viết rõ mục tiêu, người đọc và điều không được tự bịa. Giữ bản làm cách cũ để so sánh. Đừng bắt đầu với dữ liệu nhạy cảm. Hãy chọn nơi sai sót có thể được phát hiện và sửa.",
+      "beats": [
+        {
+          "phrase": "một việc nhỏ",
+          "title": "CHỌN MỘT VIỆC NHỎ",
+          "sub": "DÙNG THÔNG TIN GIẢ ĐỊNH"
+        },
+        {
+          "phrase": "mục tiêu, người đọc",
+          "title": "MỤC TIÊU. NGƯỜI ĐỌC.",
+          "sub": "RÀNG BUỘC RÕ RÀNG."
+        },
+        {
+          "phrase": "phát hiện và sửa",
+          "title": "THẤY ĐƯỢC LỖI",
+          "sub": "SỬA ĐƯỢC LỖI"
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "label": "ĐO LỢI ÍCH THỰC",
+      "kind": "clock",
+      "theme": "cream",
+      "text": "Đo cả thời gian ra lệnh, chờ kết quả, đọc lại và sửa. Ghi những lỗi khó nhận ra. Nếu tiết kiệm thời gian mà chất lượng đạt yêu cầu, đó là bước có ích. Nếu chưa, sửa cách giao việc hoặc đổi nhiệm vụ. Một quy trình nhỏ lặp lại đáng tin cậy hơn một màn trình diễn ấn tượng.",
+      "beats": [
+        {
+          "phrase": "ra lệnh, chờ kết quả",
+          "title": "GIAO VIỆC + CHỜ",
+          "sub": "+ KIỂM TRA + SỬA"
+        },
+        {
+          "phrase": "chất lượng đạt yêu cầu",
+          "title": "THỜI GIAN + CHẤT LƯỢNG",
+          "sub": "ĐO CẢ HAI"
+        },
+        {
+          "phrase": "lặp lại đáng tin cậy",
+          "title": "LẶP LẠI ĐƯỢC",
+          "sub": "ĐÁNG TIN CẬY"
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "label": "KỸ NĂNG CẦN NUÔI DƯỠNG",
+      "kind": "steps",
+      "theme": "dark",
+      "source": "Future of Jobs Report 2025 · kỳ vọng của nhà tuyển dụng",
+      "text": "Bạn không nhất thiết phải thành kỹ sư AI. Báo cáo của Diễn đàn Kinh tế Thế giới coi trọng tư duy phân tích, kỹ năng công nghệ và khả năng học hỏi. Mỗi người cần chuẩn bị khác nhau. Nhưng hiểu nghề, biết kiểm tra và diễn đạt rõ vấn đề là ba năng lực có thể rèn ngay hôm nay.",
+      "beats": [
+        {
+          "phrase": "không nhất thiết",
+          "title": "KHÔNG PHẢI AI CŨNG",
+          "sub": "CẦN THÀNH KỸ SƯ AI"
+        },
+        {
+          "phrase": "tư duy phân tích",
+          "title": "PHÂN TÍCH. CÔNG NGHỆ.",
+          "sub": "KHẢ NĂNG HỌC HỎI."
+        },
+        {
+          "phrase": "hiểu nghề, biết kiểm tra",
+          "title": "HIỂU NGHỀ. KIỂM TRA.",
+          "sub": "DIỄN ĐẠT RÕ VẤN ĐỀ."
+        }
+      ]
+    },
+    {
+      "id": "portfolio",
+      "label": "GIỮ LẠI BẰNG CHỨNG TIẾN BỘ",
+      "kind": "documents",
+      "theme": "cream",
+      "text": "Thay vì chỉ sưu tầm câu lệnh hay, hãy giữ trước và sau của một nhiệm vụ: yêu cầu, bản nháp của máy, phần bạn sửa và kết quả đã kiểm tra. Hồ sơ ấy cho thấy đóng góp thật của bạn, cũng như chỗ cần tiến bộ. Mục tiêu là biết khi nào dùng thì có ích.",
+      "beats": [
+        {
+          "phrase": "trước và sau",
+          "title": "TRƯỚC → SAU",
+          "sub": "GIỮ LẠI BẰNG CHỨNG"
+        },
+        {
+          "phrase": "phần bạn sửa",
+          "title": "PHẦN BẠN ĐÓNG GÓP",
+          "sub": "KIỂM TRA. SỬA. QUYẾT ĐỊNH."
+        },
+        {
+          "phrase": "khi nào dùng thì có ích",
+          "title": "DÙNG ĐÚNG CHỖ",
+          "sub": "KHÔNG PHẢI DÙNG MỌI CHỖ"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "label": "TRÁCH NHIỆM KHÔNG CHỈ Ở CÁ NHÂN",
+      "kind": "network",
+      "theme": "dark",
+      "text": "Chuyển đổi không thể chỉ đặt lên vai người lao động. Tổ chức cần hướng dẫn, thời gian đào tạo, tiêu chuẩn chất lượng và người xử lý khi hệ thống sai. Chỉ yêu cầu làm nhiều hơn mà không cho học và kiểm tra có thể tạo thêm áp lực. Đổi công cụ cũng cần đổi cách tổ chức công việc ấy.",
+      "beats": [
+        {
+          "phrase": "không thể chỉ đặt lên vai",
+          "title": "KHÔNG CHỈ CÁ NHÂN",
+          "sub": "TỔ CHỨC CŨNG CÓ TRÁCH NHIỆM"
+        },
+        {
+          "phrase": "thời gian đào tạo",
+          "title": "ĐÀO TẠO. TIÊU CHUẨN.",
+          "sub": "NGƯỜI XỬ LÝ KHI SAI."
+        },
+        {
+          "phrase": "tổ chức công việc ấy",
+          "title": "ĐỔI CÔNG CỤ",
+          "sub": "CŨNG CẦN ĐỔI CÁCH LÀM"
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "label": "CÂU HỎI MANG THEO",
+      "kind": "chip",
+      "theme": "dark",
+      "text": "AI sẽ lấy việc hay thay đổi công việc? Không có một câu trả lời chung. Hãy nhìn từng nhiệm vụ và từng quyết định. Bạn không cần thắng máy ở mọi thao tác. Hãy tìm phần mà sự hiểu biết và trách nhiệm của bạn làm kết quả tốt hơn. Ngày mai, bạn sẽ bắt đầu kiểm tra lại nhiệm vụ nào?",
+      "beats": [
+        {
+          "phrase": "Không có một câu trả lời chung",
+          "title": "KHÔNG MỘT ĐÁP ÁN",
+          "sub": "CHO TẤT CẢ MỌI NGƯỜI"
+        },
+        {
+          "phrase": "sự hiểu biết và trách nhiệm",
+          "title": "HIỂU BIẾT + TRÁCH NHIỆM",
+          "sub": "GIÁ TRỊ BẠN ĐÓNG GÓP"
+        },
+        {
+          "phrase": "Ngày mai",
+          "title": "NGÀY MAI,",
+          "sub": "BẠN SẼ BẮT ĐẦU TỪ VIỆC NÀO?"
+        }
+      ]
+    }
+  ],
+  "voicePreset": "workflows/reference-video/cinematic.profile.json",
+  "voiceName": "Nhật Phong",
+  "voiceId": "6adFm46eyy74snVn6YrT",
+  "model": "eleven_v3",
+  "sourceRecords": "sources.json",
+  "approvedBaseline": "videos/2026-11-11-cinematic-reset/final.mp4",
+  "userAcceptance": "pending",
+  "naturalVoiceSeconds": 295.81,
+  "voiceTempo": 0.9926510067114094,
+  "lastWordEnd": 297.94962982995844,
+  "composition": "WorkAIVisual5min",
+  "meaning": "Exposure is not actual job loss; WEF figures are multi-trend employer projections; examples are hypothetical; practical steps are editorial suggestions, not promises of employment.",
+  "visualDirection": "Ảnh và footage internet minh họa sát lời kể là chính; 3D và chữ động chỉ hỗ trợ khi có ích",
+  "sourceRevision": "videos\\2026-11-11-ai-va-cong-viec-5phut",
+  "newProviderCalls": 0,
+  "voiceAndSound": "Exact prior mix retained; this revision changes imagery and visual edit only",
+  "photoSources": "image-sources.json"
+}

@@ -1,0 +1,741 @@
+{
+  "schema": "reference-video-src-direct-review/1",
+  "date": "2026-11-14",
+  "reviewer": "Codex economics_script",
+  "scope": {
+    "folders": [
+      "business",
+      "china",
+      "china-v2",
+      "longform",
+      "scenes"
+    ],
+    "entries": [
+      "business-entry.tsx",
+      "china-entry.tsx",
+      "china-variety-entry.tsx",
+      "Root.tsx",
+      "Composition.tsx",
+      "index.ts"
+    ],
+    "files": 67,
+    "bytes": 428240,
+    "directTextReadCount": 66,
+    "fullyParsedCoordinatePayloadCount": 1,
+    "reviewMethod": "Read the complete actual code and text files in bounded tool outputs. The initial combined business output was truncated; PhotoScene, QuestionScene, README and Shared were reopened in full. All other listed source outputs were complete. Natural Earth JSON was parsed in full and every coordinate traversed instead of printing all numeric literals.",
+    "notClaimed": [
+      "Watching or listening to reference media",
+      "Reviewing new moving renders from these legacy branches",
+      "Externally revalidating all historical statistics",
+      "Font, artwork or aesthetic user approval",
+      "Model weight training",
+      "Deleting or rewriting historical branches"
+    ]
+  },
+  "latestUserPreference": "14 November 2026: prioritize economic content, readable Vietnamese typography, and a stationary character with gentle narration-cued turns. This explicitly supersedes earlier character acting requirements for this new film.",
+  "historicalStatus": [
+    {
+      "branch": "scenes + Composition",
+      "status": "The 50-second output was approved on 11 November. Later photo priority and no-branding requirements limit transfer to new films.",
+      "source": "AGENTS.md / APPROVED_BASELINE.md / REAL_IMAGE_DIRECTION.md"
+    },
+    {
+      "branch": "longform",
+      "status": "Five-minute output rejected on 12 November for too few online images and too much 3D. Retain as an archive, not the default.",
+      "source": "AGENTS.md / REAL_IMAGE_DIRECTION.md"
+    },
+    {
+      "branch": "business",
+      "status": "New ten-minute output pending feedback. Praise of the earlier grocery film did not approve this business film.",
+      "source": "AGENTS.md / BUSINESS_DIRECTION.md"
+    },
+    {
+      "branch": "china",
+      "status": "R02 rejected on 13 November for repeating a few visual styles. Shot counts and unique filenames did not establish diversity.",
+      "source": "AGENTS.md / CHINA_VARIETY.md"
+    },
+    {
+      "branch": "china-v2",
+      "status": "R03 visual revision pending actual user feedback. This source review does not promote it to user-approved.",
+      "source": "AGENTS.md / CHINA_VARIETY.md"
+    }
+  ],
+  "activeFiltering": [
+    {
+      "allow": "Neutral timing and source contracts, short arithmetic with units, proper contain fitting and native clip playback.",
+      "condition": "Require a new manifest, exact narration take, local Vietnamese font loading, current-topic semantics and rendered inspection."
+    },
+    {
+      "exclude": "Historical branding, the default old Root, unrelated trade/AI/China claims or assets, and dominant repeated geometry/conveyor/donut compositions.",
+      "condition": "Retain all historical files and exports; filter active imports and usage only."
+    },
+    {
+      "cast": "Stationary character with small turns at narration cues.",
+      "condition": "Do not restore walking, bobbing or lip movement simply because older branches contain those actions."
+    }
+  ],
+  "concreteFindings": [
+    {
+      "id": "branding-leak",
+      "files": [
+        "longform/Scene.tsx",
+        "scenes/Closing.tsx"
+      ],
+      "impact": "Hardcoded TYRANNO / EXPLAINED would violate the current unbranded-film requirement. The active economy entry does not import these components."
+    },
+    {
+      "id": "font-portability-and-fit",
+      "files": [
+        "business/Shared.tsx",
+        "china/Shared.tsx",
+        "china-v2/DataTradeScenes.tsx",
+        "china-v2/PeoplePrimitives.tsx",
+        "china-v2/VarietyFilm.tsx",
+        "longform/Scene.tsx"
+      ],
+      "impact": "Mixed system fonts without local readiness can change Vietnamese text metrics. Tight line-height and character-count wrapping cannot replace the current Be Vietnam Pro loading gate and actual frame inspection."
+    },
+    {
+      "id": "data-hardcoding",
+      "files": [
+        "longform/Objects.tsx",
+        "china-v2/DataTradeScenes.tsx",
+        "china-v2/PeopleScenes.tsx",
+        "china-v2/VarietyFilm.tsx"
+      ],
+      "impact": "Historical AI bars, China values and source-note IDs are coupled to specific scripts. Changing labels alone can create unsupported claims."
+    },
+    {
+      "id": "wrapper-count-is-not-variety",
+      "files": [
+        "longform/registry.ts",
+        "longform/scenes/"
+      ],
+      "impact": "Eighteen wrappers share one Scene/Objects grammar. Do not describe their names as eighteen independently developed visual treatments."
+    },
+    {
+      "id": "geometry-category",
+      "files": [
+        "china/SimulationScene.tsx",
+        "china-v2/SpatialScenes.tsx",
+        "china-v2/PeopleScenes.tsx"
+      ],
+      "impact": "These are SVG 2D/isometric drawings, not real moving footage or Three.js 3D. They explain marked illustrative mechanisms and do not establish photographed facts."
+    },
+    {
+      "id": "source-role-not-proof",
+      "files": [
+        "business/PhotoScene.tsx",
+        "china/ChinaFilm.tsx",
+        "china-v2/StoryScenes.tsx"
+      ],
+      "impact": "Credits, photo panel titles and cut alignment do not prove claim relevance. Hardcoded location labels must stay bound to the verified source asset."
+    }
+  ],
+  "directReadFiles": [
+    {
+      "path": "workflows/reference-video/cinematic/src/business/BusinessFilm.tsx",
+      "sha256": "86f473308d9921e3c9eb520542881d439b78cf70656dbe5ae36247add5f085ae",
+      "bytes": 2285,
+      "lines": 32,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-neutral-helper",
+      "observations": "Manifest-driven shots, captions and final audio; no channel branding. Caption font remains Arial, 34px and line-height 1.25. Last caption explicitly holds through the tail."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/ChartScene.tsx",
+      "sha256": "22861ea733e8240cc599ee12a21b589c704e8c422f2210ed87af7b6bebc62a3b",
+      "bytes": 6725,
+      "lines": 82,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-chart-helper",
+      "observations": "Authored values and units support bars, lines, break-even and waterfall. The last waterfall item is a balance anchored at zero. Automatic maximum mainly uses individual item magnitudes, so a new cumulative positive waterfall can exceed it; author the domain from cumulative extrema."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/CoffeeScene.tsx",
+      "sha256": "3959b435ea51f4b841400b985cadc683106ae15bf73820fd48ea509999a2972c",
+      "bytes": 4765,
+      "lines": 57,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "topic-specific-not-current-default",
+      "observations": "Actual Three.js cup and coins explain a coffee unit. The coffee topic, WebGL and moving coins are unnecessary for the current bread story; reuse only for a matching narrated mechanism."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/index.ts",
+      "sha256": "edd051a3e1b464e4af10f93b04ae8a2648b5456b2892b3e400545054cffa63a0",
+      "bytes": 152,
+      "lines": 2,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "neutral-export",
+      "observations": "Neutral exports for BusinessFilm and its types; no media or branding."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/PaperScene.tsx",
+      "sha256": "84ba0e6e53108f5694130b624b56b32a0c91d2d42cf9e674408069722baaa1e4",
+      "bytes": 3140,
+      "lines": 25,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-small-graphic",
+      "observations": "A contextual photo plus up to five receipt rows and one total can explain short arithmetic. Fixed sheet height and row spacing need review with longer Vietnamese text; do not make this a permanent dashboard."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/PhotoScene.tsx",
+      "sha256": "3068b9bf207ea7fca29bf37796e6e6d0dcd823cf761f283613e9445a0b0d9eb8",
+      "bytes": 2783,
+      "lines": 30,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-photo-helper",
+      "observations": "Uses at most three contextual media items with cuts at local cues. Contain photos preserve their full frame; clips remain at native speed. Manifest validation must check cue order and media duration."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/QuestionScene.tsx",
+      "sha256": "15fbe9cf73ff1c83a5479c789c888b3236ef53a69368346a6a0350073a942427",
+      "bytes": 1782,
+      "lines": 18,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-disclaimer-helper",
+      "observations": "Supports an explicit disclaimer and one large question. Headline character counts choose 80/100/128px; actual Vietnamese pixel width and diacritic bounds still need rendered review."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/README.md",
+      "sha256": "3afa5c8b08bd3c2321502bfcc2e6fa3d0c7ea253ef37782dd03e89e5ac38bde0",
+      "bytes": 3031,
+      "lines": 52,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "retain-workflow-contract",
+      "observations": "Documents layouts, frame cues, native media, final waterfall balance and actual rendered inspection. Correctly separates illustrative arithmetic from measurements and user approval."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/Shared.tsx",
+      "sha256": "af8a78b9b493243782098628f043e172ee13dac0292d046fa9511f0f51c49611",
+      "bytes": 4271,
+      "lines": 50,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "replace-typography-before-active-reuse",
+      "observations": "Uses system Bahnschrift/Arial, mixed Arial body text, and no local font loading gate. Tight headline line-height and negative spacing need review. Its single-image contain path does not have the two-layer stacking bug fixed in EconomyStory."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/SplitScene.tsx",
+      "sha256": "5397b0549f78b6f1c3b4d091cad3695703ff7d3534872d883bd626a918c3a517",
+      "bytes": 1930,
+      "lines": 28,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-comparison-helper",
+      "observations": "Two or three contextual comparison panels. Fixed bounds require short text. Missing secondary images fall back to the first image, so upstream validation must prevent unintended duplicate photos."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/types.ts",
+      "sha256": "51dd6583ed3dbad69edc367d2b0de0e3bc9475d3bcc9a7a9fca06ce68755ab70",
+      "bytes": 1465,
+      "lines": 47,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "reuse-contract-selectively",
+      "observations": "Useful contract for local cue frames, authored chart units, fixed costs and explicit phases/layouts. It does not verify claims, licenses or the identity of pictured businesses."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/ChartScene.tsx",
+      "sha256": "78f9173a95324745999292fabe851569070fdc208e8ee189db5cdcbbbcf9edc2",
+      "bytes": 5362,
+      "lines": 48,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-data-helper",
+      "observations": "Handles negative domains, actual numeric x coordinates, multiple series and cumulative waterfall values. Units and source periods remain external. Many labels may overlap; chart drawing is not data verification."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/ChinaFilm.tsx",
+      "sha256": "fdfe964fedbe326856723f14e474bb9fe4698375ab86e94326f796b8a0fe4ece",
+      "bytes": 2574,
+      "lines": 34,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-topic-branch",
+      "observations": "China-specific map, flow, chart, simulation and comparison dispatcher. Reuses neutral business photo/question primitives, with no old photos or coffee geometry. Inherits the older font setup."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/CompareScene.tsx",
+      "sha256": "8e3031050ae1c8432b9282f8547eee81f20d57623abef67274c70819ed72d708",
+      "bytes": 1829,
+      "lines": 20,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-comparison-helper",
+      "observations": "Up to three columns and optional rows. Fixed height and large titles/values need font fitting and rendered inspection for each new comparison."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/FlowScene.tsx",
+      "sha256": "04c2cefb8e17bf91508f08146560a0d67296d1c1f1f7b4bb5c78283733a93ee0",
+      "bytes": 2954,
+      "lines": 33,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "retain-as-historic-no-default",
+      "observations": "Directed nodes and ribbon widths use authored values and a schematic note. This repeated grammar was part of the rejected China approach; changing labels alone does not create a new visual treatment."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/geography/natural-earth-110m.json",
+      "sha256": "2ce99e35cb4a9f7e595e6abe8eec1b5a9de33d1c6518f45ef780f1a786b9b499",
+      "bytes": 208456,
+      "lines": 1,
+      "readMethod": "Full JSON parse and coordinate traversal; consumer code and source receipt read.",
+      "activeUseDecision": "conditional-data-asset",
+      "observations": "Parsed every feature and traversed 10,654 coordinate pairs: 177 features, 148 Polygon and 29 MultiPolygon. This is geography, not economic data. Structural inspection does not resolve territorial questions or prove every rendered label correct."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/geography/source-receipt.json",
+      "sha256": "42d0542520b9f21332da926b2f56b060c53e545ec493a98baa21bddb1acbd0e0",
+      "bytes": 1145,
+      "lines": 14,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "retain-source-receipt",
+      "observations": "Records Natural Earth public-domain origin, raw/render hashes, precision changes and neutral projection/boundary scope. No new external geographic verification was performed in this audit."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/index.ts",
+      "sha256": "32ab23595a3a751aa71d877f8d32feb504b3a635a46867d313354c174671d9f1",
+      "bytes": 118,
+      "lines": 2,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "neutral-export",
+      "observations": "Neutral exports for ChinaFilm and types only."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/MapScene.tsx",
+      "sha256": "0188b0d9cca2023fc7bcd95239ea4e03e5b823fe36c1c66ff6d891ac254292cd",
+      "bytes": 4896,
+      "lines": 57,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-geography-helper",
+      "observations": "Uses actual Natural Earth outlines and an Albers projection for China. World arcs are schematic connections, not verified shipping tracks. Preserve geographic source/boundary notes and inspect label collisions."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/README.md",
+      "sha256": "fc560d66a509126c9f2463540721361124a10081c0c17a08108c8568dc89ff00",
+      "bytes": 4020,
+      "lines": 68,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "retain-workflow-contract",
+      "observations": "Documents units, periods, schematic motion, geographic limits and local-frame cues. It does not claim source accuracy or aesthetic approval."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/Shared.tsx",
+      "sha256": "5236dcdd1a3c844559979d0d5e4297a44a9c46edceb828546df7cb9fa333e24c",
+      "bytes": 2720,
+      "lines": 34,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "replace-typography-before-active-reuse",
+      "observations": "Inherits Bahnschrift/Arial. SVG Lines wraps by character count rather than measured width, which can overflow fixed nodes with Vietnamese text. SourceNote displays text; it does not validate it."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/SimulationScene.tsx",
+      "sha256": "381c662c4e443395db442919bb009b2f9b49f5aae052e4285b2ef8aa86af0c63",
+      "bytes": 9181,
+      "lines": 86,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "rejected-full-film-baseline",
+      "observations": "Factory conveyor/boxes, normalized household donut, property flow houses and cohort bars share a small set of compositions. Preserve the historical repetition rejection. Schematic labels do not establish visual acceptance."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/types.ts",
+      "sha256": "61eca5572b64071d8b03d20f2b19a69df39eb8aab2135120b4e9e09db243ddbc",
+      "bytes": 1725,
+      "lines": 28,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "reuse-contract-selectively",
+      "observations": "Separates chart, map, flow, simulation and comparison fields. Link widths are authored. There is no built-in research verification or complete enforcement of statistical units."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/DataTradePreview.tsx",
+      "sha256": "a20d799c5780865d4435195f5205a892f23608208d8e16a885e8d77c672eb86b",
+      "bytes": 1154,
+      "lines": 17,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "qa-only-entry",
+      "observations": "An isolated 400-frame QA entry with a default f05 shot and older fonts. A preview is not production approval."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/DataTradeScenes.tsx",
+      "sha256": "3a4c2c28c77eb91203de3938ccd470d55c4d5bf2a2658f3e4fc7c1490c16cca8",
+      "bytes": 31112,
+      "lines": 376,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-data-no-blind-reuse",
+      "observations": "Thirteen ID-specific mechanisms distinguish imports in GDP, gross trade, profit and household income. The 10 minus 7 equals 3 example is marked fictional. Multiple NBS 2026 figures and periods are hardcoded; they are historical authored claims, not fresh data for a new topic."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/PeoplePreview.tsx",
+      "sha256": "21dee1c04686c7de1a23bfb38f5265a4b6bdf1bf6c5d94df1f3afc22f4d5f0af",
+      "bytes": 3129,
+      "lines": 35,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "qa-only-entry",
+      "observations": "Filters the people scene IDs only; fixed 17,913-frame duration and authored theme/title exceptions. It is not a generic full-film renderer."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/PeoplePrimitives.tsx",
+      "sha256": "1a45373ee0cd70530ce1c62a9581afa83f67a00f5e6ee6f599d060cd567131e7",
+      "bytes": 7560,
+      "lines": 85,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "selective-frozen-primitive-only",
+      "observations": "Original SVG people, houses, shops, coins, calendars, shields and buildings. Person arm, walk and seated props can act. Current user preference calls for a still character with slight turns; do not import moving actions by default."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/PeopleScenes.tsx",
+      "sha256": "1e2e3101fdafeb1076e79d8d5e0f5e91fb5307601ce199b74deaa179d0395cc8",
+      "bytes": 28369,
+      "lines": 372,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-actions-not-current-default",
+      "observations": "Fourteen ID-specific scenes include 50/25/25 jars, a 23% population grid at age 60+ for end-2025, an age-threshold safeguard, spending, warehouse and training scenes. China figures and the Jingshan/Beijing photo label are fixed to that script. Most timing uses normalized shot progress."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/SpatialScenes.tsx",
+      "sha256": "d3441bb2ef6fb6b67527c619139240e6dac122fd5c0c2f64f5d58c29d0097567",
+      "bytes": 26550,
+      "lines": 209,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-content-specific-mechanisms",
+      "observations": "Distinct assembly, cluster, warehouse, escrow, apartment and workbench actions add content variety. These are SVG 2D/isometric drawings, not Three.js. The eight capacity positions/five orders example is illustrative. Re-author fixed objects and timing for new topics; moving characters are unnecessary here."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/StoryPreview.tsx",
+      "sha256": "e55a21a7283b56938589c44e3bb55513656b67141cea65ba6bb3648ccee45f83",
+      "bytes": 1093,
+      "lines": 7,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "qa-only-entry",
+      "observations": "QA entry filters story modules only. It does not represent the complete film or its production audio."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/StoryScenes.tsx",
+      "sha256": "01128b94469aad6b93f87199d1d64e8cf368dbe72ab60f65c9402306746b56f5",
+      "bytes": 15813,
+      "lines": 94,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-structure-only",
+      "observations": "ID-specific atlas, disclaimer, source pages, photo interludes and CTA. Yangshan/Shanghai, Shenzhen and report dates are hardcoded. Full-photo cuts assume a two-item authored media deck; passing more images can index beyond its cut array."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/VarietyFilm.tsx",
+      "sha256": "382c0cea02576847d0b68f87fa90dabfb24a735f72449dc5a6eaff9ba3434991",
+      "bytes": 4707,
+      "lines": 55,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "pending-feedback-historic-branch",
+      "observations": "Distinct modules, palettes and eight-frame overlaps. Actual-data ID lists and source-note exceptions are hardcoded, so text-only reuse can retain a wrong source or period. No channel brand; old system fonts remain. Approval is pending."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/Composition.tsx",
+      "sha256": "79a933c008dc9f47da862ccd2234abf9f68245b85254cf4f62037aaca1a09bde",
+      "bytes": 2465,
+      "lines": 31,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "rejected-visual-baseline",
+      "observations": "Imports fixed public longform data and routes chapters through a shared Scene. Caption clock assumes 30fps. The transition and exact-mix architecture is historical context, not a return to the rejected dominant-3D baseline."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/Objects.tsx",
+      "sha256": "ac4968cb403965e535686c9eeb160537010012ccd4709dfee29552b87d83526e",
+      "bytes": 6945,
+      "lines": 100,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "rejected-dominant-geometry-baseline",
+      "observations": "Repeated chip, tasks, documents, people, clock, network, gate and steps geometry with periodic rotation. The 170/92 bars are hardcoded. Real Three.js geometry does not resolve the prior rejection for insufficient photographs and repetitive treatment."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/registry.ts",
+      "sha256": "f79c8accefcb323e6365a92e0270e8431cf3e872cfb41998e6beb49cecc33d96",
+      "bytes": 1372,
+      "lines": 20,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "retain-historic-registry",
+      "observations": "Eighteen named exports are thin wrappers around one Scene. Registry size does not establish eighteen independent visual grammars."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/Scene.tsx",
+      "sha256": "a44477b9ce72e70e33d400df48defea5cfb060baf31f72d2f140ae5bcad3706f",
+      "bytes": 4267,
+      "lines": 34,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "exclude-active-brand-and-template",
+      "observations": "Hardcodes TYRANNO / EXPLAINED at closing. Four fixed typing/worker/reviewer/office clips and shared left-text/right-object composition serve all wrappers. New imports could leak branding and unrelated assets."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Bundle.tsx",
+      "sha256": "99153c79d6351258b633ebf0294aaa10b9c7c3d3e396e66880d5cedd8497ebb7",
+      "bytes": 168,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Closing.tsx",
+      "sha256": "781df9586f7bef81dfc09a2e8a525b4f39d9ebb567ed1d02f366c64f7d2a642a",
+      "bytes": 169,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Company.tsx",
+      "sha256": "d72993a8a920a11708b095268c5965d29383501256d42839259a7529987d1d79",
+      "bytes": 169,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Context.tsx",
+      "sha256": "55aac670bc728e69a11e689ae44fc474dc1e876b82b5a9a96fab07a39cea2ff8",
+      "bytes": 169,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Economics.tsx",
+      "sha256": "1bfbe45b8500262a0700b4a5eadff6e797fd9750d3a11787bc21e57c2b18826a",
+      "bytes": 171,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Example.tsx",
+      "sha256": "5b38932aa45def794218b48c080ec191aa7c97027ece7a4878dd116ed1a9c35e",
+      "bytes": 169,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Experiment.tsx",
+      "sha256": "a72fd61227d455a99d5c0b4f9631e3c60ecdb8fac5c644f55bd3f0aa9e3a128e",
+      "bytes": 172,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Exposure.tsx",
+      "sha256": "bbbc1874be2fd30f47a042ea57448e4eb068ec9675478155c6da416e519f83c4",
+      "bytes": 170,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Forecast.tsx",
+      "sha256": "e6a2c3efb0079268e6d1a5344865b00978d214b126b75771e541e69c0259f66f",
+      "bytes": 170,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Hallucination.tsx",
+      "sha256": "76ce5ac913e4bdca22d964f0b747283f074be3e1ac6a40f1e971cca8e0078be0",
+      "bytes": 175,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Hook.tsx",
+      "sha256": "0dd64f126a2319ada1eb69928c65e81a7f614eb8d28409969343d37b5b7b8aff",
+      "bytes": 166,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Map.tsx",
+      "sha256": "3818c1e70e34daeec93d899566fd106aa5c29c9405398b1e7803c42d456237d5",
+      "bytes": 165,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Meaning.tsx",
+      "sha256": "cf9ad3723a178680179830f93c5a4ba88b8ddb99a0cded5d288351b88be17613",
+      "bytes": 169,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Measure.tsx",
+      "sha256": "a4e32fe9f91bbd4e6ee6bdc849e0e019de08aab5501a3091fffaa4534cd3da03",
+      "bytes": 169,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Physical.tsx",
+      "sha256": "c71f9a07e24fd67bc7fa8528f6240274d964c4c47b13f5150c5f813714d2f6c8",
+      "bytes": 170,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Portfolio.tsx",
+      "sha256": "7c3dc612e65288ec9ae41cff13b52dac4468ff3efb9d2e273e56f0f13fa6bff5",
+      "bytes": 171,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Review.tsx",
+      "sha256": "ae3a6d50d5d34471a220621456fd54e631253be5dad3c38f222407b97c6ac1e4",
+      "bytes": 168,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Skills.tsx",
+      "sha256": "4c030cd66265b8bab154804efd98d866d9e78582fbf4e4d928e63a729b27330d",
+      "bytes": 168,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-thin-wrapper",
+      "observations": "Three-line wrapper imports the shared longform Scene and Chapter type. It contains no independent artwork, data, camera or visual grammar. Retain it without counting it as a distinct implementation."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/types.ts",
+      "sha256": "27ddd6aeb922a8311187deef7656feb3bf9562c84e240edf02a05c1d5b557cce",
+      "bytes": 348,
+      "lines": 3,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-contract-only",
+      "observations": "Historical contract for local-frame beats and chapter source/text fields. No asset inspection, license or clause-to-image contract."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Closing.tsx",
+      "sha256": "db1df33da1e3daf8bf7774427e1dba362004205c8b662fd9824a2c5930cd7e39",
+      "bytes": 1057,
+      "lines": 12,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "exclude-active-brand",
+      "observations": "Hardcoded TYRANNO / EXPLAINED and trade closing copy. Preserve the old approved output, but exclude this component from the new unbranded story."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Flow.tsx",
+      "sha256": "2673dd1cafab02fe976dbd815f46a5bcc7997e2f47ecd4b98483aac81190a8cb",
+      "bytes": 903,
+      "lines": 13,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-topic-specific",
+      "observations": "Fixed trade-value, technology, design and brand words with Tokens geometry. It is not bread/inflation content."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Globe.tsx",
+      "sha256": "bde6b4d5c8c8f516277e1afe72272fe3ae70c9e73b3e7ed6221cf1804d675aa6",
+      "bytes": 1276,
+      "lines": 13,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-topic-specific",
+      "observations": "Hardcodes Vietnam trade and ten months of 2026. Its date and flows are not new-topic statistics."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Live.tsx",
+      "sha256": "b592356318bff085dca47a1eaaaf9017b01fd87a63833487c2f7930e756df0a6",
+      "bytes": 1460,
+      "lines": 12,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-actual-footage-helper",
+      "observations": "Uses two actual sewing MP4 files with a 42% cut and sewing/fabric/design words. Reuse requires matching sewing narration, licensed assets and sufficient non-repeated source intervals."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Numbers.tsx",
+      "sha256": "121d7067cb0bf10599f257f87caa7ff06fa76105efe929af17272648cc899ff4",
+      "bytes": 805,
+      "lines": 10,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-topic-specific",
+      "observations": "Fixed billion-dollar unit and digit treatment belong to the historical trade video, not a generic inflation renderer."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Thesis.tsx",
+      "sha256": "37df45ee94ec3424e1cbaa48044dcda786e6d25a3035daef26570934ff23f35f",
+      "bytes": 1232,
+      "lines": 14,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "conditional-concept-not-wholescene",
+      "observations": "Turnover is not profit is a useful concept, but containers and fixed trade headlines need topic-specific replacement before reuse."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business-entry.tsx",
+      "sha256": "277dfd37cbcc61e364adae0f81f2cf80570fce575f6d2bd4e5406675c2d05985",
+      "bytes": 570,
+      "lines": 9,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "neutral-isolated-entry",
+      "observations": "Isolated BusinessPreview with timeline metadata. No old-media import."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-entry.tsx",
+      "sha256": "4eec75794d22201f18da25ed313cba89f84a65090466db278823696d3e7ef80a",
+      "bytes": 533,
+      "lines": 9,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-isolated-entry",
+      "observations": "Isolated ChinaPreview with timeline metadata; this does not guarantee content diversity or voice quality."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-variety-entry.tsx",
+      "sha256": "9ff895ccda8ff3beb4dae08afb6bfc27738f1025917e2026688319a1e0deb008",
+      "bytes": 452,
+      "lines": 5,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-isolated-entry",
+      "observations": "Registers VarietyFilm under ChinaPreview. Select the explicit entry to avoid accidentally using the original China renderer."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Root.tsx",
+      "sha256": "aee54a79c4ffe126eb2344bcf2e0879122cc37c0eb959b382c9518f45ad64beb",
+      "bytes": 1497,
+      "lines": 24,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-multi-entry-not-current-import",
+      "observations": "Imports historical Motion3D, WorkAI5min, VisualWorkAI and public direction data. Using the default Root can activate unrelated legacy settings/assets. EconomyStory uses its own entry."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Composition.tsx",
+      "sha256": "2377d6a07dcf71b2858d7d6ed6b7fdca73a56715b5ce7a77d1852850b7bd71c4",
+      "bytes": 3105,
+      "lines": 44,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "approved-historic-only",
+      "observations": "The historical 50-second Motion3D trade film preserves six scenes, its mix and captions. That earlier approval does not approve its branding or graphics for later photo-led stories."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/index.ts",
+      "sha256": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74",
+      "bytes": 109,
+      "lines": 4,
+      "readMethod": "Complete verbatim text read. Initially truncated business middle files were reopened in full.",
+      "activeUseDecision": "historic-default-entry",
+      "observations": "Registers the historical main RemotionRoot. Current production must select the isolated economy-story entry explicitly."
+    }
+  ],
+  "retention": "Read-only review. No existing code, assets, audio, batches or approval history changed. Only this review JSON was authored."
+}

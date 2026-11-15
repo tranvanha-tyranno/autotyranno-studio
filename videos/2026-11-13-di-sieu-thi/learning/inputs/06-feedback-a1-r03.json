@@ -1,0 +1,46 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r03",
+  "dimension": "visual_relevance",
+  "decision": "revision_needed",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "a1-graphic-visibility",
+    "narration": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.",
+    "start": 176.43333333333334,
+    "end": 185.56666666666666
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "The actual r03 frame places the white headline over the black third checklist row Đồ ở nhà còn lại. Added type obscures the original prompt needed by the narrated comparison.",
+  "action": "Remove the competing headline and use contain for the complete checklist; inspect the actual new render again.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r03/long/final.mp4",
+      "sha256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee"
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-a1-r03.jpg",
+      "sha256": "96fbf2d8e4db656a1105630e58fa541865b9b0fc1f44fe22387f192de953186c"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/independent-r03-visual-review.md",
+      "sha256": "51c997465d9f60a78545aee25db83de8e8f234e6b4e3e0e859ef5197b0eaffef"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-loss-r03-review.md",
+      "sha256": "2352cb2d8e3565f60a66cd23a3d0e3ba55061f11c5928213a9b4145f5545bd52"
+    }
+  ]
+}

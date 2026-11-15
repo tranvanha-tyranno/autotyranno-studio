@@ -1,0 +1,1098 @@
+{
+  "schema": "reference-study-analysis/1",
+  "video_id": "3JUxxp2sIDM",
+  "title": "Chúng ta học được gì từ sự nổi tiếng của Huấn Hoa Hồng?",
+  "channel": "Lóng",
+  "url": "https://www.youtube.com/watch?v=3JUxxp2sIDM",
+  "duration_seconds": 803,
+  "language": "vi",
+  "study_date": "2026-11-13",
+  "scope": {
+    "complete_caption_read": true,
+    "blocks_reviewed": 14,
+    "sheets_opened": 27,
+    "sampled_frames_inspected": 260,
+    "additional_native_frames_opened": [
+      0.8,
+      90.5,
+      365,
+      494,
+      615,
+      648,
+      800
+    ],
+    "coverage": "Every consecutive interval 0–803 seconds, with complete captions and 5-second cadence plus large-change sampled visual evidence.",
+    "continuous_av_playback": false,
+    "audio_listened": false,
+    "limits": [
+      "Frame sampling cannot establish every rapid shot, exact transition timing, source motion quality, voice delivery, music or SFX.",
+      "Caption timings and supplied offsets are YouTube ASR timings, not independently forced aligned words.",
+      "Script-function beat boundaries are approximate reading boundaries, not editing decision list cut times.",
+      "Public-figure allegations, business figures and legal claims are described as the video’s claims; no independent fact verification was performed.",
+      "Attention and audience interpretations are hypotheses from the content, not measured viewer retention or demographic analytics.",
+      "Downloaded reference assets are for study; acquisition does not establish permission to republish."
+    ]
+  },
+  "structure_observation": {
+    "hook": {
+      "start": 0,
+      "end_approx": 91.5,
+      "mechanism": "Recognizable phenomenon → concrete viral clip → contradictory public image → consequence preview → central question."
+    },
+    "opening_disclaimer": {
+      "spoken_in_complete_captions": false,
+      "card_in_inspected_samples": false,
+      "description_disclaimer": true,
+      "qualification": "No opening disclaimer observed; sampling cannot rule out a very brief unsampled graphic."
+    },
+    "main": {
+      "start_approx": 91.5,
+      "end_approx": 667,
+      "mechanism": "Origin → platform opportunity → audience behaviour → monetisation → weakness → escalating chronology and reported investigation."
+    },
+    "case_caveat": {
+      "start_approx": 644.8,
+      "end_approx": 665.3,
+      "mechanism": "Initial investigation information is not a final determination; outcomes and responsibilities remain to be clarified."
+    },
+    "synthesis": {
+      "start_approx": 667,
+      "end_approx": 795.5,
+      "mechanism": "Attention can generate money and pressure escalation; durable success needs boundaries and responsibility."
+    },
+    "cta": {
+      "start_approx": 795.5,
+      "end": 803,
+      "action": "Subscribe to avoid missing future videos.",
+      "visible_ui_at": 800
+    },
+    "sponsor_ad": {
+      "observed_dedicated_segment": false,
+      "qualification": "Product-selling clips are examples in the case study; not identified as an external sponsor integration."
+    }
+  },
+  "angle_and_audience_inference": {
+    "surface": "A familiar Vietnamese internet personality and publicly reported episodes.",
+    "deeper_angle": "The attention economy, the conversion from audience to business, and the vulnerability of a personality-dependent business.",
+    "audience": "Vietnamese social media users who recognise memes/drama and want an explanatory, colloquial account; the closing also addresses creators.",
+    "not_known": "Actual demographic composition, watch-time graph, click-through rate and audience intent."
+  },
+  "visual_language_observation": [
+    "Alternates actual subject-related footage, vertical livestreams with blurred side fill, cutout photos, short 2D scenes, icons and sourced text excerpts.",
+    "White paper texture supports explanation/data; dark grid supports commentary/titles; source footage takes most of the screen when it matters.",
+    "Mascot supplies continuity and reaction; it is not evidence of a claim.",
+    "Information is often added one element at a time; sometimes the previous chart is blurred so spoken commentary can take priority.",
+    "No actual 3D geometry was identified in sampled frames; this study does not imply replacing the user’s retained photo/gallery 3D interface.",
+    "Direct semantic examples include the live fruit clip, book covers and price, transfer screenshot plus letter, audience-to-purchase diagram, and crowd holding phones.",
+    "Limitations include portrait/car footage under specific biography claims, no visible send action in the sharing cartoon, unseen multiplication during the pledge comparison, and icons that cannot establish allegations."
+  ],
+  "transcript_discrepancies": [
+    {
+      "start_approx": 614.68,
+      "caption": "300 triệu đồng",
+      "visible_at": 615,
+      "visible_label": "300 TỶ ĐỒNG",
+      "disposition": "Raw caption retained. On-screen discrepancy confirmed in native detail frame. No auditory or primary-source resolution; do not reuse either as verified fact."
+    },
+    {
+      "range": [
+        0,
+        803
+      ],
+      "issue": "Several names/slang and phrases appear mistranscribed.",
+      "disposition": "Analysis paraphrases script function instead of silently polishing ASR into authoritative quotations."
+    }
+  ],
+  "project_application": {
+    "do_now": "Save the observed mechanics and source evidence. Preserve all batches, the restored photo/gallery 3D interface and approved voice/sound.",
+    "do_not_infer": "This is not permission for a new video, a new visual redesign, asset republication, or a claim of training model weights.",
+    "user_structure_rule": "For future requested originals use hook → brief relevant disclaimer → main → actionable CTA. This rule comes from the user, not an observed opening sequence in this source.",
+    "image_rule": "Choose actual subject/action/object/state for each clause. For an abstract causal relation use one compact diagram in the retained interface; do not turn every clause into a dense dashboard."
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 60,
+      "sheets": [
+        "sheets/00-01.jpg",
+        "sheets/00-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 0,
+          "end": 9.5,
+          "narrated_idea": "Nhận diện hiện tượng và giọng kể châm biếm.",
+          "script_function": "Hook: nhân vật quen, năng lực gây chú ý khó giải thích.",
+          "visible_evidence": "0.8s dải ảnh khuôn mặt đang mở từ nền đen; 2–8s nhân vật, tiền/bài, cuộc gặp và mascot phản ứng.",
+          "semantic_match_and_limits": "Nhận diện đúng chủ thể; montage không chứng minh mức nổi tiếng hay toàn bộ nhận định.",
+          "attention_inference": "Tò mò vì người quen được mô tả bằng một nghịch lý; nhịp ảnh đổi nhanh đầu bài.",
+          "teaching": "Chọn chi tiết nhận diện thật trước khi nêu luận điểm, đừng dùng cảnh người dùng điện thoại bất kỳ.",
+          "transition": "So với công việc làm nội dung thông thường."
+        },
+        {
+          "start": 9.5,
+          "end": 13.5,
+          "narrated_idea": "Người làm content thông thường phải chuẩn bị nhiều bước.",
+          "script_function": "Đặt vế so sánh để làm bật sự tự phát của nhân vật.",
+          "visible_evidence": "9.5–10s nhân vật nữ hoạt hình trước laptop, điện thoại, đèn và bàn.",
+          "semantic_match_and_limits": "Hỗ trợ quá trình sản xuất nói chung; không thấy đủ mọi bước như viết kịch bản/dựng/thumbnail.",
+          "attention_inference": "So sánh gần gũi với creator, làm sự nổi tiếng có vẻ đáng giải thích.",
+          "teaching": "Một khung setup đủ cho ý khái quát; nếu kể từng thao tác thì cần hình từng thao tác.",
+          "transition": "Cắt sang ví dụ livestream thật."
+        },
+        {
+          "start": 13.5,
+          "end": 32.3,
+          "narrated_idea": "Một buổi nói chuyện/ăn lê tạo đoạn meme.",
+          "script_function": "Ví dụ cụ thể và trích clip nhân vật, ngắt lời dẫn.",
+          "visible_evidence": "13.5–30s video dọc người mặc áo đỏ cầm miếng trái cây; hai bên dùng bản phóng mờ. Phụ đề đánh dấu lời trích ở20.88–30.08s.",
+          "semantic_match_and_limits": "Đúng người, hành động cầm/ăn và nói; nguồn xuất xứ hay độ lan truyền không được xác thực chỉ bằng frame.",
+          "attention_inference": "Cho người xem nhận ra meme bằng chính ngữ cảnh gốc, giảm cảm giác người dẫn chỉ kể miệng.",
+          "teaching": "Khi câu nói là điểm hấp dẫn, cho clip đó có khoảng thở đủ dài; không phủ nhiều lớp dữ liệu.",
+          "transition": "Trở lại lời kể về nghịch lý hình ảnh."
+        },
+        {
+          "start": 32.3,
+          "end": 39.5,
+          "narrated_idea": "Quá khứ tai tiếng được đặt cạnh hiện tại.",
+          "script_function": "Gia tăng xung đột trong chân dung.",
+          "visible_evidence": "32–35s ảnh nhân vật cầm nhiều tiền; sau39.5s chuyển livestream áo hoa.",
+          "semantic_match_and_limits": "Ảnh tiền là ngữ cảnh phô trương, không chứng minh các hành vi quá khứ cụ thể trong lời.",
+          "attention_inference": "Đối lập khơi câu hỏi người này biến đổi hình ảnh thế nào.",
+          "teaching": "Ghi rõ điểm footage chỉ hỗ trợ chân dung; không dùng nó làm chứng cứ cáo buộc.",
+          "transition": "Chuyển sang vai nói đạo lý/kinh doanh."
+        },
+        {
+          "start": 39.5,
+          "end": 50,
+          "narrated_idea": "Hình ảnh người dạy cách sống và kiếm tiền trước công chúng.",
+          "script_function": "Phát triển nghịch lý nhân vật.",
+          "visible_evidence": "39.5–45s livestream dọc có chỉ báo trực tiếp, số người xem và reaction; nhân vật mặc áo hoa ngồi ghế.",
+          "semantic_match_and_limits": "Đúng hình thức phát biểu công khai; nội dung từng lời dạy cần nghe/đọc nguồn, không suy từ ảnh.",
+          "attention_inference": "Nguồn giao diện live nhắc đây là một màn trình diễn có khán giả.",
+          "teaching": "Giữ dấu vết định dạng nguồn khi nó giúp người xem hiểu cơ chế.",
+          "transition": "Mở rộng từ nhân vật thành thương hiệu kinh doanh."
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "narrated_idea": "Tuyên bố thay đổi hình ảnh và quy mô kinh doanh được quảng bá.",
+          "script_function": "Nâng stakes từ meme tới tiền/thương hiệu.",
+          "visible_evidence": "50–53s ngoài trời với nhóm người;55–58s xe và nhân vật chụp hình trước nhiều ô tô.",
+          "semantic_match_and_limits": "Có người và xe thật; không chứng minh giá trị doanh nghiệp hay quyền sở hữu mọi xe.",
+          "attention_inference": "Hình phô trương làm người xem cảm thấy mức chuyển đổi lớn.",
+          "teaching": "Không biến ảnh hàng hóa đắt tiền thành bằng chứng tài sản ròng.",
+          "transition": "Nối sang chuỗi ồn ào và cú rơi."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 24
+    },
+    {
+      "index": 1,
+      "start": 60,
+      "end": 120,
+      "sheets": [
+        "sheets/01-01.jpg",
+        "sheets/01-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 60,
+          "end": 76.5,
+          "narrated_idea": "Ồn ào liên tục giúp tên tuổi được nhắc lại nhưng khó giữ hào quang.",
+          "script_function": "Gieo mầm luận điểm chú ý/rủi ro.",
+          "visible_evidence": "60–75s thay các livestream áo vàng/áo hoa, reactions chạy dưới; mascot xuất hiện ở70–75s.",
+          "semantic_match_and_limits": "Nhận diện việc xuất hiện trên live; tính liên tục, mức độ drama là diễn giải lời kể.",
+          "attention_inference": "Báo trước cái giá để người xem chờ phần giải thích.",
+          "teaching": "Dùng đoạn tiếp nối cùng nhân vật giữ tính liên tục, không đổi chủ đề ảnh ngẫu nhiên.",
+          "transition": "Đưa ra dấu hiệu hậu quả."
+        },
+        {
+          "start": 76.5,
+          "end": 82,
+          "narrated_idea": "Đùa bằng ẩn dụ bóng đá để báo sự kiện pháp luật.",
+          "script_function": "Tăng stakes trong hook bằng một cú chuyển sắc.",
+          "visible_evidence": "76.5–80s người mặc đồ sọc cạnh cán bộ, góc phải ghi nguồn Bộ Công an; mascot cầm điện thoại.",
+          "semantic_match_and_limits": "Nguồn trên hình hỗ trợ bối cảnh làm việc với cơ quan; không tự xác minh bản án hay số lần vi phạm.",
+          "attention_inference": "Hình đổi rõ từ live vui sang cảnh chính thức.",
+          "teaching": "Có thể học cách thay loại hình để báo thay đổi stakes; không sao chép câu đùa kết tội.",
+          "transition": "Nêu câu hỏi trung tâm."
+        },
+        {
+          "start": 82,
+          "end": 91.5,
+          "narrated_idea": "Hỏi người này là ai, đi từ tai tiếng đến hiện tượng/kinh doanh thế nào.",
+          "script_function": "Chốt lời hứa video sau hook dài.",
+          "visible_evidence": "82–90s nhân vật ở bãi xe;90.5s chữ tiêu đề lớn trên cùng footage.",
+          "semantic_match_and_limits": "Đúng chủ thể, title xác định phạm vi; không có thẻ miễn trừ được quan sát ở các mẫu mở đầu.",
+          "attention_inference": "Khóa câu hỏi để người xem biết video sẽ trả lời gì.",
+          "teaching": "Một title ngắn dùng để định hướng, không nhồi bảng tóm tắt sau hook.",
+          "transition": "Từ hiện tượng chuyển sang xuất thân."
+        },
+        {
+          "start": 91.5,
+          "end": 112.5,
+          "narrated_idea": "Tên thật, xuất thân và nguồn năm sinh không thống nhất.",
+          "script_function": "Thông tin nền có thừa nhận bất định.",
+          "visible_evidence": "95–110s cutout trên nền giấy trắng; tên, ghim địa điểm và lịch/năm có dấu hỏi lần lượt được thêm.",
+          "semantic_match_and_limits": "Thông tin trên hình khớp loại dữ kiện lời kể và biểu thị năm chưa chắc chắn.",
+          "attention_inference": "Bớt chắc giọng ở chi tiết không thống nhất làm lời kể có vẻ có kiểm soát.",
+          "teaching": "Tạo một cảnh gọn, thêm đúng trường theo lời; dấu hỏi có chức năng, không cần bảng tiểu sử dày.",
+          "transition": "Giải thích nguồn tên gọi."
+        },
+        {
+          "start": 112.5,
+          "end": 120,
+          "narrated_idea": "Nguồn biệt danh được gán theo lời nhân vật tự kể.",
+          "script_function": "Chuyển từ dữ kiện nền sang đặc điểm thương hiệu.",
+          "visible_evidence": "115–120s clip dọc nhân vật áo vàng giơ cánh tay; có phụ đề gốc và mascot.",
+          "semantic_match_and_limits": "Hình cánh tay hỗ trợ chuyện hình xăm; lời kể được quy cho nhân vật chứ không chứng minh độc lập.",
+          "attention_inference": "Đưa lời tự kể ngắn tạo cảm giác cụ thể hơn.",
+          "teaching": "Phân biệt lời tự thuật với nguồn độc lập ngay trong câu dẫn.",
+          "transition": "Rời chuyện riêng, bàn sức nhớ của tên."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 18
+    },
+    {
+      "index": 2,
+      "start": 120,
+      "end": 180,
+      "sheets": [
+        "sheets/02-01.jpg",
+        "sheets/02-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 120,
+          "end": 123,
+          "narrated_idea": "Chủ động không đào sâu đời tư.",
+          "script_function": "Thu hẹp phạm vi, quay về bài toán thương hiệu.",
+          "visible_evidence": "120s tiếp clip giơ cánh tay rồi chuyển nền lưới.",
+          "semantic_match_and_limits": "Cùng nguồn của ý trước; không thêm dữ kiện đời tư.",
+          "attention_inference": "Câu bình luận nhẹ giúp thoát nhánh phụ nhanh.",
+          "teaching": "Cắt bớt tiểu tiết không phục vụ câu hỏi video.",
+          "transition": "Định giá tên gọi ở góc độ ghi nhớ."
+        },
+        {
+          "start": 123,
+          "end": 136.5,
+          "narrated_idea": "Tên gọi vừa nổi bật vừa lãng mạn; ví dụ tên thay thế được đem ra đùa.",
+          "script_function": "Giải thích khái niệm thương hiệu bằng đối chiếu gần gũi.",
+          "visible_evidence": "123–130s tên trên nền lưới;135s tên giả định trên hình xe buýt, mascot nói.",
+          "semantic_match_and_limits": "Chữ và xe buýt minh họa đúng phép so sánh, không được trình bày như nhà xe có thật.",
+          "attention_inference": "Hài hước giải áp sau chuỗi thông tin.",
+          "teaching": "Dùng một hình đúng nghĩa của phép ví von; phân biệt minh họa giả định.",
+          "transition": "Đặt mốc bắt đầu được chú ý."
+        },
+        {
+          "start": 136.5,
+          "end": 142.5,
+          "narrated_idea": "Mốc2015 và thời điểm nền tảng thuận lợi.",
+          "script_function": "Đặt nhân vật vào bối cảnh lịch sử công nghệ.",
+          "visible_evidence": "136.5–140s footage dọc khác, năm 2015 lớn giữa màn hình.",
+          "semantic_match_and_limits": "Mốc được nhìn thấy, nhưng footage không tự xác thực quay đúng năm đó.",
+          "attention_inference": "Một mốc to giúp người xem định vị chương mới.",
+          "teaching": "Đặt nhãn thời gian rõ, không nhầm nhãn do biên tập thêm với metadata nguồn.",
+          "transition": "Giải thích điều kiện smartphone/mạng."
+        },
+        {
+          "start": 142.5,
+          "end": 158.5,
+          "narrated_idea": "Điện thoại, mạng di động, Facebook và văn hóa hóng biến đổi khả năng tiếp cận.",
+          "script_function": "Giải thích bối cảnh nhân quả.",
+          "visible_evidence": "142.5–155s lần lượt icon điện thoại, trạm sóng, Facebook, người cầm máy;156.5s chèn cảnh máy bay/đám đông;158.5s giao diện Facebook.",
+          "semantic_match_and_limits": "Icon khớp các điều kiện công nghệ; máy bay/cảnh chèn chỉ hỗ trợ nhịp, không giải thích drama.",
+          "attention_inference": "Liệt kê tích lũy có hình đi theo từng danh từ.",
+          "teaching": "Học cách thêm từng thành phần cần thiết; không lấy mọi cảnh chuyển làm ví dụ khớp nghĩa.",
+          "transition": "Chuyển sang đặc tính livestream."
+        },
+        {
+          "start": 158.5,
+          "end": 166.5,
+          "narrated_idea": "Đối chiếu truyền hình truyền thống với phát sóng cá nhân.",
+          "script_function": "Đơn giản hóa thay đổi rào cản xuất bản.",
+          "visible_evidence": "158.5–160s Facebook;162–165s hội trường có logo VTV lớn.",
+          "semantic_match_and_limits": "Đúng hai đối tượng so sánh, không phải số liệu khán giả.",
+          "attention_inference": "Một chuẩn cũ quen thuộc làm thay đổi công nghệ dễ hiểu.",
+          "teaching": "Chọn hai vế đối chiếu nhìn ra ngay, giữ chữ tối thiểu.",
+          "transition": "Cho thao tác điện thoại làm vế mới."
+        },
+        {
+          "start": 166.5,
+          "end": 172,
+          "narrated_idea": "Chỉ cần điện thoại để lên sóng.",
+          "script_function": "Trả vế còn lại của phép so sánh.",
+          "visible_evidence": "166.5–170s tay giữ điện thoại quay một người phía trước, ngón tay cạnh nút quay; mascot thêm phía dưới.",
+          "semantic_match_and_limits": "Thấy thao tác ghi hình; không chắc đang phát trực tiếp thay vì ghi video.",
+          "attention_inference": "Biến ý công nghệ trừu tượng thành thao tác.",
+          "teaching": "Cần phân biệt ghi hình và livestream nếu câu mới cần chứng minh trạng thái LIVE.",
+          "transition": "Mở montage các hiện tượng mạng."
+        },
+        {
+          "start": 172,
+          "end": 180,
+          "narrated_idea": "Nhiều kiểu nhân vật mạng xuất hiện cùng làn sóng.",
+          "script_function": "Dẫn nhân vật chính về một hệ sinh thái, không coi là trường hợp biệt lập.",
+          "visible_evidence": "172–175s ba clip nhỏ bo góc viền đỏ trên nền lưới, mỗi clip một người/khung cảnh.",
+          "semantic_match_and_limits": "Nhận diện lớp ví dụ; tên cụ thể trong ASR có lỗi nên không chép làm dữ kiện.",
+          "attention_inference": "Đổi bố cục từ một cảnh sang montage tăng nhịp đầu chương.",
+          "teaching": "Một montage chỉ chứa ví dụ đang được kể; không thêm ảnh dư để lấp khoảng.",
+          "transition": "Quay lại công thức riêng của nhân vật chính."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 20
+    },
+    {
+      "index": 3,
+      "start": 180,
+      "end": 240,
+      "sheets": [
+        "sheets/03-01.jpg",
+        "sheets/03-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 180,
+          "end": 196.5,
+          "narrated_idea": "Mỗi ngày có thứ mới: xe, đạo lý, giao lưu, kể chuyện, cãi vã.",
+          "script_function": "Giải thích lịch chương trình khiến khán giả tò mò.",
+          "visible_evidence": "180–195s cutout cầm tiền trên nền lưới; các nhãn hành vi lần lượt xuất hiện quanh người;195s thêm mascot.",
+          "semantic_match_and_limits": "Nhãn khớp danh sách nhưng cutout không chứng minh mọi hành vi.",
+          "attention_inference": "Người xem nhận ra đây là chuỗi nội dung có biến số.",
+          "teaching": "Một chủ thể với vài nhãn ngắn gọn có thể rõ hơn sáu ảnh rời rạc.",
+          "transition": "Giải thích vì sao live làm tò mò mạnh hơn."
+        },
+        {
+          "start": 196.5,
+          "end": 206.5,
+          "narrated_idea": "Bản ghi xem sau được nhưng live có thể có biến bất kỳ lúc nào.",
+          "script_function": "Nêu cơ chế sợ bỏ lỡ.",
+          "visible_evidence": "196.5–205s mô phỏng LIVE bằng nhân vật nữ, bàn, điện thoại, laptop, nút share/comment và reactions.",
+          "semantic_match_and_limits": "Đúng bối cảnh live; không thể nhìn thấy trực tiếp tâm lý sợ bỏ lỡ trong frame.",
+          "attention_inference": "Tình huống chưa kết thúc là lý do tiếp tục ở lại, theo diễn giải của người dẫn.",
+          "teaching": "Minh họa cơ chế bằng trạng thái trình chiếu/khán giả, không tuyên bố dữ liệu retention.",
+          "transition": "Tách ba nhóm động cơ xem."
+        },
+        {
+          "start": 206.5,
+          "end": 217.5,
+          "narrated_idea": "Người thích, ghét, tò mò đều xem; khán giả kéo thêm khán giả.",
+          "script_function": "Mô hình khán giả hỗn hợp và lan truyền.",
+          "visible_evidence": "206.5–215s live nhân vật áo vàng, ba nhân vật hoạt hình lần lượt thêm ở tiền cảnh.",
+          "semantic_match_and_limits": "Các nhóm phản ứng được ký hiệu hóa; chưa thể thấy bằng chứng tag bạn cụ thể.",
+          "attention_inference": "Người xem được tự đối chiếu mình vào một nhóm.",
+          "teaching": "Thêm người xem theo lời để biểu diễn phạm vi, đừng chỉ đổi ảnh chủ thể.",
+          "transition": "Đưa luận điểm không cần ai cũng thích."
+        },
+        {
+          "start": 217.5,
+          "end": 228.5,
+          "narrated_idea": "Không cần được tất cả yêu thích, chỉ cần có lý do để họ xem.",
+          "script_function": "Câu chốt luận điểm hành vi.",
+          "visible_evidence": "217.5–225s chuyển một nhân vật hoạt hình cầm điện thoại trong phòng ngủ, nét mặt nghiêm/khó chịu.",
+          "semantic_match_and_limits": "Có hành động xem; thái độ được mã hóa bằng hoạt hình, không phải quan sát người thật.",
+          "attention_inference": "Đảo kỳ vọng giữa yêu thích và chú ý.",
+          "teaching": "Cần quan hệ hành động rõ: người đang xem chủ thể nào; biểu cảm bổ sung chứ không thay bằng chứng.",
+          "transition": "Từ một người chuyển sang chuỗi chia sẻ."
+        },
+        {
+          "start": 228.5,
+          "end": 239,
+          "narrated_idea": "Người xem gửi tiếp cho bạn, rồi bạn gửi tiếp.",
+          "script_function": "Diễn giải vòng lan truyền theo cấp.",
+          "visible_evidence": "228.5–235s tách màn hình từ hai sang ba phòng, mỗi người cầm điện thoại.",
+          "semantic_match_and_limits": "Quan hệ nhiều người xem rõ; trong frame không thấy nút gửi hoặc nội dung tin nhắn cụ thể.",
+          "attention_inference": "Tăng số khung theo số mắt xích làm ý khuếch tán dễ hiểu.",
+          "teaching": "Giữ sự nhất quán ví dụ; có thể thêm đường nối/gửi nếu động từ là mấu chốt.",
+          "transition": "Trở lại cách tạo nhận diện mạnh."
+        },
+        {
+          "start": 239,
+          "end": 240,
+          "narrated_idea": "Mở ý xây hình ảnh dễ nhận ra.",
+          "script_function": "Cầu nối cơ chế lan truyền sang thương hiệu.",
+          "visible_evidence": "239s cắt từ hoạt hình sang footage nhân vật đi ngoài đường mặc áo hoa.",
+          "semantic_match_and_limits": "Nhận diện bắt đầu khớp trực tiếp kiểu ăn mặc.",
+          "attention_inference": "Đổi loại hình báo tiểu mục mới.",
+          "teaching": "Cắt khi ý đổi, không cần transition dài.",
+          "transition": "Tiếp tục mô tả dấu hiệu nhận diện."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 20
+    },
+    {
+      "index": 4,
+      "start": 240,
+      "end": 300,
+      "sheets": [
+        "sheets/04-01.jpg",
+        "sheets/04-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 240,
+          "end": 260.5,
+          "narrated_idea": "Áo hoa, tiền, xe, phong thái và tranh cãi tạo phản ứng mạnh; thành thương hiệu cá nhân.",
+          "script_function": "Tóm cơ chế nhận diện trước bước kiếm tiền.",
+          "visible_evidence": "240–253s nhân vật áo họa tiết, đoàn xe ngoài đường, trong showroom;255–258.5s ảnh buổi sự kiện trước cửa hàng.",
+          "semantic_match_and_limits": "Khớp áo/xe/bối cảnh bán hàng; không chứng minh mọi câu nói hoặc phản ứng của khán giả.",
+          "attention_inference": "Đối lập thích–ghét được khép bằng một kết quả: khó bỏ qua.",
+          "teaching": "Hình thật phục vụ dấu hiệu cụ thể, không thay bằng ảnh xe bất kỳ.",
+          "transition": "Nêu câu hỏi thương hiệu đổi ra tiền bằng gì."
+        },
+        {
+          "start": 260.5,
+          "end": 276.5,
+          "narrated_idea": "Người theo dõi đông chưa tự thành tiền; cần một cơ chế chuyển đổi.",
+          "script_function": "Câu hỏi chuyển chương có tính kinh doanh.",
+          "visible_evidence": "260–263s vẫn footage bãi xe;265–275s ảnh profile Facebook có 3,7 triệu người theo dõi và mascot.",
+          "semantic_match_and_limits": "Số follower nằm cạnh đúng tài khoản trong ảnh; không phải số khách hàng hay doanh thu.",
+          "attention_inference": "Mở một khoảng trống kiến thức sau khi vừa giải thích sự nổi tiếng.",
+          "teaching": "Chỉ ra đúng chỉ số đang nói và giới hạn của nó.",
+          "transition": "Dẫn phép thử bán sách."
+        },
+        {
+          "start": 276.5,
+          "end": 287.8,
+          "narrated_idea": "Lần thử bán bộ sách được giới thiệu bằng mốc thời gian/tên sản phẩm.",
+          "script_function": "Ví dụ kinh doanh đầu tiên.",
+          "visible_evidence": "280s nhân vật cầm hai bìa sách,285s các sách được bày trong clip nhân vật.",
+          "semantic_match_and_limits": "Đúng vật thể sản phẩm và chủ thể; tình trạng pháp lý chưa thể suy ra từ bìa.",
+          "attention_inference": "Vật cụ thể nối câu hỏi tiền với câu chuyện có thể theo dõi.",
+          "teaching": "Khi nói một sản phẩm, cho thấy đúng sản phẩm và phần nhận diện cần thiết.",
+          "transition": "Nêu giá và chuẩn so sánh."
+        },
+        {
+          "start": 287.8,
+          "end": 292.5,
+          "narrated_idea": "Giá bộ sách được nêu và đánh giá là cao.",
+          "script_function": "Cụ thể hóa stakes bằng con số.",
+          "visible_evidence": "290s chữ799K lớn trên clip/bìa sách, mặt nhân vật được làm pixel.",
+          "semantic_match_and_limits": "Khớp giá được nguồn video tuyên bố, chưa xác minh nguồn giá độc lập.",
+          "attention_inference": "Con số tương đối cao tạo bất ngờ và câu hỏi vì sao mua.",
+          "teaching": "Giá phải đi cùng đơn vị/bộ sản phẩm, không làm số đứng lẻ.",
+          "transition": "Đối chiếu mặt bằng sách khác."
+        },
+        {
+          "start": 292.5,
+          "end": 300,
+          "narrated_idea": "So sánh với giá sách kinh tế thường được xuất bản.",
+          "script_function": "Thiết lập chuẩn để người xem hiểu mức giá.",
+          "visible_evidence": "292.5–295s icon quyển sách trên nền trắng;300s giá100–200K được thêm.",
+          "semantic_match_and_limits": "Khớp loại đối tượng so sánh; không có danh sách nguồn khảo sát giá trong frame.",
+          "attention_inference": "Chuẩn tham chiếu giúp con số trước có ý nghĩa.",
+          "teaching": "Phân biệt so sánh của người dẫn và số đã kiểm chứng; ưu tiên chung thang đo.",
+          "transition": "Nhấn rằng giá không phải vấn đề lớn nhất."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 23
+    },
+    {
+      "index": 5,
+      "start": 300,
+      "end": 360,
+      "sheets": [
+        "sheets/05-01.jpg",
+        "sheets/05-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 300,
+          "end": 304.5,
+          "narrated_idea": "Giá cao chỉ là tầng đầu của vấn đề.",
+          "script_function": "Mini-hook nâng mức nghiêm trọng.",
+          "visible_evidence": "300–305s icon sách và100–200K, mascot xuất hiện hai phía.",
+          "semantic_match_and_limits": "Khớp đối tượng, chưa có bằng chứng mới.",
+          "attention_inference": "Cụm chuyển nghĩa kéo sự chú ý từ bình luận giá sang sự kiện.",
+          "teaching": "Dùng lời báo trước ngắn rồi đưa nguồn ngay.",
+          "transition": "Chuyển sang đoạn báo tường thuật."
+        },
+        {
+          "start": 304.5,
+          "end": 316,
+          "narrated_idea": "Lời tường thuật về tổng hợp nội dung và xuất bản.",
+          "script_function": "Đưa nguồn cho nhận định nhạy cảm.",
+          "visible_evidence": "310–315s đoạn bài báo trên nền giấy, một đoạn tô vàng, nhãn nguồn VietNamNet ở dưới.",
+          "semantic_match_and_limits": "Thấy rõ hình thức trích dẫn và highlight; đọc toàn văn/nguồn gốc cần tài liệu gốc, không xác minh bằng screenshot nhỏ.",
+          "attention_inference": "Đổi từ ý kiến sang tài liệu làm nhịp kể có trọng lượng.",
+          "teaching": "Cắt gọn đúng đoạn nguồn, tăng cỡ vùng cần đọc; không chỉ logo báo để hợp thức hóa kết luận.",
+          "transition": "Nêu hệ quả xử phạt trong lời kể."
+        },
+        {
+          "start": 316,
+          "end": 324,
+          "narrated_idea": "Cộng hai khoản phạt thành tổng.",
+          "script_function": "Khóa ví dụ bằng hậu quả và phép tính đơn giản.",
+          "visible_evidence": "320s: 15 triệu và 2.5 triệu trên footage bàn làm việc;324s: 17.5 triệu thay tổng.",
+          "semantic_match_and_limits": "Phép cộng hiện rõ, quan hệ số khớp lời; footage không tự chứng minh toàn bộ quyết định.",
+          "attention_inference": "Kết quả cụ thể khép vòng câu chuyện sách.",
+          "teaching": "Hiện số hạng trước và tổng sau đúng câu; không cần bảng dài.",
+          "transition": "Chuyển sang mô hình kiếm tiền khác."
+        },
+        {
+          "start": 324,
+          "end": 338.5,
+          "narrated_idea": "Chuyển từ sách sang livestream nước hoa/mỹ phẩm.",
+          "script_function": "Ví dụ thứ hai để so sánh mô hình.",
+          "visible_evidence": "325–340s livestream dọc nhân vật cùng người phụ nữ, có vật hình hộp/chai trên tay, UI và reactions.",
+          "semantic_match_and_limits": "Đúng định dạng bán hàng và sản phẩm liên quan; không xác minh doanh thu.",
+          "attention_inference": "Tạo cảm giác nhân vật tìm một cách thực tế hơn.",
+          "teaching": "Cho thấy đúng kênh bán và vật được bán thay vì stock người mua sắm.",
+          "transition": "Giải thích vì sao nước hoa phù hợp."
+        },
+        {
+          "start": 338.5,
+          "end": 353,
+          "narrated_idea": "Nước hoa khó được ngửi qua màn hình nên việc mua phụ thuộc lời giới thiệu/tin cậy.",
+          "script_function": "Giải thích đặc tính sản phẩm tạo lợi thế bán hàng.",
+          "visible_evidence": "340s tiếp live;345–350s icon chai nước hoa có hơi, nhân vật người bán/người mua lần lượt xuất hiện trên nền trắng.",
+          "semantic_match_and_limits": "Khớp nước hoa và quan hệ hai bên; không chứng minh niềm tin của khách cụ thể.",
+          "attention_inference": "Một chi tiết cảm giác dễ hiểu chuyển dữ kiện thành lý do.",
+          "teaching": "Chọn đặc tính của vật thật để làm nền cho cơ chế, đừng coi icon là chứng cứ khảo sát.",
+          "transition": "Nối lợi thế với lượng follower có sẵn."
+        },
+        {
+          "start": 353,
+          "end": 360,
+          "narrated_idea": "Lượng theo dõi trở thành nguồn khách tiềm năng.",
+          "script_function": "Nối nhận diện với kinh doanh.",
+          "visible_evidence": "353–355s icon nhóm người,360s thêm nhãn 3,7 triệu.",
+          "semantic_match_and_limits": "Khớp số người theo dõi được kể; không được gọi toàn bộ là khách đã mua.",
+          "attention_inference": "Lặp lại số từ chương trước giúp người xem giữ trục câu chuyện.",
+          "teaching": "Tái sử dụng cùng biểu tượng/số khi theo cùng biến số.",
+          "transition": "Chuẩn bị sơ đồ chuyển đổi."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 14
+    },
+    {
+      "index": 6,
+      "start": 360,
+      "end": 420,
+      "sheets": [
+        "sheets/06-01.jpg",
+        "sheets/06-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 360,
+          "end": 366.5,
+          "narrated_idea": "Một phần follower xem live, một phần chốt đơn, tạo doanh thu.",
+          "script_function": "Giải thích phễu chuyển đổi theo từng bước.",
+          "visible_evidence": "360–365s nhóm 3,7 triệu → một người → hóa đơn → tiền, mũi tên nét đứt; đã mở detail 365s.",
+          "semantic_match_and_limits": "Quan hệ chuyển đổi hiển thị trực tiếp; không có tỷ lệ chuyển đổi hoặc số doanh thu thật.",
+          "attention_inference": "Khép câu hỏi4:24 bằng một chuỗi nhìn thấy được.",
+          "teaching": "Chỉ vẽ các mắt xích lời nêu, phân biệt mô hình khái niệm với dữ liệu đo.",
+          "transition": "Quay lại hoạt động live làm ví dụ."
+        },
+        {
+          "start": 366.5,
+          "end": 373.5,
+          "narrated_idea": "Lời kể mô tả mảng bán thường xuyên và dòng tiền đều hơn.",
+          "script_function": "Đánh giá kết quả của mô hình.",
+          "visible_evidence": "366.5–370s clip dọc có ô sản phẩm và nút mua, mascot cầm tiền.",
+          "semantic_match_and_limits": "Đúng hoạt động chốt bán; không chứng minh ổn định doanh thu theo thời gian.",
+          "attention_inference": "Đưa mô hình về hoạt động nhận ra được.",
+          "teaching": "Không lấy footage bán hàng làm bằng chứng mức dòng tiền.",
+          "transition": "Mở rộng phạm vi sang hệ thống doanh nghiệp."
+        },
+        {
+          "start": 373.5,
+          "end": 386,
+          "narrated_idea": "Nhiều doanh nghiệp và các nhóm ngành.",
+          "script_function": "Mở rộng quy mô hệ thống, dẫn nguồn đăng ký theo báo chí.",
+          "visible_evidence": "375s chuyển trắng;380s sáu icon tòa nhà;385s thêm icon ngành vào mỗi nhà.",
+          "semantic_match_and_limits": "Số lượng và nhóm ngành được minh họa; không phải ảnh đăng ký doanh nghiệp nguyên bản.",
+          "attention_inference": "Tích lũy từng icon tránh đọc cả danh sách dày.",
+          "teaching": "Ghi nguồn trong hồ sơ; sơ đồ tóm tắt không thay chứng từ.",
+          "transition": "Chọn một doanh nghiệp tiêu biểu để đào sâu."
+        },
+        {
+          "start": 386,
+          "end": 399,
+          "narrated_idea": "Doanh nghiệp tiêu biểu, vốn/ngành/vai trò của nhân vật.",
+          "script_function": "Zoom từ mạng lưới sang một ví dụ có số.",
+          "visible_evidence": "386.5–395s một tòa nhà lớn, tênHL Group, mốc2/2022, vốn/ngành, cutout nhân vật;399s nền mờ và mascot lên trước.",
+          "semantic_match_and_limits": "Đúng cấu trúc trường dữ liệu; vốn điều lệ không được suy thành tiền mặt/lợi nhuận.",
+          "attention_inference": "Một ví dụ đủ cụ thể để tránh liệt kê dàn trải.",
+          "teaching": "Mỗi số gắn nhãn đúng bản chất, giữ chủ thể nhất quán.",
+          "transition": "Tổng hợp lợi thế và chuyển sang điểm yếu."
+        },
+        {
+          "start": 399,
+          "end": 408.5,
+          "narrated_idea": "Tận dụng sự chú ý để kinh doanh.",
+          "script_function": "Câu tổng hợp/mốc nghỉ sau chuỗi số liệu.",
+          "visible_evidence": "399–410s tóm tắt doanh nghiệp làm mờ sau mascot phản ứng.",
+          "semantic_match_and_limits": "Nền bị làm mờ chủ động để nhường lời bình, không đưa bằng chứng mới.",
+          "attention_inference": "Giảm yêu cầu đọc, cho người xem hấp thụ kết luận.",
+          "teaching": "Đừng giữ dữ liệu sắc nét khi lời đã rời khỏi nó.",
+          "transition": "Đưa quan hệ phụ thuộc hình ảnh ra mặt trái."
+        },
+        {
+          "start": 408.5,
+          "end": 420,
+          "narrated_idea": "Cùng sự chú ý có thể làm việc kinh doanh rủi ro.",
+          "script_function": "Lật lợi thế thành điểm yếu, cầu sang cao trào.",
+          "visible_evidence": "411.5–415s nhân vật trước xe;416.5–420s clip phỏng vấn, watermark60GIAY.COM.",
+          "semantic_match_and_limits": "Đúng nhân vật/hình ảnh công khai; chưa trực quan hóa sự sụt giảm kinh doanh.",
+          "attention_inference": "Đảo hướng từ thành công sang chi phí của mô hình.",
+          "teaching": "Không cần tạo dashboard giả để kể rủi ro; giữ hình nguồn liên quan và diễn đạt đúng mức.",
+          "transition": "Nêu một chuỗi sự kiện làm phép thử."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 19
+    },
+    {
+      "index": 7,
+      "start": 420,
+      "end": 480,
+      "sheets": [
+        "sheets/07-01.jpg",
+        "sheets/07-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 420,
+          "end": 435.8,
+          "narrated_idea": "Tóm nhanh đường leo thang từ hỗ trợ vùng lũ tới điều tra.",
+          "script_function": "Báo trước cao trào rồi quay về kể từng bước.",
+          "visible_evidence": "420s phỏng vấn;424.5–430s nhóm người trên đường đất/nhận trao vật;435s nhân vật đồ sọc cạnh lực lượng chức năng.",
+          "semantic_match_and_limits": "Có sự thay đổi bối cảnh rõ; không xác minh nhân quả pháp lý chỉ qua montage.",
+          "attention_inference": "Cho biết hậu quả lớn để người xem muốn hiểu quá trình.",
+          "teaching": "Dùng preview ngắn rồi làm rõ trình tự, tránh lẫn cáo buộc với kết luận.",
+          "transition": "Đặt mốc khởi đầu chuỗi."
+        },
+        {
+          "start": 435.8,
+          "end": 448.5,
+          "narrated_idea": "Mốc thời gian, vùng lũ, nhóm người hỗ trợ.",
+          "script_function": "Định vị sự kiện và nhân vật liên quan.",
+          "visible_evidence": "436.5–440s cảnh bùn/gỗ ngổn ngang với chữ tháng 7/2026;442.5–448s footage dọc nhóm người đưa/gặp người dân.",
+          "semantic_match_and_limits": "Khớp thiên tai và hành động gặp/trao; địa điểm và ngày do lời/nhãn cung cấp, chưa độc lập xác thực.",
+          "attention_inference": "Đưa người xem từ khái quát về một tình huống cụ thể.",
+          "teaching": "Footage phải đúng loại hiện trường; nhãn không thay chứng cứ ngày/địa điểm.",
+          "transition": "Nêu số được nhân vật công bố."
+        },
+        {
+          "start": 448.5,
+          "end": 457.5,
+          "narrated_idea": "Các khoản nhận/chi được quy cho bài công bố.",
+          "script_function": "Đưa đầu mối nguồn thay vì chỉ nói số.",
+          "visible_evidence": "450–455s bài đăng Facebook có văn bản phía trên và video phía dưới đặt trên nền lưới.",
+          "semantic_match_and_limits": "Đúng dạng nguồn tự công bố; không xác minh sổ sách hay tiền thực nhận/chi.",
+          "attention_inference": "Chuyển từ montage sang vật chứng có thể xem lại.",
+          "teaching": "Ghi rõ ai công bố; nếu số quan trọng cần phóng đúng dòng chứ không để chữ nhỏ.",
+          "transition": "Tạm hạ nhịp rồi thêm nút thắt."
+        },
+        {
+          "start": 457.5,
+          "end": 467.5,
+          "narrated_idea": "Nếu chỉ hỗ trợ thì không có chuyện, nhưng tranh cãi xuất hiện.",
+          "script_function": "Câu rẽ nhân quả tạo nút thắt.",
+          "visible_evidence": "455–465s tiếp bài đăng và mascot xuất hiện trước nền, sau467.5s cắt live người khác.",
+          "semantic_match_and_limits": "Ảnh hỗ trợ lời chuyển; không trực quan hóa động cơ cá nhân.",
+          "attention_inference": "Câu giả định nếu dừng tại đây mở kỳ vọng về biến cố sắp tới.",
+          "teaching": "Phân biệt lời bình về động cơ với sự kiện quan sát được.",
+          "transition": "Giới thiệu người đối thoại và thách thức."
+        },
+        {
+          "start": 467.5,
+          "end": 480,
+          "narrated_idea": "Hai phía lời qua tiếng lại và đưa ra thách thức quyên góp.",
+          "script_function": "Xung đột có điều kiện/khoản tiền làm trục.",
+          "visible_evidence": "467.5–470s clip dọc người đàn ông khác;474–480s clip nhân vật chính có chữ về tuyên bố bỏ tiền.",
+          "semantic_match_and_limits": "Đúng hai bên đang phát biểu; xác nhận lời thách thức cần nguồn nghe/đọc đầy đủ.",
+          "attention_inference": "Một điều kiện cụ thể tạo mong chờ người kia đáp thế nào.",
+          "teaching": "Cho thấy lời tuyên bố cùng chủ thể, không dùng stock chuyển tiền thay phát biểu.",
+          "transition": "Đưa phản hồi bằng tài liệu."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 23
+    },
+    {
+      "index": 8,
+      "start": 480,
+      "end": 540,
+      "sheets": [
+        "sheets/08-01.jpg",
+        "sheets/08-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 480,
+          "end": 493,
+          "narrated_idea": "Chứng từ chuyển tiền và thư cảm ơn được đưa vào.",
+          "script_function": "Bằng chứng nguồn trong tuyến đối đáp.",
+          "visible_evidence": "482–485s screenshot giao dịch;490s thêm thư cảm ơn có tiêu đề/cơ quan/dấu ở cạnh.",
+          "semantic_match_and_limits": "Khớp hai tài liệu lời nhắc; hình chụp chưa chứng minh xác thực ngân hàng hay mọi khoản.",
+          "attention_inference": "Người xem có vật để đối chiếu thay vì chỉ hai người cãi nhau.",
+          "teaching": "Mỗi con số quan trọng nên có tài liệu tương ứng, phóng phần liên quan.",
+          "transition": "Chuyển sự chờ đợi sang người ra kèo."
+        },
+        {
+          "start": 493,
+          "end": 505,
+          "narrated_idea": "Trách nhiệm đối ứng và lời giải thích không thực hiện tuyên bố.",
+          "script_function": "Trả câu hỏi vừa mở và lật kỳ vọng.",
+          "visible_evidence": "493–500s livestream nhân vật ngoài trời cùng mascot; không thấy phép tính1×3 hay tổng3tỷ trong sampled frame494s.",
+          "semantic_match_and_limits": "Đúng chủ thể phản hồi; quan hệ số đang chủ yếu do lời dẫn.",
+          "attention_inference": "Lời hứa có hậu quả rồi không làm tạo cú hụt.",
+          "teaching": "Có thể thêm phép tính gọn gắn đúng điều kiện; không giả rằng footage khuôn mặt đã diễn đạt con số.",
+          "transition": "Mở chuỗi mâu thuẫn kéo người khác vào."
+        },
+        {
+          "start": 505,
+          "end": 522,
+          "narrated_idea": "Khẩu chiến kéo thêm người và có chuyến tới xưởng.",
+          "script_function": "Leo thang từ mạng sang địa điểm ngoài đời.",
+          "visible_evidence": "504.5–508s clip dọc có chữ đáp trả;509–521.5s livestream góc máy cầm tay với khuôn mặt, mái hiên và UI.",
+          "semantic_match_and_limits": "Có định dạng live ngoài hiện trường; các mẫu chủ yếu cận mặt, chưa đủ chứng minh đe dọa hoặc toàn cảnh xưởng.",
+          "attention_inference": "Vượt ranh giới online/đời thật tăng stakes.",
+          "teaching": "Chọn cảnh đủ thấy hành động, địa điểm; nếu chỉ cận mặt phải giới hạn lời kết luận.",
+          "transition": "Đưa hậu quả tố tụng do nguồn tường thuật."
+        },
+        {
+          "start": 522,
+          "end": 540,
+          "narrated_idea": "Nhóm bị can và các tội danh được nguồn video trình bày.",
+          "script_function": "Hệ quả chính thức của chuỗi sự kiện.",
+          "visible_evidence": "523–530s ảnh nhóm ba người cùng lực lượng chức năng;535–540s nền mờ với tên/nhóm tội danh màu trắng/đỏ.",
+          "semantic_match_and_limits": "Chữ phân nhóm giúp theo dõi người/tội danh; không phải kết luận của nghiên cứu này.",
+          "attention_inference": "Đổi từ nhiều live sang một ảnh nhóm và danh sách tách rõ giảm rối.",
+          "teaching": "Luôn ghi tình trạng tố tụng và nguồn; không dùng ảnh nhóm để suy cùng trách nhiệm.",
+          "transition": "Quay lại cơ chế tăng tương tác và biến cố lớn hơn."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 23
+    },
+    {
+      "index": 9,
+      "start": 540,
+      "end": 600,
+      "sheets": [
+        "sheets/09-01.jpg",
+        "sheets/09-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 540,
+          "end": 551,
+          "narrated_idea": "Lời kể quy tranh cãi cho mục tiêu tương tác theo nguồn điều tra.",
+          "script_function": "Liên kết chương pháp lý với luận điểm chú ý.",
+          "visible_evidence": "540s chữ tội danh;541.5–550s hai video live trong hai khung điện thoại trên nền lưới, mascot ở trước.",
+          "semantic_match_and_limits": "Có hai phía phát biểu; mục đích tăng tương tác thuộc lời dẫn/nguồn, không thể đọc ý định từ mặt.",
+          "attention_inference": "Nhắc lại cơ chế đầu bài để chuỗi sự kiện không thành tin vặt.",
+          "teaching": "Dùng cặp đối thoại khi kể quan hệ hai bên; phân biệt động cơ suy luận và dữ kiện.",
+          "transition": "Báo một biến cố lớn với nhân vật chính."
+        },
+        {
+          "start": 551,
+          "end": 564.5,
+          "narrated_idea": "Lời tường thuật về khám xét/triệu tập.",
+          "script_function": "Chuyển trọng tâm và nâng stakes.",
+          "visible_evidence": "557.5–560s footage đường nhà có người mặc sắc phục, nguồn Báo Tiền Phong;565s chuyển đám đông ban đêm.",
+          "semantic_match_and_limits": "Đúng cảnh báo chí tại hiện trường; không nhìn thấy toàn bộ thủ tục trong frame.",
+          "attention_inference": "Nguồn và hình hiện trường thay cho live tự thuật.",
+          "teaching": "Giữ credit nguồn khi học chức năng bằng chứng; tài sản cần quyền riêng nếu sản xuất mới.",
+          "transition": "Đưa phản ứng đám đông ngoài nhà."
+        },
+        {
+          "start": 564.5,
+          "end": 578.5,
+          "narrated_idea": "Đám đông dùng điện thoại ghi hình một người nổi nhờ livestream.",
+          "script_function": "Irony hình–lời: công cụ nổi tiếng quay ngược lại nhân vật.",
+          "visible_evidence": "565–568.5s nhiều người giơ điện thoại ban đêm;570–576.5s xe và đám đông, watermark Tiền Phong, mascot.",
+          "semantic_match_and_limits": "Khớp trực tiếp hành động nhiều người giơ máy; không chứng minh tất cả đang live thay vì quay/chụp.",
+          "attention_inference": "Hình lặp mô-típ điện thoại từ đầu nhưng đổi vị trí của chủ thể.",
+          "teaching": "Một callback hình ảnh có thể mang bài học mạnh hơn hiệu ứng trang trí.",
+          "transition": "Chuyển từ hiện trường sang văn bản chính thức."
+        },
+        {
+          "start": 578.5,
+          "end": 592,
+          "narrated_idea": "Tên người và quyết định khởi tố được đọc theo nguồn.",
+          "script_function": "Tăng độ cụ thể và kiểm soát ai liên quan.",
+          "visible_evidence": "578–590s văn bản trên nền trắng, nhãn nguồn Bộ Công an; highlight lan qua các tên và nội dung.",
+          "semantic_match_and_limits": "Nhãn nguồn/highlight thấy rõ; screenshot là văn bản được video trích, chưa đối chiếu trang gốc.",
+          "attention_inference": "Cho người xem một mốc tham chiếu trong đoạn nhiều tên.",
+          "teaching": "Highlight đúng câu đang được đọc, ít dòng cùng lúc.",
+          "transition": "Bổ sung quyết định và nhắc trạng thái điều tra."
+        },
+        {
+          "start": 592,
+          "end": 600,
+          "narrated_idea": "Lời kể bổ sung tội danh và điều luật.",
+          "script_function": "Kết đoạn tình trạng tố tụng.",
+          "visible_evidence": "595s thêm highlight đoạn thứ hai trên cùng văn bản;600s mascot đè ở góc dưới.",
+          "semantic_match_and_limits": "Các phần nguồn được nhấn liên tiếp giúp phân biệt quyết định, không hợp nhất thành kết án.",
+          "attention_inference": "Giữ cùng tài liệu làm người xem hiểu đây là bổ sung, không đổi vụ.",
+          "teaching": "Một nguồn liên tục có thể rõ hơn nhảy ảnh mỗi câu.",
+          "transition": "Mở các mảng hoạt động đang bị điều tra."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 20
+    },
+    {
+      "index": 10,
+      "start": 600,
+      "end": 660,
+      "sheets": [
+        "sheets/10-01.jpg",
+        "sheets/10-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 600,
+          "end": 609,
+          "narrated_idea": "Từ tình trạng điều tra chuyển sang các hoạt động kinh doanh.",
+          "script_function": "Mở tiểu mục cáo buộc bằng một cầu nối.",
+          "visible_evidence": "600s văn bản và mascot;604s flash chuyển;605s ảnh trước cửa hàng nước hoa, hai nhân vật cán bộ hoạt hình.",
+          "semantic_match_and_limits": "Đúng đối tượng kinh doanh; hình hoạt hình không là bằng chứng điều tra thực tế tại cửa hàng.",
+          "attention_inference": "Đưa lại sản phẩm cũ trong bối cảnh mới, khép vòng chương kinh doanh.",
+          "teaching": "Phân biệt footage hiện trường và illustration; không để nhân vật vẽ làm chứng cứ.",
+          "transition": "Cụ thể hóa cáo buộc kế toán bằng icon."
+        },
+        {
+          "start": 609,
+          "end": 623,
+          "narrated_idea": "Mô tả doanh thu/không hóa đơn theo thông tin điều tra ban đầu.",
+          "script_function": "Giải thích một quan hệ tài chính bằng đồ họa.",
+          "visible_evidence": "610s chai nước hoa;615s tiền và nhãn 300 TỶ ĐỒNG;620s thêm hóa đơn gạch chéo và dòng thiệt hại.",
+          "semantic_match_and_limits": "Đúng vật thể và quan hệ thiếu hóa đơn được ký hiệu. Caption 614.68s ghi 300 triệu, khác nhãn hình 300 tỷ; chưa xác nhận âm thanh hay con số gốc.",
+          "attention_inference": "Một phần tử theo một mệnh đề giúp người xem hiểu mối nối.",
+          "teaching": "Bắt buộc đối chiếu ASR với hình/nguồn; không tự chọn số trông hợp lý. Phân biệt doanh thu với thiệt hại.",
+          "transition": "Chuyển sang khoản quyên góp đang được làm rõ."
+        },
+        {
+          "start": 623,
+          "end": 644.5,
+          "narrated_idea": "Các nhóm khoản tiền/cá nhân/tổ chức được trình bày theo cáo buộc.",
+          "script_function": "Bổ sung phạm vi điều tra.",
+          "visible_evidence": "623–625s hòm quyên góp;630s icon cá nhân;635–640s thêm tòa nhà và nhãn hai nhóm tiền.",
+          "semantic_match_and_limits": "Nhóm đối tượng được tách bằng vị trí/icon; nhãn cáo buộc không luôn nổi trên các chữ số.",
+          "attention_inference": "Giữ cùng ngôn ngữ hình để không mất dấu nhiều khoản.",
+          "teaching": "Phải gắn trạng thái cáo buộc vào chính biểu đồ/nhãn nếu dùng cho chủ đề mới.",
+          "transition": "Dừng để giới hạn điều được kết luận."
+        },
+        {
+          "start": 644.5,
+          "end": 653.5,
+          "narrated_idea": "Nhấn thông tin ban đầu chưa phải kết luận cuối về trách nhiệm từng người.",
+          "script_function": "Caveat đúng điểm rủi ro trong thân bài.",
+          "visible_evidence": "644.5–650s nền tím phẳng/vòng tròn, mascot cầm tách; đã mở detail 648s, không có văn bản miễn trừ.",
+          "semantic_match_and_limits": "Quan sát lời caveat trong caption; hình là người dẫn nghỉ nhịp, không thêm chứng cứ.",
+          "attention_inference": "Nhịp hình tối giản dừng chuỗi cáo buộc trước khi đưa bình luận.",
+          "teaching": "Caveat gọn tại đúng đoạn; với video người dùng vẫn thêm miễn trừ ngắn sauhook theo yêu cầu riêng.",
+          "transition": "Trở lại giọng đùa rồi nhắc chờ điều tra."
+        },
+        {
+          "start": 653.5,
+          "end": 660,
+          "narrated_idea": "Một câu đùa về dự đoán trước đây rồi mở điều chưa biết.",
+          "script_function": "Giảm căng và chuyển từ tin sang bình luận.",
+          "visible_evidence": "655s mascot đổi biểu cảm trên nền tím, không footage mới.",
+          "semantic_match_and_limits": "Không thêm bằng chứng cho nội dung đùa.",
+          "attention_inference": "Giọng thân mật là lựa chọn biểu đạt, hiệu quả giữ chân chưa được đo.",
+          "teaching": "Không học nguyên câu đùa về trách nhiệm hình sự, vì có thể làm yếu caveat vừa nêu.",
+          "transition": "Tiếp tục phạm vi chưa thể biết ở block sau."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 16
+    },
+    {
+      "index": 11,
+      "start": 660,
+      "end": 720,
+      "sheets": [
+        "sheets/11-01.jpg",
+        "sheets/11-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 660,
+          "end": 667,
+          "narrated_idea": "Chờ kết quả về số tiền và trách nhiệm từng người.",
+          "script_function": "Kết thúc tuyến sự kiện ở đúng giới hạn nguồn.",
+          "visible_evidence": "660–665s cùng mascot trên nền tím;667s cắt lại clip phỏng vấn.",
+          "semantic_match_and_limits": "Lời phân biệt điều chưa biết có trong caption, hình không minh họa kết quả sau đó.",
+          "attention_inference": "Khóa không chắc chắn để bước sang bài học không bị nhầm với phán quyết.",
+          "teaching": "Không tự hoàn tất kết cục ngoài phạm vi video.",
+          "transition": "Từ trường hợp cá nhân sang mô hình."
+        },
+        {
+          "start": 667,
+          "end": 689,
+          "narrated_idea": "Nhìn lại sự nghiệp như ví dụ hoàn chỉnh về chú ý đổi thành tiền.",
+          "script_function": "Tổng hợp, trả nhan đề bằng góc nhìn rộng.",
+          "visible_evidence": "667–670s phỏng vấn;674.5–675s nhân vật trước siêu xe;679.5–685s xe tại showroom/footage vùng đất đá.",
+          "semantic_match_and_limits": "Montage nhận diện và hồi tưởng; không đo tài sản hay khả năng kinh doanh.",
+          "attention_inference": "Callback các hình đã thấy tạo cảm giác các mảnh câu chuyện hội tụ.",
+          "teaching": "Chọn một số hình có vai trò hồi tưởng, không trình thêm dữ kiện mới cuối bài.",
+          "transition": "Tách kỹ năng tạo chú ý khỏi cảm tình cá nhân."
+        },
+        {
+          "start": 689,
+          "end": 703,
+          "narrated_idea": "Nhiều người live nhưng không phải ai cũng có khán giả lớn; không cần được thích để có đất diễn.",
+          "script_function": "Phân tích kỹ năng và nguyên lý trung tâm.",
+          "visible_evidence": "690–695s nhân vật hoạt hình trước đèn/điện thoại;700s cutout nhân vật trước đám đông đỏ;703.5s mascot nền lưới.",
+          "semantic_match_and_limits": "Thấy hoạt động tự phát sóng và hình nhóm người, còn quy mô/động cơ do lời giải thích.",
+          "attention_inference": "Một câu tổng quát dễ nhớ sau ví dụ dài.",
+          "teaching": "Cho nguyên lý xuất hiện sau bằng chứng/ví dụ, tránh mở bằng giáo điều.",
+          "transition": "Lật điểm mạnh thành vòng buộc phải tăng liều."
+        },
+        {
+          "start": 703,
+          "end": 712,
+          "narrated_idea": "Khi chú ý là tài sản lớn, phải tiếp tục duy trì chú ý.",
+          "script_function": "Gọi tên áp lực của mô hình.",
+          "visible_evidence": "705–710s mascot nền lưới, đeo kính ở 710s;712s trở về mô phỏng LIVE.",
+          "semantic_match_and_limits": "Hình giữ nhịp người dẫn, không biểu diễn cơ chế tài sản trực tiếp.",
+          "attention_inference": "Người xem chờ hệ quả của áp lực vừa nêu.",
+          "teaching": "Có thể để lời gánh một ý khái quát ngắn; không mọi câu cần bảng minh họa.",
+          "transition": "Ví dụ hôm qua/hôm nay tăng độ sốc."
+        },
+        {
+          "start": 712,
+          "end": 720,
+          "narrated_idea": "Ví dụ giả định lượt xem tăng khi tranh cãi lớn hơn.",
+          "script_function": "Cụ thể hóa vòng leo thang.",
+          "visible_evidence": "712–720s mô phỏng live, nhân vật nam, reactions và comment/share UI.",
+          "semantic_match_and_limits": "Khớp bối cảnh nhưng sampled frames không hiển thị 1 triệu/2 triệu hay mức tăng tranh cãi.",
+          "attention_inference": "Lặp cấu trúc hôm qua–hôm nay–ngày mai tạo nhịp và dự báo.",
+          "teaching": "Nếu dùng số giả định cần ghi minh họa; không biến chúng thành thống kê của nền tảng.",
+          "transition": "Khái quát thành tăng liều và ranh giới mỏng."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 21
+    },
+    {
+      "index": 12,
+      "start": 720,
+      "end": 780,
+      "sheets": [
+        "sheets/12-01.jpg",
+        "sheets/12-02.jpg"
+      ],
+      "beats": [
+        {
+          "start": 720,
+          "end": 730.5,
+          "narrated_idea": "Tăng liều khiến ranh giới content/hình ảnh/kinh doanh/rắc rối mỏng.",
+          "script_function": "Cảnh báo hệ quả của vòng tăng kích thích.",
+          "visible_evidence": "720s tiếp mô phỏng live;725–730s nềnlive làm mờ và mascot ở trước.",
+          "semantic_match_and_limits": "Hình liên tục cùng tình huống; không có sơ đồ ngưỡng hay đo tăng liều.",
+          "attention_inference": "Ngôn ngữ tăng dần khép động lực rơi vào rủi ro.",
+          "teaching": "Không cần dựng cổng/đồng hồ 3D tượng trưng; chính ví dụ đã xây đủ bối cảnh.",
+          "transition": "Gọi tên nền kinh tế chú ý."
+        },
+        {
+          "start": 730.5,
+          "end": 746,
+          "narrated_idea": "Nền tảng thưởng sự sốc/tò mò/giận dữ, nội dung bình thường dễ bị bỏ qua.",
+          "script_function": "Nâng từ cá nhân thành luận điểm hệ thống.",
+          "visible_evidence": "735–740s nhân vật nữ hoạt hình với confetti;745s mascot trước nền làm mờ.",
+          "semantic_match_and_limits": "Hình phần thưởng là ẩn dụ, không chứng minh thuật toán hay mức phân phối thực.",
+          "attention_inference": "Tạo đối lập tích cực/tiêu cực khiến kết luận có sắc thái phản tỉnh.",
+          "teaching": "Giữ luận điểm là diễn giải cần nguồn khi áp dụng; không gọi confetti là dữ liệu thuật toán.",
+          "transition": "Quay sang creator sống bằng view."
+        },
+        {
+          "start": 746,
+          "end": 756.5,
+          "narrated_idea": "Cảm giác nhiều view là thắng nhưng không miễn nhiễm trách nhiệm.",
+          "script_function": "Phản biện thước đo thành công.",
+          "visible_evidence": "750s bộ đếm views/like/share giả lập và nhân vật;752–755s footage cân công lý, búa và sách.",
+          "semantic_match_and_limits": "Đúng hai khái niệm views/pháp luật; bộ đếm là đồ họa minh họa, không analytics của video.",
+          "attention_inference": "Một cú chuyển hình rõ tạo đối lập giữa chỉ số online và đời thực.",
+          "teaching": "Ghi phạm vi minh họa; cân/búa là ký hiệu khái niệm, không bằng chứng về vụ án.",
+          "transition": "Đưa danh sách những thứ thật phía sau màn hình."
+        },
+        {
+          "start": 756.5,
+          "end": 768,
+          "narrated_idea": "Mọi thứ thành content nhưng tiền/doanh nghiệp/sổ sách/pháp luật vẫn thật.",
+          "script_function": "Làm nền cho trách nhiệm qua danh sách cụ thể.",
+          "visible_evidence": "756.5s pháp lý;758–765s nền trắng với mascot/thiết bị;765s tiền xuất hiện.",
+          "semantic_match_and_limits": "Khái niệm được đưa thành vật thể; không phải sổ sách thật của chủ thể.",
+          "attention_inference": "Nhịp danh sách ngắn đối lập với tốc độ mạng.",
+          "teaching": "Cho từng vật đúng danh từ thay vì một cảnh văn phòng che toàn bộ ý.",
+          "transition": "Khóa khác biệt giữa sửa bài và hậu quả ngoài đời."
+        },
+        {
+          "start": 768,
+          "end": 776,
+          "narrated_idea": "Bài/live/caption có thể sửa hoặc tắt, hậu quả pháp luật không đơn giản vậy.",
+          "script_function": "Đối chiếu khả năng sửa trên nền tảng với trách nhiệm.",
+          "visible_evidence": "770–775s icon tiền, tòa nhà, sổ, sách luật quanh mascot.",
+          "semantic_match_and_limits": "Các khái niệm thật phía sau được minh họa; không có thao tác xóa/sửa/tắt thực sự trên frame.",
+          "attention_inference": "Mạch liệt kê làm lời kết có lực.",
+          "teaching": "Không coi biểu tượng là đủ cho câu thao tác cụ thể; trường hợp này là tóm tắt khái quát cuối bài.",
+          "transition": "Chuyển sang ba năng lực khác nhau."
+        },
+        {
+          "start": 776,
+          "end": 780,
+          "narrated_idea": "Kéo chú ý và biến chú ý thành tiền là hai năng lực.",
+          "script_function": "Mở câu kết có ba bậc.",
+          "visible_evidence": "775s icon quanh mascot;780s chuyển nềnlưới chỉ còn mascot.",
+          "semantic_match_and_limits": "Không có so sánh số liệu; người dẫn làm điểm neo cho tổng hợp.",
+          "attention_inference": "Phép song hành chuẩn bị vế thứ ba quan trọng hơn.",
+          "teaching": "Dồn trọng lượng vào ý kết thay vì tăng đồ họa ở mọi vế.",
+          "transition": "Giữ tiền/thương hiệu/giới hạn là bài toán bền vững."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 14
+    },
+    {
+      "index": 13,
+      "start": 780,
+      "end": 803,
+      "sheets": [
+        "sheets/13-01.jpg"
+      ],
+      "beats": [
+        {
+          "start": 780,
+          "end": 795.5,
+          "narrated_idea": "Giữ được tiền, thương hiệu, giới hạn và tồn tại nhiều năm mới là bài toán khó.",
+          "script_function": "Kết luận trả nhan đề và nâng chuẩn thành công.",
+          "visible_evidence": "780–795s mascot trên nềnlưới, đổi nét mặt/tư thế; không thêm tư liệu mới.",
+          "semantic_match_and_limits": "Hình là chủ thể người dẫn bình luận; không chứng minh triển vọng10/20 năm của ai.",
+          "attention_inference": "Câu ngắn lặp cấu trúc giữ được/vẫn còn làm ý bền vững đọng lại.",
+          "teaching": "Kết bằng một thước đo rõ đã phát triển từ thân bài, không mở chủ đề phụ.",
+          "transition": "Cảm ơn và một hành động CTA."
+        },
+        {
+          "start": 795.5,
+          "end": 803,
+          "narrated_idea": "Cảm ơn, xưng danh, mời đăng ký, chào.",
+          "script_function": "CTA cuối ngắn.",
+          "visible_evidence": "800s mascot cạnh panel Lóng và nút subscribed/chuông/like; đã mở detail 800s.",
+          "semantic_match_and_limits": "CTA hình khớp lời mời đăng ký; chữ 500K trong panel là đồ họa, không thống kê được nghiên cứu xác minh.",
+          "attention_inference": "Một hành động quen thuộc, không cản kết luận bằng đoạn quảng cáo dài.",
+          "teaching": "CTA nối mục tiêu kênh; video người dùng có thể chọn hành động liên quan chủ đề theo yêu cầu.",
+          "transition": "Kết thúc."
+        }
+      ],
+      "sheet_review": "All listed sheets opened and visually inspected.",
+      "frame_count": 5
+    }
+  ]
+}

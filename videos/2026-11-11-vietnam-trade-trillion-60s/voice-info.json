@@ -1,0 +1,8 @@
+{
+  "provider": "Microsoft Edge TTS",
+  "voice": "vi-VN-HoaiMyNeural",
+  "language": "vi",
+  "rate": "+2%",
+  "fallback_reason": "ElevenLabs Adam V3 quota exceeded: 388 credits remaining; request required 999",
+  "adam_request_status": "failed_quota_exceeded"
+}

@@ -1,0 +1,91 @@
+{
+  "scope": "Inspected cue and late sampled actual-take rendered frames for all50beats; this is not continuous audiovisual review or aesthetic approval.",
+  "reviewer": "comic implementation agent",
+  "issues": [
+    {
+      "beats": [
+        "b04",
+        "b09",
+        "b17",
+        "b21",
+        "b29",
+        "b38",
+        "b44"
+      ],
+      "observed": "SVG text inherits ancestor stroke and becomes thick/illegible inside stroked prop groups.",
+      "sourceFix": "T primitive now explicitly stroke=none; must verify actual r02 render."
+    },
+    {
+      "beats": [
+        "b06",
+        "b07",
+        "b12",
+        "b15"
+      ],
+      "observed": "Counters remain partial at spoken arithmetic conclusion; b15 late shows29×20000=580000 alongside600000headline and2.6mconditional.",
+      "sourceFix": "Resolve result onset from actual plan.words and finish allocation/calendar by exact spoken result. Stable final amounts thereafter."
+    },
+    {
+      "beats": [
+        "b06",
+        "b07"
+      ],
+      "observed": "Multiple1tr notes overlap and only6are visible above expense container despite10/12total.",
+      "sourceFix": "Destination notes separated in two distinct rows to show10/12tokens."
+    },
+    {
+      "beats": [
+        "b01"
+      ],
+      "observed": "Moving cash covers salary+2m amount around cue.",
+      "sourceFix": "Cash starts below income note."
+    },
+    {
+      "beats": [
+        "b03",
+        "b10",
+        "b19",
+        "b46"
+      ],
+      "observed": "Secondary footer overlaps audit paper boundary/lens handle.",
+      "sourceFix": "Removed redundant secondary footer."
+    },
+    {
+      "beats": [
+        "b24"
+      ],
+      "observed": "Lan overlaps rightmost calendar column.",
+      "sourceFix": "Moved Lan right; split finishes at exact100k/month phrase."
+    },
+    {
+      "beats": [
+        "b28",
+        "b36",
+        "b37"
+      ],
+      "observed": "Generic buffer footer crosses jar base.",
+      "sourceFix": "Removed redundant footer."
+    },
+    {
+      "beats": [
+        "b38"
+      ],
+      "observed": "Footer crosses large phone bottom border.",
+      "sourceFix": "Footer moved from868to919."
+    },
+    {
+      "beats": [
+        "b43"
+      ],
+      "observed": "Fourth installment card partly covers Lanface.",
+      "sourceFix": "Lan shifted right to1720."
+    }
+  ],
+  "arithmeticObservations": {
+    "b22": "120000×12=1440000correct",
+    "b24": "1200000/12=100000correct",
+    "b34": "14−11.4=2.6mcorrect; conditional recalc explicitly shown"
+  },
+  "r02Verification": "Pending actual r02 render; source-only changes cannot establish visual acceptance.",
+  "userApproval": "pending"
+}

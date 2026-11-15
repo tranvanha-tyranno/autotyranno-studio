@@ -1,0 +1,50 @@
+[
+  {
+    "id": "exact-result",
+    "scope": "Applied reusable finance renderer code; verified in named sampled frames",
+    "lesson": "Finish accumulation by the aligned spoken result, preserve stable terminal total while explaining conditions.",
+    "evidence": [
+      {
+        "file": "r01\\comic\\preflight\\b15-late-5047.jpg",
+        "sha256": "8c8e637e252dd4306d400d4b5b78177a23dd9aaa81f407fa51381180dcfff09d"
+      },
+      {
+        "file": "r02\\comic\\preflight\\b15-late-5047.jpg",
+        "sha256": "87c8e0f4bd2697905c334dab6f5d5e1541aa4152f5188a03e67533767cd88c1c"
+      }
+    ],
+    "userAcceptance": "pending"
+  },
+  {
+    "id": "decimals",
+    "scope": "Applied reusable finance renderer code; verified in named sampled frames",
+    "lesson": "Preserve fractional millions instead of rounding11.4and2.6 into integers.",
+    "evidence": [
+      {
+        "file": "r01\\flow\\preflight\\b34-late-11731.jpg",
+        "sha256": "e20c62476cf73d1292cc7d998394a3e58d5062bf81cd6bbb17d8cdc00e491e8f"
+      },
+      {
+        "file": "r02\\flow\\preflight\\b34-late-11731.jpg",
+        "sha256": "5f35b2a25ecb0cda84248845103b060e0863435fcbeea09482efa6d543ed8cf2"
+      }
+    ],
+    "userAcceptance": "pending"
+  },
+  {
+    "id": "svg-text",
+    "scope": "Applied reusable finance renderer code; verified in named sampled frames",
+    "lesson": "Set text stroke explicitly to none so stroked SVG parent groups do not thicken labels.",
+    "evidence": [
+      {
+        "file": "r01\\comic\\preflight\\b38-late-13096.jpg",
+        "sha256": "f36d15236768d9e47d0efeccd9ac1f81e51c1532731450e566033e7a407a455b"
+      },
+      {
+        "file": "r02\\comic\\preflight\\b38-late-13096.jpg",
+        "sha256": "81b3c7f86434a8b9327bd1739829799d565298043af3b5946344192e0771c21f"
+      }
+    ],
+    "userAcceptance": "pending"
+  }
+]

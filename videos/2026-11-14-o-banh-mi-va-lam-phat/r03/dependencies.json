@@ -1,0 +1,131 @@
+{
+  "sources": {
+    "workflows/reference-video/economy_story.py": "978910024fe0b6c01dbd62b0dd08f5ff8ef310beeae48c686c4b73261146f91c",
+    "workflows/reference-video/economy_story_content.py": "0e65992b5e12d28f910b9d0553ace4c600cd171693ca7c99ed87bae5fae68c88",
+    "workflows/reference-video/cinematic/src/economy-story-entry.tsx": "6d318a7a1e2cb97771cd7046056dcf011a0f9e50305d304533b55a404b893c7e",
+    "workflows/reference-video/finance_long.py": "e0f4b8bed2f13f1d67aec5f8d7dd02e85dad1a3577c65c3f9a3fb4ee6ea30415",
+    "workflows/reference-video/eleven_audio.py": "66d23c113d72b70d96ea01d79f2055e250ec7578aab62b4be3dd96a863bd8db3",
+    "workflows/reference-video/cinematic/economy-story-preflight.cjs": "2186bdaf52b52f23c1a6db12c85a71e8d17384713abc6ba9e79097593fb7bedc",
+    "workflows/reference-video/cinematic/package.json": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f",
+    "workflows/reference-video/cinematic/package-lock.json": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c",
+    "workflows/reference-video/cinematic/src/economy-story/fonts.css": "f086304cb673cc357e8f2db69f3746babe9e46fe0e6de214aea45ec7a3b503fe",
+    "workflows/reference-video/cinematic/src/economy-story/index.tsx": "6186ddf9729fb8a2907fbd127a148ac9cff1796d0e5324ae5d8e0ad968d28dfa",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-Bold.ttf": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-Regular.ttf": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-SemiBold.ttf": "bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/OFL.txt": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/sources.json": "9274e4206cec0aaf218b2e53ce23e01db88398810d521062f1d5a5d996b64d9f",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/CandidateSheet.tsx": "c6cb501468f16210e9b5d2463195c32dc954a063dec7424dbc3c5acb15d679d4",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/index.ts": "f03ce0096514163b3d957a40af389b03af48a612f5a97da75f116911e5cfb110",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/README.md": "754f5779c9664ac678edf76336e61d9b5571f04d96c68152273c847066114c1b"
+  },
+  "propsSHA256": "bd6e57e873fbe98bfab44c265eba4dfa054beebb00f78222963cfda8c0353d2f",
+  "mixSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+  "photoCatalogSHA256": "e32080cad320df7ffac7c84f448407b2563c2999022f36582a9b9d9bd2478541",
+  "derivedBackgrounds": {
+    "assets/derived/vn-filled-banhmi-bag-ee2f314844-backing.jpg": {
+      "file": "assets/derived/vn-filled-banhmi-bag-ee2f314844-backing.jpg",
+      "sha256": "554757da4ff715ce800c5c841cff9a12e272a785036ff4690554a3f2f01b1eed",
+      "sourceSHA256": "ee2f314844274596b609d86dbd4770e90bc726c2927c59153fb5256496418ef2",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/bread-rustic-a6854e6005-backing.jpg": {
+      "file": "assets/derived/bread-rustic-a6854e6005-backing.jpg",
+      "sha256": "be41fce5f6032748371a246f5b6dccd041dca52bc95dad4306f38166ff8dcbb0",
+      "sourceSHA256": "a6854e6005a63bbfc1d4080a0e56c1fe4aa85012011a8c07815eed205a7987b1",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/bread-oven-03624d24fe-backing.jpg": {
+      "file": "assets/derived/bread-oven-03624d24fe-backing.jpg",
+      "sha256": "c0604335443c58b25c54fa7ce5e4054ecf9b3485c83eb7bb4f67b64f71bbab38",
+      "sourceSHA256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/bread-basket-498379d809-backing.jpg": {
+      "file": "assets/derived/bread-basket-498379d809-backing.jpg",
+      "sha256": "33f29e7cc50272747d82996083b1a09246e3f41ec4a6d8008b346ec6f5936eda",
+      "sourceSHA256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/vn-banhmi-vendor-867181817f-backing.jpg": {
+      "file": "assets/derived/vn-banhmi-vendor-867181817f-backing.jpg",
+      "sha256": "eba04aa25e0c48e09b0b305e449fc4f4afa4133200740f75c04471ea9454a0ad",
+      "sourceSHA256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/oven-loading-b448e284ff-backing.jpg": {
+      "file": "assets/derived/oven-loading-b448e284ff-backing.jpg",
+      "sha256": "c0ab48f6fe0dbebef0fc2d71ff39ba2e63784255d95ce967f568913cf77aad54",
+      "sourceSHA256": "b448e284ff1fcf455fab76aaec7b705bed434e788202a3729892f854a0328073",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/flour-sifting-55bc0d35bf-backing.jpg": {
+      "file": "assets/derived/flour-sifting-55bc0d35bf-backing.jpg",
+      "sha256": "02223582ce8703b6a8f89bb6c6de4f8cabace0a48143461fb5f71c0a1543257e",
+      "sourceSHA256": "55bc0d35bf8bec62cda59cd6bb7dc6d6049dc421ba2b5c38e36249eb082aab0d",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/oil-bottle-b3b143d271-backing.jpg": {
+      "file": "assets/derived/oil-bottle-b3b143d271-backing.jpg",
+      "sha256": "971586a30c71f9cbfab0fd5bbc37bbca7b25409b8672dadfba32023cd2080f71",
+      "sourceSHA256": "b3b143d2710057ec584e206029f59bd6c3c59b9e611b34e0be57c655f14e677f",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/delivery-truck-72d85e3bd5-backing.jpg": {
+      "file": "assets/derived/delivery-truck-72d85e3bd5-backing.jpg",
+      "sha256": "1c6f9b8ab97d86d946582c4af57bdb831dcbbd87b0567fd90ae97472e3d73d42",
+      "sourceSHA256": "72d85e3bd522a20e16f0aaa1095ce52c6f6701832cf9c3a6f88231049cdecd1b",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/cargo-ship-bbc23c8093-backing.jpg": {
+      "file": "assets/derived/cargo-ship-bbc23c8093-backing.jpg",
+      "sha256": "ca8a9599677c44c606f0cff74bbb5cdbd1a8fa60239c34e8da11f7cf1ecb099b",
+      "sourceSHA256": "bbc23c809371cceb9e0294816794e9e938cfcf097101544f16a6d8bb76e1e0e3",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/vn-market-scooters-4c47de35f0-backing.jpg": {
+      "file": "assets/derived/vn-market-scooters-4c47de35f0-backing.jpg",
+      "sha256": "03c09e93cd8c947a9ab61f883e5d278b681c1e83fa259c079d4d8fb63b56cfc7",
+      "sourceSHA256": "4c47de35f059d11a29a2dd257638924f80fcba114bf17c0e0473fbb486436dbd",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/grocery-cart-4c4a266fd1-backing.jpg": {
+      "file": "assets/derived/grocery-cart-4c4a266fd1-backing.jpg",
+      "sha256": "bc72242522102e157d7a676749671d2a1d6b65d03fe311ac1d2792429d23a4cb",
+      "sourceSHA256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/cash-vnd-7e57a63b35-backing.jpg": {
+      "file": "assets/derived/cash-vnd-7e57a63b35-backing.jpg",
+      "sha256": "55a53d8cafc8e13daf970b811a3f8ac88f51929be0be096bac20e3ed5e574326",
+      "sourceSHA256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/cash-vnd-halong-321ff20856-backing.jpg": {
+      "file": "assets/derived/cash-vnd-halong-321ff20856-backing.jpg",
+      "sha256": "340e609f430f15ceed0242f63b14c031f725ebba36db70e6d23ab8e577253197",
+      "sourceSHA256": "321ff208568d9f5ac4243817d0310f9fd2b2ed45ff4f66cc3a2835f4b681ec30",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/budget-calculator-294d2da50d-backing.jpg": {
+      "file": "assets/derived/budget-calculator-294d2da50d-backing.jpg",
+      "sha256": "d711d6922f4936b52fc7567ad953eea155fb5d8d19fa109f6ef69a908c99521e",
+      "sourceSHA256": "294d2da50d5c6e1ea2475e3c1ee0aec6038a820b42f0e4d8f3c2903f5eee5e6a",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/budget-couple-296a1480de-backing.jpg": {
+      "file": "assets/derived/budget-couple-296a1480de-backing.jpg",
+      "sha256": "2857cea8cd383219a7f7603eb891ba63797eaa20138118b7e6d72e14af91c176",
+      "sourceSHA256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    },
+    "assets/derived/receipt-hands-8172115d0e-backing.jpg": {
+      "file": "assets/derived/receipt-hands-8172115d0e-backing.jpg",
+      "sha256": "b575f23fa6bfb40d2d4af11764f364fc2fd787a75a3437cb31270de267c5e14d",
+      "sourceSHA256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a",
+      "method": "Original photograph, center-cover1280x720, GaussianBlur23.333px, brightness0.5; decorative backing only"
+    }
+  },
+  "researchSourcesSHA256": "b2b5280ec433069e708c2a09af24383415349027510d804606f39daabc0557fc"
+}

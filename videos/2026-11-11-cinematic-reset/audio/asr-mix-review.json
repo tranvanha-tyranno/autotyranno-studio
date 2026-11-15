@@ -1,0 +1,60 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": " Một nhìn tỷ đô la, một con số đủ lớn để khiến chúng ta chẳng ợp."
+    },
+    {
+      "start": 5.04,
+      "end": 8.04,
+      "text": " Nhưng khoan, đó là kim ngạch, không phải lợi nhuận."
+    },
+    {
+      "start": 8.78,
+      "end": 12.88,
+      "text": " Một bên đo quy mô giao dịch, một bên chỉ còn lại sau khi chứa chi phí."
+    },
+    {
+      "start": 13.84,
+      "end": 17.78,
+      "text": " 10 tháng năm 2026, thương mại Việt Nam vượt mất này."
+    },
+    {
+      "start": 18.28,
+      "end": 21.42,
+      "text": " Con số ấy, cộng cả hàng bán ra, lẫn hàng mua vào."
+    },
+    {
+      "start": 22.0,
+      "end": 25.02,
+      "text": " Hàng đi ra thế giới, nguyên liệu lại đi vào nhà máy."
+    },
+    {
+      "start": 25.02,
+      "end": 31.26,
+      "text": " Hãy nhìn một đường may, đơn hàng lớn, nhưng vải, máy móc và thiết kế đều phải mua."
+    },
+    {
+      "start": 32.04,
+      "end": 34.86,
+      "text": " Dành thu đi qua sưởng, chưa chắc đã là tiền ở lại."
+    },
+    {
+      "start": 35.48,
+      "end": 41.02,
+      "text": " Với nền kinh tế cũng vậy, muốn tiền xa, cần làm chủ công nghệ, thiết kế và thương hiệu."
+    },
+    {
+      "start": 41.58,
+      "end": 45.2,
+      "text": " Kỷ lục là một khởi đầu đáng mừng, nhưng câu hỏi dài hạn vẫn còn."
+    },
+    {
+      "start": 45.8,
+      "end": 48.96,
+      "text": " Việt Nam sẽ chỉ bán nhiều hơn, hay sẽ làm chủ nhiều hơn."
+    }
+  ],
+  "purpose": "Independent recognizer of final audio mix; not manual aesthetic listening"
+}

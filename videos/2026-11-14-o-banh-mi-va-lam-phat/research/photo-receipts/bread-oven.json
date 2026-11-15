@@ -1,0 +1,43 @@
+{
+  "id": "bread-oven",
+  "file": "assets/bread-oven.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 30596422,
+  "sourceURL": "https://www.pexels.com/photo/freshly-baked-baguettes-in-a-traditional-bakery-30596422/",
+  "downloadURL": "https://images.pexels.com/photos/30596422/pexels-photo-30596422.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Zehra K.",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2",
+  "width": 1728,
+  "height": 3072,
+  "tags": [
+    "bread",
+    "bakery"
+  ],
+  "credit": "Zehra K. / Pexels",
+  "expectedFromSource": "Baked bread inside bakery",
+  "observed": "Dark bakery interior with metal tray holding multiple small oblong golden breads. Portrait contain preserves tray, interior and visible baking context; landscape crop loses much of setting.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+  "reusedSource": null
+}

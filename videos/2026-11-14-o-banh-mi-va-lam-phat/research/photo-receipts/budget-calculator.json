@@ -1,0 +1,42 @@
+{
+  "id": "budget-calculator",
+  "file": "assets/budget-calculator.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 4386373,
+  "sourceURL": "https://www.pexels.com/photo/calculator-and-notepad-placed-over-stack-of-paper-bills-4386373/",
+  "downloadURL": "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Kaboompics",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "294d2da50d5c6e1ea2475e3c1ee0aec6038a820b42f0e4d8f3c2903f5eee5e6a",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "household"
+  ],
+  "credit": "Kaboompics / Pexels",
+  "expectedFromSource": "Calculator and household budget materials",
+  "observed": "Calculator, blank spiral notepad, pen and US dollar notes on white tabletop. Landscape crop keeps calculator but visible currency is USD.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "294d2da50d5c6e1ea2475e3c1ee0aec6038a820b42f0e4d8f3c2903f5eee5e6a"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Generic household budgeting context only. Currency is US dollars, so never use as literal illustration of Vietnamese dong price or wages. No personal balance, debt or expense amount established.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/budget-calculator.jpg"
+}

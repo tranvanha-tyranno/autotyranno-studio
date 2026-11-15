@@ -1,0 +1,48 @@
+{
+  "id": "money-pickup",
+  "file": "audio/sfx/downloaded/money-pickup.mp3",
+  "sha256": "0612157de82da7e04e798ea81e6ec264e38d95b2c9a513994e283a82bf612696",
+  "bytes": 7724,
+  "durationSeconds": 0.26,
+  "sourceURL": "https://freesound.org/people/LeMudCrab/sounds/163451/",
+  "downloadURL": "https://cdn.freesound.org/previews/163/163451_2263027-hq.mp3",
+  "creator": "LeMudCrab",
+  "sourceTitle": "Money Pickup",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Coins contacting other coins",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "coin",
+    "tick"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b05",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b06",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b18",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/money-pickup.html",
+    "htmlSHA256": "4fdf57f083921cce873d7f88282334c022a08f9973a22f6b055fb8ba3f45809d",
+    "text": "research/sfx-source-pages/money-pickup.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Coins contacting other coins by LeMudCrab, Freesound #163451, CC0 1.0: https://freesound.org/people/LeMudCrab/sounds/163451/"
+}

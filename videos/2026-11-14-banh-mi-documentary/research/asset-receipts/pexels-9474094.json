@@ -1,0 +1,49 @@
+{
+  "pexelsID": 9474094,
+  "pageURL": "https://www.pexels.com/video/a-woman-is-shopping-for-fruits-and-vegetables-9474094/",
+  "title": "A woman is shopping for fruits and vegetables",
+  "creator": "Greta Hoffman",
+  "fps": [
+    25,
+    24,
+    30,
+    50,
+    60,
+    29,
+    23
+  ],
+  "dimensions": [
+    "1280_720",
+    "1920_1080",
+    "720_1280",
+    "1080_1920",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "tags": [
+    "market",
+    "groceries",
+    "shop",
+    "ingredients"
+  ],
+  "id": "pexels-9474094",
+  "file": "assets/raw/pexels-9474094.mp4",
+  "sha256": "e770ebb423b4662e138b5c8c88f8dc70c4f499da2c851828900270753d9d0933",
+  "bytes": 3114227,
+  "durationSeconds": 12.01,
+  "downloadURL": "https://videos.pexels.com/video-files/9474094/9474094-hd_720_1280_24fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.128,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-9474094.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 720,
+  "height": 1280
+}

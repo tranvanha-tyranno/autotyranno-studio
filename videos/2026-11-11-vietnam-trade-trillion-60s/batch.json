@@ -1,0 +1,143 @@
+{
+  "title": "Việt Nam vượt mốc 1.000 tỷ USD xuất nhập khẩu: bước ngoặt hay bài kiểm tra mới?",
+  "duration_seconds": 60,
+  "format": "1080x1920_vertical",
+  "topic_mode": "auto_idea",
+  "created_at": "2026-11-11",
+  "script": "Mốc một nghìn tỷ đô la nghe như chiến thắng tuyệt đối. Nhưng với Việt Nam, đây cũng là bài kiểm tra khó hơn: chúng ta đang giữ lại bao nhiêu giá trị? Trong mười tháng năm 2026, tổng kim ngạch xuất nhập khẩu lần đầu vượt một nghìn tỷ đô la. Cùng lúc, sản xuất công nghiệp tiếp tục tăng và dòng vốn nước ngoài vẫn chảy vào. Đó là dữ kiện. Còn câu chuyện phía sau là ba tầng. Một: Việt Nam đã trở thành mắt xích quan trọng trong chuỗi cung ứng. Hai: phần lớn lợi thế vẫn đến từ sản xuất và lắp ráp có liên kết với doanh nghiệp nước ngoài. Ba: muốn giàu lên bền vững, doanh nghiệp trong nước phải bước lên những khâu có giá trị cao hơn: thiết kế, công nghệ, thương hiệu và dịch vụ sau bán hàng. Vì vậy, con số một nghìn tỷ không phải đích đến. Nó giống bài thi giữa kỳ. Nếu chỉ xuất nhiều hơn mà năng suất và giá trị giữ lại không tăng, nền kinh tế vẫn dễ bị tổn thương khi đơn hàng hoặc chính sách thuế thay đổi. Câu hỏi đáng theo dõi từ bây giờ là: Việt Nam sẽ bán nhiều hơn, hay sẽ làm chủ nhiều hơn?",
+  "sources": [
+    {
+      "url": "https://baochinhphu.vn/nhung-diem-sang-noi-bat-trong-buc-tranh-kinh-te-10-thang-102261103160431984.htm",
+      "supports": "Báo cáo kinh tế 10 tháng 2026 và FDI"
+    },
+    {
+      "url": "https://vneconomy.vn/kinh-te-viet-nam-thang-10-va-10-thang-2026-e784.htm",
+      "supports": "Mốc kim ngạch xuất nhập khẩu vượt 1.000 tỷ USD và bối cảnh điều hành"
+    },
+    {
+      "url": "https://mst.gov.vn/cong-nghiep-cong-nghe-so-tang-toc-dong-gop-lon-trong-nen-kinh-te-197260923104031508.htm",
+      "supports": "Xuất khẩu phần cứng, điện tử và yêu cầu nâng giá trị công nghệ"
+    }
+  ],
+  "scenes": [
+    {
+      "seconds": 10,
+      "label": "MỘT CON SỐ GÂY CHÚ Ý",
+      "number": "1.000 TỶ USD",
+      "body": "Lần đầu tiên, tổng kim ngạch xuất nhập khẩu của Việt Nam vượt mốc này trong 10 tháng 2026.",
+      "kind": "containers",
+      "color": [
+        18,
+        42,
+        63
+      ],
+      "accent": "#b66b4b",
+      "base": [
+        17,
+        31,
+        39
+      ],
+      "seed": 1,
+      "caption": "Mốc một nghìn tỷ đô la nghe như chiến thắng tuyệt đối. Nhưng với Việt Nam, đây cũng là bài kiểm tra khó hơn: chúng ta đang giữ lại bao nhiêu giá trị?"
+    },
+    {
+      "seconds": 10,
+      "label": "ĐÂY LÀ DỮ KIỆN",
+      "number": "10 THÁNG",
+      "body": "Sản xuất và dòng vốn đầu tư tiếp tục là hai động lực lớn của nền kinh tế.",
+      "kind": "factory",
+      "color": [
+        30,
+        38,
+        68
+      ],
+      "accent": "#c18d54",
+      "base": [
+        20,
+        29,
+        35
+      ],
+      "seed": 2,
+      "caption": "Trong mười tháng năm 2026, tổng kim ngạch xuất nhập khẩu lần đầu vượt một nghìn tỷ đô la."
+    },
+    {
+      "seconds": 10,
+      "label": "NHƯNG CÒN MỘT CÂU HỎI",
+      "body": "Việt Nam đang giữ lại bao nhiêu giá trị trong mỗi sản phẩm xuất khẩu?",
+      "kind": "city",
+      "color": [
+        56,
+        35,
+        55
+      ],
+      "accent": "#6a9bb0",
+      "base": [
+        24,
+        29,
+        39
+      ],
+      "seed": 3,
+      "caption": "Cùng lúc, sản xuất công nghiệp tiếp tục tăng và dòng vốn nước ngoài vẫn chảy vào. Đó là dữ kiện."
+    },
+    {
+      "seconds": 10,
+      "label": "BA TẦNG CỦA BÀI TOÁN",
+      "body": "Chuỗi cung ứng — doanh nghiệp nội địa — thiết kế, công nghệ và thương hiệu.",
+      "kind": "paper",
+      "color": [
+        22,
+        59,
+        61
+      ],
+      "accent": "#9e8a6b",
+      "base": [
+        30,
+        28,
+        25
+      ],
+      "seed": 4,
+      "caption": "Câu chuyện phía sau là ba tầng: chuỗi cung ứng, doanh nghiệp nội địa, rồi thiết kế và công nghệ."
+    },
+    {
+      "seconds": 10,
+      "label": "BÀI KIỂM TRA MỚI",
+      "body": "Xuất nhiều hơn là tốt. Nhưng năng suất và giá trị giữ lại phải tăng cùng lúc.",
+      "kind": "map",
+      "color": [
+        62,
+        45,
+        28
+      ],
+      "accent": "#56a6a1",
+      "base": [
+        19,
+        32,
+        38
+      ],
+      "seed": 5,
+      "caption": "Nếu chỉ xuất nhiều hơn mà năng suất và giá trị giữ lại không tăng, nền kinh tế vẫn dễ bị tổn thương."
+    },
+    {
+      "seconds": 10,
+      "label": "CÂU HỎI ĐỂ THEO DÕI",
+      "body": "Việt Nam sẽ bán nhiều hơn, hay sẽ làm chủ nhiều hơn?",
+      "kind": "person",
+      "color": [
+        27,
+        42,
+        54
+      ],
+      "accent": "#b06b58",
+      "base": [
+        28,
+        25,
+        29
+      ],
+      "seed": 6,
+      "caption": "Việt Nam sẽ bán nhiều hơn, hay sẽ làm chủ nhiều hơn?"
+    }
+  ],
+  "render_profile": "reference-documentary-podcast-horizontal",
+  "previous_draft": "final.mp4",
+  "output": "final-reference-style.mp4"
+}

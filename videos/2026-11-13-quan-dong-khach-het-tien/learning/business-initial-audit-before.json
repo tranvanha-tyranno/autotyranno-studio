@@ -1,0 +1,8 @@
+{
+  "schema": "reference-video-learning-audit/1",
+  "events": 23,
+  "ledger_head_sha256": "d7f8cb88a3c4155e3afcc0b500290f165f2fd8d083650f691ba16623da1a9c32",
+  "file_integrity": "passed",
+  "failures": [],
+  "scope": "Event chain and retained file hashes, not editorial or user acceptance."
+}

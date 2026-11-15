@@ -1,0 +1,282 @@
+{
+  "bread-shelf": {
+    "observed": "Several browned long baguettes laid diagonally on wooden shelves; foremost loaf sharply visible, background soft. Proposed landscape crop preserves bread and crust detail.",
+    "fit": "cover",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "bread-rustic": {
+    "observed": "Baguette pieces and sliced crumb on a board with scattered flour against black background. Center landscape crop cuts bread edges, so preserve complete portrait photograph.",
+    "fit": "contain",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "bread-display": {
+    "observed": "Baguettes standing in a wooden barrel and paper sleeves inside a bread shop. Intrinsic sign includes R25; archival foreign shelf price must not be presented as the fictional shop price or current Vietnam price.",
+    "fit": "cover",
+    "limits": "Illustrates bread display only. Intrinsic foreign price signage is archival and unrelated to all hypothetical VND arithmetic. Not Hạnh’s shop or documentary evidence of Vietnam pricing.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "bread-oven": {
+    "observed": "Dark bakery interior with metal tray holding multiple small oblong golden breads. Portrait contain preserves tray, interior and visible baking context; landscape crop loses much of setting.",
+    "fit": "contain",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "bread-basket": {
+    "observed": "Basket holding several pale brown baguettes behind a wooden-framed glass display. Portrait contain preserves basket and shop window; no fictional identity asserted.",
+    "fit": "contain",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "vn-banhmi-vendor": {
+    "observed": "Sidewalk bánh mì cart with bread rolls behind glass, an actual vendor and customer beside a green shutter. Vietnamese cart signage visible. Portrait contain retains cart and two people.",
+    "fit": "contain",
+    "limits": "Primary source locates photo in Vietnam. People and stall are real contextual stock, not fictional Hạnh and her shop; no claimed price, profit, wage or transaction outcome.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "baker-kneading": {
+    "observed": "Aproned adult pressing flour-covered dough with both hands on work surface, dough balls nearby. Landscape crop preserves hands and dough. Face not shown.",
+    "fit": "cover",
+    "limits": "Work process in Pune, India according to source; not Vietnam or Hạnh’s shop. Shows kneading labor, not wage amount or productivity measurement.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "baker-work": {
+    "observed": "Adult baker in hairnet smiling behind counter with broad flat golden breads and a masonry oven. Shows bakery labor; the bread is flatbread, not a Vietnamese baguette.",
+    "fit": "cover",
+    "limits": "Use only for general bakery work or labor context. Flatbread is visibly different from bánh mì. Pictured adult is not fictional Hạnh; no claims about wages or finances.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "oven-loading": {
+    "observed": "Hand holds wooden peel with round raw dough at open dark oven; oven thermometer visible at side. Full portrait contains the dough and hand, while center landscape crop cuts away key loading action.",
+    "fit": "contain",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "flour-butter": {
+    "observed": "Pale flour mound topped with yellow butter cubes on wooden work surface. Landscape crop keeps both ingredients clearly visible.",
+    "fit": "cover",
+    "limits": "Ingredient context; not the fictional recipe, quantities, prices or proof that all bánh mì contains butter.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "flour-sifting": {
+    "observed": "Adult in white shirt tapping a metal sieve; falling flour visible under sieve. Portrait contain retains sieve, flour and hands.",
+    "fit": "contain",
+    "limits": "Illustration of flour preparation only; real adult not fictional Hạnh and no claim about income, employment or recipe.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "flour-counter": {
+    "observed": "Close detail of white flour spread in foreground and pale raw dough across work surface at rear; no prices or identifiable people.",
+    "fit": "cover",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "oil-bottle": {
+    "observed": "Small clear cruet with golden culinary oil on a circular wooden board, black seeds and herbs; larger green container and bottle behind. Full portrait needed: landscape crop cuts the cruet body.",
+    "fit": "contain",
+    "limits": "Culinary olive-oil illustration only. Must not substitute for crude oil, petrol, gas or diesel. Does not establish Hạnh’s ingredients or purchases.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "vn-fuel": {
+    "observed": "Nighttime Petrolimex forecourt with illuminated canopy, fuel pumps, riders and motorcycles. Landscape crop preserves clear fuel-station subject.",
+    "fit": "cover",
+    "limits": "Vietnam location per primary source. Archival fuel context, not live fuel prices, shortage, contemporary event or endorsement. No connection to the fictional shop.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "delivery-truck": {
+    "observed": "Red/yellow/white delivery lorry on wet narrow European street, shop awning and bicycles beside it. Portrait contain preserves vehicle and road; crop magnifies logo and loses logistics context.",
+    "fit": "contain",
+    "limits": "Amsterdam delivery context per source; not Vietnam or Hạnh’s delivery truck. Cannot evidence freight rates or a specific disruption.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "cargo-ship": {
+    "observed": "Front view of large blue container ship with stacked multicolor containers and bridge. Full image keeps entire vessel profile; center landscape crop clips bridge.",
+    "fit": "contain",
+    "limits": "Hamburg port per source. Illustrates international freight; no freight price, route, shortage or connection to fictional shop established.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "vn-market-dalat": {
+    "observed": "People standing at vegetable stall with cabbage and other produce, scooters at left, vendor in hat. Landscape crop preserves human interaction and goods.",
+    "fit": "cover",
+    "limits": "Source locates archival photo in Dalat, Vietnam, taken in 2019. Context of market trade only; no contemporary prices, personal finances or fictional identities asserted.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "vn-market-scooters": {
+    "observed": "Narrow market lane with flowers/produce at left, striped awnings and scooter riders. Full portrait retains crowded lane and market setting.",
+    "fit": "contain",
+    "limits": "Vietnam context per retained source receipt. No measured crowd demand, purchasing volume or current price inferred.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "cash-vnd": {
+    "observed": "Hand holding blue Vietnamese twenty-thousand-dong banknotes. Portrait contain preserves visible denomination and notes; landscape crop truncates notes and makes amount ambiguous.",
+    "fit": "contain",
+    "limits": "Currency illustration only; not a particular character’s wages, bank balance or fictional payment. Multiple notes visible, so do not imply photograph itself equals one twenty-thousand payment.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "cash-vnd-halong": {
+    "observed": "Two hands hold a reddish two-hundred-thousand-dong banknote in front of water and limestone islands. Landscape image preserves whole note and both hands.",
+    "fit": "contain",
+    "limits": "Currency context; visible note denomination is 200000 VND and is unrelated to example price of 20000. Do not label the photographed note as 20000 or wage payment.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "budget-calculator": {
+    "observed": "Calculator, blank spiral notepad, pen and US dollar notes on white tabletop. Landscape crop keeps calculator but visible currency is USD.",
+    "fit": "contain",
+    "limits": "Generic household budgeting context only. Currency is US dollars, so never use as literal illustration of Vietnamese dong price or wages. No personal balance, debt or expense amount established.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "budget-couple": {
+    "observed": "Two adults seated at table reviewing paper bills with calculator and laptop. Landscape image keeps hands and paperwork; no text legible enough to establish amounts.",
+    "fit": "contain",
+    "limits": "Context of reviewing household bills. People not fictional characters; no poverty, stress cause, debt or actual household finances asserted.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "grocery-cart": {
+    "observed": "Adult shopper pushes trolley containing produce along refrigerated grocery aisle. Full landscape keeps the shopper’s face, basket and aisle; center crop cuts head.",
+    "fit": "contain",
+    "limits": "Grocery-shopping context only, not Vietnamese location or measured price/income/purchasing behavior of pictured adult.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "receipt-hands": {
+    "observed": "Hands hold a long white receipt against light gray backdrop. Full portrait preserves receipt from top to lower hand. Text not read or used as evidence.",
+    "fit": "contain",
+    "limits": "Receipt-review context only, not actual bill of fictional household or shop. No receipt numbers or present-day prices inferred.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+      "date": "2026-11-14"
+    }
+  },
+  "vn-filled-banhmi": {
+    "observed": "Bright close photograph of a filled crusty roll cut across to show pink sliced meat, cucumber and orange vegetables; rear half and red chili on warm wooden surface. Full and center crop show actual filling. Landscape crop keeps cross-section visible.",
+    "fit": "cover",
+    "limits": "Primary Pexels location field says Việt Nam. Actual meal illustration; not a purchase from fictional Hạnh or evidence of the model’s twenty-thousand price, portion weight or quality.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop tile in photo-sheet-01.jpg after downloading exact file.",
+      "date": "2026-11-14"
+    }
+  },
+  "vn-filled-banhmi-bag": {
+    "observed": "Filled long bread in brown paper wrapping, visible dark grilled meat, shredded white vegetables, carrot and green herbs; shallow background. Portrait contain keeps whole sandwich and wrap; landscape center crop loses outer loaf and magnifies filling.",
+    "fit": "contain",
+    "limits": "Primary Pexels location field says Ho Chi Minh City, Vietnam. Food context only, not fictional Hạnh’s product or any quoted portion/price/recipe.",
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex story_photos",
+      "method": "Opened original-aspect and center-crop tile in photo-sheet-01.jpg after downloading exact file.",
+      "date": "2026-11-14"
+    }
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "clip-choose",
+    "providerVideoId": 5104001,
+    "file": "assets/clip-choose.mp4",
+    "page": "https://www.pexels.com/video/customer-picking-food-items-from-a-supermarket-5104001/",
+    "download": "https://videos.pexels.com/video-files/5104001/5104001-uhd_3840_2160_30fps.mp4",
+    "creator": "Gustavo Fring",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 14885057,
+    "sha256": "3b8a1649c80b018fd9fee82339e22d513cab5efd18b8ed3eece73cf5404e6aef",
+    "streams": [
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 2560x1440, 5453 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)"
+    ],
+    "inspectionStatus": "sampled-motion-frames-inspected",
+    "role": "Illustrative real stock footage; no depicted person asserted to overspend; foreign store not evidence of Vietnamese store.",
+    "durationSeconds": 21.8218,
+    "frames": 654,
+    "fps": 29.97002997002997,
+    "fullDecode": "passed",
+    "inspectionSheets": [
+      "sources/clip-choose-sheet.jpg"
+    ],
+    "inspection": {
+      "method": "Six source frames across full runtime opened; no continuous playback/listening claim.",
+      "sourceFramesAtSeconds": [
+        0,
+        4.3643600000000005,
+        8.728720000000001,
+        13.093079999999999,
+        17.457440000000002,
+        21.3218
+      ],
+      "observed": "Woman with gray/orange shopping cart selects an item, reaches to a high jar shelf, examines a jar, then leans toward cart. See six sampled frames over21.82s.",
+      "suggestedIntervals": [
+        {
+          "start": 0,
+          "end": 3.5,
+          "action": "Selects produce/low-shelf item beside cart"
+        },
+        {
+          "start": 6,
+          "end": 11,
+          "action": "Reaches toward and takes a jar from shelf"
+        },
+        {
+          "start": 13,
+          "end": 18.5,
+          "action": "Looks down at jar label"
+        }
+      ],
+      "limit": "Do not call choice unplanned or overspending; label price text not independently readable; real stock store may be staged."
+    },
+    "derivative": {
+      "file": "assets/clip-choose-720p.mp4",
+      "poster": "assets/clip-choose-poster.jpg",
+      "command": [
+        "C:\\Users\\tyranno\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+        "-v",
+        "error",
+        "-y",
+        "-i",
+        "videos\\2026-11-13-di-sieu-thi\\long\\assets\\clip-choose.mp4",
+        "-map",
+        "0:v:0",
+        "-an",
+        "-vf",
+        "scale=1280:720:flags=lanczos,setsar=1,fps=30,format=yuv420p",
+        "-c:v",
+        "libx264",
+        "-crf",
+        "21",
+        "-preset",
+        "fast",
+        "-color_primaries",
+        "bt709",
+        "-color_trc",
+        "bt709",
+        "-colorspace",
+        "bt709",
+        "-color_range",
+        "tv",
+        "-movflags",
+        "+faststart",
+        "videos\\2026-11-13-di-sieu-thi\\long\\assets\\clip-choose-720p.mp4"
+      ],
+      "sourceSHA256": "3b8a1649c80b018fd9fee82339e22d513cab5efd18b8ed3eece73cf5404e6aef",
+      "sha256": "bec3cbfdaaeea22a56b25fec66b6e0910d6ea17dbe16a49d3b8b203694c33989",
+      "posterSHA256": "bd5feb67dd301cb8e8f819b94528efb8650b093cd7b71c84d417c7f9e9fc83a4",
+      "bytes": 3858513,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "availableFrames": 654,
+      "durationSeconds": 21.8,
+      "fullDecode": "passed",
+      "audio": "removed for narration-first mix",
+      "loop": false
+    }
+  },
+  {
+    "id": "clip-aisle",
+    "providerVideoId": 10901926,
+    "file": "assets/clip-aisle.mp4",
+    "page": "https://www.pexels.com/video/customers-shopping-at-supermarket-10901926/",
+    "download": "https://videos.pexels.com/video-files/10901926/10901926-hd_1920_1080_30fps.mp4",
+    "creator": "Suika Chan",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 8497229,
+    "sha256": "93e3f7aa893d781e61de49855d736662ab32b54d026f008a55b285b06cdbfd0b",
+    "streams": [
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 5721 kb/s, 30 fps, 30 tbr, 30 tbn (default)",
+      "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 253 kb/s (default)"
+    ],
+    "inspectionStatus": "sampled-motion-frames-inspected",
+    "role": "Illustrative real stock footage; no depicted person asserted to overspend; foreign store not evidence of Vietnamese store.",
+    "durationSeconds": 11.366666666666667,
+    "frames": 341,
+    "fps": 30.0,
+    "fullDecode": "passed",
+    "inspectionSheets": [
+      "sources/clip-aisle-sheet.jpg"
+    ],
+    "inspection": {
+      "method": "Six source frames across full runtime opened; no continuous playback/listening claim.",
+      "sourceFramesAtSeconds": [
+        0,
+        2.2733333333333334,
+        4.546666666666667,
+        6.82,
+        9.093333333333334,
+        10.866666666666667
+      ],
+      "observed": "Wide busy supermarket view with Chinese-language department signs, shoppers walking and selecting products. Change of positions across all sampled times shows actual motion.",
+      "suggestedIntervals": [
+        {
+          "start": 0,
+          "end": 5,
+          "action": "Store crowd and browsing context"
+        },
+        {
+          "start": 5,
+          "end": 10.5,
+          "action": "Continued shopper movement; distinct source interval"
+        }
+      ],
+      "limit": "Not evidence of Vietnamese retail, the Swedish study, individual intent or impulse buying. Original sound must be muted under narration unless separately reviewed."
+    },
+    "derivative": {
+      "file": "assets/clip-aisle-720p.mp4",
+      "poster": "assets/clip-aisle-poster.jpg",
+      "command": [
+        "C:\\Users\\tyranno\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+        "-v",
+        "error",
+        "-y",
+        "-i",
+        "videos\\2026-11-13-di-sieu-thi\\long\\assets\\clip-aisle.mp4",
+        "-map",
+        "0:v:0",
+        "-an",
+        "-vf",
+        "scale=1280:720:flags=lanczos,setsar=1,fps=30,format=yuv420p",
+        "-c:v",
+        "libx264",
+        "-crf",
+        "21",
+        "-preset",
+        "fast",
+        "-color_primaries",
+        "bt709",
+        "-color_trc",
+        "bt709",
+        "-colorspace",
+        "bt709",
+        "-color_range",
+        "tv",
+        "-movflags",
+        "+faststart",
+        "videos\\2026-11-13-di-sieu-thi\\long\\assets\\clip-aisle-720p.mp4"
+      ],
+      "sourceSHA256": "93e3f7aa893d781e61de49855d736662ab32b54d026f008a55b285b06cdbfd0b",
+      "sha256": "27abc57343be844d6ee53cf5a10db2889e31a0ec5bbba296f27442c6e3a8c6d5",
+      "posterSHA256": "3105849e9fb2bffc5e7122935765cccf73a278790054b948f20eedb51607a35a",
+      "bytes": 5689475,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "availableFrames": 340,
+      "durationSeconds": 11.333333333333334,
+      "fullDecode": "passed",
+      "audio": "removed for narration-first mix",
+      "loop": false
+    }
+  },
+  {
+    "id": "clip-checkout",
+    "providerVideoId": 5103988,
+    "file": "assets/clip-checkout.mp4",
+    "page": "https://www.pexels.com/video/woman-getting-things-out-of-grocery-basket-at-billing-counter-5103988/",
+    "download": "https://videos.pexels.com/video-files/5103988/5103988-uhd_3840_2160_30fps.mp4",
+    "creator": "Gustavo Fring",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 33152623,
+    "sha256": "99ba0fcf55d41d9ccea9958e96525639e609bef3784678bdb5d32ae4f1d7976b",
+    "streams": [
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 3840x2160, 15400 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)"
+    ],
+    "inspectionStatus": "sampled-motion-frames-inspected",
+    "role": "Illustrative real stock footage; no depicted person asserted to overspend; foreign store not evidence of Vietnamese store.",
+    "durationSeconds": 17.217200000000002,
+    "frames": 516,
+    "fps": 29.97002997002997,
+    "fullDecode": "passed",
+    "inspectionSheets": [
+      "sources/clip-checkout-sheet.jpg"
+    ],
+    "inspection": {
+      "method": "Six source frames across full runtime opened; no continuous playback/listening claim.",
+      "sourceFramesAtSeconds": [
+        0,
+        3.4434400000000007,
+        6.8868800000000014,
+        10.33032,
+        13.773760000000003,
+        16.717200000000002
+      ],
+      "observed": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end.",
+      "suggestedIntervals": [
+        {
+          "start": 0,
+          "end": 5,
+          "action": "Unloading basket at checkout"
+        },
+        {
+          "start": 6,
+          "end": 11,
+          "action": "Cashier handles produce/packaged goods"
+        },
+        {
+          "start": 13,
+          "end": 16.8,
+          "action": "Customer finishes unloading/lifts basket"
+        }
+      ],
+      "limit": "No actual bank-card/cash payment seen in sampled sequence. Do not claim transaction total or payment method."
+    },
+    "derivative": {
+      "file": "assets/clip-checkout-720p.mp4",
+      "poster": "assets/clip-checkout-poster.jpg",
+      "command": [
+        "C:\\Users\\tyranno\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+        "-v",
+        "error",
+        "-y",
+        "-i",
+        "videos\\2026-11-13-di-sieu-thi\\long\\assets\\clip-checkout.mp4",
+        "-map",
+        "0:v:0",
+        "-an",
+        "-vf",
+        "scale=1280:720:flags=lanczos,setsar=1,fps=30,format=yuv420p",
+        "-c:v",
+        "libx264",
+        "-crf",
+        "21",
+        "-preset",
+        "fast",
+        "-color_primaries",
+        "bt709",
+        "-color_trc",
+        "bt709",
+        "-colorspace",
+        "bt709",
+        "-color_range",
+        "tv",
+        "-movflags",
+        "+faststart",
+        "videos\\2026-11-13-di-sieu-thi\\long\\assets\\clip-checkout-720p.mp4"
+      ],
+      "sourceSHA256": "99ba0fcf55d41d9ccea9958e96525639e609bef3784678bdb5d32ae4f1d7976b",
+      "sha256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+      "posterSHA256": "39502403320b9cdf7a359ceee21d26a948e12644f1986459bfc15f79454f4b3f",
+      "bytes": 3436555,
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "availableFrames": 516,
+      "durationSeconds": 17.2,
+      "fullDecode": "passed",
+      "audio": "removed for narration-first mix",
+      "loop": false
+    }
+  },
+  {
+    "id": "clip-cart",
+    "error": "Source larger than300MB; skipped"
+  }
+]

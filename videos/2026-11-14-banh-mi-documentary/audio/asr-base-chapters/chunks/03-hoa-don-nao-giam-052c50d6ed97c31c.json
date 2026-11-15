@@ -1,0 +1,9 @@
+{
+  "sourceSHA256": "8554b549b4aa9c4c83114e2f09529b538b61ef16791f4417f9909595f9cf8110",
+  "sha256": "71d3023fcebf039b63866875775c1717f6de5d854f4b597e4ec032d6c5fd28c7",
+  "seconds": 74.736,
+  "sampleRate": 16000,
+  "channels": 1,
+  "sampleWidthBytes": 2,
+  "scope": "Complete individual take resampled, no time stretching or mix."
+}

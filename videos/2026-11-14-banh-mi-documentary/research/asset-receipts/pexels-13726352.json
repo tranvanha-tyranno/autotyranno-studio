@@ -1,0 +1,39 @@
+{
+  "pexelsID": 13726352,
+  "pageURL": "https://www.pexels.com/video/taking-bread-out-of-oven-13726352/",
+  "title": "Taking bread out of traditional oven",
+  "creator": "✨",
+  "downloadURL": "https://videos.pexels.com/video-files/13726352/13726352-uhd_2160_3840_60fps.mp4",
+  "tags": [],
+  "id": "pexels-13726352",
+  "file": "assets/raw/pexels-13726352.mp4",
+  "sha256": "78490c3dd6ea1b1061d6aac588b81ad9143a8729d34d2aa014cac57f13639f90",
+  "bytes": 21079455,
+  "durationSeconds": 6.63,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 10.811,
+  "inspection": {
+    "status": "rejected",
+    "observations": "Portrait brick oven with bread shovel and thin flatbreads on tray. Food is flatbread rather than baguette; rejected for this bánh-mì story to avoid visual mismatch.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-13726352.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 2160,
+  "height": 3840,
+  "usableForBreadFilm": false,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/taking-bread-out-of-oven-13726352/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

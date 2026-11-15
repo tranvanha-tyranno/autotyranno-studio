@@ -1,0 +1,14 @@
+{
+  "file": "videos\\2026-11-11-ai-va-cong-viec-5phut\\final.mp4",
+  "decodedFrames": 9000,
+  "fps": 30.0,
+  "seconds": 300.0,
+  "width": 1920,
+  "height": 1080,
+  "expectedFrames": 9000,
+  "frameCountPass": true,
+  "deltaTopPictureMean": 1.834337295692108,
+  "minimumConsecutiveSampleDelta": 0.0,
+  "aestheticAcceptance": "not inferred; requires visual review and user feedback",
+  "audioListening": "not performed by this script"
+}

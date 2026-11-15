@@ -1,0 +1,52 @@
+{
+  "pexelsID": 8233041,
+  "pageURL": "https://www.pexels.com/video/a-person-sifting-flour-8233041/",
+  "title": "Sifting flour in kitchen",
+  "creator": "ROMAN ODINTSOV",
+  "fps": [
+    25
+  ],
+  "tags": [
+    "flour",
+    "ingredients",
+    "bakery"
+  ],
+  "id": "pexels-8233041",
+  "file": "assets/raw/pexels-8233041.mp4",
+  "sha256": "2bcb7b20520529af02fb1632f7506dc01484215fd2ca9ce3b81883bf07a7d9ca",
+  "bytes": 16429952,
+  "durationSeconds": 66.64,
+  "downloadURL": "https://videos.pexels.com/video-files/8233041/8233041-hd_720_1366_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 4.677,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Portrait real flour sifting: hand shakes sieve above flour pile; powder falls and pile develops. 66sec source contains ongoing action, but do not spend all duration on repeated sifting or treat flour pile as finished bread.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8233041.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 66.35,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 720,
+  "height": 1366,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/a-person-sifting-flour-8233041/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "lesson_id": "evt-000016-2c7ad0af4f8b",
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r06",
+  "change": "Implemented a visual-only r06 revision with actual Three.js cartons/baskets, hypothetical one-versus-two price mechanisms and a home/aisle/pre-checkout journey, with exact-take local cue frames. Seven source-documented Vietnam assets replace selected shopping context images; location/source limits remain explicit. The existing photo/gallery interface remains, with a distinct MIỄN TRỪ TRÁCH NHIỆM section at frames 556..815. Retained r06 narration, alignment, receipt, final mix and script are byte-identical to r04. This records concrete implementation only: render completion and rendered/user review are pending; the lesson is not verified and r06 is not accepted.",
+  "evidence": [
+    {
+      "role": "code",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/repair-attempts/20261113T015112.536110Z-repair-fb1f0a/source-snapshot/cinematic/src/directions/Shopping3D.tsx",
+      "sha256": "539458c3a9881851c8e2e3abcbdbfab1111a759788d3f09594eee538d1cabbf2",
+      "description": "Immutable source snapshot used by the running r06 repair attempt; original actual Three.js mechanisms and cue-driven image panels."
+    },
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/long/production-manifest.json",
+      "sha256": "91d78714a97a04c443743b14b592abe9edf07c88cb7319e0cd6e80f2d29f4840",
+      "description": "Retained r06 manifest snapshot: meaningful motion, explicit disclaimer and documentary location evidence; not mutable working source."
+    },
+    {
+      "role": "source",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/long/image-sources.json",
+      "sha256": "348960b1b438842b92ad13f433ad6c7c875c5fdbe52cbcb9fb9623cc910fafe8",
+      "description": "Retained per-asset author/license/source/location/inspection receipts; foreign or unlocated stock is not declared Vietnam."
+    },
+    {
+      "role": "source",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/repair-attempts/20261113T015112.536110Z-repair-fb1f0a/source-receipts.json",
+      "sha256": "bc37adf920018a8896c20da62a64f89ef4728d15975a642f557fda11a06b8755",
+      "description": "Retained repair receipts pin prior final, new manifest/data and unchanged exact mix; no claim of render acceptance."
+    }
+  ]
+}

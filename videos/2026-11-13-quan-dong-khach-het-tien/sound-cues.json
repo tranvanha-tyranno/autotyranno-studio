@@ -1,0 +1,200 @@
+[
+  {
+    "beat": "h01",
+    "asset": "cafe-ambience",
+    "time": 0.0,
+    "duration": 10.6,
+    "gainDB": 0,
+    "role": "Establish the audible cafe room",
+    "ambience": true,
+    "file": "audio/sfx/cafe-ambience.mp3",
+    "sha256": "3e38c2299c67c82d57b6e84aa9eacd0f34b851b9f1a0a0e99b6f0458e5a82bc2"
+  },
+  {
+    "beat": "h01",
+    "asset": "espresso",
+    "time": 0.4,
+    "duration": 5.0,
+    "gainDB": -1,
+    "role": "Machine mentioned in the opening",
+    "ambience": false,
+    "file": "audio/sfx/espresso.mp3",
+    "sha256": "947ef73c7758a8059b5dca4608476cc77d5235e05187e099bb96eb885efc9d84"
+  },
+  {
+    "beat": "h03",
+    "asset": "cup-set",
+    "time": 19.316667,
+    "duration": 2.2,
+    "gainDB": 0,
+    "role": "Follow the single hypothetical coffee cup",
+    "ambience": false,
+    "file": "audio/sfx/cup-set.mp3",
+    "sha256": "301cddaefec75a42669fd5ad51fd19ceb6bab0da9ec5ce02deaad66106be71c5"
+  },
+  {
+    "beat": "u01",
+    "asset": "transition",
+    "time": 38.966667,
+    "duration": 1.6,
+    "gainDB": -3,
+    "role": "Move from opening to unit economics",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "u02",
+    "asset": "grinder",
+    "time": 46.75,
+    "duration": 4.0,
+    "gainDB": -2,
+    "role": "Ingredients and preparation cost per order",
+    "ambience": false,
+    "file": "audio/sfx/grinder.mp3",
+    "sha256": "cd6797439d94c280495450169f825d7977a78850e429175a47876c70f87ea1c3"
+  },
+  {
+    "beat": "u03",
+    "asset": "paper-pen",
+    "time": 55.883333,
+    "duration": 4.5,
+    "gainDB": -1,
+    "role": "Open the receipt arithmetic",
+    "ambience": false,
+    "file": "audio/sfx/paper-pen.mp3",
+    "sha256": "d6beb31d8db6be5285cc4d8515005af869acd74bbbd22a8526677d23c4290e46"
+  },
+  {
+    "beat": "b01",
+    "asset": "transition",
+    "time": 123.4,
+    "duration": 1.6,
+    "gainDB": -3,
+    "role": "Move to fixed costs and break-even",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "b03",
+    "asset": "wood-tick",
+    "time": 140.733333,
+    "duration": 1.5,
+    "gainDB": -2,
+    "role": "Mark the break-even step",
+    "ambience": false,
+    "file": "audio/sfx/wood-tick.mp3",
+    "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090"
+  },
+  {
+    "beat": "v01",
+    "asset": "cafe-ambience",
+    "time": 200.233333,
+    "duration": 10.566667,
+    "gainDB": -2,
+    "role": "Busy-hours scene context",
+    "ambience": true,
+    "file": "audio/sfx/cafe-ambience.mp3",
+    "sha256": "3e38c2299c67c82d57b6e84aa9eacd0f34b851b9f1a0a0e99b6f0458e5a82bc2"
+  },
+  {
+    "beat": "p01",
+    "asset": "paper-pen",
+    "time": 263.033333,
+    "duration": 4.5,
+    "gainDB": -1,
+    "role": "Change the hypothetical offer price",
+    "ambience": false,
+    "file": "audio/sfx/paper-pen.mp3",
+    "sha256": "d6beb31d8db6be5285cc4d8515005af869acd74bbbd22a8526677d23c4290e46"
+  },
+  {
+    "beat": "p03",
+    "asset": "coins",
+    "time": 281.4,
+    "duration": 2.8,
+    "gainDB": -1,
+    "role": "Different contribution from a discounted cup",
+    "ambience": false,
+    "file": "audio/sfx/coins.mp3",
+    "sha256": "52545605caa7264abb33678008062895a93db13ee46983f148de35e87c1c5045"
+  },
+  {
+    "beat": "m01",
+    "asset": "transition",
+    "time": 353.633333,
+    "duration": 1.6,
+    "gainDB": -4,
+    "role": "Shift from operating result to cash timing",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "u06",
+    "asset": "milk-steam",
+    "time": 84.333333,
+    "duration": 4.0,
+    "gainDB": -3,
+    "role": "Visible milk-steaming action in the prepared first media slot",
+    "ambience": false,
+    "file": "audio/sfx/milk-steam.mp3",
+    "sha256": "1f76e3dd95761fcb645a53f479896440eff938af89003e91cadb9d8678081c05"
+  },
+  {
+    "beat": "m07",
+    "asset": "low-hit",
+    "time": 421.266667,
+    "duration": 1.8,
+    "gainDB": -3,
+    "role": "Quiet emphasis on cash obligations",
+    "ambience": false,
+    "file": "audio/sfx/low-hit.mp3",
+    "sha256": "8ed8e2da9e75bdb5d69adc3149feae84729ce657b2451134ab759f5ac199d7ea"
+  },
+  {
+    "beat": "a01",
+    "asset": "transition",
+    "time": 455.4,
+    "duration": 1.6,
+    "gainDB": -4,
+    "role": "Move to practical observation",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "a02",
+    "asset": "paper-pen",
+    "time": 465.433333,
+    "duration": 4.5,
+    "gainDB": -1,
+    "role": "Write the week observation sheet",
+    "ambience": false,
+    "file": "audio/sfx/paper-pen.mp3",
+    "sha256": "d6beb31d8db6be5285cc4d8515005af869acd74bbbd22a8526677d23c4290e46"
+  },
+  {
+    "beat": "e01",
+    "asset": "cafe-ambience",
+    "time": 542.966667,
+    "duration": 8.9,
+    "gainDB": -2,
+    "role": "Return to the real cafe context",
+    "ambience": true,
+    "file": "audio/sfx/cafe-ambience.mp3",
+    "sha256": "3e38c2299c67c82d57b6e84aa9eacd0f34b851b9f1a0a0e99b6f0458e5a82bc2"
+  },
+  {
+    "beat": "e05",
+    "asset": "cup-set",
+    "time": 584.133333,
+    "duration": 2.2,
+    "gainDB": -1,
+    "role": "Final callback to the single coffee cup",
+    "ambience": false,
+    "file": "audio/sfx/cup-set.mp3",
+    "sha256": "301cddaefec75a42669fd5ad51fd19ceb6bab0da9ec5ce02deaad66106be71c5"
+  }
+]

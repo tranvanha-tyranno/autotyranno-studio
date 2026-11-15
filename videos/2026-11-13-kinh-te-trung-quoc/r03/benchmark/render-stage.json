@@ -1,0 +1,157 @@
+{
+  "schema": "china-render-benchmark/1",
+  "attempt": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f",
+  "startedUTC": "2026-11-13T06:41:57.169450+00:00",
+  "finishedUTC": "2026-11-13T06:56:55.774388+00:00",
+  "bundle": {
+    "startedUTC": "2026-11-13T06:41:57.314728+00:00",
+    "finishedUTC": "2026-11-13T06:42:02.942528+00:00",
+    "wallSeconds": 5.625,
+    "returncode": 0,
+    "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\bundle.log",
+    "directProcessCPUSeconds": 6.0,
+    "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+  },
+  "chapters": [
+    {
+      "id": "opening",
+      "startedUTC": "2026-11-13T06:42:17.116603+00:00",
+      "finishedUTC": "2026-11-13T06:43:17.308170+00:00",
+      "wallSeconds": 60.188,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-00-1d5c6b39.log",
+      "directProcessCPUSeconds": 11.953125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 1330,
+      "renderFramesPerSecond": 22.097,
+      "videoSecondsPerWallSecond": 0.7366
+    },
+    {
+      "id": "factory",
+      "startedUTC": "2026-11-13T06:43:18.368559+00:00",
+      "finishedUTC": "2026-11-13T06:45:23.444061+00:00",
+      "wallSeconds": 125.079,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-01-1d5c6b39.log",
+      "directProcessCPUSeconds": 20.359375,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 2698,
+      "renderFramesPerSecond": 21.57,
+      "videoSecondsPerWallSecond": 0.719
+    },
+    {
+      "id": "property",
+      "startedUTC": "2026-11-13T06:45:25.454256+00:00",
+      "finishedUTC": "2026-11-13T06:47:19.860540+00:00",
+      "wallSeconds": 114.406,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-02-1d5c6b39.log",
+      "directProcessCPUSeconds": 21.203125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 2641,
+      "renderFramesPerSecond": 23.084,
+      "videoSecondsPerWallSecond": 0.7695
+    },
+    {
+      "id": "households",
+      "startedUTC": "2026-11-13T06:47:21.864673+00:00",
+      "finishedUTC": "2026-11-13T06:49:22.452323+00:00",
+      "wallSeconds": 120.594,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-03-1d5c6b39.log",
+      "directProcessCPUSeconds": 20.296875,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 2753,
+      "renderFramesPerSecond": 22.829,
+      "videoSecondsPerWallSecond": 0.761
+    },
+    {
+      "id": "trade",
+      "startedUTC": "2026-11-13T06:49:24.328536+00:00",
+      "finishedUTC": "2026-11-13T06:51:05.942501+00:00",
+      "wallSeconds": 101.61,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-04-1d5c6b39.log",
+      "directProcessCPUSeconds": 17.84375,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 2339,
+      "renderFramesPerSecond": 23.019,
+      "videoSecondsPerWallSecond": 0.7673
+    },
+    {
+      "id": "demography",
+      "startedUTC": "2026-11-13T06:51:07.760531+00:00",
+      "finishedUTC": "2026-11-13T06:52:48.022880+00:00",
+      "wallSeconds": 100.266,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-05-1d5c6b39.log",
+      "directProcessCPUSeconds": 18.09375,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 2093,
+      "renderFramesPerSecond": 20.874,
+      "videoSecondsPerWallSecond": 0.6958
+    },
+    {
+      "id": "policy",
+      "startedUTC": "2026-11-13T06:52:49.750250+00:00",
+      "finishedUTC": "2026-11-13T06:54:40.262049+00:00",
+      "wallSeconds": 110.5,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-06-1d5c6b39.log",
+      "directProcessCPUSeconds": 18.953125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 2494,
+      "renderFramesPerSecond": 22.57,
+      "videoSecondsPerWallSecond": 0.7523
+    },
+    {
+      "id": "ending",
+      "startedUTC": "2026-11-13T06:54:42.161569+00:00",
+      "finishedUTC": "2026-11-13T06:56:01.397730+00:00",
+      "wallSeconds": 79.235,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\part-07-1d5c6b39.log",
+      "directProcessCPUSeconds": 15.375,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+      "frames": 1565,
+      "renderFramesPerSecond": 19.751,
+      "videoSecondsPerWallSecond": 0.6584
+    }
+  ],
+  "chapterRenderWallSeconds": 811.8779999999999,
+  "aggregateRenderFramesPerSecond": 22.06365981095682,
+  "join": {
+    "startedUTC": "2026-11-13T06:56:05.616780+00:00",
+    "finishedUTC": "2026-11-13T06:56:40.670654+00:00",
+    "wallSeconds": 35.063,
+    "returncode": 0,
+    "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r03\\render-attempts\\20261113T064156Z-344f5f\\join-1d5c6b39.log",
+    "directProcessCPUSeconds": 36.21875,
+    "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+  },
+  "joinMode": "stream-copy",
+  "finalDecode": {
+    "sha256": "dbbb016a2a57107d4bc943059fa8e3eb41ff0f087f67604e399c370cab59620e",
+    "frames": 17913,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "decodeWallSeconds": 14.109,
+    "decodeFramesPerSecond": 1269.615
+  },
+  "finalAudioDecode": {
+    "decodedSamplesMono48000": 28661760,
+    "seconds": 597.12,
+    "lastWordEnd": 595.58,
+    "wallSeconds": 0.734,
+    "manualListening": false
+  },
+  "concurrency": 2,
+  "mediaCacheBytes": 268435456,
+  "memoryAtStart": {
+    "totalPhysicalBytes": 16866832384,
+    "availablePhysicalBytes": 3305148416,
+    "method": "Windows GlobalMemoryStatusEx"
+  },
+  "scope": "Measured wall time and throughput only; no guessed machine/electricity USD cost, audio listening or user acceptance."
+}

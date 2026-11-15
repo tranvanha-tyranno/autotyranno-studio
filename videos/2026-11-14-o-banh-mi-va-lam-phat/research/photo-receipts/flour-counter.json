@@ -1,0 +1,48 @@
+{
+  "id": "flour-counter",
+  "file": "assets/flour-counter.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 36912597,
+  "sourceURL": "https://www.pexels.com/photo/close-up-of-dough-and-flour-on-kitchen-counter-36912597/",
+  "downloadURL": "https://images.pexels.com/photos/36912597/pexels-photo-36912597.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Debora Silveira",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "b8812f924cdad69dacf7c975cfb9370bff44014a7766323ee3dc1b4d0f0de9f1",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "flour"
+  ],
+  "credit": "Debora Silveira / Pexels",
+  "expectedFromSource": "Flour on work surface",
+  "observed": "Close detail of white flour spread in foreground and pale raw dough across work surface at rear; no prices or identifiable people.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "b8812f924cdad69dacf7c975cfb9370bff44014a7766323ee3dc1b4d0f0de9f1"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "BR",
+    "place": "RN, Brazil",
+    "sourceURL": "https://www.pexels.com/photo/close-up-of-dough-and-flour-on-kitchen-counter-36912597/",
+    "evidence": "Primary photo page location field says RN, Brasil."
+  }
+}

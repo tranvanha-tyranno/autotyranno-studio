@@ -1,0 +1,202 @@
+{
+  "candidates": [
+    {
+      "pexelsID": 8298010,
+      "pageURL": "https://www.pexels.com/video/a-woman-using-calculator-8298010/",
+      "title": "A Woman Using Calculator",
+      "creator": "Mikhail Nilov",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "calculator",
+        "accounting"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 7710751,
+      "pageURL": "https://www.pexels.com/video/a-woman-putting-notes-on-the-receipt-7710751/",
+      "title": "A Woman Putting Notes on the Receipt",
+      "creator": "Kaboompics",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "calculator",
+        "budget"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 13433110,
+      "pageURL": "https://www.pexels.com/video/a-person-reading-a-receipt-attached-to-a-paper-bag-13433110/",
+      "title": "A Person Reading a Receipt Attached to a Paper Bag",
+      "creator": "Mizuno K",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "delivery",
+        "paperbag"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 8421355,
+      "pageURL": "https://www.pexels.com/video/paying-with-a-creditcard-8421355/",
+      "title": "Paying with a Creditcard",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "payment",
+        "shop",
+        "checkout"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 8479282,
+      "pageURL": "https://www.pexels.com/video/person-counting-money-8479282/",
+      "title": "Person Counting Money",
+      "creator": "ArtHouse Studio",
+      "fps": [
+        25,
+        30,
+        24
+      ],
+      "tags": [
+        "cash",
+        "payment",
+        "euro"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 34982664,
+      "pageURL": "https://www.pexels.com/video/young-woman-selecting-vegetables-at-grocery-store-34982664/",
+      "title": "Young Woman Selecting Vegetables at Grocery Store",
+      "creator": "Alex Abram",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "ingredients"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 9474101,
+      "pageURL": "https://www.pexels.com/video/a-woman-is-shopping-in-a-supermarket-9474101/",
+      "title": "A woman is shopping in a supermarket",
+      "creator": "Greta Hoffman",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    },
+    {
+      "pexelsID": 8420781,
+      "pageURL": "https://www.pexels.com/video/woman-looking-inside-a-grocery-8420781/",
+      "title": "Woman Looking Inside a Grocery",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "list"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ]
+    }
+  ]
+}

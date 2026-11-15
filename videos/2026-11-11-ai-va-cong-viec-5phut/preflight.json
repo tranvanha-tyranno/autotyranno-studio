@@ -1,0 +1,16 @@
+{
+  "frames": 9000,
+  "chapters": 18,
+  "beatOrdering": "pass",
+  "lastWordEnd": 297.94962982995844,
+  "providerAssetHashes": "pass",
+  "scoreSeconds": 300.0,
+  "scoreMinuteRmsDBFS": [
+    -17.612466995677163,
+    -17.71177871826376,
+    -18.75932089985181,
+    -18.016291190128932,
+    -17.3622523646447
+  ],
+  "manualListening": false
+}

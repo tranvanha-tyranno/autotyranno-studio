@@ -1,0 +1,30 @@
+{
+  "id": "dinner-table",
+  "pexelsID": 6327606,
+  "sourceURL": "https://www.pexels.com/photo/friends-in-a-restaurant-eating-together-6327606/",
+  "creator": "Tima Miroshnichenko",
+  "theme": "meal",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/dinner-table.jpg",
+  "downloadURL": "https://images.pexels.com/photos/6327606/pexels-photo-6327606.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "678d7f3cafacc247c82a8facf03c023007010ec522ed674a29afd4ac30a86c1a",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

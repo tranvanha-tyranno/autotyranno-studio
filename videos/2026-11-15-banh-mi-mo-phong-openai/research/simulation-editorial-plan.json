@@ -1,0 +1,1019 @@
+{
+  "schema": "bread-simulation-editorial-plan/1",
+  "date": "2026-11-15",
+  "status": "editorial design; not rendered QA or user approval",
+  "scriptSource": "workflows/reference-video/bread_documentary_content.py",
+  "scriptSHA256": "8a51c578a922a7c556afad26ed21b2933edac8077fed8a3f353cc203099fac14",
+  "counts": {
+    "units": 24,
+    "simulationUnits": 19,
+    "realFootageUnits": 5
+  },
+  "principles": [
+    "Information density means visible relations, states and consequences, not more sentences on screen.",
+    "One active focal relation at a time; retain earlier state as a comparison anchor only when needed.",
+    "Eight families must have different physical operations and compositions, not relabeled cards.",
+    "Every animation must connect setup→operation→changed state at an exact narration cue.",
+    "Same bread spine and financial assumptions persist. Stock context never identifies fictional people.",
+    "Phrase cues are exact source text, not measured times. Align them to the new OpenAI take before rendering."
+  ],
+  "creativeDiversityReview": [
+    {
+      "risk": "Relabeled static cards",
+      "remedy": "Money physically routes/splits; price travels through time; inventory feeds a batch; ledger aggregates; order token chooses; income divides into capacity; basket changes scope; synthesis morphs previously proven relations."
+    },
+    {
+      "risk": "Every unit repeats the same reveal/hold",
+      "remedy": "Use the final state of one unit as the starting state of the next; b05 adds a counterfactual and decision, b06 traces the increment rather than replaying the whole sum."
+    },
+    {
+      "risk": "Background footage is just decoration",
+      "remedy": "Use real interludes b02,b07,b16,b23,b24 for actual object/action viewpoint changes; leave the calculation scene while it has an explanatory job."
+    },
+    {
+      "risk": "More information becomes unreadable",
+      "remedy": "Present labels and figures in the spoken order, retire no-longer-needed figures, keep model scope readable; never copy the paragraph as on-screen text."
+    },
+    {
+      "risk": "Eighteen simulations imply one acceptable style",
+      "remedy": "Inspect full moving sequences b03–b06, b11–b15, b17–b19 and b22 before the full render; count/family names and technical passes do not establish variety."
+    }
+  ],
+  "mathAudit": {
+    "costRemainders": [
+      3000,
+      500,
+      2500
+    ],
+    "netProfitClaim": false,
+    "fixedAllocationAssumption": "same quantity sold;5,000perunit held fixed",
+    "pricePath": [
+      20000,
+      22000,
+      22440
+    ],
+    "wageOriginalPeriodOnly": [
+      20000,
+      22000
+    ],
+    "breadQuantities": [
+      500,
+      477.2727272727
+    ],
+    "breadPurchasingPowerPercent": -4.545454545454552,
+    "inventoryCompetition": "qualitative only; no market statistics",
+    "basket": "scope concept only; no new household numerical model"
+  },
+  "units": [
+    {
+      "unitId": "b01",
+      "family": "money_split",
+      "mode": "simulation",
+      "storyFunction": "Visualize the opening paradox before explaining it.",
+      "whatMustBeVisible": "The same loaf has price+2,000 while the shop remainder falls500; the two arrows must not imply aggregate national outcomes.",
+      "setup": "One bread on an actual counter; two money routes are still connected to that same bread.",
+      "stages": [
+        {
+          "spokenPhrase": "Ổ bánh tăng hai nghìn.",
+          "action": "The price tag changes20,000→22,000 and the extra2,000 travels out of the buyer side.",
+          "changedState": "Customer outlay rises2,000."
+        },
+        {
+          "spokenPhrase": "người bán lại giữ được ít hơn năm trăm đồng",
+          "action": "The seller remainder changes3,000→2,500 and a500 difference leaves the remainder.",
+          "changedState": "Customer outlay and seller retained amount move in opposite directions."
+        },
+        {
+          "spokenPhrase": "Vì sao cả hai vẫn thấy khó hơn?",
+          "action": "Keep only the two conflicting outcomes and the same bread, opening the unanswered route between them.",
+          "changedState": "A concrete unresolved relation, not a title card."
+        }
+      ],
+      "data": {
+        "priceBefore": 20000,
+        "priceAfter": 22000,
+        "remainderBefore": 3000,
+        "remainderAfter": 2500,
+        "difference": -500
+      },
+      "scopeLabel": "Ví dụ minh họa",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not call the remainder net profit.",
+        "Do not display all future wage/CPI information in the hook."
+      ],
+      "narration": "Ổ bánh tăng hai nghìn. Nhưng người bán lại giữ được ít hơn năm trăm đồng. Khách thấy đắt, chủ tiệm cũng thấy hụt. Trong khi đó, bản tin bảo lạm phát đã giảm. Vì sao cả hai vẫn thấy khó hơn?"
+    },
+    {
+      "unitId": "b02",
+      "family": null,
+      "mode": "real_footage",
+      "storyFunction": "Orient the single bakery story and plant the three objects that will return.",
+      "whatMustBeVisible": "Real hands prepare one consistent bread type; price board, receipt and pay envelope become three distinct points of inquiry.",
+      "setup": "Actual bakery preparation; footage people remain unnamed illustrative people.",
+      "stages": [
+        {
+          "spokenPhrase": "tiệm bánh giả định của chị Hạnh",
+          "action": "Use a short in-scene hypothetical label without a disclaimer screen.",
+          "changedState": "Scope established inside the story."
+        },
+        {
+          "spokenPhrase": "bảng giá, hóa đơn đầu vào, và tiền người mua kiếm được",
+          "action": "Briefly show the corresponding three objects in that spoken order.",
+          "changedState": "Three concrete objects, not three abstract dashboard cards."
+        }
+      ],
+      "data": {},
+      "scopeLabel": "Tiệm giả định; footage là bối cảnh",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Never identify stock staff as Hạnh or claim their real finances."
+      ],
+      "narration": "Thử theo một ngày ở tiệm bánh giả định của chị Hạnh. Ta đặt các con số đơn giản vào tiệm này để lần theo số tiền vừa tăng. Chìa khóa nằm ở ba thứ thường bị nhìn riêng: bảng giá, hóa đơn đầu vào, và tiền người mua kiếm được."
+    },
+    {
+      "unitId": "b03",
+      "family": "money_split",
+      "mode": "simulation",
+      "storyFunction": "Make the baseline arithmetic spatial and causal.",
+      "whatMustBeVisible": "20,000 physically divides into12,000 variable costs,5,000 fixed allocation and3,000 remainder.",
+      "setup": "An intact20,000 strip/stack enters at the payment point; one bread pins the unit of analysis.",
+      "stages": [
+        {
+          "spokenPhrase": "một ổ bán hai mươi nghìn",
+          "action": "Show the whole20,000 payment before splitting.",
+          "changedState": "The viewer knows the total and unit."
+        },
+        {
+          "spokenPhrase": "hết mười hai nghìn",
+          "action": "Route12,000 into ingredients/variable costs.",
+          "changedState": "8,000 still unallocated."
+        },
+        {
+          "spokenPhrase": "được chia ra năm nghìn một ổ",
+          "action": "Take5,000 into fixed allocation; the quantity/sales assumption stays pinned.",
+          "changedState": "3,000 remains after the modeled costs."
+        },
+        {
+          "spokenPhrase": "Còn ba nghìn.",
+          "action": "Isolate the physical3,000 remainder without a profit label.",
+          "changedState": "Arithmetic has unfolded, not appeared as a completed table."
+        }
+      ],
+      "data": {
+        "price": 20000,
+        "variable": 12000,
+        "fixedAllocated": 5000,
+        "remainder": 3000,
+        "salesVolume": "held_constant_assumption"
+      },
+      "scopeLabel": "Ví dụ minh họa · cùng lượng bán giả định",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not show12k+5k+3k exceeding20k.",
+        "No continuously running counter after it reaches a meaningful state."
+      ],
+      "narration": "Trước lần đổi bảng, một ổ bán hai mươi nghìn. Nguyên liệu và những khoản thay đổi theo lượng bánh hết mười hai nghìn. Tiền thuê cùng chi phí cố định được chia ra năm nghìn một ổ, ở lượng bán đang giả định. Còn ba nghìn."
+    },
+    {
+      "unitId": "b04",
+      "family": "cost_ledger",
+      "mode": "simulation",
+      "storyFunction": "Limit the interpretation of the preceding result.",
+      "whatMustBeVisible": "3,000 is an unfinished subtotal with tax, depreciation and owner labor not yet counted.",
+      "setup": "Reuse the3,000 subtotal from b03; a real receipt or ledger surface supplies context.",
+      "stages": [
+        {
+          "spokenPhrase": "Khoan gọi ba nghìn ấy là tiền bỏ túi.",
+          "action": "Stop the3,000 moving toward an owner pocket; reopen it as an unfinished subtotal.",
+          "changedState": "The remainder is explicitly provisional."
+        },
+        {
+          "spokenPhrase": "thuế, khấu hao và công của chủ tiệm",
+          "action": "Add three unpriced/unfilled ledger lines, not invented costs.",
+          "changedState": "Viewer sees what the model excludes."
+        },
+        {
+          "spokenPhrase": "so trước với sau",
+          "action": "Pin the same scope to both before/after states.",
+          "changedState": "Comparison remains valid only within this limited model."
+        }
+      ],
+      "data": {
+        "subtotal": 3000,
+        "excludedUnpricedItems": [
+          "thuế",
+          "khấu hao",
+          "công chủ tiệm"
+        ]
+      },
+      "scopeLabel": "Khoảng dư mô hình · chưa phải lợi nhuận ròng",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No invented numeric tax, depreciation or wages.",
+        "Do not make the exclusions smaller than can be read at phone size."
+      ],
+      "narration": "Khoan gọi ba nghìn ấy là tiền bỏ túi. Mô hình còn chưa tính đủ thuế, khấu hao và công của chủ tiệm. Cứ giữ cách tính ấy để so trước với sau, rồi nhìn hóa đơn mới chị Hạnh vừa nhận."
+    },
+    {
+      "unitId": "b05",
+      "family": "money_split",
+      "mode": "simulation",
+      "storyFunction": "Show the pressure and the shop decision as separate states.",
+      "whatMustBeVisible": "First keep sale20,000 with cost14,500+5,000 to leave500; only then raise sale22,000 to leave2,500.",
+      "setup": "Same bread and fixed allocation as b03; variable-cost route is ready to expand.",
+      "stages": [
+        {
+          "spokenPhrase": "thành mười bốn nghìn năm trăm",
+          "action": "Variable cost grows12,000→14,500 while sale is still20,000.",
+          "changedState": "Remainder shrinks3,000→500."
+        },
+        {
+          "spokenPhrase": "Nếu giữ giá cũ",
+          "action": "Pause on the20,000 sale/500 remainder result.",
+          "changedState": "The counterfactual is legible before the decision."
+        },
+        {
+          "spokenPhrase": "đổi bảng lên hai mươi hai nghìn",
+          "action": "Sale changes20,000→22,000;2,000 refills part of the lost remainder.",
+          "changedState": "Remainder recovers500→2,500 but remains below3,000."
+        },
+        {
+          "spokenPhrase": "đầu vào đã tăng hai nghìn năm trăm",
+          "action": "Lay +2,000 received against +2,500 costs.",
+          "changedState": "500 gap explains the paradox."
+        }
+      ],
+      "data": {
+        "oldPrice": 20000,
+        "newVariable": 14500,
+        "fixedAllocated": 5000,
+        "oldPriceRemainder": 500,
+        "newPrice": 22000,
+        "newRemainder": 2500
+      },
+      "scopeLabel": "Ví dụ minh họa · cùng lượng bán giả định",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not reveal2,500 before narration says price is raised."
+      ],
+      "narration": "Cùng một ổ bánh, phần chi phí biến đổi giờ thành mười bốn nghìn năm trăm. Nếu giữ giá cũ, khoảng còn lại chỉ còn năm trăm đồng. Chị Hạnh đổi bảng lên hai mươi hai nghìn. Khách trả thêm hai nghìn; nhưng đầu vào đã tăng hai nghìn năm trăm."
+    },
+    {
+      "unitId": "b06",
+      "family": "money_split",
+      "mode": "simulation",
+      "storyFunction": "Prove the destination of the extra payment.",
+      "whatMustBeVisible": "A2,000 increment enters the expanded cost stream but cannot fill the whole2,500 expansion.",
+      "setup": "Keep b05 routes and visually follow only the incremental money.",
+      "stages": [
+        {
+          "spokenPhrase": "từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm",
+          "action": "Before/after remainders align to the same baseline.",
+          "changedState": "A500 shortfall is seen directly."
+        },
+        {
+          "spokenPhrase": "Hai nghìn tăng thêm không biến mất.",
+          "action": "The highlighted2,000 travels visibly into the2,500 extra-cost requirement.",
+          "changedState": "The money has an explained destination."
+        },
+        {
+          "spokenPhrase": "Nó chưa bù hết phần chi phí tăng.",
+          "action": "Leave the500 uncovered notch in the extra-cost route.",
+          "changedState": "The explanatory result appears as a physical gap, not a slogan."
+        }
+      ],
+      "data": {
+        "saleIncrement": 2000,
+        "costIncrement": 2500,
+        "uncoveredIncrement": 500,
+        "remainders": [
+          3000,
+          2500
+        ]
+      },
+      "scopeLabel": "Ví dụ minh họa · khoản dư, chưa phải lãi ròng",
+      "realFootageInterlude": "Return to a real receipt/ingredient action once the incremental route is understood.",
+      "avoid": [
+        "Do not repeat the entire baseline calculation from zero."
+      ],
+      "narration": "Kết quả: từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm trên một ổ. Hai nghìn tăng thêm không biến mất. Nó chưa bù hết phần chi phí tăng. Giá bán đi lên mà khoảng dư vẫn co lại. Chỉ nhìn tấm bảng, khách không thể biết điều đó."
+    },
+    {
+      "unitId": "b07",
+      "family": null,
+      "mode": "real_footage",
+      "storyFunction": "Release the graphic and ask the next unresolved question.",
+      "whatMustBeVisible": "Actual bread purchase, then the existing22,000 price board; alternative shop outcomes must be framed as possibilities.",
+      "setup": "Real hand-to-counter transaction or bread finishing, without invented identities.",
+      "stages": [
+        {
+          "spokenPhrase": "muốn kết luận phải có sổ thật",
+          "action": "The illustrative ledger withdraws; real-world context is shown without asserting a particular shop outcome.",
+          "changedState": "Scope of inference is clear."
+        },
+        {
+          "spokenPhrase": "tại sao bảng giá không quay về hai mươi nghìn?",
+          "action": "A20,000 reference mark appears beside the present22,000 label without resetting it.",
+          "changedState": "The new question is rate versus level."
+        }
+      ],
+      "data": {},
+      "scopeLabel": "Bối cảnh minh họa",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not fabricate news screenshots or current official inflation numbers."
+      ],
+      "narration": "Đấy là chuyện của tiệm trong ví dụ. Tiệm khác có thể giữ giá, giảm phần dư, hoặc tăng được lãi; muốn kết luận phải có sổ thật. Nhưng người khách vẫn có lý do để hỏi chị Hạnh: nếu lạm phát đang giảm, tại sao bảng giá không quay về hai mươi nghìn?"
+    },
+    {
+      "unitId": "b08",
+      "family": "price_level",
+      "mode": "simulation",
+      "storyFunction": "Distinguish sequential rates from the accumulated price level.",
+      "whatMustBeVisible": "The same loaf moves20,000→22,000→22,440; the10% and2% slopes differ while the level never falls.",
+      "setup": "A continuous price-height track with three equal-duration periods and one fixed bread silhouette/photo.",
+      "stages": [
+        {
+          "spokenPhrase": "Từ hai mươi lên hai mươi hai nghìn",
+          "action": "Move the loaf/price marker up from20,000 to22,000; label +10%.",
+          "changedState": "First increase is complete."
+        },
+        {
+          "spokenPhrase": "Nếu kỳ sau chỉ tăng hai phần trăm",
+          "action": "Continue a smaller positive rise; change the rate, not the baseline.",
+          "changedState": "Second increment is applied to22,000."
+        },
+        {
+          "spokenPhrase": "hai mươi hai nghìn bốn trăm bốn mươi",
+          "action": "Land exactly on22,440, leaving20,000 as reference.",
+          "changedState": "A smaller positive rate produces a still-higher level."
+        }
+      ],
+      "data": {
+        "prices": [
+          20000,
+          22000,
+          22440
+        ],
+        "ratesPercent": [
+          10,
+          2
+        ],
+        "periods": [
+          "Mốc đầu",
+          "Kỳ1",
+          "Kỳ2"
+        ],
+        "sameQuantityQuality": true
+      },
+      "scopeLabel": "Phép tính minh họa · không phải CPI",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not slope down on2%.",
+        "Do not use the22,440 price in the later same-period wage calculation."
+      ],
+      "narration": "Hãy giữ đúng chiếc bánh ấy, cùng lượng nhân và kích cỡ. Từ hai mươi lên hai mươi hai nghìn là tăng mười phần trăm. Nếu kỳ sau chỉ tăng hai phần trăm, bánh không trở lại hai mươi nghìn. Nó thành hai mươi hai nghìn bốn trăm bốn mươi đồng trong phép tính."
+    },
+    {
+      "unitId": "b09",
+      "family": "price_level",
+      "mode": "simulation",
+      "storyFunction": "Make the two meanings of down/up visible together.",
+      "whatMustBeVisible": "Rate contracts10%→2%; price remains20,000<22,000<22,440, without a misleading shared axis.",
+      "setup": "Keep the established price track; a separately labeled rate indicator is tied to each segment.",
+      "stages": [
+        {
+          "spokenPhrase": "Tỷ lệ đã hạ từ mười xuống hai.",
+          "action": "Rate indicator shrinks10→2.",
+          "changedState": "A slower pace is seen."
+        },
+        {
+          "spokenPhrase": "Số tiền phải trả vẫn tăng.",
+          "action": "Follow the price marker upward to22,440.",
+          "changedState": "The price level keeps rising."
+        },
+        {
+          "spokenPhrase": "Hai việc ấy khác nhau.",
+          "action": "Contrast a smaller upward step with an actual downward step drawn only as a rejected expectation.",
+          "changedState": "Viewer can distinguish disinflation from a price fall."
+        }
+      ],
+      "data": {
+        "prices": [
+          20000,
+          22000,
+          22440
+        ],
+        "ratesPercent": [
+          10,
+          2
+        ]
+      },
+      "scopeLabel": "Ví dụ minh họa · mức giá và tốc độ là hai đại lượng",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No dual-axis chart with unlabeled units.",
+        "Do not introduce deflation statistics."
+      ],
+      "narration": "Tỷ lệ đã hạ từ mười xuống hai. Số tiền phải trả vẫn tăng. Đây là chỗ lời nói và kỳ vọng dễ đi lệch nhau: bản tin nói tốc độ tăng chậm lại, còn khách đang chờ giá hạ xuống. Hai việc ấy khác nhau."
+    },
+    {
+      "unitId": "b10",
+      "family": "basket_scope",
+      "mode": "simulation",
+      "storyFunction": "Show the limit of the bread example, then return to the exact arithmetic.",
+      "whatMustBeVisible": "One bread is a small member of a wider basket; other categories do not get invented weights or prices.",
+      "setup": "Begin with the same bread used in b08, not a new food example.",
+      "stages": [
+        {
+          "spokenPhrase": "Một ổ bánh không đại diện cho lạm phát cả nước.",
+          "action": "Camera pulls back to show bread among rent/transport/food/service objects.",
+          "changedState": "Bread-only example is visibly a subset."
+        },
+        {
+          "spokenPhrase": "một rổ nhiều hàng hóa và dịch vụ",
+          "action": "Objects occupy qualitative positions with no pie percentages.",
+          "changedState": "Scope broadens without creating a new numerical model."
+        },
+        {
+          "spokenPhrase": "nó cộng lên phần giá đã tăng từ trước",
+          "action": "Return to the original bread track and add the new increment on its previous endpoint.",
+          "changedState": "The conceptual scope note reinforces the same spine."
+        }
+      ],
+      "data": {
+        "categories": [
+          "thực phẩm",
+          "nhà ở",
+          "đi lại",
+          "dịch vụ"
+        ],
+        "weights": null
+      },
+      "scopeLabel": "Minh họa phạm vi · không phải quyền số CPI",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No100-part basket or invented inflation contribution."
+      ],
+      "narration": "Một ổ bánh không đại diện cho lạm phát cả nước. Chỉ số chung nhìn một rổ nhiều hàng hóa và dịch vụ. Chiếc bánh ở đây chỉ giúp ta thấy phép tính: mức tăng mới có thể nhỏ, nhưng nó cộng lên phần giá đã tăng từ trước."
+    },
+    {
+      "unitId": "b11",
+      "family": "inventory",
+      "mode": "simulation",
+      "storyFunction": "Turn a headline rate into the concrete invoice question.",
+      "whatMustBeVisible": "A lower reported rate does not erase dated receipts; a genuinely lower new flour invoice is a distinct event.",
+      "setup": "Existing receipt/lease/electricity papers remain unchanged around one flour sack.",
+      "stages": [
+        {
+          "spokenPhrase": "tự suy ra bao bột, tiền thuê và tiền điện của mình đã về giá cũ",
+          "action": "A generic smaller-rate marker moves past dated documents without changing their amounts.",
+          "changedState": "Macro rate does not automatically rewrite individual costs."
+        },
+        {
+          "spokenPhrase": "một hóa đơn thực sự giảm",
+          "action": "A new flour invoice is visibly replaced by a lower qualitative cost state.",
+          "changedState": "Now the input really has changed."
+        },
+        {
+          "spokenPhrase": "khách có được chờ bánh rẻ lại không?",
+          "action": "Follow the invoice toward the same bread price, stopping before changing it.",
+          "changedState": "Cause and possible pass-through remain to be explained."
+        }
+      ],
+      "data": {
+        "newFlourCostDirection": "lower",
+        "actualAmount": null
+      },
+      "scopeLabel": "Tình huống giả định · chưa có mức giảm cụ thể",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No fabricated numeric flour price or current headline."
+      ],
+      "narration": "Vì thế, chị Hạnh không thể nghe một tỷ lệ lạm phát thấp hơn rồi tự suy ra bao bột, tiền thuê và tiền điện của mình đã về giá cũ. Nhưng nếu có một hóa đơn thực sự giảm thì sao? Chẳng hạn, bột mua cho mẻ bánh mới đã rẻ hơn. Lúc ấy khách có được chờ bánh rẻ lại không?"
+    },
+    {
+      "unitId": "b12",
+      "family": "inventory",
+      "mode": "simulation",
+      "storyFunction": "Explain possible timing lag by tracing the sack used in today’s batch.",
+      "whatMustBeVisible": "Old high-cost flour feeds today’s bread while a newly cheaper sack is still in stock.",
+      "setup": "A shelf contains one dated old lot and a newly arrived lot; the production path starts at the old lot.",
+      "stages": [
+        {
+          "spokenPhrase": "lô mua trước, giá cao",
+          "action": "Highlight old dated sack and its invoice; route flour into the current batch.",
+          "changedState": "Today’s cost follows the actual lot being used."
+        },
+        {
+          "spokenPhrase": "Hóa đơn mới thấp hơn",
+          "action": "Place the new cheaper sack in the receiving area, keeping it out of today’s batch.",
+          "changedState": "A newer invoice exists without changing the current input lot."
+        },
+        {
+          "spokenPhrase": "một độ trễ có thể có",
+          "action": "Advance the new sack only into a later batch, with a possible marker.",
+          "changedState": "The lag is a conditional process, not a permanent excuse."
+        }
+      ],
+      "data": {
+        "lots": [
+          "Lô trước",
+          "Lô mới"
+        ],
+        "costDirections": [
+          "cao hơn",
+          "thấp hơn"
+        ],
+        "numericalCosts": null
+      },
+      "scopeLabel": "Một khả năng minh họa · không áp dụng mọi tiệm",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not assert FIFO accounting is mandatory or every shop uses old stock.",
+        "No stock bobbing without actual lot-to-batch movement."
+      ],
+      "narration": "Chị Hạnh mở kho. Bao bột đang dùng có thể thuộc lô mua trước, giá cao. Hóa đơn mới thấp hơn chưa đổi ngay giá vốn của mẻ bánh hôm nay. Đấy là một độ trễ có thể có, không phải lý do mặc định cho mọi tiệm."
+    },
+    {
+      "unitId": "b13",
+      "family": "cost_ledger",
+      "mode": "simulation",
+      "storyFunction": "Make one decreasing component different from the total.",
+      "whatMustBeVisible": "Flour decreases; lease/wage commitments persist; remaining ingredients/energy can move separately.",
+      "setup": "A ledger assembled from actual expense objects; only flour is selected initially.",
+      "stages": [
+        {
+          "spokenPhrase": "Tiền thuê vẫn theo hợp đồng.",
+          "action": "The rent document stays locked in place while flour shrinks.",
+          "changedState": "Some costs do not move with the newest flour invoice."
+        },
+        {
+          "spokenPhrase": "Lương người phụ bán đã thỏa thuận.",
+          "action": "Wage commitment remains, distinct from the later hypothetical wage comparison.",
+          "changedState": "Another retained cost component is visible."
+        },
+        {
+          "spokenPhrase": "Một dòng giảm chưa có nghĩa tổng chi phí",
+          "action": "Route all expense lines into a total bracket while changing only the flour line.",
+          "changedState": "The sign of the total cannot be inferred from a single line."
+        }
+      ],
+      "data": {
+        "items": [
+          "bột",
+          "thuê",
+          "lương",
+          "điện",
+          "nhân",
+          "bao bì"
+        ],
+        "numericValues": null,
+        "qualitativeStates": true
+      },
+      "scopeLabel": "Minh họa quan hệ chi phí · không có mức giá thị trường",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not invent equal weights for costs or a numeric total.",
+        "Do not crowd six full text cards around the footage."
+      ],
+      "narration": "Rồi chị đặt hóa đơn bột cạnh các khoản khác. Tiền thuê vẫn theo hợp đồng. Lương người phụ bán đã thỏa thuận. Điện, nhân bánh, bao bì có thể đi theo hướng khác. Một dòng giảm chưa có nghĩa tổng chi phí của chiếc bánh đã trở lại như trước."
+    },
+    {
+      "unitId": "b14",
+      "family": "cost_ledger",
+      "mode": "simulation",
+      "storyFunction": "Test the explanation with an explicit counterexample.",
+      "whatMustBeVisible": "Total costs really fall, sales quantity and selling price stay unchanged, so the remainder can expand.",
+      "setup": "The same shop ledger; now every necessary assumption is visibly pinned before the cost change.",
+      "stages": [
+        {
+          "spokenPhrase": "nếu tổng chi phí đã giảm thật",
+          "action": "Shrink the whole cost requirement, not just the flour piece.",
+          "changedState": "This counterfactual differs from b13."
+        },
+        {
+          "spokenPhrase": "lượng bán vẫn như cũ",
+          "action": "Keep the number of breads/payments unchanged.",
+          "changedState": "Volume is held constant."
+        },
+        {
+          "spokenPhrase": "chị Hạnh giữ giá",
+          "action": "The selling-price marker stays fixed.",
+          "changedState": "Revenue per bread stays fixed."
+        },
+        {
+          "spokenPhrase": "Khoảng dư có thể tăng.",
+          "action": "Release the space previously occupied by cost into the remainder.",
+          "changedState": "A conditional larger remainder is the outcome."
+        }
+      ],
+      "data": {
+        "sellingPrice": "unchanged",
+        "salesVolume": "unchanged",
+        "totalCost": "decreases",
+        "remainder": "can_increase",
+        "newNumericAmounts": null
+      },
+      "scopeLabel": "Phản ví dụ có điều kiện · chưa phải lãi ròng",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not show a tax/depreciation-adjusted net profit.",
+        "Do not repeat b05 and imply costs rose in this counterexample."
+      ],
+      "narration": "Nhưng nói đến đây rồi dừng sẽ là bênh người bán quá dễ. Ta phải hỏi ngược: nếu tổng chi phí đã giảm thật, lượng bán vẫn như cũ, mà chị Hạnh giữ giá, thì sao? Khoảng dư có thể tăng. Không có quy luật nào bảo mọi cửa hàng luôn phải chịu thiệt."
+    },
+    {
+      "unitId": "b15",
+      "family": "competition",
+      "mode": "simulation",
+      "storyFunction": "Give the buyer a meaningful decision rather than decorative people.",
+      "whatMustBeVisible": "Two comparable breads, accessible alternative, customer choice and a possible loss of orders at the higher-price shop.",
+      "setup": "Two actual shop windows/bread images, linked by a walkable qualitative route; a customer is represented by an order token, not a cartoon presenter.",
+      "stages": [
+        {
+          "spokenPhrase": "bánh tương đương, rẻ hơn và dễ mua",
+          "action": "Open a route to comparable bread with a lower relative tag, no invented new numeric price.",
+          "changedState": "Switching is feasible."
+        },
+        {
+          "spokenPhrase": "cân nhắc mất khách",
+          "action": "Order tokens turn toward the alternative; original shop has fewer arriving orders.",
+          "changedState": "Competition changes the shop’s incentive."
+        },
+        {
+          "spokenPhrase": "khách khó chuyển chỗ mua",
+          "action": "Show the same route as obstructed/inconvenient in a second conditional state.",
+          "changedState": "Switching pressure becomes weaker."
+        },
+        {
+          "spokenPhrase": "không chỉ phép cộng trên hóa đơn",
+          "action": "Rejoin the invoice decision with the customer-choice route.",
+          "changedState": "Price-setting has both cost and demand conditions."
+        }
+      ],
+      "data": {
+        "comparison": "same_quantity_quality",
+        "alternative": "relatively_cheaper_accessible",
+        "marketShareNumbers": null
+      },
+      "scopeLabel": "Minh họa lựa chọn · không phải dữ liệu thị phần",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No invented customer counts/percent market share presented as measured.",
+        "No cash/coin rain as generic success."
+      ],
+      "narration": "Lúc này người khách có vai trò. Nếu bên cạnh có bánh tương đương, rẻ hơn và dễ mua, chị Hạnh phải cân nhắc mất khách. Nếu khách khó chuyển chỗ mua, sức ép ấy có thể yếu hơn. Giá bán còn là kết quả của lựa chọn và cạnh tranh, không chỉ phép cộng trên hóa đơn."
+    },
+    {
+      "unitId": "b16",
+      "family": null,
+      "mode": "real_footage",
+      "storyFunction": "Create a visual handoff from the counter to the buyer’s wallet.",
+      "whatMustBeVisible": "A real transaction ends; receipt and purchase are now viewed from the buyer side.",
+      "setup": "Actual counter/payment action with the bread visible, not another oven shot.",
+      "stages": [
+        {
+          "spokenPhrase": "tổng chi phí đã đổi bao nhiêu",
+          "action": "Receipt side remains in view long enough to recall the cost question.",
+          "changedState": "Question one is anchored."
+        },
+        {
+          "spokenPhrase": "khách có lựa chọn nào?",
+          "action": "Reveal nearby shop/customer decision context.",
+          "changedState": "Question two has an object."
+        },
+        {
+          "spokenPhrase": "chiếc ví của người mua",
+          "action": "A hand opens wallet/pay envelope, leading into income.",
+          "changedState": "Camera follows the reasoning to the next viewpoint."
+        }
+      ],
+      "data": {},
+      "scopeLabel": "Footage bối cảnh · không gắn danh tính hư cấu",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not assert an actual shopper’s salary or hardship."
+      ],
+      "narration": "Vậy câu hỏi đúng không phải: bột giảm rồi, sao chị chưa giảm? Mà là: tổng chi phí đã đổi bao nhiêu, và khách có lựa chọn nào? Ta vừa nhìn được hai phía của quầy. Còn một phía nữa: chiếc ví của người mua."
+    },
+    {
+      "unitId": "b17",
+      "family": "bread_power",
+      "mode": "simulation",
+      "storyFunction": "Reset the period explicitly and compare the unequal growth rates.",
+      "whatMustBeVisible": "Use original20,000→22,000 price period, then income10,000,000→10,500,000; price+10% versus income+5%.",
+      "setup": "The price-level track returns visibly to its first two nodes; the22,440 next-period node withdraws before wages appear.",
+      "stages": [
+        {
+          "spokenPhrase": "đúng kỳ chiếc bánh tăng từ hai mươi lên hai mươi hai nghìn",
+          "action": "Select only the original price period.",
+          "changedState": "No accidental use of the later22,440 price."
+        },
+        {
+          "spokenPhrase": "từ mười triệu lên mười triệu rưỡi",
+          "action": "A pay envelope grows10m→10.5m.",
+          "changedState": "Nominal income rises5%."
+        },
+        {
+          "spokenPhrase": "giá bữa sáng đã tăng nhanh hơn lương",
+          "action": "Compare the +10% price increment to the +5% income increment, with units explicit.",
+          "changedState": "The mismatch is seen before dividing quantities."
+        }
+      ],
+      "data": {
+        "priceBefore": 20000,
+        "priceAfter": 22000,
+        "incomeBefore": 10000000,
+        "incomeAfter": 10500000,
+        "priceRate": 10,
+        "incomeRate": 5
+      },
+      "scopeLabel": "Thu nhập/giá giả định · cùng kỳ20.000→22.000",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No fake wage slip representing a real stock employee."
+      ],
+      "narration": "Quay lại đúng kỳ chiếc bánh tăng từ hai mươi lên hai mươi hai nghìn. Giả sử thu nhập của người phụ bán cũng tăng trong kỳ ấy: từ mười triệu lên mười triệu rưỡi, tức năm phần trăm. Anh nhận nhiều tiền hơn, nhưng giá bữa sáng đã tăng nhanh hơn lương."
+    },
+    {
+      "unitId": "b18",
+      "family": "bread_power",
+      "mode": "simulation",
+      "storyFunction": "Transform income into a same-product purchasing-power yardstick.",
+      "whatMustBeVisible": "10m÷20k=500 bread-equivalent units;10.5m÷22k≈477.3; quantity and quality stay the same.",
+      "setup": "A measuring rack/grid represents bread-equivalent capacity, with a legend that groups are schematic, not actual loaves bought.",
+      "stages": [
+        {
+          "spokenPhrase": "Mười triệu tương đương năm trăm ổ giá cũ.",
+          "action": "The old income fills the capacity grid to500 at20k/unit.",
+          "changedState": "Baseline quantity is established."
+        },
+        {
+          "spokenPhrase": "khoảng bốn trăm bảy mươi bảy ổ giá mới",
+          "action": "Apply10.5m/22k and withdraw22.7 bread-equivalent capacity.",
+          "changedState": "Higher income buys fewer same-type units."
+        },
+        {
+          "spokenPhrase": "Không ai cần đem toàn bộ lương đi mua bánh.",
+          "action": "The rack becomes an explicit measuring scale rather than a literal shopping cart or monthly diet.",
+          "changedState": "Viewer sees a ratio, not an assumed household budget."
+        },
+        {
+          "spokenPhrase": "thu nhập mỗi kỳ đổi được bao nhiêu",
+          "action": "Pin both divisions in compact sequential notation.",
+          "changedState": "The changed capacity has a transparent calculation."
+        }
+      ],
+      "data": {
+        "before": 500,
+        "after": 477.272727,
+        "quantityDifference": -22.727273,
+        "formulas": [
+          "10.000.000/20.000=500",
+          "10.500.000/22.000≈477,3"
+        ]
+      },
+      "scopeLabel": "Thước đo riêng bằng bánh · không giả định tiêu hết lương",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not imply the worker buys500 loaves a month.",
+        "Do not show477 individual icons when unreadable; group with explicit scale."
+      ],
+      "narration": "Thử dùng chính chiếc bánh làm thước đo nhỏ. Mười triệu tương đương năm trăm ổ giá cũ. Mười triệu rưỡi chỉ tương đương khoảng bốn trăm bảy mươi bảy ổ giá mới. Không ai cần đem toàn bộ lương đi mua bánh. Phép so chỉ hỏi: thu nhập mỗi kỳ đổi được bao nhiêu chiếc bánh cùng loại?"
+    },
+    {
+      "unitId": "b19",
+      "family": "bread_power",
+      "mode": "simulation",
+      "storyFunction": "Tie both sides of the same counter back together.",
+      "whatMustBeVisible": "Bread-equivalent purchasing power fallsabout4.5%; seller remainder3,000→2,500 is a different measure and not4.5%.",
+      "setup": "Keep the wage/bread ratio result; the original counter route can return as a spatial callback.",
+      "stages": [
+        {
+          "spokenPhrase": "giảm khoảng bốn phẩy năm phần trăm",
+          "action": "Show (477.27/500−1)×100≈−4.5% attached only to bread purchasing power.",
+          "changedState": "Correct relative change is explicit."
+        },
+        {
+          "spokenPhrase": "Nhìn từ quầy bán",
+          "action": "Restore3,000→2,500 with its own label/unit.",
+          "changedState": "Seller result is recalled without mixing percentages."
+        },
+        {
+          "spokenPhrase": "Nhìn từ người làm công",
+          "action": "Return to500→477.3 capacity on the opposite side.",
+          "changedState": "Two pressures coexist around one bread and one price change."
+        }
+      ],
+      "data": {
+        "breadPowerChangePercent": -4.5454545,
+        "sellerRemainders": [
+          3000,
+          2500
+        ],
+        "breadQuantities": [
+          500,
+          477.272727
+        ]
+      },
+      "scopeLabel": "Hai thước đo khác nhau · cùng ví dụ",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not apply−4.5% to shop profit or national real wages."
+      ],
+      "narration": "Tiền lương tăng, sức mua tính riêng bằng bánh lại giảm khoảng bốn phẩy năm phần trăm. Vẫn chiếc bánh ấy, vẫn lần đổi bảng ấy. Nhìn từ quầy bán, khoảng dư của chị Hạnh co lại. Nhìn từ người làm công, tờ lương tăng mà số bánh mua được cũng ít đi."
+    },
+    {
+      "unitId": "b20",
+      "family": "basket_scope",
+      "mode": "simulation",
+      "storyFunction": "Expand scope without starting a second arithmetic story.",
+      "whatMustBeVisible": "Bread joins rent, transport and other spending categories; same quantities/quality are paired across time.",
+      "setup": "The bread yardstick is visible within a larger qualitative household basket.",
+      "stages": [
+        {
+          "spokenPhrase": "Đời sống thật không chỉ có bánh mì.",
+          "action": "Pull back to show other spending objects.",
+          "changedState": "The bread-only limitation is immediately visible."
+        },
+        {
+          "spokenPhrase": "cùng một giỏ chi tiêu với lượng và chất lượng tương đương",
+          "action": "Pair before/after baskets with identical objects and quantities; leave all prices blank.",
+          "changedState": "Fair comparison requires a consistent basket."
+        },
+        {
+          "spokenPhrase": "không phải chiếc máy đo toàn bộ đời sống",
+          "action": "Keep the bread measure as a labeled subset.",
+          "changedState": "No new CPI or household inflation number has been invented."
+        }
+      ],
+      "data": {
+        "categories": [
+          "bánh/thực phẩm",
+          "nhà ở",
+          "đi lại",
+          "khác"
+        ],
+        "weights": null,
+        "newPrices": null
+      },
+      "scopeLabel": "Minh họa phạm vi · không tính giỏ hộ thực tế",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No100-unit allocation/pie or fabricated household shares."
+      ],
+      "narration": "Đời sống thật không chỉ có bánh mì. Người phụ bán còn tiền nhà, đi lại và nhiều khoản khác. Muốn biết sức mua cả gia đình, phải nhìn giá của cùng một giỏ chi tiêu với lượng và chất lượng tương đương. Một ổ bánh là cửa vào để hiểu, không phải chiếc máy đo toàn bộ đời sống."
+    },
+    {
+      "unitId": "b21",
+      "family": "basket_scope",
+      "mode": "simulation",
+      "storyFunction": "Explain why experiences can differ from an average.",
+      "whatMustBeVisible": "Two qualitative baskets emphasize different items; the item that grows in cost is more important to one basket than another.",
+      "setup": "Reuse b20 objects, arrange them differently without fixed percentages.",
+      "stages": [
+        {
+          "spokenPhrase": "những khoản anh mua nhiều tăng nhanh",
+          "action": "Highlight the frequently bought category and a relative cost pressure marker.",
+          "changedState": "Exposure depends on what the person buys."
+        },
+        {
+          "spokenPhrase": "Nhà khác chi tiêu khác",
+          "action": "Shift attention to another qualitative basket with a different emphasized item.",
+          "changedState": "Different experiences need not contradict a common aggregate."
+        },
+        {
+          "spokenPhrase": "không tự chứng minh bản tin sai",
+          "action": "Bring the average concept and personal basket into distinct labeled scopes.",
+          "changedState": "The film avoids declaring either subjective or aggregate experience invalid."
+        }
+      ],
+      "data": {
+        "weights": "qualitative_only",
+        "aggregateNumbers": null
+      },
+      "scopeLabel": "Minh họa khác biệt cơ cấu chi tiêu",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not imply exact national weights or calculate personal inflation from invented shares."
+      ],
+      "narration": "Nếu những khoản anh mua nhiều tăng nhanh, anh có thể thấy áp lực hơn con số bình quân. Nhà khác chi tiêu khác thì trải nghiệm cũng khác. Vì vậy, cảm giác thiếu tiền không tự chứng minh bản tin sai; còn tỷ lệ lạm phát thấp hơn cũng không bảo đảm chiếc ví nào đã nhẹ gánh."
+    },
+    {
+      "unitId": "b22",
+      "family": "synthesis",
+      "mode": "simulation",
+      "storyFunction": "Resolve the hook with three previously proven relations.",
+      "whatMustBeVisible": "Price-versus-cost, rate-versus-level, wage-versus-bread capacity return in spoken order around the same bread.",
+      "setup": "A continuous counter/receipt path recalls the opening; only one relation is active at a time.",
+      "stages": [
+        {
+          "spokenPhrase": "Khách trả thêm hai nghìn không có nghĩa chị giữ thêm hai nghìn.",
+          "action": "Follow2,000 toward the larger2,500 extra cost.",
+          "changedState": "Seller outcome recalls its causal proof."
+        },
+        {
+          "spokenPhrase": "Tin lạm phát giảm không có nghĩa giá trở lại mốc cũ.",
+          "action": "Transform the route into the rising price track with smaller second step.",
+          "changedState": "Rate/level distinction returns."
+        },
+        {
+          "spokenPhrase": "lương tăng không tự bảo đảm mua được nhiều hơn",
+          "action": "Transform to10m/20k versus10.5m/22k capacity.",
+          "changedState": "Purchasing-power result returns."
+        },
+        {
+          "spokenPhrase": "Ba điều ấy có thể cùng đúng",
+          "action": "Bring the three end states into one connected scene, not three equal-size paragraph cards.",
+          "changedState": "The opening paradox is resolved."
+        }
+      ],
+      "data": {
+        "priceIncrement": 2000,
+        "costIncrement": 2500,
+        "pricePath": [
+          20000,
+          22000,
+          22440
+        ],
+        "incomePath": [
+          10000000,
+          10500000
+        ],
+        "breadQuantityPath": [
+          500,
+          477.272727
+        ]
+      },
+      "scopeLabel": "Tổng hợp chính ví dụ đã giải",
+      "realFootageInterlude": null,
+      "avoid": [
+        "Do not repeat full narration as captions.",
+        "Do not introduce a fourth causal claim in the payoff."
+      ],
+      "narration": "Trở lại buổi sáng ở tiệm Hạnh. Khách trả thêm hai nghìn không có nghĩa chị giữ thêm hai nghìn. Tin lạm phát giảm không có nghĩa giá trở lại mốc cũ. Và lương tăng không tự bảo đảm mua được nhiều hơn. Ba điều ấy có thể cùng đúng, chẳng cần mâu thuẫn nào cả."
+    },
+    {
+      "unitId": "b23",
+      "family": null,
+      "mode": "real_footage",
+      "storyFunction": "Return the lesson to an action the viewer can perform.",
+      "whatMustBeVisible": "Real breakfast purchase/receipt checked against an earlier dated equivalent and the person’s own income record; no asserted private figures.",
+      "setup": "Actual hands compare a price/receipt, with the bread in frame.",
+      "stages": [
+        {
+          "spokenPhrase": "đang tăng chậm hơn hay giảm giá thật?",
+          "action": "Briefly activate the rate/level distinction next to the receipt.",
+          "changedState": "First check is concrete."
+        },
+        {
+          "spokenPhrase": "So với mốc nào?",
+          "action": "Point to date/baseline, not a giant question card.",
+          "changedState": "Second check is a comparison anchor."
+        },
+        {
+          "spokenPhrase": "cùng lượng, cùng chất lượng",
+          "action": "Align comparable bread portions before returning clean footage.",
+          "changedState": "Third check is comparability, not merely a numerical headline."
+        }
+      ],
+      "data": {},
+      "scopeLabel": "Bối cảnh minh họa · kiểm mốc/lượng/chất lượng",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No fake banking salary screen or unrelated investment imagery."
+      ],
+      "narration": "Lần tới nghe lạm phát hạ, hãy hỏi: đang tăng chậm hơn hay giảm giá thật? So với mốc nào? Và thu nhập của mình có theo kịp những khoản mình thực sự mua không? Bắt đầu từ một bữa sáng quen, nhưng so cùng lượng, cùng chất lượng. Đừng chỉ nhìn con số to nhất trên bản tin."
+    },
+    {
+      "unitId": "b24",
+      "family": null,
+      "mode": "real_footage",
+      "storyFunction": "Invite a meaningful example and finish the bread callback.",
+      "whatMustBeVisible": "Actual bread preparation/purchase resolves; one concise interaction cue can accompany the spoken request.",
+      "setup": "Warm real finished-bread handoff or a person choosing breakfast, without assigning a fictional identity.",
+      "stages": [
+        {
+          "spokenPhrase": "bạn đang so với năm nào?",
+          "action": "Show a small comparison-year prompt next to the same bread.",
+          "changedState": "Comment request carries the baseline habit."
+        },
+        {
+          "spokenPhrase": "hãy đăng ký kênh và bật chuông",
+          "action": "One restrained subscribe/bell action, then return to finished bread.",
+          "changedState": "The film ends on its subject, not a page of interface text."
+        }
+      ],
+      "data": {},
+      "scopeLabel": "Không branding tự đặt",
+      "realFootageInterlude": null,
+      "avoid": [
+        "No invented channel name.",
+        "No repeated CTA cards/subtitles."
+      ],
+      "narration": "Ở chỗ bạn, món ăn sáng nào tăng giá rõ nhất, và bạn đang so với năm nào? Hãy để lại một ví dụ cụ thể trong bình luận. Nếu muốn xem thêm những câu chuyện kinh tế được bóc từ đời sống như thế này, hãy đăng ký kênh và bật chuông."
+    }
+  ]
+}

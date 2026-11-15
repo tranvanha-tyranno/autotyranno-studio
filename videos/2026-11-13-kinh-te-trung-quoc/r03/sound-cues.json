@@ -1,0 +1,200 @@
+[
+  {
+    "beat": "o01",
+    "asset": "port-ambience",
+    "time": 0.35,
+    "duration": 5,
+    "gainDB": -4,
+    "role": "Short illustrative port machinery/air establishes the opening port-map node; generated design, not location sound.",
+    "ambience": true,
+    "file": "audio/sfx/port-ambience.mp3",
+    "sha256": "38ded1b155a0b49012b61a0e3d6b6c248151b6b7537c6ce70a0824a56a9ec8a8"
+  },
+  {
+    "beat": "f01",
+    "asset": "rail-pass",
+    "time": 44.733333333333334,
+    "duration": 3,
+    "gainDB": -8,
+    "role": "Subtle movement under the industrial transport map; route and sound are illustrative, not a real railway recording.",
+    "ambience": false,
+    "file": "audio/sfx/rail-pass.mp3",
+    "sha256": "44ad7aec3b92602ba6283baf7525f1fb7c7245d33af7d1b7b1fcf9e1c072a88e"
+  },
+  {
+    "beat": "f02",
+    "asset": "factory-hum",
+    "time": 57.016666666666666,
+    "duration": 6,
+    "gainDB": -4,
+    "role": "Low machinery bed accompanies the visible original production-conveyor simulation.",
+    "ambience": true,
+    "file": "audio/sfx/factory-hum.mp3",
+    "sha256": "89d6d0bc7d18dfe4b2cc486a43ff0bf7077c527501a868754f29ffb297afc210"
+  },
+  {
+    "beat": "f05",
+    "asset": "wood-tick",
+    "time": 89.96666666666667,
+    "duration": 1.2,
+    "gainDB": -3,
+    "role": "One quiet tactile mark as the manufacturing-value-added number appears; no machine claim.",
+    "ambience": false,
+    "file": "audio/sfx/wood-tick.mp3",
+    "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090"
+  },
+  {
+    "beat": "r01",
+    "asset": "transition",
+    "time": 134.26666666666668,
+    "duration": 1.6,
+    "gainDB": -5,
+    "role": "Change from manufacturing networks to the property obligation network.",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "r02",
+    "asset": "pencil-paper",
+    "time": 146.04999999999998,
+    "duration": 3.4,
+    "gainDB": -2,
+    "role": "Paper obligations and payment scheduling in the illustrative property cash-flow simulation.",
+    "ambience": false,
+    "file": "audio/sfx/pencil-paper.mp3",
+    "sha256": "311057fba2eb1b788b5366b8301d9e036c99d28a363be4a0a163f8d4aacb3d98"
+  },
+  {
+    "beat": "r04",
+    "asset": "low-pulse",
+    "time": 171.48333333333332,
+    "duration": 2.2,
+    "gainDB": -5,
+    "role": "Gentle emphasis on the negative property-investment chart, not a collapse alarm.",
+    "ambience": false,
+    "file": "audio/sfx/low-pulse.mp3",
+    "sha256": "449e605a8741ad42bf2ca97c93404fdc4d56fdf8fdb10763179c75e81168e4b0"
+  },
+  {
+    "beat": "h01",
+    "asset": "transition",
+    "time": 222.3,
+    "duration": 1.6,
+    "gainDB": -5,
+    "role": "Move from property balances into the household income/consumption loop.",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "h03",
+    "asset": "pencil-paper",
+    "time": 244.46666666666667,
+    "duration": 2.4,
+    "gainDB": -4,
+    "role": "A restrained allocation gesture under the original illustrative income blocks.",
+    "ambience": false,
+    "file": "audio/sfx/pencil-paper.mp3",
+    "sha256": "311057fba2eb1b788b5366b8301d9e036c99d28a363be4a0a163f8d4aacb3d98"
+  },
+  {
+    "beat": "h04",
+    "asset": "wood-tick",
+    "time": 255.9333333333333,
+    "duration": 1.2,
+    "gainDB": -3,
+    "role": "Mark the household spending comparison with one soft nonliteral punctuation.",
+    "ambience": false,
+    "file": "audio/sfx/wood-tick.mp3",
+    "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090"
+  },
+  {
+    "beat": "t01",
+    "asset": "crane-set",
+    "time": 314.51666666666665,
+    "duration": 2.5,
+    "gainDB": -8,
+    "role": "Very quiet illustrative loading movement under the port/trade diagram, not observed crane audio or evidence of a real route.",
+    "ambience": false,
+    "file": "audio/sfx/crane-set.mp3",
+    "sha256": "6430aded341e41670600a178344b6a51cb3a68aca76666f2ff9783e7efc724df"
+  },
+  {
+    "beat": "t04",
+    "asset": "wood-tick",
+    "time": 349.23333333333335,
+    "duration": 1.2,
+    "gainDB": -4,
+    "role": "One mark for the explicitly hypothetical export-minus-import arithmetic.",
+    "ambience": false,
+    "file": "audio/sfx/wood-tick.mp3",
+    "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090"
+  },
+  {
+    "beat": "d01",
+    "asset": "wood-tick",
+    "time": 392.28333333333336,
+    "duration": 1.2,
+    "gainDB": -3,
+    "role": "A measured visual count gesture for the labelled60-plus population simulation, not a clock.",
+    "ambience": false,
+    "file": "audio/sfx/wood-tick.mp3",
+    "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090"
+  },
+  {
+    "beat": "d04",
+    "asset": "factory-hum",
+    "time": 426.7,
+    "duration": 3,
+    "gainDB": -9,
+    "role": "Quiet return to the original factory/productivity simulation; no archival worker-audio claim.",
+    "ambience": true,
+    "file": "audio/sfx/factory-hum.mp3",
+    "sha256": "89d6d0bc7d18dfe4b2cc486a43ff0bf7077c527501a868754f29ffb297afc210"
+  },
+  {
+    "beat": "p01",
+    "asset": "wood-tick",
+    "time": 462.0,
+    "duration": 1.2,
+    "gainDB": -3,
+    "role": "Mark the nine-month GDP statistic without changing its period or meaning.",
+    "ambience": false,
+    "file": "audio/sfx/wood-tick.mp3",
+    "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090"
+  },
+  {
+    "beat": "p06",
+    "asset": "low-pulse",
+    "time": 521.3,
+    "duration": 2.2,
+    "gainDB": -5,
+    "role": "Subtle emphasis on whether obligations are resolved or shifted; avoid alarmist sound.",
+    "ambience": false,
+    "file": "audio/sfx/low-pulse.mp3",
+    "sha256": "449e605a8741ad42bf2ca97c93404fdc4d56fdf8fdb10763179c75e81168e4b0"
+  },
+  {
+    "beat": "e01",
+    "asset": "transition",
+    "time": 544.9333333333333,
+    "duration": 1.6,
+    "gainDB": -6,
+    "role": "Return to the combined income-assets-orders mechanism for the closing answer.",
+    "ambience": false,
+    "file": "audio/sfx/transition.mp3",
+    "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819"
+  },
+  {
+    "beat": "e03",
+    "asset": "pencil-paper",
+    "time": 571.9166666666667,
+    "duration": 3,
+    "gainDB": -4,
+    "role": "A reflective paper/checking gesture as four data-reading questions are presented.",
+    "ambience": false,
+    "file": "audio/sfx/pencil-paper.mp3",
+    "sha256": "311057fba2eb1b788b5366b8301d9e036c99d28a363be4a0a163f8d4aacb3d98"
+  }
+]

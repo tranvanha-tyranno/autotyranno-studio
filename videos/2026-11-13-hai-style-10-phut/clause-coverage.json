@@ -1,0 +1,502 @@
+[
+  {
+    "id": "b01",
+    "text": "Lương tăng hai triệu. Cuối tháng, tiền dư vẫn hai triệu. Minh nhìn ví, rồi nhìn thông báo tăng lương: tiền vừa vào đã biết đường trốn? Đặt hai tháng cạnh nhau, xem từng đồng đã nhận công việc gì.",
+    "from": 0,
+    "end": 351,
+    "kind": "hook",
+    "cue": "tiền dư vẫn hai triệu",
+    "cueFrame": 63,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b02",
+    "text": "Minh, Lan và toàn bộ số tiền là ví dụ giả định. Video giúp hiểu cách lập kế hoạch chi tiêu, không phải tư vấn tài chính cá nhân. Hãy điều chỉnh theo hoàn cảnh thực tế.",
+    "from": 351,
+    "end": 646,
+    "kind": "disclaimer",
+    "cue": "ví dụ giả định",
+    "cueFrame": 87,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b03",
+    "text": "Minh quả quyết không mua điện thoại, cũng chẳng đi du lịch. Lan mở lịch sử chi tiêu, kéo những tờ hóa đơn nhỏ ra bàn. Từng khoản khó giải thích cả tháng, nhưng cộng lại thì khác.",
+    "from": 646,
+    "end": 967,
+    "kind": "audit",
+    "cue": "những tờ hóa đơn nhỏ",
+    "cueFrame": 166,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b04",
+    "text": "Tăng lương rồi sống thoải mái hơn không có gì sai. Nhưng Minh muốn có khoảng thở lúc xe hỏng, trong khi phần tăng thu nhập chưa từng được dành cho việc đó. Mọi khoản tăng đã trở thành thói quen.",
+    "from": 967,
+    "end": 1289,
+    "kind": "choice",
+    "cue": "lúc xe hỏng",
+    "cueFrame": 124,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b05",
+    "text": "Sửa thế nào để không biến cuộc sống thành cuộc thi chịu khổ? Đi từ hai chiếc phong bì tới một tháng hóa đơn, rồi làm kế hoạch ba mươi ngày. Nhìn rõ lựa chọn, trước khi quyết định giữ hay đổi.",
+    "from": 1289,
+    "end": 1607,
+    "kind": "review",
+    "cue": "hai chiếc phong bì",
+    "cueFrame": 109,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b06",
+    "text": "Tháng đầu, Minh có thu nhập mười hai triệu, tổng chi mười triệu. Lấy mười hai trừ mười, còn hai triệu. Ta gọi đây là khoản dư của phép so sánh, chưa mặc định toàn bộ đều có thể đem tiêu.",
+    "from": 1607,
+    "end": 1945,
+    "kind": "budget_before",
+    "cue": "Lấy mười hai trừ mười",
+    "cueFrame": 112,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b07",
+    "text": "Tháng mới, lương mười bốn triệu, tổng chi mười hai triệu. Lấy mười bốn trừ mười hai, vẫn còn hai triệu. Hai chiếc phong bì đều phình ra, riêng phần dư ở giữa vẫn nguyên kích thước.",
+    "from": 1945,
+    "end": 2299,
+    "kind": "budget_after",
+    "cue": "Lấy mười bốn trừ mười hai",
+    "cueFrame": 124,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b08",
+    "text": "Không có tiền bí ẩn biến mất. Phần tăng lương đã chuyển sang phần chi thêm. Nhìn con số lương, Minh thấy mình khá hơn. Nhìn cả hai phía phép trừ, cậu hiểu vì sao cuối tháng vẫn như cũ.",
+    "from": 2299,
+    "end": 2669,
+    "kind": "budget_after",
+    "cue": "chuyển sang phần chi thêm",
+    "cueFrame": 96,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b09",
+    "text": "Nhưng đừng vội dán nhãn hoang phí. Tiền nhà có thể tăng, người thân cần hỗ trợ, công việc mới tốn thêm đi lại. Những việc đó khác với mua thêm vì thấy tài khoản nhiều tiền. Cách sửa phụ thuộc nguyên nhân thật.",
+    "from": 2669,
+    "end": 3051,
+    "kind": "essentials",
+    "cue": "Tiền nhà có thể tăng",
+    "cueFrame": 62,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b10",
+    "text": "Lan đặt hai nhãn: cần thiết và có thể lựa chọn. Minh kéo từng hóa đơn vào chỗ phù hợp, để nhóm chưa rõ kiểm sau. Họ phân biệt phần buộc phải gánh với phần có thể thương lượng.",
+    "from": 3051,
+    "end": 3397,
+    "kind": "audit",
+    "cue": "kéo từng hóa đơn",
+    "cueFrame": 123,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b11",
+    "text": "Trong ví dụ này, Minh chi thêm sáu mươi nghìn mỗi ngày so với trước. Đó là tổng phần nâng cấp nhỏ, không phải giá một món cụ thể. Tờ hóa đơn mỏng đến mức cậu gần như không coi nó là quyết định.",
+    "from": 3397,
+    "end": 3728,
+    "kind": "daily",
+    "cue": "chi thêm sáu mươi nghìn",
+    "cueFrame": 40,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b12",
+    "text": "Lan đưa hóa đơn qua ba mươi ô lịch. Sáu mươi nghìn nhân ba mươi bằng một triệu tám. Phép tính không kết tội ly nước nào. Nó đổi góc nhìn: lựa chọn lặp lại cần được đánh giá bằng tổng tháng.",
+    "from": 3728,
+    "end": 4082,
+    "kind": "daily",
+    "cue": "qua ba mươi ô lịch",
+    "cueFrame": 32,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b13",
+    "text": "Thêm một bữa ăn hai trăm nghìn ngoài mức chi cũ. Một triệu tám cộng hai trăm nghìn, vừa hết hai triệu tăng lương. Minh im một nhịp. Không có món đồ khổng lồ, nhưng chuỗi quyết định đứng cạnh nhau đã đủ lớn.",
+    "from": 4082,
+    "end": 4450,
+    "kind": "dinner",
+    "cue": "Một triệu tám cộng hai trăm nghìn",
+    "cueFrame": 84,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b14",
+    "text": "Minh có thể giữ khoản đáng tiền, hoặc đổi tần suất và mức nâng cấp. Một bữa gặp bạn có thể quan trọng hơn nhiều lần đặt thêm vì tiện. Không cần cắt đều mọi thứ.",
+    "from": 4450,
+    "end": 4734,
+    "kind": "choice",
+    "cue": "đổi tần suất",
+    "cueFrame": 73,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b15",
+    "text": "Thử bớt hai mươi nghìn mỗi ngày. Hai mươi nghìn nhân ba mươi bằng sáu trăm nghìn. Khoản khác giữ nguyên thì tổng chi còn mười một triệu tư, dư hai triệu sáu. Đây là kịch bản, không phải mức tiết kiệm bắt buộc.",
+    "from": 4734,
+    "end": 5136,
+    "kind": "daily",
+    "cue": "Hai mươi nghìn nhân ba mươi",
+    "cueFrame": 63,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b16",
+    "text": "Mở lịch sử giao dịch và ghi thêm tiền mặt dễ quên. Mỗi dòng cần ngày, khoản chi, số tiền và ghi chú ngắn. Minh dùng dữ liệu đang có, không chờ tìm ứng dụng hoàn hảo.",
+    "from": 5136,
+    "end": 5449,
+    "kind": "audit",
+    "cue": "ngày, khoản chi, số tiền",
+    "cueFrame": 116,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b17",
+    "text": "Chuyển tiền giữa hai tài khoản của mình chưa phải chi mua hàng. Rút tiền mặt cũng chưa cho biết đã mua gì. Vừa tính lần rút, vừa tính lần dùng tiền mặt, một khoản có thể bị đếm hai lần.",
+    "from": 5449,
+    "end": 5784,
+    "kind": "audit",
+    "cue": "đếm hai lần",
+    "cueFrame": 295,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b18",
+    "text": "Khoản bạn trả lại tiền ăn chung không tự thành thu nhập mới. Lan ghép khoản trả trước với khoản được hoàn lại. Hai dòng đứng cạnh nhau giúp Minh thấy phần nào thực sự thuộc chi tiêu của cậu.",
+    "from": 5784,
+    "end": 6117,
+    "kind": "review",
+    "cue": "ghép khoản trả trước",
+    "cueFrame": 118,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b19",
+    "text": "Minh đánh dấu: cần giữ, chưa chắc, và muốn đổi. Khoản nhỏ dùng mỗi ngày có thể hữu ích; món lớn mua rẻ lại nằm im. Họ đánh giá công dụng cùng tần suất, không chỉ nhìn giá.",
+    "from": 6117,
+    "end": 6477,
+    "kind": "audit",
+    "cue": "cần giữ, chưa chắc, và muốn đổi",
+    "cueFrame": 42,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b20",
+    "text": "Minh chọn một khoản để thử trong tuần tới: bớt một lần đặt thêm, hoặc kiểm dịch vụ đang trả tiền. Lời hứa sẽ tiết kiệm hơn khó đo. Một việc cụ thể có mốc kiểm lại thì dễ theo dõi.",
+    "from": 6477,
+    "end": 6844,
+    "kind": "choice",
+    "cue": "chọn một khoản",
+    "cueFrame": 28,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b21",
+    "text": "Dịch vụ tự trừ tiền, dù Minh chẳng nhớ lần cuối sử dụng. Lan đặt biểu tượng gia hạn lên lịch: tháng tới mình có chủ động mua lại không? Quyết định cũ vẫn chạy mà ít được xem lại.",
+    "from": 6844,
+    "end": 7178,
+    "kind": "recurring",
+    "cue": "biểu tượng gia hạn lên lịch",
+    "cueFrame": 125,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b22",
+    "text": "Dịch vụ giả định giá một trăm hai mươi nghìn mỗi tháng. Nhân mười hai tháng là một triệu bốn trăm bốn mươi nghìn. Nếu không cần, kiểm điều kiện hủy. Đừng coi tổng năm là tiền tiết kiệm ngay, khi khoản đã trả không được hoàn.",
+    "from": 7178,
+    "end": 7564,
+    "kind": "recurring",
+    "cue": "Nhân mười hai tháng",
+    "cueFrame": 84,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b23",
+    "text": "Có khoản ít xuất hiện nên bị quên: bảo dưỡng, thay đồ dùng, nghĩa vụ định kỳ. Chưa tới hạn không nghĩa là bất ngờ. Minh đưa việc dự kiến lên một lịch riêng, tách khỏi sự cố chưa biết.",
+    "from": 7564,
+    "end": 7904,
+    "kind": "annual",
+    "cue": "lên một lịch riêng",
+    "cueFrame": 258,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b24",
+    "text": "Khoản dự kiến một triệu hai cho cả năm tương đương một trăm nghìn mỗi tháng. Đây là ví dụ độc lập. Nhưng nếu hạn đã gần, chưa để dành gì, không thể chia mười hai rồi coi như chuẩn bị đủ.",
+    "from": 7904,
+    "end": 8232,
+    "kind": "annual",
+    "cue": "một trăm nghìn mỗi tháng",
+    "cueFrame": 81,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b25",
+    "text": "Tiền nằm trong tài khoản có thể đã có việc cho tháng sau. Minh tách khoản dự trù vào phong bì có nhãn. Chuyển chỗ không làm cậu giàu thêm; nó giúp tránh tiêu nhầm tiền đã có nhiệm vụ.",
+    "from": 8232,
+    "end": 8564,
+    "kind": "buffer",
+    "cue": "phong bì có nhãn",
+    "cueFrame": 142,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b26",
+    "text": "Cả tháng vẫn dư nhưng giữa tháng thiếu. Ví dụ mới: tiền nhà đến hạn trước ngày lương về. Lan trải lịch, đặt tiền đúng ngày nhận, hóa đơn đúng ngày trả. Tổng tháng không tự dời được hạn.",
+    "from": 8564,
+    "end": 8941,
+    "kind": "calendar",
+    "cue": "tiền nhà đến hạn trước ngày lương",
+    "cueFrame": 114,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b27",
+    "text": "Minh đi qua từng ngày, mang số dư hôm trước sang hôm sau. Khi hóa đơn xuất hiện trước tiền vào, đường tiền chạm đáy. Đây là vấn đề thời điểm. Muốn hiểu chỗ thiếu, phải xem diễn biến trên lịch.",
+    "from": 8941,
+    "end": 9308,
+    "kind": "calendar",
+    "cue": "hóa đơn xuất hiện trước tiền vào",
+    "cueFrame": 118,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b28",
+    "text": "Một hướng là khoảng đệm tiền mặt phù hợp, để nghĩa vụ gần tới bớt phụ thuộc lần tiền vào kế tiếp. Nếu chưa tạo được, nhận diện ngày dễ thiếu, xem có thể thương lượng lịch trả không.",
+    "from": 9308,
+    "end": 9635,
+    "kind": "buffer",
+    "cue": "khoảng đệm tiền mặt",
+    "cueFrame": 25,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b29",
+    "text": "Minh đặt nhắc việc trước hạn trả và gia hạn dịch vụ. Thông báo không tạo ra tiền, nhưng cho thời gian kiểm. Dùng chuyển tự động thì cần đủ số dư và hiểu điều kiện. Chiếc nút vẫn cần kế hoạch phía sau.",
+    "from": 9635,
+    "end": 10023,
+    "kind": "automate",
+    "cue": "đặt nhắc việc",
+    "cueFrame": 15,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b30",
+    "text": "Lan viết hai câu hỏi cạnh nhau: cả tháng có đủ không? Tới ngày trả, có sẵn tiền không? Câu đầu kiểm cân đối, câu sau kiểm lịch dòng tiền. Tách chúng ra, Minh mới chọn cách sửa đúng chỗ.",
+    "from": 10023,
+    "end": 10420,
+    "kind": "review",
+    "cue": "hai câu hỏi cạnh nhau",
+    "cueFrame": 31,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b31",
+    "text": "Nhà ở, ăn uống, đi lại, trách nhiệm gia đình có thể chiếm gần hết thu nhập. Trước khi tự trách, hãy nhìn phần chi buộc phải giữ. Bớt món nhỏ không giải quyết mọi trường hợp.",
+    "from": 10420,
+    "end": 10749,
+    "kind": "essentials",
+    "cue": "phần chi buộc phải giữ",
+    "cueFrame": 196,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b32",
+    "text": "Ngân sách phải có chỗ cho sức khỏe và nghĩa vụ đã cam kết. Lan kéo hóa đơn quan trọng ra khỏi chiếc kéo. Cắt khoản cần thiết chỉ để số tiết kiệm đẹp có thể khiến vấn đề quay lại lớn hơn.",
+    "from": 10749,
+    "end": 11114,
+    "kind": "essentials",
+    "cue": "ra khỏi chiếc kéo",
+    "cueFrame": 165,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b33",
+    "text": "Nếu phần thiết yếu đã vượt thu nhập, bài toán không chỉ là kỷ luật. Có thể phải xem phương án nhà ở, công việc hoặc sắp xếp nghĩa vụ. Mỗi lựa chọn có điều kiện; video không quyết định thay bạn.",
+    "from": 11114,
+    "end": 11475,
+    "kind": "choice",
+    "cue": "phần thiết yếu đã vượt thu nhập",
+    "cueFrame": 22,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b34",
+    "text": "Dư hai triệu sáu chỉ đúng nếu chi khác không đổi. Nhà tăng giá thì kết quả phải tính lại. Đừng ép đời sống khớp phép tính đẹp. Ngân sách là bản nháp cần cập nhật, không phải lời hứa.",
+    "from": 11475,
+    "end": 11804,
+    "kind": "budget_after",
+    "cue": "kết quả phải tính lại",
+    "cueFrame": 123,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b35",
+    "text": "Đừng lấy mức dư người khác chấm điểm mình. Minh so với dữ liệu của chính cậu: khoản nào rõ hơn, lần quên nào giảm, có bớt thiếu trước hạn không? Tiến bộ có thể bắt đầu bằng lịch thanh toán rõ ràng.",
+    "from": 11804,
+    "end": 12154,
+    "kind": "review",
+    "cue": "dữ liệu của chính cậu",
+    "cueFrame": 90,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b36",
+    "text": "Biết nghĩa vụ và khoản dự trù rồi, Minh mới chọn phần dành cho khoảng đệm. Mục đích rõ giúp cậu hiểu vì sao giữ tiền hôm nay: để xử lý một việc cần thiết mà ít phải đảo lộn cả tháng.",
+    "from": 12154,
+    "end": 12482,
+    "kind": "buffer",
+    "cue": "dành cho khoảng đệm",
+    "cueFrame": 90,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b37",
+    "text": "Minh bắt đầu bằng ba trăm nghìn. Không phải chuẩn chung: quá sức thì điều chỉnh, thuận lợi hơn có thể chọn khác. Cần kiểm khoản dành ra có làm thiếu tiền cho nghĩa vụ gần tới không.",
+    "from": 12482,
+    "end": 12808,
+    "kind": "buffer",
+    "cue": "ba trăm nghìn",
+    "cueFrame": 33,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b38",
+    "text": "Minh lên lịch chuyển sau ngày thu nhập về, cùng số tiền đã cân nhắc với hóa đơn. Cậu kiểm lần đầu. Tự động phù hợp giúp bớt phải nhớ; nếu lịch lương hoặc nghĩa vụ đổi, lịch chuyển cũng cần xem lại.",
+    "from": 12808,
+    "end": 13178,
+    "kind": "automate",
+    "cue": "sau ngày thu nhập về",
+    "cueFrame": 40,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b39",
+    "text": "Lúc xe cần sửa, Minh dùng phần đã chuẩn bị. Phong bì mỏng đi không nghĩa là thất bại: nó đang làm việc được giao. Sau đó, xem khả năng bổ sung từng bước, thay vì bỏ quên nghĩa vụ.",
+    "from": 13178,
+    "end": 13534,
+    "kind": "choice",
+    "cue": "xe cần sửa",
+    "cueFrame": 12,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b40",
+    "text": "Chuyển tiền giữa hai túi không tự tạo lợi nhuận. Giá trị là nhận diện tiền có nhiệm vụ và tránh tiêu nhầm. Nhìn chiếc ví đầu video, Minh chưa thành người giàu, nhưng hiểu đồng nào đang được dành cho việc gì.",
+    "from": 13534,
+    "end": 13922,
+    "kind": "review",
+    "cue": "không tự tạo lợi nhuận",
+    "cueFrame": 43,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b41",
+    "text": "Trước khi mua, Minh đừng chỉ nhìn giá trên nhãn. Lan kéo thêm những mảnh còn thiếu: phụ kiện cần mua, phí giao nếu có, chi phí sử dụng dự kiến. Tổng tiền phải bỏ ra giúp so lựa chọn công bằng hơn.",
+    "from": 13922,
+    "end": 14309,
+    "kind": "choice",
+    "cue": "những mảnh còn thiếu",
+    "cueFrame": 109,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b42",
+    "text": "Giảm giá vẫn là chi tiền nếu mua. Khoảng chênh trên nhãn không tự thành tiền dư thật. Minh đặt món đồ xuống: không thấy khuyến mại, mình có cần không? Nếu có, so tổng chi phí và điều kiện. Nếu không, có thể chờ.",
+    "from": 14309,
+    "end": 14723,
+    "kind": "choice",
+    "cue": "đặt món đồ xuống",
+    "cueFrame": 164,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b43",
+    "text": "Chia nhiều lần trả không làm tổng giá nhỏ đi. Kiểm tổng tiền, phí nếu có, ngày đến hạn. Minh xếp các lần thanh toán lên lịch, cạnh nghĩa vụ cũ. Số nhỏ hôm nay đi cùng lời hẹn phía sau.",
+    "from": 14723,
+    "end": 15120,
+    "kind": "calendar",
+    "cue": "xếp các lần thanh toán lên lịch",
+    "cueFrame": 224,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b44",
+    "text": "Món chưa cần ngay, Minh thử lưu lại rồi xem sau. Khoảng dừng cho cậu cơ hội đối chiếu kế hoạch, không bảo đảm luôn chọn đúng. Nếu vẫn cần và đủ khả năng, quyết định mua có thể rất hợp lý.",
+    "from": 15120,
+    "end": 15481,
+    "kind": "choice",
+    "cue": "lưu lại rồi xem sau",
+    "cueFrame": 54,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b45",
+    "text": "Mua ít hơn chưa chắc tốt hơn. Đồ dùng lâu, giải quyết nhu cầu thật có thể đáng tiền hơn món ngẫu hứng. Minh giữ một lựa chọn cần thiết, bỏ món không còn muốn. Cậu đang chọn ưu tiên.",
+    "from": 15481,
+    "end": 15839,
+    "kind": "review",
+    "cue": "giữ một lựa chọn cần thiết",
+    "cueFrame": 221,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b46",
+    "text": "Làm kế hoạch ba mươi ngày. Tuần đầu, ghi chi tiêu và hạn trả, sửa dòng đếm hai lần. Chưa đổi tất cả. Cần bức tranh đủ thật để tuần sau không phải quyết định bằng cảm giác.",
+    "from": 15839,
+    "end": 16164,
+    "kind": "audit",
+    "cue": "Tuần đầu",
+    "cueFrame": 43,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b47",
+    "text": "Tuần hai, kiểm một khoản lặp lại: còn cần không, tổng tháng bao nhiêu? Nếu đổi, ghi rõ cách đổi và mốc kiểm. Minh thử mức chi thêm thấp hơn, giữ bữa gặp bạn. Một lựa chọn cụ thể thay cho danh sách cấm đoán dài.",
+    "from": 16164,
+    "end": 16578,
+    "kind": "recurring",
+    "cue": "Tuần hai",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b48",
+    "text": "Tuần ba, đặt nhắc việc và tách khoản dự trù phù hợp. Dùng chuyển tự động thì kiểm số dư cùng ngày lương thực tế. Bắt đầu bằng mức có thể giữ. Chuyển giữa hai túi của mình không thành khoản chi mới.",
+    "from": 16578,
+    "end": 16939,
+    "kind": "automate",
+    "cue": "Tuần ba",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b49",
+    "text": "Tuần bốn, so thực tế với kế hoạch: thu, chi, dự trù, ngày thiếu tiền. Chênh thì tìm nguyên nhân, sửa giả định. Tuần bận hay hóa đơn mới là dữ liệu điều chỉnh, không phải lý do xé sổ.",
+    "from": 16939,
+    "end": 17337,
+    "kind": "review",
+    "cue": "Tuần bốn",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "b50",
+    "text": "Lương tăng mà dư đứng yên vì chi tăng cùng nhịp. Hôm nay, chọn một khoản, cộng đủ cả tháng, rồi quyết định giữ hay đổi. Ghi ngày kiểm lại. Từng đồng có việc rõ giúp bạn chọn cuộc sống mình muốn hơn.",
+    "from": 17337,
+    "end": 17743,
+    "kind": "cta",
+    "cue": "chọn một khoản, cộng đủ cả tháng",
+    "cueFrame": 113,
+    "review": "Pending actual rendered samples"
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "tyranno-real-image-explainer",
+  "userDirection": "Hai hướng tham chiếu Lóng và The Hidden Self: nhiều ảnh internet bám lời kể, giao diện ảnh 3D để giải thích; hook → miễn trừ ngắn → nội dung → CTA",
+  "directionPresets": {
+    "requestedDate": "2026-11-12",
+    "workflow": "workflows/reference-video/TWO_DIRECTIONS.md",
+    "referenceAudit": "docs/video-references/2026-11-12-two-directions/REFERENCE_AUDIT.md",
+    "long": "workflows/reference-video/direction-profiles/long.json",
+    "hidden": "workflows/reference-video/direction-profiles/hidden.json",
+    "renderer": "workflows/reference-video/cinematic/src/directions/",
+    "previewBatch": "videos/2026-11-12-hai-huong/",
+    "acceptance": "new direction demos pending user feedback; approved voice and sound approach retained"
+  },
+  "status": "audio-approved-visual-direction-revised",
+  "supersedes": "Latest user correction overrides 3D-dominant explainer visuals, prior microphone/waveform and editorial defaults. Product-review and mica profiles stay separate.",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "referenceSeconds": 50,
+    "durationPolicy": "Follow the requested duration; 50s refers to the earlier approved sample. Current visual revision is 300s."
+  },
+  "visuals": {
+    "renderer": "Remotion with sourced photographs, licensed footage, restrained typography and brief explanatory graphics",
+    "scenes": [
+      "real scene/people/action matched to spoken phrase",
+      "document/number closeups for checking claims",
+      "training and real work examples",
+      "short source-labelled graphics for statistics"
+    ],
+    "prohibitedDefaults": [
+      "fixed microphone",
+      "persistent waveform",
+      "static editorial panels",
+      "all-scene generic lab footage",
+      "3D objects as the dominant visual for every statement",
+      "a generic chip, clock, gate or task block standing in for all human actions"
+    ],
+    "captionPlacement": "bottom safe area; exact final take alignment",
+    "motion": "Purposeful photo crop/pan and footage edits at exact spoken phrase boundaries; motion cannot replace meaningful image selection",
+    "flowPalette": "Natural photographic colors; restrained contrast and emerald accents only where they support legibility",
+    "defaultCoverage": "Real internet photos and footage lead. Current revision: about 98.5% media / 1.5% data graphic. These percentages describe this edit, not a mandatory ratio for every subject."
+  },
+  "audio": {
+    "voice": "native Vietnamese male audition; current Nhật Phong Eleven v3",
+    "music": "genuine generated instrumental, separate immutable stem",
+    "foley": "Contextual effects matched to actions; current AI/work edit uses typing, paper and a soft confirmation cue. Sewing is retained only as an older subject-specific example.",
+    "mix": "speech-first, ducked score, no blanket whooshes or sine-bed fallback",
+    "voicePreset": {
+      "provider": "ElevenLabs",
+      "voice_id": "6adFm46eyy74snVn6YrT",
+      "name": "Nhật Phong — Narrative & Compelling",
+      "model_id": "eleven_v3",
+      "language_code": "vi",
+      "voice_settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.8,
+        "speed": 1.0
+      },
+      "approvedTake": "videos/2026-11-11-cinematic-reset/audio/narration-v2.mp3",
+      "alignment": "videos/2026-11-11-cinematic-reset/audio/narration-v2.alignment.json",
+      "approvedEditTempo": 0.9606122448979592,
+      "futureTiming": "Fit each new exact take naturally; do not apply the old tempo or timestamps blindly"
+    },
+    "approvedStems": {
+      "music": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+      "foley": "videos/2026-11-11-cinematic-reset/audio/sewing-detail.mp3",
+      "mix": "videos/2026-11-11-cinematic-reset/audio/final-mix.wav",
+      "mixRecipe": "workflows/reference-video/motion_audio.py",
+      "measuredFinalLUFS": -16.2,
+      "measuredFinalTruePeakDBTP": -4.83,
+      "usage": "Reuse the music if it suits the new story. Keep Foley contextual; do not put sewing-machine sound on unrelated scenes."
+    }
+  },
+  "qa": {
+    "acceptance": "Never infer user aesthetic acceptance from successful decode or self-scored rounds",
+    "evidence": "full-duration contact sheet, keyframes, temporal frame sequences, decode/frame count, measured mix, ASR comparison; manual listening only if actually possible"
+  },
+  "approval": {
+    "status": "approved",
+    "date": "2026-11-11",
+    "evidence": "Explicit user feedback in this chat",
+    "userQuote": "rất ok nhớ lưu lại chổ này giộng dọc sound và toàn bộ những cái này nhé tôi sẽ kêu bạn tiến hành làm 1 video sau",
+    "scope": "Current final video, narrator, sound/music, 3D/kinetic visual style and edit approach; reuse as baseline for future requested videos"
+  },
+  "referenceBatch": "videos/2026-11-11-cinematic-reset",
+  "referenceVideo": "videos/2026-11-11-cinematic-reset/final.mp4",
+  "reusePolicy": "Use approved Nhật Phong narration and sound mix principles. Follow latest real-image-led visual direction, adapt external assets to each sentence, keep source/license records and inspect actual crops; never default back to dominant 3D solely because the earlier 50s sample was approved. Preserve previous exports.",
+  "previousVisualBaseline": "videos/2026-11-11-cinematic-reset/final.mp4",
+  "visualDirectionCorrection": {
+    "date": "2026-11-12",
+    "userQuote": "nó ít lấy ảnh ngoài quá, tô cho phép bạn lấy ảnh trên internet đó, lấy ảnh trên đó bỏ vô video làm cideo sống động hơn miêu tả rỏ câu nói hơn chứ 3D không thì rất tệ dó nhé, thay đổi lại toàn bộ hướng làm video về đường này đi",
+    "scope": "Overrides 3D-dominant visual defaults for explainers. Preserve approved voice/sound unless user changes them.",
+    "implementation": "workflows/reference-video/cinematic/src/visualstory/",
+    "currentRevision": "videos/2026-11-12-ai-va-cong-viec-anh-that"
+  },
+  "visualReferenceVideo": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
+  "visualReferenceStatus": "pending user feedback; requested direction already established",
+  "previousProfileId": "tyranno-motion3d"
+}

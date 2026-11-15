@@ -1,0 +1,893 @@
+[
+  {
+    "id": "h1a",
+    "headline": "Đi mua một món. Về với cả giỏ?",
+    "phrase": "Một món cần mua, cả giỏ",
+    "narrationClause": "Một món cần mua, cả giỏ mang về.",
+    "layout": "full",
+    "needToSee": "A visibly filled grocery cart, with the hypothetical planned-versus-actual question over it.",
+    "mediaRole": "context",
+    "supports": "A visibly filled grocery cart, with the hypothetical planned-versus-actual question over it.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A visibly filled grocery cart, with the hypothetical planned-versus-actual question over it. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "cart-full": "5230b59e3149dd73eb34ca45895343fe27fe2670aaa92b3ebd5374e91d3e7ddc"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 0,
+    "phase": "hook",
+    "images": [
+      {
+        "file": "directions/long/cart-full.jpg",
+        "aspect": 1.5,
+        "focus": [
+          48,
+          53
+        ],
+        "credit": "Gustavo Fring"
+      }
+    ],
+    "end": 76
+  },
+  {
+    "id": "h1b",
+    "headline": "",
+    "phrase": "Chuyện có thể bắt đầu từ",
+    "narrationClause": "Chuyện có thể bắt đầu từ một bảng giá rất hấp dẫn.",
+    "layout": "full",
+    "needToSee": "Actual promotional price tags immediately when the narrator mentions a price board; no hypothetical Vietnamese price is attributed to these foreign tags.",
+    "mediaRole": "context",
+    "supports": "Actual promotional price tags immediately when the narrator mentions a price board; no hypothetical Vietnamese price is attributed to these foreign tags.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Actual promotional price tags immediately when the narrator mentions a price board; no hypothetical Vietnamese price is attributed to these foreign tags.",
+      "assetHashes": {
+        "sale-shelf": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 76,
+    "phase": "hook",
+    "images": [
+      {
+        "file": "directions/long/sale-shelf.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Erik Mclean"
+      }
+    ],
+    "end": 169
+  },
+  {
+    "id": "h2",
+    "layout": "diptych",
+    "headline": "Rẻ mỗi món. Tăng tổng tiền.",
+    "phrase": "Bạn thấy mua thêm thì mỗi",
+    "narrationClause": "Bạn thấy mua thêm thì mỗi hộp rẻ hơn. Nhưng đến quầy, tổng tiền vẫn lớn hơn số tiền định chi.",
+    "needToSee": "Promotion labels beside a checkout setting, distinguishing unit-price cue from total spending; no invented price is attached to the real label.",
+    "mediaRole": "context",
+    "supports": "Promotion labels beside a checkout setting, distinguishing unit-price cue from total spending; no invented price is attached to the real label.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Promotion labels beside a checkout setting, distinguishing unit-price cue from total spending; no invented price is attached to the real label. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "sale-shelf": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef",
+        "checkout-wide": "7bb74fdc68c4348b56b2f22c18249e5c655ad3d1ca4607582d8d7adbb6d2d661"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 169,
+    "phase": "hook",
+    "images": [
+      {
+        "file": "directions/long/sale-shelf.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Erik Mclean"
+      },
+      {
+        "file": "directions/long/checkout-wide.jpg",
+        "aspect": 1.3171875,
+        "focus": [
+          50,
+          54
+        ],
+        "credit": "Radik 2707"
+      }
+    ],
+    "end": 353
+  },
+  {
+    "id": "h3",
+    "headline": "Ba quyết định trước quầy tính tiền",
+    "phrase": "Vậy điều gì đã xảy ra",
+    "narrationClause": "Vậy điều gì đã xảy ra từ lúc bước vào cửa hàng đến lúc thanh toán? Có ba điểm đáng nhìn lại.",
+    "layout": "full",
+    "needToSee": "People physically moving and choosing in a grocery store; broad trip context, not proof of a purchase motive.",
+    "mediaRole": "context",
+    "supports": "People physically moving and choosing in a grocery store; broad trip context, not proof of a purchase motive.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "People physically moving and choosing in a grocery store; broad trip context, not proof of a purchase motive. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "clip-aisle": "27abc57343be844d6ee53cf5a10db2889e31a0ec5bbba296f27442c6e3a8c6d5"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 353,
+    "phase": "hook",
+    "images": [
+      {
+        "file": "directions/long/clip-aisle.mp4",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Suika Chan",
+        "mediaType": "video",
+        "trimBeforeFrames": 0,
+        "availableFrames": 340,
+        "sourceFPS": 30.0
+      }
+    ],
+    "end": 556
+  },
+  {
+    "id": "d1",
+    "headline": "Mua thêm chưa chắc là mua thừa.",
+    "body": "Tình huống minh họa. Hành vi và cửa hàng có thể khác nhau.",
+    "phrase": "Đây là phân tích hành vi",
+    "narrationClause": "Đây là phân tích hành vi mua sắm và ví dụ minh họa. Không phải ai mua thêm cũng lãng phí, hay cửa hàng nào cũng bố trí giống nhau.",
+    "layout": "full",
+    "needToSee": "A shopper and a clear caveat, without alleging anything about this stock subject.",
+    "mediaRole": "context",
+    "supports": "A shopper and a clear caveat, without alleging anything about this stock subject.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A shopper and a clear caveat, without alleging anything about this stock subject. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "basket-full": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 556,
+    "phase": "disclaimer",
+    "images": [
+      {
+        "file": "directions/long/basket-full.jpg",
+        "aspect": 1.49765625,
+        "focus": [
+          65,
+          55
+        ],
+        "credit": "Kampus Production"
+      }
+    ],
+    "end": 815
+  },
+  {
+    "id": "c1",
+    "headline": "01 / Cần gì trước khi đi?",
+    "phrase": "Điểm đầu tiên xuất hiện trước",
+    "narrationClause": "Điểm đầu tiên xuất hiện trước khi bạn tới siêu thị: mình thực sự cần gì? Mở tủ lạnh và nhìn lại đồ đang có là một bước rất cụ thể.",
+    "layout": "full",
+    "needToSee": "An open refrigerator and a person reaching to look at the contents.",
+    "mediaRole": "context",
+    "supports": "An open refrigerator and a person reaching to look at the contents.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "An open refrigerator and a person reaching to look at the contents. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "fridge-kitchen": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 815,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/fridge-kitchen.jpg",
+        "aspect": 1.7744916820702403,
+        "focus": [
+          62,
+          51
+        ],
+        "credit": "Pew Nguyen"
+      }
+    ],
+    "end": 1072
+  },
+  {
+    "id": "c2",
+    "phrase": "Nếu kế hoạch chỉ là mua",
+    "narrationClause": "Nếu kế hoạch chỉ là mua ít đồ ăn, gần như món nào cũng có thể hợp lý. Một danh sách có món và số lượng cho bạn thứ để đối chiếu.",
+    "layout": "graphic",
+    "needToSee": "Readable original prompts for item, amount and stock at home; not a fabricated screen or a claimed real completed list.",
+    "mediaRole": "mechanism",
+    "supports": "Readable original prompts for item, amount and stock at home; not a fabricated screen or a claimed real completed list.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Readable original prompts for item, amount and stock at home; not a fabricated screen or a claimed real completed list. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "shopping-list": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+      }
+    },
+    "sourceNote": "Minh họa nguyên bản · TYRANNO",
+    "start": 1072,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/shopping-list.jpg",
+        "aspect": 1.4545454545454546,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "TYRANNO original illustration"
+      }
+    ],
+    "end": 1333
+  },
+  {
+    "id": "c3",
+    "phrase": "Điện thoại có thể giữ danh",
+    "narrationClause": "Điện thoại có thể giữ danh sách đó. Nhưng điều quan trọng là nội dung đã chốt từ trước, chứ không phải cứ cầm điện thoại là sẽ mua đúng kế hoạch.",
+    "layout": "full",
+    "needToSee": "A phone visibly held by a shopper; do not claim its unreadable screen contains our list.",
+    "mediaRole": "context",
+    "supports": "A phone visibly held by a shopper; do not claim its unreadable screen contains our list.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A phone visibly held by a shopper; do not claim its unreadable screen contains our list. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "phone-list": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 1333,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/phone-list.jpg",
+        "aspect": 1.5,
+        "focus": [
+          52,
+          50
+        ],
+        "credit": "Helena Lopes"
+      }
+    ],
+    "end": 1595
+  },
+  {
+    "id": "c4",
+    "layout": "diptych",
+    "headline": "02 / Nhìn thấy rồi mới nghĩ tới",
+    "phrase": "Điểm thứ hai nằm ngay trước",
+    "narrationClause": "Điểm thứ hai nằm ngay trước mắt: những thứ được nhìn thấy trong cửa hàng. Một kệ hàng có nhiều lựa chọn; một bảng màu nổi khiến một ưu đãi dễ được chú ý.",
+    "needToSee": "Many product options on a shelf and actual bright promotional tags.",
+    "mediaRole": "context",
+    "supports": "Many product options on a shelf and actual bright promotional tags.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Many product options on a shelf and actual bright promotional tags. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "milk-shelf": "8ce67e4259f4cce49439c1eddf3daa04b9d52bf3113b172f158202eddb9807d6",
+        "sale-shelf": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 1595,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/milk-shelf.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Nothing Ahead"
+      },
+      {
+        "file": "directions/long/sale-shelf.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Erik Mclean"
+      }
+    ],
+    "end": 1882
+  },
+  {
+    "id": "c5",
+    "phrase": "Thấy một món rồi nhớ ra",
+    "narrationClause": "Thấy một món rồi nhớ ra nhà đang thiếu, đó có thể là lời nhắc hữu ích. Cũng có lúc bạn chỉ vừa nảy ra mong muốn khi đứng trước kệ.",
+    "layout": "full",
+    "needToSee": "A shopper reaches for a jar and inspects it; her private motive remains unknown.",
+    "mediaRole": "context",
+    "supports": "A shopper reaches for a jar and inspects it; her private motive remains unknown.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A shopper reaches for a jar and inspects it; her private motive remains unknown. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "clip-choose": "bec3cbfdaaeea22a56b25fec66b6e0910d6ea17dbe16a49d3b8b203694c33989"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 1882,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/clip-choose.mp4",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Gustavo Fring",
+        "mediaType": "video",
+        "trimBeforeFrames": 240,
+        "availableFrames": 654,
+        "sourceFPS": 30.0
+      }
+    ],
+    "end": 2143
+  },
+  {
+    "id": "c6",
+    "layout": "diptych",
+    "headline": "Nhớ ra đang thiếu — hay vừa muốn có?",
+    "phrase": "Hai trường hợp ấy đều là",
+    "narrationClause": "Hai trường hợp ấy đều là mua ngoài dự tính, nhưng ý nghĩa khác nhau. Một bên bổ sung nhu cầu có thật; một bên cần thêm một câu hỏi trước khi bỏ vào giỏ.",
+    "needToSee": "A home refrigerator and a grocery cart representing the two questions; these are illustrative alternatives, not a before/after biography.",
+    "mediaRole": "context",
+    "supports": "A home refrigerator and a grocery cart representing the two questions; these are illustrative alternatives, not a before/after biography.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A home refrigerator and a grocery cart representing the two questions; these are illustrative alternatives, not a before/after biography. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "fridge-check": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+        "cart-full": "5230b59e3149dd73eb34ca45895343fe27fe2670aaa92b3ebd5374e91d3e7ddc"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 2143,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/fridge-check.jpg",
+        "aspect": 0.66640625,
+        "focus": [
+          55,
+          50
+        ],
+        "credit": "Mike Jones"
+      },
+      {
+        "file": "directions/long/cart-full.jpg",
+        "aspect": 1.5,
+        "focus": [
+          48,
+          53
+        ],
+        "credit": "Gustavo Fring"
+      }
+    ],
+    "end": 2436
+  },
+  {
+    "id": "c7",
+    "sourceNote": "Ảnh minh họa · Pexels | Nghiên cứu: Inman, Winer & Ferraro (2009)",
+    "phrase": "Nghiên cứu trên người mua trong",
+    "narrationClause": "Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm.",
+    "layout": "full",
+    "needToSee": "A store context with a precise research citation; the photo does not depict research participants.",
+    "mediaRole": "context",
+    "supports": "A store context with a precise research citation; the photo does not depict research participants.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A store context with a precise research citation; the photo does not depict research participants. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "cart-browse": "cc489ce973f3d62a92a9cef3391dc4d48af40d661d17858ac97f705afbf24520"
+      }
+    },
+    "sourceIds": [
+      "inman2009"
+    ],
+    "start": 2436,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/cart-browse.jpg",
+        "aspect": 1.5,
+        "focus": [
+          56,
+          50
+        ],
+        "credit": "Gustavo Fring"
+      }
+    ],
+    "end": 2676
+  },
+  {
+    "id": "c8",
+    "phrase": "Điều đó không có nghĩa một",
+    "narrationClause": "Điều đó không có nghĩa một bảng khuyến mại tự động điều khiển mọi người. Nó chỉ cho ta lý do để quan sát hoàn cảnh của quyết định, thay vì vội trách mình thiếu ý chí.",
+    "layout": "full",
+    "needToSee": "A visible offer sign as an example of a cue, without treating all shoppers as controlled.",
+    "mediaRole": "context",
+    "supports": "A visible offer sign as an example of a cue, without treating all shoppers as controlled.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A visible offer sign as an example of a cue, without treating all shoppers as controlled. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "plum-price": "296bffca948575dbfc800981bb4cd5acdf8de78c669eab94cdcea25bfe85c7c6"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 2676,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/plum-price.jpg",
+        "aspect": 1.5023474178403755,
+        "focus": [
+          50,
+          58
+        ],
+        "credit": "Andri Arbianto"
+      }
+    ],
+    "end": 2971
+  },
+  {
+    "id": "c9",
+    "headline": "03 / So giá nào với giá nào?",
+    "phrase": "Điểm thứ ba là cách so",
+    "narrationClause": "Điểm thứ ba là cách so giá. Nhìn một mức giảm, ta rất dễ chỉ hỏi mỗi món rẻ hơn bao nhiêu, rồi quên hỏi mình đang trả tổng cộng bao nhiêu.",
+    "layout": "full",
+    "needToSee": "A real multi-unit promotional label; numeric explanation follows in a separate hypothetical graphic.",
+    "mediaRole": "context",
+    "supports": "A real multi-unit promotional label; numeric explanation follows in a separate hypothetical graphic.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A real multi-unit promotional label; numeric explanation follows in a separate hypothetical graphic. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "sale-shelf": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 2971,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/sale-shelf.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Erik Mclean"
+      }
+    ],
+    "end": 3272
+  },
+  {
+    "id": "c10",
+    "phrase": "Lấy một ví dụ giả định:",
+    "narrationClause": "Lấy một ví dụ giả định: một hộp ba mươi nghìn, hai hộp năm mươi nghìn. Mua hai thì mỗi hộp còn hai mươi lăm nghìn.",
+    "layout": "graphic",
+    "needToSee": "One carton versus two identical cartons,30,000 versus50,000 total and30,000 versus25,000 unit price, explicitly hypothetical.",
+    "mediaRole": "mechanism",
+    "supports": "One carton versus two identical cartons,30,000 versus50,000 total and30,000 versus25,000 unit price, explicitly hypothetical.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "One carton versus two identical cartons,30,000 versus50,000 total and30,000 versus25,000 unit price, explicitly hypothetical. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "price-example": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+      }
+    },
+    "sourceNote": "Minh họa nguyên bản · TYRANNO",
+    "start": 3272,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/price-example.jpg",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "TYRANNO original illustration"
+      }
+    ],
+    "end": 3494
+  },
+  {
+    "id": "c11",
+    "phrase": "Nhưng nếu bạn chỉ cần một",
+    "narrationClause": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.",
+    "layout": "graphic",
+    "needToSee": "The same quantities and prices, with +20,000 total spending clearly visible.",
+    "mediaRole": "mechanism",
+    "supports": "The same quantities and prices, with +20,000 total spending clearly visible.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "The same quantities and prices, with +20,000 total spending clearly visible. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "total-change": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+      }
+    },
+    "sourceNote": "Minh họa nguyên bản · TYRANNO",
+    "start": 3494,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/total-change.jpg",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "TYRANNO original illustration"
+      }
+    ],
+    "end": 3742
+  },
+  {
+    "id": "c12",
+    "phrase": "Ngược lại, nếu chắc chắn dùng",
+    "narrationClause": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.",
+    "layout": "diptych",
+    "needToSee": "Food at home representing planned consumption; do not claim these particular foods were purchased on promotion.",
+    "mediaRole": "context",
+    "supports": "Food at home representing planned consumption; do not claim these particular foods were purchased on promotion.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Food at home representing planned consumption; do not claim these particular foods were purchased on promotion. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "price-example": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+        "vegetables-home": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf"
+      }
+    },
+    "sourceNote": "Ảnh minh họa · Pexels | Minh họa nguyên bản · TYRANNO",
+    "start": 3742,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/price-example.jpg",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "TYRANNO original illustration"
+      },
+      {
+        "file": "directions/long/vegetables-home.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          58
+        ],
+        "credit": "MART PRODUCTION"
+      }
+    ],
+    "end": 4054
+  },
+  {
+    "id": "c13",
+    "phrase": "Đó cũng là lý do một",
+    "narrationClause": "Đó cũng là lý do một giỏ đầy chưa nói lên người mua có lãng phí hay không. Cần biết họ định mua gì, đồ sẽ dùng thế nào và món nào thực sự phát sinh.",
+    "layout": "full",
+    "needToSee": "A filled basket that establishes quantity only; no judgment about the person.",
+    "mediaRole": "context",
+    "supports": "A filled basket that establishes quantity only; no judgment about the person.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A filled basket that establishes quantity only; no judgment about the person. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "basket-full": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 4054,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/basket-full.jpg",
+        "aspect": 1.49765625,
+        "focus": [
+          65,
+          55
+        ],
+        "credit": "Kampus Production"
+      }
+    ],
+    "end": 4361
+  },
+  {
+    "id": "c14",
+    "layout": "gallery3d",
+    "headline": "Ở nhà → Trên kệ → Tại quầy",
+    "phrase": "Thử nhìn lại hành trình: đồ",
+    "narrationClause": "Thử nhìn lại hành trình: đồ đang có ở nhà, lựa chọn gặp trên kệ, rồi tổng tiền khi thanh toán. Ba điểm này nối với nhau, chứ không chỉ có phút cuối ở quầy.",
+    "needToSee": "Three stages: actual home fridge, actual shelf cue, and a labeled hypothetical total-spending illustration. The graphic is not a real checkout receipt.",
+    "mediaRole": "context",
+    "supports": "Three stages: actual home fridge, actual shelf cue, and a labeled hypothetical total-spending illustration. The graphic is not a real checkout receipt.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Three stages: actual home fridge, actual shelf cue, and a labeled hypothetical total-spending illustration. The graphic is not a real checkout receipt. Revised after independent review found the previous checkout-scale photo did not show a total.",
+      "assetHashes": {
+        "fridge-kitchen": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+        "sale-shelf": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef",
+        "total-change": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+      }
+    },
+    "sourceNote": "Ảnh minh họa · Pexels | Minh họa nguyên bản · TYRANNO",
+    "start": 4361,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/fridge-kitchen.jpg",
+        "aspect": 1.7744916820702403,
+        "focus": [
+          62,
+          51
+        ],
+        "credit": "Pew Nguyen"
+      },
+      {
+        "file": "directions/long/sale-shelf.jpg",
+        "aspect": 1.5,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Erik Mclean"
+      },
+      {
+        "file": "directions/long/total-change.jpg",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "TYRANNO original illustration"
+      }
+    ],
+    "end": 4675
+  },
+  {
+    "id": "c15",
+    "phrase": "Trước khi trả tiền, dừng một",
+    "narrationClause": "Trước khi trả tiền, dừng một nhịp và nhìn các món vừa thêm. Nếu hôm nay không có ưu đãi này, mình có còn cần nó không? Mình sẽ dùng hết bằng cách nào?",
+    "layout": "full",
+    "needToSee": "A basket at the checkout while the narrator proposes a pause; footage does not claim the shopper actually follows the advice.",
+    "mediaRole": "context",
+    "supports": "A basket at the checkout while the narrator proposes a pause; footage does not claim the shopper actually follows the advice.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A basket at the checkout while the narrator proposes a pause; footage does not claim the shopper actually follows the advice. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "clip-checkout": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 4675,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/clip-checkout.mp4",
+        "aspect": 1.7777777777777777,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "Gustavo Fring",
+        "mediaType": "video",
+        "trimBeforeFrames": 0,
+        "availableFrames": 516,
+        "sourceFPS": 30.0
+      }
+    ],
+    "end": 4970
+  },
+  {
+    "id": "c16",
+    "phrase": "Bạn không cần biến mỗi chuyến",
+    "narrationClause": "Bạn không cần biến mỗi chuyến mua đồ thành một cuộc thi kiềm chế. Mục tiêu là nhận ra lúc nào mình đang giải quyết nhu cầu, và lúc nào chỉ đang phản ứng với một lời mời.",
+    "layout": "full",
+    "needToSee": "An ordinary checkout scene, with no implication of guilt or measured savings.",
+    "mediaRole": "context",
+    "supports": "An ordinary checkout scene, with no implication of guilt or measured savings.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "An ordinary checkout scene, with no implication of guilt or measured savings. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "checkout-couple": "87c20097bd209a224304afa2fa1a822d1fe4a6eb633413a0ee2ef1787132ba7b"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 4970,
+    "phase": "content",
+    "images": [
+      {
+        "file": "directions/long/checkout-couple.jpg",
+        "aspect": 0.66796875,
+        "focus": [
+          50,
+          48
+        ],
+        "credit": "Jack Sparrow"
+      }
+    ],
+    "end": 5293
+  },
+  {
+    "id": "a1",
+    "layout": "diptych",
+    "headline": "Thử ở chuyến mua tiếp theo",
+    "phrase": "Lần đi siêu thị tới, thử",
+    "narrationClause": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.",
+    "needToSee": "Original list prompts beside groceries at home; an invitation to compare, not proof of a real household experiment.",
+    "mediaRole": "context",
+    "supports": "Original list prompts beside groceries at home; an invitation to compare, not proof of a real household experiment.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Original list prompts beside groceries at home; an invitation to compare, not proof of a real household experiment. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "shopping-list": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+        "groceries-home": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc"
+      }
+    },
+    "sourceNote": "Ảnh minh họa · Pexels | Minh họa nguyên bản · TYRANNO",
+    "start": 5293,
+    "phase": "cta",
+    "images": [
+      {
+        "file": "directions/long/shopping-list.jpg",
+        "aspect": 1.4545454545454546,
+        "focus": [
+          50,
+          50
+        ],
+        "credit": "TYRANNO original illustration"
+      },
+      {
+        "file": "directions/long/groceries-home.jpg",
+        "aspect": 1.5,
+        "focus": [
+          45,
+          50
+        ],
+        "credit": "Kaboompics.com"
+      }
+    ],
+    "end": 5567
+  },
+  {
+    "id": "a2",
+    "phrase": "Có thể bạn nhớ ra thứ",
+    "narrationClause": "Có thể bạn nhớ ra thứ đang thiếu. Cũng có thể một ưu đãi đã đổi kế hoạch. Biết được lý do ấy mới là phần hữu ích, không phải chỉ nhìn số tiền rồi tự trách.",
+    "layout": "full",
+    "needToSee": "Groceries at home as context for reflecting on motives, no asserted waste.",
+    "mediaRole": "context",
+    "supports": "Groceries at home as context for reflecting on motives, no asserted waste.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "Groceries at home as context for reflecting on motives, no asserted waste. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "groceries-home": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 5567,
+    "phase": "cta",
+    "images": [
+      {
+        "file": "directions/long/groceries-home.jpg",
+        "aspect": 1.5,
+        "focus": [
+          45,
+          50
+        ],
+        "credit": "Kaboompics.com"
+      }
+    ],
+    "end": 5879
+  },
+  {
+    "id": "a3",
+    "layout": "closing",
+    "headline": "Bạn thường mua thêm món gì?",
+    "body": "Chia sẻ ở bình luận · Đăng ký để xem bài tiếp theo",
+    "phrase": "Món nào bạn hay mua thêm",
+    "narrationClause": "Món nào bạn hay mua thêm nhất? Kể ở bình luận, và đăng ký nếu muốn cùng nhìn kỹ hơn những quyết định nhỏ trong đời sống.",
+    "needToSee": "A grocery basket and a short, readable comment/subscribe CTA.",
+    "mediaRole": "context",
+    "supports": "A grocery basket and a short, readable comment/subscribe CTA.",
+    "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+    "review": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "observations": "A grocery basket and a short, readable comment/subscribe CTA. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+      "assetHashes": {
+        "basket-full": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e"
+      }
+    },
+    "sourceNote": "Minh họa · Pexels",
+    "start": 5879,
+    "phase": "cta",
+    "images": [
+      {
+        "file": "directions/long/basket-full.jpg",
+        "aspect": 1.49765625,
+        "focus": [
+          65,
+          55
+        ],
+        "credit": "Kampus Production"
+      }
+    ],
+    "end": 6150
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "pexelsID": 8421355,
+  "pageURL": "https://www.pexels.com/video/paying-with-a-creditcard-8421355/",
+  "title": "Paying with a Creditcard",
+  "creator": "Kampus Production",
+  "fps": [
+    25,
+    30,
+    24,
+    50
+  ],
+  "tags": [
+    "payment",
+    "shop",
+    "checkout"
+  ],
+  "dimensions": [
+    "1920_1080",
+    "1080_1920",
+    "1280_720",
+    "720_1280",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "id": "pexels-8421355",
+  "file": "assets/raw/pexels-8421355.mp4",
+  "sha256": "d3a9e2f5a2a1017f2e7653fd9c1ab2a07df7965e7be105ba164ed5c02184ede6",
+  "bytes": 2922025,
+  "durationSeconds": 8.13,
+  "downloadURL": "https://videos.pexels.com/video-files/8421355/8421355-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.518,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8421355.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1280,
+  "height": 720
+}

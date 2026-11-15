@@ -1,0 +1,49 @@
+{
+  "pexelsID": 8466806,
+  "pageURL": "https://www.pexels.com/video/man-choosing-fruits-on-the-market-8466806/",
+  "title": "Man Choosing Fruits on the Market",
+  "creator": "Kampus Production",
+  "tags": [
+    "groceries",
+    "market",
+    "shop",
+    "ingredients"
+  ],
+  "fps": [
+    25,
+    24,
+    30,
+    50,
+    60,
+    29,
+    23
+  ],
+  "dimensions": [
+    "1920_1080",
+    "1080_1920",
+    "1280_720",
+    "720_1280",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "id": "pexels-8466806",
+  "file": "assets/raw/pexels-8466806.mp4",
+  "sha256": "acd41a2f2e392b740275ec5b64a5dcd15f0dc552e310ad52d46d51ce40396356",
+  "bytes": 3435224,
+  "durationSeconds": 9.86,
+  "downloadURL": "https://videos.pexels.com/video-files/8466806/8466806-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.84,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8466806.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1280,
+  "height": 720
+}

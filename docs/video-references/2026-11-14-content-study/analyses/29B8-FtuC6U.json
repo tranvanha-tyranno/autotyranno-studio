@@ -1,0 +1,192 @@
+{
+  "schema": "reference-content-analysis/1",
+  "source": {
+    "id": "29B8-FtuC6U",
+    "url": "https://www.youtube.com/watch?v=29B8-FtuC6U",
+    "title": "TRUNG QUỐC KHÔNG THIẾU VỐN, KHÔNG THIẾU CÔNG NGHỆ - VẬY HỌ THIẾU GÌ?",
+    "channel": "THE HIDDEN SELF",
+    "declared_duration": 893.0,
+    "metadata_source": "docs/video-references/2026-11-11/catalog-complete.json",
+    "metadata_source_sha256": "92328ccade88c4885c4269791b478f0d57807080ab7b2a1aba830c793bfd0483",
+    "transcript_path": "docs/video-references/2026-11-11/29B8-FtuC6U/transcript.json",
+    "transcript_sha256": "931d644ab083279919e8a4f02b91fe0add2138d247459b293b18a1a90c755449",
+    "media_path": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+    "media_sha256": "22b42382c9ed41aa00252e1628aea7c3119f0a28ba6b549726c2e4077803a20f"
+  },
+  "coverage": {
+    "method": "full_caption_read",
+    "reviewed_start": 0.56,
+    "reviewed_end": 883.341,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listening": false,
+    "visual_method": "existing sparse contact sheet inspected"
+  },
+  "chapter_source": "agent-inferred semantic sections from caption; not official chapters or frame-accurate cuts",
+  "central_question": "Tại sao năng lực sản xuất lớn vẫn không tạo ra sức mua tương xứng, và thay đổi phân bổ nguồn lực có thể giải quyết nút thắt nào?",
+  "chapters": [
+    {
+      "start": 0.56,
+      "end": 84.4,
+      "title": "Bếp rất mạnh, sảnh ăn vắng khách",
+      "question": "Có vốn và công nghệ rồi thì thiếu gì?",
+      "claim": "Người kể trả lời sớm: thiếu cầu đủ hấp thụ công suất.",
+      "evidence_example": "15,92–48,16: nhà hàng đầy đầu bếp và món ăn nhưng chỉ vài khách; đây là ẩn dụ, không phải hồ sơ doanh nghiệp.",
+      "mechanism": "Đặt hai đại lượng đối lập: khả năng làm ra hàng và khả năng mua hàng.",
+      "transition": "76,52–82,48 quay lại câu hỏi sống bằng gì khi làm rẻ mà không có người mua.",
+      "payoff": "Người xem biết câu hỏi chính trước khi bước vào giải thích.",
+      "emphasis": "Nhấn tương phản công suất/cầu; tránh tiếp tục thêm danh sách máy móc.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 84.4,
+      "end": 96.28,
+      "title": "Nhận diện kênh",
+      "question": "Đây là chương giải thích không?",
+      "claim": "Đây là bumper/nhận diện.",
+      "evidence_example": "84,4 lời chào kênh; nhạc trong caption.",
+      "mechanism": "Ngắt mạch để nhận diện.",
+      "transition": "Đi vào quảng bá ở 96,28.",
+      "payoff": "Không có luận cứ mới cho câu hỏi kinh tế.",
+      "emphasis": "Tách khỏi dàn ý học thuật.",
+      "kind": "branding",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 96.28,
+      "end": 126.85,
+      "title": "Quảng bá hệ sinh thái riêng",
+      "question": "Người kể đang bán gì?",
+      "claim": "Quảng bá sách/audio/công cụ riêng.",
+      "evidence_example": "Lời mời truy cập dịch vụ và hứa lợi ích phát triển bản thân.",
+      "mechanism": "Chuyển từ chủ đề kinh tế sang chuyển đổi bán hàng.",
+      "transition": "126,85 trở lại tiêu đề dọn cỗ trước/tìm khách sau.",
+      "payoff": "Không phải miễn trừ trách nhiệm.",
+      "emphasis": "Không học độ dài quảng bá này thành độ dài hook.",
+      "kind": "promotion",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 126.85,
+      "end": 284.33,
+      "title": "Vì sao vẫn tiếp tục làm hàng dư thừa?",
+      "question": "Nếu bán lỗ, vì sao không đóng nhà máy?",
+      "claim": "Người kể liên kết ưu đãi sản xuất với mở công suất và động lực giữ việc/GDP/nợ ngân hàng.",
+      "evidence_example": "144,33–184,33 chủ xưởng nhận ưu đãi; 211,21–253,61 kho xe/pin/thép và khái niệm xác sống có năng suất.",
+      "mechanism": "Vốn rẻ → mở rộng trước khi có khách; chi phí đóng cửa đẩy động lực duy trì sản xuất.",
+      "transition": "254,77 hỏi tại sao không tắt máy; 284,33 chuyển sang vì sao dân không mở ví.",
+      "payoff": "Trả lời được nghịch lý công suất hiện đại mà lợi nhuận yếu trong logic người kể.",
+      "emphasis": "Nhấn 2 bước nhân quả riêng; số 4,4%/800 tỷ là lời nguồn chưa được kiểm lại.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 284.33,
+      "end": 445.74,
+      "title": "Vì sao người dân giữ tiền?",
+      "question": "Tại sao hàng rẻ mà người mua vẫn dè dặt?",
+      "claim": "Người kể giải thích tiết kiệm phòng ngừa bằng rủi ro y tế/hưu trí và mất của cải nhà ở.",
+      "evidence_example": "328,33 đặt người xem vào gia đình; 337,09 viện phí/học hành/hưu trí; 400,81 nhà là két tiết kiệm.",
+      "mechanism": "Bất an tương lai và tài sản giảm → hoãn xe/du lịch/ăn nhà hàng.",
+      "transition": "445,74 chuyển từ gia đình điển hình sang nhóm lao động di cư cụ thể.",
+      "payoff": "Đổi nhãn tiết kiệm thành một quyết định có nguyên nhân, thay vì chỉ quy tính cách.",
+      "emphasis": "Mỗi rủi ro phải gắn một khoản chi bị hoãn; không dùng cảnh tiền chung chung.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 445.74,
+      "end": 548.38,
+      "title": "Một nhóm người cụ thể: lao động di cư",
+      "question": "Cùng làm ở đô thị, vì sao vẫn không tiêu như cư dân đô thị?",
+      "claim": "Người kể đặt quyền tiếp cận phúc lợi/hộ khẩu làm nút thắt.",
+      "evidence_example": "488,9–508,3: trường học, nhà ở và thanh toán y tế; 519,66–527,7 gửi lương về quê.",
+      "mechanism": "Quyền lợi không ổn định → phòng ngừa nhiều hơn → tiêu dùng hiện tại ít.",
+      "transition": "548,38 mở sang ai nhận được thu nhập của nền kinh tế.",
+      "payoff": "Cụ thể hóa một cơ chế thể chế bằng hành vi có thể hình dung.",
+      "emphasis": "Chỉ rõ chủ thể, quyền bị hạn chế và hành vi; 300 triệu/+30% chưa đối chiếu nguồn.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 548.38,
+      "end": 621.14,
+      "title": "Ai nhận phần bánh thu nhập?",
+      "question": "Ngoài nỗi sợ, người dân có bao nhiêu phần thu nhập?",
+      "claim": "Người kể chuyển từ hành vi giữ ví sang phân bổ thu nhập/lợi nhuận và thuế.",
+      "evidence_example": "556,22–579,74 dùng 100 ổ bánh mì để diễn giải tỷ trọng.",
+      "mechanism": "Nguồn lực ở doanh nghiệp/chính quyền tái đầu tư → chưa chảy tương ứng về hộ gia đình.",
+      "transition": "621,14 hỏi giấc mộng bán ra ngoài đã vỡ ra sao.",
+      "payoff": "Bổ sung tầng phân phối, không lặp lại tầng tâm lý trước.",
+      "emphasis": "Ẩn dụ không thay định nghĩa thống kê: tỷ trọng thu nhập và tiêu dùng cần tách khi viết mới.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 621.14,
+      "end": 709.1,
+      "title": "Có thể bán hàng dư ra nước ngoài mãi không?",
+      "question": "Tại sao không chỉ xuất khẩu nhiều hơn?",
+      "claim": "Người kể dùng rào cản thương mại để giới hạn lối thoát xuất khẩu.",
+      "evidence_example": "651,66–679,26 liệt kê Mỹ/EU/các thị trường khác và phản ứng thương mại.",
+      "mechanism": "Sản xuất dư → xuất khẩu → đối tác bảo vệ ngành nội địa → lối thoát bị thu hẹp.",
+      "transition": "705,5 kết lời giải phải tìm trong nước; 709,1 chuyển đề xuất.",
+      "payoff": "Bịt một phản biện tự nhiên trước khi nêu giải pháp.",
+      "emphasis": "Nhấn giới hạn của phương án thay thế; mức thuế/niên đại phải xác minh riêng.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 709.1,
+      "end": 792.66,
+      "title": "Đổi dòng vốn: từ công suất sang an sinh",
+      "question": "Can thiệp nào nhắm đúng các nút thắt vừa nêu?",
+      "claim": "Người kể đề xuất phúc lợi, cổ tức/an sinh và quyền cư trú.",
+      "evidence_example": "736,66 bệnh viện/trường học; 761,78 doanh nghiệp; 776,62 hộ khẩu.",
+      "mechanism": "Mỗi giải pháp trả lại một nguyên nhân đã dựng, tạo cấu trúc đối xứng.",
+      "transition": "792,66 hỏi nếu có lời giải vì sao chưa làm.",
+      "payoff": "Giải pháp không xuất hiện từ khoảng trống; được gắn với từng vấn đề đã giải thích.",
+      "emphasis": "Tránh học lời hứa giải phóng 2–3 đồng như hệ số chắc chắn.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 792.66,
+      "end": 883.34,
+      "title": "Vì sao lời giải khó, và quay về chiếc ví",
+      "question": "Có giải pháp rồi thì trở ngại ở đâu?",
+      "claim": "Người kể đặt xung đột tư duy/lợi ích làm giới hạn, rồi chốt bằng cảm giác an toàn của gia đình.",
+      "evidence_example": "856,94–874,42 người mẹ/công nhân/người già trở lại với nhu cầu cụ thể.",
+      "mechanism": "Callback từ máy móc đầu phim sang người mua cuối phim, mở thêm tầng niềm tin.",
+      "transition": "Hết lời rồi còn đuôi hình/end screen trong media.",
+      "payoff": "Câu trả lời cuối phát triển đáp án đầu: cầu không chỉ là số người, còn là khả năng và an tâm chi tiêu.",
+      "emphasis": "Giữ một kết luận chính; không biến câu chốt cảm xúc thành bằng chứng thực nghiệm.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    }
+  ],
+  "observations": [
+    "Đọc toàn bộ caption 0,56–883,34; không xem/nghe liên tục 893 giây.",
+    "Đã mở contact-sheet.jpg: 20s lời đang nói bếp/robot, hình chọn mẫu là người ở phố, không xác nhận sự khớp đối tượng. 382,71s có bảng budget trong khi lời đang nói trợ cấp; ảnh không chứng minh số thống kê.",
+    "Giữ tuyến cung→cầu→nhóm người→phân phối→xuất khẩu→giải pháp→cản trở. Không coi mọi con số và khái quát mạnh của người kể là nguồn kinh tế đã được xác minh."
+  ],
+  "transferable_rules": [
+    {
+      "reference_interval": "15.92–82.48",
+      "rule": "Cho người xem nhìn thấy mâu thuẫn bằng một tình huống có hai trạng thái đối lập trước khi giải thích thuật ngữ.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "254.77–286.81",
+      "rule": "Chuyển chương bằng hệ quả/câu hỏi mà câu trả lời trước vừa tạo ra.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "709.10–792.66",
+      "rule": "Mỗi giải pháp phải trỏ ngược về một nguyên nhân đã chứng minh trong kịch bản.",
+      "status": "editorial observation; not user-approved production lesson"
+    }
+  ],
+  "factual_validation": "not performed; all claims/examples describe what source narrator says, not verified facts"
+}

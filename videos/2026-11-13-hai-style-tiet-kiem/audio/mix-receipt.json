@@ -1,0 +1,36 @@
+{
+  "narrationSHA256": "1849f8c3f1439b25f6b2f513f056caa4741648589298ca356546a5ac75ecd397",
+  "mixSHA256": "3c6f1deef2268fcd3dc15ec7a177f397c46657cc589891e86465049d217ca8e3",
+  "music": {
+    "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\precise-unit-math.mp3",
+    "sha256": "d5b5fbba86486be356298b9b1e89c8ad60c182989483a10d11ca035f0863a94b",
+    "providerReceiptSHA256": "c6bdbaac2ff54b81319085295e94ec5b70af000d96235e7a9f9ec5896d92971d",
+    "newPaidCall": false
+  },
+  "speechSpeed": 1,
+  "sharedAcrossStyles": true,
+  "cues": [
+    {
+      "at": 11.899999999999999,
+      "purpose": "before",
+      "source": "Original local synthesized soft pluck"
+    },
+    {
+      "at": 21.233333333333334,
+      "purpose": "after",
+      "source": "Original local synthesized soft pluck"
+    },
+    {
+      "at": 39.800000000000004,
+      "purpose": "dinner",
+      "source": "Original local synthesized soft pluck"
+    },
+    {
+      "at": 56.333333333333336,
+      "purpose": "transfer",
+      "source": "Original local synthesized soft pluck"
+    }
+  ],
+  "peakBeforeLimiter": 0.5641969442367554,
+  "listening": "Not established by measurement"
+}

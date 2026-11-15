@@ -1,0 +1,45 @@
+{
+  "id": "bread-bag-drop",
+  "file": "audio/sfx/downloaded/bread-bag-drop.mp3",
+  "sha256": "c798f98526f19c12d8d84a63ba1140660d499b29892398638c7a9332ae941608",
+  "bytes": 260448,
+  "durationSeconds": 10.7,
+  "sourceURL": "https://freesound.org/people/qubodup/sounds/189312/",
+  "downloadURL": "https://cdn.freesound.org/previews/189/189312_71257-hq.mp3",
+  "creator": "qubodup",
+  "sourceTitle": "Dropping Bag of Bread.flac",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Loaf in plastic bag dropped onto surface",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "bread",
+    "bag",
+    "drop"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b01",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b24",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/bread-bag-drop.html",
+    "htmlSHA256": "2e5fad842ec9deda7fb0a1edcf55cdb5152d711bb1da46975814bfc8077bb6f7",
+    "text": "research/sfx-source-pages/bread-bag-drop.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Loaf in plastic bag dropped onto surface by qubodup, Freesound #189312, CC0 1.0: https://freesound.org/people/qubodup/sounds/189312/"
+}

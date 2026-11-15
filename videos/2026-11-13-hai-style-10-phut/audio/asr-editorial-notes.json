@@ -1,0 +1,12 @@
+{
+  "reportSHA256": "bef5900626ebe46cb0e5c4c83830b1bdb376dc98106bb1f820ab4e2474d120d4",
+  "observations": [
+    "All ten chapter windows contain recognized dialogue.",
+    "Lowest token similarity is chapter3 where ASR writes digits and multiplication signs instead of the scripted Vietnamese number words; the recognized monetary mechanism still includes60k×30,1.8m+200k=2m and20k×30=600k.",
+    "The final recognized sentence ends at590.1s inside the591.433s mix."
+  ],
+  "limitations": [
+    "Recognizer mishears Minh as mình and contains spelling errors.",
+    "No assertion of exact acoustic pronunciation, manual continuous listening or user acceptance."
+  ]
+}

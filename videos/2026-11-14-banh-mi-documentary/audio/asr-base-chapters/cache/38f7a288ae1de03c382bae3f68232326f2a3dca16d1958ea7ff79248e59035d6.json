@@ -1,0 +1,171 @@
+{
+  "schema": "bread-documentary-chapter-asr/1",
+  "requestHash": "38f7a288ae1de03c382bae3f68232326f2a3dca16d1958ea7ff79248e59035d6",
+  "request": {
+    "sourceSHA256": "8554b549b4aa9c4c83114e2f09529b538b61ef16791f4417f9909595f9cf8110",
+    "audioSHA256": "71d3023fcebf039b63866875775c1717f6de5d854f4b597e4ec032d6c5fd28c7",
+    "scriptSHA256": "d156b6a70553743d0109b135c5cc3b0c75965a0c198777d275df508e0fca3f13",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1",
+      "source": "exact individual narration takes; no music",
+      "numberCheck": "explicit illustrative number phrases within each chapter; not exact local alignment"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "hoa-don-nao-giam",
+  "expected": "Chị Hạnh mở kho. Bao bột đang dùng có thể thuộc lô mua trước, giá cao. Hóa đơn mới thấp hơn chưa đổi ngay giá vốn của mẻ bánh hôm nay. Đấy là một độ trễ có thể có, không phải lý do mặc định cho mọi tiệm.\n\nRồi chị đặt hóa đơn bột cạnh các khoản khác. Tiền thuê vẫn theo hợp đồng. Lương người phụ bán đã thỏa thuận. Điện, nhân bánh, bao bì có thể đi theo hướng khác. Một dòng giảm chưa có nghĩa tổng chi phí của chiếc bánh đã trở lại như trước.\n\nNhưng nói đến đây rồi dừng sẽ là bênh người bán quá dễ. Ta phải hỏi ngược: nếu tổng chi phí đã giảm thật, lượng bán vẫn như cũ, mà chị Hạnh giữ giá, thì sao? Khoảng dư có thể tăng. Không có quy luật nào bảo mọi cửa hàng luôn phải chịu thiệt.\n\nLúc này người khách có vai trò. Nếu bên cạnh có bánh tương đương, rẻ hơn và dễ mua, chị Hạnh phải cân nhắc mất khách. Nếu khách khó chuyển chỗ mua, sức ép ấy có thể yếu hơn. Giá bán còn là kết quả của lựa chọn và cạnh tranh, không chỉ phép cộng trên hóa đơn.\n\nVậy câu hỏi đúng không phải: bột giảm rồi, sao chị chưa giảm? Mà là: tổng chi phí đã đổi bao nhiêu, và khách có lựa chọn nào? Ta vừa nhìn được hai phía của quầy. Còn một phía nữa: chiếc ví của người mua.",
+  "recognized": "Chỉ hành mở khó, bao bột đang dùng có thể thuộc lo mùi trước, giá cao. Hoá đơn mới thắp hơn chưa đổi ngay giá vốn của mẹ bánh hôm nay. Đấy là một độ trẻ có thể có không phải lý do mặt định cho mọi tiền. Rồi chỉ đặc hoá đơn bột cạnh các khoảng khác. Tìm thuê vẫn theo hợp đồng. Lương người phụ bán đã thoả thường. Điện, nhân bánh bao bị có thể đi theo hướng khác. Một giọng giảm chưa có nghĩa tổng chi phí của chiếc bánh đã trở lại như trước. Nhìn nói đến đây, rồi dừng sẽ là bên người bán quá dễ. Ta phải hỏi người, nếu tổng chi phí đại giảm thực, lượng bán vẫn như cố, mà chỉ hành dự giá, thì sao? Quảng dư có thể tăng. Không có quy luật nào bảo bảo mọi cửa hàng luôn phải chịu thị. Lúc này người khác có vai trò. Nếu bên cạnh có bánh tương đường, rẻ hơn và dễ mua, chỉ hành phải cần nhắc mất khách. Nếu khách khó chuyển chỗ mua, sức F.A có thể yêu hơn. Giả bán còn là kết quả của lừa tròn và cạnh tranh không chỉ phép cộng trên hóa đơn. Vậy câu hỏi đúng không phải, bột giảm rồi sau chỉ chưa giảm. Mà là, tổng chí phí đã đổi bao nhiêu và khách có lừa tròn nào. Ta vui nhìn được hai phía của quay. Còn một phía nữa, chích ví của người mua.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": " Chỉ hành mở khó, bao bột đang dùng có thể thuộc lo mùi trước, giá cao."
+    },
+    {
+      "start": 5.24,
+      "end": 8.96,
+      "text": " Hoá đơn mới thắp hơn chưa đổi ngay giá vốn của mẹ bánh hôm nay."
+    },
+    {
+      "start": 8.96,
+      "end": 13.280000000000001,
+      "text": " Đấy là một độ trẻ có thể có không phải lý do mặt định cho mọi tiền."
+    },
+    {
+      "start": 13.280000000000001,
+      "end": 16.16,
+      "text": " Rồi chỉ đặc hoá đơn bột cạnh các khoảng khác."
+    },
+    {
+      "start": 16.16,
+      "end": 18.16,
+      "text": " Tìm thuê vẫn theo hợp đồng."
+    },
+    {
+      "start": 18.16,
+      "end": 20.64,
+      "text": " Lương người phụ bán đã thoả thường."
+    },
+    {
+      "start": 20.64,
+      "end": 24.16,
+      "text": " Điện, nhân bánh bao bị có thể đi theo hướng khác."
+    },
+    {
+      "start": 24.16,
+      "end": 28.44,
+      "text": " Một giọng giảm chưa có nghĩa tổng chi phí của chiếc bánh đã trở lại như trước."
+    },
+    {
+      "start": 28.44,
+      "end": 32.02,
+      "text": " Nhìn nói đến đây, rồi dừng sẽ là bên người bán quá dễ."
+    },
+    {
+      "start": 32.02,
+      "end": 38.44,
+      "text": " Ta phải hỏi người, nếu tổng chi phí đại giảm thực, lượng bán vẫn như cố, mà chỉ hành dự giá, thì sao?"
+    },
+    {
+      "start": 38.44,
+      "end": 40.44,
+      "text": " Quảng dư có thể tăng."
+    },
+    {
+      "start": 40.44,
+      "end": 43.74,
+      "text": " Không có quy luật nào bảo bảo mọi cửa hàng luôn phải chịu thị."
+    },
+    {
+      "start": 43.74,
+      "end": 46.24,
+      "text": " Lúc này người khác có vai trò."
+    },
+    {
+      "start": 46.24,
+      "end": 51.44,
+      "text": " Nếu bên cạnh có bánh tương đường, rẻ hơn và dễ mua, chỉ hành phải cần nhắc mất khách."
+    },
+    {
+      "start": 51.44,
+      "end": 55.44,
+      "text": " Nếu khách khó chuyển chỗ mua, sức F.A có thể yêu hơn."
+    },
+    {
+      "start": 55.44,
+      "end": 60.379999999999995,
+      "text": " Giả bán còn là kết quả của lừa tròn và cạnh tranh không chỉ phép cộng trên hóa đơn."
+    },
+    {
+      "start": 60.379999999999995,
+      "end": 64.72,
+      "text": " Vậy câu hỏi đúng không phải, bột giảm rồi sau chỉ chưa giảm."
+    },
+    {
+      "start": 64.72,
+      "end": 69.02,
+      "text": " Mà là, tổng chí phí đã đổi bao nhiêu và khách có lừa tròn nào."
+    },
+    {
+      "start": 69.02,
+      "end": 71.47999999999999,
+      "text": " Ta vui nhìn được hai phía của quay."
+    },
+    {
+      "start": 71.47999999999999,
+      "end": 74.47999999999999,
+      "text": " Còn một phía nữa, chích ví của người mua."
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 6.143,
+  "chapterAudio": "audio/asr-base-chapters/chunks/03-hoa-don-nao-giam-052c50d6ed97c31c.wav",
+  "audio": {
+    "sourceSHA256": "8554b549b4aa9c4c83114e2f09529b538b61ef16791f4417f9909595f9cf8110",
+    "sha256": "71d3023fcebf039b63866875775c1717f6de5d854f4b597e4ec032d6c5fd28c7",
+    "seconds": 74.736,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "scope": "Complete individual take resampled, no time stretching or mix."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8031,
+    "expectedTokenCoverage": 0.8047,
+    "expectedTailTokenCoverage": 0.8,
+    "expectedTokens": 256,
+    "observedTokens": 257,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission.",
+    "numberPhrases": [],
+    "numberPhrasesNotFound": [],
+    "expectedFinalSentence": "Còn một phía nữa: chiếc ví của người mua.",
+    "finalSentenceExactNormalizedMatch": false,
+    "requiresReview": true,
+    "lexicalLimits": "Number checks search the chapter, not the corresponding speech location. A match cannot prove every number was spoken in its intended order; a missing phrase can be an ASR mistake. Final-sentence normalization can also fail on harmless recognition differences. This is not prosody assessment."
+  },
+  "cacheHit": false,
+  "continuousListening": false,
+  "aestheticApproval": false
+}

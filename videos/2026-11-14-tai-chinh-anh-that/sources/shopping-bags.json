@@ -1,0 +1,30 @@
+{
+  "id": "shopping-bags",
+  "pexelsID": 7007188,
+  "sourceURL": "https://www.pexels.com/photo/a-woman-holding-smartphone-and-credit-card-7007188/",
+  "creator": "Kindel Media",
+  "theme": "shopping",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/shopping-bags.jpg",
+  "downloadURL": "https://images.pexels.com/photos/7007188/pexels-photo-7007188.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1802,
+  "sha256": "cb2087a85f31cc89c3f46c28146f29369440d74d5927e1ba27827535288bb241",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

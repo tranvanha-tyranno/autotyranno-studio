@@ -1,0 +1,670 @@
+{
+  "direction": "long",
+  "assets": [
+    {
+      "id": "basket-full",
+      "originalFile": "assets/basket-full.jpg",
+      "publicFile": "directions/long/basket-full.jpg",
+      "originalSHA256": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e",
+      "publicSHA256": "a3347ff1e0e706128fcea1bfeee8dc81a33c46305722ff8aa02b426be3eecd21",
+      "originalStoredDimensions": [
+        1920,
+        1282
+      ],
+      "orientedDimensions": [
+        1920,
+        1282
+      ],
+      "publicDimensions": [
+        1917,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "cart-browse",
+      "originalFile": "assets/cart-browse.jpg",
+      "publicFile": "directions/long/cart-browse.jpg",
+      "originalSHA256": "cc489ce973f3d62a92a9cef3391dc4d48af40d661d17858ac97f705afbf24520",
+      "publicSHA256": "f358295d19c7b538b31120a4ae45b931e4b6a55b50e05ac6bd2c3a7257c79efd",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "cart-full",
+      "originalFile": "assets/cart-full.jpg",
+      "publicFile": "directions/long/cart-full.jpg",
+      "originalSHA256": "5230b59e3149dd73eb34ca45895343fe27fe2670aaa92b3ebd5374e91d3e7ddc",
+      "publicSHA256": "1668f4cc230249ab0103612fdd8391f580278b433d8233611679ac28d8e69e91",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "checkout-couple",
+      "originalFile": "assets/checkout-couple.jpg",
+      "publicFile": "directions/long/checkout-couple.jpg",
+      "originalSHA256": "87c20097bd209a224304afa2fa1a822d1fe4a6eb633413a0ee2ef1787132ba7b",
+      "publicSHA256": "beb38bf7879d559676f6b33f7b6f89030410d2c48acceb5dd8abd356fbf96b0f",
+      "originalStoredDimensions": [
+        1920,
+        2876
+      ],
+      "orientedDimensions": [
+        1920,
+        2876
+      ],
+      "publicDimensions": [
+        855,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "checkout-wide",
+      "originalFile": "assets/checkout-wide.jpg",
+      "publicFile": "directions/long/checkout-wide.jpg",
+      "originalSHA256": "7bb74fdc68c4348b56b2f22c18249e5c655ad3d1ca4607582d8d7adbb6d2d661",
+      "publicSHA256": "1af0a9ec7c9d0228570bee1505bf1ba9e812033e60f4873bd4908568d02c6d2b",
+      "originalStoredDimensions": [
+        1920,
+        1458
+      ],
+      "orientedDimensions": [
+        1920,
+        1458
+      ],
+      "publicDimensions": [
+        1686,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "clip-aisle",
+      "originalFile": "assets/clip-aisle-720p.mp4",
+      "publicFile": "directions/long/clip-aisle.mp4",
+      "originalSHA256": "27abc57343be844d6ee53cf5a10db2889e31a0ec5bbba296f27442c6e3a8c6d5",
+      "publicSHA256": "27abc57343be844d6ee53cf5a10db2889e31a0ec5bbba296f27442c6e3a8c6d5",
+      "originalStoredDimensions": [
+        1280,
+        720
+      ],
+      "orientedDimensions": [
+        1280,
+        720
+      ],
+      "publicDimensions": [
+        1280,
+        720
+      ],
+      "mediaType": "video",
+      "method": {
+        "exifTranspose": false,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "MP4 source copy",
+        "quality": 94
+      }
+    },
+    {
+      "id": "clip-checkout",
+      "originalFile": "assets/clip-checkout-720p.mp4",
+      "publicFile": "directions/long/clip-checkout.mp4",
+      "originalSHA256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+      "publicSHA256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+      "originalStoredDimensions": [
+        1280,
+        720
+      ],
+      "orientedDimensions": [
+        1280,
+        720
+      ],
+      "publicDimensions": [
+        1280,
+        720
+      ],
+      "mediaType": "video",
+      "method": {
+        "exifTranspose": false,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "MP4 source copy",
+        "quality": 94
+      }
+    },
+    {
+      "id": "clip-choose",
+      "originalFile": "assets/clip-choose-720p.mp4",
+      "publicFile": "directions/long/clip-choose.mp4",
+      "originalSHA256": "bec3cbfdaaeea22a56b25fec66b6e0910d6ea17dbe16a49d3b8b203694c33989",
+      "publicSHA256": "bec3cbfdaaeea22a56b25fec66b6e0910d6ea17dbe16a49d3b8b203694c33989",
+      "originalStoredDimensions": [
+        1280,
+        720
+      ],
+      "orientedDimensions": [
+        1280,
+        720
+      ],
+      "publicDimensions": [
+        1280,
+        720
+      ],
+      "mediaType": "video",
+      "method": {
+        "exifTranspose": false,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "MP4 source copy",
+        "quality": 94
+      }
+    },
+    {
+      "id": "fridge-check",
+      "originalFile": "assets/fridge-check.jpg",
+      "publicFile": "directions/long/fridge-check.jpg",
+      "originalSHA256": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+      "publicSHA256": "063cdd7e6d47e974081d8c6ad146d34ddc1a34c7bb5fc8456cd762b79aa40cb4",
+      "originalStoredDimensions": [
+        1920,
+        2880
+      ],
+      "orientedDimensions": [
+        1920,
+        2880
+      ],
+      "publicDimensions": [
+        853,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "fridge-kitchen",
+      "originalFile": "assets/fridge-kitchen.jpg",
+      "publicFile": "directions/long/fridge-kitchen.jpg",
+      "originalSHA256": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+      "publicSHA256": "4181fd6c323ffd24d1db2977cf8085b5cf3462111015ad5b50d047740c578470",
+      "originalStoredDimensions": [
+        1920,
+        1082
+      ],
+      "orientedDimensions": [
+        1920,
+        1082
+      ],
+      "publicDimensions": [
+        1920,
+        1082
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "groceries-home",
+      "originalFile": "assets/groceries-home.jpg",
+      "publicFile": "directions/long/groceries-home.jpg",
+      "originalSHA256": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc",
+      "publicSHA256": "3b15c605d89e26219558b697c165dfb99306bce8fcd08842df137dec76a05af3",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "milk-shelf",
+      "originalFile": "assets/milk-shelf.jpg",
+      "publicFile": "directions/long/milk-shelf.jpg",
+      "originalSHA256": "8ce67e4259f4cce49439c1eddf3daa04b9d52bf3113b172f158202eddb9807d6",
+      "publicSHA256": "86b265aba88d578972f618ff14dbb95d263ebbad8df280bf02dbb7f8135d9434",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "phone-list",
+      "originalFile": "assets/phone-list.jpg",
+      "publicFile": "directions/long/phone-list.jpg",
+      "originalSHA256": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d",
+      "publicSHA256": "0fa45ddaaa9d8cb72f76a271ad3c1dbff0ececb2a2b9aaee5aa5d743f8c337a4",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "plum-price",
+      "originalFile": "assets/plum-price.jpg",
+      "publicFile": "directions/long/plum-price.jpg",
+      "originalSHA256": "296bffca948575dbfc800981bb4cd5acdf8de78c669eab94cdcea25bfe85c7c6",
+      "publicSHA256": "6a12d4b2cf2e84c34221e584b2a75d98da537ccb4791c74d0fb480316659fe24",
+      "originalStoredDimensions": [
+        1920,
+        1278
+      ],
+      "orientedDimensions": [
+        1920,
+        1278
+      ],
+      "publicDimensions": [
+        1920,
+        1278
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "price-example",
+      "originalFile": "assets/price-example.jpg",
+      "publicFile": "directions/long/price-example.jpg",
+      "originalSHA256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+      "publicSHA256": "8f18b0f76e51740bc9672d60b1278684f9a1432eeae313fe20c8bed5a5dfd0b7",
+      "originalStoredDimensions": [
+        1920,
+        1080
+      ],
+      "orientedDimensions": [
+        1920,
+        1080
+      ],
+      "publicDimensions": [
+        1920,
+        1080
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "sale-shelf",
+      "originalFile": "assets/sale-shelf.jpg",
+      "publicFile": "directions/long/sale-shelf.jpg",
+      "originalSHA256": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef",
+      "publicSHA256": "a032a980b52e0d097ece444f68ffe8fa6b517c3687329ccb7efb7d7e22b7298b",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "shopping-list",
+      "originalFile": "assets/shopping-list.jpg",
+      "publicFile": "directions/long/shopping-list.jpg",
+      "originalSHA256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+      "publicSHA256": "c718a3ea773bc913c12debe71c7fc5648e092a1e36209cf33d075725f18909f0",
+      "originalStoredDimensions": [
+        1600,
+        1100
+      ],
+      "orientedDimensions": [
+        1600,
+        1100
+      ],
+      "publicDimensions": [
+        1600,
+        1100
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "total-change",
+      "originalFile": "assets/total-change.jpg",
+      "publicFile": "directions/long/total-change.jpg",
+      "originalSHA256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab",
+      "publicSHA256": "c0d795aff3a38627ff1559a01231aad4c957bacca35ebc055e59ac6d9144c757",
+      "originalStoredDimensions": [
+        1920,
+        1080
+      ],
+      "orientedDimensions": [
+        1920,
+        1080
+      ],
+      "publicDimensions": [
+        1920,
+        1080
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    },
+    {
+      "id": "vegetables-home",
+      "originalFile": "assets/vegetables-home.jpg",
+      "publicFile": "directions/long/vegetables-home.jpg",
+      "originalSHA256": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf",
+      "publicSHA256": "2802f214622d0a3e29329c18afd758226ca232c9abaea02cbf779d2a76eff1c0",
+      "originalStoredDimensions": [
+        1920,
+        1280
+      ],
+      "orientedDimensions": [
+        1920,
+        1280
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "mediaType": "image",
+      "method": {
+        "exifTranspose": true,
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "format": "JPEG",
+        "quality": 94
+      }
+    }
+  ]
+}

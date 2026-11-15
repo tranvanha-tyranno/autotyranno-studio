@@ -1,0 +1,133 @@
+{
+  "schema": "bread-documentary-derivative-crop-review/1",
+  "date": "2026-11-15 Asia/Saigon",
+  "method": "actual_final_derivative_midpoint_frames_opened",
+  "planSHA256": "c39df9474acd331af06530bec7744d35a42185b26c43950a2915a5f4b2e5db74",
+  "scope": "Six selected actual render-public-v3 derivative crops, not raw source sheets or whole film. No plan/code edited.",
+  "continuousAvReview": false,
+  "audioListened": false,
+  "userApproval": false,
+  "reviews": [
+    {
+      "shotId": "b06-03",
+      "narrationUnit": "b06",
+      "globalFromFrame": 2376,
+      "durationFrames": 102,
+      "sourceId": "pexels-8180409",
+      "sampleLocalSeconds": 1.7,
+      "subjectAction": "Both hands hold/fold a ball of dough; dough dominates the frame with flour jar at right.",
+      "cropObservation": "Hands and dough remain visible; no black side bars or lost focal object in inspected midpoint.",
+      "decision": "selected_frame_crop_acceptable",
+      "semanticLimits": "Processing action supports bakery context, not evidence of500đ decline or actual Hanh.",
+      "evidence": {
+        "derivative": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b06-03.mp4",
+        "derivativeSHA256": "f2db69107f6478c1ca043bd4db48d91213f8815dd437f8af0299d84b7b619292",
+        "derivativeReceipt": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b06-03.json",
+        "frame": "videos/2026-11-14-banh-mi-documentary/review/derivative-crops/b06-03.jpg",
+        "frameSHA256": "3ba53c59744496646021bfac52781d9bcfc68fb5a253c2a2d91c17113988e10a"
+      }
+    },
+    {
+      "shotId": "b07-01",
+      "narrationUnit": "b07",
+      "globalFromFrame": 2478,
+      "durationFrames": 141,
+      "sourceId": "pexels-29980691",
+      "sampleLocalSeconds": 2.35,
+      "subjectAction": "Wide dough sheet on worktable and dark cutter at left; warm bakery work surface visible.",
+      "cropObservation": "Center crop protects dough texture and cutting tool, though no full person.",
+      "decision": "selected_frame_crop_acceptable",
+      "semanticLimits": "Bridge asks about inflation; this is bread context, does not itself visualize a news report or price change.",
+      "evidence": {
+        "derivative": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b07-01.mp4",
+        "derivativeSHA256": "033212ebee19365851f7c632c0787c29a8a5235c74a7f736833323820718f737",
+        "derivativeReceipt": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b07-01.json",
+        "frame": "videos/2026-11-14-banh-mi-documentary/review/derivative-crops/b07-01.jpg",
+        "frameSHA256": "a50cbe2febb148664b8883c801ff6e8dc1aebae03ccc888de429d806dc2f5dab"
+      }
+    },
+    {
+      "shotId": "b18-02",
+      "narrationUnit": "b18",
+      "globalFromFrame": 7374,
+      "durationFrames": 330,
+      "sourceId": "pexels-3943592",
+      "sampleLocalSeconds": 5.5,
+      "subjectAction": "Two hands hold separated bread pieces with brown paper, light gray background.",
+      "cropObservation": "Right bread is large, left piece partly in lower-left; cropping retains both pieces and hand action.",
+      "decision": "pending_graphic_overlay_review",
+      "semanticLimits": "Main right piece may be darkened/covered by right math. Need actual composited proof to check balance and numbers; this is derivative footage only.",
+      "evidence": {
+        "derivative": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b18-02.mp4",
+        "derivativeSHA256": "8fbad292bedec68cfb986edfee444f5513a859334792e7f262e5093894e7a142",
+        "derivativeReceipt": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b18-02.json",
+        "frame": "videos/2026-11-14-banh-mi-documentary/review/derivative-crops/b18-02.jpg",
+        "frameSHA256": "db0c51696575ce35d7f56d06585ca203a9c607a92147795bb7e6842efcd89f25"
+      }
+    },
+    {
+      "shotId": "b19-02",
+      "narrationUnit": "b19",
+      "globalFromFrame": 7985,
+      "durationFrames": 95,
+      "sourceId": "pexels-8180413",
+      "sampleLocalSeconds": 1.583,
+      "subjectAction": "Hands press/fold dough on flour-dusted table; analog scale and jars behind.",
+      "cropObservation": "Hands and entire main dough shape visible in midpoint; no letterbox.",
+      "decision": "selected_frame_crop_acceptable",
+      "semanticLimits": "Still bakery context while narration changes angle to worker. Does not identify this stock person as employee or establish wage.",
+      "evidence": {
+        "derivative": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b19-02.mp4",
+        "derivativeSHA256": "8693c8dc7c69358571783bbfa5df652f80d315b26d8c1a9e2c24798b53c18a4f",
+        "derivativeReceipt": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b19-02.json",
+        "frame": "videos/2026-11-14-banh-mi-documentary/review/derivative-crops/b19-02.jpg",
+        "frameSHA256": "4b650b4f5222382723ec2c42a98e092272a89a2b2c78222f2249c3a38cd1cd4d"
+      }
+    },
+    {
+      "shotId": "b24-02",
+      "narrationUnit": "b24",
+      "globalFromFrame": 10435,
+      "durationFrames": 92,
+      "sourceId": "pexels-29980691",
+      "sampleLocalSeconds": 1.533,
+      "subjectAction": "Hands draw/fold dough across floured counter; arm and flour jar visible.",
+      "cropObservation": "The working hands and dough remain within lower-middle frame; no lost focal object.",
+      "decision": "selected_frame_crop_acceptable",
+      "semanticLimits": "Closing bakery callback remains generic context, not real Hanh.",
+      "evidence": {
+        "derivative": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b24-02.mp4",
+        "derivativeSHA256": "309efd6479770d3ed2add16c54af42a9b726adf7d751f780618d62b14a9f04d8",
+        "derivativeReceipt": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b24-02.json",
+        "frame": "videos/2026-11-14-banh-mi-documentary/review/derivative-crops/b24-02.jpg",
+        "frameSHA256": "82460d302a2d0c9056dbecceb256a6cf812e974c55a2b5043c7b78cfe75a784f"
+      }
+    },
+    {
+      "shotId": "b24-03",
+      "narrationUnit": "b24",
+      "globalFromFrame": 10527,
+      "durationFrames": 206,
+      "sourceId": "pexels-30329515",
+      "sampleLocalSeconds": 3.433,
+      "subjectAction": "Large shopper torso/arm dominates left and center; a red basket edge and second shopper partly visible.",
+      "cropObservation": "Original wide shot selection action is mostly occluded at this midpoint; useful produce handling is not clearly in frame.",
+      "decision": "revision_recommended_for_closing",
+      "semanticLimits": "Not technically black or invalid. Weak focus for final closing; fresh unused extra5701060 or8027655 supplies visible produce selection if root chooses repair.",
+      "evidence": {
+        "derivative": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b24-03.mp4",
+        "derivativeSHA256": "2d34663e897f4f46e400991459c0d0349eecf4d96479127f5e6937b9a7b84130",
+        "derivativeReceipt": "videos/2026-11-14-banh-mi-documentary/render-public-v3/shots/b24-03.json",
+        "frame": "videos/2026-11-14-banh-mi-documentary/review/derivative-crops/b24-03.jpg",
+        "frameSHA256": "c5ce01f6ab585666e7addbeaaf784c056e5faf6fb1aa564aced0b6bea566aa9f"
+      }
+    }
+  ],
+  "graphicProofReview": "Pending actual b06/b18 composited moving proof; source derivative alone cannot establish number layout.",
+  "laterTechnicalFinding": {
+    "reportedBy": "parent agent /root",
+    "finding": "Concatenated r01 proof timebase invalid (90k vs15,360 track timescales).",
+    "scope": "Derivative crop midpoint observations and hashes remain valid only for those source derivative frames; they do not validate concatenated playback timing.",
+    "next": "r02 proof remux/timebase and full-frame-count verification pending parent."
+  }
+}

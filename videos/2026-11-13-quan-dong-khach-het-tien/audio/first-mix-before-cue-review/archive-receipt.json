@@ -1,0 +1,80 @@
+{
+  "reason": "Move milk steam Foley from equipment-purchase beat m05 to actual visible milk-steaming beat u06 before remix",
+  "files": [
+    {
+      "source": "audio/final-mix.wav",
+      "archive": "final-mix.wav",
+      "sha256": "75640671dd3a1fff03c00f00ab79ba72a851759feeaaa570eb84d7d802a18481",
+      "operation": "retained by rename"
+    },
+    {
+      "source": "audio/music-stem.wav",
+      "archive": "music-stem.wav",
+      "sha256": "a20e58889c64c6a5fc3e2a174f1427ec3faa7d5722bf00aa5594b1975aeeaea3",
+      "operation": "retained by rename"
+    },
+    {
+      "source": "audio/sfx-stem.wav",
+      "archive": "sfx-stem.wav",
+      "sha256": "b544e958d7ae6ae1f7d53032c6986ba68e135024dacd164d5f14026cd9561080",
+      "operation": "retained by rename"
+    },
+    {
+      "source": "audio/mix-report.json",
+      "archive": "mix-report.json",
+      "sha256": "8346c57275b4bd334aec6c656417b3a6a2fa1af017649805aba46599308a113c",
+      "operation": "retained by rename"
+    },
+    {
+      "source": "audio/mixing.log",
+      "archive": "mixing.log",
+      "sha256": "d16cdf684ee5f51e1eda199a1e48f8aa277382ece0c80a783fb60925df667c51",
+      "operation": "retained by rename"
+    },
+    {
+      "source": "audio/cue-stems",
+      "archive": "cue-stems",
+      "files": {
+        "00-h01-cafe-ambience.wav": "375979e555bb4a58762924338dc87ecfa13ef34d001142db58aff40640471abe",
+        "01-h01-espresso.wav": "8d785b24b3922a872927fb6b29b0c7660028beb51f0403456b929160200cef1c",
+        "02-h03-cup-set.wav": "dc9f8506a5aa1684ee290852c2e5a2e664236141cffcd1feb52b6fc88ffcb0ad",
+        "03-u01-transition.wav": "11e1926032d57f1fa15b89edc03f4fea86f76ba63f00c35a08a599fd30787771",
+        "04-u02-grinder.wav": "a206dd381626d9c744a0f4c3051c1780a2cfe4004b59a30f2d16bdbd4c065acd",
+        "05-u03-paper-pen.wav": "2ef40382c365bb93f7a7a57ba5ba4537509cc83cba5af936e54163fbf1f855bb",
+        "06-b01-transition.wav": "11e1926032d57f1fa15b89edc03f4fea86f76ba63f00c35a08a599fd30787771",
+        "07-b03-wood-tick.wav": "3e298aa27febbb28cb2d3ebd0dcc1782971fc11840734158dc0307952823c803",
+        "08-v01-cafe-ambience.wav": "6a76140fb4fe57107559e6a1105a3ad2d13a59794adff1b332aa19d7c29643b3",
+        "09-p01-paper-pen.wav": "2ef40382c365bb93f7a7a57ba5ba4537509cc83cba5af936e54163fbf1f855bb",
+        "10-p03-coins.wav": "eae57bcfc61c5af60efe96a6f6775ce549b3bc4b877b645af817f307fb3e2af3",
+        "11-m01-transition.wav": "dcb0e9513c144fe05f790da3ec891f52348af8a7d7115ab799aa1735414f8897",
+        "12-m05-milk-steam.wav": "eb3842de939a15dc24fbc1bb6802f6d33c0a5a1ee14cc6326ed5e98a4dd50dfe",
+        "13-m07-low-hit.wav": "35640a1bf30514c1ca5bc7e60789548cb7af4bbe7c8fadf5ead7debb4c2f7cf5",
+        "14-a01-transition.wav": "dcb0e9513c144fe05f790da3ec891f52348af8a7d7115ab799aa1735414f8897",
+        "15-a02-paper-pen.wav": "2ef40382c365bb93f7a7a57ba5ba4537509cc83cba5af936e54163fbf1f855bb",
+        "16-e01-cafe-ambience.wav": "bce8f04881aee15c493ce0c1161cc64cb56c2aee3f5977a6bb4c4c892248087e",
+        "17-e05-cup-set.wav": "b270d968242cfade90c0a1f366dbd3a22b814585478f44bfb580be351af95410"
+      },
+      "operation": "retained by rename"
+    },
+    {
+      "source": "audio-sources.json",
+      "archive": "audio-sources.json",
+      "sha256": "8346c57275b4bd334aec6c656417b3a6a2fa1af017649805aba46599308a113c",
+      "operation": "copied snapshot"
+    },
+    {
+      "source": "sound-cues.json",
+      "archive": "sound-cues.json",
+      "sha256": "97140b3be88b2999f628116f38a704ebe1871c1c466a6cceac5cd764a4939c02",
+      "operation": "copied snapshot"
+    },
+    {
+      "source": "data.json",
+      "archive": "data.json",
+      "sha256": "597323ef7fc90199081f50b8ca653c1546d1abbf17fe82a6ee1a1e0de03b75f0",
+      "operation": "copied snapshot"
+    }
+  ],
+  "originalGenerationFilesUnchanged": true,
+  "listening": "Not performed by this archival operation"
+}

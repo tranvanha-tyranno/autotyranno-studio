@@ -1,0 +1,466 @@
+{
+  "cues": [
+    {
+      "unit": "b01",
+      "asset": "bread-bag-drop",
+      "atSeconds": 0.0,
+      "sourceInterval": [
+        0.47,
+        1.47
+      ],
+      "sourceSHA256": "c798f98526f19c12d8d84a63ba1140660d499b29892398638c7a9332ae941608",
+      "sourceURL": "https://freesound.org/people/qubodup/sounds/189312/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b02",
+      "asset": "paper-bag",
+      "atSeconds": 14.033333333333333,
+      "sourceInterval": [
+        0.445,
+        1.545
+      ],
+      "sourceSHA256": "80d6cd028e899f8790586ef389afd6444b85be1a694d6e8b32bc7525d4be4f5d",
+      "sourceURL": "https://freesound.org/people/randbsoundbites/sounds/795443/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b03",
+      "asset": "coins-drop",
+      "atSeconds": 27.6,
+      "sourceInterval": [
+        3.945,
+        4.745
+      ],
+      "sourceSHA256": "d3d4be126a0b839f809c90c814b138d4effa8ef9c1014296fcdb7678a57f950a",
+      "sourceURL": "https://freesound.org/people/bwarpus99/sounds/443858/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b03",
+      "asset": "calculator",
+      "atSeconds": 32.7,
+      "sourceInterval": [
+        0.0,
+        0.55
+      ],
+      "sourceSHA256": "e36266ba1b36e04d87fb562484a962bdbfac9f9c447c061892af2fd38311dfb1",
+      "sourceURL": "https://freesound.org/people/nodzSound/sounds/506529/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b04",
+      "asset": "pen-paper",
+      "atSeconds": 41.36666666666667,
+      "sourceInterval": [
+        8.42,
+        9.92
+      ],
+      "sourceSHA256": "f28f16e168a4ee14e769e79c571b60376f333dd1674725227482a966ac9f7cda",
+      "sourceURL": "https://freesound.org/people/khenshom/sounds/565206/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b05",
+      "asset": "calculator",
+      "atSeconds": 52.983333333333334,
+      "sourceInterval": [
+        0.0,
+        0.9
+      ],
+      "sourceSHA256": "e36266ba1b36e04d87fb562484a962bdbfac9f9c447c061892af2fd38311dfb1",
+      "sourceURL": "https://freesound.org/people/nodzSound/sounds/506529/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b05",
+      "asset": "coins-drop",
+      "atSeconds": 61.233333333333334,
+      "sourceInterval": [
+        3.945,
+        4.745
+      ],
+      "sourceSHA256": "d3d4be126a0b839f809c90c814b138d4effa8ef9c1014296fcdb7678a57f950a",
+      "sourceURL": "https://freesound.org/people/bwarpus99/sounds/443858/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b06",
+      "asset": "money-pickup",
+      "atSeconds": 67.9,
+      "sourceInterval": [
+        0.0,
+        0.21552083333333333
+      ],
+      "sourceSHA256": "0612157de82da7e04e798ea81e6ec264e38d95b2c9a513994e283a82bf612696",
+      "sourceURL": "https://freesound.org/people/LeMudCrab/sounds/163451/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b07",
+      "asset": "short-whoosh",
+      "atSeconds": 82.65,
+      "sourceInterval": [
+        0.27,
+        0.59
+      ],
+      "sourceSHA256": "1fcee738b55df8edbde03a13186e6c3ea9f61235827ec1a241eb5d393edad614",
+      "sourceURL": "https://freesound.org/people/Kinoton/sounds/427979/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -34,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b08",
+      "asset": "calculator-slide",
+      "atSeconds": 97.7,
+      "sourceInterval": [
+        0.37,
+        1.12
+      ],
+      "sourceSHA256": "42a8c9b04dfd289a55cb674b7c57bf2a32b91a7172421097bb024ecda9ff8223",
+      "sourceURL": "https://freesound.org/people/redpanda69/sounds/686164/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b09",
+      "asset": "calculator",
+      "atSeconds": 112.83333333333333,
+      "sourceInterval": [
+        0.0,
+        0.45
+      ],
+      "sourceSHA256": "e36266ba1b36e04d87fb562484a962bdbfac9f9c447c061892af2fd38311dfb1",
+      "sourceURL": "https://freesound.org/people/nodzSound/sounds/506529/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b10",
+      "asset": "paper-bag",
+      "atSeconds": 126.46666666666667,
+      "sourceInterval": [
+        0.445,
+        1.245
+      ],
+      "sourceSHA256": "80d6cd028e899f8790586ef389afd6444b85be1a694d6e8b32bc7525d4be4f5d",
+      "sourceURL": "https://freesound.org/people/randbsoundbites/sounds/795443/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b11",
+      "asset": "pen-paper",
+      "atSeconds": 139.0,
+      "sourceInterval": [
+        8.42,
+        9.32
+      ],
+      "sourceSHA256": "f28f16e168a4ee14e769e79c571b60376f333dd1674725227482a966ac9f7cda",
+      "sourceURL": "https://freesound.org/people/khenshom/sounds/565206/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b12",
+      "asset": "oven-door",
+      "atSeconds": 155.56666666666666,
+      "sourceInterval": [
+        0.12,
+        1.02
+      ],
+      "sourceSHA256": "7ea1aea865ea6d94220487ea1a8d087edcf67085d50f7abf27568ac6adacce80",
+      "sourceURL": "https://freesound.org/people/bolkmar/sounds/503477/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b12",
+      "asset": "paper-bag",
+      "atSeconds": 160.66666666666666,
+      "sourceInterval": [
+        0.445,
+        1.445
+      ],
+      "sourceSHA256": "80d6cd028e899f8790586ef389afd6444b85be1a694d6e8b32bc7525d4be4f5d",
+      "sourceURL": "https://freesound.org/people/randbsoundbites/sounds/795443/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b13",
+      "asset": "receipt-printer",
+      "atSeconds": 168.96666666666667,
+      "sourceInterval": [
+        1.92,
+        3.1344583333333333
+      ],
+      "sourceSHA256": "8b0afd1a0985792ae68309ff8f85b5fbb3fb7d4045bf18431b99f1891ccfbee2",
+      "sourceURL": "https://freesound.org/people/thepodcastdoctor/sounds/476011/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -34,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b14",
+      "asset": "calculator",
+      "atSeconds": 184.43333333333334,
+      "sourceInterval": [
+        0.0,
+        0.8
+      ],
+      "sourceSHA256": "e36266ba1b36e04d87fb562484a962bdbfac9f9c447c061892af2fd38311dfb1",
+      "sourceURL": "https://freesound.org/people/nodzSound/sounds/506529/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b15",
+      "asset": "short-whoosh",
+      "atSeconds": 199.6,
+      "sourceInterval": [
+        0.27,
+        0.61
+      ],
+      "sourceSHA256": "1fcee738b55df8edbde03a13186e6c3ea9f61235827ec1a241eb5d393edad614",
+      "sourceURL": "https://freesound.org/people/Kinoton/sounds/427979/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -34,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b15",
+      "asset": "money-pickup",
+      "atSeconds": 204.5,
+      "sourceInterval": [
+        0.0,
+        0.21552083333333333
+      ],
+      "sourceSHA256": "0612157de82da7e04e798ea81e6ec264e38d95b2c9a513994e283a82bf612696",
+      "sourceURL": "https://freesound.org/people/LeMudCrab/sounds/163451/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b16",
+      "asset": "receipt-printer",
+      "atSeconds": 216.06666666666666,
+      "sourceInterval": [
+        1.92,
+        3.02
+      ],
+      "sourceSHA256": "8b0afd1a0985792ae68309ff8f85b5fbb3fb7d4045bf18431b99f1891ccfbee2",
+      "sourceURL": "https://freesound.org/people/thepodcastdoctor/sounds/476011/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -34,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b17",
+      "asset": "calculator-slide",
+      "atSeconds": 230.76666666666668,
+      "sourceInterval": [
+        0.37,
+        1.07
+      ],
+      "sourceSHA256": "42a8c9b04dfd289a55cb674b7c57bf2a32b91a7172421097bb024ecda9ff8223",
+      "sourceURL": "https://freesound.org/people/redpanda69/sounds/686164/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b18",
+      "asset": "bread-cut",
+      "atSeconds": 244.4,
+      "sourceInterval": [
+        2.22,
+        2.87
+      ],
+      "sourceSHA256": "e5ba1ceb6dc91030a6b7cde53291d87fed0264c87e170b4c4f6264ef2af3bbba",
+      "sourceURL": "https://freesound.org/people/BogumilaMerc/sounds/835792/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b18",
+      "asset": "coins-drop",
+      "atSeconds": 251.3,
+      "sourceInterval": [
+        3.945,
+        4.745
+      ],
+      "sourceSHA256": "d3d4be126a0b839f809c90c814b138d4effa8ef9c1014296fcdb7678a57f950a",
+      "sourceURL": "https://freesound.org/people/bwarpus99/sounds/443858/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b19",
+      "asset": "bread-crunch",
+      "atSeconds": 261.73333333333335,
+      "sourceInterval": [
+        0.22,
+        0.77
+      ],
+      "sourceSHA256": "c157a79361c36b2f31ea3a4b4a0f5af0f100dd81c62a9c627f48da4000dc900b",
+      "sourceURL": "https://freesound.org/people/mealwyrm/sounds/495813/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b20",
+      "asset": "paper-bag",
+      "atSeconds": 277.5,
+      "sourceInterval": [
+        0.445,
+        1.345
+      ],
+      "sourceSHA256": "80d6cd028e899f8790586ef389afd6444b85be1a694d6e8b32bc7525d4be4f5d",
+      "sourceURL": "https://freesound.org/people/randbsoundbites/sounds/795443/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b21",
+      "asset": "pen-paper",
+      "atSeconds": 293.76666666666665,
+      "sourceInterval": [
+        8.42,
+        9.27
+      ],
+      "sourceSHA256": "f28f16e168a4ee14e769e79c571b60376f333dd1674725227482a966ac9f7cda",
+      "sourceURL": "https://freesound.org/people/khenshom/sounds/565206/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b22",
+      "asset": "oven-close",
+      "atSeconds": 309.15,
+      "sourceInterval": [
+        0.0,
+        0.43385416666666665
+      ],
+      "sourceSHA256": "f752776b3b33265f7ac884db41d97fa4402c60272b778be3f86fa8620bdc2d84",
+      "sourceURL": "https://freesound.org/people/TiesWijnen/sounds/455538/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b23",
+      "asset": "calculator",
+      "atSeconds": 325.3666666666667,
+      "sourceInterval": [
+        0.0,
+        0.65
+      ],
+      "sourceSHA256": "e36266ba1b36e04d87fb562484a962bdbfac9f9c447c061892af2fd38311dfb1",
+      "sourceURL": "https://freesound.org/people/nodzSound/sounds/506529/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    },
+    {
+      "unit": "b24",
+      "asset": "bread-bag-drop",
+      "atSeconds": 343.05,
+      "sourceInterval": [
+        0.47,
+        1.27
+      ],
+      "sourceSHA256": "c798f98526f19c12d8d84a63ba1140660d499b29892398638c7a9332ae941608",
+      "sourceURL": "https://freesound.org/people/qubodup/sounds/189312/",
+      "license": "CC0 1.0 Universal",
+      "selection": "source description + decoded energy onset; not auditory audition",
+      "targetRmsDbFS": -31,
+      "peakLimitDbFS": -19.17
+    }
+  ],
+  "downloadedTypesUsed": [
+    "bread-bag-drop",
+    "bread-crunch",
+    "bread-cut",
+    "calculator",
+    "calculator-slide",
+    "coins-drop",
+    "money-pickup",
+    "oven-close",
+    "oven-door",
+    "paper-bag",
+    "pen-paper",
+    "receipt-printer",
+    "short-whoosh"
+  ],
+  "downloadedSourceCount": 16,
+  "musicSHA256": "f3de99871d1ca7f952451b23e91e6185c334ad69b96a9abdc6b599150c56fdff",
+  "mixSHA256": "9b406467897032f2b10eaca830fa65316c42949cf1fbaf0e33afb450f668c116",
+  "voiceProvisional": true,
+  "voice": "Retained Nam Minh; OpenAI401 invalid_api_key",
+  "excludedFromMix": [
+    "market-room has foreign conversation",
+    "oven-beeps irrelevant alarm",
+    "bread-cooling may include fan/clothing"
+  ],
+  "manualListening": false,
+  "noNewPaidMusicSfx": true
+}

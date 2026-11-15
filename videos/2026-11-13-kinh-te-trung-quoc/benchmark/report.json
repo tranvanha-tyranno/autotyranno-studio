@@ -1,0 +1,401 @@
+{
+  "schema": "video-benchmark-readable-report/1",
+  "updatedUTC": "2026-11-13T06:10:28.616870+00:00",
+  "status": "ready-for-user-review",
+  "task": {
+    "startUTC": "2026-11-13T04:55:13Z",
+    "finalEndUTC": "2026-11-13T06:09:35Z",
+    "elapsedAsOfSeconds": 4462.0,
+    "finalWallSeconds": 4462.0,
+    "startDefinition": "First recorded task clock; original message-send time is not available.",
+    "renderEndUTC": "2026-11-13T05:55:52.701835+00:00",
+    "elapsedToRenderEndSeconds": 3639.702,
+    "finalEndDefinition": "Root recorded actual UTC clock06:09:35Z after verifying r02 server/hash/QA/report links and independent delta review; later report-writing time is not added to production readiness.",
+    "readyUTC": "2026-11-13T06:09:35Z",
+    "productionScope": "This first run includes original research/script, source selection, workflow/scene development, audio generation/mix, still review, full render, QA and a targeted correction; not a guaranteed future per-video turnaround."
+  },
+  "video": {
+    "plannedFrames": 17913,
+    "fps": 30,
+    "plannedSeconds": 597.1,
+    "decodedFinalFrames": 17913,
+    "userAcceptance": "pending",
+    "finalWidth": 1920,
+    "finalHeight": 1080,
+    "finalSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+    "finalDecodedAudioSeconds": 597.12,
+    "finalRevision": "r02",
+    "finalFile": "r02/final.mp4",
+    "technicalIntegrity": "passed",
+    "integratedLUFS": -15.98,
+    "truePeakDBTP": -1.93,
+    "finalBytes": 64372346,
+    "decimalMB": 64.372
+  },
+  "audio": {
+    "newProviderCalls": 17,
+    "verifiedNewRequestCreditSum": 4366.0,
+    "newRequestsMissingCreditHeader": [
+      {
+        "id": "balance-sheet-friction",
+        "endpoint": "/v1/music",
+        "_requestHash": "31312fadd99ec047e47e4be293e9d501100d35d8ac2f3b6a6b8226536b6c4c51"
+      },
+      {
+        "id": "adaptation-horizon",
+        "endpoint": "/v1/music",
+        "_requestHash": "41c81c21e2bfed1866f7f8ebda8437329b92893e80ae8b1abc61e9848835234a"
+      },
+      {
+        "id": "industrial-networks",
+        "endpoint": "/v1/music",
+        "_requestHash": "b32ff5591fcc805b59bb001d20fe62075821827bf5d53dcb0d74db0cc3c77a5d"
+      }
+    ],
+    "explicitReusedAudioAssets": 5,
+    "perCategory": {
+      "voice": {
+        "newCalls": 8,
+        "cacheHits": 0,
+        "generatedAudioSeconds": 592.41,
+        "confirmedCreditHeaders": 3954.0,
+        "unknownUsageCount": 0,
+        "providerWallSeconds": 199.437,
+        "firstRequestUTC": "2026-11-13T05:06:16.249967+00:00",
+        "lastRequestUTC": "2026-11-13T05:09:35.841813+00:00"
+      },
+      "soundEffects": {
+        "newCalls": 6,
+        "cacheHits": 0,
+        "generatedAudioSeconds": 41.38,
+        "confirmedCreditHeaders": 412.0,
+        "unknownUsageCount": 0,
+        "providerWallSeconds": 18.688,
+        "firstRequestUTC": "2026-11-13T05:03:21.987111+00:00",
+        "lastRequestUTC": "2026-11-13T05:03:41.025224+00:00"
+      },
+      "music": {
+        "newCalls": 3,
+        "cacheHits": 0,
+        "generatedAudioSeconds": 360.24,
+        "confirmedCreditHeaders": 0,
+        "unknownUsageCount": 3,
+        "providerWallSeconds": 41.548,
+        "firstRequestUTC": "2026-11-13T05:02:40.233728+00:00",
+        "lastRequestUTC": "2026-11-13T05:03:21.929115+00:00"
+      },
+      "reusedWithoutNewCalls": {
+        "musicAssets": 3,
+        "musicSeconds": 350.22,
+        "soundAssets": 2,
+        "soundSeconds": 3.17
+      }
+    },
+    "providerCallSecondsCumulative": 259.67299999999994,
+    "localMixSeconds": 96.672,
+    "manualListening": false
+  },
+  "cost": {
+    "confirmedHeaderCredits": 4366.0,
+    "musicRequestsWithUnknownCredits": 3,
+    "observedAccountUsageDelta": 8866,
+    "accountDeltaTaskAttribution": "Not established; account usage can include concurrent jobs, rollover and adjustments. Do not present delta as task bill.",
+    "startCreditsRemaining": 18499,
+    "endCreditsRemaining": 9633,
+    "datedListPriceEstimate": {
+      "amount": 1.7732,
+      "checkedDate": "2026-11-13",
+      "source": "https://elevenlabs.io/pricing/api",
+      "ttsV3USDPer1000InputCharacters": 0.08,
+      "musicUSDPerGeneratedMinute": 0.15,
+      "soundEffectsUSDPerGeneratedMinute": 0.12,
+      "basis": "New completed task requests only, requested duration and input characters; not an invoice, credit-to-dollar conversion, plan allocation or actual cash charge. Taxes excluded."
+    },
+    "actualInvoiceUSD": null,
+    "otherCosts": "LLM/model tokens, hardware, electricity and any account-level subscription allocation are not exposed or measured here; no total cash cost is invented.",
+    "extraProviderCallsForRepairAndQA": 0
+  },
+  "render": {
+    "attempt": "render-attempts/20261113T053619Z-d8037e",
+    "status": "completed",
+    "startedUTC": "2026-11-13T05:36:19.821165+00:00",
+    "finishedUTC": "2026-11-13T05:55:52.701835+00:00",
+    "concurrency": 2,
+    "mediaCacheBytes": 268435456,
+    "bundle": {
+      "startedUTC": "2026-11-13T05:36:19.959220+00:00",
+      "finishedUTC": "2026-11-13T05:36:25.214227+00:00",
+      "wallSeconds": 5.25,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\bundle.log",
+      "directProcessCPUSeconds": 4.078125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+    },
+    "completedChapters": 8,
+    "totalChapters": 8,
+    "completedChapterRenderWallSeconds": 1059.188,
+    "chapters": [
+      {
+        "id": "opening",
+        "frames": 1330,
+        "status": "complete",
+        "timing": {
+          "id": "opening",
+          "startedUTC": "2026-11-13T05:36:42.398092+00:00",
+          "finishedUTC": "2026-11-13T05:38:02.167180+00:00",
+          "wallSeconds": 79.765,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-00-5310e44d.log",
+          "directProcessCPUSeconds": 12.6875,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 1330,
+          "renderFramesPerSecond": 16.674,
+          "videoSecondsPerWallSecond": 0.5558
+        }
+      },
+      {
+        "id": "factory",
+        "frames": 2698,
+        "status": "complete",
+        "timing": {
+          "id": "factory",
+          "startedUTC": "2026-11-13T05:38:03.054946+00:00",
+          "finishedUTC": "2026-11-13T05:40:44.909959+00:00",
+          "wallSeconds": 161.859,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-01-5310e44d.log",
+          "directProcessCPUSeconds": 23.75,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 2698,
+          "renderFramesPerSecond": 16.669,
+          "videoSecondsPerWallSecond": 0.5556
+        }
+      },
+      {
+        "id": "property",
+        "frames": 2641,
+        "status": "complete",
+        "timing": {
+          "id": "property",
+          "startedUTC": "2026-11-13T05:40:47.052595+00:00",
+          "finishedUTC": "2026-11-13T05:43:24.894267+00:00",
+          "wallSeconds": 157.844,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-02-5310e44d.log",
+          "directProcessCPUSeconds": 21.4375,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 2641,
+          "renderFramesPerSecond": 16.732,
+          "videoSecondsPerWallSecond": 0.5577
+        }
+      },
+      {
+        "id": "households",
+        "frames": 2753,
+        "status": "complete",
+        "timing": {
+          "id": "households",
+          "startedUTC": "2026-11-13T05:43:26.744254+00:00",
+          "finishedUTC": "2026-11-13T05:46:15.680337+00:00",
+          "wallSeconds": 168.938,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-03-5310e44d.log",
+          "directProcessCPUSeconds": 24.375,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 2753,
+          "renderFramesPerSecond": 16.296,
+          "videoSecondsPerWallSecond": 0.5432
+        }
+      },
+      {
+        "id": "trade",
+        "frames": 2339,
+        "status": "complete",
+        "timing": {
+          "id": "trade",
+          "startedUTC": "2026-11-13T05:46:17.847229+00:00",
+          "finishedUTC": "2026-11-13T05:48:38.955428+00:00",
+          "wallSeconds": 141.109,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-04-5310e44d.log",
+          "directProcessCPUSeconds": 20.234375,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 2339,
+          "renderFramesPerSecond": 16.576,
+          "videoSecondsPerWallSecond": 0.5525
+        }
+      },
+      {
+        "id": "demography",
+        "frames": 2093,
+        "status": "complete",
+        "timing": {
+          "id": "demography",
+          "startedUTC": "2026-11-13T05:48:40.717475+00:00",
+          "finishedUTC": "2026-11-13T05:50:42.091988+00:00",
+          "wallSeconds": 121.375,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-05-5310e44d.log",
+          "directProcessCPUSeconds": 20.984375,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 2093,
+          "renderFramesPerSecond": 17.244,
+          "videoSecondsPerWallSecond": 0.5748
+        }
+      },
+      {
+        "id": "policy",
+        "frames": 2494,
+        "status": "complete",
+        "timing": {
+          "id": "policy",
+          "startedUTC": "2026-11-13T05:50:43.964540+00:00",
+          "finishedUTC": "2026-11-13T05:52:55.816897+00:00",
+          "wallSeconds": 131.86,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-06-5310e44d.log",
+          "directProcessCPUSeconds": 20.78125,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 2494,
+          "renderFramesPerSecond": 18.914,
+          "videoSecondsPerWallSecond": 0.6305
+        }
+      },
+      {
+        "id": "ending",
+        "frames": 1565,
+        "status": "complete",
+        "timing": {
+          "id": "ending",
+          "startedUTC": "2026-11-13T05:52:57.407096+00:00",
+          "finishedUTC": "2026-11-13T05:54:33.847375+00:00",
+          "wallSeconds": 96.438,
+          "returncode": 0,
+          "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\part-07-5310e44d.log",
+          "directProcessCPUSeconds": 13.796875,
+          "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable.",
+          "frames": 1565,
+          "renderFramesPerSecond": 16.228,
+          "videoSecondsPerWallSecond": 0.5409
+        }
+      }
+    ],
+    "joinMode": "stream-copy",
+    "finalAudioDecode": {
+      "decodedSamplesMono48000": 28661760,
+      "seconds": 597.12,
+      "lastWordEnd": 595.58,
+      "wallSeconds": 0.75,
+      "manualListening": false
+    },
+    "aggregateRenderFramesPerSecond": 16.912011843034474,
+    "attemptWallSeconds": 1173.484,
+    "join": {
+      "startedUTC": "2026-11-13T05:54:38.853153+00:00",
+      "finishedUTC": "2026-11-13T05:55:37.668532+00:00",
+      "wallSeconds": 58.812,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e\\join-5310e44d.log",
+      "directProcessCPUSeconds": 59.828125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+    },
+    "finalDecode": {
+      "sha256": "936252a9f28282d3853d9dbc341cea7347177d0853508305d10d266ed10bdcbd",
+      "frames": 17913,
+      "fps": 30.0,
+      "width": 1920,
+      "height": 1080,
+      "decodeWallSeconds": 14.032,
+      "decodeFramesPerSecond": 1276.582
+    }
+  },
+  "sources": {
+    "main": "benchmark.json",
+    "audioCosts": "benchmark/audio-cost-summary.json",
+    "audioMeasurements": "benchmark/audio-stage-measurements.json",
+    "mix": "benchmark/mix-stage.json",
+    "renderState": "render-attempts/20261113T053619Z-d8037e/state.json",
+    "renderStage": "benchmark/render-stage.json",
+    "firstQA": "benchmark/qa-stage.json",
+    "finalQA": "benchmark/qa-r02-stage.json",
+    "repair": "benchmark/r02-visual-repair-stage.json"
+  },
+  "limits": [
+    "Provider call seconds are summed request durations, not whole-task wall time.",
+    "Only numeric new-request character-cost headers are confirmed usage. Music headers remain unknown.",
+    "Direct process CPU excludes browser/encoder descendants; it is not total machine CPU consumption.",
+    "Render/decode measurements do not establish visual quality, listening or user approval."
+  ],
+  "qa": {
+    "initial": {
+      "schema": "china-final-qa-timing/1",
+      "startedUTC": "2026-11-13T05:56:30.040936+00:00",
+      "status": "completed",
+      "decodedFrames": 17913,
+      "technicalIntegrity": "passed",
+      "finishedUTC": "2026-11-13T05:59:37.738773+00:00",
+      "wallSeconds": 187.703
+    },
+    "final": {
+      "schema": "china-final-qa-timing/1",
+      "startedUTC": "2026-11-13T06:04:55.394335+00:00",
+      "status": "completed",
+      "decodedFrames": 17913,
+      "technicalIntegrity": "passed",
+      "finishedUTC": "2026-11-13T06:07:59.994037+00:00",
+      "wallSeconds": 184.593
+    },
+    "finalReport": "r02/qa/report.json",
+    "sampleReviewScope": "Root inspected original51midframes and corrected o03 at native resolution; independent sample review covered200three-second samples and15five-frame temporal strips. This is sampled visual review, not continuous AV listening.",
+    "unselectedDeltaScope": "50 unselected rendered midframes matched within PSNR>=47.30277dB and MAE<=0.47604; lossy re-encoding is expected, not byte identity.",
+    "userAcceptance": "pending"
+  },
+  "repair": {
+    "schema": "china-visual-repair-benchmark/1",
+    "startedUTC": "2026-11-13T06:01:21.901348+00:00",
+    "finishedUTC": "2026-11-13T06:03:51.537944+00:00",
+    "wallSeconds": 149.64,
+    "changedShots": [
+      "o03"
+    ],
+    "patchFrames": 366,
+    "patchRender": {
+      "startedUTC": "2026-11-13T06:01:22.155354+00:00",
+      "finishedUTC": "2026-11-13T06:01:49.977206+00:00",
+      "wallSeconds": 27.813,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02\\patch.log",
+      "directProcessCPUSeconds": 5.328125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+    },
+    "spliceTiming": {
+      "startedUTC": "2026-11-13T06:01:50.260615+00:00",
+      "finishedUTC": "2026-11-13T06:03:38.821911+00:00",
+      "wallSeconds": 108.563,
+      "returncode": 0,
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02\\splice.log",
+      "directProcessCPUSeconds": 856.78125,
+      "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+    },
+    "finalDecode": {
+      "sha256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+      "frames": 17913,
+      "fps": 30.0,
+      "width": 1920,
+      "height": 1080,
+      "decodeWallSeconds": 11.562,
+      "decodeFramesPerSecond": 1549.299
+    },
+    "audioDecode": {
+      "decodedSamplesMono48000": 28661760,
+      "seconds": 597.12,
+      "lastWordEnd": 595.58,
+      "wallSeconds": 0.813,
+      "manualListening": false
+    },
+    "newProviderCalls": 0,
+    "newProviderCredits": 0,
+    "scope": "Local heading repair only; full normalized encode retained prior movie. Final production ready time still awaits QA/sample-review completion."
+  },
+  "reviewURL": "http://127.0.0.1:8883/?revision=r02"
+}

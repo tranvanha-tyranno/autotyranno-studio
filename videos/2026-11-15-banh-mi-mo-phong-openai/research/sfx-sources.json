@@ -1,0 +1,802 @@
+{
+  "schema": "bread-film-internet-sfx/1",
+  "dateLocal": "2026-11-15",
+  "assets": [
+    {
+      "id": "bread-bag-drop",
+      "file": "audio/sfx/downloaded/bread-bag-drop.mp3",
+      "sha256": "c798f98526f19c12d8d84a63ba1140660d499b29892398638c7a9332ae941608",
+      "bytes": 260448,
+      "durationSeconds": 10.7,
+      "sourceURL": "https://freesound.org/people/qubodup/sounds/189312/",
+      "downloadURL": "https://cdn.freesound.org/previews/189/189312_71257-hq.mp3",
+      "creator": "qubodup",
+      "sourceTitle": "Dropping Bag of Bread.flac",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Loaf in plastic bag dropped onto surface",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "bread",
+        "bag",
+        "drop"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b01",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b24",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/bread-bag-drop.html",
+        "htmlSHA256": "2e5fad842ec9deda7fb0a1edcf55cdb5152d711bb1da46975814bfc8077bb6f7",
+        "text": "research/sfx-source-pages/bread-bag-drop.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Loaf in plastic bag dropped onto surface by qubodup, Freesound #189312, CC0 1.0: https://freesound.org/people/qubodup/sounds/189312/"
+    },
+    {
+      "id": "bread-cooling",
+      "file": "audio/sfx/downloaded/bread-cooling.mp3",
+      "sha256": "dc47d636237c88b4eeeda3a92dcb73fca71a18924c1726ebee075660197313ae",
+      "bytes": 2616970,
+      "durationSeconds": 97.15,
+      "sourceURL": "https://freesound.org/people/Erbsland-Music/sounds/623368/",
+      "downloadURL": "https://cdn.freesound.org/previews/623/623368_522747-hq.mp3",
+      "creator": "Erbsland-Music",
+      "sourceTitle": "Bread Crackling Cooling Fresh from Oven",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Fresh bread crust crackles while cooling; source notes oven fan/clothing noises",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "bread",
+        "crackle",
+        "oven"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b02",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b12",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/bread-cooling.html",
+        "htmlSHA256": "0ea4cf123908ffb45a45738b8bae233fbbc9ab092caea1b616bfc47011712d96",
+        "text": "research/sfx-source-pages/bread-cooling.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Fresh bread crust crackles while cooling; source notes oven fan/clothing noises by Erbsland-Music, Freesound #623368, CC0 1.0: https://freesound.org/people/Erbsland-Music/sounds/623368/",
+      "mixCaution": "Source discloses oven fan and clothing noises. Audition isolated crackles before use; no clean-foley claim."
+    },
+    {
+      "id": "bread-crunch",
+      "file": "audio/sfx/downloaded/bread-crunch.mp3",
+      "sha256": "c157a79361c36b2f31ea3a4b4a0f5af0f100dd81c62a9c627f48da4000dc900b",
+      "bytes": 107500,
+      "durationSeconds": 10.5,
+      "sourceURL": "https://freesound.org/people/mealwyrm/sounds/495813/",
+      "downloadURL": "https://cdn.freesound.org/previews/495/495813_9224723-hq.mp3",
+      "creator": "mealwyrm",
+      "sourceTitle": "bread crunch.wav",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Bread crust crunch recording",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "bread",
+        "crunch"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b01",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b18",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b24",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/bread-crunch.html",
+        "htmlSHA256": "587b798bdc18dcfa3d14eed26b4cf67536ea7daa336d36f9c153e2cf648f05c3",
+        "text": "research/sfx-source-pages/bread-crunch.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Bread crust crunch recording by mealwyrm, Freesound #495813, CC0 1.0: https://freesound.org/people/mealwyrm/sounds/495813/"
+    },
+    {
+      "id": "bread-cut",
+      "file": "audio/sfx/downloaded/bread-cut.mp3",
+      "sha256": "e5ba1ceb6dc91030a6b7cde53291d87fed0264c87e170b4c4f6264ef2af3bbba",
+      "bytes": 414576,
+      "durationSeconds": 19.03,
+      "sourceURL": "https://freesound.org/people/BogumilaMerc/sounds/835792/",
+      "downloadURL": "https://cdn.freesound.org/previews/835/835792_18186550-hq.mp3",
+      "creator": "BogumilaMerc",
+      "sourceTitle": "bread-cutting-slow-medium-fast",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Knife slicing bread at three speeds",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "bread",
+        "cut",
+        "knife"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b01",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b03",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b08",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b24",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/bread-cut.html",
+        "htmlSHA256": "b927fe314a2b879b5f916e0ef090ffd95da2239e2c33a789406d433501a7cd02",
+        "text": "research/sfx-source-pages/bread-cut.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Knife slicing bread at three speeds by BogumilaMerc, Freesound #835792, CC0 1.0: https://freesound.org/people/BogumilaMerc/sounds/835792/"
+    },
+    {
+      "id": "calculator",
+      "file": "audio/sfx/downloaded/calculator.mp3",
+      "sha256": "e36266ba1b36e04d87fb562484a962bdbfac9f9c447c061892af2fd38311dfb1",
+      "bytes": 152206,
+      "durationSeconds": 7.34,
+      "sourceURL": "https://freesound.org/people/nodzSound/sounds/506529/",
+      "downloadURL": "https://cdn.freesound.org/previews/506/506529_5493542-hq.mp3",
+      "creator": "nodzSound",
+      "sourceTitle": "Calculator_Press_Keys.wav",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Number-key presses on calculator",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "calculator",
+        "click"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b03",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b05",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b17",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b18",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/calculator.html",
+        "htmlSHA256": "7f0fbc905b6281ed1b1d5fa7f81836066fc16a5ebb4947492c871bac3235cb48",
+        "text": "research/sfx-source-pages/calculator.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Number-key presses on calculator by nodzSound, Freesound #506529, CC0 1.0: https://freesound.org/people/nodzSound/sounds/506529/"
+    },
+    {
+      "id": "calculator-slide",
+      "file": "audio/sfx/downloaded/calculator-slide.mp3",
+      "sha256": "42a8c9b04dfd289a55cb674b7c57bf2a32b91a7172421097bb024ecda9ff8223",
+      "bytes": 42113,
+      "durationSeconds": 1.62,
+      "sourceURL": "https://freesound.org/people/redpanda69/sounds/686164/",
+      "downloadURL": "https://cdn.freesound.org/previews/686/686164_11130549-hq.mp3",
+      "creator": "redpanda69",
+      "sourceTitle": "Slide in",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Calculator sliding into plastic case",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "slide",
+        "plastic"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b07",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b16",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b22",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/calculator-slide.html",
+        "htmlSHA256": "9efe462f5351df01c3aa17fbc7fde8ff41d2ca71bfe229132250936ec1682729",
+        "text": "research/sfx-source-pages/calculator-slide.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Calculator sliding into plastic case by redpanda69, Freesound #686164, CC0 1.0: https://freesound.org/people/redpanda69/sounds/686164/"
+    },
+    {
+      "id": "coins-drop",
+      "file": "audio/sfx/downloaded/coins-drop.mp3",
+      "sha256": "d3d4be126a0b839f809c90c814b138d4effa8ef9c1014296fcdb7678a57f950a",
+      "bytes": 175728,
+      "durationSeconds": 7.32,
+      "sourceURL": "https://freesound.org/people/bwarpus99/sounds/443858/",
+      "downloadURL": "https://cdn.freesound.org/previews/443/443858_9034957-hq.mp3",
+      "creator": "bwarpus99",
+      "sourceTitle": "Coins Dropping",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Coins dropping on counter",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "coin",
+        "money"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b03",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b05",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b06",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b18",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/coins-drop.html",
+        "htmlSHA256": "b62ad4b2d6b899e215d5adb39d657d71f01261409bfe24de2b997445b77cd2c1",
+        "text": "research/sfx-source-pages/coins-drop.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Coins dropping on counter by bwarpus99, Freesound #443858, CC0 1.0: https://freesound.org/people/bwarpus99/sounds/443858/"
+    },
+    {
+      "id": "market-room",
+      "file": "audio/sfx/downloaded/market-room.mp3",
+      "sha256": "fde8a49013c0f9f7aa852a74a87f312356c4c196ed711fb3144a1f771f37d9b9",
+      "bytes": 2172240,
+      "durationSeconds": 93.14,
+      "sourceURL": "https://freesound.org/people/SamuelGremaud/sounds/544338/",
+      "downloadURL": "https://cdn.freesound.org/previews/544/544338_8031303-hq.mp3",
+      "creator": "SamuelGremaud",
+      "sourceTitle": "MARKET",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Market ambience in Sault France",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "market",
+        "ambience"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b14",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b20",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b21",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/market-room.html",
+        "htmlSHA256": "47d40385842b0a8ca201b0bd370311fe93a69f60262854d42754b6987a84c114",
+        "text": "research/sfx-source-pages/market-room.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Market ambience in Sault France by SamuelGremaud, Freesound #544338, CC0 1.0: https://freesound.org/people/SamuelGremaud/sounds/544338/",
+      "mixCaution": "French market recording, not Vietnamese location evidence. Use very quietly only if speech is unintelligible; no location claim."
+    },
+    {
+      "id": "money-pickup",
+      "file": "audio/sfx/downloaded/money-pickup.mp3",
+      "sha256": "0612157de82da7e04e798ea81e6ec264e38d95b2c9a513994e283a82bf612696",
+      "bytes": 7724,
+      "durationSeconds": 0.26,
+      "sourceURL": "https://freesound.org/people/LeMudCrab/sounds/163451/",
+      "downloadURL": "https://cdn.freesound.org/previews/163/163451_2263027-hq.mp3",
+      "creator": "LeMudCrab",
+      "sourceTitle": "Money Pickup",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Coins contacting other coins",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "coin",
+        "tick"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b05",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b06",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b18",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/money-pickup.html",
+        "htmlSHA256": "4fdf57f083921cce873d7f88282334c022a08f9973a22f6b055fb8ba3f45809d",
+        "text": "research/sfx-source-pages/money-pickup.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Coins contacting other coins by LeMudCrab, Freesound #163451, CC0 1.0: https://freesound.org/people/LeMudCrab/sounds/163451/"
+    },
+    {
+      "id": "oven-beeps",
+      "file": "audio/sfx/downloaded/oven-beeps.mp3",
+      "sha256": "0dcb4cd0527a472ec4cf58a917614290d46a1d0a34e8b2e557860e9dfccf16f0",
+      "bytes": 1513906,
+      "durationSeconds": 65.91,
+      "sourceURL": "https://freesound.org/people/sidequesting/sounds/580225/",
+      "downloadURL": "https://cdn.freesound.org/previews/580/580225_10247258-hq.mp3",
+      "creator": "sidequesting",
+      "sourceTitle": "oven door and beeps.wav",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Oven sheet/door handling and button beeps",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "oven",
+        "beep",
+        "tray"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b02",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b12",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/oven-beeps.html",
+        "htmlSHA256": "0ccb68a496b0d2e9cd0bafcb65480fbcf2f3bf04d362491c8d0c9b03c556ceb5",
+        "text": "research/sfx-source-pages/oven-beeps.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Oven sheet/door handling and button beeps by sidequesting, Freesound #580225, CC0 1.0: https://freesound.org/people/sidequesting/sounds/580225/"
+    },
+    {
+      "id": "oven-close",
+      "file": "audio/sfx/downloaded/oven-close.mp3",
+      "sha256": "f752776b3b33265f7ac884db41d97fa4402c60272b778be3f86fa8620bdc2d84",
+      "bytes": 12288,
+      "durationSeconds": 0.48,
+      "sourceURL": "https://freesound.org/people/TiesWijnen/sounds/455538/",
+      "downloadURL": "https://cdn.freesound.org/previews/455/455538_1511977-hq.mp3",
+      "creator": "TiesWijnen",
+      "sourceTitle": "Oven door",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Small oven door slammed shut",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "oven",
+        "hit"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b02",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b12",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/oven-close.html",
+        "htmlSHA256": "e52e434fd41f941230362ffcdf50592de9ae37e065e2e43b9a212977afaf9ec6",
+        "text": "research/sfx-source-pages/oven-close.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Small oven door slammed shut by TiesWijnen, Freesound #455538, CC0 1.0: https://freesound.org/people/TiesWijnen/sounds/455538/"
+    },
+    {
+      "id": "oven-door",
+      "file": "audio/sfx/downloaded/oven-door.mp3",
+      "sha256": "7ea1aea865ea6d94220487ea1a8d087edcf67085d50f7abf27568ac6adacce80",
+      "bytes": 89232,
+      "durationSeconds": 3.79,
+      "sourceURL": "https://freesound.org/people/bolkmar/sounds/503477/",
+      "downloadURL": "https://cdn.freesound.org/previews/503/503477_2927958-hq.mp3",
+      "creator": "bolkmar",
+      "sourceTitle": "Oven door - open and close",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Oven door opening and closing",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "oven",
+        "door"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b02",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b12",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/oven-door.html",
+        "htmlSHA256": "5468641fa96f1b88dfbd47b1309dc4ee406b576d94986fd5e2c497adcdccfe6e",
+        "text": "research/sfx-source-pages/oven-door.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Oven door opening and closing by bolkmar, Freesound #503477, CC0 1.0: https://freesound.org/people/bolkmar/sounds/503477/"
+    },
+    {
+      "id": "paper-bag",
+      "file": "audio/sfx/downloaded/paper-bag.mp3",
+      "sha256": "80d6cd028e899f8790586ef389afd6444b85be1a694d6e8b32bc7525d4be4f5d",
+      "bytes": 114963,
+      "durationSeconds": 4.68,
+      "sourceURL": "https://freesound.org/people/randbsoundbites/sounds/795443/",
+      "downloadURL": "https://cdn.freesound.org/previews/795/795443_16968183-hq.mp3",
+      "creator": "randbsoundbites",
+      "sourceTitle": "Scrunching up a paper bag",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Scrunching a paper bag",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "paper",
+        "bag"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b01",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b04",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b24",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/paper-bag.html",
+        "htmlSHA256": "2b2b879b47ed35ae2f14bef20500ffdf0ce4551c6e37534c7d5edfab7d0246e3",
+        "text": "research/sfx-source-pages/paper-bag.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Scrunching a paper bag by randbsoundbites, Freesound #795443, CC0 1.0: https://freesound.org/people/randbsoundbites/sounds/795443/"
+    },
+    {
+      "id": "pen-paper",
+      "file": "audio/sfx/downloaded/pen-paper.mp3",
+      "sha256": "f28f16e168a4ee14e769e79c571b60376f333dd1674725227482a966ac9f7cda",
+      "bytes": 760032,
+      "durationSeconds": 32.81,
+      "sourceURL": "https://freesound.org/people/khenshom/sounds/565206/",
+      "downloadURL": "https://cdn.freesound.org/previews/565/565206_6652872-hq.mp3",
+      "creator": "khenshom",
+      "sourceTitle": "Pen or marker writing on paper - close up",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Close-up pen or marker writing on paper",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "pen",
+        "paper"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b04",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b13",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b23",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/pen-paper.html",
+        "htmlSHA256": "c420a40fcba1a842aa2ae55b100b6886ec084d64042c06eb4d1d51037d8f9718",
+        "text": "research/sfx-source-pages/pen-paper.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Close-up pen or marker writing on paper by khenshom, Freesound #565206, CC0 1.0: https://freesound.org/people/khenshom/sounds/565206/"
+    },
+    {
+      "id": "receipt-printer",
+      "file": "audio/sfx/downloaded/receipt-printer.mp3",
+      "sha256": "8b0afd1a0985792ae68309ff8f85b5fbb3fb7d4045bf18431b99f1891ccfbee2",
+      "bytes": 74880,
+      "durationSeconds": 3.16,
+      "sourceURL": "https://freesound.org/people/thepodcastdoctor/sounds/476011/",
+      "downloadURL": "https://cdn.freesound.org/previews/476/476011_9945386-hq.mp3",
+      "creator": "thepodcastdoctor",
+      "sourceTitle": "Receipt Printer 01.wav",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Receipt printer in pharmacy",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "receipt",
+        "printer"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b04",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b05",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b13",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/receipt-printer.html",
+        "htmlSHA256": "96a7d448b30bb0f7b545eede0668ba360352a25eb15045de3e3081376d94fb14",
+        "text": "research/sfx-source-pages/receipt-printer.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Receipt printer in pharmacy by thepodcastdoctor, Freesound #476011, CC0 1.0: https://freesound.org/people/thepodcastdoctor/sounds/476011/"
+    },
+    {
+      "id": "short-whoosh",
+      "file": "audio/sfx/downloaded/short-whoosh.mp3",
+      "sha256": "1fcee738b55df8edbde03a13186e6c3ea9f61235827ec1a241eb5d393edad614",
+      "bytes": 325200,
+      "durationSeconds": 14.35,
+      "sourceURL": "https://freesound.org/people/Kinoton/sounds/427979/",
+      "downloadURL": "https://cdn.freesound.org/previews/427/427979_2247456-hq.mp3",
+      "creator": "Kinoton",
+      "sourceTitle": "Short Whoosh, 13x",
+      "license": "CC0 1.0 Universal",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observedDescription": "Short bamboo-stick swings, thirteen versions",
+      "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+      "tags": [
+        "transition",
+        "whoosh"
+      ],
+      "cueRecommendations": [
+        {
+          "narrationUnit": "b07",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b11",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b16",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        },
+        {
+          "narrationUnit": "b22",
+          "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+        }
+      ],
+      "sourceReceipt": {
+        "html": "research/sfx-source-pages/short-whoosh.html",
+        "htmlSHA256": "53345627129359b31829748197b888bcf3b5e33a126fbf1563b28f9d6a8e4b48",
+        "text": "research/sfx-source-pages/short-whoosh.txt",
+        "checkedDateLocal": "2026-11-15",
+        "httpStatus": 200
+      },
+      "inspection": {
+        "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+        "status": "downloaded_decoded_not_auditioned",
+        "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+      },
+      "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+      "attributionSuggested": "Short bamboo-stick swings, thirteen versions by Kinoton, Freesound #427979, CC0 1.0: https://freesound.org/people/Kinoton/sounds/427979/"
+    }
+  ],
+  "failed": [
+    {
+      "id": "flour-bag-drop",
+      "sourceURL": "https://freesound.org/people/bbrocer/sounds/382642/",
+      "reason": "Individual description/CC0 available through web, but direct HTML and embed requests HTTP403; no audio download retained or claimed."
+    }
+  ],
+  "auditioned": false,
+  "paidCalls": 0,
+  "oldProviderSoundsReused": false,
+  "rightsScope": "Each asset individual page contains CC0 1.0 link, retained HTML and hash. No category-wide license assumption.",
+  "overallStatus": "downloaded_and_decoded_pending_listening_mix_review",
+  "summary": {
+    "downloadedSources": 16,
+    "downloadedBytes": 8840006,
+    "rawSeconds": 372.24,
+    "completeDecodesPassed": 16,
+    "auditionedSources": 0,
+    "license": "All16 individual retained HTML pages contain CC0 1.0 source link.",
+    "mixReviewStatus": "pending real listening; descriptions follow source statements"
+  },
+  "licenseReceipt": {
+    "file": "research/sfx-source-pages/cc0-1.0-license.html",
+    "sha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+    "URL": "https://creativecommons.org/publicdomain/zero/1.0/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "pexelsID": 8420601,
+  "pageURL": "https://www.pexels.com/video/person-inside-a-grocery-store-8420601/",
+  "title": "Person Inside a Grocery Store",
+  "creator": "Kampus Production",
+  "fps": [
+    25,
+    24,
+    30,
+    50,
+    60,
+    29,
+    23
+  ],
+  "dimensions": [
+    "1280_720",
+    "1920_1080",
+    "720_1280",
+    "1080_1920",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "tags": [
+    "market",
+    "groceries",
+    "shop",
+    "ingredients"
+  ],
+  "id": "pexels-8420601",
+  "file": "assets/raw/pexels-8420601.mp4",
+  "sha256": "917a5d6e254ec6b41f2d3c44639c2a208d602090c13afe68c2b2c47d092a2535",
+  "bytes": 2900863,
+  "durationSeconds": 8.26,
+  "downloadURL": "https://videos.pexels.com/video-files/8420601/8420601-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.292,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8420601.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1280,
+  "height": 720
+}

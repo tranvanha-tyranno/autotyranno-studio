@@ -1,0 +1,27 @@
+{
+  "batch": "videos/2026-11-13-quan-dong-khach-het-tien",
+  "revision": "r02",
+  "check_id": "r02-full-17848-frame-integrity-caption-branding-loudness-and-24-tests",
+  "result": "passed",
+  "observation": "Actual retained r02 MP4 SHA matches the full QA report:17848/17848 sequentially decoded frames,30fps,1920x1080,594.933333s,58contiguous shots and four required phases. The visible render-text/spoken-script branding gate passes, with no path/username branding inference;294captions pass Arial34 width, widest729px below1580.36public media hashes match retained receipts. Final MP4 loudness is measured at−16.02LUFS integrated and−2.65dBTP; these are measurements, not listening. Retained pytest-final.log records24passed. Evidence generation includes58native midframes,199three-second thumbnails and10temporal strips, but this technical event does not assert semantic quality, continuous audiovisual review, aesthetic approval or new user acceptance. The business workflow lesson remains applied and unverified.",
+  "evidence": [
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
+      "sha256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e",
+      "role": "render",
+      "description": "Actual final r02 export, independently hashed before ledger append."
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/qa/report.json",
+      "sha256": "66c80f3446f2ee98ef98bed7aee483e3a0182bb12bf84ef5d9772773a0ada482",
+      "role": "report",
+      "description": "Full sequential decode, caption/branding/public asset checks and final-MP4 loudness measurements."
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/pytest-final.log",
+      "sha256": "2c685a8d30d6040d791c7b3018f51b7d8f207a617ef5deeab25982af19e3e30f",
+      "role": "report",
+      "description": "Retained final local test output:24passed."
+    }
+  ]
+}

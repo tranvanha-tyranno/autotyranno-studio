@@ -1,0 +1,14 @@
+{
+  "wallSeconds": 33.686266899982,
+  "file": "videos\\2026-11-13-hai-style-tiet-kiem\\audio\\narration.mp3",
+  "sha256": "1849f8c3f1439b25f6b2f513f056caa4741648589298ca356546a5ac75ecd397",
+  "settings": {
+    "voice": "6adFm46eyy74snVn6YrT",
+    "model": "eleven_v3",
+    "speed": 1.0,
+    "stability": 0.5,
+    "similarity_boost": 0.8
+  },
+  "cost": "See provider receipt character_cost; not a dollar invoice",
+  "sharedAcrossBothStyles": true
+}

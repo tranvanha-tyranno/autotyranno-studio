@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "workflows/reference-video/bread_documentary_voice.py",
+      "sha256": "a484a2f0752ce74559edd1670038bc80d5f31cc8813a4588640a3665add13c90"
+    },
+    {
+      "file": "workflows/reference-video/bread_documentary_asr.py",
+      "sha256": "fb8311bfaf1114524a7f1ac0e73b5f2163265105ec7aa3a54b8fd801f5a8cce8"
+    },
+    {
+      "file": "workflows/reference-video/bread_film_assets.py",
+      "sha256": "e91e7372000712e28ec8b1582c93726e6e47319f996bed8be93fa90d5123c47e"
+    },
+    {
+      "file": "workflows/reference-video/editorial_gate.py",
+      "sha256": "ec748da24e4dcbcec7b9ee5f1eaa88b02f411e3cf4faa1bdab75b6b0952d702d"
+    },
+    {
+      "file": "workflows/reference-video/eleven_audio.py",
+      "sha256": "2a64c993974b068375d9a13ea7b8d6d9d2292310765b3e2e43257621804b9136"
+    },
+    {
+      "file": "workflows/reference-video/BREAD_DOCUMENTARY.md",
+      "sha256": "da3bcddf054ef051487c67bc68299f9634cc173d7f378e813cf38fd98a864fbb"
+    },
+    {
+      "file": "workflows/reference-video/CONTENT_FIRST.md",
+      "sha256": "11de9798081bb47b45beca4c962edba878be525f70b6d167563c477eb3d65f59"
+    }
+  ],
+  "scope": "Final preparation/review code retained in addition to frozen render dependencies. Runtime voice request payloads and receipts remain the authoritative take records."
+}

@@ -1,0 +1,84 @@
+{
+  "schema": "bread-documentary-proof-review/1",
+  "revision": "r02",
+  "date": "2026-11-15 Asia/Saigon",
+  "method": "full_decode_and_opened_selected_MP4_motion_sheets",
+  "scope": "Independent complete decode4proofs, actual one-second sampled pixels opened for3proofs. Not continuous watching/listening, aesthetic approval or whole film review.",
+  "continuousAvReview": false,
+  "audioListened": false,
+  "userApproval": false,
+  "planSnapshotSHA256": "1e75b9e6b984e7e4de29165b44fc40686bc848203ac622ccb49c76cd9a09bf25",
+  "technicalChecks": [
+    {
+      "unitId": "b01",
+      "expectedFrames": 415,
+      "decodedFrames": 415,
+      "fps": 30.0,
+      "seconds": 13.833333333333334,
+      "media": "videos/2026-11-14-banh-mi-documentary/r02/proof/b01.mp4",
+      "sha256": "9d6bb258dc8789a1d5ce621c116a55881eb83040e02d7e2ffc82d9ae043ceb16"
+    },
+    {
+      "unitId": "b06",
+      "expectedFrames": 447,
+      "decodedFrames": 447,
+      "fps": 30.0,
+      "seconds": 14.9,
+      "media": "videos/2026-11-14-banh-mi-documentary/r02/proof/b06.mp4",
+      "sha256": "168d66e97361c1128e0d03c47a55578be24409379fbb9b1476fb0ca92a8831e7"
+    },
+    {
+      "unitId": "b18",
+      "expectedFrames": 517,
+      "decodedFrames": 517,
+      "fps": 30.0,
+      "seconds": 17.233333333333334,
+      "media": "videos/2026-11-14-banh-mi-documentary/r02/proof/b18.mp4",
+      "sha256": "ad59b72fd332640320d318686d47cc9ecc97860599736824553fa177f718c7e4"
+    },
+    {
+      "unitId": "b24",
+      "expectedFrames": 446,
+      "decodedFrames": 446,
+      "fps": 30.0,
+      "seconds": 14.866666666666667,
+      "media": "videos/2026-11-14-banh-mi-documentary/r02/proof/b24.mp4",
+      "sha256": "3991dedaf10bc0586b21eceae895ebca7d29ba28b1b6e11c42b7b918b864dc40"
+    }
+  ],
+  "visualObservations": [
+    {
+      "unitId": "b06",
+      "samplesOpened": "r02/proof/b06-motion.jpg, one-second selected states across0–14s",
+      "observations": [
+        "0–1s flour/dough action; by2s first graphic state appears;3s2,500 appears;4s added sale/cost visible;9s final inequality visible;12–14s returns to clearly moving hand/dough action.",
+        "Sampled progression now matches the intended short graphic interval instead of stretching the initial shot to8.6s. Digits and units not cropped."
+      ],
+      "decision": "sampled_progression_readable"
+    },
+    {
+      "unitId": "b18",
+      "samplesOpened": "r02/proof/b18-motion.jpg, one-second selected states across0–17s",
+      "observations": [
+        "0–1s dough handling;2s bread and500 state;6s bread visibly separates into two pieces;8s477 state;10–12s approximately−4.5% conclusion;13–17s eating bread context.",
+        "Caveat and quantities retained. Main bread passes behind overlay, with left hand/piece visible in earlier action; final graphic states have more empty left area."
+      ],
+      "decision": "sampled_graphic_and_bread_process_readable_with_balance_limit"
+    },
+    {
+      "unitId": "b24",
+      "samplesOpened": "r02/proof/b24-motion.jpg, one-second selected states across0–14s",
+      "observations": [
+        "0–4s visible hand kneading plus short CTA question;5–7s gloved hands shape dough;8–14s bread filling/preparation with herbs/cucumber/meat and actual hand action.",
+        "The previous grocery torso ending is replaced by a bread preparation callback, keeping food/hand action in frame. No cartoon or captions visible in these samples."
+      ],
+      "decision": "selected_closing_repair_verified"
+    }
+  ],
+  "supersedesTimingUseOf": "review/graphic-proof-review-r01.json concatenated r01 timing invalid. r01 individual pixel observations retained only as historical scope.",
+  "limits": [
+    "Frame-count/fps passes diagnose repaired duration but do not judge voice, music, pacing feel or semantic relevance of every narrated clause.",
+    "Selected images cannot detect every short flash/cut or establish uninterrupted viewing.",
+    "New full render still needs final output checks and user feedback."
+  ]
+}

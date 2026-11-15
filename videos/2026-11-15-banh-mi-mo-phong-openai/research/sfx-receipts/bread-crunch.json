@@ -1,0 +1,48 @@
+{
+  "id": "bread-crunch",
+  "file": "audio/sfx/downloaded/bread-crunch.mp3",
+  "sha256": "c157a79361c36b2f31ea3a4b4a0f5af0f100dd81c62a9c627f48da4000dc900b",
+  "bytes": 107500,
+  "durationSeconds": 10.5,
+  "sourceURL": "https://freesound.org/people/mealwyrm/sounds/495813/",
+  "downloadURL": "https://cdn.freesound.org/previews/495/495813_9224723-hq.mp3",
+  "creator": "mealwyrm",
+  "sourceTitle": "bread crunch.wav",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Bread crust crunch recording",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "bread",
+    "crunch"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b01",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b18",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b24",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/bread-crunch.html",
+    "htmlSHA256": "587b798bdc18dcfa3d14eed26b4cf67536ea7daa336d36f9c153e2cf648f05c3",
+    "text": "research/sfx-source-pages/bread-crunch.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Bread crust crunch recording by mealwyrm, Freesound #495813, CC0 1.0: https://freesound.org/people/mealwyrm/sounds/495813/"
+}

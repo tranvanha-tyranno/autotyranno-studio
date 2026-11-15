@@ -1,0 +1,49 @@
+{
+  "pexelsID": 8027655,
+  "pageURL": "https://www.pexels.com/video/a-woman-at-the-grocery-store-8027655/",
+  "title": "A Woman at the Grocery Store",
+  "creator": "Ivan S",
+  "fps": [
+    25,
+    24,
+    30,
+    50,
+    60,
+    29,
+    23
+  ],
+  "dimensions": [
+    "1280_720",
+    "1920_1080",
+    "720_1280",
+    "1080_1920",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "tags": [
+    "market",
+    "groceries",
+    "shop",
+    "ingredients"
+  ],
+  "id": "pexels-8027655",
+  "file": "assets/raw/pexels-8027655.mp4",
+  "sha256": "bae3fbca062f3a1d150b3c1dc5864310edcca9421148819985c0b7037dad2acc",
+  "bytes": 3427015,
+  "durationSeconds": 23.04,
+  "downloadURL": "https://videos.pexels.com/video-files/8027655/8027655-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.406,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8027655.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1280,
+  "height": 720
+}

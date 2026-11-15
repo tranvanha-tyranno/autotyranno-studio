@@ -1,0 +1,48 @@
+{
+  "id": "delivery-truck",
+  "file": "assets/delivery-truck.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 18800465,
+  "sourceURL": "https://www.pexels.com/photo/truck-in-a-city-center-18800465/",
+  "downloadURL": "https://images.pexels.com/photos/18800465/pexels-photo-18800465.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Matheus Bertelli",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "72d85e3bd522a20e16f0aaa1095ce52c6f6701832cf9c3a6f88231049cdecd1b",
+  "width": 2263,
+  "height": 4032,
+  "tags": [
+    "logistics"
+  ],
+  "credit": "Matheus Bertelli / Pexels",
+  "expectedFromSource": "Delivery truck on street",
+  "observed": "Red/yellow/white delivery lorry on wet narrow European street, shop awning and bicycles beside it. Portrait contain preserves vehicle and road; crop magnifies logo and loses logistics context.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "72d85e3bd522a20e16f0aaa1095ce52c6f6701832cf9c3a6f88231049cdecd1b"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Amsterdam delivery context per source; not Vietnam or Hạnh’s delivery truck. Cannot evidence freight rates or a specific disruption.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "NL",
+    "place": "Amsterdam, Netherlands",
+    "sourceURL": "https://www.pexels.com/photo/truck-in-a-city-center-18800465/",
+    "evidence": "Primary photo page location field says Amsterdam, Netherlands."
+  }
+}

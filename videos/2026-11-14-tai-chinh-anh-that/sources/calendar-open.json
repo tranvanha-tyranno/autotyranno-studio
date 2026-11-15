@@ -1,0 +1,30 @@
+{
+  "id": "calendar-open",
+  "pexelsID": 28353121,
+  "sourceURL": "https://www.pexels.com/photo/a-black-and-white-calendar-with-a-pen-on-top-28353121/",
+  "creator": "Natalia S",
+  "theme": "planning",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/calendar-open.jpg",
+  "downloadURL": "https://images.pexels.com/photos/28353121/pexels-photo-28353121.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3200,
+  "sha256": "e4c102d82cce116947ad36002a008103d1e32d72e8eb5503d55af992e098295c",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

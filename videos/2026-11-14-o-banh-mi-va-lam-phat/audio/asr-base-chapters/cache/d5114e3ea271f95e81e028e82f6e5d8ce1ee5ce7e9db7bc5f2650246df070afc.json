@@ -1,0 +1,180 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "d5114e3ea271f95e81e028e82f6e5d8ce1ee5ce7e9db7bc5f2650246df070afc",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "4bf2615b7b5f4a4b8bd8a1e5a7e1982286c1e34baec9aa79d207448213971074",
+    "startFrame": 8735,
+    "endFrameExclusive": 10920,
+    "expectedSHA256": "d6fd28cffc135c57090c61a543e51530c8667392004beb72bafd3bdc7ea86533",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "bang-gia-chua-ha",
+  "expected": "Cước giao hàng giảm, nhưng tiền thuê vẫn theo hợp đồng, lương đã thỏa thuận chưa đổi, vài nguyên liệu khác còn tăng. Tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cũ. Không thể nhìn một hóa đơn để đoán tất cả. Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá. Chi phí giảm bền vững và cạnh tranh mạnh tạo động lực hạ giá giữ khách. Nếu khách khó chuyển nơi mua, sức ép ấy có thể yếu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh. Một vài mặt hàng có thể rẻ đi trong khi mức giá chung tăng: nhóm này giảm nhưng nhóm khác tăng nhiều hơn. Vì thế, lạm phát còn dương không đồng nghĩa mọi món ở chợ đều tăng giá như nhau. Muốn bánh từ hai mươi hai nghìn về hai mươi nghìn, giá phải giảm khoảng chín phẩy một phần trăm trên nền hiện tại. Nó khác hẳn chuyện tốc độ tăng từ mười xuống hai phần trăm ta tính ban đầu. Điều người mua quan tâm là thu nhập mua được bao nhiêu hàng hóa và dịch vụ. Giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thu nhập tăng nhanh hơn chi phí sinh hoạt phù hợp với họ.",
+  "recognized": "Cước dau hàng giảm, nhưng tiền thuy vấn theo hoặc đồng, lường gã thỏa thuận chơi rồi, vài nguy lệu khác còn tăng, tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cu. Không thể nhìn một khoá đơn để đoán tất cả. Dù giá mua mươi thất hơn, tiệm có thể còn dùng lô hàng giá cao, hoặc thực hiện hợp đồng cu. Đây là tình huấn minh hoạ, đội chế, không phải bằng chứng mọi cửa hàng để có cùng lý do gió giữ giá. Chỉ phí giảm biến vững và cạnh tranh mạnh, tạo động lực hạ giự khách, nếu khách khó chuyển nơi mua, sức ép ấy có thể yêu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh. Một vài mặt hàng có thể dễ đi trong khi mức giá trung tăng, nhóm này giảm nhưng nhóm khác tăng nhiều hơn, vì thế lạm phát còn dương không đồng ý ơ mọi món ở trợ đều tăng giá như nhau. Một bánh từ 22000 v. 20000, giá phải giảm khoảng 9,100 trên nền hiện tại, nó khắc hẳn chuyện tâm lộ tăng từ 10-2% ta tính man đẩu. Điều người mua quan tâm là thú nhập mua được bao nhiêu hàng hỏa và dịch vụ. giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thú nhập tăng ngang hơn chi phí sinh hoạt, vừa hợp với họ.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.640000000000001,
+      "text": " Cước dau hàng giảm, nhưng tiền thuy vấn theo hoặc đồng, lường gã thỏa thuận chơi rồi, vài nguy lệu khác còn tăng,",
+      "globalStart": 291.1666666666667,
+      "globalEnd": 297.8066666666667
+    },
+    {
+      "start": 6.640000000000001,
+      "end": 10.4,
+      "text": " tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cu.",
+      "globalStart": 297.8066666666667,
+      "globalEnd": 301.56666666666666
+    },
+    {
+      "start": 10.4,
+      "end": 13.16,
+      "text": " Không thể nhìn một khoá đơn để đoán tất cả.",
+      "globalStart": 301.56666666666666,
+      "globalEnd": 304.3266666666667
+    },
+    {
+      "start": 13.16,
+      "end": 18.88,
+      "text": " Dù giá mua mươi thất hơn, tiệm có thể còn dùng lô hàng giá cao, hoặc thực hiện hợp đồng cu.",
+      "globalStart": 304.3266666666667,
+      "globalEnd": 310.0466666666667
+    },
+    {
+      "start": 18.88,
+      "end": 24.84,
+      "text": " Đây là tình huấn minh hoạ, đội chế, không phải bằng chứng mọi cửa hàng để có cùng lý do gió giữ giá.",
+      "globalStart": 310.0466666666667,
+      "globalEnd": 316.00666666666666
+    },
+    {
+      "start": 24.84,
+      "end": 29.94,
+      "text": " Chỉ phí giảm biến vững và cạnh tranh mạnh, tạo động lực hạ giự khách,",
+      "globalStart": 316.00666666666666,
+      "globalEnd": 321.1066666666667
+    },
+    {
+      "start": 29.94,
+      "end": 33.64,
+      "text": " nếu khách khó chuyển nơi mua, sức ép ấy có thể yêu hơn.",
+      "globalStart": 321.1066666666667,
+      "globalEnd": 324.8066666666667
+    },
+    {
+      "start": 33.64,
+      "end": 37.74,
+      "text": " Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh.",
+      "globalStart": 324.8066666666667,
+      "globalEnd": 328.9066666666667
+    },
+    {
+      "start": 37.74,
+      "end": 41.44,
+      "text": " Một vài mặt hàng có thể dễ đi trong khi mức giá trung tăng,",
+      "globalStart": 328.9066666666667,
+      "globalEnd": 332.6066666666667
+    },
+    {
+      "start": 41.44,
+      "end": 44.24,
+      "text": " nhóm này giảm nhưng nhóm khác tăng nhiều hơn,",
+      "globalStart": 332.6066666666667,
+      "globalEnd": 335.4066666666667
+    },
+    {
+      "start": 44.24,
+      "end": 49.34,
+      "text": " vì thế lạm phát còn dương không đồng ý ơ mọi món ở trợ đều tăng giá như nhau.",
+      "globalStart": 335.4066666666667,
+      "globalEnd": 340.50666666666666
+    },
+    {
+      "start": 49.34,
+      "end": 56.220000000000006,
+      "text": " Một bánh từ 22000 v. 20000, giá phải giảm khoảng 9,100 trên nền hiện tại,",
+      "globalStart": 340.50666666666666,
+      "globalEnd": 347.3866666666667
+    },
+    {
+      "start": 56.220000000000006,
+      "end": 60.580000000000005,
+      "text": " nó khắc hẳn chuyện tâm lộ tăng từ 10-2% ta tính man đẩu.",
+      "globalStart": 347.3866666666667,
+      "globalEnd": 351.74666666666667
+    },
+    {
+      "start": 60.580000000000005,
+      "end": 65.02000000000001,
+      "text": " Điều người mua quan tâm là thú nhập mua được bao nhiêu hàng hỏa và dịch vụ.",
+      "globalStart": 351.74666666666667,
+      "globalEnd": 356.1866666666667
+    },
+    {
+      "start": 65.02000000000001,
+      "end": 69.10000000000001,
+      "text": " giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn,",
+      "globalStart": 356.1866666666667,
+      "globalEnd": 360.2666666666667
+    },
+    {
+      "start": 69.10000000000001,
+      "end": 72.74000000000001,
+      "text": " nếu thú nhập tăng ngang hơn chi phí sinh hoạt, vừa hợp với họ.",
+      "globalStart": 360.2666666666667,
+      "globalEnd": 363.9066666666667
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 13.892,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\05-bang-gia-chua-ha-c95e4803a33beed5.wav",
+  "chunk": {
+    "chunkKey": "c95e4803a33beed5848e40146dbf29fadb49377fc9a9d796f4b3b4820f4ba253",
+    "sha256": "4bf2615b7b5f4a4b8bd8a1e5a7e1982286c1e34baec9aa79d207448213971074",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1165333,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 13976000,
+    "sourceEndSampleExclusive": 17472000,
+    "sourceSampleRate": 48000,
+    "seconds": 72.8333125,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8343,
+    "expectedTokenCoverage": 0.8327,
+    "expectedTailTokenCoverage": 0.88,
+    "expectedTokens": 263,
+    "observedTokens": 262,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "wallet-hands",
+  "pexelsID": 7085769,
+  "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-a-person-holding-a-brown-wallet-7085769/",
+  "creator": "Emil Kalibradov",
+  "theme": "wallet",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/wallet-hands.jpg",
+  "downloadURL": "https://images.pexels.com/photos/7085769/pexels-photo-7085769.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1602,
+  "sha256": "ae17dcd479c1e0a0fb13e4c83593c598b7371545b84cf924c9d67784502b7c89",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

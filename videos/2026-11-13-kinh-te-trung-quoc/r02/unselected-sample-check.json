@@ -1,0 +1,310 @@
+{
+  "schema": "china-repair-unselected-sample-check/1",
+  "recordedUTC": "2026-11-13T06:07:21.104062+00:00",
+  "scope": "50 unselected shot midpoints only; normalized re-encode is not pixel-byte-identical; not continuous aesthetic review.",
+  "samples": [
+    {
+      "shot": "o01",
+      "frame": 164,
+      "meanAbsolutePixelDifference": 0.14011,
+      "PSNR640x360": 51.71257
+    },
+    {
+      "shot": "o02",
+      "frame": 471,
+      "meanAbsolutePixelDifference": 0.1297,
+      "PSNR640x360": 52.206
+    },
+    {
+      "shot": "o04",
+      "frame": 1151,
+      "meanAbsolutePixelDifference": 0.15517,
+      "PSNR640x360": 51.08072
+    },
+    {
+      "shot": "f01",
+      "frame": 1516,
+      "meanAbsolutePixelDifference": 0.13282,
+      "PSNR640x360": 52.05653
+    },
+    {
+      "shot": "f02",
+      "frame": 1871,
+      "meanAbsolutePixelDifference": 0.19998,
+      "PSNR640x360": 50.80109
+    },
+    {
+      "shot": "f03",
+      "frame": 2213,
+      "meanAbsolutePixelDifference": 0.07414,
+      "PSNR640x360": 56.35279
+    },
+    {
+      "shot": "f04",
+      "frame": 2540,
+      "meanAbsolutePixelDifference": 0.21409,
+      "PSNR640x360": 50.51663
+    },
+    {
+      "shot": "f05",
+      "frame": 2863,
+      "meanAbsolutePixelDifference": 0.09054,
+      "PSNR640x360": 54.24078
+    },
+    {
+      "shot": "f06",
+      "frame": 3196,
+      "meanAbsolutePixelDifference": 0.05905,
+      "PSNR640x360": 57.46953
+    },
+    {
+      "shot": "f07",
+      "frame": 3517,
+      "meanAbsolutePixelDifference": 0.43204,
+      "PSNR640x360": 48.59539
+    },
+    {
+      "shot": "f08",
+      "frame": 3851,
+      "meanAbsolutePixelDifference": 0.1142,
+      "PSNR640x360": 53.13113
+    },
+    {
+      "shot": "r01",
+      "frame": 4199,
+      "meanAbsolutePixelDifference": 0.16566,
+      "PSNR640x360": 51.50351
+    },
+    {
+      "shot": "r02",
+      "frame": 4547,
+      "meanAbsolutePixelDifference": 0.08892,
+      "PSNR640x360": 55.57082
+    },
+    {
+      "shot": "r03",
+      "frame": 4929,
+      "meanAbsolutePixelDifference": 0.14891,
+      "PSNR640x360": 51.89302
+    },
+    {
+      "shot": "r04",
+      "frame": 5328,
+      "meanAbsolutePixelDifference": 0.1061,
+      "PSNR640x360": 53.695
+    },
+    {
+      "shot": "r05",
+      "frame": 5705,
+      "meanAbsolutePixelDifference": 0.14231,
+      "PSNR640x360": 51.69815
+    },
+    {
+      "shot": "r06",
+      "frame": 6097,
+      "meanAbsolutePixelDifference": 0.14269,
+      "PSNR640x360": 52.30352
+    },
+    {
+      "shot": "r07",
+      "frame": 6488,
+      "meanAbsolutePixelDifference": 0.1599,
+      "PSNR640x360": 51.28511
+    },
+    {
+      "shot": "h01",
+      "frame": 6827,
+      "meanAbsolutePixelDifference": 0.11476,
+      "PSNR640x360": 53.17694
+    },
+    {
+      "shot": "h02",
+      "frame": 7153,
+      "meanAbsolutePixelDifference": 0.14581,
+      "PSNR640x360": 51.92656
+    },
+    {
+      "shot": "h03",
+      "frame": 7497,
+      "meanAbsolutePixelDifference": 0.07069,
+      "PSNR640x360": 56.56321
+    },
+    {
+      "shot": "h04",
+      "frame": 7845,
+      "meanAbsolutePixelDifference": 0.13155,
+      "PSNR640x360": 52.68121
+    },
+    {
+      "shot": "h05",
+      "frame": 8181,
+      "meanAbsolutePixelDifference": 0.47604,
+      "PSNR640x360": 47.9777
+    },
+    {
+      "shot": "h06",
+      "frame": 8522,
+      "meanAbsolutePixelDifference": 0.16529,
+      "PSNR640x360": 51.58599
+    },
+    {
+      "shot": "h07",
+      "frame": 8906,
+      "meanAbsolutePixelDifference": 0.08899,
+      "PSNR640x360": 55.1583
+    },
+    {
+      "shot": "h08",
+      "frame": 9266,
+      "meanAbsolutePixelDifference": 0.21689,
+      "PSNR640x360": 50.31344
+    },
+    {
+      "shot": "t01",
+      "frame": 9599,
+      "meanAbsolutePixelDifference": 0.16072,
+      "PSNR640x360": 50.90701
+    },
+    {
+      "shot": "t02",
+      "frame": 9948,
+      "meanAbsolutePixelDifference": 0.08661,
+      "PSNR640x360": 55.21627
+    },
+    {
+      "shot": "t03",
+      "frame": 10294,
+      "meanAbsolutePixelDifference": 0.14234,
+      "PSNR640x360": 51.87517
+    },
+    {
+      "shot": "t04",
+      "frame": 10627,
+      "meanAbsolutePixelDifference": 0.05754,
+      "PSNR640x360": 57.58014
+    },
+    {
+      "shot": "t05",
+      "frame": 10945,
+      "meanAbsolutePixelDifference": 0.16121,
+      "PSNR640x360": 51.38366
+    },
+    {
+      "shot": "t06",
+      "frame": 11269,
+      "meanAbsolutePixelDifference": 0.17169,
+      "PSNR640x360": 50.89083
+    },
+    {
+      "shot": "t07",
+      "frame": 11597,
+      "meanAbsolutePixelDifference": 0.12783,
+      "PSNR640x360": 52.28232
+    },
+    {
+      "shot": "d01",
+      "frame": 11924,
+      "meanAbsolutePixelDifference": 0.12738,
+      "PSNR640x360": 52.67514
+    },
+    {
+      "shot": "d02",
+      "frame": 12244,
+      "meanAbsolutePixelDifference": 0.12169,
+      "PSNR640x360": 52.68076
+    },
+    {
+      "shot": "d03",
+      "frame": 12595,
+      "meanAbsolutePixelDifference": 0.10321,
+      "PSNR640x360": 54.38224
+    },
+    {
+      "shot": "d04",
+      "frame": 12978,
+      "meanAbsolutePixelDifference": 0.22921,
+      "PSNR640x360": 49.93459
+    },
+    {
+      "shot": "d05",
+      "frame": 13358,
+      "meanAbsolutePixelDifference": 0.38232,
+      "PSNR640x360": 49.92208
+    },
+    {
+      "shot": "d06",
+      "frame": 13701,
+      "meanAbsolutePixelDifference": 0.16889,
+      "PSNR640x360": 51.44569
+    },
+    {
+      "shot": "p01",
+      "frame": 13992,
+      "meanAbsolutePixelDifference": 0.12628,
+      "PSNR640x360": 52.81304
+    },
+    {
+      "shot": "p02",
+      "frame": 14306,
+      "meanAbsolutePixelDifference": 0.14974,
+      "PSNR640x360": 51.80567
+    },
+    {
+      "shot": "p03",
+      "frame": 14679,
+      "meanAbsolutePixelDifference": 0.15706,
+      "PSNR640x360": 51.96212
+    },
+    {
+      "shot": "p04",
+      "frame": 15057,
+      "meanAbsolutePixelDifference": 0.24964,
+      "PSNR640x360": 49.75181
+    },
+    {
+      "shot": "p05",
+      "frame": 15434,
+      "meanAbsolutePixelDifference": 0.08353,
+      "PSNR640x360": 55.75803
+    },
+    {
+      "shot": "p06",
+      "frame": 15818,
+      "meanAbsolutePixelDifference": 0.13397,
+      "PSNR640x360": 52.43771
+    },
+    {
+      "shot": "p07",
+      "frame": 16177,
+      "meanAbsolutePixelDifference": 0.09736,
+      "PSNR640x360": 55.2804
+    },
+    {
+      "shot": "e01",
+      "frame": 16552,
+      "meanAbsolutePixelDifference": 0.14696,
+      "PSNR640x360": 51.81601
+    },
+    {
+      "shot": "e02",
+      "frame": 16951,
+      "meanAbsolutePixelDifference": 0.0738,
+      "PSNR640x360": 55.72548
+    },
+    {
+      "shot": "e03",
+      "frame": 17335,
+      "meanAbsolutePixelDifference": 0.16524,
+      "PSNR640x360": 50.82055
+    },
+    {
+      "shot": "e04",
+      "frame": 17718,
+      "meanAbsolutePixelDifference": 0.45078,
+      "PSNR640x360": 47.30277
+    }
+  ],
+  "minimumPSNR": 47.30277,
+  "maximumMeanAbsolutePixelDifference": 0.47604,
+  "pass": true
+}

@@ -1,0 +1,9 @@
+{
+  "failedChunk": "comic/08",
+  "completedPriorChunks": 8,
+  "failure": "FFmpeg fast-start intermediate parent directory missing after1800frames rendered",
+  "preEncodeRecovery": "Temporary file already removed by CLI cleanup; unavailable",
+  "retainedLog": "r03\\comic\\chunks\\08.failed-1794583485863466200.log",
+  "retainedLogSHA256": "587eaf7fd3edd6a111efea7216e57bcc45537381bbb0bc2307450245eaffdb17",
+  "recovery": "One bounded local render retry from immutable r03bundle; verified priorchunks retained; no provider call"
+}

@@ -1,0 +1,35 @@
+{
+  "decodedFrames": 2490,
+  "expectedFrames": 2490,
+  "frameCountPass": true,
+  "fps": 30.0,
+  "seconds": 83.0,
+  "width": 1920,
+  "height": 1080,
+  "phases": [
+    "hook",
+    "disclaimer",
+    "content",
+    "cta"
+  ],
+  "shots": 26,
+  "uniqueImages": 24,
+  "imageAppearances": 33,
+  "spatialImageSeconds": 10.266666666666667,
+  "audioMeasuredOnFinalMP4": {
+    "input_i": "-16.03",
+    "input_tp": "-4.83",
+    "input_lra": "2.00",
+    "input_thresh": "-26.51",
+    "output_i": "-15.93",
+    "output_tp": "-4.49",
+    "output_lra": "1.90",
+    "output_thresh": "-26.39",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.07"
+  },
+  "videoSHA256": "3c0afd10e27694dd0f0eeca2b76b5013908fa1396f0d2fc52b976f011f00b3e1",
+  "visualInspection": "Evidence generated; write actual observations separately after viewing sheets.",
+  "aestheticAcceptance": "pending user feedback",
+  "manualAudioListening": "not performed by this script"
+}

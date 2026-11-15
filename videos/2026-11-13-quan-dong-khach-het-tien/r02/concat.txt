@@ -1,0 +1,8 @@
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/r02/part-00.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/part-01.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/part-02.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/part-03.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/r02/part-04.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/part-05.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/part-06.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/part-07.mp4'

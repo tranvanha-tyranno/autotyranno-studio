@@ -1,0 +1,772 @@
+{
+  "data": {
+    "direction": "long",
+    "fps": 30,
+    "frames": 2460,
+    "title": "AI làm hộ bản nháp. Ai chịu trách nhiệm?",
+    "audio": "directions/long/mix.wav",
+    "shots": [
+      {
+        "phrase": "Bạn giao cho AI",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/typing-photo.jpg",
+            "credit": "Firmbee.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "eyebrow": "MỘT TÌNH HUỐNG QUEN THUỘC",
+        "headline": "AI viết hộ.",
+        "start": 0,
+        "phase": "hook",
+        "end": 74
+      },
+      {
+        "phrase": "Vài giây sau",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/notes.jpg",
+            "credit": "Kampus Production / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.4981273408239701
+          }
+        ],
+        "start": 74,
+        "phase": "hook",
+        "end": 150
+      },
+      {
+        "phrase": "Nhưng nếu nó hứa sai",
+        "layout": "diptych",
+        "images": [
+          {
+            "file": "directions/long/pens-proof.jpg",
+            "credit": "Kaboompics.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          },
+          {
+            "file": "directions/long/support-agent.jpg",
+            "credit": "MART PRODUCTION / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "headline": "Ai trả lời khách?",
+        "start": 150,
+        "phase": "hook",
+        "end": 266
+      },
+      {
+        "phrase": "Nhanh thì có nhanh",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/review-docs.jpg",
+            "credit": "Mikhail Nilov / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 0.7421150278293135
+          }
+        ],
+        "headline": "Nhanh ≠ xong",
+        "start": 266,
+        "phase": "hook",
+        "end": 411
+      },
+      {
+        "phrase": "Đây là tình huống",
+        "layout": "evidence",
+        "images": [
+          {
+            "file": "directions/long/discussion.jpg",
+            "credit": "Mikhail Nilov / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.4981273408239701
+          }
+        ],
+        "eyebrow": "LƯU Ý",
+        "headline": "Tình huống minh họa",
+        "body": "Không phải dự báo nghề nghiệp của từng người.",
+        "start": 411,
+        "phase": "disclaimer",
+        "end": 559
+      },
+      {
+        "phrase": "Cứ nhìn một email",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/headset.jpg",
+            "credit": "Yan Krukau / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "eyebrow": "01 / ĐẰNG SAU NÚT GỬI",
+        "start": 559,
+        "phase": "content",
+        "end": 643
+      },
+      {
+        "phrase": "Trước khi viết",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/team-charts.jpg",
+            "credit": "Anna Shvets / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 0.6666666666666666
+          }
+        ],
+        "start": 643,
+        "phase": "content",
+        "end": 711
+      },
+      {
+        "phrase": "biết người đọc",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/client-meeting.jpg",
+            "credit": "Ron Lach / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "start": 711,
+        "phase": "content",
+        "end": 816
+      },
+      {
+        "phrase": "Sau khi viết",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/calculator.jpg",
+            "credit": "Bia Limova / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "headline": "Kiểm tra số liệu",
+        "start": 816,
+        "phase": "content",
+        "end": 911
+      },
+      {
+        "phrase": "sửa giọng điệu",
+        "layout": "diptych",
+        "images": [
+          {
+            "file": "directions/long/review-team-detail.jpg",
+            "credit": "Artem Podrez / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.0666666666666667
+          },
+          {
+            "file": "directions/long/support-team.jpg",
+            "credit": "Yan Krukau / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.1401425178147269
+          }
+        ],
+        "start": 911,
+        "phase": "content",
+        "end": 983
+      },
+      {
+        "phrase": "AI có thể hỗ trợ",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/colleagues.jpg",
+            "credit": "Ketut Subiyanto / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5028177833437695
+          }
+        ],
+        "eyebrow": "02 / BẢN NHÁP CHƯA PHẢI KẾT QUẢ",
+        "start": 983,
+        "phase": "content",
+        "end": 1040
+      },
+      {
+        "phrase": "Nhưng bản nháp",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/folders.jpg",
+            "credit": "Jakub Zerdzicki / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.499063085571518
+          }
+        ],
+        "start": 1040,
+        "phase": "content",
+        "end": 1112
+      },
+      {
+        "phrase": "Một câu nghe",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/support-agent.jpg",
+            "credit": "MART PRODUCTION / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "start": 1112,
+        "phase": "content",
+        "end": 1207
+      },
+      {
+        "phrase": "Một bảng nhìn",
+        "layout": "evidence",
+        "images": [
+          {
+            "file": "directions/long/clipboard-check.jpg",
+            "credit": "Mikhail Nilov / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 0.9995835068721366
+          }
+        ],
+        "headline": "Đối chiếu bản gốc",
+        "sourceNote": "Ví dụ giả định · Ảnh minh họa",
+        "start": 1207,
+        "phase": "content",
+        "end": 1322
+      },
+      {
+        "phrase": "Thử tách công việc",
+        "layout": "gallery3d",
+        "images": [
+          {
+            "file": "directions/long/typing-photo.jpg",
+            "credit": "Firmbee.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          },
+          {
+            "file": "directions/long/pens-proof.jpg",
+            "credit": "Kaboompics.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          },
+          {
+            "file": "directions/long/team-decision.jpg",
+            "credit": "Kaboompics.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "eyebrow": "03 / TÁCH ĐÚNG TỪNG PHẦN",
+        "headline": "Tạo nháp → Kiểm tra → Quyết định",
+        "start": 1322,
+        "phase": "content",
+        "end": 1466
+      },
+      {
+        "phrase": "Đừng gom cả ba",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/team-decision.jpg",
+            "credit": "Kaboompics.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "start": 1466,
+        "phase": "content",
+        "end": 1528
+      },
+      {
+        "phrase": "Chỗ đáng nâng cấp",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/held-docs.jpg",
+            "credit": "SHVETS production / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "headline": "Phát hiện sai sớm hơn",
+        "start": 1528,
+        "phase": "content",
+        "end": 1666
+      },
+      {
+        "phrase": "Ngày mai",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/home-learning.jpg",
+            "credit": "Mizuno K / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 0.6666666666666666
+          }
+        ],
+        "eyebrow": "04 / THỬ MỘT VIỆC NHỎ",
+        "start": 1666,
+        "phase": "content",
+        "end": 1792
+      },
+      {
+        "phrase": "Ghi lại thời gian",
+        "layout": "diptych",
+        "images": [
+          {
+            "file": "directions/long/notes.jpg",
+            "credit": "Kampus Production / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.4981273408239701
+          },
+          {
+            "file": "directions/long/asian-notes.jpg",
+            "credit": "Mikhail Nilov / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 0.6666666666666666
+          }
+        ],
+        "headline": "Tính cả thời gian sửa",
+        "start": 1792,
+        "phase": "content",
+        "end": 1898
+      },
+      {
+        "phrase": "Nếu tổng thời gian",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/calculator.jpg",
+            "credit": "Bia Limova / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "start": 1898,
+        "phase": "content",
+        "end": 1949
+      },
+      {
+        "phrase": "hoặc bạn không kiểm tra",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/paperwork.jpg",
+            "credit": "ANTONI SHKRABA production / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "start": 1949,
+        "phase": "content",
+        "end": 2003
+      },
+      {
+        "phrase": "hãy đổi cách giao việc",
+        "layout": "full",
+        "images": [
+          {
+            "file": "directions/long/board-team.jpg",
+            "credit": "Vitaly Gariev / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.7777777777777777
+          }
+        ],
+        "start": 2003,
+        "phase": "content",
+        "end": 2044
+      },
+      {
+        "phrase": "Đừng gọi một thao tác",
+        "layout": "gallery3d",
+        "images": [
+          {
+            "file": "directions/long/typing-photo.jpg",
+            "credit": "Firmbee.com / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          },
+          {
+            "file": "directions/long/calculator.jpg",
+            "credit": "Bia Limova / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          },
+          {
+            "file": "directions/long/review-docs.jpg",
+            "credit": "Mikhail Nilov / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 0.7421150278293135
+          }
+        ],
+        "headline": "Đo kết quả. Tính cả kiểm tra.",
+        "start": 2044,
+        "phase": "content",
+        "end": 2131
+      },
+      {
+        "phrase": "Bạn sẽ giao phần nào",
+        "layout": "closing",
+        "images": [
+          {
+            "file": "directions/long/colleagues.jpg",
+            "credit": "Ketut Subiyanto / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5028177833437695
+          }
+        ],
+        "eyebrow": "ĐẾN LƯỢT BẠN",
+        "headline": "Bạn giữ phần nào?",
+        "start": 2131,
+        "phase": "cta",
+        "end": 2247
+      },
+      {
+        "phrase": "Bình luận một công việc",
+        "layout": "closing",
+        "images": [
+          {
+            "file": "directions/long/sticky-board.jpg",
+            "credit": "Jakub Zerdzicki / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "headline": "Bình luận một việc cụ thể",
+        "start": 2247,
+        "phase": "cta",
+        "end": 2306
+      },
+      {
+        "phrase": "Đăng ký TYRANNO",
+        "layout": "closing",
+        "images": [
+          {
+            "file": "directions/long/learning.jpg",
+            "credit": "Kampus Production / Pexels",
+            "focus": [
+              50,
+              45
+            ],
+            "aspect": 1.5
+          }
+        ],
+        "headline": "Cùng thử. Cùng kiểm tra.",
+        "body": "Đăng ký TYRANNO cho thử nghiệm tiếp theo.",
+        "start": 2306,
+        "phase": "cta",
+        "end": 2460
+      }
+    ],
+    "captions": [
+      {
+        "start": 0.0,
+        "end": 2.24,
+        "text": "Bạn giao cho AI viết một email chào hàng."
+      },
+      {
+        "start": 2.48,
+        "end": 4.88,
+        "text": "Vài giây sau, bản nháp đã nằm trên màn hình."
+      },
+      {
+        "start": 5.013,
+        "end": 7.68,
+        "text": "Nhưng nếu nó hứa sai một tính năng, ai là"
+      },
+      {
+        "start": 7.72,
+        "end": 8.72,
+        "text": "người phải trả lời khách?"
+      },
+      {
+        "start": 8.88,
+        "end": 10.0,
+        "text": "Nhanh thì có nhanh."
+      },
+      {
+        "start": 10.04,
+        "end": 12.4,
+        "text": "Nhưng công việc đã xong, hay mới chuyển sang"
+      },
+      {
+        "start": 12.42,
+        "end": 13.44,
+        "text": "một người khác ngồi sửa?"
+      },
+      {
+        "start": 13.7,
+        "end": 16.0,
+        "text": "Đây là tình huống minh họa để bàn về công"
+      },
+      {
+        "start": 16.064,
+        "end": 18.08,
+        "text": "việc, không phải dự báo nghề nghiệp của từng"
+      },
+      {
+        "start": 18.133,
+        "end": 18.44,
+        "text": "người."
+      },
+      {
+        "start": 18.64,
+        "end": 21.32,
+        "text": "Cứ nhìn một email tưởng như rất đơn giản."
+      },
+      {
+        "start": 21.44,
+        "end": 24.08,
+        "text": "Trước khi viết, bạn phải hiểu sản phẩm, biết"
+      },
+      {
+        "start": 24.107,
+        "end": 26.48,
+        "text": "người đọc đang cần gì và chọn điều có thể"
+      },
+      {
+        "start": 26.54,
+        "end": 27.04,
+        "text": "cam kết."
+      },
+      {
+        "start": 27.2,
+        "end": 29.68,
+        "text": "Sau khi viết, bạn còn phải kiểm tra số"
+      },
+      {
+        "start": 29.712,
+        "end": 32.48,
+        "text": "liệu, sửa giọng điệu, rồi theo dõi phản hồi."
+      },
+      {
+        "start": 32.773,
+        "end": 34.56,
+        "text": "AI có thể hỗ trợ bản nháp."
+      },
+      {
+        "start": 34.653,
+        "end": 36.96,
+        "text": "Nhưng bản nháp chưa phải kết quả cuối cùng."
+      },
+      {
+        "start": 37.06,
+        "end": 39.76,
+        "text": "Một câu nghe trơn tru vẫn có thể thiếu bối"
+      },
+      {
+        "start": 39.808,
+        "end": 40.08,
+        "text": "cảnh."
+      },
+      {
+        "start": 40.22,
+        "end": 42.88,
+        "text": "Một bảng nhìn rất gọn vẫn cần đối chiếu với"
+      },
+      {
+        "start": 42.94,
+        "end": 43.92,
+        "text": "tài liệu gốc."
+      },
+      {
+        "start": 44.053,
+        "end": 45.68,
+        "text": "Thử tách công việc thành ba phần:"
+      },
+      {
+        "start": 45.82,
+        "end": 48.4,
+        "text": "tạo bản đầu, kiểm tra, và quyết"
+      },
+      {
+        "start": 48.432,
+        "end": 48.64,
+        "text": "định."
+      },
+      {
+        "start": 48.88,
+        "end": 50.72,
+        "text": "Đừng gom cả ba vào một nút gửi."
+      },
+      {
+        "start": 50.933,
+        "end": 53.12,
+        "text": "Chỗ đáng nâng cấp không chỉ là viết nhanh"
+      },
+      {
+        "start": 53.18,
+        "end": 55.44,
+        "text": "hơn, mà là phát hiện sai sớm hơn."
+      },
+      {
+        "start": 55.536,
+        "end": 58.08,
+        "text": "Ngày mai, chọn một việc nhỏ, như nháp"
+      },
+      {
+        "start": 58.147,
+        "end": 59.52,
+        "text": "email bằng dữ liệu giả định."
+      },
+      {
+        "start": 59.72,
+        "end": 62.24,
+        "text": "Ghi lại thời gian viết, thời gian sửa và"
+      },
+      {
+        "start": 62.32,
+        "end": 63.12,
+        "text": "lỗi còn sót."
+      },
+      {
+        "start": 63.26,
+        "end": 65.6,
+        "text": "Nếu tổng thời gian không giảm, hoặc bạn"
+      },
+      {
+        "start": 65.627,
+        "end": 68.0,
+        "text": "không kiểm tra nổi, hãy đổi cách giao việc."
+      },
+      {
+        "start": 68.12,
+        "end": 70.24,
+        "text": "Đừng gọi một thao tác nhanh hơn là năng suất"
+      },
+      {
+        "start": 70.3,
+        "end": 70.8,
+        "text": "cao hơn."
+      },
+      {
+        "start": 71.02,
+        "end": 73.76,
+        "text": "Bạn sẽ giao phần nào cho AI, và giữ phần"
+      },
+      {
+        "start": 73.82,
+        "end": 74.8,
+        "text": "nào tự kiểm tra?"
+      },
+      {
+        "start": 74.912,
+        "end": 76.56,
+        "text": "Bình luận một công việc cụ thể."
+      },
+      {
+        "start": 76.88,
+        "end": 79.52,
+        "text": "Đăng ký TYRANNO để cùng bóc tách thử nghiệm"
+      },
+      {
+        "start": 79.568,
+        "end": 80.08,
+        "text": "tiếp theo."
+      }
+    ]
+  }
+}

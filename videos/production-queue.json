@@ -1,0 +1,12 @@
+{
+  "schema": "reference-video-queue/1",
+  "description": "Chỉ kiểm lại pilot đời sống đã được yêu cầu. Không có bước gọi giọng mới và không thêm chủ đề mới.",
+  "jobs": [
+    {
+      "id": "di-sieu-thi-pilot-2026-11-13-r04",
+      "manifest": "2026-11-13-di-sieu-thi/production-v4.json",
+      "batch": "2026-11-13-di-sieu-thi/r04",
+      "steps": ["plan", "check", "prepare", "mix", "render"]
+    }
+  ]
+}

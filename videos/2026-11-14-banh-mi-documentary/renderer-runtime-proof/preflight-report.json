@@ -1,0 +1,452 @@
+{
+  "schema": "bread-documentary-preflight/1",
+  "method": "selected_rendered_frames",
+  "continuousAvReview": false,
+  "aestheticApproval": false,
+  "audioListened": false,
+  "startFrame": 0,
+  "frames": 1260,
+  "samples": [
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 17,
+      "compositionFrame": 17,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000017.jpg"
+    },
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 27,
+      "compositionFrame": 27,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000027.jpg"
+    },
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 58,
+      "compositionFrame": 58,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000058.jpg"
+    },
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 99,
+      "compositionFrame": 99,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000099.jpg"
+    },
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 103,
+      "compositionFrame": 103,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000103.jpg"
+    },
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 148,
+      "compositionFrame": 148,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000148.jpg"
+    },
+    {
+      "shotId": "before",
+      "kind": "cost_stack",
+      "stage": "before",
+      "absoluteFrame": 158,
+      "compositionFrame": 158,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\before-000158.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 197,
+      "compositionFrame": 197,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000197.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 207,
+      "compositionFrame": 207,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000207.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 238,
+      "compositionFrame": 238,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000238.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 279,
+      "compositionFrame": 279,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000279.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 283,
+      "compositionFrame": 283,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000283.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 328,
+      "compositionFrame": 328,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000328.jpg"
+    },
+    {
+      "shotId": "after",
+      "kind": "cost_stack",
+      "stage": "after",
+      "absoluteFrame": 338,
+      "compositionFrame": 338,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\after-000338.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 377,
+      "compositionFrame": 377,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000377.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 387,
+      "compositionFrame": 387,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000387.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 418,
+      "compositionFrame": 418,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000418.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 459,
+      "compositionFrame": 459,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000459.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 463,
+      "compositionFrame": 463,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000463.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 508,
+      "compositionFrame": 508,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000508.jpg"
+    },
+    {
+      "shotId": "compare",
+      "kind": "cost_stack",
+      "stage": "compare",
+      "absoluteFrame": 518,
+      "compositionFrame": 518,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\compare-000518.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 557,
+      "compositionFrame": 557,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000557.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 567,
+      "compositionFrame": 567,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000567.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 598,
+      "compositionFrame": 598,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000598.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 639,
+      "compositionFrame": 639,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000639.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 643,
+      "compositionFrame": 643,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000643.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 688,
+      "compositionFrame": 688,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000688.jpg"
+    },
+    {
+      "shotId": "prices",
+      "kind": "price_path",
+      "stage": null,
+      "absoluteFrame": 698,
+      "compositionFrame": 698,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\prices-000698.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 737,
+      "compositionFrame": 737,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000737.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 747,
+      "compositionFrame": 747,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000747.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 778,
+      "compositionFrame": 778,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000778.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 819,
+      "compositionFrame": 819,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000819.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 823,
+      "compositionFrame": 823,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000823.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 868,
+      "compositionFrame": 868,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000868.jpg"
+    },
+    {
+      "shotId": "income",
+      "kind": "purchasing_power",
+      "stage": "income",
+      "absoluteFrame": 878,
+      "compositionFrame": 878,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\income-000878.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 917,
+      "compositionFrame": 917,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-000917.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 927,
+      "compositionFrame": 927,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-000927.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 958,
+      "compositionFrame": 958,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-000958.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 999,
+      "compositionFrame": 999,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-000999.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 1003,
+      "compositionFrame": 1003,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-001003.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 1048,
+      "compositionFrame": 1048,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-001048.jpg"
+    },
+    {
+      "shotId": "quantity",
+      "kind": "purchasing_power",
+      "stage": "quantity",
+      "absoluteFrame": 1058,
+      "compositionFrame": 1058,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\quantity-001058.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1097,
+      "compositionFrame": 1097,
+      "localShotFrame": 17,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001097.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1107,
+      "compositionFrame": 1107,
+      "localShotFrame": 27,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001107.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1138,
+      "compositionFrame": 1138,
+      "localShotFrame": 58,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001138.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1179,
+      "compositionFrame": 1179,
+      "localShotFrame": 99,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001179.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1183,
+      "compositionFrame": 1183,
+      "localShotFrame": 103,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001183.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1228,
+      "compositionFrame": 1228,
+      "localShotFrame": 148,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001228.jpg"
+    },
+    {
+      "shotId": "result",
+      "kind": "purchasing_power",
+      "stage": "result",
+      "absoluteFrame": 1238,
+      "compositionFrame": 1238,
+      "localShotFrame": 158,
+      "image": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-14-banh-mi-documentary\\renderer-runtime-proof\\preflight\\result-001238.jpg"
+    }
+  ]
+}

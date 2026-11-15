@@ -1,0 +1,9 @@
+{
+  "sourceVideoSHA256": "081374b6b3a6bf8f6c746852eb3f94e5c4ffe0e4cacc5fdfe2ecb680078a9ebf",
+  "planSHA256": "512016323181774f64e5746f5315a451f7321e04c498f6e92c34e5f58498bddd",
+  "mixSHA256": "3c6f1deef2268fcd3dc15ec7a177f397c46657cc589891e86465049d217ca8e3",
+  "budgetSourceSHA256": "c35160c369e9e2f7445fc5f1d07ef58bb5ade839e3edf8366aa90958a790323d",
+  "startFrame": 351,
+  "endFrameExclusive": 890,
+  "reason": "Move red allocation arrow below the salary numeral instead of across it"
+}

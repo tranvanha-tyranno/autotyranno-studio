@@ -1,0 +1,154 @@
+{
+  "plan": {
+    "fps": 30,
+    "durationFrames": 1920,
+    "title": "Runtime test only",
+    "shots": [
+      {
+        "id": "lab-money_split",
+        "from": 0,
+        "duration": 240,
+        "chapterId": "0",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "money_split",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-price_level",
+        "from": 240,
+        "duration": 240,
+        "chapterId": "1",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "price_level",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-inventory",
+        "from": 480,
+        "duration": 240,
+        "chapterId": "2",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "inventory",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-cost_ledger",
+        "from": 720,
+        "duration": 240,
+        "chapterId": "3",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "cost_ledger",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-competition",
+        "from": 960,
+        "duration": 240,
+        "chapterId": "4",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "competition",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-bread_power",
+        "from": 1200,
+        "duration": 240,
+        "chapterId": "5",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "bread_power",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-basket_scope",
+        "from": 1440,
+        "duration": 240,
+        "chapterId": "6",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "basket_scope",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      },
+      {
+        "id": "lab-synthesis",
+        "from": 1680,
+        "duration": 240,
+        "chapterId": "7",
+        "chapterTitle": "Kiểm tra mô phỏng",
+        "media": "simulation",
+        "sourceStartSeconds": 0,
+        "simulation": "synthesis",
+        "cueFrames": [
+          12,
+          75,
+          135,
+          195
+        ],
+        "label": "MÔ HÌNH MINH HỌA",
+        "data": {}
+      }
+    ],
+    "audio": ""
+  }
+}

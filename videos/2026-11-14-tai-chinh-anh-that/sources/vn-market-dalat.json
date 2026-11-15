@@ -1,0 +1,30 @@
+{
+  "id": "vn-market-dalat",
+  "pexelsID": 35723468,
+  "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+  "creator": "Kushie In Vietnam",
+  "theme": "market",
+  "documentedLocation": "Dalat, Vietnam",
+  "locationEvidence": "Pexels primary photo page location field",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/vn-market-dalat.jpg",
+  "downloadURL": "https://images.pexels.com/photos/35723468/pexels-photo-35723468.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "733398a388dbb5a9ea54202db5d75277335aa14d5cdefca17195df85e7fee6e1",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

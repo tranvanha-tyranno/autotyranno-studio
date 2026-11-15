@@ -1,0 +1,1132 @@
+{
+  "technical": "passed",
+  "file": "videos/2026-11-14-banh-mi-documentary/r02/final.mp4",
+  "sha256": "8e5274d1d63be683b6189e37885fba4f819692f0f822110cd1d9715acf8763ff",
+  "decodedFrames": 10733,
+  "seconds": 357.76666666666665,
+  "audioSeconds": 357.7386666666667,
+  "lastWordEnd": 355.867291,
+  "shotCount": 74,
+  "sourceCount": 28,
+  "realMovingFootageBackgroundSeconds": 357.76666666666665,
+  "calculationOverlaySeconds": 60.36666666666667,
+  "subtitles": false,
+  "cartoonCast": false,
+  "speechSpeed": 1,
+  "frames": [
+    {
+      "shot": "b01-01",
+      "frame": 19,
+      "file": "b01-01-early.jpg"
+    },
+    {
+      "shot": "b01-01",
+      "frame": 80,
+      "file": "b01-01-middle.jpg"
+    },
+    {
+      "shot": "b01-01",
+      "frame": 140,
+      "file": "b01-01-late.jpg"
+    },
+    {
+      "shot": "b01-02",
+      "frame": 181,
+      "file": "b01-02-early.jpg"
+    },
+    {
+      "shot": "b01-02",
+      "frame": 249,
+      "file": "b01-02-middle.jpg"
+    },
+    {
+      "shot": "b01-02",
+      "frame": 317,
+      "file": "b01-02-late.jpg"
+    },
+    {
+      "shot": "b01-03",
+      "frame": 348,
+      "file": "b01-03-early.jpg"
+    },
+    {
+      "shot": "b01-03",
+      "frame": 377,
+      "file": "b01-03-middle.jpg"
+    },
+    {
+      "shot": "b01-03",
+      "frame": 406,
+      "file": "b01-03-late.jpg"
+    },
+    {
+      "shot": "b02-01",
+      "frame": 427,
+      "file": "b02-01-early.jpg"
+    },
+    {
+      "shot": "b02-01",
+      "frame": 463,
+      "file": "b02-01-middle.jpg"
+    },
+    {
+      "shot": "b02-01",
+      "frame": 500,
+      "file": "b02-01-late.jpg"
+    },
+    {
+      "shot": "b02-02",
+      "frame": 527,
+      "file": "b02-02-early.jpg"
+    },
+    {
+      "shot": "b02-02",
+      "frame": 574,
+      "file": "b02-02-middle.jpg"
+    },
+    {
+      "shot": "b02-02",
+      "frame": 621,
+      "file": "b02-02-late.jpg"
+    },
+    {
+      "shot": "b02-03",
+      "frame": 658,
+      "file": "b02-03-early.jpg"
+    },
+    {
+      "shot": "b02-03",
+      "frame": 728,
+      "file": "b02-03-middle.jpg"
+    },
+    {
+      "shot": "b02-03",
+      "frame": 797,
+      "file": "b02-03-late.jpg"
+    },
+    {
+      "shot": "b03-01",
+      "frame": 824,
+      "file": "b03-01-early.jpg"
+    },
+    {
+      "shot": "b03-01",
+      "frame": 841,
+      "file": "b03-01-middle.jpg"
+    },
+    {
+      "shot": "b03-01",
+      "frame": 859,
+      "file": "b03-01-late.jpg"
+    },
+    {
+      "shot": "b03-02",
+      "frame": 908,
+      "file": "b03-02-early.jpg"
+    },
+    {
+      "shot": "b03-02",
+      "frame": 1046,
+      "file": "b03-02-middle.jpg"
+    },
+    {
+      "shot": "b03-02",
+      "frame": 1185,
+      "file": "b03-02-late.jpg"
+    },
+    {
+      "shot": "b04-01",
+      "frame": 1246,
+      "file": "b04-01-early.jpg"
+    },
+    {
+      "shot": "b04-01",
+      "frame": 1299,
+      "file": "b04-01-middle.jpg"
+    },
+    {
+      "shot": "b04-01",
+      "frame": 1353,
+      "file": "b04-01-late.jpg"
+    },
+    {
+      "shot": "b04-02",
+      "frame": 1387,
+      "file": "b04-02-early.jpg"
+    },
+    {
+      "shot": "b04-02",
+      "frame": 1440,
+      "file": "b04-02-middle.jpg"
+    },
+    {
+      "shot": "b04-02",
+      "frame": 1494,
+      "file": "b04-02-late.jpg"
+    },
+    {
+      "shot": "b04-03",
+      "frame": 1520,
+      "file": "b04-03-early.jpg"
+    },
+    {
+      "shot": "b04-03",
+      "frame": 1547,
+      "file": "b04-03-middle.jpg"
+    },
+    {
+      "shot": "b04-03",
+      "frame": 1573,
+      "file": "b04-03-late.jpg"
+    },
+    {
+      "shot": "b05-01",
+      "frame": 1587,
+      "file": "b05-01-early.jpg"
+    },
+    {
+      "shot": "b05-01",
+      "frame": 1604,
+      "file": "b05-01-middle.jpg"
+    },
+    {
+      "shot": "b05-01",
+      "frame": 1622,
+      "file": "b05-01-late.jpg"
+    },
+    {
+      "shot": "b05-02",
+      "frame": 1675,
+      "file": "b05-02-early.jpg"
+    },
+    {
+      "shot": "b05-02",
+      "frame": 1829,
+      "file": "b05-02-middle.jpg"
+    },
+    {
+      "shot": "b05-02",
+      "frame": 1983,
+      "file": "b05-02-late.jpg"
+    },
+    {
+      "shot": "b06-01",
+      "frame": 2036,
+      "file": "b06-01-early.jpg"
+    },
+    {
+      "shot": "b06-01",
+      "frame": 2053,
+      "file": "b06-01-middle.jpg"
+    },
+    {
+      "shot": "b06-01",
+      "frame": 2071,
+      "file": "b06-01-late.jpg"
+    },
+    {
+      "shot": "b06-02",
+      "frame": 2112,
+      "file": "b06-02-early.jpg"
+    },
+    {
+      "shot": "b06-02",
+      "frame": 2226,
+      "file": "b06-02-middle.jpg"
+    },
+    {
+      "shot": "b06-02",
+      "frame": 2340,
+      "file": "b06-02-late.jpg"
+    },
+    {
+      "shot": "b06-03",
+      "frame": 2388,
+      "file": "b06-03-early.jpg"
+    },
+    {
+      "shot": "b06-03",
+      "frame": 2427,
+      "file": "b06-03-middle.jpg"
+    },
+    {
+      "shot": "b06-03",
+      "frame": 2466,
+      "file": "b06-03-late.jpg"
+    },
+    {
+      "shot": "b07-01",
+      "frame": 2495,
+      "file": "b07-01-early.jpg"
+    },
+    {
+      "shot": "b07-01",
+      "frame": 2548,
+      "file": "b07-01-middle.jpg"
+    },
+    {
+      "shot": "b07-01",
+      "frame": 2602,
+      "file": "b07-01-late.jpg"
+    },
+    {
+      "shot": "b07-02",
+      "frame": 2632,
+      "file": "b07-02-early.jpg"
+    },
+    {
+      "shot": "b07-02",
+      "frame": 2673,
+      "file": "b07-02-middle.jpg"
+    },
+    {
+      "shot": "b07-02",
+      "frame": 2715,
+      "file": "b07-02-late.jpg"
+    },
+    {
+      "shot": "b07-03",
+      "frame": 2751,
+      "file": "b07-03-early.jpg"
+    },
+    {
+      "shot": "b07-03",
+      "frame": 2825,
+      "file": "b07-03-middle.jpg"
+    },
+    {
+      "shot": "b07-03",
+      "frame": 2899,
+      "file": "b07-03-late.jpg"
+    },
+    {
+      "shot": "b08-01",
+      "frame": 2927,
+      "file": "b08-01-early.jpg"
+    },
+    {
+      "shot": "b08-01",
+      "frame": 2944,
+      "file": "b08-01-middle.jpg"
+    },
+    {
+      "shot": "b08-01",
+      "frame": 2962,
+      "file": "b08-01-late.jpg"
+    },
+    {
+      "shot": "b08-02",
+      "frame": 3016,
+      "file": "b08-02-early.jpg"
+    },
+    {
+      "shot": "b08-02",
+      "frame": 3173,
+      "file": "b08-02-middle.jpg"
+    },
+    {
+      "shot": "b08-02",
+      "frame": 3330,
+      "file": "b08-02-late.jpg"
+    },
+    {
+      "shot": "b09-01",
+      "frame": 3396,
+      "file": "b09-01-early.jpg"
+    },
+    {
+      "shot": "b09-01",
+      "frame": 3449,
+      "file": "b09-01-middle.jpg"
+    },
+    {
+      "shot": "b09-01",
+      "frame": 3503,
+      "file": "b09-01-late.jpg"
+    },
+    {
+      "shot": "b09-02",
+      "frame": 3537,
+      "file": "b09-02-early.jpg"
+    },
+    {
+      "shot": "b09-02",
+      "frame": 3590,
+      "file": "b09-02-middle.jpg"
+    },
+    {
+      "shot": "b09-02",
+      "frame": 3644,
+      "file": "b09-02-late.jpg"
+    },
+    {
+      "shot": "b09-03",
+      "frame": 3675,
+      "file": "b09-03-early.jpg"
+    },
+    {
+      "shot": "b09-03",
+      "frame": 3720,
+      "file": "b09-03-middle.jpg"
+    },
+    {
+      "shot": "b09-03",
+      "frame": 3765,
+      "file": "b09-03-late.jpg"
+    },
+    {
+      "shot": "b10-01",
+      "frame": 3790,
+      "file": "b10-01-early.jpg"
+    },
+    {
+      "shot": "b10-01",
+      "frame": 3827,
+      "file": "b10-01-middle.jpg"
+    },
+    {
+      "shot": "b10-01",
+      "frame": 3863,
+      "file": "b10-01-late.jpg"
+    },
+    {
+      "shot": "b10-02",
+      "frame": 3886,
+      "file": "b10-02-early.jpg"
+    },
+    {
+      "shot": "b10-02",
+      "frame": 3923,
+      "file": "b10-02-middle.jpg"
+    },
+    {
+      "shot": "b10-02",
+      "frame": 3960,
+      "file": "b10-02-late.jpg"
+    },
+    {
+      "shot": "b10-03",
+      "frame": 3995,
+      "file": "b10-03-early.jpg"
+    },
+    {
+      "shot": "b10-03",
+      "frame": 4068,
+      "file": "b10-03-middle.jpg"
+    },
+    {
+      "shot": "b10-03",
+      "frame": 4141,
+      "file": "b10-03-late.jpg"
+    },
+    {
+      "shot": "b11-01",
+      "frame": 4181,
+      "file": "b11-01-early.jpg"
+    },
+    {
+      "shot": "b11-01",
+      "frame": 4234,
+      "file": "b11-01-middle.jpg"
+    },
+    {
+      "shot": "b11-01",
+      "frame": 4288,
+      "file": "b11-01-late.jpg"
+    },
+    {
+      "shot": "b11-02",
+      "frame": 4325,
+      "file": "b11-02-early.jpg"
+    },
+    {
+      "shot": "b11-02",
+      "frame": 4389,
+      "file": "b11-02-middle.jpg"
+    },
+    {
+      "shot": "b11-02",
+      "frame": 4453,
+      "file": "b11-02-late.jpg"
+    },
+    {
+      "shot": "b11-03",
+      "frame": 4496,
+      "file": "b11-03-early.jpg"
+    },
+    {
+      "shot": "b11-03",
+      "frame": 4569,
+      "file": "b11-03-middle.jpg"
+    },
+    {
+      "shot": "b11-03",
+      "frame": 4641,
+      "file": "b11-03-late.jpg"
+    },
+    {
+      "shot": "b12-01",
+      "frame": 4684,
+      "file": "b12-01-early.jpg"
+    },
+    {
+      "shot": "b12-01",
+      "frame": 4746,
+      "file": "b12-01-middle.jpg"
+    },
+    {
+      "shot": "b12-01",
+      "frame": 4808,
+      "file": "b12-01-late.jpg"
+    },
+    {
+      "shot": "b12-02",
+      "frame": 4842,
+      "file": "b12-02-early.jpg"
+    },
+    {
+      "shot": "b12-02",
+      "frame": 4884,
+      "file": "b12-02-middle.jpg"
+    },
+    {
+      "shot": "b12-02",
+      "frame": 4927,
+      "file": "b12-02-late.jpg"
+    },
+    {
+      "shot": "b12-03",
+      "frame": 4956,
+      "file": "b12-03-early.jpg"
+    },
+    {
+      "shot": "b12-03",
+      "frame": 5003,
+      "file": "b12-03-middle.jpg"
+    },
+    {
+      "shot": "b12-03",
+      "frame": 5051,
+      "file": "b12-03-late.jpg"
+    },
+    {
+      "shot": "b13-01",
+      "frame": 5084,
+      "file": "b13-01-early.jpg"
+    },
+    {
+      "shot": "b13-01",
+      "frame": 5142,
+      "file": "b13-01-middle.jpg"
+    },
+    {
+      "shot": "b13-01",
+      "frame": 5199,
+      "file": "b13-01-late.jpg"
+    },
+    {
+      "shot": "b13-02",
+      "frame": 5238,
+      "file": "b13-02-early.jpg"
+    },
+    {
+      "shot": "b13-02",
+      "frame": 5306,
+      "file": "b13-02-middle.jpg"
+    },
+    {
+      "shot": "b13-02",
+      "frame": 5374,
+      "file": "b13-02-late.jpg"
+    },
+    {
+      "shot": "b13-03",
+      "frame": 5410,
+      "file": "b13-03-early.jpg"
+    },
+    {
+      "shot": "b13-03",
+      "frame": 5459,
+      "file": "b13-03-middle.jpg"
+    },
+    {
+      "shot": "b13-03",
+      "frame": 5509,
+      "file": "b13-03-late.jpg"
+    },
+    {
+      "shot": "b14-01",
+      "frame": 5537,
+      "file": "b14-01-early.jpg"
+    },
+    {
+      "shot": "b14-01",
+      "frame": 5578,
+      "file": "b14-01-middle.jpg"
+    },
+    {
+      "shot": "b14-01",
+      "frame": 5620,
+      "file": "b14-01-late.jpg"
+    },
+    {
+      "shot": "b14-02",
+      "frame": 5650,
+      "file": "b14-02-early.jpg"
+    },
+    {
+      "shot": "b14-02",
+      "frame": 5703,
+      "file": "b14-02-middle.jpg"
+    },
+    {
+      "shot": "b14-02",
+      "frame": 5757,
+      "file": "b14-02-late.jpg"
+    },
+    {
+      "shot": "b14-03",
+      "frame": 5787,
+      "file": "b14-03-early.jpg"
+    },
+    {
+      "shot": "b14-03",
+      "frame": 5829,
+      "file": "b14-03-middle.jpg"
+    },
+    {
+      "shot": "b14-03",
+      "frame": 5871,
+      "file": "b14-03-late.jpg"
+    },
+    {
+      "shot": "b14-04",
+      "frame": 5896,
+      "file": "b14-04-early.jpg"
+    },
+    {
+      "shot": "b14-04",
+      "frame": 5934,
+      "file": "b14-04-middle.jpg"
+    },
+    {
+      "shot": "b14-04",
+      "frame": 5973,
+      "file": "b14-04-late.jpg"
+    },
+    {
+      "shot": "b15-01",
+      "frame": 6002,
+      "file": "b15-01-early.jpg"
+    },
+    {
+      "shot": "b15-01",
+      "frame": 6055,
+      "file": "b15-01-middle.jpg"
+    },
+    {
+      "shot": "b15-01",
+      "frame": 6109,
+      "file": "b15-01-late.jpg"
+    },
+    {
+      "shot": "b15-02",
+      "frame": 6143,
+      "file": "b15-02-early.jpg"
+    },
+    {
+      "shot": "b15-02",
+      "frame": 6196,
+      "file": "b15-02-middle.jpg"
+    },
+    {
+      "shot": "b15-02",
+      "frame": 6250,
+      "file": "b15-02-late.jpg"
+    },
+    {
+      "shot": "b15-03",
+      "frame": 6284,
+      "file": "b15-03-early.jpg"
+    },
+    {
+      "shot": "b15-03",
+      "frame": 6337,
+      "file": "b15-03-middle.jpg"
+    },
+    {
+      "shot": "b15-03",
+      "frame": 6391,
+      "file": "b15-03-late.jpg"
+    },
+    {
+      "shot": "b15-04",
+      "frame": 6417,
+      "file": "b15-04-early.jpg"
+    },
+    {
+      "shot": "b15-04",
+      "frame": 6444,
+      "file": "b15-04-middle.jpg"
+    },
+    {
+      "shot": "b15-04",
+      "frame": 6470,
+      "file": "b15-04-late.jpg"
+    },
+    {
+      "shot": "b16-01",
+      "frame": 6495,
+      "file": "b16-01-early.jpg"
+    },
+    {
+      "shot": "b16-01",
+      "frame": 6544,
+      "file": "b16-01-middle.jpg"
+    },
+    {
+      "shot": "b16-01",
+      "frame": 6593,
+      "file": "b16-01-late.jpg"
+    },
+    {
+      "shot": "b16-02",
+      "frame": 6625,
+      "file": "b16-02-early.jpg"
+    },
+    {
+      "shot": "b16-02",
+      "frame": 6674,
+      "file": "b16-02-middle.jpg"
+    },
+    {
+      "shot": "b16-02",
+      "frame": 6723,
+      "file": "b16-02-late.jpg"
+    },
+    {
+      "shot": "b16-03",
+      "frame": 6760,
+      "file": "b16-03-early.jpg"
+    },
+    {
+      "shot": "b16-03",
+      "frame": 6825,
+      "file": "b16-03-middle.jpg"
+    },
+    {
+      "shot": "b16-03",
+      "frame": 6890,
+      "file": "b16-03-late.jpg"
+    },
+    {
+      "shot": "b17-01",
+      "frame": 6925,
+      "file": "b17-01-early.jpg"
+    },
+    {
+      "shot": "b17-01",
+      "frame": 6967,
+      "file": "b17-01-middle.jpg"
+    },
+    {
+      "shot": "b17-01",
+      "frame": 7010,
+      "file": "b17-01-late.jpg"
+    },
+    {
+      "shot": "b17-02",
+      "frame": 7041,
+      "file": "b17-02-early.jpg"
+    },
+    {
+      "shot": "b17-02",
+      "frame": 7094,
+      "file": "b17-02-middle.jpg"
+    },
+    {
+      "shot": "b17-02",
+      "frame": 7148,
+      "file": "b17-02-late.jpg"
+    },
+    {
+      "shot": "b17-03",
+      "frame": 7185,
+      "file": "b17-03-early.jpg"
+    },
+    {
+      "shot": "b17-03",
+      "frame": 7247,
+      "file": "b17-03-middle.jpg"
+    },
+    {
+      "shot": "b17-03",
+      "frame": 7309,
+      "file": "b17-03-late.jpg"
+    },
+    {
+      "shot": "b18-01",
+      "frame": 7334,
+      "file": "b18-01-early.jpg"
+    },
+    {
+      "shot": "b18-01",
+      "frame": 7351,
+      "file": "b18-01-middle.jpg"
+    },
+    {
+      "shot": "b18-01",
+      "frame": 7369,
+      "file": "b18-01-late.jpg"
+    },
+    {
+      "shot": "b18-02",
+      "frame": 7414,
+      "file": "b18-02-early.jpg"
+    },
+    {
+      "shot": "b18-02",
+      "frame": 7539,
+      "file": "b18-02-middle.jpg"
+    },
+    {
+      "shot": "b18-02",
+      "frame": 7664,
+      "file": "b18-02-late.jpg"
+    },
+    {
+      "shot": "b18-03",
+      "frame": 7721,
+      "file": "b18-03-early.jpg"
+    },
+    {
+      "shot": "b18-03",
+      "frame": 7775,
+      "file": "b18-03-middle.jpg"
+    },
+    {
+      "shot": "b18-03",
+      "frame": 7829,
+      "file": "b18-03-late.jpg"
+    },
+    {
+      "shot": "b19-01",
+      "frame": 7863,
+      "file": "b19-01-early.jpg"
+    },
+    {
+      "shot": "b19-01",
+      "frame": 7916,
+      "file": "b19-01-middle.jpg"
+    },
+    {
+      "shot": "b19-01",
+      "frame": 7968,
+      "file": "b19-01-late.jpg"
+    },
+    {
+      "shot": "b19-02",
+      "frame": 7996,
+      "file": "b19-02-early.jpg"
+    },
+    {
+      "shot": "b19-02",
+      "frame": 8033,
+      "file": "b19-02-middle.jpg"
+    },
+    {
+      "shot": "b19-02",
+      "frame": 8069,
+      "file": "b19-02-late.jpg"
+    },
+    {
+      "shot": "b19-03",
+      "frame": 8093,
+      "file": "b19-03-early.jpg"
+    },
+    {
+      "shot": "b19-03",
+      "frame": 8132,
+      "file": "b19-03-middle.jpg"
+    },
+    {
+      "shot": "b19-03",
+      "frame": 8172,
+      "file": "b19-03-late.jpg"
+    },
+    {
+      "shot": "b19-04",
+      "frame": 8201,
+      "file": "b19-04-early.jpg"
+    },
+    {
+      "shot": "b19-04",
+      "frame": 8251,
+      "file": "b19-04-middle.jpg"
+    },
+    {
+      "shot": "b19-04",
+      "frame": 8300,
+      "file": "b19-04-late.jpg"
+    },
+    {
+      "shot": "b20-01",
+      "frame": 8333,
+      "file": "b20-01-early.jpg"
+    },
+    {
+      "shot": "b20-01",
+      "frame": 8386,
+      "file": "b20-01-middle.jpg"
+    },
+    {
+      "shot": "b20-01",
+      "frame": 8440,
+      "file": "b20-01-late.jpg"
+    },
+    {
+      "shot": "b20-02",
+      "frame": 8474,
+      "file": "b20-02-early.jpg"
+    },
+    {
+      "shot": "b20-02",
+      "frame": 8527,
+      "file": "b20-02-middle.jpg"
+    },
+    {
+      "shot": "b20-02",
+      "frame": 8581,
+      "file": "b20-02-late.jpg"
+    },
+    {
+      "shot": "b20-03",
+      "frame": 8623,
+      "file": "b20-03-early.jpg"
+    },
+    {
+      "shot": "b20-03",
+      "frame": 8702,
+      "file": "b20-03-middle.jpg"
+    },
+    {
+      "shot": "b20-03",
+      "frame": 8782,
+      "file": "b20-03-late.jpg"
+    },
+    {
+      "shot": "b21-01",
+      "frame": 8825,
+      "file": "b21-01-early.jpg"
+    },
+    {
+      "shot": "b21-01",
+      "frame": 8882,
+      "file": "b21-01-middle.jpg"
+    },
+    {
+      "shot": "b21-01",
+      "frame": 8939,
+      "file": "b21-01-late.jpg"
+    },
+    {
+      "shot": "b21-02",
+      "frame": 8968,
+      "file": "b21-02-early.jpg"
+    },
+    {
+      "shot": "b21-02",
+      "frame": 9003,
+      "file": "b21-02-middle.jpg"
+    },
+    {
+      "shot": "b21-02",
+      "frame": 9037,
+      "file": "b21-02-late.jpg"
+    },
+    {
+      "shot": "b21-03",
+      "frame": 9065,
+      "file": "b21-03-early.jpg"
+    },
+    {
+      "shot": "b21-03",
+      "frame": 9118,
+      "file": "b21-03-middle.jpg"
+    },
+    {
+      "shot": "b21-03",
+      "frame": 9172,
+      "file": "b21-03-late.jpg"
+    },
+    {
+      "shot": "b21-04",
+      "frame": 9199,
+      "file": "b21-04-early.jpg"
+    },
+    {
+      "shot": "b21-04",
+      "frame": 9229,
+      "file": "b21-04-middle.jpg"
+    },
+    {
+      "shot": "b21-04",
+      "frame": 9260,
+      "file": "b21-04-late.jpg"
+    },
+    {
+      "shot": "b22-01",
+      "frame": 9291,
+      "file": "b22-01-early.jpg"
+    },
+    {
+      "shot": "b22-01",
+      "frame": 9358,
+      "file": "b22-01-middle.jpg"
+    },
+    {
+      "shot": "b22-01",
+      "frame": 9425,
+      "file": "b22-01-late.jpg"
+    },
+    {
+      "shot": "b22-02",
+      "frame": 9458,
+      "file": "b22-02-early.jpg"
+    },
+    {
+      "shot": "b22-02",
+      "frame": 9497,
+      "file": "b22-02-middle.jpg"
+    },
+    {
+      "shot": "b22-02",
+      "frame": 9536,
+      "file": "b22-02-late.jpg"
+    },
+    {
+      "shot": "b22-03",
+      "frame": 9573,
+      "file": "b22-03-early.jpg"
+    },
+    {
+      "shot": "b22-03",
+      "frame": 9653,
+      "file": "b22-03-middle.jpg"
+    },
+    {
+      "shot": "b22-03",
+      "frame": 9733,
+      "file": "b22-03-late.jpg"
+    },
+    {
+      "shot": "b23-01",
+      "frame": 9775,
+      "file": "b23-01-early.jpg"
+    },
+    {
+      "shot": "b23-01",
+      "frame": 9829,
+      "file": "b23-01-middle.jpg"
+    },
+    {
+      "shot": "b23-01",
+      "frame": 9883,
+      "file": "b23-01-late.jpg"
+    },
+    {
+      "shot": "b23-02",
+      "frame": 9920,
+      "file": "b23-02-early.jpg"
+    },
+    {
+      "shot": "b23-02",
+      "frame": 9982,
+      "file": "b23-02-middle.jpg"
+    },
+    {
+      "shot": "b23-02",
+      "frame": 10044,
+      "file": "b23-02-late.jpg"
+    },
+    {
+      "shot": "b23-03",
+      "frame": 10080,
+      "file": "b23-03-early.jpg"
+    },
+    {
+      "shot": "b23-03",
+      "frame": 10130,
+      "file": "b23-03-middle.jpg"
+    },
+    {
+      "shot": "b23-03",
+      "frame": 10180,
+      "file": "b23-03-late.jpg"
+    },
+    {
+      "shot": "b23-04",
+      "frame": 10207,
+      "file": "b23-04-early.jpg"
+    },
+    {
+      "shot": "b23-04",
+      "frame": 10242,
+      "file": "b23-04-middle.jpg"
+    },
+    {
+      "shot": "b23-04",
+      "frame": 10276,
+      "file": "b23-04-late.jpg"
+    },
+    {
+      "shot": "b24-01",
+      "frame": 10305,
+      "file": "b24-01-early.jpg"
+    },
+    {
+      "shot": "b24-01",
+      "frame": 10361,
+      "file": "b24-01-middle.jpg"
+    },
+    {
+      "shot": "b24-01",
+      "frame": 10417,
+      "file": "b24-01-late.jpg"
+    },
+    {
+      "shot": "b24-02",
+      "frame": 10446,
+      "file": "b24-02-early.jpg"
+    },
+    {
+      "shot": "b24-02",
+      "frame": 10481,
+      "file": "b24-02-middle.jpg"
+    },
+    {
+      "shot": "b24-02",
+      "frame": 10516,
+      "file": "b24-02-late.jpg"
+    },
+    {
+      "shot": "b24-03",
+      "frame": 10552,
+      "file": "b24-03-early.jpg"
+    },
+    {
+      "shot": "b24-03",
+      "frame": 10630,
+      "file": "b24-03-middle.jpg"
+    },
+    {
+      "shot": "b24-03",
+      "frame": 10708,
+      "file": "b24-03-late.jpg"
+    }
+  ],
+  "continuousAVReview": false,
+  "manualAudioListening": false,
+  "userApproval": "pending",
+  "limits": "Technical decode, measured sound and sampled-frame reviews do not establish full audiovisual or user approval."
+}

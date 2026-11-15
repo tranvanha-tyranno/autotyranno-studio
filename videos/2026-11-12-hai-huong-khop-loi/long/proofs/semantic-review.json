@@ -1,0 +1,511 @@
+{
+  "shots": [
+    {
+      "id": "L01",
+      "status": "pass",
+      "observed": "Ô giao việc hiển thị yêu cầu viết email chào hàng cho đèn Mẫu A, nút Tạo bản nháp và con trỏ. Ảnh tay gõ bên cạnh hỗ trợ thao tác, không thay đối tượng email.",
+      "issues": [],
+      "evidence": "L01-53.jpg",
+      "frame": 53,
+      "evidenceSHA256": "232f3cae1feffa41e01650d430737f4da219ab2c1cc24702511f698bb54d6cdd",
+      "previousProofSHA256": "232f3cae1feffa41e01650d430737f4da219ab2c1cc24702511f698bb54d6cdd",
+      "proofChanged": false
+    },
+    {
+      "id": "L02",
+      "status": "pass",
+      "observed": "Email nháp xuất hiện đầy đủ với người nhận khach@vidu.invalid, tiêu đề Mẫu A, lời Mua ngay!, lời sai không dây/120.000; nhãn chưa kiểm tra và Gửi khóa. Danh tính nay khớp caseFacts.",
+      "issues": [],
+      "evidence": "L02-129.jpg",
+      "frame": 129,
+      "evidenceSHA256": "1fa1bf29da902add9c98556db4d6613adeb41bab88ccab8fc062e85dbd6ab862",
+      "previousProofSHA256": "e40dc4f99145006c6cde6dfb6fd07ed29bac3a53c5cc2a71fec2972358430296",
+      "proofChanged": true
+    },
+    {
+      "id": "L03",
+      "status": "pass",
+      "observed": "Lời Dùng không dây tô đỏ đứng sát mô hình đèn có dây và nguồn USB-C có dây/Không pin. Không còn credit Pexels gán cho mô hình 3D. Toàn khung ghi dữ liệu giả định.",
+      "issues": [],
+      "evidence": "L03-202.jpg",
+      "frame": 202,
+      "evidenceSHA256": "44f6e9dd7ff087573e2da53eec85cecf4dcf48845764b062c49dce4d8f1672b2",
+      "previousProofSHA256": "8909c420f3d1d0c5408eee75cc05aa8fec3bb611576156f4d5bb846072f34823",
+      "proofChanged": true
+    },
+    {
+      "id": "L04",
+      "status": "pass",
+      "observed": "Câu hỏi khách về pin/ra ngoài mang nhãn phản hồi giả định nếu gửi; trách nhiệm xác nhận lại thuộc người gửi; hộp trả lời còn chưa gửi/đang xác minh.",
+      "issues": [],
+      "evidence": "L04-254.jpg",
+      "frame": 254,
+      "evidenceSHA256": "fbbc50a0f10171e3b282d98a8d7dce189386f8d9b67d1475a9d736d4498f0acf",
+      "previousProofSHA256": "fbbc50a0f10171e3b282d98a8d7dce189386f8d9b67d1475a9d736d4498f0acf",
+      "proofChanged": false
+    },
+    {
+      "id": "L05",
+      "status": "pass",
+      "observed": "Thời gian viết 2 phút cạnh baseline12; kiểm tra+sửa chờ đo, tổng chưa có. Không gọi bản nháp nhanh là toàn bộ việc xong.",
+      "issues": [],
+      "evidence": "L05-291.jpg",
+      "frame": 291,
+      "evidenceSHA256": "5a149857cfa23ad0896be0a757c9aaa0fe45445058bd64df4bf3a7d981679034",
+      "previousProofSHA256": "5a149857cfa23ad0896be0a757c9aaa0fe45445058bd64df4bf3a7d981679034",
+      "proofChanged": false
+    },
+    {
+      "id": "L06",
+      "status": "pass",
+      "observed": "Bản nháp trông hoàn chỉnh bên trái vẫn có hai lỗi; bốn ô kiểm tính năng/giá/nhu cầu/trách nhiệm bên phải chưa tick. Trạng thái chưa đối chiếu nguồn rõ.",
+      "issues": [],
+      "evidence": "L06-333.jpg",
+      "frame": 333,
+      "evidenceSHA256": "9eec269d11c757508a9eace5463ad212687f3beea2145ab1cb4a9220d1c1b183",
+      "previousProofSHA256": "9eec269d11c757508a9eace5463ad212687f3beea2145ab1cb4a9220d1c1b183",
+      "proofChanged": false
+    },
+    {
+      "id": "L07",
+      "status": "pass",
+      "observed": "Luồng AI tạo nháp → Bạn kiểm tra; chính câu không dây được gạch bỏ và dòng nguồn có dây/không pin đặt cạnh, cho thấy người nhận lại một lỗi cụ thể để xử lý.",
+      "issues": [],
+      "evidence": "L07-393.jpg",
+      "frame": 393,
+      "evidenceSHA256": "7b3df5196a663a11c2ee5f4b2c191a294cb6d3ac51055de8a6bb4e90367394d2",
+      "previousProofSHA256": "a170a6fd3c513226f075dba9a9e374fb60105ba040345189e31d7b73a6d18ede",
+      "proofChanged": true
+    },
+    {
+      "id": "L08",
+      "status": "pass",
+      "observed": "Disclaimer hiển thị rõ đèn/tính năng/giá/thời gian giả định, chỉ bàn phần việc và không dự báo nghề nghiệp cá nhân.",
+      "issues": [],
+      "evidence": "L08-518.jpg",
+      "frame": 518,
+      "evidenceSHA256": "2eab9e96e887efbfa85354fb70b263268c4f570f3dd8206dde8a715a5701f5c4",
+      "previousProofSHA256": "2eab9e96e887efbfa85354fb70b263268c4f570f3dd8206dde8a715a5701f5c4",
+      "proofChanged": false
+    },
+    {
+      "id": "L09",
+      "status": "pass",
+      "observed": "Cùng email nháp, người nhận khach@vidu.invalid, lời Mua ngay!, tính năng/giá sai và Gửi khóa; đúng đối tượng phân tích, không còn headset thay email.",
+      "issues": [],
+      "evidence": "L09-619.jpg",
+      "frame": 619,
+      "evidenceSHA256": "bd97c23f133f934933b4420ee061f7047835972a830883214fa2db4b0d9dea67",
+      "previousProofSHA256": "9b12d1f7a3c818a30c687985b72247a933b83a1b60872de98f746dd45cedcf58",
+      "proofChanged": true
+    },
+    {
+      "id": "L10",
+      "status": "pass",
+      "observed": "Hồ sơ Mẫu A giả định có USB-C có dây, không pin và giá1.200.000; mô hình đèn giữ dây nguồn nhìn thấy. Chỉ xác nhận tính nhất quán nội bộ, không thông số sản phẩm thật.",
+      "issues": [],
+      "evidence": "L10-692.jpg",
+      "frame": 692,
+      "evidenceSHA256": "022c973b6150b2adee6efe73657de45375a641a2c7d380cfd546d63d0c5a7881",
+      "previousProofSHA256": "445b3d387695d29a4e98cbdd54fab500b3e00d6c9d7938626092556131d62005",
+      "proofChanged": true
+    },
+    {
+      "id": "L11",
+      "status": "pass",
+      "observed": "Lời khách cần dùng nơi không có ổ cắm đứng cạnh nguồn USB-C có dây/không pin và cảnh báo chưa thể mặc định phù hợp. Nhu cầu với hạn chế nguồn điện nhìn thấy cùng khung.",
+      "issues": [],
+      "evidence": "L11-746.jpg",
+      "frame": 746,
+      "evidenceSHA256": "12204878dbd38e62a72f761141023485b111452d17dc41e06bbf849de419e675",
+      "previousProofSHA256": "12204878dbd38e62a72f761141023485b111452d17dc41e06bbf849de419e675",
+      "proofChanged": false
+    },
+    {
+      "id": "L12",
+      "status": "pass",
+      "observed": "Cam kết được phép là nguồn USB-C có dây/không pin; lời Dùng không dây bị gạch. Mối quan hệ nguồn giả định→giới hạn lời hứa trực tiếp.",
+      "issues": [],
+      "evidence": "L12-800.jpg",
+      "frame": 800,
+      "evidenceSHA256": "828e952bd81ab286574b3549a261124eae4636d761f2eec2e0500a13bfa9d699",
+      "previousProofSHA256": "828e952bd81ab286574b3549a261124eae4636d761f2eec2e0500a13bfa9d699",
+      "proofChanged": false
+    },
+    {
+      "id": "L13",
+      "status": "pass",
+      "observed": "Giá nguồn1.200.000 được tô sáng bên trái, giá nháp120.000 bên phải có trạng thái chưa khớp. Cặp số cùng sản phẩm đọc được, không coi dữ liệu minh họa là giá bán thật.",
+      "issues": [],
+      "evidence": "L13-884.jpg",
+      "frame": 884,
+      "evidenceSHA256": "c6efb2172cf7b295d59f19fef093ac2bdfedd663b5e8a6a44d72354564f027db",
+      "previousProofSHA256": "c6efb2172cf7b295d59f19fef093ac2bdfedd663b5e8a6a44d72354564f027db",
+      "proofChanged": false
+    },
+    {
+      "id": "L14",
+      "status": "pass",
+      "observed": "Mua ngay! trong bản nháp ban đầu được đối chiếu Mời bạn tham khảo. ở bản sửa. Mua ngay! đã xuất hiện tại L02/L09; nhãn nay là Giọng thúc ép, không còn gọi bản thân mệnh lệnh là hứa tính năng.",
+      "issues": [],
+      "evidence": "L14-933.jpg",
+      "frame": 933,
+      "evidenceSHA256": "eca2197ef95acbe7865b9f1189d83751a666344f13f46ab73d441f833341589b",
+      "previousProofSHA256": "bbcaa42ba71ad609034914ac69b7790ae528ab3260fc1e808de406b0785d484b",
+      "proofChanged": true
+    },
+    {
+      "id": "L15",
+      "status": "pass",
+      "observed": "Hội thoại khách hỏi không có nguồn USB dùng được không; vùng Cần trả lời ghi đang chờ xác minh nguồn điện và trạng thái chưa trả lời/tiếp tục theo dõi.",
+      "issues": [],
+      "evidence": "L15-971.jpg",
+      "frame": 971,
+      "evidenceSHA256": "b09b333fd7e1e72cb082231ce7bba40395bcf15e3688bc9ea6a4527825c7074f",
+      "previousProofSHA256": "9869fc94d9341ae044ba59d6b14610d5564233f5dcef68ff0acfe05205d8f7db",
+      "proofChanged": true
+    },
+    {
+      "id": "L16",
+      "status": "pass",
+      "observed": "Cùng email Mẫu A và khach@vidu.invalid với Mua ngay!/không dây/120.000; AI tạo nháp, chưa kiểm tra và khóa gửi. Khớp ý hỗ trợ bản nháp, không gán cả quy trình hoàn tất.",
+      "issues": [],
+      "evidence": "L16-1024.jpg",
+      "frame": 1024,
+      "evidenceSHA256": "544b9cff5ae251a6d1e4bf881d0f5c37534975d37733660f938e43cb74193f84",
+      "previousProofSHA256": "58de453411082f9a284e35ea6f196579a124310b1e546a91876e7335939218d2",
+      "proofChanged": true
+    },
+    {
+      "id": "L17",
+      "status": "pass",
+      "observed": "Ba bước trước gửi gồm tính năng/giá/giọng điệu và khóa CHƯA ĐƯỢC GỬI biểu đạt bản nháp chưa phải kết quả. Không hiện dấu đã duyệt.",
+      "issues": [],
+      "evidence": "L17-1092.jpg",
+      "frame": 1092,
+      "evidenceSHA256": "794992934625113f715bc35d3e0d8f319ef4fa8488665cff5e514358cc43b54b",
+      "previousProofSHA256": "8f5a94eec5e4c72ec717a3bf70b587a1b63dcc3afce4f91c7d98464ee4a90fa8",
+      "proofChanged": true
+    },
+    {
+      "id": "L18",
+      "status": "pass",
+      "observed": "Nhu cầu nơi không có ổ cắm, khách cần không dây và Mẫu A cần dây USB-C nằm cạnh câu trơn tru Phù hợp mọi góc làm việc. Có cảnh báo chưa đáp đúng nhu cầu; mâu thuẫn bối cảnh nay nhìn thấy cụ thể.",
+      "issues": [],
+      "evidence": "L18-1180.jpg",
+      "frame": 1180,
+      "evidenceSHA256": "338d98a7817bf3e15bf4a4a44c9f63fefc034748e8bf139a13d96290218fc877",
+      "previousProofSHA256": "de02e6af81577a936770f2da451611d94de60603eeb930f5242bf6ae46e05b69",
+      "proofChanged": true
+    },
+    {
+      "id": "L19",
+      "status": "pass",
+      "observed": "Nguồn Mẫu A ghi có dây/không pin/1.200.000 cạnh tóm tắt sai không dây/120.000, với trạng thái chưa khớp và chỉ dẫn đối chiếu nguồn giả định.",
+      "issues": [],
+      "evidence": "L19-1290.jpg",
+      "frame": 1290,
+      "evidenceSHA256": "8d0c1aa1c8fe4f8172e80f6d219cea3b04f0c198196dcd46e178346881a5ece3",
+      "previousProofSHA256": "8d0c1aa1c8fe4f8172e80f6d219cea3b04f0c198196dcd46e178346881a5ece3",
+      "proofChanged": false
+    },
+    {
+      "id": "L20",
+      "status": "pass",
+      "observed": "Ba mặt phẳng nay có nội dung: phong bì Tạo bản đầu, checklist Kiểm tra, người với dấu xác nhận Quyết định; cùng nhãn Mẫu A và tuyến ba bước. Đây là sơ đồ biểu tượng có chiều sâu, không phải ảnh tài liệu email.",
+      "issues": [],
+      "evidence": "L20-1360.jpg",
+      "frame": 1360,
+      "evidenceSHA256": "617064ff01947eaf2a4bac5d571e7ff2f41b1b286f44ec858baa35859b006a21",
+      "previousProofSHA256": "26bd7b2a5d502e3da5653dde43e585a40dd16f2686bda1705b19f4067efc9667",
+      "proofChanged": true
+    },
+    {
+      "id": "L21",
+      "status": "pass",
+      "observed": "Cùng ba bước, thẻ phong bì Tạo bản đầu được tô coral/nâng lên, hai thẻ sau giữ trung tính. Trọng tâm khớp mệnh đề tạo bản đầu.",
+      "issues": [],
+      "evidence": "L21-1402.jpg",
+      "frame": 1402,
+      "evidenceSHA256": "af869db8f6286b05e37358991d20eca9b9ef3bc72dba4e091e1fe48b712ebef2",
+      "previousProofSHA256": "24326b0d8a46d47d994dc76f1dc3cc012ba679a8c79264ec81c82bc5522b8654",
+      "proofChanged": true
+    },
+    {
+      "id": "L22",
+      "status": "pass",
+      "observed": "Thẻ giữa checklist Kiểm tra được tô coral/nâng, thẻ tạo nháp và quyết định giữ trung tính; chữ phụ nói đối chiếu thông tin gốc. Đủ phân biệt bước kiểm tra trong sơ đồ.",
+      "issues": [],
+      "evidence": "L22-1428.jpg",
+      "frame": 1428,
+      "evidenceSHA256": "aef5cbfa1df6f6b9489ae35fa5c6a083367357127bf8ab0b2daab8dd6a3fffc8",
+      "previousProofSHA256": "866951f0881939926eae4e1f461930bb812bf391b3cb39b264e8782470e4ceb7",
+      "proofChanged": true
+    },
+    {
+      "id": "L23",
+      "status": "pass",
+      "observed": "Thẻ người+check Quyết định được tô coral/nâng, hai bước trước giữ nguyên; chữ phụ nhắc trách nhiệm trước gửi. Chưa biểu diễn thao tác bấm một lựa chọn thật.",
+      "issues": [],
+      "evidence": "L23-1457.jpg",
+      "frame": 1457,
+      "evidenceSHA256": "e2d15a08a96ef363895f845b6b6131576fdf9c3cc9a5f06effbf42a42f56144c",
+      "previousProofSHA256": "7c852e5eaf4eaa2d9a412af4a6a716bc0a8228e6961bd1d351ce763ec3a97dc9",
+      "proofChanged": true
+    },
+    {
+      "id": "L24",
+      "status": "pass",
+      "observed": "Ba bước tính năng/giá/giọng điệu cạnh khóa CHƯA ĐƯỢC GỬI, không gộp tất cả thành AI tự gửi. Email vẫn ở trạng thái chưa gửi trong câu chuyện.",
+      "issues": [],
+      "evidence": "L24-1511.jpg",
+      "frame": 1511,
+      "evidenceSHA256": "6af10407ae21dbf65b704c0b96a789e92d1e09f9a56f9fcab8284b2ecf50133f",
+      "previousProofSHA256": "6af10407ae21dbf65b704c0b96a789e92d1e09f9a56f9fcab8284b2ecf50133f",
+      "proofChanged": false
+    },
+    {
+      "id": "L25",
+      "status": "pass",
+      "observed": "Viết bản nháp2phút cạnh viết+kiểm+sửa15phút và nhãn nhanh hơn một phần/chưa chắc năng suất cao hơn. Phân biệt phần việc với toàn nhiệm vụ; đây là số giả định.",
+      "issues": [],
+      "evidence": "L25-1590.jpg",
+      "frame": 1590,
+      "evidenceSHA256": "d26a388c8155610506d2c72ab82df80aede73d0cc517f63c47edf2eab0038f4e",
+      "previousProofSHA256": "d26a388c8155610506d2c72ab82df80aede73d0cc517f63c47edf2eab0038f4e",
+      "proofChanged": false
+    },
+    {
+      "id": "L26",
+      "status": "pass",
+      "observed": "Hai lỗi không dây/120.000 hiện cạnh nguồn có dây/không pin/1.200.000 trước khi có gửi; trạng thái chưa khớp, mô tả phát hiện sớm chứ chưa tuyên bố đã sửa.",
+      "issues": [],
+      "evidence": "L26-1651.jpg",
+      "frame": 1651,
+      "evidenceSHA256": "964c44ac2b54c9a7cd9c69496d10cf3140a907ef375771761159745e1a71a792",
+      "previousProofSHA256": "964c44ac2b54c9a7cd9c69496d10cf3140a907ef375771761159745e1a71a792",
+      "proofChanged": false
+    },
+    {
+      "id": "L27",
+      "status": "pass",
+      "observed": "Chọn nhiệm vụ nháp email Mẫu A; hai lựa chọn đối chiếu bảng/trả lời khách mờ. Có con trỏ và dấu chỉ chọn một việc kiểm tra được.",
+      "issues": [],
+      "evidence": "L27-1708.jpg",
+      "frame": 1708,
+      "evidenceSHA256": "c012777cbc68646a9aa7078730bf4231f20013e42ba76c2d75ab2d1728a2744c",
+      "previousProofSHA256": "c012777cbc68646a9aa7078730bf4231f20013e42ba76c2d75ab2d1728a2744c",
+      "proofChanged": false
+    },
+    {
+      "id": "L28",
+      "status": "pass",
+      "observed": "Thẻ dữ liệu giả định ghi Mẫu A và domainvidu.invalid, không dùng dữ liệu khách thật. Domain nay thống nhất với email khach@vidu.invalid; đây là khung nhắc phạm vi dữ liệu chứ chưa phải màn hình nhập brief.",
+      "issues": [],
+      "evidence": "L28-1773.jpg",
+      "frame": 1773,
+      "evidenceSHA256": "9df89ef439268720f9ec8de366100adda3c2e0101afb2a71e650e38ed8433480",
+      "previousProofSHA256": "9df89ef439268720f9ec8de366100adda3c2e0101afb2a71e650e38ed8433480",
+      "proofChanged": false
+    },
+    {
+      "id": "L29",
+      "status": "pass",
+      "observed": "Thời gian viết2phút trong sổ theo dõi; baseline12, hàng kiểm/sửa chờ đo và tổng chưa có. Phần đo viết được tách khỏi phần đo sửa.",
+      "issues": [],
+      "evidence": "L29-1823.jpg",
+      "frame": 1823,
+      "evidenceSHA256": "a39a224a651343e6fe884336518f4fa84dcf30bf9d454504c64ba82ce2580cb2",
+      "previousProofSHA256": "a39a224a651343e6fe884336518f4fa84dcf30bf9d454504c64ba82ce2580cb2",
+      "proofChanged": false
+    },
+    {
+      "id": "L30",
+      "status": "pass",
+      "observed": "Thời gian kiểm+sửa13phút, dònglog13 và tổng2+13=15 xuất hiện, baseline12 vẫn hiện. Không suy ra một phiên làm việc thực kéo dài13phút từ dữ liệu minh họa.",
+      "issues": [],
+      "evidence": "L30-1852.jpg",
+      "frame": 1852,
+      "evidenceSHA256": "869cad6d05b2d49651827889fdeef430960ec83140638bee0190614da0a92601",
+      "previousProofSHA256": "869cad6d05b2d49651827889fdeef430960ec83140638bee0190614da0a92601",
+      "proofChanged": false
+    },
+    {
+      "id": "L31",
+      "status": "pass",
+      "observed": "Mục Lỗi còn sót liệt kê không dây/120.000 và trạng thái chưa đạt do chưa khớp nguồn, chưa gửi; không biến lỗi còn lại thành dấu đạt.",
+      "issues": [],
+      "evidence": "L31-1887.jpg",
+      "frame": 1887,
+      "evidenceSHA256": "ee16edfa93438282b2d5abd101da35c88be6e70d5dadd2cb8c2c33003c9348c9",
+      "previousProofSHA256": "d3b1a1727f1b543d86d3f00980c5a6403ea5921fc2b2cdb68575692db64c8727",
+      "proofChanged": true
+    },
+    {
+      "id": "L32",
+      "status": "pass",
+      "observed": "Tổng AI15phút=2+13 được đặt sát baseline tự làm12. Tổng dùngAI dài hơn ở ví dụ, phép tính nhất quán và nhãn dữ liệu giả định hiện.",
+      "issues": [],
+      "evidence": "L32-1935.jpg",
+      "frame": 1935,
+      "evidenceSHA256": "1f65c87fc18e413f9d2fd05a5d02b887d981d55cecbb10372b08a46f97bbabad",
+      "previousProofSHA256": "1f65c87fc18e413f9d2fd05a5d02b887d981d55cecbb10372b08a46f97bbabad",
+      "proofChanged": false
+    },
+    {
+      "id": "L33",
+      "status": "pass",
+      "observed": "Khung chưa đủ căn cứ xác minh có cam kết chưa có nguồn, ô Chưa kiểm được và trạng thái Chặn duyệt/Chưa gửi. Không tự duyệt một lời hứa chưa kiểm chứng.",
+      "issues": [],
+      "evidence": "L33-1988.jpg",
+      "frame": 1988,
+      "evidenceSHA256": "98c0ef4911f313ffd781a513beccecfcaa5b6da58daeee059bff6d6ad7eedf6e",
+      "previousProofSHA256": "ebea616e205aada266438250ececca646ccebf301a4ae44118bf2fc9c02ed771",
+      "proofChanged": true
+    },
+    {
+      "id": "L34",
+      "status": "pass",
+      "observed": "Prompt mới giới thiệu Mẫu A yêu cầu chỉ dùng thông tin gốc, thiếu hãy hỏi lại; có nhãn sản phẩm/người đọc/không hứa ngoài nguồn. Khớp hành động đổi cách giao việc.",
+      "issues": [],
+      "evidence": "L34-2033.jpg",
+      "frame": 2033,
+      "evidenceSHA256": "7ba5cc1347434f050881577fb332121983d678da3abfb99dc69e35339504a0fa",
+      "previousProofSHA256": "7ba5cc1347434f050881577fb332121983d678da3abfb99dc69e35339504a0fa",
+      "proofChanged": false
+    },
+    {
+      "id": "L35",
+      "status": "pass",
+      "observed": "Cùng toàn nhiệm vụ tự làm12phút đứng cạnh viết+kiểm+sửa15phút=2+13; dòng so cùng nhiệm vụ/cùng tiêu chuẩn nguồn và nhu cầu đã được thêm. Không còn chỉ so2phút phần việc với15phút tổng.",
+      "issues": [],
+      "evidence": "L35-2107.jpg",
+      "frame": 2107,
+      "evidenceSHA256": "f9da02d4f03ea9a0eafd3a0a28e04bc264afdabf291e4ffcce34e77d3a2bc948",
+      "previousProofSHA256": "f9a168718401a3208bcc47579952b8905a4b3943d42b4b49541bef2882d37930",
+      "proofChanged": true
+    },
+    {
+      "id": "L36",
+      "status": "pass",
+      "observed": "Ba thẻ nhiệm vụ có biểu tượng/nhãn thật trong3D; trên khung phân AI hỗ trợ ban đầu với Bạn kiểm tra nguồn và duyệt gửi. Giải thích vai trò bằng sơ đồ, không có cảnh kéo thẻ thật trong proof.",
+      "issues": [],
+      "evidence": "L36-2215.jpg",
+      "frame": 2215,
+      "evidenceSHA256": "454c55d12e5f1c79fe70f100820afd21da14548885ac6aad57f9a713051412b8",
+      "previousProofSHA256": "1464ea322c21715aa825eb5f010d442c154242a5a735e15be42007e63915047f",
+      "proofChanged": true
+    },
+    {
+      "id": "L37",
+      "status": "pass",
+      "observed": "Ô nhập bình luận có ví dụ Tôi muốn thử nháp email cho khách và nút Để lại một ví dụ. Đúng nơi/hành động CTA, không thao tác tài khoản thật.",
+      "issues": [],
+      "evidence": "L37-2289.jpg",
+      "frame": 2289,
+      "evidenceSHA256": "909816eae2444477e559f484cde385d54694563fdd80f4c6f7bccb77024c4749",
+      "previousProofSHA256": "909816eae2444477e559f484cde385d54694563fdd80f4c6f7bccb77024c4749",
+      "proofChanged": false
+    },
+    {
+      "id": "L38",
+      "status": "pass",
+      "observed": "Endcard TYRANNO với nút đăng ký, ba bước tạo nháp/kiểm tra/quyết định và thẻ nhắc email Mẫu A/nguồn/giá/nhu cầu/người quyết định. Phụ đề cuối còn hiện ở proof.",
+      "issues": [],
+      "evidence": "L38-2417.jpg",
+      "frame": 2417,
+      "evidenceSHA256": "816ecce1fd550ddb218c5f70517eb45561bd6f62aae04c2ce8eba4fc16226199",
+      "previousProofSHA256": "54b00d914e4c5d8a5964c22fd29f1802ccce44dffd6f670806dd5603896e5123",
+      "proofChanged": true
+    }
+  ],
+  "scope": {
+    "date": "2026-11-12",
+    "revision": "v2 independently re-opened all38 proof frames in10pairedsheets, not copied prior statuses",
+    "reviewedAllShots": 38,
+    "openedPairSheets": [
+      {
+        "file": "pairs-01.jpg",
+        "sha256": "fe8729e6ecdbbcceaf91265a079d0013f9ee4ca62bb87d9cf2cb6b08d1ebbd95"
+      },
+      {
+        "file": "pairs-02.jpg",
+        "sha256": "e3d78cc6f89b57631ad5640be6a37e80fe573286b8b93f9d8c8f71ca5fa45c18"
+      },
+      {
+        "file": "pairs-03.jpg",
+        "sha256": "e028e1862ffa3bcf4e4586c1486cb6d67086aa9a2f1c43f87632d61c1a9b6339"
+      },
+      {
+        "file": "pairs-04.jpg",
+        "sha256": "5d2587b385a68290ef7685dfbab2e6baa6ad5763eb985262c7761fc9e65c4dbc"
+      },
+      {
+        "file": "pairs-05.jpg",
+        "sha256": "7054b22629818474e49c6e446df91a8e59686fa2c8f9aaf6e1f4b4b656935f8b"
+      },
+      {
+        "file": "pairs-06.jpg",
+        "sha256": "90051428cd903d30f6164887997d7a9049dae9d84d4e796bb8f512b1bd2d34de"
+      },
+      {
+        "file": "pairs-07.jpg",
+        "sha256": "4446b1bd498c56b3a9aef4059139ada450f22f2880b38711d7dd72a43ed1db44"
+      },
+      {
+        "file": "pairs-08.jpg",
+        "sha256": "9082db7be826f7adac23a956a18b86e96b03a486d46a78c9a78f1715a50be855"
+      },
+      {
+        "file": "pairs-09.jpg",
+        "sha256": "35593750c4f00b82c5252fe9a1bf916e3507af0a768bf089b7a22fd8cfb12a89"
+      },
+      {
+        "file": "pairs-10.jpg",
+        "sha256": "4e5acec68010105423dc4cc0e6bcf50934b5d2c7c72b2b71ecd93f2eccb6d858"
+      }
+    ],
+    "openedFullFrames": [
+      "L03-202.jpg",
+      "L07-393.jpg",
+      "L14-933.jpg",
+      "L18-1180.jpg",
+      "L22-1428.jpg",
+      "L35-2107.jpg"
+    ],
+    "method": "Compared actual v2 rendered pixels with spoken clause and requiredVisual. About75% shot frame sampled. No continuous playback/action progression checked.",
+    "passMeaning": "Core spoken meaning is visibly represented at this sampled state, including explicit diagrams for abstract clauses. Pass does not claim every planned pointer/transition/click or full authored layout contract is implemented.",
+    "contractDeviations": [
+      {
+        "shots": [
+          "L20",
+          "L21",
+          "L22",
+          "L23",
+          "L36"
+        ],
+        "observed": "3D uses meaningful icons+step labels with highlighted focus, not full email/source documents or an actual review-choice action."
+      },
+      {
+        "shots": [
+          "L01",
+          "L28"
+        ],
+        "observed": "Prompt/dummy-data panels carry clause meaning; no attached source file or entire brief form is visible in sampled frame."
+      }
+    ],
+    "hypotheticalFactPolicy": "All feature/price/time values remain labelled dummy illustration. This review does not validate actual lamp specs, measured AI performance or a real user outcome.",
+    "unverified": [
+      "Within-shot animation progression",
+      "Audio listening",
+      "FinalMP4 after v2render",
+      "User aesthetic acceptance"
+    ],
+    "requiredBeforeDelivery": "Review actual finalMP4 clauseframes and transitions; this report only clears static semantic proofs for rendering."
+  },
+  "summary": {
+    "pass": 38,
+    "fix": 0,
+    "mandatoryStaticSemanticDefects": []
+  }
+}

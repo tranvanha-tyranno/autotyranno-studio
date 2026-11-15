@@ -1,0 +1,159 @@
+{
+  "schema": "china-cue-plan/1",
+  "status": "Exact beat placements authored from frozen content; local offsets checked after compilation; auditory review pending",
+  "policy": "Generated illustrative sound design and restrained editorial cues; never audio evidence of the maps, people or source locations. No cafe Foley. Speech remains primary.",
+  "cues": [
+    {
+      "beat": "o01",
+      "asset": "port-ambience",
+      "offsetSeconds": 0.35,
+      "gainDB": -4,
+      "durationSeconds": 5,
+      "role": "Short illustrative port machinery/air establishes the opening port-map node; generated design, not location sound."
+    },
+    {
+      "beat": "f01",
+      "asset": "rail-pass",
+      "offsetSeconds": 0.4,
+      "gainDB": -8,
+      "durationSeconds": 3,
+      "role": "Subtle movement under the industrial transport map; route and sound are illustrative, not a real railway recording."
+    },
+    {
+      "beat": "f02",
+      "asset": "factory-hum",
+      "offsetSeconds": 0.25,
+      "gainDB": -4,
+      "durationSeconds": 6,
+      "role": "Low machinery bed accompanies the visible original production-conveyor simulation."
+    },
+    {
+      "beat": "f05",
+      "asset": "wood-tick",
+      "offsetSeconds": 0.2,
+      "gainDB": -3,
+      "durationSeconds": 1.2,
+      "role": "One quiet tactile mark as the manufacturing-value-added number appears; no machine claim."
+    },
+    {
+      "beat": "r01",
+      "asset": "transition",
+      "offsetSeconds": 0,
+      "gainDB": -5,
+      "durationSeconds": 1.6,
+      "role": "Change from manufacturing networks to the property obligation network."
+    },
+    {
+      "beat": "r02",
+      "asset": "pencil-paper",
+      "offsetSeconds": 0.35,
+      "gainDB": -2,
+      "durationSeconds": 3.4,
+      "role": "Paper obligations and payment scheduling in the illustrative property cash-flow simulation."
+    },
+    {
+      "beat": "r04",
+      "asset": "low-pulse",
+      "offsetSeconds": 0.35,
+      "gainDB": -5,
+      "durationSeconds": 2.2,
+      "role": "Gentle emphasis on the negative property-investment chart, not a collapse alarm."
+    },
+    {
+      "beat": "h01",
+      "asset": "transition",
+      "offsetSeconds": 0,
+      "gainDB": -5,
+      "durationSeconds": 1.6,
+      "role": "Move from property balances into the household income/consumption loop."
+    },
+    {
+      "beat": "h03",
+      "asset": "pencil-paper",
+      "offsetSeconds": 0.4,
+      "gainDB": -4,
+      "durationSeconds": 2.4,
+      "role": "A restrained allocation gesture under the original illustrative income blocks."
+    },
+    {
+      "beat": "h04",
+      "asset": "wood-tick",
+      "offsetSeconds": 0.2,
+      "gainDB": -3,
+      "durationSeconds": 1.2,
+      "role": "Mark the household spending comparison with one soft nonliteral punctuation."
+    },
+    {
+      "beat": "t01",
+      "asset": "crane-set",
+      "offsetSeconds": 0.45,
+      "gainDB": -8,
+      "durationSeconds": 2.5,
+      "role": "Very quiet illustrative loading movement under the port/trade diagram, not observed crane audio or evidence of a real route."
+    },
+    {
+      "beat": "t04",
+      "asset": "wood-tick",
+      "offsetSeconds": 0.3,
+      "gainDB": -4,
+      "durationSeconds": 1.2,
+      "role": "One mark for the explicitly hypothetical export-minus-import arithmetic."
+    },
+    {
+      "beat": "d01",
+      "asset": "wood-tick",
+      "offsetSeconds": 0.25,
+      "gainDB": -3,
+      "durationSeconds": 1.2,
+      "role": "A measured visual count gesture for the labelled60-plus population simulation, not a clock."
+    },
+    {
+      "beat": "d04",
+      "asset": "factory-hum",
+      "offsetSeconds": 0.4,
+      "gainDB": -9,
+      "durationSeconds": 3,
+      "role": "Quiet return to the original factory/productivity simulation; no archival worker-audio claim."
+    },
+    {
+      "beat": "p01",
+      "asset": "wood-tick",
+      "offsetSeconds": 0.2,
+      "gainDB": -3,
+      "durationSeconds": 1.2,
+      "role": "Mark the nine-month GDP statistic without changing its period or meaning."
+    },
+    {
+      "beat": "p06",
+      "asset": "low-pulse",
+      "offsetSeconds": 0.3,
+      "gainDB": -5,
+      "durationSeconds": 2.2,
+      "role": "Subtle emphasis on whether obligations are resolved or shifted; avoid alarmist sound."
+    },
+    {
+      "beat": "e01",
+      "asset": "transition",
+      "offsetSeconds": 0,
+      "gainDB": -6,
+      "durationSeconds": 1.6,
+      "role": "Return to the combined income-assets-orders mechanism for the closing answer."
+    },
+    {
+      "beat": "e03",
+      "asset": "pencil-paper",
+      "offsetSeconds": 0.35,
+      "gainDB": -4,
+      "durationSeconds": 3,
+      "role": "A reflective paper/checking gesture as four data-reading questions are presented."
+    }
+  ],
+  "quietPivots": [
+    {
+      "beat": "r04"
+    },
+    {
+      "beat": "p06"
+    }
+  ]
+}

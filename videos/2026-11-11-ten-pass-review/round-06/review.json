@@ -1,0 +1,14 @@
+{
+  "round": 6,
+  "focus": "Dễ đọc phụ đề",
+  "problem": "Chữ nhỏ khi xem cửa sổ và một số caption có hai ý trong cùng cụm.",
+  "change": "Tăng chữ, rút độ dài cụm; không tạo thẻ một từ.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-05",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Phụ đề 47px đọc rõ hơn trên vải sáng; đã tách câu mua vào khỏi Hãy hình dung. 19 cụm, cụm rộng nhất 1345px nằm trong vùng an toàn 1660px. Giữ; heading 43s vẫn cần nền đỡ chữ như kế hoạch vòng 10."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

@@ -1,0 +1,546 @@
+[
+  {
+    "id": "cart-browse",
+    "providerPhotoId": 4971925,
+    "file": "assets/cart-browse.jpg",
+    "page": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+    "download": "https://images.pexels.com/photos/4971925/pexels-photo-4971925.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Gustavo Fring",
+    "sourceDescription": "Woman choosing groceries beside a full shopping cart",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 234180,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "cc489ce973f3d62a92a9cef3391dc4d48af40d661d17858ac97f705afbf24520",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Woman stands behind orange-handle grocery cart by refrigerated cabinets; cart visibly contains produce. Wide aisle recedes.",
+      "supports": "Shopping trip context or browsing",
+      "doesNotEstablish": "Shopping trip context or browsing; does not show what was planned, duration, basket growth or overspending.",
+      "focusPercent": [
+        56,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      56,
+      50
+    ]
+  },
+  {
+    "id": "cart-full",
+    "providerPhotoId": 4971949,
+    "file": "assets/cart-full.jpg",
+    "page": "https://www.pexels.com/photo/woman-with-cart-grocery-shopping-in-supermarket-4971949/",
+    "download": "https://images.pexels.com/photos/4971949/pexels-photo-4971949.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Gustavo Fring",
+    "sourceDescription": "Woman behind cart among produce",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 362629,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "5230b59e3149dd73eb34ca45895343fe27fe2670aaa92b3ebd5374e91d3e7ddc",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Woman bends toward orange-handle cart at aisle end. A pineapple and leafy groceries are visible in cart; bottles on right shelf.",
+      "supports": "Choosing/carrying groceries",
+      "doesNotEstablish": "Choosing/carrying groceries; not a matched before-after of the same trip and not evidence of an impulse decision.",
+      "focusPercent": [
+        48,
+        53
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      48,
+      53
+    ]
+  },
+  {
+    "id": "basket-full",
+    "providerPhotoId": 8422688,
+    "file": "assets/basket-full.jpg",
+    "page": "https://www.pexels.com/photo/smiling-woman-carrying-a-grocery-basket-8422688/",
+    "download": "https://images.pexels.com/photos/8422688/pexels-photo-8422688.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Kampus Production",
+    "sourceDescription": "Woman carrying basket of fresh produce",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 259305,
+    "width": 1920,
+    "height": 1282,
+    "sha256": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Smiling woman in green top holds red basket with leafy greens; background grocery shelves.",
+      "supports": "Neutral completed basket context only",
+      "doesNotEstablish": "Neutral completed basket context only; do not attach shame, irresponsibility or claimed overspending to person.",
+      "focusPercent": [
+        65,
+        55
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      65,
+      55
+    ]
+  },
+  {
+    "id": "phone-list",
+    "providerPhotoId": 27175517,
+    "file": "assets/phone-list.jpg",
+    "page": "https://www.pexels.com/photo/woman-looking-at-a-shopping-list-in-a-supermarket-27175517/",
+    "download": "https://images.pexels.com/photos/27175517/pexels-photo-27175517.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Helena Lopes",
+    "sourceDescription": "Woman with grocery basket checking smartphone; text on screen is not readable",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 246099,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened source image at1920px width after contact-sheet review.",
+      "observedSubjectAction": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read.",
+      "supports": "Consulting a phone while shopping",
+      "doesNotEstablish": "Consulting a phone while shopping; not proof that screen contains exact list or prices. If narration requires readable list, use an original illustrative list separately.",
+      "focusPercent": [
+        52,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      52,
+      50
+    ]
+  },
+  {
+    "id": "groceries-home",
+    "providerPhotoId": 5842506,
+    "file": "assets/groceries-home.jpg",
+    "page": "https://www.pexels.com/photo/bags-of-food-on-a-white-table-5842506/",
+    "download": "https://images.pexels.com/photos/5842506/pexels-photo-5842506.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Kaboompics.com",
+    "sourceDescription": "Mesh bags containing produce on white table",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 165445,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people.",
+      "supports": "Home shopping haul and category variety",
+      "doesNotEstablish": "Home shopping haul and category variety; not the actual purchases of any shopper shown and no waste evident.",
+      "focusPercent": [
+        45,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      45,
+      50
+    ]
+  },
+  {
+    "id": "vegetables-home",
+    "providerPhotoId": 7890015,
+    "file": "assets/vegetables-home.jpg",
+    "page": "https://www.pexels.com/photo/assorted-vegetables-in-a-basket-and-on-a-wooden-table-7890015/",
+    "download": "https://images.pexels.com/photos/7890015/pexels-photo-7890015.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "MART PRODUCTION",
+    "sourceDescription": "Vegetables unpacked on wooden table",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 217754,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind.",
+      "supports": "Meal ingredients or household inventory",
+      "doesNotEstablish": "Meal ingredients or household inventory; no exact household meal plan or food waste visible.",
+      "focusPercent": [
+        50,
+        58
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      58
+    ]
+  },
+  {
+    "id": "choose-produce",
+    "providerPhotoId": 7990381,
+    "file": "assets/choose-produce.jpg",
+    "page": "https://www.pexels.com/photo/a-woman-in-a-grocery-store-7990381/",
+    "download": "https://images.pexels.com/photos/7990381/pexels-photo-7990381.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Ivan S",
+    "sourceDescription": "Woman choosing produce in a grocery store",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 276645,
+    "width": 1920,
+    "height": 1281,
+    "sha256": "8265207f63c1c03e152c82b7c555d26b5af5574bcb61aa2f63db0cc0115e103f",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened source image at1920px width after contact-sheet review.",
+      "observedSubjectAction": "Woman at a checkout conveyor puts produce near belt; peppers, avocado/cucumber-like produce, scale/register are visible.",
+      "supports": "Unloading or checking out produce. Provider title suggests grocery selection but actual pixels show checkout, not shelf browsing.",
+      "doesNotEstablish": "Unloading or checking out produce. Provider title suggests grocery selection but actual pixels show checkout, not shelf browsing.",
+      "focusPercent": [
+        50,
+        54
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      54
+    ]
+  },
+  {
+    "id": "checkout-wide",
+    "providerPhotoId": 36772947,
+    "file": "assets/checkout-wide.jpg",
+    "page": "https://www.pexels.com/photo/cashier-at-supermarket-checkout-counter-36772947/",
+    "download": "https://images.pexels.com/photos/36772947/pexels-photo-36772947.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Radik 2707",
+    "sourceDescription": "Products and cashier at supermarket checkout",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 273301,
+    "width": 1920,
+    "height": 1458,
+    "sha256": "7bb74fdc68c4348b56b2f22c18249e5c655ad3d1ca4607582d8d7adbb6d2d661",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Older female cashier behind checkout; packaged snacks and small price labels occupy foreground; checkout equipment and store shelves visible.",
+      "supports": "Checkout display context. Labels use foreign prices",
+      "doesNotEstablish": "Checkout display context. Labels use foreign prices; do not equate to local prices or accuse this person/store of manipulation.",
+      "focusPercent": [
+        50,
+        54
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      54
+    ]
+  },
+  {
+    "id": "checkout-couple",
+    "providerPhotoId": 4199489,
+    "file": "assets/checkout-couple.jpg",
+    "page": "https://www.pexels.com/photo/couple-buying-groceries-at-a-supermarket-4199489/",
+    "download": "https://images.pexels.com/photos/4199489/pexels-photo-4199489.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Jack Sparrow",
+    "sourceDescription": "Couple and cashier at grocery checkout",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 719913,
+    "width": 1920,
+    "height": 2876,
+    "sha256": "87c20097bd209a224304afa2fa1a822d1fe4a6eb633413a0ee2ef1787132ba7b",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Portrait frame: couple facing cashier at checkout with register in foreground. People, food and scanner region visible.",
+      "supports": "Transaction context",
+      "doesNotEstablish": "Transaction context; contain portrait or crop carefully to keep faces and checkout objects. No basket-before/after or spending claim.",
+      "focusPercent": [
+        50,
+        48
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      48
+    ]
+  },
+  {
+    "id": "fridge-check",
+    "providerPhotoId": 8805274,
+    "file": "assets/fridge-check.jpg",
+    "page": "https://www.pexels.com/photo/a-woman-opening-a-fridge-8805274/",
+    "download": "https://images.pexels.com/photos/8805274/pexels-photo-8805274.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Mike Jones",
+    "sourceDescription": "Woman looking inside open refrigerator",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 789058,
+    "width": 1920,
+    "height": 2880,
+    "sha256": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded.",
+      "supports": "Checking fridge contents",
+      "doesNotEstablish": "Checking fridge contents; not proof fridge is empty, overfull or food spoiled. Use contain portrait.",
+      "focusPercent": [
+        55,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      55,
+      50
+    ]
+  },
+  {
+    "id": "fridge-kitchen",
+    "providerPhotoId": 36671734,
+    "file": "assets/fridge-kitchen.jpg",
+    "page": "https://www.pexels.com/photo/woman-exploring-fridge-in-cozy-kitchen-36671734/",
+    "download": "https://images.pexels.com/photos/36671734/pexels-photo-36671734.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Pew Nguyen",
+    "sourceDescription": "Woman checks refrigerator in home kitchen",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 156748,
+    "width": 1920,
+    "height": 1082,
+    "sha256": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible.",
+      "supports": "Checking inventory before a trip",
+      "doesNotEstablish": "Checking inventory before a trip; exact list/contents cannot be read. Strong horizontal context frame.",
+      "focusPercent": [
+        62,
+        51
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      62,
+      51
+    ]
+  },
+  {
+    "id": "sale-shelf",
+    "providerPhotoId": 9592528,
+    "file": "assets/sale-shelf.jpg",
+    "page": "https://www.pexels.com/photo/assorted-labeled-boxes-on-white-shelf-9592528/",
+    "download": "https://images.pexels.com/photos/9592528/pexels-photo-9592528.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Erik Mclean",
+    "sourceDescription": "Snack shelf with sale labels and prices",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 250047,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened source image at1920px width after contact-sheet review.",
+      "observedSubjectAction": "Close angled shelf of boxed crackers/snacks; two clear yellow labels show2/$5.50. The higher3.49regular price is crossed out on matching white/colored labels. This is a foreign historical retail example, not a Vietnamese current price.",
+      "supports": "Real foreign multi-unit price-display example. Do not translate values into Vietnamese prices or overlay hypothetical30k/50k as if those are printed here.",
+      "doesNotEstablish": "Real foreign multi-unit price-display example. Do not translate values into Vietnamese prices or overlay hypothetical30k/50k as if those are printed here.",
+      "focusPercent": [
+        50,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ]
+  },
+  {
+    "id": "milk-shelf",
+    "providerPhotoId": 7451957,
+    "file": "assets/milk-shelf.jpg",
+    "page": "https://www.pexels.com/photo/shelves-with-various-milk-boxes-7451957/",
+    "download": "https://images.pexels.com/photos/7451957/pexels-photo-7451957.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Nothing Ahead",
+    "sourceDescription": "Multiple milk cartons displayed with shelf price labels",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 404985,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "8ce67e4259f4cce49439c1eddf3daa04b9d52bf3113b172f158202eddb9807d6",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened source image at1920px width after contact-sheet review.",
+      "observedSubjectAction": "Shelves hold colorful cow-milk and plant-milk cartons with prominent brands and shelf price labels. The upper left includes Almond Breeze; many central cartons are dairy.",
+      "supports": "Milk-category choice and supermarket shelf variety. Not proof all packages are dairy, not a specific claimed Vietnamese milk price.",
+      "doesNotEstablish": "Milk-category choice and supermarket shelf variety. Not proof all packages are dairy, not a specific claimed Vietnamese milk price.",
+      "focusPercent": [
+        50,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ]
+  },
+  {
+    "id": "phone-plan-couple",
+    "providerPhotoId": 4047288,
+    "file": "assets/phone-plan-couple.jpg",
+    "page": "https://www.pexels.com/photo/muslim-couple-buying-groceries-4047288/",
+    "download": "https://images.pexels.com/photos/4047288/pexels-photo-4047288.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Jack Sparrow",
+    "sourceDescription": "Couple checks phone while choosing groceries",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 283732,
+    "width": 1920,
+    "height": 1281,
+    "sha256": "9d691ef5e8eafc895f922f5b6962e3009c29ccda831fb67a848ef7618fc60867",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Couple at shelf holds green-handled basket; woman holds smartphone and a small packaged item while man looks on. Screen text unreadable.",
+      "supports": "Consulting phone/product while shopping",
+      "doesNotEstablish": "Consulting phone/product while shopping; exact digital list is not visible and actual relationship not inferred.",
+      "focusPercent": [
+        52,
+        49
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      52,
+      49
+    ]
+  },
+  {
+    "id": "phone-basket",
+    "providerPhotoId": 4971909,
+    "file": "assets/phone-basket.jpg",
+    "page": "https://www.pexels.com/photo/happy-woman-grocery-shopping-in-supermarket-4971909/",
+    "download": "https://images.pexels.com/photos/4971909/pexels-photo-4971909.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Gustavo Fring",
+    "sourceDescription": "Woman with basket examining phone or grocery",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 279905,
+    "width": 1920,
+    "height": 1280,
+    "sha256": "1fdc1edde3af8a6198deec0e310af66e9efe714a1a9dfc01013f7b56ec60d263",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Woman with orange basket is at a white self-checkout kiosk, looking at grocery in hand. Scanner and touchscreen visible.",
+      "supports": "Self-checkout/scanning action context",
+      "doesNotEstablish": "Self-checkout/scanning action context; despite initial metadata description it is not reading shopping list.",
+      "focusPercent": [
+        53,
+        50
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      53,
+      50
+    ]
+  },
+  {
+    "id": "plum-price",
+    "providerPhotoId": 40914715,
+    "file": "assets/plum-price.jpg",
+    "page": "https://www.pexels.com/photo/fresh-plums-on-display-at-grocery-store-40914715/",
+    "download": "https://images.pexels.com/photos/40914715/pexels-photo-40914715.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Andri Arbianto",
+    "sourceDescription": "Plums displayed with price tag",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 302932,
+    "width": 1920,
+    "height": 1278,
+    "sha256": "296bffca948575dbfc800981bb4cd5acdf8de78c669eab94cdcea25bfe85c7c6",
+    "role": "Illustrative stock photograph; no depicted person is asserted to overspend or endorse this video.",
+    "inspectionStatus": "sampled-source-image-inspected",
+    "sourcePageVerifiedVia": "web.run search/open on 2026-11-13",
+    "inspection": {
+      "observer": "pilot_research agent",
+      "method": "Opened both contact sheets covering all16photos; full-source-critical-detail check noted separately.",
+      "observedSubjectAction": "Baskets of dark red plums in foreground; handwritten promotional/price card centered with shelves behind.",
+      "supports": "Produce display and price-card context only. Exact text partly small/foreign",
+      "doesNotEstablish": "Produce display and price-card context only. Exact text partly small/foreign; no claim about current local plum price.",
+      "focusPercent": [
+        50,
+        58
+      ],
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      58
+    ]
+  }
+]

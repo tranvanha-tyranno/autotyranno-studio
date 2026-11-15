@@ -1,0 +1,22 @@
+{
+  "checks": [
+    {
+      "selection": "comic",
+      "blockedBeforeOutputMutation": true,
+      "message": "comic: unchanged visual sources were rejected by the user as slide videos. Rewrite scene progression and inspect complete moving scenes before another long render. Changing revision, narration or audio does not resolve this feedback. See FINANCE_STYLES.md."
+    },
+    {
+      "selection": "flow",
+      "blockedBeforeOutputMutation": true,
+      "message": "flow: unchanged visual sources were rejected by the user as slide videos. Rewrite scene progression and inspect complete moving scenes before another long render. Changing revision, narration or audio does not resolve this feedback. See FINANCE_STYLES.md."
+    },
+    {
+      "selection": "both",
+      "blockedBeforeOutputMutation": true,
+      "message": "comic: unchanged visual sources were rejected by the user as slide videos. Rewrite scene progression and inspect complete moving scenes before another long render. Changing revision, narration or audio does not resolve this feedback. See FINANCE_STYLES.md."
+    }
+  ],
+  "sourceSHA256": "383b50ce037cfdcbad012370b591e00dff53c59a51a5bc3e7b07d7a040206e2a",
+  "scope": "Direct guard calls for comic/flow/both; all stop before creating a revision or invoking render/provider. Changed source still requires temporal review.",
+  "newVideoGenerated": false
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Enrich Vietnamese life explainers with purposeful 3D, documented local imagery and an explicit disclaimer",
+  "category": "workflow",
+  "rule": "For Vietnamese grocery and everyday-life explainers, retain the restored photo/gallery interface and pinned narrator while making visuals more alive with short actual 3D mechanisms, narration-matched photographs whose Vietnam locations are documented, and a distinct brief disclaimer after the hook.",
+  "action": "Plan the concrete visual mechanism for each 3D scene and cue it to the exact narration take; inspect locally relevant photos and record their source/location limits; show the explicit MIỄN TRỪ TRÁCH NHIỆM heading with a concise relevant body. Preserve the existing photo/gallery identity and exact approved voice/mix in visual-only revisions, then review the new render before verification.",
+  "rationale": "Direct human feedback on r04 requested more lively imagery, animated 3D, more photographs from Vietnam and a clearer disclaimer. Adding decorative motion, claiming a location from appearance, or changing the retained interface/voice would not fulfill that specific request.",
+  "applies_to": [
+    "Vietnamese grocery and everyday-life explainers whose real shopping/home context benefits from documented Vietnam imagery",
+    "Visual-only revisions of this life-topic photo/gallery workflow; international topics still require imagery relevant to their actual locations"
+  ],
+  "source_feedback_ids": [
+    "evt-000015-15e1b8b7915f"
+  ]
+}

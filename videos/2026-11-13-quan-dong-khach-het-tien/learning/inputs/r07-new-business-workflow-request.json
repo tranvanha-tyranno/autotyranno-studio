@@ -1,0 +1,34 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r07",
+  "reviewer": {
+    "kind": "human_user",
+    "name": "User"
+  },
+  "target": {
+    "clause_id": "__whole_video__",
+    "narration": "Grocery explainer205s: Một món cần mua, cả giỏ mang về.",
+    "start": 0,
+    "end": 205.0
+  },
+  "method": "human_feedback",
+  "evidence": [
+    {
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/final.mp4",
+      "role": "render",
+      "sha256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861",
+      "description": "Actual retained grocery r07 final,205s; this is the video to which the user opening approval refers."
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/learning/evidence/user-business-upgrade-request-2026-11-13.txt",
+      "role": "feedback",
+      "sha256": "f7513fe71cd0b208500284a2401c08236ec5aa4f977fe0f55362e8ec1aa27596",
+      "description": "Exact UTF-8 latest user request, including qualified approval and following new production request."
+    }
+  ],
+  "dimension": "workflow",
+  "decision": "revision_needed",
+  "quote": "tôi thấy khá ổn đỉnh rồi nhma k chỉ 3D thô cũng có nhiều loại kieur như bạn nên cho nhiều thứ vào video để focus đc ng dùng và nhieuf loại âm thanh nhấn mạnh cho video chứ bạn sài có đúng 1 loại yêu cầu nâng cấp và làm lại cho tôi lần này là là lân nâng cấp toàn diện cuối cùng hay cố ngắn tìm tòi làm video học hỏi để tạo ra 1 video tầm 10phut kết hợp nhiều thứ âm thanh toàn diện để lam ra 1 loại video chuyên nghiệp về kinh doanh hay gì đó bạn tự chopnj ự lên kịch bản. và k được ghi gì liên quan đến Tyranno gì hết, cái phàn này tôi sẽ cho bạn học sau",
+  "observation": "After qualified approval of the prior205-second r07, the user requests a comprehensive next workflow: more varied visual forms rather than raw3D alone, varied meaningful sounds, an original approximately10-minute professional business topic/script selected by the agent, and no visible channel branding. This is a development request and not a rejection of r07 or acceptance of a new video.",
+  "action": "Create a new isolated business batch with licensed contextual real photos/clips,2D arithmetic/charts, restrained kinetic text, useful original3D coffee objects, varied contextual Foley/music and no added channel brand; preserve narrator and exact timing, then inspect actual rendered output before verification."
+}

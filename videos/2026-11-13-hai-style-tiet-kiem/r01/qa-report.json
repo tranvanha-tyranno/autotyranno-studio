@@ -1,0 +1,170 @@
+{
+  "technical": "passed",
+  "videos": [
+    {
+      "style": "nhan-vat",
+      "file": "videos\\2026-11-13-hai-style-tiet-kiem\\r01\\nhan-vat\\final.mp4",
+      "sha256": "0b24de4826b75951cc3785420d430a3870423155644cecc342ae5f5e75828ee5",
+      "decodedFrames": 2333,
+      "fps": 30.0,
+      "size": [
+        1920,
+        1080
+      ],
+      "decodedAudioSeconds": 77.78133333333334,
+      "lastWordEnd": 76.961,
+      "audioPCMHash": "7a872010c4b1a3ac36288223207f93c5fc4e41f082e0420c9cc91d06ccb1ee1f",
+      "samples": [
+        {
+          "segment": "s01",
+          "frame": 36,
+          "file": "s01-1-0036.jpg"
+        },
+        {
+          "segment": "s01",
+          "frame": 101,
+          "file": "s01-2-0101.jpg"
+        },
+        {
+          "segment": "s01",
+          "frame": 170,
+          "file": "s01-3-0170.jpg"
+        },
+        {
+          "segment": "s02",
+          "frame": 229,
+          "file": "s02-1-0229.jpg"
+        },
+        {
+          "segment": "s02",
+          "frame": 277,
+          "file": "s02-2-0277.jpg"
+        },
+        {
+          "segment": "s02",
+          "frame": 327,
+          "file": "s02-3-0327.jpg"
+        },
+        {
+          "segment": "s03",
+          "frame": 401,
+          "file": "s03-1-0401.jpg"
+        },
+        {
+          "segment": "s03",
+          "frame": 491,
+          "file": "s03-2-0491.jpg"
+        },
+        {
+          "segment": "s03",
+          "frame": 586,
+          "file": "s03-3-0586.jpg"
+        },
+        {
+          "segment": "s04",
+          "frame": 677,
+          "file": "s04-1-0677.jpg"
+        },
+        {
+          "segment": "s04",
+          "frame": 760,
+          "file": "s04-2-0760.jpg"
+        },
+        {
+          "segment": "s04",
+          "frame": 848,
+          "file": "s04-3-0848.jpg"
+        },
+        {
+          "segment": "s05",
+          "frame": 943,
+          "file": "s05-1-0943.jpg"
+        },
+        {
+          "segment": "s05",
+          "frame": 1039,
+          "file": "s05-2-1039.jpg"
+        },
+        {
+          "segment": "s05",
+          "frame": 1140,
+          "file": "s05-3-1140.jpg"
+        },
+        {
+          "segment": "s06",
+          "frame": 1230,
+          "file": "s06-1-1230.jpg"
+        },
+        {
+          "segment": "s06",
+          "frame": 1306,
+          "file": "s06-2-1306.jpg"
+        },
+        {
+          "segment": "s06",
+          "frame": 1387,
+          "file": "s06-3-1387.jpg"
+        },
+        {
+          "segment": "s07",
+          "frame": 1471,
+          "file": "s07-1-1471.jpg"
+        },
+        {
+          "segment": "s07",
+          "frame": 1554,
+          "file": "s07-2-1554.jpg"
+        },
+        {
+          "segment": "s07",
+          "frame": 1642,
+          "file": "s07-3-1642.jpg"
+        },
+        {
+          "segment": "s08",
+          "frame": 1741,
+          "file": "s08-1-1741.jpg"
+        },
+        {
+          "segment": "s08",
+          "frame": 1842,
+          "file": "s08-2-1842.jpg"
+        },
+        {
+          "segment": "s08",
+          "frame": 1950,
+          "file": "s08-3-1950.jpg"
+        },
+        {
+          "segment": "s09",
+          "frame": 2060,
+          "file": "s09-1-2060.jpg"
+        },
+        {
+          "segment": "s09",
+          "frame": 2167,
+          "file": "s09-2-2167.jpg"
+        },
+        {
+          "segment": "s09",
+          "frame": 2279,
+          "file": "s09-3-2279.jpg"
+        }
+      ]
+    }
+  ],
+  "sameDecodedAudio": "Only one style in this revision",
+  "newProviderRequests": {
+    "voice": 1,
+    "image": 0,
+    "video": 0,
+    "music": 0,
+    "sfx": 0
+  },
+  "voiceCharacterCostHeader": "462",
+  "costLimits": "Header units are provider reported; no USD invoice inferred. Local rendering uses time/electricity.",
+  "castAssets": 30,
+  "userApproval": "pending",
+  "visualReview": "Pending actual sample viewing; full decode is not aesthetic or motion acceptance",
+  "continuousAudiovisualReview": false
+}

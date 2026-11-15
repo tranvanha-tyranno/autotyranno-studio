@@ -1,0 +1,75 @@
+{
+  "chapters": [
+    {
+      "id": "giam-cai-gi",
+      "title": "“Giảm” — nhưng giảm cái gì?",
+      "question": "Vì sao giảm lạm phát không đồng nghĩa bánh rẻ lại?",
+      "answer": "Tỷ lệ tăng dương nhỏ hơn vẫn làm giá tăng từ mặt bằng đã cao.",
+      "mechanism": "Cùng lượng/chất lượng, 20.000 tăng10% thành22.000 rồi tăng2% thành22.440. Một món chỉ minh họa, không phải CPI.",
+      "takeaway": "Bản tin nói tốc độ; người mua đang chịu mặt bằng giá.",
+      "example": "Chuỗi 20.000 ->22.000 ->22.440 là phép tính minh họa, không giá hiện hành.",
+      "nextQuestion": "Nếu hóa đơn bột giảm thật thì sao?",
+      "bridgeReason": "Phân biệt tỷ lệ và mức giá trả lời bản tin nhưng không trả lời động lực hạ giá của tiệm.",
+      "units": [
+        {
+          "id": "b08",
+          "text": "Hãy giữ đúng chiếc bánh ấy, cùng lượng nhân và kích cỡ. Từ hai mươi lên hai mươi hai nghìn là tăng mười phần trăm. Nếu kỳ sau chỉ tăng hai phần trăm, bánh không trở lại hai mươi nghìn. Nó thành hai mươi hai nghìn bốn trăm bốn mươi đồng trong phép tính.",
+          "tags": [
+            "bread",
+            "bakery"
+          ],
+          "kind": "price_path",
+          "data": {
+            "values": [
+              20000,
+              22000,
+              22440
+            ],
+            "rates": [
+              10,
+              2
+            ]
+          }
+        },
+        {
+          "id": "b09",
+          "text": "Tỷ lệ đã hạ từ mười xuống hai. Số tiền phải trả vẫn tăng. Đây là chỗ lời nói và kỳ vọng dễ đi lệch nhau: bản tin nói tốc độ tăng chậm lại, còn khách đang chờ giá hạ xuống. Hai việc ấy khác nhau.",
+          "tags": [
+            "payment",
+            "bread"
+          ],
+          "kind": "price_path",
+          "data": {
+            "values": [
+              20000,
+              22000,
+              22440
+            ],
+            "rates": [
+              10,
+              2
+            ]
+          },
+          "emphasis": "Tăng chậm hơn vẫn là tăng"
+        },
+        {
+          "id": "b10",
+          "text": "Một ổ bánh không đại diện cho lạm phát cả nước. Chỉ số chung nhìn một rổ nhiều hàng hóa và dịch vụ. Chiếc bánh ở đây chỉ giúp ta thấy phép tính: mức tăng mới có thể nhỏ, nhưng nó cộng lên phần giá đã tăng từ trước.",
+          "tags": [
+            "market",
+            "bread"
+          ]
+        },
+        {
+          "id": "b11",
+          "text": "Vì thế, chị Hạnh không thể nghe một tỷ lệ lạm phát thấp hơn rồi tự suy ra bao bột, tiền thuê và tiền điện của mình đã về giá cũ. Nhưng nếu có một hóa đơn thực sự giảm thì sao? Chẳng hạn, bột mua cho mẻ bánh mới đã rẻ hơn. Lúc ấy khách có được chờ bánh rẻ lại không?",
+          "tags": [
+            "flour",
+            "receipt"
+          ],
+          "headline": "Bột rẻ lại. Bánh có rẻ theo?"
+        }
+      ]
+    }
+  ]
+}

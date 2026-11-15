@@ -1,0 +1,28 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00202020,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,130,130,100,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.09,0:00:02.20,Default,,0,0,0,,{\fad(70,70)}Một nghìn tỷ đô la xuất {\c&HADC66A&}nhập khẩu.
+Dialogue: 0,0:00:02.86,0:00:05.13,Default,,0,0,0,,{\fad(70,70)}Nghe như Việt Nam vừa kiếm được một {\c&HADC66A&}gia tài.
+Dialogue: 0,0:00:05.78,0:00:07.88,Default,,0,0,0,,{\fad(70,70)}Nhưng khoan: đó không phải {\c&HADC66A&}lợi nhuận.
+Dialogue: 0,0:00:08.54,0:00:11.11,Default,,0,0,0,,{\fad(70,70)}Báo cáo mười tháng năm hai nghìn không trăm hai mươi {\c&HADC66A&}sáu ghi
+Dialogue: 0,0:00:11.11,0:00:12.84,Default,,0,0,0,,{\fad(70,70)}nhận thương mại hàng hóa vượt {\c&HADC66A&}mốc này.
+Dialogue: 0,0:00:13.50,0:00:16.00,Default,,0,0,0,,{\fad(70,70)}Con số cộng cả hàng bán ra lẫn hàng {\c&HADC66A&}mua vào.
+Dialogue: 0,0:00:16.65,0:00:17.98,Default,,0,0,0,,{\fad(70,70)}Hãy hình dung một {\c&HADC66A&}xưởng may:
+Dialogue: 0,0:00:18.03,0:00:20.59,Default,,0,0,0,,{\fad(70,70)}đơn hàng rất lớn, nhưng vải, máy {\c&HADC66A&}móc và
+Dialogue: 0,0:00:20.59,0:00:21.76,Default,,0,0,0,,{\fad(70,70)}thiết kế đều {\c&HADC66A&}phải mua.
+Dialogue: 0,0:00:22.42,0:00:25.34,Default,,0,0,0,,{\fad(70,70)}Doanh thu chạy qua xưởng không đồng nghĩa tiền ở lại {\c&HADC66A&}trong túi.
+Dialogue: 0,0:00:25.99,0:00:27.53,Default,,0,0,0,,{\fad(70,70)}Với nền kinh tế {\c&HADC66A&}cũng vậy.
+Dialogue: 0,0:00:28.19,0:00:31.04,Default,,0,0,0,,{\fad(70,70)}Điều đáng hỏi là doanh nghiệp Việt giữ được bao nhiêu {\c&HADC66A&}giá trị?
+Dialogue: 0,0:00:31.70,0:00:34.28,Default,,0,0,0,,{\fad(70,70)}Muốn tiến xa, không chỉ cần thêm {\c&HADC66A&}đơn hàng.
+Dialogue: 0,0:00:34.94,0:00:37.53,Default,,0,0,0,,{\fad(70,70)}Còn cần công nghệ, thiết kế, thương hiệu {\c&HADC66A&}và những
+Dialogue: 0,0:00:37.53,0:00:38.73,Default,,0,0,0,,{\fad(70,70)}doanh nghiệp nội {\c&HADC66A&}đủ mạnh.
+Dialogue: 0,0:00:39.39,0:00:41.29,Default,,0,0,0,,{\fad(70,70)}Mốc kỷ lục là tín hiệu {\c&HADC66A&}tích cực.
+Dialogue: 0,0:00:41.95,0:00:44.57,Default,,0,0,0,,{\fad(70,70)}Nhưng thước đo dài hạn vẫn là năng suất và {\c&HADC66A&}thu nhập.
+Dialogue: 0,0:00:45.23,0:00:48.31,Default,,0,0,0,,{\fad(70,70)}Việt Nam sẽ chỉ bán nhiều hơn, hay sẽ làm chủ {\c&HADC66A&}nhiều hơn?

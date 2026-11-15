@@ -1,0 +1,32 @@
+{
+  "id": "vn-family-portrait",
+  "pexelsID": 35986836,
+  "sourceURL": "https://www.pexels.com/photo/family-portrait-in-traditional-vietnamese-attire-35986836/",
+  "creator": "Xuân Quỳnh Đào",
+  "theme": "family",
+  "documentedLocation": "Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A family poses at an entrance in formal and traditional clothing.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-family-portrait.jpg",
+  "downloadURL": "https://images.pexels.com/photos/35986836/pexels-photo-35986836.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "4d8b431f6e8d91514d384fb207888888c63986220b3878cb32163afbc4d53e57",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

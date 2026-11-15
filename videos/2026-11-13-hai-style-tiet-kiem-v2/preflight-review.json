@@ -1,0 +1,28 @@
+{
+  "revision": "r01-preflight",
+  "method": "Rendered still inspection; no final video existed yet",
+  "decision": "revision_needed_before_video_render",
+  "observations": [
+    {
+      "file": "r01/comic/preflight-440.png",
+      "issue": "Comic receipt reads60k×30 then2m without200k inline; final summary text too wide for paper.",
+      "change": "Switch invoice rows to1.8m +200k in meal phase; shorten summary."
+    },
+    {
+      "file": "r01/flow/preflight-280.png",
+      "issue": "At narrated1.8m moment counter still27/30 and1.62m; cropped wallet text at left.",
+      "change": "Finish feed before phrase starts; remove clipped label."
+    },
+    {
+      "file": "r01/flow/preflight-440.png",
+      "issue": "Transparent printed total overlays printer keys during long fade.",
+      "change": "Replace fade with opaque paper emerging/moving from printer slot."
+    }
+  ],
+  "evidenceHashes": {
+    "r01/comic/preflight-440.png": "fdfaf8f28ae33e17ff5dd0c3d36d3e541a54edc6b2d7f5e080ff3ee062fd1d67",
+    "r01/flow/preflight-280.png": "13b45ff78e3f347d38299b856e4749e68e04e8196904d6993cb85aba55f00f5d",
+    "r01/flow/preflight-440.png": "891f39c5e3e9dd779420770402806b6ba99de40a4847d153747f92a4f1104aaa"
+  },
+  "userApproval": "pending"
+}

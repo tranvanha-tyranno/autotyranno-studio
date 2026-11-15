@@ -1,0 +1,1168 @@
+{
+  "status": "failed",
+  "frames": 17848,
+  "dataSHA256": "f2f42dd1c4b99b5bc51bf7dd923ed5f28fef948b9f6f62265d270009cae58ae6",
+  "propsSHA256": "132c24dff4d105bc5d43b8203a66bb9f1d771fb5862a86f66b12d69979d543ce",
+  "mixSHA256": "13630b9b84693c3f648f354535355e3bf149c569e258084aa89a4091675fb411",
+  "parts": [
+    {
+      "id": "opening",
+      "start": 0,
+      "end": 1169
+    },
+    {
+      "id": "one-cup",
+      "start": 1169,
+      "end": 3702
+    },
+    {
+      "id": "breakeven",
+      "start": 3702,
+      "end": 6004
+    },
+    {
+      "id": "busy-hours",
+      "start": 6004,
+      "end": 7882
+    },
+    {
+      "id": "discount",
+      "start": 7882,
+      "end": 10609
+    },
+    {
+      "id": "cash",
+      "start": 10609,
+      "end": 13662
+    },
+    {
+      "id": "one-week",
+      "start": 13662,
+      "end": 16283
+    },
+    {
+      "id": "ending",
+      "start": 16283,
+      "end": 17848
+    }
+  ],
+  "concurrency": 2,
+  "mediaCacheBytes": 167772160,
+  "userAcceptance": "pending",
+  "bundleFiles": [
+    {
+      "file": "122.bundle.js",
+      "sha256": "29e273474eedf6417c8bfa1650a058c00af1060f293c3333a062b427c241dd3c"
+    },
+    {
+      "file": "122.bundle.js.map",
+      "sha256": "4b3978da5d228018d18d2fbbb9872d0c25f8379a4cc8fae27a22cf9676fc1191"
+    },
+    {
+      "file": "1261.bundle.js",
+      "sha256": "a8ba7451ecc8eb4797614c04957ca9917fd9bc5d90b25420c0da06d001f86387"
+    },
+    {
+      "file": "1261.bundle.js.map",
+      "sha256": "8627a6ac8182fa210182917f393827ca841224919081466dad5e61f1b4345c03"
+    },
+    {
+      "file": "128.bundle.js",
+      "sha256": "df2625dd7a71669e340b0abdbddab611e749d5161c71688e5008b26772592776"
+    },
+    {
+      "file": "128.bundle.js.map",
+      "sha256": "34968be867db10bb6c9f097787c14cc76d02de72b34a0f054e9c87170e681385"
+    },
+    {
+      "file": "1283.bundle.js",
+      "sha256": "26d34df79ff2b73e4fd9caf77b851aaf427dec780dec7b248855ebfe7f95bc21"
+    },
+    {
+      "file": "1283.bundle.js.map",
+      "sha256": "48403b8b8850738f376dcb8d04f1ab58c40f2d8a5997fce1a755cad30b2526d6"
+    },
+    {
+      "file": "131.bundle.js",
+      "sha256": "e8fe0c7d628bffe48068c4aacc2568eaff8ffb6cfda920b8a40b3f829cbe7cea"
+    },
+    {
+      "file": "131.bundle.js.map",
+      "sha256": "6ceb64c79d23fa4c71e3dd710d3887e97a47ddc051e48af9ec33ae26c33bbd8a"
+    },
+    {
+      "file": "1394.bundle.js",
+      "sha256": "6a3113bbefa344fdbc0627de2a8937209eaea2960b5ba6ef4bc0cab1d395031b"
+    },
+    {
+      "file": "1394.bundle.js.map",
+      "sha256": "f5f3dd8418cebf8d4225055152d60dcb86b8215e6ed8258fb35efc4549e1ec42"
+    },
+    {
+      "file": "1434.bundle.js",
+      "sha256": "17ce6e28c60113ececd583a56be79e67de453ff93871bf7e6945c7ecf130a8c8"
+    },
+    {
+      "file": "1434.bundle.js.map",
+      "sha256": "59512d9ade80f434ad36de64fab9843dbedd30a6066ffbf9b39c8fe85d40fb1b"
+    },
+    {
+      "file": "1457.bundle.js",
+      "sha256": "820aa80814b1e69e610537c5908d1306081fc7a30338a63109658d9b8ffa206c"
+    },
+    {
+      "file": "1457.bundle.js.map",
+      "sha256": "98c2f07ac6b5e1175229b76b25d7c60de5a7130e3d43755960429885b7361840"
+    },
+    {
+      "file": "1722.bundle.js",
+      "sha256": "a5695742444e6be291c13ae26e85cfd002667dcc532e1c6e0eabf0aa8bd67250"
+    },
+    {
+      "file": "1722.bundle.js.map",
+      "sha256": "4ce5065d5fc41b1ed94fea29056ff1ec2d758f9c180c35ff2710f64a63c5b467"
+    },
+    {
+      "file": "1872.bundle.js",
+      "sha256": "59ada6c6359f993ec01de8af25b642076f199adae0f6328944c1b68553097f1f"
+    },
+    {
+      "file": "1872.bundle.js.map",
+      "sha256": "b93553160d5d3921a9dd1860857ec1036a4073181305afeb6d1367cae5ab1a71"
+    },
+    {
+      "file": "1898.bundle.js",
+      "sha256": "3ec825fcee0a8b6bea32d965132844d5117d49f8afad7829b98e4e4d6cb33b93"
+    },
+    {
+      "file": "1898.bundle.js.map",
+      "sha256": "b526b785b9a768163ab298ea1284379b9a1936782adfcd60f668ad591071183b"
+    },
+    {
+      "file": "1932.bundle.js",
+      "sha256": "ae7c2195f642ddacd13563ad7abea7e6d03e56987248e437188db4ee6c1029e9"
+    },
+    {
+      "file": "1932.bundle.js.map",
+      "sha256": "b0b7bb62f34f4891167c564b9ca525158e8baa385d7a0ad3be77f067b3fe8452"
+    },
+    {
+      "file": "205.bundle.js",
+      "sha256": "53d6daee1ac9e06db0ede669eee0efb00ea1d3815084d7d9ec480913290a2992"
+    },
+    {
+      "file": "205.bundle.js.map",
+      "sha256": "f3265cb5e891012555e3fe22a88b5026c3101f90e1f26d45a9787801ee20d0d6"
+    },
+    {
+      "file": "2104.bundle.js",
+      "sha256": "8a740a011b8a3dd34d4ad88c3b74bdeb7a960884748dc1584d592876d475afd1"
+    },
+    {
+      "file": "2104.bundle.js.map",
+      "sha256": "171f54556c5caac4cb41949a4be70c9d9082b55dcf82d590672dbbd79b1f64ea"
+    },
+    {
+      "file": "2184.bundle.js",
+      "sha256": "2f1c07da7d3b5999b99a4a8c0d6624a77be8bade812bc0afa61eeaeb147c96a2"
+    },
+    {
+      "file": "2184.bundle.js.map",
+      "sha256": "dca0bd5f7619593064e4fcb5a175f5f3fb7b20fda518825cc639648527eaaa4c"
+    },
+    {
+      "file": "2345.bundle.js",
+      "sha256": "cc3254c7dc38a4dd0142775490a6caf5bf52fb4f8629d0f445882b4a800774b3"
+    },
+    {
+      "file": "2345.bundle.js.map",
+      "sha256": "3b3b0d894d487a1f10ce7cbb993312accb0fb3247339164c3b6b654a13b60b26"
+    },
+    {
+      "file": "2388.bundle.js",
+      "sha256": "8304265dfc8cc423fd81606813d588c1c778b0d342b9b52e7960818aa216608b"
+    },
+    {
+      "file": "2388.bundle.js.map",
+      "sha256": "ee1ee961817383c8b9c8529eb7511fcde1750ab094c085c26a9fa12153cdf25a"
+    },
+    {
+      "file": "2439.bundle.js",
+      "sha256": "f43572ffe085e0efa2255417ccb0bd76fb3ca58562de52f7a8e56cbcd616f1a0"
+    },
+    {
+      "file": "2439.bundle.js.map",
+      "sha256": "8282de46551f2b9637188777f0df40a68fa0e104880ef70af595e6d61cb56078"
+    },
+    {
+      "file": "2546.bundle.js",
+      "sha256": "03c5e92b5ed28f256d9e71f44d2ea94febd16a7f07598e3a299b63af463bd87f"
+    },
+    {
+      "file": "2546.bundle.js.map",
+      "sha256": "6ba31671273c21df77035dc20384b8de80804f095bab4c4faf0696422aff7507"
+    },
+    {
+      "file": "2621.bundle.js",
+      "sha256": "38568c016f5d4a7632f5579d82c36ea1bade1b0a87ee2a2d5c7df8137b3dc0d9"
+    },
+    {
+      "file": "2621.bundle.js.map",
+      "sha256": "3169f71d2ae5dc5797df98e2138c03327c8241fb2a67410badbea9670ea32d0e"
+    },
+    {
+      "file": "2661.bundle.js",
+      "sha256": "1ad53da0bb8f30b179e7c9510eaa2b9934659c102f7e945353f23cde925ef084"
+    },
+    {
+      "file": "2661.bundle.js.map",
+      "sha256": "0e17173b33946bf0a028d14b809b6a6229bd8ef6cceca65ad46e52dbb95bf256"
+    },
+    {
+      "file": "2729.bundle.js",
+      "sha256": "62c743c91cfb1f40b66a9ffbfe995911d212a20c7eab4641887e694304df60f1"
+    },
+    {
+      "file": "2729.bundle.js.map",
+      "sha256": "f0e721b06b1812aeb9e3102f31da62ba45e6552f2f78f45301cfe92da3536001"
+    },
+    {
+      "file": "2771.bundle.js",
+      "sha256": "a6d14bb58a6c134782ee8946fbee5236950214c662b4fff3da9fa96b58ced9cb"
+    },
+    {
+      "file": "2771.bundle.js.map",
+      "sha256": "a7995862e04a1308537610265363b5796ecce0c0f61fc6395dd5090cea6a7e96"
+    },
+    {
+      "file": "2979.bundle.js",
+      "sha256": "4a77d0f245237610c57bc01a8456414e78e882f4c60fe124858bb9d1e869d0e2"
+    },
+    {
+      "file": "2979.bundle.js.map",
+      "sha256": "7914684e3c3efef699d8ccc2d02e7ccfd8fc47cc037913a59b715ae32928a805"
+    },
+    {
+      "file": "3090.bundle.js",
+      "sha256": "72d241172ade4e47ae69f3095338864ea54505f9f69595e5cb6306b4298e3967"
+    },
+    {
+      "file": "3090.bundle.js.map",
+      "sha256": "c8407590551c0d35d9f0e87d7edd1a731058fe2ced01ed314515472b3d48cb66"
+    },
+    {
+      "file": "3105.bundle.js",
+      "sha256": "8bc5d078290b95ec4b8ab01e3788d3b819063a79e00714bcaf210b3e201fd2a4"
+    },
+    {
+      "file": "3105.bundle.js.map",
+      "sha256": "809773cdbad26ca8ce2082cb066cf5b36d27bd52e6ed232a153b1b48b480aa4d"
+    },
+    {
+      "file": "3191.bundle.js",
+      "sha256": "e7379ef0a05cfa88e8316c5b5f4d0b983902efe4b39778a484fe14fd8f45b3a1"
+    },
+    {
+      "file": "3191.bundle.js.map",
+      "sha256": "df6be2f977f4d08c429d5162c20fba786d03f6f3875b5f6183d874b77d9b5585"
+    },
+    {
+      "file": "3283.bundle.js",
+      "sha256": "2e087b1ac4279d78ff476a06abf92f7ea861f1a6c5ce35fdd51e5b6f11b0ade6"
+    },
+    {
+      "file": "3283.bundle.js.map",
+      "sha256": "e2d2544f4f565979cd4ce684cec9a21a28e485fe49dc144845641caa29c87e59"
+    },
+    {
+      "file": "3313.bundle.js",
+      "sha256": "1be3b3a727b7335a9c10d3b06886e85d44206f71a452d0d79df8aa34c7b7198a"
+    },
+    {
+      "file": "3313.bundle.js.map",
+      "sha256": "5d5aea890fe5ce3a3da72be68e724ae20d6a7370354f3ef7eed445b76ebdb974"
+    },
+    {
+      "file": "3408.bundle.js",
+      "sha256": "fe4f2c2f95ccbcbab0e4e04bc46b446ac64ebb0e69071eeb585353cc9bd9faf6"
+    },
+    {
+      "file": "3408.bundle.js.map",
+      "sha256": "f817242d5b11b0e0ecc90636938c6d8b334924e3f02298b49b93686435dd9619"
+    },
+    {
+      "file": "362.bundle.js",
+      "sha256": "8cb55d581c44bd86bfdb41e34016e90a50954327249045147340426e44112713"
+    },
+    {
+      "file": "362.bundle.js.map",
+      "sha256": "a9978564d426c22f08853138433af619178f029a78333e71280330bc2414823c"
+    },
+    {
+      "file": "3656.bundle.js",
+      "sha256": "eff417e5693c6a3194a8cfc36192198187cff40b48cebc05208f5d80354eaf30"
+    },
+    {
+      "file": "3656.bundle.js.map",
+      "sha256": "7e5a824b696419e70ca54121f00cf897463267ae7e6109e046a1f54658e2aa4f"
+    },
+    {
+      "file": "3704.bundle.js",
+      "sha256": "a94846e7067c63a6c46b6ac39305045048f66a25ce930ab44a7e82df76ad8909"
+    },
+    {
+      "file": "3704.bundle.js.map",
+      "sha256": "342b2df349d2352d989821e449c2373448afa44799274e3713b4af554033721e"
+    },
+    {
+      "file": "3714.bundle.js",
+      "sha256": "08e6da362433a23c5f6c2febfcc288b5ff41994201bc75753c251611d16a0db8"
+    },
+    {
+      "file": "3714.bundle.js.map",
+      "sha256": "012a0f93c0494cf27f2c084c50c08617e8359edad5af65ff41144c7201bcee6d"
+    },
+    {
+      "file": "3776.bundle.js",
+      "sha256": "577475f2bdfb80bfde0b4df442d5ffa6378dcdae69f31f2b7f0e777a36ea2293"
+    },
+    {
+      "file": "3776.bundle.js.map",
+      "sha256": "0957723de7f4968b35c54e0aa26987be5d98a756bc62de607b77bd4c45cd7d2a"
+    },
+    {
+      "file": "379.bundle.js",
+      "sha256": "d6f03e799cc5f64174643a1d3d50bf1438658bad296c39720991da5ad248f621"
+    },
+    {
+      "file": "379.bundle.js.map",
+      "sha256": "41a743c60f71cf672017ebca06ad0b191c9b35cabe80567d1872e870413fd17d"
+    },
+    {
+      "file": "3996.bundle.js",
+      "sha256": "31a702ba1887af51510eeb63f2ecb3694146992e3f4a0bb5e9f4082bec2c4384"
+    },
+    {
+      "file": "3996.bundle.js.map",
+      "sha256": "410df778bd4027c3510af3cb098c40c8acfbaeb1df09020957d0a0ba65ce4124"
+    },
+    {
+      "file": "4140.bundle.js",
+      "sha256": "e1ea525342687306eefbf635ba2c1cac8933e3cbb28990a2e00a4473c03ff6e0"
+    },
+    {
+      "file": "4140.bundle.js.map",
+      "sha256": "f77cc7ad27eef9e6e5fd8f0f1fd5819bc6be3751497a7ebf20f4c33586d003a1"
+    },
+    {
+      "file": "4244.bundle.js",
+      "sha256": "3c962e85d07318fcfc119eef735d7a0f3ce8a7a34ee2c93bdea823703dd74816"
+    },
+    {
+      "file": "4244.bundle.js.map",
+      "sha256": "29eb70cb755af2d45ab30cf0b33b821425cb16e235573f8845de8e17497f67f9"
+    },
+    {
+      "file": "4461.bundle.js",
+      "sha256": "c2b9fb838890a01bd68f7c6746148a39d8fd22b56851bec4bf0be46431222a74"
+    },
+    {
+      "file": "4461.bundle.js.map",
+      "sha256": "66077654fab59bdcd55bb23487a67c562356667a517a9d8b72a53ab5781b068f"
+    },
+    {
+      "file": "4464.bundle.js",
+      "sha256": "8109699a8926400523894abe3b1daf4a98723006b2a8bda741feeec12b8935f2"
+    },
+    {
+      "file": "4464.bundle.js.map",
+      "sha256": "d8d3c55c67d8fef863c6a264a7b96851704dbec93f2f8473f4d44079c9414f23"
+    },
+    {
+      "file": "4553.bundle.js",
+      "sha256": "0b0a17b9e0a1874653a4f47fa80bf514a1b34a9c2a6dfa14f96eca5bd4504a96"
+    },
+    {
+      "file": "4553.bundle.js.map",
+      "sha256": "61d5a397d36c32532c750315d65ebc433f9a2a17da77d1167a6919b3446af0be"
+    },
+    {
+      "file": "4583.bundle.js",
+      "sha256": "47941da9d8828dd59514012a559d08922cf9724f6f350034ea20f75e4fd68d3e"
+    },
+    {
+      "file": "4583.bundle.js.map",
+      "sha256": "d142b23346af92ad6e05774b064b8dd24fa157c3deb4d1c176c96c47d3fe2526"
+    },
+    {
+      "file": "4612.bundle.js",
+      "sha256": "3ae97beeb4f96eb6f27cba5883e1adb8b90c6dfd25c9710ad62bc086e147ff6d"
+    },
+    {
+      "file": "4612.bundle.js.map",
+      "sha256": "4ebb1bc33f90c6a9304e29201f53cf087ca28258539a8d9f0d2cca5b4b472d5c"
+    },
+    {
+      "file": "4665.bundle.js",
+      "sha256": "4212913eb9f39e1873275a97e1f320e233e52689208eb20833cac565e00d03d7"
+    },
+    {
+      "file": "4665.bundle.js.map",
+      "sha256": "3d0e0d430141c438788e4effae72cc69ec05d71e809854e197c78caa5b4a00c2"
+    },
+    {
+      "file": "477.bundle.js",
+      "sha256": "60a0457053b4ef538581dbc67ee9cb5c75abc780544007949e240bd394619bf3"
+    },
+    {
+      "file": "477.bundle.js.map",
+      "sha256": "a17d3f1b89d9ba0b0e01029018acb077cf891781653bc41ae7a9711d53dd6c27"
+    },
+    {
+      "file": "4814.bundle.js",
+      "sha256": "bf8a49b504ef08352b6354fb1042baba5e7e4ea8b113fc94d3b69258f3095858"
+    },
+    {
+      "file": "4814.bundle.js.map",
+      "sha256": "e04344611036865ac31384d91a055e131b14711705f142737b5c22f6d179fbac"
+    },
+    {
+      "file": "4897.bundle.js",
+      "sha256": "4511512059793ac80fa8cc8301c2833bfb641baeada2c29739b7d5ec8a1ad21d"
+    },
+    {
+      "file": "4897.bundle.js.map",
+      "sha256": "ceb1da2e2a555a3676b53e931e19c5a6cd21eb8a1e9a4931b7067d41a064323a"
+    },
+    {
+      "file": "5034.bundle.js",
+      "sha256": "82960c646202763d51ff7423d51b8e149feddfd39ed128e1ff55546ca8cd64da"
+    },
+    {
+      "file": "5034.bundle.js.map",
+      "sha256": "cdad0f68c44fab10db499e18c3ba9ae9b291f549007c2c15b9b312a741753380"
+    },
+    {
+      "file": "5094.bundle.js",
+      "sha256": "faf6f9a4b3343cb84d30734e0dff6abf911fb7ec3eae134efc2d8259b5246f99"
+    },
+    {
+      "file": "5094.bundle.js.map",
+      "sha256": "2854f64d28781469814a3cb054831d2c3635c78dd8dd99d384f4cfb8782e6c0a"
+    },
+    {
+      "file": "5250.bundle.js",
+      "sha256": "9d0b65a04b0e61dbb1bf02696a16e833945bd864310fc81aa50e686d7d5b7ead"
+    },
+    {
+      "file": "5250.bundle.js.map",
+      "sha256": "c4c41e7a7f65ca5f4126c0fe2c1710c897cfc6dfc02a7fbd725a10bcee2d7d4c"
+    },
+    {
+      "file": "532.bundle.js",
+      "sha256": "ea326f8035d09dbd8c9ba285130aca165207f70d1855140528446ebdbc9e298f"
+    },
+    {
+      "file": "532.bundle.js.map",
+      "sha256": "5b88b179025f44e42124cb408c96fdba292c69d61e448077a8e1b25f59c5eb95"
+    },
+    {
+      "file": "5377.bundle.js",
+      "sha256": "44e90afc81b70e71f1462245f0486cce2371db80d8eb3b74379baa04cf87d0bf"
+    },
+    {
+      "file": "5377.bundle.js.map",
+      "sha256": "dfb85624c47babb467681786ff0757972ae660e887acbe0425e0e575adc970b6"
+    },
+    {
+      "file": "5409.bundle.js",
+      "sha256": "c13b2e90fa58f40c6fa226f4ddd5cbbc92cfa6796019453837c6c5b541d64293"
+    },
+    {
+      "file": "5409.bundle.js.map",
+      "sha256": "2ee97acf3a92800c038d2d8ae5918cc432c8605c833bc91affa08392c1038fcb"
+    },
+    {
+      "file": "5424.bundle.js",
+      "sha256": "b03c1895a71513aa000a91baee6e544ccb1ce059f6b57434dc54c8fcea571908"
+    },
+    {
+      "file": "5424.bundle.js.map",
+      "sha256": "4b2f25c11bbcb0acd911796af58a29387390520f6f1267f06181f7a4c9602810"
+    },
+    {
+      "file": "5643.bundle.js",
+      "sha256": "2bc06397d282c20734a2e56b9144f9bf2400372f049026ad032e07e7e2f76da1"
+    },
+    {
+      "file": "5643.bundle.js.map",
+      "sha256": "0bd9b8cf4707af87d92e7f1cffe126f368189a7dd8a45dcca442dc025a37c522"
+    },
+    {
+      "file": "5694.bundle.js",
+      "sha256": "18d9d6af28f6420f0e37d9ec2a2a77909bfff20a5ad41ec006f565773d46cb91"
+    },
+    {
+      "file": "5694.bundle.js.map",
+      "sha256": "e3c4717896960907678be702c9a6bbdb3e81c9aeef98001211e001d86fd66aed"
+    },
+    {
+      "file": "5700.bundle.js",
+      "sha256": "746e7b8e14c3533ad12d17888cd558a574a58264714ad208c29afe6b76afc44f"
+    },
+    {
+      "file": "5700.bundle.js.map",
+      "sha256": "195bba7fcc48e08df40417a8a3fa38a940003b21d6953bc2488ae0d922504a0a"
+    },
+    {
+      "file": "5702.bundle.js",
+      "sha256": "5dbddfe364da8fbdf2a1576251928dad4cb28085220ceba0b4bea94341cb1dfc"
+    },
+    {
+      "file": "5702.bundle.js.map",
+      "sha256": "12fac7fd6bb0c699efe2a06595bbff94a3534f5e892d005c418ade1fc35511e3"
+    },
+    {
+      "file": "5745.bundle.js",
+      "sha256": "0462992b0455ce9df3d9c1a0a8d462e3994e148cea04acccb4de276c6c8bf697"
+    },
+    {
+      "file": "5745.bundle.js.map",
+      "sha256": "b36623e58b736d83eb45caf411b3c858d7ac5a2de498de9beb3fd475efbed9d3"
+    },
+    {
+      "file": "5772.bundle.js",
+      "sha256": "61f95de83e1d8d271338bb53496d611112f909211ed3550f75106c58a07eb57c"
+    },
+    {
+      "file": "5772.bundle.js.map",
+      "sha256": "7d3c75ce00448dbe28f2226edddee882e143e19656dda10bba03bc2ebb7f6932"
+    },
+    {
+      "file": "5832.bundle.js",
+      "sha256": "3504505c94169408b3a01a7c9699fb6c0c0f762ea278a14d74b52b7711b92358"
+    },
+    {
+      "file": "5832.bundle.js.map",
+      "sha256": "087ecb531b35c2885e952ee6415cad2a649743d352d0f6f0cb5fae1512f192f5"
+    },
+    {
+      "file": "5871.bundle.js",
+      "sha256": "2f58854fd1c310a3ff8c238e16a7907ca1caa8c1af5ba5fc85e7efaef3b084d5"
+    },
+    {
+      "file": "5871.bundle.js.map",
+      "sha256": "1700af1fcd6bb86fdecdd86df7b4905ae45b6907fd3da10f5a1c51927b648e61"
+    },
+    {
+      "file": "6003.bundle.js",
+      "sha256": "6f097d640fdedf41334a2a01e30160753f65393a9df081267590ac95ffc0fee4"
+    },
+    {
+      "file": "6003.bundle.js.map",
+      "sha256": "fb9501296b3790ee7334a1c95b933eb0643c9bb81677846675e721c08aefcd14"
+    },
+    {
+      "file": "6121.bundle.js",
+      "sha256": "85070408a9950bf402187deaefdde1649a8ce9f514bf4c39aa5952b511a426d0"
+    },
+    {
+      "file": "6121.bundle.js.map",
+      "sha256": "e22066c0bb2fe014598a7f848569b9a07271cd105eb2b26aa45875622ba15375"
+    },
+    {
+      "file": "6194.bundle.js",
+      "sha256": "be7813b35c334c68617c248df3d8e32e4c5080eff87a444f3f6c415db7a8a037"
+    },
+    {
+      "file": "6194.bundle.js.map",
+      "sha256": "16c48f1333296d64ac8ce86cab03d85d748634b7d92b60900d184cdab47e0daf"
+    },
+    {
+      "file": "6232.bundle.js",
+      "sha256": "22551902eb41f4f373b10d9ed33b02b9a201f05158a8fb5e5ef07bb4527e733f"
+    },
+    {
+      "file": "6232.bundle.js.map",
+      "sha256": "b5f48dff1673950341896b31ee0f0f5210ab75c88688742a34afc6abbacdedfb"
+    },
+    {
+      "file": "629.bundle.js",
+      "sha256": "b55aad8f7f1d4ed6693f8b6074c147919f44512734eaa1277e041e04c190d987"
+    },
+    {
+      "file": "629.bundle.js.map",
+      "sha256": "6ac37d3e0e0a6a25db740269194679fb0d9a0e35e39cf14befea74014b71cfe0"
+    },
+    {
+      "file": "6290.bundle.js",
+      "sha256": "bb324e220887a5615c112ff699337d04da242ffa463367a58c15ec79d28a228b"
+    },
+    {
+      "file": "6290.bundle.js.map",
+      "sha256": "5061ef836e1c18dabf69345e9d1f6445ead988af1e6cb7ac9708d8ed2aeee6cb"
+    },
+    {
+      "file": "6333.bundle.js",
+      "sha256": "4c8dd8079812ebb8fa39931ef8268744f06af86f394801802b95842ff970cc08"
+    },
+    {
+      "file": "6333.bundle.js.map",
+      "sha256": "d07d3885f3b3138ae9b1a38a2bef90fa10162387d01c9a3e6fdc9906eaad1a6b"
+    },
+    {
+      "file": "6519.bundle.js",
+      "sha256": "abff2519b37dd1fa1949564bb1292c958807f5ad47ddcbf26175a2bb746123e2"
+    },
+    {
+      "file": "6519.bundle.js.map",
+      "sha256": "56471344e61c09a1dde26a587654dbe9f21ec8c188889d67f5c34e754e36bc99"
+    },
+    {
+      "file": "6553.bundle.js",
+      "sha256": "7ebd8639368dbacf92251ad265cb69830f900f1b53e58c3dabcf9bfffcd76ba9"
+    },
+    {
+      "file": "6553.bundle.js.map",
+      "sha256": "e199d61addbee09edddec423037d970af23e6b2e60b9c90c431ba1ae1f408ec7"
+    },
+    {
+      "file": "6563.bundle.js",
+      "sha256": "da79ba0a31af8bcf731ec78674f0b576f46a73ee2c80d638407d9e486257f2cb"
+    },
+    {
+      "file": "6563.bundle.js.map",
+      "sha256": "b5920670e21683dee3f7e1186f48db924bdfea5ab8e703c10310a99cc61eefc7"
+    },
+    {
+      "file": "6628.bundle.js",
+      "sha256": "3e0531c81fb56379feb20261d9122ae3bd73623f374fb85dd3e7784c7486faf7"
+    },
+    {
+      "file": "6628.bundle.js.map",
+      "sha256": "72d84d44c542912264ffcd874aa27145f5874b0a0653cd348e3c88c3c5f15ac1"
+    },
+    {
+      "file": "6645.bundle.js",
+      "sha256": "1debd04f8bfa7c3373be7c8fa4ef812a4e425a2d636a4cc7dba8d311378549e5"
+    },
+    {
+      "file": "6645.bundle.js.map",
+      "sha256": "c4869737ce66a6168af47fc14206cbd2b08bb67f445fa0e866f72684a313846b"
+    },
+    {
+      "file": "6689.bundle.js",
+      "sha256": "74a9aef5d51375cf467edeb9f8aa51bbb56644f4d618d244630db31e0e206c8b"
+    },
+    {
+      "file": "6689.bundle.js.map",
+      "sha256": "9c83a799e20d24e4f93d58996bdc41a71a1f7808bf5d8c07e6ef70b9c3062c93"
+    },
+    {
+      "file": "6856.bundle.js",
+      "sha256": "922892975606c4417b57fb136dceef1751ced1c1fac8d0e9042a2ac326229431"
+    },
+    {
+      "file": "6856.bundle.js.map",
+      "sha256": "1a0188c08bd01cd6ae49e2db6bbd00a3d76ee4b1030e6c7c7c6b72fea7a5aead"
+    },
+    {
+      "file": "6861.bundle.js",
+      "sha256": "9834a6422d282f94de0ea70de5d381fb67116b941ea8ac15085c60ffb39d9601"
+    },
+    {
+      "file": "6861.bundle.js.map",
+      "sha256": "5f6ef74fb1632c5dd01ae3db63b9a542472e6d5d57210e731b43a56ba419b340"
+    },
+    {
+      "file": "6871.bundle.js",
+      "sha256": "77d57895029e7dc66146f5183f4aa58d583835c2821aa4c63bd07209ef6b0af6"
+    },
+    {
+      "file": "6871.bundle.js.map",
+      "sha256": "d69fe3b25fca557f30f9edd82b1727e2039d818f67db4d097358f48fe726bf34"
+    },
+    {
+      "file": "6889.bundle.js",
+      "sha256": "95cd7bcadc79bb5472a48c5f45fde3c129f44a9f6147444b03a429cb89c04943"
+    },
+    {
+      "file": "6889.bundle.js.map",
+      "sha256": "b3256e309bdc0f17ed2f31d60a6cd215d3e9ab58f25ca8155a449cb5ff33e685"
+    },
+    {
+      "file": "7005.bundle.js",
+      "sha256": "4aef3e24bd9188a017b5dc8096a845b3d9e0652d94f0107ba05107d62bd85d4a"
+    },
+    {
+      "file": "7005.bundle.js.map",
+      "sha256": "a7ff786f3b8fdfb3316964db1aa2a99c71d7330b316b79606f77103329d29931"
+    },
+    {
+      "file": "7043.bundle.js",
+      "sha256": "aab316269de7dad217181fe84f6af2f47934575b44b5e6976d40203beef2c0e0"
+    },
+    {
+      "file": "7043.bundle.js.map",
+      "sha256": "676c8bc03f35fcd8c53b6ceb9761b5531b68471b2c6c86010aca5dbe99cb6dbb"
+    },
+    {
+      "file": "726.bundle.js",
+      "sha256": "791d9ee0ab30b6fa88d4a736a164a1d9b02fa8a034e58b960df91a57523d1752"
+    },
+    {
+      "file": "726.bundle.js.map",
+      "sha256": "171d48f7ef0511201562a626a3744988bca282dca996442d1ff0fbf4b297c8e8"
+    },
+    {
+      "file": "7270.bundle.js",
+      "sha256": "5f635c2ddaa72d80cceb117fabc445c4a7523499dd0bead521b69dcf451d180a"
+    },
+    {
+      "file": "7270.bundle.js.map",
+      "sha256": "4a85a2b8299211e6605d2d8b2536b769f05f55d35dc71cf2e4c49e1330e831c8"
+    },
+    {
+      "file": "7347.bundle.js",
+      "sha256": "c50d3f378adc204da2f1c72fddde42548a53d9b001671b18d2fd4c8b2f03eb3b"
+    },
+    {
+      "file": "7347.bundle.js.map",
+      "sha256": "02bff6cb220d94c9d2dc7e9891c7b56900c6cf0af77e1cd9768c024a0b9334fd"
+    },
+    {
+      "file": "7446.bundle.js",
+      "sha256": "8adcc1cb75a3023d5c578450a9e7a138694d222d02cf47f82610f02a4f03e073"
+    },
+    {
+      "file": "7446.bundle.js.map",
+      "sha256": "da12cb6660590620c4db0a6031775303a1903ef1619d0de2c1150356fa95acb4"
+    },
+    {
+      "file": "7455.bundle.js",
+      "sha256": "e10e8da7f1348d04ea77899a6c542ab782bcf67eba66c39194e23723bdf0934e"
+    },
+    {
+      "file": "7455.bundle.js.map",
+      "sha256": "c2cb539e2197789920ec6421b854788a469467d66d446b4839c37ec4a0440c6b"
+    },
+    {
+      "file": "7510.bundle.js",
+      "sha256": "2b6a6a7bd8c87da3d031396b27f060eab0cdd676e3eed5e8778e6d5fe8610471"
+    },
+    {
+      "file": "7510.bundle.js.map",
+      "sha256": "e3be093bbbfd86a6d17da04eafcaf13f93d8993fbff15bb28c280e67c80df1cf"
+    },
+    {
+      "file": "7532.bundle.js",
+      "sha256": "6cefd2a97d8d8d1b0acab9e9d74ace25d75bd0cf44a0fcb0e36ea0899120de8a"
+    },
+    {
+      "file": "7532.bundle.js.map",
+      "sha256": "4ff0bf43691bfac974d6d12bdba0c0dc8169f1cb2e2201aca553cb3a88cf7eec"
+    },
+    {
+      "file": "7618.bundle.js",
+      "sha256": "6b51c018d1469b238f31413e7f2574fb73c68b5f8b96a97e030847c6bbbf4c22"
+    },
+    {
+      "file": "7618.bundle.js.map",
+      "sha256": "ba4be3c342a98b7e01c5219ddcf40b03486e188d712193247ab822f42838f4d4"
+    },
+    {
+      "file": "7746.bundle.js",
+      "sha256": "3506fbe66d9fdbfac219aa447689719208920039c73efe1ad024d420cd4a29ca"
+    },
+    {
+      "file": "7746.bundle.js.map",
+      "sha256": "5b8a4c73f2016d38ead6476207a463be46794e30e68b41335776b08d898ec87f"
+    },
+    {
+      "file": "7775.bundle.js",
+      "sha256": "1d630a516fbf72f5249a11ffa925f5fe359e93b774c5a72e10e6ec16adcced90"
+    },
+    {
+      "file": "7775.bundle.js.map",
+      "sha256": "f3574aadcd8bc659f77558bfb0e6352c2c5cbcca45c397890655b42671546dfa"
+    },
+    {
+      "file": "7938.bundle.js",
+      "sha256": "9492c9beae4e61dead4693f0fa4e631d4d8889be43e663913cee58153084c9e1"
+    },
+    {
+      "file": "7938.bundle.js.map",
+      "sha256": "0651d8daccd5dec3b0aceaeddd8b6f142f8d306850214bc525031ed98f9777df"
+    },
+    {
+      "file": "7950.bundle.js",
+      "sha256": "ba47c065b51f41b4627c4334ba11aa5fbd5361268033f559d703dc8b4888a7e0"
+    },
+    {
+      "file": "7950.bundle.js.map",
+      "sha256": "6e9331f3407d457d8c401193011157c7ec64d663dc577a67786e1e18bd854dd2"
+    },
+    {
+      "file": "8008.bundle.js",
+      "sha256": "1467e98c8a5e93fd47209cc19969fc0ce66bbf97b75ba7d5ae322f65ccf7259d"
+    },
+    {
+      "file": "8008.bundle.js.map",
+      "sha256": "cc5f979f0e6822461ad73327e3d91184962414b2e5ac517c90bb73104f802906"
+    },
+    {
+      "file": "8043.bundle.js",
+      "sha256": "293ce6f27e28c4e81f23ee8bec3960278f4ec8f98c4416c7c6b71e24fa2fc441"
+    },
+    {
+      "file": "8043.bundle.js.map",
+      "sha256": "5669c3639c3cbe4db07c527ab27b40d2742b28ca749d7d34c5d4b3fdbb84aa86"
+    },
+    {
+      "file": "8094.bundle.js",
+      "sha256": "e9ddd76339854ea7cc302418ff3c762ea1f5932de3ab403b717006ad198f67ff"
+    },
+    {
+      "file": "8094.bundle.js.map",
+      "sha256": "78451a7342ce23e297ef3e18333e88137d53a3f20aba1e93318ef4eee5759445"
+    },
+    {
+      "file": "8103.bundle.js",
+      "sha256": "0a47dc477ef56c6aeed29f4ab01fc4365b5ec395ab7a5b78712328acbfd28225"
+    },
+    {
+      "file": "8103.bundle.js.map",
+      "sha256": "b1da50d3b1a89a663f53d5ee37bdeae3863011923f0662cdefa997da8ce262bf"
+    },
+    {
+      "file": "8178.bundle.js",
+      "sha256": "b2e32ba43a65c87c4f0dc20565b636deefa5e0ce61c3be53ea13fef96f409f0a"
+    },
+    {
+      "file": "8178.bundle.js.map",
+      "sha256": "3e491344f66864a788d5e725218cf8915bdc4ba43bfc856aab882b7c60c363b3"
+    },
+    {
+      "file": "8341.bundle.js",
+      "sha256": "f57fc6f797f6af056e8b00eca469a699e3fa8162c967b40730aaba782eaa1fff"
+    },
+    {
+      "file": "8341.bundle.js.map",
+      "sha256": "0d0397f19ac1682c0987530c0e5e2475f29fd646cbcb6e1b16c726a3c994a186"
+    },
+    {
+      "file": "8581.bundle.js",
+      "sha256": "76d85b0552e1f5e17a2b07a2c9f9b7be91774a39afb9a89d219acbc37e77b668"
+    },
+    {
+      "file": "8581.bundle.js.map",
+      "sha256": "6abf7afce2faf4049f9478340c91cae0e9197a5891d4d0af39812f196b298cf3"
+    },
+    {
+      "file": "8695.bundle.js",
+      "sha256": "4c89a27830bdf86e2bb8a6798b73c8d7546c8f6173fd68a90dc1220606f374b7"
+    },
+    {
+      "file": "8695.bundle.js.map",
+      "sha256": "289cd5445f302636180acefa75efa892ba5952b56ca3824059e2142be32659e6"
+    },
+    {
+      "file": "8724.bundle.js",
+      "sha256": "a829da2c1f4b659c26530edcfe2a9027a4551080ab15afdf400284f2c4333086"
+    },
+    {
+      "file": "8724.bundle.js.map",
+      "sha256": "aaecda14b3722cccaa67983fb33a49e62d0c342de62d4ed3273840d976a386ee"
+    },
+    {
+      "file": "8750.bundle.js",
+      "sha256": "ed0a035d57af6c53cef50cce9c7d7b84dbd6472b3a8a5a6e18262b4ec453869b"
+    },
+    {
+      "file": "8750.bundle.js.map",
+      "sha256": "d3d58069c0b303af758c0d5b0e594e3c3a9a1fa9f549bb53cf5823d25e90eb8f"
+    },
+    {
+      "file": "8796.bundle.js",
+      "sha256": "115ecd22847deab44db0a665447e8a97ff1c24141522f0e7f6f783860b3b49ec"
+    },
+    {
+      "file": "8796.bundle.js.map",
+      "sha256": "736375f0e208943ddef787f4e095bdd542dc90ce507805db2b9162656344f1f8"
+    },
+    {
+      "file": "88.bundle.js",
+      "sha256": "615f81532d365d9ab4476c6c76286a5a0ed930ba0cb4832391f03f660bfc27af"
+    },
+    {
+      "file": "88.bundle.js.map",
+      "sha256": "35260108b59e6d5c432fbfab3df9ebe319f07ebb66f6c8a706596d7c68ceaf91"
+    },
+    {
+      "file": "881.bundle.js",
+      "sha256": "d2c71528d3b80c8d84db26040088953aeb0dddc906104e4a07ad4bb05ba9510b"
+    },
+    {
+      "file": "881.bundle.js.map",
+      "sha256": "c300d8e93253587a763fddee67093574184f78b1bfd846e3c91b3643000e5ca8"
+    },
+    {
+      "file": "900.bundle.js",
+      "sha256": "f37876d815e31f10b3da2e77463b5334b49d674541d4d04b548a93c17fc7ec99"
+    },
+    {
+      "file": "900.bundle.js.map",
+      "sha256": "4d7f6db8c6b145ad9df863acd52c35d01ec6097acdfdc6fa8c8158a8f0956c39"
+    },
+    {
+      "file": "9076.bundle.js",
+      "sha256": "0065a5d0c92c65a77d704c030f163dce1b51a16e43be98165f56dab2768188e4"
+    },
+    {
+      "file": "9076.bundle.js.map",
+      "sha256": "ac12f2199362f1e93139dd45a52fd3ac2293380ea0a009311b75c1ef791b5aca"
+    },
+    {
+      "file": "914.bundle.js",
+      "sha256": "41c1f9b269260919cd4232bbeb000cd87b97280e2398debf7099c0ca5f53c90f"
+    },
+    {
+      "file": "914.bundle.js.map",
+      "sha256": "43741dee676a27144faf32c829b2a6440e2ce96b5e030da928160b563f4c958e"
+    },
+    {
+      "file": "9141.bundle.js",
+      "sha256": "9d296294820545bdb7a77978acd3995babdc7d7b4d6b6fe9565d46509a3d872f"
+    },
+    {
+      "file": "9141.bundle.js.map",
+      "sha256": "6f0a6fd338d00a66ee35e44fce699a2a707a7bec0e7e15702f33a796fb676e0d"
+    },
+    {
+      "file": "9357.bundle.js",
+      "sha256": "aff4446cce70f74b06870de3b91a6e27386b1723bb36e54aba0f83b3ce5095a4"
+    },
+    {
+      "file": "9357.bundle.js.map",
+      "sha256": "f70a410dc97bfe14f52f01be119648ec0b1429c31a7ebaaf76203f0faf6ef348"
+    },
+    {
+      "file": "9370.bundle.js",
+      "sha256": "df7a2b4d63e3762215950e5b0face6f08672352f0e40e4ab7c59d9a0b2decdd3"
+    },
+    {
+      "file": "9370.bundle.js.map",
+      "sha256": "d18b22fd95b7d849b97d4f4cc1c3c9e470ce40176ee482cbe4196d8010b0da37"
+    },
+    {
+      "file": "9388.bundle.js",
+      "sha256": "1a3cb421d6a73910d2980c02e747a86f3f7a0f44ebad47d4a248fe300b013d9d"
+    },
+    {
+      "file": "9388.bundle.js.map",
+      "sha256": "0e6df0970ba4310d2930248797b5a5a37d6a44d2e4e28bf38e2920c061424d7c"
+    },
+    {
+      "file": "9499.bundle.js",
+      "sha256": "d1678d3be4eb644d7a6df0567a98878641d2d6074c8230d25249dd335133fa23"
+    },
+    {
+      "file": "9499.bundle.js.map",
+      "sha256": "06fc4a810fe10dc37262df40ef41651c25751dfa9b7ade4b96e0466135691c52"
+    },
+    {
+      "file": "9596.bundle.js",
+      "sha256": "847edf12bb51a7bebd49536e03f31e6d66f219556e1b48d02c5a6cf1568127e9"
+    },
+    {
+      "file": "9596.bundle.js.map",
+      "sha256": "4ad2f04ee7a8a52e9c9bb585e7e6c66b3537b46541125e6f9c52f39a84ce796f"
+    },
+    {
+      "file": "9701.bundle.js",
+      "sha256": "b46f9f17b83ee79d431446629d51d43e17e3b05cca0cb09aa029fd9b55e7eb7c"
+    },
+    {
+      "file": "9701.bundle.js.map",
+      "sha256": "8c50a919780131efe9de2b58df15fe284796af51e3124bb7ad78247dcbfbbf07"
+    },
+    {
+      "file": "9923.bundle.js",
+      "sha256": "e66b743d5ff9922e68ca584aebcbfeeaa40c503f48a913979f91a52494eaeda0"
+    },
+    {
+      "file": "9923.bundle.js.map",
+      "sha256": "368165f50866d8f06ed07203e9ee1c4597b06c683394bb52b5c6a7a9b35b98ad"
+    },
+    {
+      "file": "bundle.js",
+      "sha256": "d59f30cf1b447ac64d5e7c374833f722ce35036b416038351128a83f396a58df"
+    },
+    {
+      "file": "bundle.js.map",
+      "sha256": "ce080a260391c663ae748f23aa66fc02d5f9bbe7340bfe9881e4a7e0fea3e1e7"
+    },
+    {
+      "file": "favicon.ico",
+      "sha256": "4b00984723c2fed999967eebf9b59f88350f7ab38716f2faf3587829e0f9be77"
+    },
+    {
+      "file": "index.html",
+      "sha256": "856d6dafb3b86998b5925f725dcab1549e05e91afa3f4b197b05e18ea70fb0f8"
+    },
+    {
+      "file": "public/business/clip-busy-cafe-43a8c3da.mp4",
+      "sha256": "659c6b3d749c9e2dfd46b0e5a5146729411b8152653ab878facc25339b11f808"
+    },
+    {
+      "file": "public/business/clip-busy-cafe-b14b55fe.mp4",
+      "sha256": "659c6b3d749c9e2dfd46b0e5a5146729411b8152653ab878facc25339b11f808"
+    },
+    {
+      "file": "public/business/clip-cafe-tables-43a8c3da.mp4",
+      "sha256": "9ca407227782c75d22f6975c5c85794056d6915547a17210edcab910059a70ed"
+    },
+    {
+      "file": "public/business/clip-cafe-tables-8483e1bf.mp4",
+      "sha256": "9ca407227782c75d22f6975c5c85794056d6915547a17210edcab910059a70ed"
+    },
+    {
+      "file": "public/business/clip-close-shift-43a8c3da.mp4",
+      "sha256": "c9bb72d8a0d1a972f588f82cab999bc127ce274e07fadfb96d54bee864b52bad"
+    },
+    {
+      "file": "public/business/clip-close-shift-4eb5ff74.mp4",
+      "sha256": "c9bb72d8a0d1a972f588f82cab999bc127ce274e07fadfb96d54bee864b52bad"
+    },
+    {
+      "file": "public/business/clip-close-shift-b66ab498.mp4",
+      "sha256": "c9bb72d8a0d1a972f588f82cab999bc127ce274e07fadfb96d54bee864b52bad"
+    },
+    {
+      "file": "public/business/clip-espresso-extract-43a8c3da.mp4",
+      "sha256": "0297f060b055a6a9d930401ea9ad604bca098fe3dcdd993448429fbdf11718a6"
+    },
+    {
+      "file": "public/business/clip-espresso-extract-b0b9a71b.mp4",
+      "sha256": "0297f060b055a6a9d930401ea9ad604bca098fe3dcdd993448429fbdf11718a6"
+    },
+    {
+      "file": "public/business/clip-espresso-extract-b14b55fe.mp4",
+      "sha256": "0297f060b055a6a9d930401ea9ad604bca098fe3dcdd993448429fbdf11718a6"
+    },
+    {
+      "file": "public/business/clip-espresso-extract-eb23eaf6.mp4",
+      "sha256": "0297f060b055a6a9d930401ea9ad604bca098fe3dcdd993448429fbdf11718a6"
+    },
+    {
+      "file": "public/business/clip-espresso-flow-43a8c3da.mp4",
+      "sha256": "c8db119c2ce2f08affcbfa663bd7431020a237ee930007657260fc23b5b5ea4c"
+    },
+    {
+      "file": "public/business/clip-espresso-flow-67368f40.mp4",
+      "sha256": "c8db119c2ce2f08affcbfa663bd7431020a237ee930007657260fc23b5b5ea4c"
+    },
+    {
+      "file": "public/business/clip-espresso-flow-eaf1b1d1.mp4",
+      "sha256": "c8db119c2ce2f08affcbfa663bd7431020a237ee930007657260fc23b5b5ea4c"
+    },
+    {
+      "file": "public/business/clip-espresso-grinder-43a8c3da.mp4",
+      "sha256": "da54f53d2813f52f36844d0ca0951e34407059999c2f56f1467301dc8fbc6050"
+    },
+    {
+      "file": "public/business/clip-phone-payment-43a8c3da.mp4",
+      "sha256": "028e651cc2e90993f2d6192eb4fd4e7f7663c207d0a23609145a2055f774d068"
+    },
+    {
+      "file": "public/business/clip-pour-milk-43a8c3da.mp4",
+      "sha256": "bb77abece5a3187ee684de4019a89feafd77807394a7fa0dc1b754444d74d41f"
+    },
+    {
+      "file": "public/business/clip-pour-milk-a4763218.mp4",
+      "sha256": "bb77abece5a3187ee684de4019a89feafd77807394a7fa0dc1b754444d74d41f"
+    },
+    {
+      "file": "public/business/clip-serve-coffee-0b6a338b.mp4",
+      "sha256": "fed9bdd26b8192018764528328e11e4c6fa9461a01cc9c2ab8ba152cc0eb259a"
+    },
+    {
+      "file": "public/business/clip-serve-coffee-35c0910b.mp4",
+      "sha256": "fed9bdd26b8192018764528328e11e4c6fa9461a01cc9c2ab8ba152cc0eb259a"
+    },
+    {
+      "file": "public/business/clip-serve-coffee-43a8c3da.mp4",
+      "sha256": "fed9bdd26b8192018764528328e11e4c6fa9461a01cc9c2ab8ba152cc0eb259a"
+    },
+    {
+      "file": "public/business/clip-serve-coffee-ef18119d.mp4",
+      "sha256": "fed9bdd26b8192018764528328e11e4c6fa9461a01cc9c2ab8ba152cc0eb259a"
+    },
+    {
+      "file": "public/business/clip-steam-milk-43a8c3da.mp4",
+      "sha256": "75e428827e7f11290fc0e286196eda4946489c151d9675f27a8dd63366940289"
+    },
+    {
+      "file": "public/business/clip-steam-milk-54baabcc.mp4",
+      "sha256": "75e428827e7f11290fc0e286196eda4946489c151d9675f27a8dd63366940289"
+    },
+    {
+      "file": "public/business/coffee-roast-location-unverified.jpg",
+      "sha256": "1b8200b4229300e357f617a1c4315fa3e3839fa60aba2adbcd60bc63a08594c8"
+    },
+    {
+      "file": "public/business/data.json",
+      "sha256": "f2f42dd1c4b99b5bc51bf7dd923ed5f28fef948b9f6f62265d270009cae58ae6"
+    },
+    {
+      "file": "public/business/global-espresso-extraction.jpg",
+      "sha256": "2b5345fc50a4a5eb91aae97e7f2d30bb8bb1dec21c35e3e24b843d6c6c79d10f"
+    },
+    {
+      "file": "public/business/global-milk-frothing.jpg",
+      "sha256": "09e274f81fe2ac4752b46694b67ccb5a43d25090d5b2c97c906aac4a0d57ae32"
+    },
+    {
+      "file": "public/business/global-milk-pour.jpg",
+      "sha256": "43e70731f4fdf0a8801db078c10d6e10683ba1a36aa93b24844171be6d73ae2b"
+    },
+    {
+      "file": "public/business/mix.wav",
+      "sha256": "13630b9b84693c3f648f354535355e3bf149c569e258084aa89a4091675fb411"
+    },
+    {
+      "file": "public/business/vn-cafe-oxy-tables.jpg",
+      "sha256": "7df2ad476c6e858bb4ff8d4f0b32ccfbec37793dbd6158b40c0f8c988e19a445"
+    },
+    {
+      "file": "public/business/vn-cafe-tayho.jpg",
+      "sha256": "fc17ef993ec267fdbaeb95d68b300cfb8478e1bfa5d1fbc35b6c0958ece53d76"
+    },
+    {
+      "file": "public/business/vn-dalat-cafe.jpg",
+      "sha256": "9f60279d5e23d525f999d07b630e824807a358dcc73d101855f4c4a4e92e707c"
+    },
+    {
+      "file": "public/business/vn-hanoi-cup.jpg",
+      "sha256": "e8f611edc4605a948710af5fd77ea1351582fba056a51549a7655f7bcdb7863f"
+    },
+    {
+      "file": "public/business/vn-hue-cafe.jpg",
+      "sha256": "f4e6598e1f7ce3895d8e50e860b84ef305e75157daa3b26cffe3c5c84771c8a4"
+    },
+    {
+      "file": "public/business/vn-rin-cafe-cup.jpg",
+      "sha256": "d745cd45f2f36f266e903f90875483782e2eade78bb9e8d5ea5862b9c83a5f3f"
+    },
+    {
+      "file": "public/business/vn-saigon-coffee-food.jpg",
+      "sha256": "688db09f54bab63d24020e725a7b5e839e4ba587719c3e3a04561e9c0eb0cbc8"
+    },
+    {
+      "file": "public/business/vn-saigon-coffee-phin.jpg",
+      "sha256": "aff0bcd661fb29840d5d86ccef05c1484452c2bdc4f970efad530116b2d19537"
+    }
+  ],
+  "errorType": "ValueError",
+  "error": "Render step failed; retained log: C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-quan-dong-khach-het-tien\\render-attempts\\20261113T034943Z\\part-00.log"
+}

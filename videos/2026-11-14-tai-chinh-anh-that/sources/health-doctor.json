@@ -1,0 +1,32 @@
+{
+  "id": "health-doctor",
+  "pexelsID": 4266936,
+  "sourceURL": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266936/",
+  "creator": "Cedric Fauntleroy",
+  "theme": "health",
+  "documentedLocation": null,
+  "locationEvidence": "No country field found; do not label Vietnam",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A clinician and patient talk in a clinic; the clinician holds a tablet.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/health-doctor.jpg",
+  "downloadURL": "https://images.pexels.com/photos/4266936/pexels-photo-4266936.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "c8a581cdecfcf2e1310f228f84add38343c4d06b58568a77d6ee3d4abbd7b1d3",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r04",
+  "dimension": "visual_relevance",
+  "decision": "accepted",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "c12+a1-graphic-visibility-only",
+    "narration": "Scoped checks of c12 price comparison and a1 checklist visibility only; intervening shots are not included in this verdict.",
+    "start": 130,
+    "end": 180
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "Both scoped actual render frames were independently opened: c12 preserves the full price graphic and a1 preserves all checklist rows without competing headline overlap. The accepted target is two specific graphic-visibility fixes only.",
+  "action": "Apply the fit-and-overlay inspection rule to meaningful graphics, and re-inspect the actual final crop for each new use.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r04/long/final.mp4",
+      "sha256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128"
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-c12-r04.jpg",
+      "sha256": "94ee4299120fe048074026d5fac5b998b7fb1ec04c803145fb317a7f4973e35c"
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-a1-r04.jpg",
+      "sha256": "5ed13a674fde74daf4b133a65689c570a0f11c20e987639eead3fb919a95fe4f"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-visibility-r04-review.md",
+      "sha256": "68e546c24ed33a3a0de958afa72895a5e0d1d9ea84a98872d3dd04bac8f6cf9c"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "shots": [
+    {
+      "id": "L01",
+      "status": "pass",
+      "observed": "Ô giao việc hiển thị yêu cầu viết email chào hàng cho đèn Mẫu A, nút Tạo bản nháp và con trỏ. Ảnh tay gõ bên cạnh hỗ trợ thao tác, không thay đối tượng email. Operation strip confirms the prompt text reveals between 0.23s and 1.23s; it does not show attaching a source file.",
+      "issues": [],
+      "evidence": "proofs/L01-53.jpg",
+      "frame": 53,
+      "evidenceSHA256": "38a083e430729cabebb71bf35687bb5a976a63a1537c03be19cbc97651ff8ae3",
+      "fullNarratedText": "Bạn giao cho AI viết một email chào hàng.",
+      "requiredVisual": "Màn hình trợ lý minh họa: nhập yêu cầu “Viết email giới thiệu Đèn bàn Mẫu A”, đính kèm bảng thông tin giả định, con trỏ bấm Tạo nháp. Ô email thật sự hiện trên cùng khung.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L02",
+      "status": "pass",
+      "observed": "Email nháp xuất hiện đầy đủ với người nhận khach@vidu.invalid, tiêu đề Mẫu A, lời Mua ngay!, lời sai không dây/120.000; nhãn chưa kiểm tra và Gửi khóa. Danh tính nay khớp caseFacts.",
+      "issues": [],
+      "evidence": "proofs/L02-129.jpg",
+      "frame": 129,
+      "evidenceSHA256": "ce8106243050c0419177b58af386ea6a20d49f700d8acc1ba1d2264f8e960a0f",
+      "fullNarratedText": "Vài giây sau, bản nháp đã nằm trên màn hình.",
+      "requiredVisual": "Email hiện người nhận, chủ đề và hai dòng nội dung; nhãn BẢN NHÁP / CHƯA GỬI. Cho dòng chữ ngắn xuất hiện hoàn chỉnh, không cắt sang người ghi sổ.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L03",
+      "status": "pass",
+      "observed": "Lời Dùng không dây tô đỏ đứng sát mô hình đèn có dây và nguồn USB-C có dây/Không pin. Không còn credit Pexels gán cho mô hình 3D. Toàn khung ghi dữ liệu giả định.",
+      "issues": [],
+      "evidence": "proofs/L03-202.jpg",
+      "frame": 202,
+      "evidenceSHA256": "7dc94dc54d0f25612e24457a29d81fdf7e67949c3c80df362dcaf258a43ec9e5",
+      "fullNarratedText": "Nhưng nếu nó hứa sai một tính năng,",
+      "requiredVisual": "Cận email gạch đỏ “Dùng không dây”, đặt sát dòng nguồn “USB-C có dây · Không pin”; vạch nối đúng hai mệnh đề mâu thuẫn. Ảnh đèn có dây chỉ hỗ trợ nhận diện vật thể.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L04",
+      "status": "pass",
+      "observed": "Câu hỏi khách về pin/ra ngoài mang nhãn phản hồi giả định nếu gửi; trách nhiệm xác nhận lại thuộc người gửi; hộp trả lời còn chưa gửi/đang xác minh.",
+      "issues": [],
+      "evidence": "proofs/L04-254.jpg",
+      "frame": 254,
+      "evidenceSHA256": "f98000c1d82f013e363ef2e6116125193bc48779761fa46dd86573333ba43f41",
+      "fullNarratedText": "ai là người phải trả lời khách?",
+      "requiredVisual": "Bên cạnh bản nháp mở bong bóng “Phản hồi giả định nếu gửi: Đèn có pin để mang ra ngoài đúng không?”. Con trỏ chuyển sang ô Người duyệt: Bạn, giữ nhãn chưa gửi.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L05",
+      "status": "pass",
+      "observed": "Thời gian viết 2 phút cạnh baseline12; kiểm tra+sửa chờ đo, tổng chưa có. Không gọi bản nháp nhanh là toàn bộ việc xong.",
+      "issues": [],
+      "evidence": "proofs/L05-291.jpg",
+      "frame": 291,
+      "evidenceSHA256": "5d4a3136056b2e9ccb50f7f08231cb09c2a02c02076df7962adf933494adfd70",
+      "fullNarratedText": "Nhanh thì có nhanh.",
+      "requiredVisual": "Ghim email nhỏ bên trái; log ví dụ hiện riêng hàng Viết nháp: 2 phút. Hai hàng Kiểm tra và sửa / Tổng chưa được đánh dấu hoàn thành.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L06",
+      "status": "pass",
+      "observed": "Bản nháp trông hoàn chỉnh bên trái vẫn có hai lỗi; bốn ô kiểm tính năng/giá/nhu cầu/trách nhiệm bên phải chưa tick. Trạng thái chưa đối chiếu nguồn rõ.",
+      "issues": [],
+      "evidence": "proofs/L06-333.jpg",
+      "frame": 333,
+      "evidenceSHA256": "a02ab56177c72bdf70aaf38dcea362b3d2f0d44411fcb5c882637b2350514578",
+      "fullNarratedText": "Nhưng công việc đã xong,",
+      "requiredVisual": "Bản nháp trông sạch bên trái; bên phải ba ô kiểm: đúng tính năng, đúng giá, đúng nhu cầu. Chưa ô nào được tự động đánh dấu đạt.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L07",
+      "status": "pass",
+      "observed": "Luồng AI tạo nháp → Bạn kiểm tra; chính câu không dây được gạch bỏ và dòng nguồn có dây/không pin đặt cạnh, cho thấy người nhận lại một lỗi cụ thể để xử lý.",
+      "issues": [],
+      "evidence": "proofs/L07-393.jpg",
+      "frame": 393,
+      "evidenceSHA256": "8d5fbbffe5c4576d3d7037e2911fb72def8409377250d4ba1ce1c859c57e7cb9",
+      "fullNarratedText": "hay mới chuyển sang một người khác ngồi sửa?",
+      "requiredVisual": "Luồng Nháp AI → Người kiểm tra; cùng email được mở ở chế độ sửa có vết xóa câu “Dùng không dây” và ghi chú đối chiếu nguồn.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L08",
+      "status": "pass",
+      "observed": "Disclaimer hiển thị rõ đèn/tính năng/giá/thời gian giả định, chỉ bàn phần việc và không dự báo nghề nghiệp cá nhân.",
+      "issues": [],
+      "evidence": "proofs/L08-518.jpg",
+      "frame": 518,
+      "evidenceSHA256": "4496bad112c52033634cc3ac8e0a0290975fbf9bece6138d115c5cf6320e7bd0",
+      "fullNarratedText": "Đây là tình huống minh họa để bàn về công việc, không phải dự báo nghề nghiệp của từng người.",
+      "requiredVisual": "Giữ hình thu nhỏ email và đèn giả định; thông báo ngắn “Tình huống minh họa / Không phải dự báo nghề nghiệp cá nhân”. Không thay bằng ảnh họp công sở.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L09",
+      "status": "pass",
+      "observed": "Cùng email nháp, người nhận khach@vidu.invalid, lời Mua ngay!, tính năng/giá sai và Gửi khóa; đúng đối tượng phân tích, không còn headset thay email.",
+      "issues": [],
+      "evidence": "proofs/L09-619.jpg",
+      "frame": 619,
+      "evidenceSHA256": "84cbf8436ed5d4e2d69281cd4d4f9c3ac0603b469a179536a16f8289c24bcf35",
+      "fullNarratedText": "Cứ nhìn một email tưởng như rất đơn giản.",
+      "requiredVisual": "Toàn bộ cửa sổ email: người nhận, chủ đề, bản nháp và nút gửi đang khóa; ba điểm kiểm tra sắp được mở. Không dùng headset làm đại diện cho email.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L10",
+      "status": "pass",
+      "observed": "Hồ sơ Mẫu A giả định có USB-C có dây, không pin và giá1.200.000; mô hình đèn giữ dây nguồn nhìn thấy. Chỉ xác nhận tính nhất quán nội bộ, không thông số sản phẩm thật.",
+      "issues": [],
+      "evidence": "proofs/L10-692.jpg",
+      "frame": 692,
+      "evidenceSHA256": "c1a5570a287136b1ff9d0a6ec80c99ee0c2e3bfefdf0bfaf75e8892d7a0a58a4",
+      "fullNarratedText": "Trước khi viết, bạn phải hiểu sản phẩm,",
+      "requiredVisual": "Mở hồ sơ giả định Đèn bàn Mẫu A: ảnh/3D đèn với dây nguồn nhìn thấy, hai dòng USB-C có dây và Không pin. Con trỏ đọc từng dòng.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L11",
+      "status": "pass",
+      "observed": "Lời khách cần dùng nơi không có ổ cắm đứng cạnh nguồn USB-C có dây/không pin và cảnh báo chưa thể mặc định phù hợp. Nhu cầu với hạn chế nguồn điện nhìn thấy cùng khung.",
+      "issues": [],
+      "evidence": "proofs/L11-746.jpg",
+      "frame": 746,
+      "evidenceSHA256": "8c757a0743f94c5667b5cfc92b0ec4afd44c1215a0579ef2956ec95be8e5b199",
+      "fullNarratedText": "biết người đọc đang cần gì",
+      "requiredVisual": "Mở yêu cầu khách giả định: “Tôi cần đèn dùng ở nơi không có nguồn điện”. Khoanh phần nhu cầu dùng không dây và liên kết trở lại email.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L12",
+      "status": "pass",
+      "observed": "Cam kết được phép là nguồn USB-C có dây/không pin; lời Dùng không dây bị gạch. Mối quan hệ nguồn giả định→giới hạn lời hứa trực tiếp.",
+      "issues": [],
+      "evidence": "proofs/L12-800.jpg",
+      "frame": 800,
+      "evidenceSHA256": "b19b3e4f065fad5df5642d99f8276dc93b2212d9185efc957d429b1735e34d22",
+      "fullNarratedText": "và chọn điều có thể cam kết.",
+      "requiredVisual": "Hai danh mục Cam kết được / Không được hứa: “Dùng nguồn USB-C qua dây” được chọn; “Dùng không dây” bị chặn. Dòng được phép được đưa vào phần hướng dẫn viết.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L13",
+      "status": "pass",
+      "observed": "Giá nguồn1.200.000 được tô sáng bên trái, giá nháp120.000 bên phải có trạng thái chưa khớp. Cặp số cùng sản phẩm đọc được, không coi dữ liệu minh họa là giá bán thật.",
+      "issues": [],
+      "evidence": "proofs/L13-884.jpg",
+      "frame": 884,
+      "evidenceSHA256": "8b8f7ffc52eb336f0fc031ad69a4aecf3261991f473476c6e68b63203f6fa127",
+      "fullNarratedText": "Sau khi viết, bạn còn phải kiểm tra số liệu,",
+      "requiredVisual": "Email có giá 120.000đ nằm cạnh nguồn 1.200.000đ; highlight chữ số 0 bị thiếu, con trỏ đi từ tệp nguồn sang trường cần kiểm. Đây là bước phát hiện, chưa ghi nhận đã lưu bản sửa.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L14",
+      "status": "pass",
+      "observed": "Mua ngay! trong bản nháp ban đầu được đối chiếu Mời bạn tham khảo. ở bản sửa. Mua ngay! đã xuất hiện tại L02/L09; nhãn nay là Giọng thúc ép, không còn gọi bản thân mệnh lệnh là hứa tính năng. Sampled before/after panels show the result of editing, not a visible literal deletion/typing sequence.",
+      "issues": [],
+      "evidence": "proofs/L14-933.jpg",
+      "frame": 933,
+      "evidenceSHA256": "742848b4e7e9b782d4596fbe1f4a5701dc7357e6318c9e8dec4158e738254fc9",
+      "fullNarratedText": "sửa giọng điệu,",
+      "requiredVisual": "Giữ cùng cửa sổ email, cận đúng lời chào mời: gạch “Mua ngay!” và thay bằng “Mời bạn tham khảo.”. Chỉ một thay đổi ngắn, không bắt đọc hai đoạn dài trong nhịp 1 giây.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L15",
+      "status": "pass",
+      "observed": "Hội thoại khách hỏi không có nguồn USB dùng được không; vùng Cần trả lời ghi đang chờ xác minh nguồn điện và trạng thái chưa trả lời/tiếp tục theo dõi.",
+      "issues": [],
+      "evidence": "proofs/L15-971.jpg",
+      "frame": 971,
+      "evidenceSHA256": "8467b17a0d10bb73b3c7fa7a6b1098de9b7aa2b4902f6e55c53a3662becbcfef",
+      "fullNarratedText": "rồi theo dõi phản hồi.",
+      "requiredVisual": "Luồng hội thoại giả định hiện câu “Nếu không có nguồn USB thì dùng được không?”; kéo câu hỏi đó vào mục Cần trả lời, không dùng ảnh cầm tai nghe thay cho phản hồi.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L16",
+      "status": "pass",
+      "observed": "Cùng email Mẫu A và khach@vidu.invalid với Mua ngay!/không dây/120.000; AI tạo nháp, chưa kiểm tra và khóa gửi. Khớp ý hỗ trợ bản nháp, không gán cả quy trình hoàn tất.",
+      "issues": [],
+      "evidence": "proofs/L16-1024.jpg",
+      "frame": 1024,
+      "evidenceSHA256": "cb870bbf797135224a56db45b9d6689fb2d3a62eb17903e43e2452aac4bdd4c2",
+      "fullNarratedText": "AI có thể hỗ trợ bản nháp.",
+      "requiredVisual": "Nhập lại lời nháp ngắn trong email, cạnh nhãn AI hỗ trợ bản đầu; chỉ cột Tạo nháp có dấu xong, cột kiểm tra vẫn để chờ.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L17",
+      "status": "pass",
+      "observed": "Ba bước trước gửi gồm tính năng/giá/giọng điệu và khóa CHƯA ĐƯỢC GỬI biểu đạt bản nháp chưa phải kết quả. Không hiện dấu đã duyệt.",
+      "issues": [],
+      "evidence": "proofs/L17-1092.jpg",
+      "frame": 1092,
+      "evidenceSHA256": "0d05d300b372f89ee48d053372de07071cd0b271fcbbdc63b8e86721e406b6f2",
+      "fullNarratedText": "Nhưng bản nháp chưa phải kết quả cuối cùng.",
+      "requiredVisual": "Chuyển cận nút Gửi bị khóa; bảng kiểm còn lỗi tính năng và giá. Mọi thứ trong cùng cửa sổ email thay vì dùng chồng hồ sơ xa ngữ cảnh.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L18",
+      "status": "pass",
+      "observed": "Nhu cầu nơi không có ổ cắm, khách cần không dây và Mẫu A cần dây USB-C nằm cạnh câu trơn tru Phù hợp mọi góc làm việc. Có cảnh báo chưa đáp đúng nhu cầu; mâu thuẫn bối cảnh nay nhìn thấy cụ thể.",
+      "issues": [],
+      "evidence": "proofs/L18-1180.jpg",
+      "frame": 1180,
+      "evidenceSHA256": "07e40799ab098bd985df494c029271b5b5768ac4660e234e82d9cdc7110e4ad5",
+      "fullNarratedText": "Một câu nghe trơn tru vẫn có thể thiếu bối cảnh.",
+      "requiredVisual": "Câu viết trơn tru “Phù hợp mọi góc làm việc” đứng cạnh yêu cầu cần dùng không có nguồn; đường đối chiếu bị đứt, nhãn Chưa trả lời nhu cầu xuất hiện.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L19",
+      "status": "pass",
+      "observed": "Nguồn Mẫu A ghi có dây/không pin/1.200.000 cạnh tóm tắt sai không dây/120.000, với trạng thái chưa khớp và chỉ dẫn đối chiếu nguồn giả định.",
+      "issues": [],
+      "evidence": "proofs/L19-1290.jpg",
+      "frame": 1290,
+      "evidenceSHA256": "00e9b343a2b49a469397a5ae302e1eec2ff5f0e600653877a2e4ed9cf6921a68",
+      "fullNarratedText": "Một bảng nhìn rất gọn vẫn cần đối chiếu với tài liệu gốc.",
+      "requiredVisual": "Bảng sạch gồm Nguồn cấp/Pin/Giá nằm cạnh trang nguồn gốc giả định; lần lượt nối từng hàng, giữ lỗi dùng không dây và thiếu số 0 có thể thấy.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L20",
+      "status": "pass",
+      "observed": "Ba mặt phẳng nay có nội dung: phong bì Tạo bản đầu, checklist Kiểm tra, người với dấu xác nhận Quyết định; cùng nhãn Mẫu A và tuyến ba bước. Đây là sơ đồ biểu tượng có chiều sâu, không phải ảnh tài liệu email.",
+      "issues": [],
+      "evidence": "proofs/L20-1360.jpg",
+      "frame": 1360,
+      "evidenceSHA256": "764a1a4bb7f162d4c83768660222d0a6bb0c4890d962bc5a5a0f75904cf41b42",
+      "fullNarratedText": "Thử tách công việc thành ba phần:",
+      "requiredVisual": "Email, tệp nguồn và con dấu duyệt được đặt trong không gian 3D thành ba bước Tạo bản đầu → Kiểm tra → Quyết định. Các vật thể là đúng tài liệu của tình huống.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L21",
+      "status": "pass",
+      "observed": "Cùng ba bước, thẻ phong bì Tạo bản đầu được tô coral/nâng lên, hai thẻ sau giữ trung tính. Trọng tâm khớp mệnh đề tạo bản đầu.",
+      "issues": [],
+      "evidence": "proofs/L21-1402.jpg",
+      "frame": 1402,
+      "evidenceSHA256": "8cb10f604e2fa9ef21621ce460dcafe336a9e3f1c7e0a76d5be042315bb81af5",
+      "fullNarratedText": "tạo bản đầu,",
+      "requiredVisual": "Giữ cùng góc máy của ba bước, chỉ email nháp sáng lên và một đoạn nội dung được tạo; hai bước sau vẫn chờ.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L22",
+      "status": "pass",
+      "observed": "Thẻ giữa checklist Kiểm tra được tô coral/nâng, thẻ tạo nháp và quyết định giữ trung tính; chữ phụ nói đối chiếu thông tin gốc. Đủ phân biệt bước kiểm tra trong sơ đồ.",
+      "issues": [],
+      "evidence": "proofs/L22-1428.jpg",
+      "frame": 1428,
+      "evidenceSHA256": "9f39cce891e4210d32125296fc3e60b0a0ce0aeeb82367950e29feaa0b14967a",
+      "fullNarratedText": "kiểm tra,",
+      "requiredVisual": "Không đổi sang cảnh mới; đèn chiếu sáng cột nguồn và bảng kiểm, hai điểm tính năng/giá được nối đối chiếu.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L23",
+      "status": "pass",
+      "observed": "Thẻ người+check Quyết định được tô coral/nâng, hai bước trước giữ nguyên; chữ phụ nhắc trách nhiệm trước gửi. Chưa biểu diễn thao tác bấm một lựa chọn thật.",
+      "issues": [],
+      "evidence": "proofs/L23-1457.jpg",
+      "frame": 1457,
+      "evidenceSHA256": "fe7bbcd35620dd89a16238954ac04794b3de7c9280d1f0cb508fa5f0c5b575f1",
+      "fullNarratedText": "và quyết định.",
+      "requiredVisual": "Cột Quyết định sáng lên với ba lựa chọn Sửa tiếp / Không gửi / Duyệt bản đúng; con trỏ người dùng chọn, không để AI tự bấm gửi.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L24",
+      "status": "pass",
+      "observed": "Ba bước tính năng/giá/giọng điệu cạnh khóa CHƯA ĐƯỢC GỬI, không gộp tất cả thành AI tự gửi. Email vẫn ở trạng thái chưa gửi trong câu chuyện.",
+      "issues": [],
+      "evidence": "proofs/L24-1511.jpg",
+      "frame": 1511,
+      "evidenceSHA256": "3cbaa5ffd780ab20beeec7b74defe8f72872e357accfc908788c56538de1d868",
+      "fullNarratedText": "Đừng gom cả ba vào một nút gửi.",
+      "requiredVisual": "Biểu tượng một nút Gửi tất cả bị gạch; tách thành ba ô có khóa kiểm tra và ô người duyệt. Cùng email chưa được gửi ra ngoài.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L25",
+      "status": "pass",
+      "observed": "Viết bản nháp2phút cạnh viết+kiểm+sửa15phút và nhãn nhanh hơn một phần/chưa chắc năng suất cao hơn. Phân biệt phần việc với toàn nhiệm vụ; đây là số giả định.",
+      "issues": [],
+      "evidence": "proofs/L25-1590.jpg",
+      "frame": 1590,
+      "evidenceSHA256": "3eafe6397376bc5c6b10412ae9be8f75dd0e5fb86d50ede51c343049bae6bd0f",
+      "fullNarratedText": "Chỗ đáng nâng cấp không chỉ là viết nhanh hơn,",
+      "requiredVisual": "Hàng Viết nháp 2 phút hiện ngắn nhưng phần Kiểm tra/Sửa còn kéo dài; câu sai được đánh dấu ngay trong email cạnh timer.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L26",
+      "status": "pass",
+      "observed": "Hai lỗi không dây/120.000 hiện cạnh nguồn có dây/không pin/1.200.000 trước khi có gửi; trạng thái chưa khớp, mô tả phát hiện sớm chứ chưa tuyên bố đã sửa.",
+      "issues": [],
+      "evidence": "proofs/L26-1651.jpg",
+      "frame": 1651,
+      "evidenceSHA256": "2f7eeaca0144342d9fe4fb42a8219ecf67c8ab4f149772d9b8dc2ee6e72a75cf",
+      "fullNarratedText": "mà là phát hiện sai sớm hơn.",
+      "requiredVisual": "Tại nút kiểm tra trước gửi, hệ thống soi đúng câu Dùng không dây và giá sai. Hai cảnh báo xuất hiện trước phong bì được cho phép rời hộp thư.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L27",
+      "status": "pass",
+      "observed": "Chọn nhiệm vụ nháp email Mẫu A; hai lựa chọn đối chiếu bảng/trả lời khách mờ. Có con trỏ và dấu chỉ chọn một việc kiểm tra được.",
+      "issues": [],
+      "evidence": "proofs/L27-1708.jpg",
+      "frame": 1708,
+      "evidenceSHA256": "0e048765d256e65708bfbee61565cd09ab0d7b9d5a191761f45ef6cc9da16a58",
+      "fullNarratedText": "Ngày mai, chọn một việc nhỏ,",
+      "requiredVisual": "Danh sách ba nhiệm vụ cụ thể có soạn email được chọn duy nhất; lịch Ngày mai gắn vào nhiệm vụ, hai việc khác không chọn.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L28",
+      "status": "pass",
+      "observed": "Thẻ dữ liệu giả định ghi Mẫu A và domainvidu.invalid, không dùng dữ liệu khách thật. Domain nay thống nhất với email khach@vidu.invalid; đây là khung nhắc phạm vi dữ liệu chứ chưa phải màn hình nhập brief.",
+      "issues": [],
+      "evidence": "proofs/L28-1773.jpg",
+      "frame": 1773,
+      "evidenceSHA256": "d2f49faedbac7e54aed4c2d43064a06018eef2bf3c4556caed0bfcc4752e81c8",
+      "fullNarratedText": "như nháp email bằng dữ liệu giả định.",
+      "requiredVisual": "Mở hồ sơ đèn Mẫu A và người nhận @vidu.invalid; watermark ngắn DỮ LIỆU GIẢ ĐỊNH; nhập thông số ví dụ vào brief để tạo email.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L29",
+      "status": "pass",
+      "observed": "Thời gian viết2phút trong sổ theo dõi; baseline12, hàng kiểm/sửa chờ đo và tổng chưa có. Phần đo viết được tách khỏi phần đo sửa.",
+      "issues": [],
+      "evidence": "proofs/L29-1823.jpg",
+      "frame": 1823,
+      "evidenceSHA256": "e9e3456560a7f6270cba69bc79355217a26229d52f61581f6a60a90dc7c7dd91",
+      "fullNarratedText": "Ghi lại thời gian viết,",
+      "requiredVisual": "Một hàng log có tiêu đề Viết nháp, giá trị ví dụ 2 phút được nhập; nguồn hình vẫn có email trong góc.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L30",
+      "status": "pass",
+      "observed": "Thời gian kiểm+sửa13phút, dònglog13 và tổng2+13=15 xuất hiện, baseline12 vẫn hiện. Không suy ra một phiên làm việc thực kéo dài13phút từ dữ liệu minh họa. In operation samples the large counter counts up while the final example log is already present. This is a labelled illustrative count-up graphic, not a real stopwatch or measured performance.",
+      "issues": [],
+      "evidence": "proofs/L30-1852.jpg",
+      "frame": 1852,
+      "evidenceSHA256": "8f77b2af131067ade76d37754ff1b1f76fe456cb65ea61181aa12ce2f142ad31",
+      "fullNarratedText": "thời gian sửa",
+      "requiredVisual": "Hàng thứ hai Kiểm tra và sửa có giá trị ví dụ 13 phút; thấy các vết sửa nguồn/giá/câu hứa của cùng email.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L31",
+      "status": "pass",
+      "observed": "Mục Lỗi còn sót liệt kê không dây/120.000 và trạng thái chưa đạt do chưa khớp nguồn, chưa gửi; không biến lỗi còn lại thành dấu đạt.",
+      "issues": [],
+      "evidence": "proofs/L31-1887.jpg",
+      "frame": 1887,
+      "evidenceSHA256": "1d0e7fe092013be6cc76e038846d25f1f848e506b716b2894cea8d6fba46d6a9",
+      "fullNarratedText": "và lỗi còn sót.",
+      "requiredVisual": "Bảng log thêm cột Lỗi còn sót; trạng thái Chưa kiểm đủ bật lên nếu vẫn có câu hứa không khớp nguồn, chưa kết luận thành công.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L32",
+      "status": "pass",
+      "observed": "Tổng AI15phút=2+13 được đặt sát baseline tự làm12. Tổng dùngAI dài hơn ở ví dụ, phép tính nhất quán và nhãn dữ liệu giả định hiện. In operation samples the large counter counts up while the final example log is already present. This is a labelled illustrative count-up graphic, not a real stopwatch or measured performance.",
+      "issues": [],
+      "evidence": "proofs/L32-1935.jpg",
+      "frame": 1935,
+      "evidenceSHA256": "d8e66dfd4c8562a2b26f89a66e3c5ec339cc31f8ec4a8ebc220b7fd69f78bff7",
+      "fullNarratedText": "Nếu tổng thời gian không giảm,",
+      "requiredVisual": "Phép cộng 2 phút viết + 13 phút sửa = 15 phút đặt sát mốc cũ ví dụ 12 phút; vạch tổng AI dài hơn, nhãn Chưa tiết kiệm thời gian.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L33",
+      "status": "pass",
+      "observed": "Khung chưa đủ căn cứ xác minh có cam kết chưa có nguồn, ô Chưa kiểm được và trạng thái Chặn duyệt/Chưa gửi. Không tự duyệt một lời hứa chưa kiểm chứng.",
+      "issues": [],
+      "evidence": "proofs/L33-1988.jpg",
+      "frame": 1988,
+      "evidenceSHA256": "3d338bff77284b4b018d06d0dce9ac0abe2f89738f818d0d09bd0ff978e2689a",
+      "fullNarratedText": "hoặc bạn không kiểm tra nổi,",
+      "requiredVisual": "Một ô kiểm chưa có nguồn xác minh chặn trạng thái Duyệt; nhãn Chưa đủ căn cứ, dù có thể tạo nháp nhanh.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L34",
+      "status": "pass",
+      "observed": "Prompt mới giới thiệu Mẫu A yêu cầu chỉ dùng thông tin gốc, thiếu hãy hỏi lại; có nhãn sản phẩm/người đọc/không hứa ngoài nguồn. Khớp hành động đổi cách giao việc.",
+      "issues": [],
+      "evidence": "proofs/L34-2033.jpg",
+      "frame": 2033,
+      "evidenceSHA256": "b06084396fbe4366f743965202100a516c0a39df11e29b297dc78584e1bed5c2",
+      "fullNarratedText": "hãy đổi cách giao việc.",
+      "requiredVisual": "Sửa prompt ban đầu thành ba ràng buộc ngắn: dùng hồ sơ đính kèm; không hứa không dây; nêu rõ nhu cầu chưa phù hợp. Con trỏ thêm các dòng này.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L35",
+      "status": "pass",
+      "observed": "Cùng toàn nhiệm vụ tự làm12phút đứng cạnh viết+kiểm+sửa15phút=2+13; dòng so cùng nhiệm vụ/cùng tiêu chuẩn nguồn và nhu cầu đã được thêm. Không còn chỉ so2phút phần việc với15phút tổng.",
+      "issues": [],
+      "evidence": "proofs/L35-2107.jpg",
+      "frame": 2107,
+      "evidenceSHA256": "7a6e53ac1b8f6954b57d3e147799aa541fe9e87b9903179ce616cd9b687e4bc1",
+      "fullNarratedText": "Đừng gọi một thao tác nhanh hơn là năng suất cao hơn.",
+      "requiredVisual": "Hai thanh tổng 12 và 15 phút cùng bảng lỗi hiển thị cạnh email: Viết nhanh được check, Tổng tốt hơn còn dấu hỏi/không đạt. Không đưa một kết quả khái quát cho mọi người.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L36",
+      "status": "pass",
+      "observed": "Ba thẻ nhiệm vụ có biểu tượng/nhãn thật trong3D; trên khung phân AI hỗ trợ ban đầu với Bạn kiểm tra nguồn và duyệt gửi. Giải thích vai trò bằng sơ đồ, không có cảnh kéo thẻ thật trong proof.",
+      "issues": [],
+      "evidence": "proofs/L36-2215.jpg",
+      "frame": 2215,
+      "evidenceSHA256": "865988eb36b2e9e49228cde34a426bd438401aea214c6054c96e4b81d0642ab4",
+      "fullNarratedText": "Bạn sẽ giao phần nào cho AI, và giữ phần nào tự kiểm tra?",
+      "requiredVisual": "Ba thẻ nhiệm vụ của ví dụ; kéo Tạo nháp vào cột AI hỗ trợ, Kiểm tra nguồn và Duyệt gửi vào cột Bạn chịu trách nhiệm. Dấu hỏi mời người xem lựa chọn cho việc của mình.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L37",
+      "status": "pass",
+      "observed": "Ô nhập bình luận có ví dụ Tôi muốn thử nháp email cho khách và nút Để lại một ví dụ. Đúng nơi/hành động CTA, không thao tác tài khoản thật. Actual operation frames show text progressing at75.10/75.90/76.67s; no real comment was posted.",
+      "issues": [],
+      "evidence": "proofs/L37-2289.jpg",
+      "frame": 2289,
+      "evidenceSHA256": "beaf5c9a8a695de92f8e918daffd21f26715e0993e11f1c5b3203184b14b1c4f",
+      "fullNarratedText": "Bình luận một công việc cụ thể.",
+      "requiredVisual": "Ô bình luận minh họa nhập ví dụ ngắn “Tôi muốn thử nháp email cho khách”; nút Bình luận là đồ họa, không thao tác tài khoản thật.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    },
+    {
+      "id": "L38",
+      "status": "pass",
+      "observed": "Endcard TYRANNO với nút đăng ký, ba bước tạo nháp/kiểm tra/quyết định và thẻ nhắc email Mẫu A/nguồn/giá/nhu cầu/người quyết định. Phụ đề cuối còn hiện ở proof.",
+      "issues": [],
+      "evidence": "proofs/L38-2417.jpg",
+      "frame": 2417,
+      "evidenceSHA256": "c65ad802f5c06c6f5c105b4ef44fb4c107210a956b842840b898fa26a8288f36",
+      "fullNarratedText": "Đăng ký TYRANNO để cùng bóc tách thử nghiệm tiếp theo.",
+      "requiredVisual": "End card TYRANNO với nút đăng ký minh họa và bản email/ba bước vừa học làm hình nhắc lại, giữ hết câu đọc và khoảng đệm cuối.",
+      "reviewBasis": "Re-opened actual final-MP4-derived frame in its clause-pair sheet; core visible meaning compared with full narrated clause. Not acceptance copied from source code."
+    }
+  ],
+  "scope": {
+    "date": "2026-11-12",
+    "revision": "Actual final MP4 independent visual review",
+    "video": "../final.mp4",
+    "videoSHA256": "b6fa87ebf7e27266f1ac7471a47852e116aeb1f2628cecfdb409d8c0aac7156c",
+    "reviewedAllShots": 38,
+    "openedPairSheets": [
+      {
+        "file": "proofs/pairs-01.jpg",
+        "sha256": "07c393df3162bcd469e3d7d3dd9be0a95a2ba8afd4ed490696e798565c2eff1a"
+      },
+      {
+        "file": "proofs/pairs-02.jpg",
+        "sha256": "9dc65fec09c2b0bfc3405f783393ca71b0c34009ba89ce606834e7624a9d4197"
+      },
+      {
+        "file": "proofs/pairs-03.jpg",
+        "sha256": "107e243aaf336ad42697aa22b8ad6d932e45fe998dace4bbe76e4b67e527b4f4"
+      },
+      {
+        "file": "proofs/pairs-04.jpg",
+        "sha256": "48c6e2edbf7ddd1115274dfddeb10f43577d19a71be774847744f79e7e71029e"
+      },
+      {
+        "file": "proofs/pairs-05.jpg",
+        "sha256": "01591d31c8ede43834dc87c425aab832861cb57e90b61eda621eb47e470c0e3f"
+      },
+      {
+        "file": "proofs/pairs-06.jpg",
+        "sha256": "0a1fb6bd55d98c04944e972a9a498aeeada99bdbb825a3147daf139bbe0b8cf4"
+      },
+      {
+        "file": "proofs/pairs-07.jpg",
+        "sha256": "341379e1819d781ca18753495cb12ae43dafb1c14074faeee53b95c715662ce0"
+      },
+      {
+        "file": "proofs/pairs-08.jpg",
+        "sha256": "dc9007c4defd7ae083d051129c11294babcb1f684d516b21bbab25ddbfc26bc1"
+      },
+      {
+        "file": "proofs/pairs-09.jpg",
+        "sha256": "9d1c7554fcae741135000fa9cc87893354d5f1e673ca7c58e9622eef20df9ba8"
+      },
+      {
+        "file": "proofs/pairs-10.jpg",
+        "sha256": "a346bded083a08f4a0eeab70d20f21ff5e53c07a967a2ce700c08d4610f4febd"
+      }
+    ],
+    "openedOperationSheets": [
+      {
+        "file": "operations-01.jpg",
+        "sha256": "06250057c485206e7d266094ef3f41708474d78b9e1d966f803faf13f052cf1f"
+      },
+      {
+        "file": "operations-02.jpg",
+        "sha256": "e54073e6ced52bd0b3108c0594efd571347112daf90fc77fd4114c1a1e6a2984"
+      },
+      {
+        "file": "operations-03.jpg",
+        "sha256": "59886179b4704b042eaf08940e1a7edebcc7abf03b523423d124060366ed9113"
+      }
+    ],
+    "openedChunkBoundarySheets": [
+      {
+        "file": "chunk-boundaries-01.jpg",
+        "sha256": "64deff1d10d86f230c34ee414682423bcac3f84b23f123086bb1a829cbf6b755"
+      },
+      {
+        "file": "chunk-boundaries-02.jpg",
+        "sha256": "c5ae831e0873938970f0f6f9bacc62aba33a87065f84b81405f81aaec4513230"
+      },
+      {
+        "file": "chunk-boundaries-03.jpg",
+        "sha256": "b5d71a2d53e11864a2fb492fddcc1a51bae1679c51f8a1b62fc318aab8c7b1b5"
+      }
+    ],
+    "method": "Viewed all10 actual-MP4 clause pair sheets containing38 selected shot frames, all3 operation strips, and all3 chunk-boundary sheets. Compared visible object/action/state/values with each clause. Extraction and technical QA do not establish visual acceptance alone.",
+    "passMeaning": "Core spoken meaning visibly represented at the sampled state. Does not mean every authored pointer/click/attachment/gesture is implemented, or that the user has approved the aesthetic.",
+    "boundaryCheck": {
+      "sampledBoundariesSeconds": [
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        48,
+        51,
+        54,
+        57,
+        60,
+        63,
+        66,
+        69,
+        72,
+        75,
+        78,
+        81
+      ],
+      "framesPerBoundary": "Frame n-1, n, n+1 at30fps",
+      "totalFrames": 81,
+      "observed": "No black frame, empty reset, or abrupt disappearance/state jump seen in these81 boundary samples. Typing and endcard state remain consistent across sampled boundaries. Coarse samples are not continuous playback."
+    },
+    "operationsObserved": [
+      "Opening prompt visibly reveals from short text at0.23s to full text at1.23s.",
+      "3D planes show meaningful icons and labels; focused step changes through initial/check/decision at44-49s. These are symbolic step diagrams, not full source documents.",
+      "Tone edit is represented by readable before/after panels. No sampled literal deleting/typing motion for this edit.",
+      "Large numeric counters tween toward13 and15 while the log already shows final example values. No real elapsed-time measurement inferred.",
+      "Comment example progressively reveals at75.10,75.90,76.67s. CTA is a mock interface, no actual public action."
+    ],
+    "hypotheticalFactPolicy": "Lamp features, price and timing are labelled hypothetical illustration. Internal consistency checked; no actual product specs, selling price or AI performance validated.",
+    "contractDeviations": [
+      {
+        "shots": [
+          "L20",
+          "L21",
+          "L22",
+          "L23",
+          "L36"
+        ],
+        "observed": "3D uses meaningful icons+step labels with highlighted focus, not full email/source documents or an actual review-choice action."
+      },
+      {
+        "shots": [
+          "L01",
+          "L28"
+        ],
+        "observed": "Prompt/dummy-data panels carry clause meaning; no attached source file or entire brief form is visible in sampled frame."
+      }
+    ],
+    "unverified": [
+      "Manual audio listening",
+      "Continuous real-time playback",
+      "Every within-shot animation frame",
+      "User aesthetic acceptance"
+    ],
+    "technicalReport": "report.json (separate technical evidence; not basis of semantic pass)"
+  },
+  "summary": {
+    "pass": 38,
+    "fix": 0,
+    "mandatorySampledSemanticDefects": [],
+    "userAcceptance": "pending"
+  }
+}

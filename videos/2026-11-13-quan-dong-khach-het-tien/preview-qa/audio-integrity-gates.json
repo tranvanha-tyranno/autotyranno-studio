@@ -1,0 +1,274 @@
+{
+  "scope": "Read-only local receipt/alignment/PCM/source integrity gates; not listening or aesthetic approval",
+  "chapters": [
+    {
+      "chapter": "opening",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "0d2e7b8d0f2b0b934017a90e988321a2536f045396c86e25c96fc72f226bca73",
+      "completeAlignedWords": 141,
+      "decodedFrames": 1847040,
+      "lastWordEnd": 38.48,
+      "voiceSeconds": 38.48
+    },
+    {
+      "chapter": "one-cup",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "dc08efa2a7dad6469306c5d7067728b63e4e4df1c9e9afbaf26882fe5a55537d",
+      "completeAlignedWords": 307,
+      "decodedFrames": 4028160,
+      "lastWordEnd": 83.923,
+      "voiceSeconds": 83.92
+    },
+    {
+      "chapter": "breakeven",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "4738b5856da6f05206d2a8346a63430a45b09e829933ebe24579ada8af6443b8",
+      "completeAlignedWords": 275,
+      "decodedFrames": 3659520,
+      "lastWordEnd": 76.24,
+      "voiceSeconds": 76.24
+    },
+    {
+      "chapter": "busy-hours",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "ff51735b238d43a07978059318f4ed008b27a1aed2280977da8cdf70a59bddf2",
+      "completeAlignedWords": 215,
+      "decodedFrames": 2979840,
+      "lastWordEnd": 62.08,
+      "voiceSeconds": 62.08
+    },
+    {
+      "chapter": "discount",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "45602c264f6a61cde54bbf900e208e7d74c73c97988f51dc6a1e50f4d1916cb9",
+      "completeAlignedWords": 338,
+      "decodedFrames": 4339200,
+      "lastWordEnd": 90.401,
+      "voiceSeconds": 90.4
+    },
+    {
+      "chapter": "cash",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "0cff647ea9d77dee309b8d7bdfb9c402e4faa89f54ec6a2055e482abb88cf85d",
+      "completeAlignedWords": 362,
+      "decodedFrames": 4861440,
+      "lastWordEnd": 101.28,
+      "voiceSeconds": 101.28
+    },
+    {
+      "chapter": "one-week",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "60c91d20ed4b7312e987a6ad147967fccdfc53d254bc4b321d3a3de1131a8b52",
+      "completeAlignedWords": 310,
+      "decodedFrames": 4170240,
+      "lastWordEnd": 86.88,
+      "voiceSeconds": 86.88
+    },
+    {
+      "chapter": "ending",
+      "exactRequestSettingsMatch": true,
+      "sourceSHA256": "35aff88aa6299a7feefec4fefaaa1a44661f32b26a607d6598cdb0e5cea7c1cb",
+      "completeAlignedWords": 188,
+      "decodedFrames": 2430720,
+      "lastWordEnd": 50.64,
+      "voiceSeconds": 50.64
+    }
+  ],
+  "voice": {
+    "name": "Nhat Phong",
+    "model": "eleven_v3",
+    "language": "vi",
+    "speed": 1.0,
+    "allEightRequestHashesMatchExactScriptAndSettings": true,
+    "assembledPCMMatchesChapterPCMsAndSevenHalfSecondGaps": true,
+    "pcmFrames": 28484160,
+    "seconds": 593.42,
+    "narrationSHA256": "ac07b54471cbdf33239645f059ff1d00b697e091ae2672eb2692fd64bf50cab7",
+    "lastWordEnd": 593.42,
+    "compiledSeconds": 594.9333333333333,
+    "tailAfterLastWord": 1.5133333333333212
+  },
+  "timeline": {
+    "shots": 58,
+    "frames": 17848,
+    "completeWordsAndContiguousShots": true
+  },
+  "audioSources": [
+    {
+      "id": "coffee-opening",
+      "file": "audio/music/coffee-opening.mp3",
+      "sha256": "0a077952a3c8df5f42510ab5b97e13ac648e6aa858a3dece88d3b1db12ac23de",
+      "seconds": 120.08,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "precise-unit-math",
+      "file": "audio/music/precise-unit-math.mp3",
+      "sha256": "d5b5fbba86486be356298b9b1e89c8ad60c182989483a10d11ca035f0863a94b",
+      "seconds": 120.08,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "operating-pulse",
+      "file": "audio/music/operating-pulse.mp3",
+      "sha256": "3a13ebd5aca1d21221ad0544f04666619c90ab3e00b0eea9e7607de365c8c119",
+      "seconds": 110.11,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "cash-tension",
+      "file": "audio/music/cash-tension.mp3",
+      "sha256": "3625a05819765d346c4bc8d0f054ff26d8c9a01bcf8fed1f4ded82485e862ec7",
+      "seconds": 120.03,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "hopeful-outro",
+      "file": "audio/music/hopeful-outro.mp3",
+      "sha256": "2db06d855d0730224bcbfd9eb8c53f0622f143fadd63218df29a6d64e7c40055",
+      "seconds": 120.08,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "cup-set",
+      "file": "audio/sfx/cup-set.mp3",
+      "sha256": "301cddaefec75a42669fd5ad51fd19ceb6bab0da9ec5ce02deaad66106be71c5",
+      "seconds": 2.25,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "grinder",
+      "file": "audio/sfx/grinder.mp3",
+      "sha256": "cd6797439d94c280495450169f825d7977a78850e429175a47876c70f87ea1c3",
+      "seconds": 4.05,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "espresso",
+      "file": "audio/sfx/espresso.mp3",
+      "sha256": "947ef73c7758a8059b5dca4608476cc77d5235e05187e099bb96eb885efc9d84",
+      "seconds": 5.04,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "milk-steam",
+      "file": "audio/sfx/milk-steam.mp3",
+      "sha256": "1f76e3dd95761fcb645a53f479896440eff938af89003e91cadb9d8678081c05",
+      "seconds": 4.05,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "paper-pen",
+      "file": "audio/sfx/paper-pen.mp3",
+      "sha256": "d6beb31d8db6be5285cc4d8515005af869acd74bbbd22a8526677d23c4290e46",
+      "seconds": 4.52,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "coins",
+      "file": "audio/sfx/coins.mp3",
+      "sha256": "52545605caa7264abb33678008062895a93db13ee46983f148de35e87c1c5045",
+      "seconds": 2.8,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "wood-tick",
+      "file": "audio/sfx/wood-tick.mp3",
+      "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090",
+      "seconds": 1.52,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "transition",
+      "file": "audio/sfx/transition.mp3",
+      "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819",
+      "seconds": 1.65,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "cafe-ambience",
+      "file": "audio/sfx/cafe-ambience.mp3",
+      "sha256": "3e38c2299c67c82d57b6e84aa9eacd0f34b851b9f1a0a0e99b6f0458e5a82bc2",
+      "seconds": 18.05,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "low-hit",
+      "file": "audio/sfx/low-hit.mp3",
+      "sha256": "8ed8e2da9e75bdb5d69adc3149feae84729ce657b2451134ab759f5ac199d7ea",
+      "seconds": 1.8,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "motion-bridge",
+      "file": "audio/music/motion-bridge.mp3",
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96",
+      "seconds": 50.05,
+      "providerReceiptMatches": true
+    },
+    {
+      "id": "agency-bridge",
+      "file": "audio/music/agency-bridge.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a",
+      "seconds": 120.08,
+      "providerReceiptMatches": true
+    }
+  ],
+  "soundVariety": {
+    "newMusicTracks": 5,
+    "foleyAssets": 10,
+    "contextualCues": 18,
+    "quietPivots": [
+      {
+        "beat": "p09",
+        "start": 343.41333333333336,
+        "end": 344.93333333333334,
+        "gain": 0.14
+      },
+      {
+        "beat": "m08",
+        "start": 431.2133333333333,
+        "end": 432.7333333333333,
+        "gain": 0.14
+      }
+    ],
+    "steamCue": {
+      "beat": "u06",
+      "asset": "milk-steam",
+      "time": 84.333333,
+      "duration": 4.0,
+      "gainDB": -3,
+      "role": "Visible milk-steaming action in the prepared first media slot",
+      "ambience": false
+    }
+  },
+  "manualListening": false,
+  "userAcceptance": "pending",
+  "finalMixGate": {
+    "audioInputsPass": true,
+    "mixSHA256": "13630b9b84693c3f648f354535355e3bf149c569e258084aa89a4091675fb411",
+    "seconds": 594.93,
+    "currentNarrationHashMatches": true,
+    "allCurrentFoleyCuesAndQuietPivotsMatch": true,
+    "publicCopyMatches": true,
+    "cueSnippetsVerified": 18,
+    "steamOnlyAt": "u06",
+    "loudnessMeasurement": {
+      "input_i": "-15.99",
+      "input_tp": "-2.56",
+      "input_lra": "2.00",
+      "input_thresh": "-26.38",
+      "output_i": "-15.93",
+      "output_tp": "-2.51",
+      "output_lra": "2.00",
+      "output_thresh": "-26.32",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.07"
+    },
+    "mixReceiptDataSHA256": "597323ef7fc90199081f50b8ca653c1546d1abbf17fe82a6ee1a1e0de03b75f0",
+    "currentDataSHA256": "f2f42dd1c4b99b5bc51bf7dd923ed5f28fef948b9f6f62265d270009cae58ae6",
+    "fullDataHashMatches": false,
+    "scope": "Audio-affecting inputs match current timeline exactly; full visual data hash differs, historical mix receipt remains unmodified. This does not assert why every visual field differs.",
+    "continuousListening": false
+  }
+}

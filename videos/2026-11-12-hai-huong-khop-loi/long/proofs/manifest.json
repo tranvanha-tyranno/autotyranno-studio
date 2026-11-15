@@ -1,0 +1,572 @@
+[
+  {
+    "id": "L01",
+    "frame": 53,
+    "file": "L01-53.jpg",
+    "scene": "email_prompt",
+    "mode": "prompt",
+    "narratedText": "Bạn giao cho AI viết một email chào hàng.",
+    "requiredVisual": "Màn hình trợ lý minh họa: nhập yêu cầu “Viết email giới thiệu Đèn bàn Mẫu A”, đính kèm bảng thông tin giả định, con trỏ bấm Tạo nháp. Ô email thật sự hiện trên cùng khung.",
+    "visibleFacts": [
+      "Có ô nhập yêu cầu email",
+      "Tên Đèn bàn Mẫu A và tệp nguồn hiện rõ",
+      "Thao tác Tạo nháp diễn ra theo lời"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L02",
+    "frame": 129,
+    "file": "L02-129.jpg",
+    "scene": "email_draft",
+    "mode": "ready",
+    "narratedText": "Vài giây sau, bản nháp đã nằm trên màn hình.",
+    "requiredVisual": "Email hiện người nhận, chủ đề và hai dòng nội dung; nhãn BẢN NHÁP / CHƯA GỬI. Cho dòng chữ ngắn xuất hiện hoàn chỉnh, không cắt sang người ghi sổ.",
+    "visibleFacts": [
+      "Có người nhận khach@vidu.invalid",
+      "Có tiêu đề Giới thiệu đèn bàn Mẫu A",
+      "Nội dung email nằm trên màn hình và còn CHƯA GỬI"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L03",
+    "frame": 202,
+    "file": "L03-202.jpg",
+    "scene": "wrong_claim",
+    "mode": "mismatch",
+    "narratedText": "Nhưng nếu nó hứa sai một tính năng,",
+    "requiredVisual": "Cận email gạch đỏ “Dùng không dây”, đặt sát dòng nguồn “USB-C có dây · Không pin”; vạch nối đúng hai mệnh đề mâu thuẫn. Ảnh đèn có dây chỉ hỗ trợ nhận diện vật thể.",
+    "visibleFacts": [
+      "Dùng không dây bị tô đỏ",
+      "Nguồn ghi USB-C có dây / Không pin",
+      "Hai trạng thái trái nhau cùng hiện một khung"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L04",
+    "frame": 254,
+    "file": "L04-254.jpg",
+    "scene": "customer_reply",
+    "mode": "responsibility",
+    "narratedText": "ai là người phải trả lời khách?",
+    "requiredVisual": "Bên cạnh bản nháp mở bong bóng “Phản hồi giả định nếu gửi: Đèn có pin để mang ra ngoài đúng không?”. Con trỏ chuyển sang ô Người duyệt: Bạn, giữ nhãn chưa gửi.",
+    "visibleFacts": [
+      "Câu hỏi khách liên quan dùng không dây",
+      "Gắn nhãn phản hồi giả định nếu gửi",
+      "Người duyệt là Bạn, không gán phản hồi cho người trong ảnh stock"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L05",
+    "frame": 291,
+    "file": "L05-291.jpg",
+    "scene": "time_log",
+    "mode": "write",
+    "narratedText": "Nhanh thì có nhanh.",
+    "requiredVisual": "Ghim email nhỏ bên trái; log ví dụ hiện riêng hàng Viết nháp: 2 phút. Hai hàng Kiểm tra và sửa / Tổng chưa được đánh dấu hoàn thành.",
+    "visibleFacts": [
+      "2 phút chỉ ở hàng Viết nháp",
+      "Nhãn Dữ liệu giả định hiện cùng số",
+      "Hàng kiểm tra vẫn chưa hoàn tất"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L06",
+    "frame": 333,
+    "file": "L06-333.jpg",
+    "scene": "quality_compare",
+    "mode": "appearance",
+    "narratedText": "Nhưng công việc đã xong,",
+    "requiredVisual": "Bản nháp trông sạch bên trái; bên phải ba ô kiểm: đúng tính năng, đúng giá, đúng nhu cầu. Chưa ô nào được tự động đánh dấu đạt.",
+    "visibleFacts": [
+      "Email đã có hình thức hoàn chỉnh",
+      "Tính năng / Giá / Nhu cầu còn trạng thái Chưa kiểm",
+      "Không có dấu Hoàn tất chỉ vì đã có bản nháp"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L07",
+    "frame": 393,
+    "file": "L07-393.jpg",
+    "scene": "review_work",
+    "mode": "handoff",
+    "narratedText": "hay mới chuyển sang một người khác ngồi sửa?",
+    "requiredVisual": "Luồng Nháp AI → Người kiểm tra; cùng email được mở ở chế độ sửa có vết xóa câu “Dùng không dây” và ghi chú đối chiếu nguồn.",
+    "visibleFacts": [
+      "Cùng một email được bàn giao",
+      "Thấy thao tác sửa cụ thể trên câu sai",
+      "Con người nhận phần kiểm tra, không chỉ ảnh người ôm đầu"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L08",
+    "frame": 518,
+    "file": "L08-518.jpg",
+    "scene": "disclaimer",
+    "mode": "scope",
+    "narratedText": "Đây là tình huống minh họa để bàn về công việc, không phải dự báo nghề nghiệp của từng người.",
+    "requiredVisual": "Giữ hình thu nhỏ email và đèn giả định; thông báo ngắn “Tình huống minh họa / Không phải dự báo nghề nghiệp cá nhân”. Không thay bằng ảnh họp công sở.",
+    "visibleFacts": [
+      "Có nhãn Tình huống minh họa",
+      "Không phải dự báo nghề nghiệp cá nhân được nêu rõ",
+      "Vẫn nối với ví dụ email vừa xem"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L09",
+    "frame": 619,
+    "file": "L09-619.jpg",
+    "scene": "email_draft",
+    "mode": "overview",
+    "narratedText": "Cứ nhìn một email tưởng như rất đơn giản.",
+    "requiredVisual": "Toàn bộ cửa sổ email: người nhận, chủ đề, bản nháp và nút gửi đang khóa; ba điểm kiểm tra sắp được mở. Không dùng headset làm đại diện cho email.",
+    "visibleFacts": [
+      "Đối tượng chính là một email",
+      "Có tiêu đề và phần nội dung",
+      "Nút Gửi chưa được mở"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L10",
+    "frame": 692,
+    "file": "L10-692.jpg",
+    "scene": "goal",
+    "mode": "product",
+    "narratedText": "Trước khi viết, bạn phải hiểu sản phẩm,",
+    "requiredVisual": "Mở hồ sơ giả định Đèn bàn Mẫu A: ảnh/3D đèn với dây nguồn nhìn thấy, hai dòng USB-C có dây và Không pin. Con trỏ đọc từng dòng.",
+    "visibleFacts": [
+      "Đèn và dây nguồn nhìn thấy",
+      "Nguồn USB-C có dây",
+      "Không pin"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L11",
+    "frame": 746,
+    "file": "L11-746.jpg",
+    "scene": "goal",
+    "mode": "reader",
+    "narratedText": "biết người đọc đang cần gì",
+    "requiredVisual": "Mở yêu cầu khách giả định: “Tôi cần đèn dùng ở nơi không có nguồn điện”. Khoanh phần nhu cầu dùng không dây và liên kết trở lại email.",
+    "visibleFacts": [
+      "Có một yêu cầu khách cụ thể",
+      "Nhu cầu dùng ở nơi không có nguồn điện được đánh dấu",
+      "Không thay nhu cầu bằng ảnh người đọc giấy bất kỳ"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L12",
+    "frame": 800,
+    "file": "L12-800.jpg",
+    "scene": "goal",
+    "mode": "promise",
+    "narratedText": "và chọn điều có thể cam kết.",
+    "requiredVisual": "Hai danh mục Cam kết được / Không được hứa: “Dùng nguồn USB-C qua dây” được chọn; “Dùng không dây” bị chặn. Dòng được phép được đưa vào phần hướng dẫn viết.",
+    "visibleFacts": [
+      "Được cam kết USB-C qua dây",
+      "Không được hứa dùng không dây",
+      "Câu hướng dẫn viết sử dụng điều được xác minh trong tình huống"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L13",
+    "frame": 884,
+    "file": "L13-884.jpg",
+    "scene": "source_check",
+    "mode": "numbers",
+    "narratedText": "Sau khi viết, bạn còn phải kiểm tra số liệu,",
+    "requiredVisual": "Email có giá 120.000đ nằm cạnh nguồn 1.200.000đ; highlight chữ số 0 bị thiếu, con trỏ đi từ tệp nguồn sang trường cần kiểm. Đây là bước phát hiện, chưa ghi nhận đã lưu bản sửa.",
+    "visibleFacts": [
+      "Email 120.000đ đối chiếu nguồn 1.200.000đ",
+      "Thiếu một số 0 được chỉ đúng vị trí",
+      "Dữ liệu giả định luôn hiện cạnh giá"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L14",
+    "frame": 933,
+    "file": "L14-933.jpg",
+    "scene": "tone_edit",
+    "mode": "before_after",
+    "narratedText": "sửa giọng điệu,",
+    "requiredVisual": "Giữ cùng cửa sổ email, cận đúng lời chào mời: gạch “Mua ngay!” và thay bằng “Mời bạn tham khảo.”. Chỉ một thay đổi ngắn, không bắt đọc hai đoạn dài trong nhịp 1 giây.",
+    "visibleFacts": [
+      "Mua ngay! bị gạch",
+      "Mời bạn tham khảo. thay vào đúng dòng",
+      "Chỉ một thay đổi giọng điệu ngắn trong cùng email"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L15",
+    "frame": 971,
+    "file": "L15-971.jpg",
+    "scene": "feedback",
+    "mode": "listen",
+    "narratedText": "rồi theo dõi phản hồi.",
+    "requiredVisual": "Luồng hội thoại giả định hiện câu “Nếu không có nguồn USB thì dùng được không?”; kéo câu hỏi đó vào mục Cần trả lời, không dùng ảnh cầm tai nghe thay cho phản hồi.",
+    "visibleFacts": [
+      "Có nội dung phản hồi cụ thể",
+      "Câu hỏi được đưa vào danh sách cần giải quyết",
+      "Không tự coi lời cảm ơn là đã giải quyết vấn đề"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L16",
+    "frame": 1024,
+    "file": "L16-1024.jpg",
+    "scene": "email_draft",
+    "mode": "typing",
+    "narratedText": "AI có thể hỗ trợ bản nháp.",
+    "requiredVisual": "Nhập lại lời nháp ngắn trong email, cạnh nhãn AI hỗ trợ bản đầu; chỉ cột Tạo nháp có dấu xong, cột kiểm tra vẫn để chờ.",
+    "visibleFacts": [
+      "Thấy email đang được tạo",
+      "Dấu xong chỉ ở bước bản đầu",
+      "Không đánh dấu toàn bộ quy trình hoàn tất"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L17",
+    "frame": 1092,
+    "file": "L17-1092.jpg",
+    "scene": "quality_gate",
+    "mode": "blocked",
+    "narratedText": "Nhưng bản nháp chưa phải kết quả cuối cùng.",
+    "requiredVisual": "Chuyển cận nút Gửi bị khóa; bảng kiểm còn lỗi tính năng và giá. Mọi thứ trong cùng cửa sổ email thay vì dùng chồng hồ sơ xa ngữ cảnh.",
+    "visibleFacts": [
+      "Nút Gửi bị khóa",
+      "Còn lỗi tính năng/giá",
+      "Bản nháp chưa được duyệt"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L18",
+    "frame": 1180,
+    "file": "L18-1180.jpg",
+    "scene": "context",
+    "mode": "missing",
+    "narratedText": "Một câu nghe trơn tru vẫn có thể thiếu bối cảnh.",
+    "requiredVisual": "Câu viết trơn tru “Phù hợp mọi góc làm việc” đứng cạnh yêu cầu cần dùng không có nguồn; đường đối chiếu bị đứt, nhãn Chưa trả lời nhu cầu xuất hiện.",
+    "visibleFacts": [
+      "Câu nghe trôi chảy có trên email",
+      "Nhu cầu dùng không có nguồn vẫn chưa được trả lời",
+      "Không dùng cảm xúc của mẫu ảnh stock làm bằng chứng thiếu bối cảnh"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L19",
+    "frame": 1290,
+    "file": "L19-1290.jpg",
+    "scene": "source_check",
+    "mode": "original",
+    "narratedText": "Một bảng nhìn rất gọn vẫn cần đối chiếu với tài liệu gốc.",
+    "requiredVisual": "Bảng sạch gồm Nguồn cấp/Pin/Giá nằm cạnh trang nguồn gốc giả định; lần lượt nối từng hàng, giữ lỗi dùng không dây và thiếu số 0 có thể thấy.",
+    "visibleFacts": [
+      "Bảng tổng hợp và nguồn gốc cùng hiện",
+      "Từng trường có đường đối chiếu",
+      "Độ đẹp của bảng không che các trường sai"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L20",
+    "frame": 1360,
+    "file": "L20-1360.jpg",
+    "scene": "task_map",
+    "mode": "all",
+    "narratedText": "Thử tách công việc thành ba phần:",
+    "requiredVisual": "Email, tệp nguồn và con dấu duyệt được đặt trong không gian 3D thành ba bước Tạo bản đầu → Kiểm tra → Quyết định. Các vật thể là đúng tài liệu của tình huống.",
+    "visibleFacts": [
+      "Ba bước ghi đúng tên",
+      "Bản nháp / nguồn / ô duyệt là vật thể cụ thể",
+      "Không là gallery ba ảnh người công sở ngẫu nhiên"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L21",
+    "frame": 1402,
+    "file": "L21-1402.jpg",
+    "scene": "task_map",
+    "mode": "draft",
+    "narratedText": "tạo bản đầu,",
+    "requiredVisual": "Giữ cùng góc máy của ba bước, chỉ email nháp sáng lên và một đoạn nội dung được tạo; hai bước sau vẫn chờ.",
+    "visibleFacts": [
+      "Tạo bản đầu đang sáng",
+      "Email có nhãn Nháp",
+      "Hai bước sau chưa xong"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L22",
+    "frame": 1428,
+    "file": "L22-1428.jpg",
+    "scene": "task_map",
+    "mode": "review",
+    "narratedText": "kiểm tra,",
+    "requiredVisual": "Không đổi sang cảnh mới; đèn chiếu sáng cột nguồn và bảng kiểm, hai điểm tính năng/giá được nối đối chiếu.",
+    "visibleFacts": [
+      "Kiểm tra đang sáng",
+      "Có đối chiếu thật giữa nguồn và nháp",
+      "Bước quyết định chưa tự động xong"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L23",
+    "frame": 1457,
+    "file": "L23-1457.jpg",
+    "scene": "task_map",
+    "mode": "decide",
+    "narratedText": "và quyết định.",
+    "requiredVisual": "Cột Quyết định sáng lên với ba lựa chọn Sửa tiếp / Không gửi / Duyệt bản đúng; con trỏ người dùng chọn, không để AI tự bấm gửi.",
+    "visibleFacts": [
+      "Có lựa chọn duyệt/sửa/không gửi",
+      "Con trỏ người dùng ở bước quyết định",
+      "Không đồng nhất kiểm tra với tự động gửi"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L24",
+    "frame": 1511,
+    "file": "L24-1511.jpg",
+    "scene": "send_gate",
+    "mode": "blocked",
+    "narratedText": "Đừng gom cả ba vào một nút gửi.",
+    "requiredVisual": "Biểu tượng một nút Gửi tất cả bị gạch; tách thành ba ô có khóa kiểm tra và ô người duyệt. Cùng email chưa được gửi ra ngoài.",
+    "visibleFacts": [
+      "Một nút gửi tự động bị chặn",
+      "Ba bước giữ riêng",
+      "Email còn trạng thái Chưa gửi"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L25",
+    "frame": 1590,
+    "file": "L25-1590.jpg",
+    "scene": "quality_compare",
+    "mode": "speed",
+    "narratedText": "Chỗ đáng nâng cấp không chỉ là viết nhanh hơn,",
+    "requiredVisual": "Hàng Viết nháp 2 phút hiện ngắn nhưng phần Kiểm tra/Sửa còn kéo dài; câu sai được đánh dấu ngay trong email cạnh timer.",
+    "visibleFacts": [
+      "Viết nhanh hơn chỉ là một hàng thời gian",
+      "Lỗi vẫn thấy trong bản nháp",
+      "Không dùng hình đồng hồ trang trí thay cho phép so cụ thể"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L26",
+    "frame": 1651,
+    "file": "L26-1651.jpg",
+    "scene": "source_check",
+    "mode": "mismatch",
+    "narratedText": "mà là phát hiện sai sớm hơn.",
+    "requiredVisual": "Tại nút kiểm tra trước gửi, hệ thống soi đúng câu Dùng không dây và giá sai. Hai cảnh báo xuất hiện trước phong bì được cho phép rời hộp thư.",
+    "visibleFacts": [
+      "Sai tính năng và sai giá được phát hiện",
+      "Cảnh báo xuất hiện trước khi gửi",
+      "Không minh họa phát hiện sai bằng người chỉ vào bảng bất kỳ"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L27",
+    "frame": 1708,
+    "file": "L27-1708.jpg",
+    "scene": "trial",
+    "mode": "choose",
+    "narratedText": "Ngày mai, chọn một việc nhỏ,",
+    "requiredVisual": "Danh sách ba nhiệm vụ cụ thể có soạn email được chọn duy nhất; lịch Ngày mai gắn vào nhiệm vụ, hai việc khác không chọn.",
+    "visibleFacts": [
+      "Chỉ một nhiệm vụ được chọn",
+      "Nhiệm vụ là Nháp email",
+      "Không thay bước chọn việc bằng ảnh một người học máy tính chung chung"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L28",
+    "frame": 1773,
+    "file": "L28-1773.jpg",
+    "scene": "trial",
+    "mode": "dummy_data",
+    "narratedText": "như nháp email bằng dữ liệu giả định.",
+    "requiredVisual": "Mở hồ sơ đèn Mẫu A và người nhận @vidu.invalid; watermark ngắn DỮ LIỆU GIẢ ĐỊNH; nhập thông số ví dụ vào brief để tạo email.",
+    "visibleFacts": [
+      "Mẫu A và @vidu.invalid",
+      "DỮ LIỆU GIẢ ĐỊNH đọc rõ",
+      "Đầu vào của thử nghiệm có đủ nguồn/cam kết/nhu cầu"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L29",
+    "frame": 1823,
+    "file": "L29-1823.jpg",
+    "scene": "time_log",
+    "mode": "write",
+    "narratedText": "Ghi lại thời gian viết,",
+    "requiredVisual": "Một hàng log có tiêu đề Viết nháp, giá trị ví dụ 2 phút được nhập; nguồn hình vẫn có email trong góc.",
+    "visibleFacts": [
+      "Hàng Viết nháp tách riêng",
+      "2 phút là số ví dụ",
+      "DỮ LIỆU GIẢ ĐỊNH nằm cùng bảng"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L30",
+    "frame": 1852,
+    "file": "L30-1852.jpg",
+    "scene": "time_log",
+    "mode": "repair",
+    "narratedText": "thời gian sửa",
+    "requiredVisual": "Hàng thứ hai Kiểm tra và sửa có giá trị ví dụ 13 phút; thấy các vết sửa nguồn/giá/câu hứa của cùng email.",
+    "visibleFacts": [
+      "Hàng Kiểm tra và sửa tách riêng",
+      "13 phút là số ví dụ",
+      "Vết sửa gắn với chính email trong tình huống"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L31",
+    "frame": 1887,
+    "file": "L31-1887.jpg",
+    "scene": "quality_gate",
+    "mode": "fail",
+    "narratedText": "và lỗi còn sót.",
+    "requiredVisual": "Bảng log thêm cột Lỗi còn sót; trạng thái Chưa kiểm đủ bật lên nếu vẫn có câu hứa không khớp nguồn, chưa kết luận thành công.",
+    "visibleFacts": [
+      "Có cột Lỗi còn sót",
+      "Còn lỗi thì không đạt",
+      "Không biến bảng ghi thời gian thành số liệu hiệu năng có thật"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L32",
+    "frame": 1935,
+    "file": "L32-1935.jpg",
+    "scene": "time_log",
+    "mode": "total",
+    "narratedText": "Nếu tổng thời gian không giảm,",
+    "requiredVisual": "Phép cộng 2 phút viết + 13 phút sửa = 15 phút đặt sát mốc cũ ví dụ 12 phút; vạch tổng AI dài hơn, nhãn Chưa tiết kiệm thời gian.",
+    "visibleFacts": [
+      "2 + 13 = 15 phút",
+      "So với mốc ví dụ 12 phút",
+      "DỮ LIỆU GIẢ ĐỊNH và điều kiện Chưa tiết kiệm hiện rõ"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L33",
+    "frame": 1988,
+    "file": "L33-1988.jpg",
+    "scene": "quality_gate",
+    "mode": "fail",
+    "narratedText": "hoặc bạn không kiểm tra nổi,",
+    "requiredVisual": "Một ô kiểm chưa có nguồn xác minh chặn trạng thái Duyệt; nhãn Chưa đủ căn cứ, dù có thể tạo nháp nhanh.",
+    "visibleFacts": [
+      "Ô kiểm chưa xác minh được",
+      "Duyệt bị khóa",
+      "Trạng thái thất bại có nguyên nhân cụ thể"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L34",
+    "frame": 2033,
+    "file": "L34-2033.jpg",
+    "scene": "email_prompt",
+    "mode": "revised",
+    "narratedText": "hãy đổi cách giao việc.",
+    "requiredVisual": "Sửa prompt ban đầu thành ba ràng buộc ngắn: dùng hồ sơ đính kèm; không hứa không dây; nêu rõ nhu cầu chưa phù hợp. Con trỏ thêm các dòng này.",
+    "visibleFacts": [
+      "Prompt được sửa bằng ràng buộc cụ thể",
+      "Bám nguồn và nhu cầu khách",
+      "Không minh họa đổi cách giao việc bằng ảnh sticky note không liên quan"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L35",
+    "frame": 2107,
+    "file": "L35-2107.jpg",
+    "scene": "quality_compare",
+    "mode": "total",
+    "narratedText": "Đừng gọi một thao tác nhanh hơn là năng suất cao hơn.",
+    "requiredVisual": "Hai thanh tổng 12 và 15 phút cùng bảng lỗi hiển thị cạnh email: Viết nhanh được check, Tổng tốt hơn còn dấu hỏi/không đạt. Không đưa một kết quả khái quát cho mọi người.",
+    "visibleFacts": [
+      "Tách tốc độ viết khỏi tổng kết quả",
+      "Tổng và lỗi cùng được xét",
+      "Số liệu chỉ là ví dụ minh họa"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L36",
+    "frame": 2215,
+    "file": "L36-2215.jpg",
+    "scene": "task_map",
+    "mode": "assignment",
+    "narratedText": "Bạn sẽ giao phần nào cho AI, và giữ phần nào tự kiểm tra?",
+    "requiredVisual": "Ba thẻ nhiệm vụ của ví dụ; kéo Tạo nháp vào cột AI hỗ trợ, Kiểm tra nguồn và Duyệt gửi vào cột Bạn chịu trách nhiệm. Dấu hỏi mời người xem lựa chọn cho việc của mình.",
+    "visibleFacts": [
+      "Có phân công AI hỗ trợ / Bạn kiểm tra",
+      "Giữ câu hỏi mở cho người xem",
+      "Không tự khẳng định một phân công đúng cho mọi nghề"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L37",
+    "frame": 2289,
+    "file": "L37-2289.jpg",
+    "scene": "comment_cta",
+    "mode": "example",
+    "narratedText": "Bình luận một công việc cụ thể.",
+    "requiredVisual": "Ô bình luận minh họa nhập ví dụ ngắn “Tôi muốn thử nháp email cho khách”; nút Bình luận là đồ họa, không thao tác tài khoản thật.",
+    "visibleFacts": [
+      "Ô bình luận có ví dụ liên quan công việc",
+      "Không hiển thị số like/bình luận giả",
+      "Không gửi bình luận thật"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  },
+  {
+    "id": "L38",
+    "frame": 2417,
+    "file": "L38-2417.jpg",
+    "scene": "subscribe",
+    "mode": "follow",
+    "narratedText": "Đăng ký TYRANNO để cùng bóc tách thử nghiệm tiếp theo.",
+    "requiredVisual": "End card TYRANNO với nút đăng ký minh họa và bản email/ba bước vừa học làm hình nhắc lại, giữ hết câu đọc và khoảng đệm cuối.",
+    "visibleFacts": [
+      "Nhận diện TYRANNO",
+      "Lời mời theo dõi thử nghiệm tiếp theo",
+      "Không mất câu đọc cuối hoặc dùng ảnh người học không liên quan làm kết"
+    ],
+    "reviewStatus": "requires_actual_visual_review"
+  }
+]

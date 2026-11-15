@@ -1,0 +1,21 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r07",
+  "check_id": "r07-full-6150-frame-qa",
+  "result": "passed",
+  "observation": "Retained QA reports6150/6150 actually decoded frames,30fps,205s,1920x1080; actual final MP4 SHA matches videoSHA256. Four phases and24 shots remain. Final audio measured -16.00LUFS integrated and -4.61dBTP; these measurements are not listening or editorial approval. Full-frame technical QA does not establish visual quality or user acceptance.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/final.mp4",
+      "sha256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861",
+      "description": "Actual final checked against report SHA."
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/qa/report.json",
+      "sha256": "38bc3880f08f8e5f90d0c423907d42691b1e22285801b8c04c4f85980aaa4c30",
+      "description": "Full-duration decode/frame-count/FPS and measured-audio technical report."
+    }
+  ]
+}

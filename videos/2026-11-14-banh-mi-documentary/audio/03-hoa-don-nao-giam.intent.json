@@ -1,0 +1,20 @@
+{
+  "request_hash": "f94461bfac6c2e95da7fcb24328db62888a40c4c99a4392c51efd378b798338f",
+  "endpoint": "/v1/text-to-speech/6adFm46eyy74snVn6YrT/with-timestamps",
+  "payload": {
+    "text": "Chị Hạnh mở kho. Bao bột đang dùng có thể thuộc lô mua trước, giá cao. Hóa đơn mới thấp hơn chưa đổi ngay giá vốn của mẻ bánh hôm nay. Đấy là một độ trễ có thể có, không phải lý do mặc định cho mọi tiệm.\n\nRồi chị đặt hóa đơn bột cạnh các khoản khác. Tiền thuê vẫn theo hợp đồng. Lương người phụ bán đã thỏa thuận. Điện, nhân bánh, bao bì có thể đi theo hướng khác. Một dòng giảm chưa có nghĩa tổng chi phí của chiếc bánh đã trở lại như trước.\n\nNhưng nói đến đây rồi dừng sẽ là bênh người bán quá dễ. Ta phải hỏi ngược: nếu tổng chi phí đã giảm thật, lượng bán vẫn như cũ, mà chị Hạnh giữ giá, thì sao? Khoảng dư có thể tăng. Không có quy luật nào bảo mọi cửa hàng luôn phải chịu thiệt.\n\nLúc này người khách có vai trò. Nếu bên cạnh có bánh tương đương, rẻ hơn và dễ mua, chị Hạnh phải cân nhắc mất khách. Nếu khách khó chuyển chỗ mua, sức ép ấy có thể yếu hơn. Giá bán còn là kết quả của lựa chọn và cạnh tranh, không chỉ phép cộng trên hóa đơn.\n\nVậy câu hỏi đúng không phải: bột giảm rồi, sao chị chưa giảm? Mà là: tổng chi phí đã đổi bao nhiêu, và khách có lựa chọn nào? Ta vừa nhìn được hai phía của quầy. Còn một phía nữa: chiếc ví của người mua.",
+    "model_id": "eleven_v3",
+    "language_code": "vi",
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.8,
+      "speed": 1.0
+    }
+  },
+  "editorial": {
+    "map": "videos/2026-11-14-banh-mi-documentary/editorial-map.json",
+    "mapSHA256": "db5a5471eea1a447a8f625e9b1f35872dfd34a9a8a4c93456c1d2e7cee809bb2",
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "userApproval": "not_established"
+  }
+}

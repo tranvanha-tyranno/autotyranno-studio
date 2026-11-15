@@ -1,0 +1,30 @@
+{
+  "id": "dinner-overhead",
+  "pexelsID": 5791670,
+  "sourceURL": "https://www.pexels.com/photo/a-high-angle-shot-of-people-sitting-near-the-table-while-having-dinner-5791670/",
+  "creator": "cottonbro studio",
+  "theme": "meal",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/dinner-overhead.jpg",
+  "downloadURL": "https://images.pexels.com/photos/5791670/pexels-photo-5791670.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "6a872711de5cbc38eb7244dbf60c5ec7f19163bc1356928eedd9f4f35d9b0909",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

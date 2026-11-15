@@ -1,0 +1,16 @@
+{
+  "method": "Playwright CLI browser rendering and timestamp navigation",
+  "revision": "r04",
+  "url": "http://127.0.0.1:8881/index.html",
+  "pageError": null,
+  "player": {
+    "time": 124.733333,
+    "duration": 205,
+    "readyState": 4,
+    "width": 1920,
+    "height": 1080,
+    "error": null
+  },
+  "observed": "Page displays r04 player and24clausebuttons, exact c12 seek works. Desktop screenshot inspected; controls/video fit the viewport. No continuous AV or auditory approval claimed.",
+  "screenshot": "output/playwright/production-review/final-desktop.png"
+}

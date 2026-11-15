@@ -1,0 +1,32 @@
+{
+  "batch": "videos/2026-11-13-hai-style-tiet-kiem",
+  "revision": "r02",
+  "dimension": "overall",
+  "decision": "revision_needed",
+  "reviewer": {
+    "kind": "human_user",
+    "name": "User"
+  },
+  "target": {
+    "clause_id": "__whole_video__",
+    "narration": "Lương tăng, tiền dư đi đâu? — visual style feedback across the demo",
+    "start": 0,
+    "end": 77.76666666666667
+  },
+  "method": "human_feedback",
+  "quote": "dàn video số 2 tối giản làm chả khác gì 1 cái slide hả còn nhân vật thực sự chưa ưa mắt về ng cho lắm",
+  "observation": "User says minimal video is essentially a slide presentation.",
+  "action": "Replace static typography layouts with continuous content-specific object actions, spatial cause/effect and camera continuity; prove on a short moving excerpt.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-hai-style-tiet-kiem/r02/toi-gian/final.mp4",
+      "sha256": "58b79aba371a84ebc1887f1c54603440b2822934221e1309c8c52e3782f64c37"
+    },
+    {
+      "role": "feedback",
+      "path": "videos/2026-11-13-hai-style-tiet-kiem/review/user-critique/user-feedback.txt",
+      "sha256": "0fddf66bbdca9dbc2cbc0a154f7b97e9d49d2f5d64b2c2f61600044fb7624509"
+    }
+  ]
+}

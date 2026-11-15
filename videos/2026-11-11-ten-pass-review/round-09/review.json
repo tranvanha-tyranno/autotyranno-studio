@@ -1,0 +1,14 @@
+{
+  "round": 9,
+  "focus": "Căn sound theo ý",
+  "problem": "Cue âm thanh cũ theo mốc cố định có thể lệch sau khi cắt hình.",
+  "change": "Đặt cue theo điểm câu/điểm cắt mới, giữ hiệu ứng dưới giọng.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-08",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Hình giữ đúng bản 8, các cue đã dời theo điểm câu/cắt mới. Loại keyboard foley khỏi cảnh may, thay tick nhẹ ở 19,8s; giảm nhấn mở đầu. Đo cuối -16,46 LUFS và -2,82 dBTP. Đây là kiểm tra timing/mức âm, không tuyên bố đã nghe duyệt liên tục."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

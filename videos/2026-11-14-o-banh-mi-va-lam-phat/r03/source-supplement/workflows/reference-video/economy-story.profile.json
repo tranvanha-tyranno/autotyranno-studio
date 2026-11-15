@@ -1,0 +1,15 @@
+{
+  "schema": "content-first-economy-story/1",
+  "status": "trial-pending-user-feedback",
+  "requestedOn": "2026-11-14",
+  "entry": "cinematic/src/economy-story-entry.tsx",
+  "composition": "EconomyStory",
+  "runner": "economy_story.py",
+  "priority": "Coherent economic content explained through a concrete original story",
+  "typography": {"family": "Be Vietnam Pro", "weights": [400, 600, 700], "delivery": "bundled-local-OFL", "waitForFonts": true},
+  "cast": {"fixedPose": true, "fixedPosition": true, "bob": false, "blink": false, "mouthAnimation": false, "gestures": false, "movement": "small cue-based yaw only", "artworkApproval": "pending"},
+  "visuals": {"primary": "source-documented contextual photographs", "graphics": "illustrative calculations and causal relationships", "branding": false},
+  "voice": {"name": "Nhật Phong", "id": "6adFm46eyy74snVn6YrT", "model": "eleven_v3", "language": "vi", "speed": 1.0, "stability": 0.5, "similarity_boost": 0.8},
+  "structure": ["hook", "brief relevant disclaimer", "main causal story", "practical CTA and subscribe/bell/comment"],
+  "history": "New request permits restrained character motion for this trial. Earlier rejected source/batches are retained and do not become aesthetically approved."
+}

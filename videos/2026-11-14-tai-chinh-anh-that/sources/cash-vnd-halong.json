@@ -1,0 +1,30 @@
+{
+  "id": "cash-vnd-halong",
+  "pexelsID": 8089862,
+  "sourceURL": "https://www.pexels.com/photo/person-holding-a-vietnamese-dong-8089862/",
+  "creator": "My Tran",
+  "theme": "cash",
+  "documentedLocation": "Quảng Ninh, Vietnam",
+  "locationEvidence": "Pexels primary photo page location field",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/cash-vnd-halong.jpg",
+  "downloadURL": "https://images.pexels.com/photos/8089862/pexels-photo-8089862.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "321ff208568d9f5ac4243817d0310f9fd2b2ed45ff4f66cc3a2835f4b681ec30",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

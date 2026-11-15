@@ -1,0 +1,180 @@
+{
+  "plan": {
+    "fps": 30,
+    "durationFrames": 1260,
+    "title": "Technical runtime check only",
+    "shots": [
+      {
+        "id": "before",
+        "from": 0,
+        "duration": 180,
+        "chapterId": "0",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "cost_stack",
+        "data": {
+          "stage": "before",
+          "price": 20000,
+          "variable": 12000,
+          "fixed": 5000
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      },
+      {
+        "id": "after",
+        "from": 180,
+        "duration": 180,
+        "chapterId": "1",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "cost_stack",
+        "data": {
+          "stage": "after",
+          "price": 22000,
+          "variable": 14500,
+          "fixed": 5000
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      },
+      {
+        "id": "compare",
+        "from": 360,
+        "duration": 180,
+        "chapterId": "2",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "cost_stack",
+        "data": {
+          "stage": "compare",
+          "price": 22000,
+          "variable": 14500,
+          "fixed": 5000
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      },
+      {
+        "id": "prices",
+        "from": 540,
+        "duration": 180,
+        "chapterId": "3",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "price_path",
+        "data": {
+          "values": [
+            20000,
+            22000,
+            22440
+          ]
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      },
+      {
+        "id": "income",
+        "from": 720,
+        "duration": 180,
+        "chapterId": "4",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "purchasing_power",
+        "data": {
+          "stage": "income",
+          "incomeBefore": 10000000,
+          "incomeAfter": 10500000,
+          "priceBefore": 20000,
+          "priceAfter": 22000
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      },
+      {
+        "id": "quantity",
+        "from": 900,
+        "duration": 180,
+        "chapterId": "5",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "purchasing_power",
+        "data": {
+          "stage": "quantity",
+          "before": 500,
+          "after": 477.2727
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      },
+      {
+        "id": "result",
+        "from": 1080,
+        "duration": 180,
+        "chapterId": "6",
+        "chapterTitle": "Điểm kiểm tra font và dữ liệu — không phải phim chính",
+        "media": "graphic",
+        "file": "synthetic-moving-pattern.mp4",
+        "sourceStartSeconds": 1,
+        "kind": "purchasing_power",
+        "data": {
+          "stage": "result",
+          "before": 500,
+          "after": 477.2727
+        },
+        "cueFrames": [
+          9,
+          50,
+          95,
+          140
+        ],
+        "headline": "Mô hình tính trên cảnh chuyển động"
+      }
+    ],
+    "audio": ""
+  },
+  "startFrame": 1125,
+  "frames": 60
+}

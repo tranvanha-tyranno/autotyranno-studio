@@ -1,0 +1,125 @@
+{
+  "schema": "reference-video-repair-plan/1",
+  "previous": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r04\\long",
+  "current": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r06\\long",
+  "fps": 30,
+  "frames": 6150,
+  "changedShots": [
+    "a3",
+    "c10",
+    "c11",
+    "c13",
+    "c14",
+    "c16",
+    "c4",
+    "c5",
+    "c6",
+    "c7",
+    "c8",
+    "c9",
+    "d1",
+    "h1a",
+    "h1b",
+    "h2",
+    "h3"
+  ],
+  "intervals": [
+    {
+      "start": 0,
+      "endExclusive": 822,
+      "remotionFrames": "0-821",
+      "frames": 822
+    },
+    {
+      "start": 1595,
+      "endExclusive": 3749,
+      "remotionFrames": "1595-3748",
+      "frames": 2154
+    },
+    {
+      "start": 4054,
+      "endExclusive": 4682,
+      "remotionFrames": "4054-4681",
+      "frames": 628
+    },
+    {
+      "start": 4970,
+      "endExclusive": 5300,
+      "remotionFrames": "4970-5299",
+      "frames": 330
+    },
+    {
+      "start": 5879,
+      "endExclusive": 6150,
+      "remotionFrames": "5879-6149",
+      "frames": 271
+    }
+  ],
+  "segments": [
+    {
+      "kind": "patch",
+      "patch": 0,
+      "start": 0,
+      "end": 822,
+      "frames": 822
+    },
+    {
+      "kind": "previous",
+      "start": 822,
+      "end": 1595,
+      "frames": 773
+    },
+    {
+      "kind": "patch",
+      "patch": 1,
+      "start": 1595,
+      "end": 3749,
+      "frames": 2154
+    },
+    {
+      "kind": "previous",
+      "start": 3749,
+      "end": 4054,
+      "frames": 305
+    },
+    {
+      "kind": "patch",
+      "patch": 2,
+      "start": 4054,
+      "end": 4682,
+      "frames": 628
+    },
+    {
+      "kind": "previous",
+      "start": 4682,
+      "end": 4970,
+      "frames": 288
+    },
+    {
+      "kind": "patch",
+      "patch": 3,
+      "start": 4970,
+      "end": 5300,
+      "frames": 330
+    },
+    {
+      "kind": "previous",
+      "start": 5300,
+      "end": 5879,
+      "frames": 579
+    },
+    {
+      "kind": "patch",
+      "patch": 4,
+      "start": 5879,
+      "end": 6150,
+      "frames": 271
+    }
+  ],
+  "oldFinalSHA256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128",
+  "exactMixSHA256": "535115a6a2adc17b56a0eccb68af43af9f775cac98e10b0979e649ac6e2d2bb6",
+  "captionsUnchanged": true,
+  "timingUnchanged": true,
+  "userAcceptance": "pending",
+  "limitation": "Splice normalizes and re-encodes the entire video once; unchanged H264 pixels are not asserted byte-identical."
+}

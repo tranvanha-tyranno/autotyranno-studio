@@ -1,0 +1,28 @@
+{
+  "schema": "china-preflight/1",
+  "validation": {
+    "beats": 51,
+    "words": 2190,
+    "asOf": "2026-11-13",
+    "claimGate": "Pinned source period/units are required, and diagrams marked illustrative."
+  },
+  "frames": 17913,
+  "seconds": 597.1,
+  "shots": 51,
+  "lastWordEnd": 595.58,
+  "speed": 1.0,
+  "chapterTakes": 8,
+  "layouts": {
+    "c-chart": 89.9,
+    "c-closing": 12.966666666666667,
+    "c-compare": 58.4,
+    "c-flow": 192.83333333333334,
+    "c-map": 56.8,
+    "c-photo": 34.06666666666667,
+    "c-question": 11.9,
+    "c-sim": 140.23333333333332
+  },
+  "brandingGate": "No forbidden text in visible render props or spoken script",
+  "userAcceptance": "pending",
+  "audioListening": "not claimed"
+}

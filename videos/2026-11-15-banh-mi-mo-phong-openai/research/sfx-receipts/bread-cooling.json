@@ -1,0 +1,46 @@
+{
+  "id": "bread-cooling",
+  "file": "audio/sfx/downloaded/bread-cooling.mp3",
+  "sha256": "dc47d636237c88b4eeeda3a92dcb73fca71a18924c1726ebee075660197313ae",
+  "bytes": 2616970,
+  "durationSeconds": 97.15,
+  "sourceURL": "https://freesound.org/people/Erbsland-Music/sounds/623368/",
+  "downloadURL": "https://cdn.freesound.org/previews/623/623368_522747-hq.mp3",
+  "creator": "Erbsland-Music",
+  "sourceTitle": "Bread Crackling Cooling Fresh from Oven",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Fresh bread crust crackles while cooling; source notes oven fan/clothing noises",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "bread",
+    "crackle",
+    "oven"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b02",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b12",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/bread-cooling.html",
+    "htmlSHA256": "0ea4cf123908ffb45a45738b8bae233fbbc9ab092caea1b616bfc47011712d96",
+    "text": "research/sfx-source-pages/bread-cooling.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Fresh bread crust crackles while cooling; source notes oven fan/clothing noises by Erbsland-Music, Freesound #623368, CC0 1.0: https://freesound.org/people/Erbsland-Music/sounds/623368/",
+  "mixCaution": "Source discloses oven fan and clothing noises. Audition isolated crackles before use; no clean-foley claim."
+}

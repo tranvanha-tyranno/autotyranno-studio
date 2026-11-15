@@ -1,0 +1,175 @@
+{
+  "movingMediaSeconds": 87.76666666666667,
+  "clips": 24,
+  "intervals": {
+    "business/clip-busy-cafe-43a8c3da.mp4": [
+      [
+        0,
+        95,
+        "h01"
+      ]
+    ],
+    "business/clip-espresso-extract-43a8c3da.mp4": [
+      [
+        0,
+        95,
+        "h01"
+      ]
+    ],
+    "business/clip-espresso-flow-43a8c3da.mp4": [
+      [
+        0,
+        264,
+        "h03"
+      ]
+    ],
+    "business/clip-phone-payment-43a8c3da.mp4": [
+      [
+        0,
+        114,
+        "u01"
+      ]
+    ],
+    "business/clip-espresso-grinder-43a8c3da.mp4": [
+      [
+        0,
+        90,
+        "u02"
+      ]
+    ],
+    "business/clip-pour-milk-43a8c3da.mp4": [
+      [
+        0,
+        91,
+        "u02"
+      ]
+    ],
+    "business/clip-steam-milk-43a8c3da.mp4": [
+      [
+        0,
+        93,
+        "u06"
+      ]
+    ],
+    "business/clip-pour-milk-a4763218.mp4": [
+      [
+        96,
+        201,
+        "u07"
+      ]
+    ],
+    "business/clip-cafe-tables-43a8c3da.mp4": [
+      [
+        0,
+        104,
+        "u09"
+      ]
+    ],
+    "business/clip-close-shift-43a8c3da.mp4": [
+      [
+        0,
+        100,
+        "b08"
+      ]
+    ],
+    "business/clip-cafe-tables-8483e1bf.mp4": [
+      [
+        109,
+        205,
+        "v01"
+      ]
+    ],
+    "business/clip-serve-coffee-43a8c3da.mp4": [
+      [
+        0,
+        100,
+        "v03"
+      ]
+    ],
+    "business/clip-steam-milk-54baabcc.mp4": [
+      [
+        98,
+        206,
+        "v05"
+      ]
+    ],
+    "business/clip-espresso-extract-b14b55fe.mp4": [
+      [
+        100,
+        208,
+        "v05"
+      ]
+    ],
+    "business/clip-serve-coffee-0b6a338b.mp4": [
+      [
+        105,
+        208,
+        "p06"
+      ]
+    ],
+    "business/clip-espresso-flow-eaf1b1d1.mp4": [
+      [
+        269,
+        381,
+        "m05"
+      ]
+    ],
+    "business/clip-espresso-extract-eb23eaf6.mp4": [
+      [
+        213,
+        324,
+        "m05"
+      ]
+    ],
+    "business/clip-close-shift-4eb5ff74.mp4": [
+      [
+        106,
+        204,
+        "a01"
+      ]
+    ],
+    "business/clip-serve-coffee-35c0910b.mp4": [
+      [
+        214,
+        328,
+        "a03"
+      ]
+    ],
+    "business/clip-espresso-extract-b0b9a71b.mp4": [
+      [
+        330,
+        439,
+        "a05"
+      ]
+    ],
+    "business/clip-espresso-flow-67368f40.mp4": [
+      [
+        386,
+        509,
+        "a08"
+      ]
+    ],
+    "business/clip-busy-cafe-b14b55fe.mp4": [
+      [
+        100,
+        180,
+        "e01"
+      ]
+    ],
+    "business/clip-serve-coffee-ef18119d.mp4": [
+      [
+        333,
+        441,
+        "e03"
+      ]
+    ],
+    "business/clip-close-shift-b66ab498.mp4": [
+      [
+        210,
+        322,
+        "e05"
+      ]
+    ]
+  },
+  "scope": "Playback bounds and non-overlapping trims only, not semantic/aesthetic approval."
+}

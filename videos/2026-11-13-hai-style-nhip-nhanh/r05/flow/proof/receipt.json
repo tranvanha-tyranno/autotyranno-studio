@@ -1,0 +1,77 @@
+{
+  "clips": [
+    {
+      "beat": "b01",
+      "from": 0,
+      "duration": 351,
+      "decodedFrames": 351,
+      "file": "r05\\flow\\proof\\b01.mp4",
+      "sha256": "9c2a1a3c4a36a8692d540770b3f75515f3fa3c4cf83e7a432ca9455d3ea4188c",
+      "wallSeconds": 16.285
+    },
+    {
+      "beat": "b15",
+      "from": 4734,
+      "duration": 402,
+      "decodedFrames": 402,
+      "file": "r05\\flow\\proof\\b15.mp4",
+      "sha256": "d4f2fb5f1eefacfb5e2819721f4a85017966562c65250a7b94f566bf66edf8d2",
+      "wallSeconds": 17.855
+    },
+    {
+      "beat": "b17",
+      "from": 5449,
+      "duration": 335,
+      "decodedFrames": 335,
+      "file": "r05\\flow\\proof\\b17.mp4",
+      "sha256": "07efb6a94560242866ed608165f968a41983c293994ba8876b080468016d64c4",
+      "wallSeconds": 17.012
+    },
+    {
+      "beat": "b25",
+      "from": 8232,
+      "duration": 332,
+      "decodedFrames": 332,
+      "file": "r05\\flow\\proof\\b25.mp4",
+      "sha256": "a44a60868e69c6dd1229c54959081a2fa34d9c692ee40ef9429c44a8c2204d33",
+      "wallSeconds": 15.123
+    },
+    {
+      "beat": "b26",
+      "from": 8564,
+      "duration": 377,
+      "decodedFrames": 377,
+      "file": "r05\\flow\\proof\\b26.mp4",
+      "sha256": "c29ee145491883e95cf998f60f6695db85b692f2f690475703704ed522fa8bfd",
+      "wallSeconds": 18.922
+    },
+    {
+      "beat": "b31",
+      "from": 10420,
+      "duration": 329,
+      "decodedFrames": 329,
+      "file": "r05\\flow\\proof\\b31.mp4",
+      "sha256": "db6d9585d652e5d7b025974ca425c8c58fe03e3ef99941c8d8b173b0ec8fa377",
+      "wallSeconds": 16.54
+    },
+    {
+      "beat": "b42",
+      "from": 14309,
+      "duration": 414,
+      "decodedFrames": 414,
+      "file": "r05\\flow\\proof\\b42.mp4",
+      "sha256": "e383222e3b8a0aa90091f54499ed62c6a32ab8508cb64c970360ac623ed18a56",
+      "wallSeconds": 20.654
+    },
+    {
+      "beat": "subscribe",
+      "from": 17743,
+      "duration": 327,
+      "decodedFrames": 327,
+      "file": "r05\\flow\\proof\\subscribe.mp4",
+      "sha256": "7a746d11222b8255dbf0393666f3c78bfc984b0b8b74f6b9188bfa70919daf3b",
+      "wallSeconds": 15.655
+    }
+  ],
+  "review": "Pending complete moving-scene review; still samples do not establish pacing."
+}

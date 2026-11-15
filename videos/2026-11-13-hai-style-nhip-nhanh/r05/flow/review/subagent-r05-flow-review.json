@@ -1,0 +1,1225 @@
+{
+  "reviewed_at": "2026-11-13T17:22:17.003749+00:00",
+  "reviewer": "flow_pacing subagent",
+  "scope": {
+    "preflight_frames": 186,
+    "preflight_sheets": 13,
+    "proof_clips": 8,
+    "temporal_method": "Ordered frames every 12 frames (0.4 seconds at 30 fps) throughout each actual rendered proof clip. This is sequence review, not continuous audiovisual watching/listening. All 186 shot layout frames inspected at the preflight selected position."
+  },
+  "decision": "no_primary_numeric_or_canvas_crop_blocker_observed",
+  "observations": {
+    "numeric_layout": "b06,b07,b34 primary surplus results are now within canvas. Values shown include 12-10=2,14-12=2,conditional14-11.4=2.6,60k*30=1.8m,1.8m+200k=2m,20k*30=600k,120k*12=1.44m,and1.2m/12=100k. Counter intermediate values in preflight are in-progress; b15 ordered proof reaches600k before conditional stage.",
+    "b01": "Separate wallet/opening, transfer to extra spending, linked envelopes, and job allocation; main opening title/2m clear.",
+    "b15": "Daily receipt -> calendar accumulation to600k -> conditional11.4/2.6 -> new-bill/crossout caveat -> non-mandatory stamp.",
+    "b17": "Transfer between own accounts -> withdrawal held pending actual purchase -> duplicate row crossed; wallet amount descriptive phrase is too long for icon face.",
+    "b25": "Money assigned for next month -> reserve labeled -> same total across envelopes -> hand stopped from spending reserved envelope. Descriptive wallet amount too long in second shot.",
+    "b26": "Need before salary -> due-before-incoming timeline -> entries placed on calendar -> fixed-date reminder.",
+    "b31": "Main mandatory housing/food/transport visible. Last two parts repeat same scissors / keep-vs-flexible action across a cut; residual pacing limitation.",
+    "b42": "Purchase pays money -> discount does not increase wallet -> package put down -> cost/terms comparison -> save for later.",
+    "subscribe": "Subscribe button changes state on tap, bell tick, comment-writing stage, final send confirmation; no channel identity invented."
+  },
+  "remaining_observed_issues": [
+    {
+      "severity": "secondary_layout",
+      "shots": [
+        "b17-p02",
+        "b18-p04",
+        "b25-p02"
+      ],
+      "observation": "Long descriptive strings passed into Wallet amount extend beyond the icon face. Not a primary numerical/canvas crop; shorter copy or fitted wallet text would improve legibility."
+    },
+    {
+      "severity": "pacing_limitation",
+      "shots": [
+        "b31-p03",
+        "b31-p04"
+      ],
+      "observation": "Same scissors/receipts action resets across these two parts. Other repeated terminal compositions remain (b08,b13,b14,b21,b24,b37,b39,b50); no assertion of complete creative diversity."
+    }
+  ],
+  "source_edits_during_review": false,
+  "acceptance_limit": "Technical layout/sequence review only; user aesthetic acceptance remains pending. Existing narration/mix correctness handled by root pipeline.",
+  "preflight_frame_receipts": [
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b01-p01-00062.jpg",
+      "bytes": 57334,
+      "sha256": "909de3145938166e0ebf17c69af7da64f16269b49f1cb86e87423bc6d20fc08e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b01-p02-00153.jpg",
+      "bytes": 49522,
+      "sha256": "150cc3d15f517926e2ee8e1ec1e2f826c275639c3cca6d2f76ea15d1fdaa4c8c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b01-p03-00223.jpg",
+      "bytes": 54872,
+      "sha256": "1d146cfd54bdee5a8e1eb6c4f9b9bf5e42b181b943bafcf5d1e2b113c934880b"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b01-p04-00311.jpg",
+      "bytes": 65176,
+      "sha256": "d0cedf859f899713bfc1b48c7dcbe63adf1e6f21d920b911c8a84893ac495360"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b02-p01-00421.jpg",
+      "bytes": 49396,
+      "sha256": "1b2908b5aad8300fdf33d29e6d121c78f06d6a109972a06b3fdbab0c975abf0f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b02-p02-00538.jpg",
+      "bytes": 52616,
+      "sha256": "c1c17746ba2ffeb6855677b8c3c818220b474d6a4b8e13b96326c53686f92f24"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b02-p03-00622.jpg",
+      "bytes": 51522,
+      "sha256": "cbb1d258ea2406071edb87be5e3c8de575c03a7e85ba29714545907924876e80"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b03-p01-00708.jpg",
+      "bytes": 49246,
+      "sha256": "6e6a6ce94e1235edf0981069cbb09fc11b690d3013a5d0a4ca4dabc3af5bd7c0"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b03-p02-00819.jpg",
+      "bytes": 59926,
+      "sha256": "0c291b1b1631aab12bb078e9c688f10601d14208ad505975c2b62608bc23c544"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b03-p03-00927.jpg",
+      "bytes": 51746,
+      "sha256": "a4a8e1a469f65784b40729cf1aacb26bb10ff00e8c24dd73218202b7147138c1"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b04-p01-01015.jpg",
+      "bytes": 50605,
+      "sha256": "3b953441a60d4f50f95c311b23062a106f6b825607d1e828b8f1f2ccf31a2f04"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b04-p02-01094.jpg",
+      "bytes": 52929,
+      "sha256": "73a409429bc89ee71e36875a549ae6626fdf7f3e1661ef02e81f7181fd79df32"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b04-p03-01179.jpg",
+      "bytes": 54621,
+      "sha256": "fbd05dcc18de95495a0d9384ff06bb8c78ac2c177b0bf7b5ba5075e725077eb7"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b04-p04-01260.jpg",
+      "bytes": 44379,
+      "sha256": "b73e679f10ca4ac9f8df11fcff2e7b564fb825ea3d90008d7321cd9d5a3ec90c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b05-p01-01346.jpg",
+      "bytes": 58953,
+      "sha256": "c1920eca0b2abe4bbc78f0382d3d391ee1c66faedff2d711e32c5eff512df902"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b05-p02-01460.jpg",
+      "bytes": 54239,
+      "sha256": "a2caa1ae591c3df6d9930e20b3a1f55eb06670052f875c11fdd10291c1695d9a"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b05-p03-01569.jpg",
+      "bytes": 48588,
+      "sha256": "81e814eaeba38399c8aa81cb273206d1b2cf0e5cc0cb5e33975909ad650b07a2"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b06-p01-01676.jpg",
+      "bytes": 51942,
+      "sha256": "bbadaf1912e0f69d42c5678934876b7bb1491e5d255fe3b15739662b8fe86ca8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b06-p02-01766.jpg",
+      "bytes": 55992,
+      "sha256": "7f5a4e429664fc40f239b1e42179a09fff004209bf54f291b9383bed7d13ae1f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b06-p03-01844.jpg",
+      "bytes": 49100,
+      "sha256": "5c57fcfe649b962a3922466ff3147ae60e8d350b31cb4dcb39cc58be23faf6a9"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b06-p04-01918.jpg",
+      "bytes": 55046,
+      "sha256": "99221a7e7ae99b55088ea5f1edb66b23025ee2dc8e411b50594a2f39b4dacf79"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b07-p01-02021.jpg",
+      "bytes": 53356,
+      "sha256": "f7933dfd320a2abe7fad5eb6c00cedeb78966d060159bf37ead4f4c17306b82d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b07-p02-02127.jpg",
+      "bytes": 59314,
+      "sha256": "5e08876e331caac45f5918b223a21f0440776a801f46ec12d532779aa3d32bf3"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b07-p03-02247.jpg",
+      "bytes": 50571,
+      "sha256": "b5e8138cf4a29f6259f0a9a6c25efa5caff4ae2b3b67b8fd50f38595b8497f86"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b08-p01-02333.jpg",
+      "bytes": 63160,
+      "sha256": "3b350be3e35b44f312c1f93bdd2a0271b818139d3552577b030ffbfdfc1fe097"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b08-p02-02412.jpg",
+      "bytes": 65825,
+      "sha256": "c38804a821a1ee85d94946f54630abfa3385ddd261451f804e19da6846e98dde"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b08-p03-02505.jpg",
+      "bytes": 60682,
+      "sha256": "dcab9180cf0aecf83c36bc04ee64a84ee530dde64d3051d7ebb818fbe9187356"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b08-p04-02620.jpg",
+      "bytes": 60617,
+      "sha256": "0c50b7d7827521252787fd0154a2e59e705a18d12086a9beb5d90ad4f3016552"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b09-p01-02734.jpg",
+      "bytes": 77762,
+      "sha256": "fa943929a8cfd7401525a1ee296f362042cceb3617e87103891daf70c0b5422c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b09-p02-02834.jpg",
+      "bytes": 50998,
+      "sha256": "2340ef4cb186107f229f39e8dd643894cddb54d25f1d3d543c24fd964397ef85"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b09-p03-02932.jpg",
+      "bytes": 58812,
+      "sha256": "1ec9c86c2510755ba7b6864b11ea9032a86261917a419b1d925d5936dcef4f3d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b09-p04-03020.jpg",
+      "bytes": 57475,
+      "sha256": "6992db93abb6d00c7ae88e9898a70e74716438569f363a7d68a391673170a9bc"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b10-p01-03118.jpg",
+      "bytes": 44691,
+      "sha256": "f39bf64015a82426bfcc4268dc0c812af0a67cc07f9269bed435ba0c779a5eef"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b10-p02-03237.jpg",
+      "bytes": 51130,
+      "sha256": "c5ae2fb709f46d2813b1dff14ebe07cd05951cf858ca4a9f57797e237e719b9d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b10-p03-03354.jpg",
+      "bytes": 50886,
+      "sha256": "8f7e4b703d1aaa7dd340a45ef6d1d7ad7d851f57e70c7562c5c512db9bd60ca5"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b11-p01-03463.jpg",
+      "bytes": 49469,
+      "sha256": "2e55b04f7ebe6cf8b8cd4661823a9f72744ae1f2aae8552c49aa66ae4e794a93"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b11-p02-03575.jpg",
+      "bytes": 59346,
+      "sha256": "ddf77d510d87c591177765666486c5cbe5f06dfa4526f65d5c1c5734d562494f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b11-p03-03686.jpg",
+      "bytes": 52512,
+      "sha256": "5d548bc98e4773ddc7e76da0c3f755bb213e611e9cc1f7b9e7d1a273b24e1444"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b12-p01-03772.jpg",
+      "bytes": 33710,
+      "sha256": "e7e3bf0a4d1a49a7010ce64a70b70f1cd299eee276138ca7e2701bd51fdc5e20"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b12-p02-03853.jpg",
+      "bytes": 79460,
+      "sha256": "edb2fb6b9b526b971be78aeb55831b3061f879becd68423d962e17d6e1381d43"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b12-p03-03955.jpg",
+      "bytes": 43534,
+      "sha256": "8b3e74ba1a6c27586a27180e687cb27f50eeb1ba35d4589afb3a5e07e9925038"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b12-p04-04050.jpg",
+      "bytes": 49509,
+      "sha256": "410f562515f14f9c9a9740e198163b9d269092a04a9ac97768bb2e9e46a6507c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b13-p01-04134.jpg",
+      "bytes": 60927,
+      "sha256": "5aed2fa9e65477db0a9250eaa5a4b437ca883ae5a59b13a93b565ad321160c8c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b13-p02-04234.jpg",
+      "bytes": 59732,
+      "sha256": "cb1634a1a3e73dbd64fca1616c277c4e387782fe0f728367d8f176b742179956"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b13-p03-04332.jpg",
+      "bytes": 61182,
+      "sha256": "cc79e0a880dd2c7d267724c0026cc516a868de10f9412d789a0a0d39d5b30532"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b13-p04-04418.jpg",
+      "bytes": 55859,
+      "sha256": "e43794198e8fc85d4feadce8b640a06dd42ac29bf1e22da4042451c8963293b7"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b14-p01-04526.jpg",
+      "bytes": 56247,
+      "sha256": "c3e0165e536ebd79a449bef83eb9ded7faaa2b36ac111bd5c74287b640897c9a"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b14-p02-04639.jpg",
+      "bytes": 56186,
+      "sha256": "fd1fe16dd378df7cc54b951163b29e45e6300ae7237bed5a5bdfa52dfeaa362a"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b14-p03-04713.jpg",
+      "bytes": 52416,
+      "sha256": "5ba7e6bc169299935199bdca9c6a72beb578ef3fc5d1cb16f8e3832553497632"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b15-p01-04773.jpg",
+      "bytes": 47537,
+      "sha256": "12254fa35d4986db455ebe074d5833967871194bb840716657610cc6abaff39e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b15-p02-04848.jpg",
+      "bytes": 78164,
+      "sha256": "c8f53095ea0fbc4f848901ca34ea44c0ee777d28f99ab2949d82a82f68169532"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b15-p03-04928.jpg",
+      "bytes": 65263,
+      "sha256": "8786129429f70f6ea77482d98ca35df0d91632198a5d0db071947d402f1336ff"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b15-p04-05006.jpg",
+      "bytes": 74027,
+      "sha256": "f03bc7d585f7c9c0a45b36fd060056f03518115c182b6b254e3a55f4aec75284"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b15-p05-05098.jpg",
+      "bytes": 48221,
+      "sha256": "7a38ded7d8eb397ccdcbe3f46d72483ea7c76d2086c6e5957de256d89ac9db71"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b16-p01-05188.jpg",
+      "bytes": 42713,
+      "sha256": "baf015193eadeb9d72f4eecc834550f104fc37c6e5c45c5ca5f4fad168e29aca"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b16-p02-05295.jpg",
+      "bytes": 39061,
+      "sha256": "fbade9f33aabe50aa1fbd861423028867a5ad00385dd14aa91105ba303855e5f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b16-p03-05408.jpg",
+      "bytes": 48950,
+      "sha256": "f69aead025679ca7d3c1eec9d9bfb54a24d7312acd7bd34fa98f5a4b12fbcff7"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b17-p01-05515.jpg",
+      "bytes": 50920,
+      "sha256": "445775f02bbc232066b205ebc4da24b2e645f9ec22cda8f454fe8fc08562b870"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b17-p02-05627.jpg",
+      "bytes": 55953,
+      "sha256": "0c88362f5408db1d3f7e5ec35144f6eace149d8709eea5c0a326d2ccfb8c503b"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b17-p03-05741.jpg",
+      "bytes": 35198,
+      "sha256": "fbabc9657e64eb6a278d864cdae5ab8773931424262a35b1fc12905659921243"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b18-p01-05845.jpg",
+      "bytes": 57947,
+      "sha256": "8692bd9de1387ded71af91f8546cc5be12cd2ea14e471ec94a91f4560d95e191"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b18-p02-05935.jpg",
+      "bytes": 51058,
+      "sha256": "cf48022a629d53475b86c87c6723a89ccea92911061896fbcbdaef6411b99df8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b18-p03-06015.jpg",
+      "bytes": 46283,
+      "sha256": "6c360b74cd717e9cd247fc5465e20b2a0782c35e7c8d5fecc49a9b708b7d097d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b18-p04-06089.jpg",
+      "bytes": 57663,
+      "sha256": "952651ee5cb9913771754b1f722a383cbbee29d5294463b2b73b59b10dd10c3f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b19-p01-06194.jpg",
+      "bytes": 47538,
+      "sha256": "460ee3fbfc595f960b8cd7797f7d0e7f3cec7045bc73009e09e765893a257954"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b19-p02-06323.jpg",
+      "bytes": 58209,
+      "sha256": "4c35632a8eb77453bd2f0590585649f252a808231e2d16985f69fd9263b8e0bc"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b19-p03-06437.jpg",
+      "bytes": 51357,
+      "sha256": "3c5a64a3abdf5e727ef7f472dcc15c9915968a515bc92bca0eebaedb4bd5a368"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b20-p01-06532.jpg",
+      "bytes": 53768,
+      "sha256": "75b0845aadbc8b8cd3b02acdd714e45d46f3ec75558e5bf5ffddd4c60959d788"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b20-p02-06632.jpg",
+      "bytes": 42398,
+      "sha256": "ad930dcf6b02c77011e9101a36c9d49d1d4f2f3716e14a14889f24a3a605d0b5"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b20-p03-06713.jpg",
+      "bytes": 45502,
+      "sha256": "a34eb17b7590b9a37f8e9ea779d9277d3b57d50b9b30eb39fc5980e78d3c4634"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b20-p04-06803.jpg",
+      "bytes": 62655,
+      "sha256": "fdcb6aa9fb5bf3f560223837d1ead2011d780138ad81db2e4f8e1ff93c2d62a0"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b21-p01-06907.jpg",
+      "bytes": 42059,
+      "sha256": "7ff4afb7ae54cde68419f80cc5c96f23d382719efb7a2e80a17bc35d8d521b02"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b21-p02-07027.jpg",
+      "bytes": 58201,
+      "sha256": "83f24c518bf3105249efc996feb129cc6572850eb73e25e121345ab8d1590d3c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b21-p03-07140.jpg",
+      "bytes": 58410,
+      "sha256": "2893bbcb38688e1895effd676635a474be03bd6a766f9bb4cc792d4b84ad0801"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b22-p01-07230.jpg",
+      "bytes": 53984,
+      "sha256": "8214364f9dafe525e5b214d49ab2738368614a03fa9e7d52d2b1acfaf11a5d8e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b22-p02-07322.jpg",
+      "bytes": 78136,
+      "sha256": "65165e1b630a92636653d0a015494e44f65115e7c326c8f7edced8745a90dbef"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b22-p03-07403.jpg",
+      "bytes": 63648,
+      "sha256": "dc2cc05f503c5eae6db15839b3258bc675b8ed70cfaeee0b7ce8297331ba8217"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b22-p04-07513.jpg",
+      "bytes": 58672,
+      "sha256": "6243fd2f33ec9f666d1733312657828e44b050ae61c96d43dcc9f43b99f7259e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b23-p01-07634.jpg",
+      "bytes": 71266,
+      "sha256": "6eb178cd3bf120b7d8f1bbe0a53897a2e998bc06a81bd58778815e2f9d61aefa"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b23-p02-07743.jpg",
+      "bytes": 54195,
+      "sha256": "1f7eea5318220b40476e4ecc0598e4ca97e6a77172d3e5e7afd516b3a1a604b3"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b23-p03-07858.jpg",
+      "bytes": 64997,
+      "sha256": "1d7e5555f5e20c0566a9afe115daa4961f636921a8b8dd0c7590faac1452c446"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b24-p01-07977.jpg",
+      "bytes": 59583,
+      "sha256": "7fb420b2a402b61688b127601a305c7a3ed5a3fe2ebc00e7d57a375c6f547f62"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b24-p02-08095.jpg",
+      "bytes": 60886,
+      "sha256": "9201128df5315df26cca4354a2afca10f6fc5532ae876714bbd43ec88f022ca5"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b24-p03-08197.jpg",
+      "bytes": 59496,
+      "sha256": "5bfcfcf97e3fe7a5fcd49ffbe3f9d5abecf30b596a0f9c7059ce6987867296e3"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b25-p01-08288.jpg",
+      "bytes": 55081,
+      "sha256": "b6edc7cd20e1a8e2a7775bbc7a24e699f37ec4a13c9034827bc22bfb748c3d3a"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b25-p02-08376.jpg",
+      "bytes": 54669,
+      "sha256": "614fcece38a2613b75fec9b009725604ac7b5769a739cd2f8f8b038dd4ebbb0c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b25-p03-08455.jpg",
+      "bytes": 48051,
+      "sha256": "ea0cbba31b4afd6a3c1d3a95ceca9861771e4b089d7537f07a01e58ae2dfdd79"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b25-p04-08533.jpg",
+      "bytes": 44501,
+      "sha256": "68d8f67315ee3eea49d8cbf895f6962824e64d14c74135bdaa4e546d1f424417"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b26-p01-08612.jpg",
+      "bytes": 60264,
+      "sha256": "02fb383bef81dff76107c1e789cec40ddeb413dc28bc281b52e39ca9b2583321"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b26-p02-08706.jpg",
+      "bytes": 53229,
+      "sha256": "900c03c774b2784739d2cf62dccdc9d51c0ac5f93377e09073111650ef5e46b8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b26-p03-08818.jpg",
+      "bytes": 69189,
+      "sha256": "58988548ef82ba1e5315d4a2a8bd70e44dc385636cb1e8b89df67dfaaf9c9f2e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b26-p04-08911.jpg",
+      "bytes": 73633,
+      "sha256": "28c5c7fcc1898c3f22bf4a03d589e851a333ff9fe5c22bee7799ab1e46312b5e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b27-p01-09005.jpg",
+      "bytes": 50264,
+      "sha256": "83c4fe428a9267b420125bea6948c459fcf0cdce2bc93124ae69fc7b511f5d02"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b27-p02-09113.jpg",
+      "bytes": 55286,
+      "sha256": "5f062ed5aa76c5979ff6a4c55ff818137e75d80654f2b1667e4c89bda79d7511"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b27-p03-09192.jpg",
+      "bytes": 62455,
+      "sha256": "a96dd5e35803f57390ef5d92dafd70273a19b61e66c72ce6832bc6654f29cecd"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b27-p04-09273.jpg",
+      "bytes": 52727,
+      "sha256": "64c0f24e57175d4e71c43227535e64545b52aa81aac896d953521ca23bbac721"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b28-p01-09352.jpg",
+      "bytes": 52153,
+      "sha256": "aa4051e0db33c38c4648abd91fa8c3eb575fa71fb29bb1e1c514cd4a8a9d47b7"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b28-p02-09440.jpg",
+      "bytes": 53258,
+      "sha256": "e116e5d15f21c8dc02d38c6a864d30d44d555e377b9ba40ea5bd1aea9344662c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b28-p03-09532.jpg",
+      "bytes": 67314,
+      "sha256": "557bc4d1ce6a39df224fe171ad806a382626e38c23fd20f3622f90b216ceb6eb"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b28-p04-09608.jpg",
+      "bytes": 51902,
+      "sha256": "ce3e81b8c8b2285cfe830c434e55bcbe0a40c4d298a6da655cd0a666a44e4951"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b29-p01-09694.jpg",
+      "bytes": 51463,
+      "sha256": "f695432d70fd98b561b92eab78b8b9ce3019b0e58154a8d18e68041e6ad71013"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b29-p02-09797.jpg",
+      "bytes": 48848,
+      "sha256": "d6f4592f9df0bd408cb218230d8ad43e5616da6821d6bb9e5ea6a99f0966bcb0"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b29-p03-09906.jpg",
+      "bytes": 60258,
+      "sha256": "66c034ccbc0d4d415a3fe3980045528424f4e513e871fb851ac14339e4899949"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b29-p04-09994.jpg",
+      "bytes": 60686,
+      "sha256": "96d0418596d0c9db368ddbfbae794d302fe6e1be62d475e3999b78c93065572c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b30-p01-10097.jpg",
+      "bytes": 55119,
+      "sha256": "9a562232fd5ace5b7d3b5e72a1733235ca5f323c6ddadfee122175ff704e65dc"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b30-p02-10185.jpg",
+      "bytes": 67339,
+      "sha256": "78a8fdec18bacd8d229551d332936fc489c4194879a36012b8f6b841f868281f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b30-p03-10280.jpg",
+      "bytes": 41738,
+      "sha256": "aedadbbd871f95ee4057e3c751bd4dc2d8fc2fcb0b887c1515c250915f1d8e26"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b30-p04-10382.jpg",
+      "bytes": 36238,
+      "sha256": "06b85bc6d185f9203923a24811e65ed84d1b6a14a82f8d183db16acc657c4b38"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b31-p01-10459.jpg",
+      "bytes": 78043,
+      "sha256": "ff8c3c5eb6ce7a85b2dc4507be96fb58b7be3b4a4253459edfe22772d8f8fb17"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b31-p02-10532.jpg",
+      "bytes": 51466,
+      "sha256": "a2e1fd2f4406ce0191a1be4e6b1cb4ab9372dd16423f0482662afd9d894331c3"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b31-p03-10621.jpg",
+      "bytes": 59028,
+      "sha256": "2d026fa97b74613521368f868538a43f8673a58f5ec00cc3f7c4e187d8e1a7c6"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b31-p04-10714.jpg",
+      "bytes": 58969,
+      "sha256": "d71abd521f1a01a7e4d51165a917452379593b76d637fce029f77dfb2998c42d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b32-p01-10822.jpg",
+      "bytes": 59661,
+      "sha256": "58f15a4651b9a6d19a7198ef42ccce70dc39303438b5d0f793a48574a958bca0"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b32-p02-10916.jpg",
+      "bytes": 47785,
+      "sha256": "bc0e12e26a0cd57971c39ab7b1d9842b97af6c2b916525d14a9d9e4276a5c557"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b32-p03-10999.jpg",
+      "bytes": 55233,
+      "sha256": "3e01aca8847bc72e45d6c2c1854819b50f1c255845b290f336e79d7a8902230c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b32-p04-11082.jpg",
+      "bytes": 38623,
+      "sha256": "9ebb1e40212614557240c495179f42b71407846ee96f36127b9ed49944a033ca"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b33-p01-11190.jpg",
+      "bytes": 59401,
+      "sha256": "cf9a5629bb686d7b3a8240d42a1f49d61990b3c0a924312e01e6e9832f4991dc"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b33-p02-11313.jpg",
+      "bytes": 42988,
+      "sha256": "0f16d9685c6eacc87ed31db984996d326860ad83410110edeef7faec255c8d74"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b33-p03-11431.jpg",
+      "bytes": 49517,
+      "sha256": "4e15c6d3c61519587e9a94bc2e48e4dbb3dec183adc02c49cdd23316746df219"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b34-p01-11527.jpg",
+      "bytes": 61211,
+      "sha256": "21b965b3f63bcc61f6db01bc98f3e0f62af9f76a09bbc970aca63160141796a8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b34-p02-11643.jpg",
+      "bytes": 60342,
+      "sha256": "c2a9696f071ab193e4cb827f2ab02b93a92da6dc95650e58db74ab69894b3f46"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b34-p03-11762.jpg",
+      "bytes": 50857,
+      "sha256": "f785637f45fcaf1407d8aa87a1f18d5cd5b78bec6a66b755c10203add83bd3d2"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b35-p01-11881.jpg",
+      "bytes": 48374,
+      "sha256": "2de15257d8ff8e6a4cfba1b8f1340a96cf1659a4631c28ed7ffeac1219fedf79"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b35-p02-12004.jpg",
+      "bytes": 39464,
+      "sha256": "9b2620f1308a2331233d3e3a60deb84c33b34a176d258f3e4f705f2b29d020a8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b35-p03-12114.jpg",
+      "bytes": 59019,
+      "sha256": "02bbefbb1170cbad4fdba669d8a810b419c284b6605a8223772cd505be419a90"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b36-p01-12232.jpg",
+      "bytes": 44930,
+      "sha256": "86696a069460df0f6f01a0cb15004080058c579f3763c0bf076dfa0fd15639ca"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b36-p02-12341.jpg",
+      "bytes": 54710,
+      "sha256": "374af11eacd9c4165d5e89b75d0c4bd576652357ff07bfd40855cb3067da2729"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b36-p03-12442.jpg",
+      "bytes": 56284,
+      "sha256": "833e73d816abedd2739de44e1d599d6c82ce373c1d44f7e88d23c33f13cd51e4"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b37-p01-12541.jpg",
+      "bytes": 39346,
+      "sha256": "9c32f6151924a28b483e06746593d8dd0930fcde0be15bc7d8f9afe63c582ceb"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b37-p02-12644.jpg",
+      "bytes": 60230,
+      "sha256": "46a4c3c79822da9cdc91b2e079a7d35f35faa962bb45ecce0643f01a9c7e94bb"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b37-p03-12761.jpg",
+      "bytes": 61027,
+      "sha256": "20a955ab42e7c5b258e2324741020d0a8b226bcf05d0705b85676dae2a41dfc8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b38-p01-12858.jpg",
+      "bytes": 50912,
+      "sha256": "da448e37558717ff44b99b0b0488248c045817e7fa1e310e296dd615dd900252"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b38-p02-12930.jpg",
+      "bytes": 45607,
+      "sha256": "a196226c0a139066222c14bb4c76863b4179553c7bc32f138dc5a3162066b899"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b38-p03-13018.jpg",
+      "bytes": 59301,
+      "sha256": "2a6238e930c26af700e1c69db0dce9456ebe59017b00bda87362075a9b09763f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b38-p04-13131.jpg",
+      "bytes": 63337,
+      "sha256": "dc156bd55b27baa4204ba143520eb6cc45c5665951d279a4197875259ddabb01"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b39-p01-13230.jpg",
+      "bytes": 50266,
+      "sha256": "89f094d189aa0497a74de2c5656984d1c15f38d4636d4bd417cac1b58eb4872f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b39-p02-13313.jpg",
+      "bytes": 49525,
+      "sha256": "0aa8bf595d2f5923152a466a8f895fc5d5e1959a62abae29b7b5b5a9fa5b6676"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b39-p03-13396.jpg",
+      "bytes": 45417,
+      "sha256": "c12148c0f66e4832cb5cd89e97d15ccffb52144c1b79cb77f04272ec5d4d7f29"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b39-p04-13493.jpg",
+      "bytes": 43598,
+      "sha256": "7e57bd18e3a18439e49ce2d46024944520787cab43b2850a96c364763637f4e5"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b40-p01-13584.jpg",
+      "bytes": 55298,
+      "sha256": "3d61fefec688225cdae86dd320caad75fb890ec4683e45ad02e7a7ccc6c5935d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b40-p02-13689.jpg",
+      "bytes": 42030,
+      "sha256": "c50a4797f144156a527a7e257aeb34be879764dc3068a7db8cb8067393016163"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b40-p03-13799.jpg",
+      "bytes": 58135,
+      "sha256": "ffc5f347405d89aed239bdbfce0342334ddd4d3c4c14ad267b3807ffb39ee9e7"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b40-p04-13890.jpg",
+      "bytes": 59449,
+      "sha256": "7e68fbb51b035ae8829e2efed76d2a6e989207c3886a5fc78e6efd1452c5a2bc"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b41-p01-13970.jpg",
+      "bytes": 67178,
+      "sha256": "b0be11566cf337ccfe32dfc1c4bab823ce01e95632dedd322268b4f33b96b06e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b41-p02-14065.jpg",
+      "bytes": 42822,
+      "sha256": "041d1561772a23a4f9962539a361fa2812cdf146a76ecdcee02d5567e00c51ac"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b41-p03-14161.jpg",
+      "bytes": 41618,
+      "sha256": "5fdbcedf4b8f75b7fad7e154270ad5d0421c67e75adaa368110ec5c332b226ca"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b41-p04-14266.jpg",
+      "bytes": 42569,
+      "sha256": "4fb8b0bef6a27629d0142847a32bb95f0e8c735885430ea4cb85b2207cd93719"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b42-p01-14349.jpg",
+      "bytes": 52991,
+      "sha256": "10483033557b535cefda40e1a4dd36cef4d9c518a82d4b02f06b4d6f1434eb7d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b42-p02-14424.jpg",
+      "bytes": 64768,
+      "sha256": "72e390864dfdfdd425b86bd937e3ab5a68dd80dbb0f078c2fed067fd8ed16bf3"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b42-p03-14528.jpg",
+      "bytes": 59615,
+      "sha256": "0f6eea239eaf9a931488c8b94d79ac20892a9f5365564ac0fb9899abc89a5d73"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b42-p04-14627.jpg",
+      "bytes": 57431,
+      "sha256": "60595e2c96699229e2932a45848b2b678bc679b5988abf675ebd4078e959eb5d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b42-p05-14699.jpg",
+      "bytes": 49080,
+      "sha256": "7670e5ab00c616dea1625b7e9e9f44fb1c63fcef2067167366e99797bc814b7b"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b43-p01-14781.jpg",
+      "bytes": 65133,
+      "sha256": "93d2f683dcabccb414cfaa2ea8962ef776bd73368a475220a02a11aa4aba8efe"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b43-p02-14883.jpg",
+      "bytes": 48647,
+      "sha256": "457d9c88bc6d9f7adaf52d8b6991d105f55637bcd009de7de7b2663afb24c47f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b43-p03-14989.jpg",
+      "bytes": 68539,
+      "sha256": "e50042b1f723159e1568c0745ae9d1f797148526b1560bf958947c28013e096c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b43-p04-15085.jpg",
+      "bytes": 53692,
+      "sha256": "33c9c968b6181669464422a34a2ecd9649c50bb3825ef36ef206e0f4563d4ff0"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b44-p01-15178.jpg",
+      "bytes": 63696,
+      "sha256": "87a0335ca7c6f3c05d82f229c26b2e8e222f7c9b271f86807ad81d31ec5dfd97"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b44-p02-15299.jpg",
+      "bytes": 47607,
+      "sha256": "1957f25b65c770e4d89c974486e4344999106b61269e3db5d54c67d8f924af7f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b44-p03-15431.jpg",
+      "bytes": 54413,
+      "sha256": "7ded013cd63b8f8960e384c2004f6c565548e7db240e5279f1d0dccec5a685fd"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b45-p01-15546.jpg",
+      "bytes": 55843,
+      "sha256": "93fe265a24c07d2d1aa44500078bcaa36b5b2724d300df443a385abb55d11d22"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b45-p02-15645.jpg",
+      "bytes": 48492,
+      "sha256": "eae2fd705a416d34b771c6db255ffeb995062384ed5c88ca7cee0e8212950450"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b45-p03-15723.jpg",
+      "bytes": 49055,
+      "sha256": "ef0ab86fe29ea0e218fcce6d3e024bf213b5d913f1cb9cd2450c0cbc9c1af30e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b45-p04-15804.jpg",
+      "bytes": 40729,
+      "sha256": "15fa86447c6b47c5c75187e487aa76013f461ab14bc43c0e00dd0d8711da6138"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b46-p01-15886.jpg",
+      "bytes": 48543,
+      "sha256": "7270668b6138acb858f469d91de192e3925215356984e227449f85f6d194e01a"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b46-p02-15993.jpg",
+      "bytes": 52465,
+      "sha256": "fd13baae2c416efc5ba8ee20e96c18529de8cae49dbdb1b4cce2d2db40f35015"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b46-p03-16117.jpg",
+      "bytes": 46861,
+      "sha256": "f61fb725dada407b081ed095433c59e0fc5ab7b2c606390613ba1f1ae1c0aa2e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b47-p01-16243.jpg",
+      "bytes": 54829,
+      "sha256": "31c14909431f01720c6365675ff3c929bf2c59be9085c2af627e170587fdcd24"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b47-p02-16343.jpg",
+      "bytes": 25982,
+      "sha256": "cc22953f1fec7860c25821134dc8dea78117c9faf4c18f59af4850357416fadf"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b47-p03-16430.jpg",
+      "bytes": 41005,
+      "sha256": "a7575a4492cf70b3c061bb45d1a92deed176dd43776c7f95ea19668ae10f738c"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b47-p04-16534.jpg",
+      "bytes": 38212,
+      "sha256": "588aea42e08ffe5d0b419b4730ff8f03549618a141cd2383ea66539b90d8ecd1"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b48-p01-16648.jpg",
+      "bytes": 51678,
+      "sha256": "ae162c5f12ae7bbe41b3b4ed5e9310b966d81428339517864c09c67998cc9f1d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b48-p02-16755.jpg",
+      "bytes": 48878,
+      "sha256": "17b9de83d4658658d0c716de13a851ccd8946f300b0e00b7907469ca9b0f8536"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b48-p03-16826.jpg",
+      "bytes": 58264,
+      "sha256": "753e1eda7958b6e87115132c5299b83c262765ac7bdc25a4f02cfdc31d62b773"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b48-p04-16903.jpg",
+      "bytes": 63480,
+      "sha256": "09faf3fbbddaf23faa5cc219b1405ebe8b3028ab176d36b66a23a2f0d7a07903"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b49-p01-16996.jpg",
+      "bytes": 51478,
+      "sha256": "389ac40e3c496ad9e714777cd5e3c2e5c09bbceba714558d415617a3c626b0bd"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b49-p02-17090.jpg",
+      "bytes": 36845,
+      "sha256": "418db5208e9f8d3a7f0b1faf0f5bfc32d0ee0a3e25fca5e9298b69f8c055902e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b49-p03-17171.jpg",
+      "bytes": 58369,
+      "sha256": "b6e5db3f04932832b3b0372adf95d83c2395a50a45f58a4a54166b1b9d0f50ea"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b49-p04-17284.jpg",
+      "bytes": 57281,
+      "sha256": "a4092db81c81d549ca3f487fc3ab73c33a727d3b554eddd869cd6bd4cf5e235b"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b50-p01-17395.jpg",
+      "bytes": 49495,
+      "sha256": "bdb82fe08ab092d0abbab459be9b6f6a7c528a7277e25d784335e5153ea0db44"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b50-p02-17483.jpg",
+      "bytes": 66037,
+      "sha256": "a287e87aa17be76fcfbf2b197bacc40bd53ba7f52ecdf52d6d588bf6739fe05e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b50-p03-17575.jpg",
+      "bytes": 48290,
+      "sha256": "ec87d0462c326270d1cde1346a68e62336515b186d5d3d50281ce5e73923c82d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\b50-p04-17693.jpg",
+      "bytes": 47242,
+      "sha256": "2725bdbad4ec1d14311bfb373ef3012d18f979dc9203827f1ecfc1062e657623"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\subscribe-p01-17798.jpg",
+      "bytes": 48155,
+      "sha256": "16480b99bfb669ba3516d4d6bd9cc778060abb6eed00c593c5fa8506bc88dba4"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\subscribe-p02-17879.jpg",
+      "bytes": 36792,
+      "sha256": "6228ebcfd0569a3a5252a9d31f6bef226934101affcddf51ce8207a52cf0418f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\subscribe-p03-17968.jpg",
+      "bytes": 51469,
+      "sha256": "7c368e6058af4b9b7a5569db1c1abdc6671e6814f9d1daf235908b9ef1e90825"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\subscribe-p04-18045.jpg",
+      "bytes": 33495,
+      "sha256": "a0907432a18ec283a3dfc5a7e77b00791b317e93240504f951d38c5413d8e0fa"
+    }
+  ],
+  "preflight_sheet_receipts": [
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-01.jpg",
+      "bytes": 285277,
+      "sha256": "1b703af85b2ec5ad053ef0f18cbdce5b9ecfcc055b98590e70ba70d87f6a8911"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-02.jpg",
+      "bytes": 311309,
+      "sha256": "c5fabe078704838f07939826bd7dc0c5e24d3c7b3eb9b86741807318c56d6358"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-03.jpg",
+      "bytes": 288676,
+      "sha256": "31a221d3293abea75694d733543cee8729aa7523aab677f2cc0c04bf73401512"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-04.jpg",
+      "bytes": 293640,
+      "sha256": "8683224dd8f40a9f193af55b49cea4770a7f71f489eeeb923fc3e17f138b01a0"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-05.jpg",
+      "bytes": 280168,
+      "sha256": "7be8f836f385073c2b57002fcdd3dcb00eeb15bcc82f1821aa749d8eb14a3220"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-06.jpg",
+      "bytes": 316811,
+      "sha256": "e67488ce7d7790358a4be7b9012d727eee0b0363206f6b3af90ae8eddd054713"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-07.jpg",
+      "bytes": 318576,
+      "sha256": "34c2e807780b82f0585fb11dd0bcda00f30dff4aa2ff5cf3bdb31db398cfdb05"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-08.jpg",
+      "bytes": 294065,
+      "sha256": "a27f36bbb576244b401f3c8c384c0eb4ccb1974063a85d41ac960dbf0dc4dbd3"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-09.jpg",
+      "bytes": 288965,
+      "sha256": "8f1b38d79b9bf31fee00e7907ff7278bf91952dcd1a7e0f0c241fa15dcbcd574"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-10.jpg",
+      "bytes": 283988,
+      "sha256": "60f39e010fdfa2a741c6a0317d7c67f51e2c178eca22020f844c9008fe973433"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-11.jpg",
+      "bytes": 289193,
+      "sha256": "5692b3d12638a38823460377c98f8fa9aae62258c9a1ba0f1fdcb2930026d421"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-12.jpg",
+      "bytes": 280732,
+      "sha256": "917c32b8ef710906e6e1b6797bd46940e20b097486aff3030ac2bff3b98726c2"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\preflight\\sheet-13.jpg",
+      "bytes": 125194,
+      "sha256": "31d0749aab8a7a606d60f14c693332086653bf4645f183dfaa0d20959db582d3"
+    }
+  ],
+  "proof_receipts": [
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b01.mp4",
+      "bytes": 978980,
+      "sha256": "9c2a1a3c4a36a8692d540770b3f75515f3fa3c4cf83e7a432ca9455d3ea4188c",
+      "frames": 351,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 30
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b15.mp4",
+      "bytes": 1379451,
+      "sha256": "d4f2fb5f1eefacfb5e2819721f4a85017966562c65250a7b94f566bf66edf8d2",
+      "frames": 402,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 34
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b17.mp4",
+      "bytes": 640276,
+      "sha256": "07efb6a94560242866ed608165f968a41983c293994ba8876b080468016d64c4",
+      "frames": 335,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 28
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b25.mp4",
+      "bytes": 731224,
+      "sha256": "a44a60868e69c6dd1229c54959081a2fa34d9c692ee40ef9429c44a8c2204d33",
+      "frames": 332,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 28
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b26.mp4",
+      "bytes": 991679,
+      "sha256": "c29ee145491883e95cf998f60f6695db85b692f2f690475703704ed522fa8bfd",
+      "frames": 377,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 32
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b31.mp4",
+      "bytes": 991778,
+      "sha256": "db6d9585d652e5d7b025974ca425c8c58fe03e3ef99941c8d8b173b0ec8fa377",
+      "frames": 329,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 28
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\b42.mp4",
+      "bytes": 1132288,
+      "sha256": "e383222e3b8a0aa90091f54499ed62c6a32ab8508cb64c970360ac623ed18a56",
+      "frames": 414,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 35
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\subscribe.mp4",
+      "bytes": 758408,
+      "sha256": "7a746d11222b8255dbf0393666f3c78bfc984b0b8b74f6b9188bfa70919daf3b",
+      "frames": 327,
+      "fps": 30.0,
+      "ordered_frame_interval": 12,
+      "ordered_samples": 28
+    }
+  ],
+  "ordered_sheet_receipts": [
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b01-1.jpg",
+      "bytes": 303215,
+      "sha256": "5897873e7ef20a95aab7341c1e66de1ac6e8b43b6b69f94a440f00d69bdeecda"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b01-2.jpg",
+      "bytes": 105512,
+      "sha256": "7488fcb007d0e9431be0c9654341cf1d412b5da6aaa82638aa95a2633a6c840d"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b15-1.jpg",
+      "bytes": 319905,
+      "sha256": "125f8d904f23f4e15ccfc42826d3aa04b293cd3b29d19cd81c3ebd1c7dd86013"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b15-2.jpg",
+      "bytes": 133288,
+      "sha256": "ed09d26c4a85f0ea575f9509b2bc4eb070cbf9d5ee5df1d27faf766faf9e7dfe"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b17-1.jpg",
+      "bytes": 256339,
+      "sha256": "d576620232b876c165471c751c3cd2be05d8dd7f5243ebfc2b9b620abcaa1c34"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b17-2.jpg",
+      "bytes": 63247,
+      "sha256": "070c7f55c3dd6efdaa491471d5f17f64fee02e9112e3d962e47c800122040ff8"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b25-1.jpg",
+      "bytes": 262714,
+      "sha256": "6af05acf069ec4a82d008c84526cfadf1c3c8e858d5c9191c93c971955dfdbb9"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b25-2.jpg",
+      "bytes": 64313,
+      "sha256": "593587badd07e846ae359d291395a69f3c50efd83a9e2df3ff3933ffb27cf180"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b26-1.jpg",
+      "bytes": 317922,
+      "sha256": "6fa4078207de79d37b01871b3df37239d3518bdde817685ac11e0775b4788cd7"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b26-2.jpg",
+      "bytes": 134622,
+      "sha256": "1c1e33a2c451cd9ef576601f29fac26bbf3f0bdb06da14ac614689c26d18813b"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b31-1.jpg",
+      "bytes": 299707,
+      "sha256": "952bf227518f79b9deac37e04c891d0d6698e69b7ab1d8388bdbae7231240131"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b31-2.jpg",
+      "bytes": 72300,
+      "sha256": "7080b30fc4b1fbf937519d8370d5f8de8319e1125ebcc29a104b383c3dafee27"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b42-1.jpg",
+      "bytes": 262013,
+      "sha256": "e265b3c61a2de1f1cd90972c479ac4dbe27e9ec87a847746e070e38f864ca213"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\b42-2.jpg",
+      "bytes": 128060,
+      "sha256": "71e18b0ce8db0adf2f7ec415ba0376c599ce9a22496a5b5496a3a948e399bd3e"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\subscribe-1.jpg",
+      "bytes": 202864,
+      "sha256": "57ee1f6d2dad6e8177c085a8595d6f844573ed21a89eb447129aaee0a4602e04"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\flow\\proof\\ordered-review\\subscribe-2.jpg",
+      "bytes": 58605,
+      "sha256": "236d346b68a8d18b43ab387f3fe1c5ca78cb6e839195e6e42148a9d584c83591"
+    }
+  ],
+  "source_receipts": [
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\finance-pace-flow\\art.tsx",
+      "bytes": 8385,
+      "sha256": "be0931f0cd7bccc4b4e9ac678ac9205f81d8ef73f30eba63d180ec6c52b9de0f"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\finance-pace-flow\\index.tsx",
+      "bytes": 1804,
+      "sha256": "ce556dc05d85c001e8b69fff27c5b308f161fd72d85ef2c3ffcca3d90678ba54"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\finance-pace-flow\\progressions.tsx",
+      "bytes": 21691,
+      "sha256": "1e6fd7f5fe6a8376563215fb69cb83d804f423a6581c3e09e3018f9efce9be14"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\finance-pace-flow\\scenes.tsx",
+      "bytes": 42710,
+      "sha256": "113c0cc9f201163e5e7999c7848dd6f14ef52617c89e879005b28481af3edb92"
+    },
+    {
+      "path": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\finance-pace-flow\\types.ts",
+      "bytes": 2122,
+      "sha256": "1904a64edd8e41c66b40f17715df8d1b94b9086774f6553f3a2686d2ef2e4376"
+    }
+  ]
+}

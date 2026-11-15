@@ -1,0 +1,29 @@
+{
+  "topic": "Lương tăng, vì sao tiền dư vẫn không tăng?",
+  "audience": "Người đi làm muốn hiểu chi tiêu theo thu nhập",
+  "hook": "Tăng lương 2 triệu nhưng phần dư không tăng",
+  "originalScript": true,
+  "styles": [
+    "finance-cast",
+    "finance-minimal"
+  ],
+  "comparison": "Same exact narration take and illustrative arithmetic",
+  "sourceStudy": {
+    "input": "User supplied single screenshot, not a video",
+    "observed": [
+      "Two expressive cartoon adults in a shared stage",
+      "Simple outline shapes",
+      "Financial/category icons",
+      "Dark grid background"
+    ],
+    "adaptation": "Original cast and warm paper stage; interactions explain arithmetic; no copied characters, logo, frame or source audio",
+    "limitations": "No claim about source animation, pacing, lip sync or audio can be made from the screenshot"
+  },
+  "costPolicy": {
+    "newVideoImageMusicRequests": 0,
+    "speechTakes": 1,
+    "reuseVoiceAcrossStyles": true,
+    "renderLocally": true
+  },
+  "acceptance": "Pending user feedback"
+}

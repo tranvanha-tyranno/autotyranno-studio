@@ -1,0 +1,212 @@
+{
+  "title": "Một nghìn tỷ đô: tiền đi qua hay giá trị ở lại?",
+  "duration_seconds": 50,
+  "format": "1920x1080 30fps",
+  "script": "Một nghìn tỷ đô la xuất nhập khẩu. Nghe như Việt Nam vừa kiếm được một gia tài. Nhưng khoan: đó không phải lợi nhuận. Báo cáo mười tháng năm hai nghìn không trăm hai mươi sáu ghi nhận thương mại hàng hóa vượt mốc này. Con số cộng cả hàng bán ra lẫn hàng mua vào. Hãy hình dung một xưởng may: đơn hàng rất lớn, nhưng vải, máy móc và thiết kế đều phải mua. Doanh thu chạy qua xưởng không đồng nghĩa tiền ở lại trong túi. Với nền kinh tế cũng vậy. Điều đáng hỏi là doanh nghiệp Việt giữ được bao nhiêu giá trị? Muốn tiến xa, không chỉ cần thêm đơn hàng. Còn cần công nghệ, thiết kế, thương hiệu và những doanh nghiệp nội đủ mạnh. Mốc kỷ lục là tín hiệu tích cực. Nhưng thước đo dài hạn vẫn là năng suất và thu nhập. Việt Nam sẽ chỉ bán nhiều hơn, hay sẽ làm chủ nhiều hơn?",
+  "reference_profile": "hidden-podcast; actual moving footage, modest dark grade, original microphone and actual speech waveform",
+  "shots": [
+    {
+      "file": "assets/mixkit-4011.mp4",
+      "in": 0,
+      "seconds": 5,
+      "purpose": "hook / container ship",
+      "style": "hero"
+    },
+    {
+      "file": "assets/mixkit-4450.mp4",
+      "in": 0,
+      "seconds": 2.5,
+      "purpose": "turn / moving port cranes",
+      "style": "full_bleed"
+    },
+    {
+      "file": "assets/mixkit-1947.mp4",
+      "in": 0,
+      "seconds": 5.4,
+      "purpose": "context / factory aerial",
+      "style": "editorial",
+      "source_note": "Nguồn: Cục Thống kê / Báo Chính phủ · 03.11.2026"
+    },
+    {
+      "file": "assets/mixkit-4011.mp4",
+      "in": 0,
+      "seconds": 3.4,
+      "purpose": "gross trade versus value / accounts",
+      "style": "split",
+      "secondary": "assets/mixkit-4450.mp4",
+      "secondary_in": 2,
+      "labels": [
+        "XUẤT KHẨU",
+        "NHẬP KHẨU"
+      ],
+      "split_note": "CẢNH MINH HỌA HOẠT ĐỘNG THƯƠNG MẠI"
+    },
+    {
+      "file": "assets/mixkit-51012.mp4",
+      "in": 0,
+      "seconds": 3.1,
+      "purpose": "Actual needle sewing fabric: explicit workshop analogy",
+      "style": "full_bleed",
+      "grade": "eq=brightness=-0.005:saturation=0.73:contrast=1.025"
+    },
+    {
+      "file": "assets/mixkit-51013.mp4",
+      "in": 0,
+      "seconds": 6.9,
+      "purpose": "Fabric and machinery while discussing bought inputs",
+      "style": "full_bleed",
+      "grade": "eq=brightness=-0.005:saturation=0.73:contrast=1.025"
+    },
+    {
+      "file": "assets/mixkit-914.mp4",
+      "in": 0,
+      "seconds": 1.9,
+      "purpose": "domestic firms / working office",
+      "style": "split",
+      "secondary": "assets/mixkit-4707.mp4"
+    },
+    {
+      "file": "assets/mixkit-221.mp4",
+      "in": 0,
+      "seconds": 6.9,
+      "purpose": "technology / screen reflection",
+      "style": "inset",
+      "secondary": "assets/mixkit-242.mp4"
+    },
+    {
+      "file": "assets/mixkit-308.mp4",
+      "in": 5,
+      "seconds": 4.7,
+      "purpose": "productivity / spreadsheet",
+      "style": "editorial",
+      "panel_width": 650,
+      "panel_font": 51
+    },
+    {
+      "file": "assets/mixkit-4450.mp4",
+      "in": 6,
+      "seconds": 5.2,
+      "purpose": "record versus income / real cargo movement",
+      "style": "full_bleed"
+    },
+    {
+      "file": "assets/mixkit-4011.mp4",
+      "in": 7,
+      "seconds": 5,
+      "purpose": "closing question / ship and cranes",
+      "style": "closing"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://baochinhphu.vn/nhung-diem-sang-noi-bat-trong-buc-tranh-kinh-te-10-thang-102261103160431984.htm",
+      "claim": "10-month 2026 trade milestone; archived research-source.html",
+      "classification": "reported fact"
+    },
+    {
+      "claim": "Kim ngạch xuất nhập khẩu cộng xuất khẩu và nhập khẩu; không phải lợi nhuận",
+      "classification": "definition"
+    },
+    {
+      "claim": "Xưởng may và linh kiện là ví dụ giải thích; không phải thống kê exact unit or sector",
+      "classification": "explicit analogy"
+    },
+    {
+      "claim": "Cần tăng năng suất, công nghệ, thương hiệu",
+      "classification": "analysis, not a promise of income"
+    },
+    {
+      "url": "https://baochinhphu.vn/vuot-moc-1000-ty-usd-kim-ngach-xuat-nhap-khau-xac-lap-muc-cao-nhat-tu-truoc-toi-nay-102261103135046083.htm",
+      "snapshot": "fact-source-1.html",
+      "classification": "primary official reporting",
+      "scope": "reported trade milestone"
+    },
+    {
+      "url": "https://baochinhphu.vn/nang-cao-ham-luong-gia-tri-viet-nam-trong-moi-san-pham-xuat-khau-102261103115808577.htm",
+      "snapshot": "fact-source-2.html",
+      "classification": "primary official reporting",
+      "scope": "domestic value and production linkage"
+    }
+  ],
+  "brand": {
+    "name": "LĂNG KÍNH",
+    "signature": "TYRANNO",
+    "palette": {
+      "ink": "#151C25",
+      "paper": "#F5F1E8",
+      "amber": "#FFB347",
+      "mint": "#68D8C3"
+    },
+    "motif": "offset brackets + editorial rules",
+    "mic": false,
+    "waveform": false
+  },
+  "voice": {
+    "id": "ZlVlUEsl3JykOGluaNu1",
+    "name": "Thuy Tien — Vietnamese Narrator",
+    "model": "eleven_v3"
+  },
+  "render_profile": "lang-kinh-mixed-editorial-v2",
+  "previous_batch": "videos\\2026-11-11-documentary-50s",
+  "sound_effects": [
+    {
+      "name": "impact",
+      "at": 0,
+      "gain_db": -15
+    },
+    {
+      "name": "whoosh",
+      "at": 7.35,
+      "gain_db": -20
+    },
+    {
+      "name": "paper",
+      "at": 11.8,
+      "gain_db": -18
+    },
+    {
+      "name": "paper",
+      "at": 16,
+      "gain_db": -20
+    },
+    {
+      "name": "typing",
+      "at": 20.2,
+      "gain_db": -23
+    },
+    {
+      "name": "whoosh",
+      "at": 24.7,
+      "gain_db": -21
+    },
+    {
+      "name": "tick",
+      "at": 30.1,
+      "gain_db": -21
+    },
+    {
+      "name": "paper",
+      "at": 34.85,
+      "gain_db": -21
+    },
+    {
+      "name": "impact",
+      "at": 40,
+      "gain_db": -22
+    },
+    {
+      "name": "whoosh",
+      "at": 44.75,
+      "gain_db": -18
+    }
+  ],
+  "base_grade": "eq=brightness=-0.015:saturation=0.84:contrast=1.035,colorbalance=gm=-0.012:bm=-0.018:rm=0.006",
+  "review_round": 6,
+  "parent_batch": "videos\\2026-11-11-ten-pass-review\\round-05",
+  "caption_font_size": 47,
+  "caption_settings": {
+    "max_chars": 54,
+    "max_seconds": 2.8,
+    "break_sentences_always": true
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "httpStatus": 401,
+  "code": "invalid_api_key",
+  "type": "invalid_request_error"
+}

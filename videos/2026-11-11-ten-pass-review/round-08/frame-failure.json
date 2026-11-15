@@ -1,0 +1,10 @@
+{
+  "rejected_output": "rejected-1498-frames.mp4",
+  "observed_picture_frames": 1500,
+  "observed_final_frames": 1498,
+  "container_duration_seconds": 50,
+  "diagnosis": "mixed per-clip color metadata can reinitialize the subtitle/filter pipeline and lose buffered boundary frames",
+  "repair": "standardize sample aspect ratio and BT.709 TV-range metadata on every rendered shot before concat",
+  "repair_status": "verified: final decoded 1500 frames",
+  "scope": "Normalization fixed this observed export; preserve rejected sample for regression diagnosis."
+}

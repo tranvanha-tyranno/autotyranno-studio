@@ -1,0 +1,30 @@
+{
+  "id": "receipt-hands",
+  "pexelsID": 4959926,
+  "sourceURL": "https://www.pexels.com/photo/close-up-of-woman-hands-holding-bill-4959926/",
+  "creator": "Kaboompics",
+  "theme": "receipt",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/receipt-hands.jpg",
+  "downloadURL": "https://images.pexels.com/photos/4959926/pexels-photo-4959926.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

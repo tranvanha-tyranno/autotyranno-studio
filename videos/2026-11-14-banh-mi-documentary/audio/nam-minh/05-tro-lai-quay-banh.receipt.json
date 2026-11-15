@@ -1,0 +1,18 @@
+{
+  "provider": "Microsoft Edge online TTS",
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "request_hash": "ef96da331173bb23a7e390808075a55dc4a6bcafb0478e33869115f04b268aa6",
+  "sha256": "82f870daaac789310a4f5c3b272f490589fc4a1b66ded3ef573dcf8a9ed52bab",
+  "editorial": {
+    "map": "videos/2026-11-14-banh-mi-documentary/editorial-map.json",
+    "mapSHA256": "db5a5471eea1a447a8f625e9b1f35872dfd34a9a8a4c93456c1d2e7cee809bb2",
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "userApproval": "not_established"
+  },
+  "wallSeconds": 51.526,
+  "wordBoundaryCount": 168,
+  "postSynthesisTimeStretch": false,
+  "paidElevenLabsCalls": 0
+}

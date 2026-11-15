@@ -1,0 +1,30 @@
+{
+  "id": "vn-market-crowd",
+  "pexelsID": 30426347,
+  "sourceURL": "https://www.pexels.com/photo/bustling-street-market-in-urban-asia-30426347/",
+  "creator": "Pew Nguyen",
+  "theme": "market",
+  "documentedLocation": "Vietnam",
+  "locationEvidence": "Pexels primary photo page location field",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/vn-market-crowd.jpg",
+  "downloadURL": "https://images.pexels.com/photos/30426347/pexels-photo-30426347.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "ed8975465924b966029b7cee44fbadce761a3021e3513c146126aee42513cb6c",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

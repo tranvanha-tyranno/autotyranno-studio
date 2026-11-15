@@ -1,0 +1,106 @@
+[
+  {
+    "file": "semantic_assets.py",
+    "sha256": "a4ade00471b3cded535a257e64373078ac52222b8a289855f83547d2a4ee8ce4"
+  },
+  {
+    "file": "semantic_package.py",
+    "sha256": "39f998fa909615769bbc3c60b480a638650a17631275ea4cd3a54a332c6d6a45"
+  },
+  {
+    "file": "semantic_pairs.py",
+    "sha256": "c117a078259b5839a64ef213284907b62a08a1d6e0480689e515d6c422ec9581"
+  },
+  {
+    "file": "semantic_qa.py",
+    "sha256": "438ef2b03c92316b3be4d59690216ea0d78f560dfa9b1be20b08bca4d4550287"
+  },
+  {
+    "file": "semantic_rebuild.py",
+    "sha256": "ad2ed135e0f5244f73307eafc600be9820c0017c221f06952948dae373fe2993"
+  },
+  {
+    "file": "semantic_render.py",
+    "sha256": "60f8aaa4672ee07131196f7d157a6a02df9a5413237cf48e7b421b5e802ca48c"
+  },
+  {
+    "file": "SEMANTIC_REBUILD.md",
+    "sha256": "43a1ea9b567cf93fe2c7e71c6dafab0edd72d999230d18350e1f5526d06cfbbc"
+  },
+  {
+    "file": "cinematic.profile.json",
+    "sha256": "94e1859c3bd2cc5da7257fedce9bb2b97841beeda35b0d87461790562b329291"
+  },
+  {
+    "file": "cinematic/src/semantic-entry.tsx",
+    "sha256": "230deaef2cae18ae7f5f03e000c37f2389464671c78675c2cbc2359230b0638d"
+  },
+  {
+    "file": "cinematic/src/Root.tsx",
+    "sha256": "46a521ee3966e8fc3b9d9a0e98553e855200101a9be122e9bc0862ec3969625a"
+  },
+  {
+    "file": "cinematic/scripts/semantic-proof.mjs",
+    "sha256": "9f002d9d2aec7cd6c7a1335181637c07225aef33397a58da1f0ae47a430c357a"
+  },
+  {
+    "file": "cinematic/package.json",
+    "sha256": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f"
+  },
+  {
+    "file": "cinematic/package-lock.json",
+    "sha256": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c"
+  },
+  {
+    "file": "semantic-profiles/hidden.json",
+    "sha256": "1a7352dfd78783eba8296ce2371c38e3a51dd4627336c5a5449a6940e9ad8524"
+  },
+  {
+    "file": "semantic-profiles/long.json",
+    "sha256": "a828d6e0196c5239061cf767b91141c478749106591e686b5d15220dd4b765c0"
+  },
+  {
+    "file": "semantic-profiles/README.md",
+    "sha256": "34b0feca484dc55439c23081fa0b689a8f9ddc9d18a7847cef8250dcb9402750"
+  },
+  {
+    "file": "cinematic/src/semantic/Composition.tsx",
+    "sha256": "4c836410447b4ed46e1de760232d1bb625b5ef326b27f86f17f47d8f9cd8e79e"
+  },
+  {
+    "file": "cinematic/src/semantic/EmailScenes.tsx",
+    "sha256": "365ddcdc335030fb6693ac4213f134b1ed778e7006e2796b8fb79e52c7263197"
+  },
+  {
+    "file": "cinematic/src/semantic/index.ts",
+    "sha256": "2fd9178d2cc91ad17a4e019a5327b06c6f42eb66d0f732f7d0dd5d9ab735ff2b"
+  },
+  {
+    "file": "cinematic/src/semantic/Objects3D.tsx",
+    "sha256": "8f7015ae2605004d5fe7964837a0a8512c14374e0c09fb78329ada536616600e"
+  },
+  {
+    "file": "cinematic/src/semantic/ProcessScenes.tsx",
+    "sha256": "3e4d1d6e17cac1868d1bbcaa788a00387fbcb442983de549f07ab82358ccbf03"
+  },
+  {
+    "file": "cinematic/src/semantic/StoryScenes.tsx",
+    "sha256": "c967f2163676ddabfec37c08b8f8f8bda3e048ffd30fedfc068a797d95d0e87e"
+  },
+  {
+    "file": "cinematic/src/semantic/theme.ts",
+    "sha256": "c031d0cb2e7e12486860de5987c042e38eaa9845d491f886e2f0c91ec3ef3faa"
+  },
+  {
+    "file": "cinematic/src/semantic/types.ts",
+    "sha256": "3e3af2584d386fa1b580a1d41312b0aecd726f9cfb1fd7eeb8cae01df71a6550"
+  },
+  {
+    "file": "cinematic/src/semantic/UI.tsx",
+    "sha256": "2c8e8159f5e518dec861300220e678b7ecbf584ed370a8800e19dff059e1a2f2"
+  },
+  {
+    "file": "cinematic/src/semantic/Workbench.tsx",
+    "sha256": "36c7e1a6a7fca3a463ed8de5916731591147a32f6d511508a76fd241a37eacbf"
+  }
+]

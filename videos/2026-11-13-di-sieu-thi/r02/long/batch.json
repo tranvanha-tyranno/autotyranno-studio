@@ -1,0 +1,24 @@
+{
+  "id": "di-sieu-thi-pilot-2026-11-13-r02",
+  "direction": "long",
+  "title": "Vì sao mua một món lại mang về cả giỏ?",
+  "structure": [
+    "hook",
+    "disclaimer",
+    "content",
+    "cta"
+  ],
+  "voice": {
+    "name": "Nhật Phong",
+    "voice_id": "6adFm46eyy74snVn6YrT",
+    "model_id": "eleven_v3",
+    "language_code": "vi",
+    "speed": 1.0,
+    "stability": 0.5,
+    "similarity_boost": 0.8
+  },
+  "durationPolicy": "Natural exact take plus at least one second tail; never truncate the final sentence or stretch voice.",
+  "userAcceptance": "pending",
+  "manifestSHA256": "b9127a805176eb95645a7a8f433642988dbaf8d032419e4f3f111141937560f1",
+  "guidanceSHA256": null
+}

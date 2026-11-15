@@ -1,0 +1,211 @@
+{
+  "schema": "reference-content-analysis/1",
+  "source": {
+    "id": "5uTC396kCs4",
+    "url": "https://www.youtube.com/watch?v=5uTC396kCs4",
+    "title": "5 THỦ THUẬT CHUYỂN TIỀN RA NƯỚC NGOÀI CỦA GIỚI NHÀ GIÀU TRUNG QUỐC - CUỘC ĐÀO THOÁT CỦA DÒNG VỐN",
+    "channel": "THE HIDDEN SELF",
+    "declared_duration": 1320.0,
+    "metadata_source": "docs/video-references/2026-11-11/catalog-complete.json",
+    "metadata_source_sha256": "92328ccade88c4885c4269791b478f0d57807080ab7b2a1aba830c793bfd0483",
+    "transcript_path": "docs/video-references/2026-11-11/5uTC396kCs4/transcript.json",
+    "transcript_sha256": "c177bdfd98a9cba03026f760ccb911431e75e4116bc3cd492388153b7158bf08",
+    "media_path": "docs/video-references/2026-11-11/5uTC396kCs4/reference-av.mp4",
+    "media_sha256": "c45f6a5184916255437e201d71aa30cea1d515863a313d9063af5659a04c34c1"
+  },
+  "coverage": {
+    "method": "full_caption_read",
+    "reviewed_start": 0.4,
+    "reviewed_end": 1303.425,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listening": false,
+    "visual_method": "existing sparse contact sheet inspected"
+  },
+  "chapter_source": "agent-inferred semantic sections from caption; not official chapters or frame-accurate cuts",
+  "central_question": "Người kể phân loại năm kiểu dịch chuyển vốn để giải thích cuộc đuổi bắt giữa rào cản, động lực và phương thức; chỉ học cấu trúc, không biến thành hướng dẫn lách luật.",
+  "chapters": [
+    {
+      "start": 0.4,
+      "end": 94.32,
+      "title": "Cùng con số, hai nhu cầu",
+      "question": "Vì sao một hạn mức nhỏ lại tạo câu chuyện lớn?",
+      "claim": "Người kể đặt nhu cầu thông thường cạnh khối tài sản lớn và hứa năm nhóm cơ chế.",
+      "evidence_example": "0,4–36,96 cùng con số nhìn từ gia đình và siêu giàu; 38,04–50,08 ẩn dụ nước/đập.",
+      "mechanism": "Một quy mô không khớp nhu cầu → câu hỏi tiền đi đường nào.",
+      "transition": "83,96–93,32 nêu lộ trình từ sơ khai đến phức tạp.",
+      "payoff": "Người xem biết phạm vi và thứ tự chương.",
+      "emphasis": "Nhấn xung đột về quy mô; hạn mức/pháp luật trong lời nguồn chưa được kiểm.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 94.32,
+      "end": 137.53,
+      "title": "Nhận diện và quảng bá",
+      "question": "Đâu là nội dung chính?",
+      "claim": "Bumper rồi quảng bá hệ sinh thái.",
+      "evidence_example": "94,32 chào; 106,08 quảng bá tới 135,89.",
+      "mechanism": "Ngắt mạch nhận diện/bán hàng.",
+      "transition": "137,53 mở phần thứ nhất.",
+      "payoff": "Không có disclaimer pháp lý đầu.",
+      "emphasis": "Ghi rõ đây là promotion.",
+      "kind": "promotion",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 137.53,
+      "end": 327.09,
+      "title": "Phần một: giới hạn vật lý",
+      "question": "Vì sao phương án sơ khai không mở rộng được?",
+      "claim": "Người kể cấu trúc mỗi nhóm theo cơ chế→tình huống→trở ngại.",
+      "evidence_example": "230,17 đưa vụ bắt giữ; 273,89 trở lại khối lượng và rủi ro phát hiện.",
+      "mechanism": "Nhu cầu giá trị cao gặp giới hạn vận chuyển và thực thi.",
+      "transition": "340,69 sang phương án chuyển từ vật lý sang hệ thống.",
+      "payoff": "Kết mỗi nhóm bằng hạn chế làm xuất hiện nhu cầu nhóm kế tiếp.",
+      "emphasis": "Trong bản mới chỉ cần phân loại/rủi ro, không tái hiện các bước thực hiện sai phạm.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 327.09,
+      "end": 340.69,
+      "title": "Thông báo nguồn đăng",
+      "question": "Có thêm luận cứ không?",
+      "claim": "Thông báo chống reup.",
+      "evidence_example": "327,09 tên đơn vị/kênh chính chủ.",
+      "mechanism": "Ngắt nội dung để bảo vệ nguồn đăng.",
+      "transition": "340,69 tiếp tục phần hai.",
+      "payoff": "Không phải phần giải thích cơ chế hay disclaimer đầu.",
+      "emphasis": "Tách khỏi tuyến chương.",
+      "kind": "ownership_notice",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 340.69,
+      "end": 524.22,
+      "title": "Phần hai: gom quy mô và dấu vết",
+      "question": "Đổi từ vật lý sang hệ thống khắc phục được gì, lộ ra gì?",
+      "claim": "Người kể cho nhóm hai cùng cấu trúc: quy mô→vụ việc→phát hiện→giới hạn.",
+      "evidence_example": "421,1–501,58 câu chuyện vụ án được người kể dùng làm minh họa; 503,14–522,58 trở về giám sát.",
+      "mechanism": "Thay phương án trước bằng mạng nhiều bên nhưng tạo dấu vết liên kết.",
+      "transition": "524,22 chuyển từ cấp cá nhân lên cấp doanh nghiệp.",
+      "payoff": "Phần hai không chỉ đổi tên; đổi đơn vị hành động và dạng trở ngại.",
+      "emphasis": "Dùng một bảng so sánh cấp độ/rủi ro, không phát hành cách né giám sát.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 524.22,
+      "end": 712.78,
+      "title": "Phần ba: giao dịch và chứng từ",
+      "question": "Tại sao quy mô doanh nghiệp làm câu chuyện phức tạp hơn?",
+      "claim": "Người kể đối lập tài khoản vốn/thương mại và dùng chứng từ làm lớp diễn giải.",
+      "evidence_example": "630,5–686,22 đưa Thanh Đảo như ví dụ; đó là lời nguồn, chưa đối chiếu vụ án và tính tương đồng cơ chế.",
+      "mechanism": "Hình thức giao dịch được dùng để giải thích sự khó thẩm định.",
+      "transition": "739,5 chuyển sang mạng lưới trung gian/đặc khu.",
+      "payoff": "Tăng độ phức tạp theo tiêu chí đã hứa ở hook.",
+      "emphasis": "Không sao chép khẳng định an toàn pháp lý/hợp pháp hoàn hảo của nguồn; giấy tờ không chứng minh hợp pháp.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 712.78,
+      "end": 739.5,
+      "title": "Thông báo chống mạo danh",
+      "question": "Vì sao mạch giải thích dừng?",
+      "claim": "Thông báo về reup/mạo danh/quảng cáo ngoài kênh.",
+      "evidence_example": "714–737,5 cảnh giác nội dung kênh khác.",
+      "mechanism": "Bảo vệ nhận diện, không thêm mắt xích nhân quả.",
+      "transition": "739,5 gọi rõ phần bốn.",
+      "payoff": "Không nhầm thành ví dụ nội dung.",
+      "emphasis": "Đánh dấu ownership_notice.",
+      "kind": "ownership_notice",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 739.5,
+      "end": 895.3,
+      "title": "Phần bốn: mạng trung gian và phản ứng thực thi",
+      "question": "Một cơ chế từng tồn tại có thể bị đổi luật/thực thi ra sao?",
+      "claim": "Người kể đóng phần bằng phản ứng quản lý làm mô hình cũ bị thu hẹp.",
+      "evidence_example": "849,5–892,62 chuyển từ mô tả mô hình sang bắt giữ/án và siết quản lý được người kể viện dẫn.",
+      "mechanism": "Đổi môi trường thực thi → thay tính khả dụng của cách cũ.",
+      "transition": "895,3 chuyển từ hệ thống vật lý sang kỹ thuật số.",
+      "payoff": "Mỗi chương có thay đổi điều kiện, tránh mô tả một cơ chế tĩnh từ đầu đến cuối.",
+      "emphasis": "Giữ bài học về điều kiện/giới hạn; không diễn các thao tác rửa tiền.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 895.3,
+      "end": 1091.22,
+      "title": "Phần năm: số hóa không xóa rủi ro",
+      "question": "Ít rào cản vật lý hơn có đồng nghĩa hết rủi ro?",
+      "claim": "Người kể chuyển tới phương thức số rồi nêu rủi ro đối tác, theo dấu và phong tỏa.",
+      "evidence_example": "1054,38–1089,26 là đoạn giới hạn/rủi ro thay vì chỉ nói sức mạnh công nghệ.",
+      "mechanism": "Thay dạng phương tiện tạo rủi ro khác, không xóa giám sát hoặc nghĩa vụ pháp lý.",
+      "transition": "1091,22 gọi tên bức tranh toàn cảnh.",
+      "payoff": "Chương cuối vẫn có giới hạn, không chỉ cao trào công nghệ.",
+      "emphasis": "Lược bỏ cách làm cụ thể; các khẳng định loại bỏ hoàn toàn kiểm soát/ngưỡng vô hạn không nên học.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 1091.22,
+      "end": 1203.3,
+      "title": "So sánh lại năm nhóm",
+      "question": "Năm chương vừa nghe khác nhau ở tiêu chí nào?",
+      "claim": "Người kể tổng kết theo quy mô, độ phức tạp, chi phí và mức giám sát.",
+      "evidence_example": "1095,18–1201,46 lần lượt gọi lại từng nhóm với cùng bộ trục.",
+      "mechanism": "Từ năm câu chuyện thành một mô hình so sánh chung.",
+      "transition": "1203,3 hỏi tại sao người sở hữu tài sản chấp nhận chi phí/rủi ro.",
+      "payoff": "Payoff không phải chỉ nhắc lại tên phần; bổ sung bản đồ quan hệ.",
+      "emphasis": "Dùng tiêu chí lặp nhất quán; số chi phí/quy mô trong nguồn không được coi là bảng hướng dẫn.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 1203.3,
+      "end": 1303.43,
+      "title": "Từ các nhóm trở lại động lực",
+      "question": "Vì sao cuộc đuổi bắt tiếp tục?",
+      "claim": "Người kể khép bằng động lực phòng vệ/bất an và ẩn dụ dòng nước ban đầu.",
+      "evidence_example": "1244,66–1287,66 liên kết rào cản, động lực và phí; 1297,46–1303,43 callback dòng tiền.",
+      "mechanism": "Từng phương thức riêng → động lực hệ thống → trở về lời hứa hook.",
+      "transition": "Sau lời cuối là đuôi media/đen; không có lời CTA đăng ký trong caption cuối.",
+      "payoff": "Một hình tượng quay lại nhưng đã mang cơ chế mới.",
+      "emphasis": "Callback phải thêm kiến thức; không khẳng định dòng tiền luôn thoát trong mọi điều kiện.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    }
+  ],
+  "observations": [
+    "Đã đọc toàn caption; chưa kiểm chứng các vụ việc, điều luật, số liệu hay tính đúng của cơ chế tài chính được người kể nêu.",
+    "Đã mở contact sheet toàn timeline; mic/waveform phủ lặp. 1319s đen, không mặc định có end screen/CTA giống video khác.",
+    "Đây là nghiên cứu cấu trúc taxonomy và progression, không cung cấp hoặc phê chuẩn thao tác né luật. Nhãn thủ thuật không phải cơ sở dùng lại nội dung chỉ dẫn."
+  ],
+  "transferable_rules": [
+    {
+      "reference_interval": "83.96–93.32",
+      "rule": "Hứa lộ trình có tiêu chí: từ cách đơn giản tới cấu trúc phức tạp.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "273.89–340.69; 503.14–524.22",
+      "rule": "Kết chương bằng giới hạn mà chương kế tiếp phải giải thích.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "1091.22–1203.30",
+      "rule": "Tổng kết nhiều chương bằng cùng các trục so sánh để tạo hiểu biết mới.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "1297.46–1303.43",
+      "rule": "Callback quay về hình tượng đầu với cơ chế đã được dựng, không chỉ lặp lại khẩu hiệu.",
+      "status": "editorial observation; not user-approved production lesson"
+    }
+  ],
+  "factual_validation": "not performed; all claims/examples describe what source narrator says, not verified facts"
+}

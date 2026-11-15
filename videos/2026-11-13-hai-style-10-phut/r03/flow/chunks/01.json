@@ -1,0 +1,8 @@
+{
+  "from": 1800,
+  "endExclusive": 3600,
+  "decodedFrames": 1800,
+  "sha256": "ac256fb9b17340e5eebefeb3827ca57e9e902b0ef3ead0dff3dad25905dd5f19",
+  "wallSeconds": 63.875,
+  "framesPerSecond": 28.180039138943247
+}

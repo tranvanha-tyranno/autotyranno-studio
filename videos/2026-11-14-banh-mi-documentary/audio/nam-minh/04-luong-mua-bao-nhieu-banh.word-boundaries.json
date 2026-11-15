@@ -1,0 +1,1706 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 2662080,
+    "text": "Quay"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3662080,
+    "duration": 1504580,
+    "text": "lại"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5166660,
+    "duration": 2083330,
+    "text": "đúng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7250000,
+    "duration": 1736250,
+    "text": "kỳ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8986250,
+    "duration": 2314580,
+    "text": "chiếc"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11300830,
+    "duration": 2083330,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13384160,
+    "duration": 2430410,
+    "text": "tăng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15815000,
+    "duration": 2083330,
+    "text": "từ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17898330,
+    "duration": 1851660,
+    "text": "hai"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19750000,
+    "duration": 1273330,
+    "text": "mươi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21023330,
+    "duration": 2546250,
+    "text": "lên"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23569580,
+    "duration": 1620410,
+    "text": "hai"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25190000,
+    "duration": 1157080,
+    "text": "mươi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26347080,
+    "duration": 1736250,
+    "text": "hai"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28083330,
+    "duration": 3009160,
+    "text": "nghìn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38810000,
+    "duration": 2546250,
+    "text": "Giả"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41356660,
+    "duration": 1967500,
+    "text": "sử"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43324160,
+    "duration": 1504580,
+    "text": "thu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44828750,
+    "duration": 2314580,
+    "text": "nhập"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47143330,
+    "duration": 1041660,
+    "text": "của"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48185000,
+    "duration": 1851660,
+    "text": "người"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50037080,
+    "duration": 1851660,
+    "text": "phụ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51888750,
+    "duration": 2777910,
+    "text": "bán"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54666660,
+    "duration": 1967500,
+    "text": "cũng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56634160,
+    "duration": 2083330,
+    "text": "tăng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58717500,
+    "duration": 1504580,
+    "text": "trong"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60222080,
+    "duration": 1967500,
+    "text": "kỳ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62190000,
+    "duration": 2893330,
+    "text": "ấy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66819580,
+    "duration": 1620410,
+    "text": "từ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68440000,
+    "duration": 1851660,
+    "text": "mười"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70291660,
+    "duration": 2199160,
+    "text": "triệu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72490830,
+    "duration": 1735830,
+    "text": "lên"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74226660,
+    "duration": 1620410,
+    "text": "mười"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75847080,
+    "duration": 2199160,
+    "text": "triệu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78046250,
+    "duration": 3819580,
+    "text": "rưỡi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83486250,
+    "duration": 2083330,
+    "text": "tức"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85569580,
+    "duration": 2198750,
+    "text": "năm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87768330,
+    "duration": 2083330,
+    "text": "phần"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89851660,
+    "duration": 2777910,
+    "text": "trăm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100384160,
+    "duration": 1967500,
+    "text": "Anh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102351660,
+    "duration": 2315000,
+    "text": "nhận"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104666660,
+    "duration": 1736250,
+    "text": "nhiều"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106402910,
+    "duration": 2314580,
+    "text": "tiền"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108717500,
+    "duration": 2893330,
+    "text": "hơn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113115830,
+    "duration": 2662080,
+    "text": "nhưng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115777910,
+    "duration": 2083330,
+    "text": "giá"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117861250,
+    "duration": 1620410,
+    "text": "bữa"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119481660,
+    "duration": 2893330,
+    "text": "sáng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122375000,
+    "duration": 1273330,
+    "text": "đã"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123648330,
+    "duration": 1967500,
+    "text": "tăng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125615830,
+    "duration": 2083330,
+    "text": "nhanh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127699160,
+    "duration": 2083330,
+    "text": "hơn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 129782500,
+    "duration": 2893330,
+    "text": "lương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 140430410,
+    "duration": 2083330,
+    "text": "Thử"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 142513750,
+    "duration": 2430410,
+    "text": "dùng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144944580,
+    "duration": 2198750,
+    "text": "chính"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 147143330,
+    "duration": 2083330,
+    "text": "chiếc"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149226660,
+    "duration": 2430410,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 151657500,
+    "duration": 2083330,
+    "text": "làm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 153740830,
+    "duration": 2083330,
+    "text": "thước"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 155824160,
+    "duration": 1851660,
+    "text": "đo"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157675830,
+    "duration": 4166660,
+    "text": "nhỏ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169597080,
+    "duration": 3587910,
+    "text": "Mười"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173185000,
+    "duration": 2199160,
+    "text": "triệu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 175384160,
+    "duration": 2546250,
+    "text": "tương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 177930410,
+    "duration": 2083330,
+    "text": "đương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 180013750,
+    "duration": 1620410,
+    "text": "năm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 181634160,
+    "duration": 2777910,
+    "text": "trăm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 184412080,
+    "duration": 1157500,
+    "text": "ổ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 185569580,
+    "duration": 1851660,
+    "text": "giá"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 187421250,
+    "duration": 4166660,
+    "text": "cũ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 199342500,
+    "duration": 3240830,
+    "text": "Mười"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 202583330,
+    "duration": 2199160,
+    "text": "triệu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 204782500,
+    "duration": 2546250,
+    "text": "rưỡi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 207328750,
+    "duration": 1620410,
+    "text": "chỉ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 208949160,
+    "duration": 2314580,
+    "text": "tương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 211263750,
+    "duration": 1620410,
+    "text": "đương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 212884160,
+    "duration": 2546250,
+    "text": "khoảng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 215430410,
+    "duration": 1967500,
+    "text": "bốn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 217398330,
+    "duration": 2083330,
+    "text": "trăm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 219481660,
+    "duration": 1504580,
+    "text": "bảy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 220986250,
+    "duration": 1272910,
+    "text": "mươi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 222259160,
+    "duration": 2546250,
+    "text": "bảy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 224805410,
+    "duration": 1736250,
+    "text": "ổ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 226541660,
+    "duration": 1736250,
+    "text": "giá"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 228277910,
+    "duration": 3587910,
+    "text": "mới"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 239620410,
+    "duration": 3356250,
+    "text": "Không"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 242976660,
+    "duration": 1736250,
+    "text": "ai"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 244712910,
+    "duration": 2083330,
+    "text": "cần"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 246796250,
+    "duration": 1736250,
+    "text": "đem"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 248532500,
+    "duration": 2430410,
+    "text": "toàn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 250962910,
+    "duration": 1851660,
+    "text": "bộ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 252815000,
+    "duration": 2893330,
+    "text": "lương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 255708330,
+    "duration": 1157500,
+    "text": "đi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 256865830,
+    "duration": 1967500,
+    "text": "mua"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 258833330,
+    "duration": 3240830,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 269828750,
+    "duration": 2314580,
+    "text": "Phép"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 272143330,
+    "duration": 1620410,
+    "text": "so"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 273763750,
+    "duration": 1736250,
+    "text": "chỉ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 275500000,
+    "duration": 3703750,
+    "text": "hỏi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 280708330,
+    "duration": 1620410,
+    "text": "thu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 282328750,
+    "duration": 2083330,
+    "text": "nhập"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 284412080,
+    "duration": 1620410,
+    "text": "mỗi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 286032500,
+    "duration": 1851660,
+    "text": "kỳ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 287884160,
+    "duration": 2430410,
+    "text": "đổi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 290315000,
+    "duration": 1504580,
+    "text": "được"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 291819580,
+    "duration": 1735830,
+    "text": "bao"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 293555410,
+    "duration": 1851660,
+    "text": "nhiêu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 295407500,
+    "duration": 2199160,
+    "text": "chiếc"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 297606660,
+    "duration": 2314580,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 299921250,
+    "duration": 1851660,
+    "text": "cùng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 301773330,
+    "duration": 3356660,
+    "text": "loại"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 312884160,
+    "duration": 2893330,
+    "text": "Tiền"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 315777910,
+    "duration": 1967500,
+    "text": "lương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 317745410,
+    "duration": 2893330,
+    "text": "tăng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 321912080,
+    "duration": 2546250,
+    "text": "sức"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 324458330,
+    "duration": 1620410,
+    "text": "mua"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 326078750,
+    "duration": 2199160,
+    "text": "tính"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 328277910,
+    "duration": 2198750,
+    "text": "riêng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 330476660,
+    "duration": 1851660,
+    "text": "bằng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 332328750,
+    "duration": 2199160,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 334527910,
+    "duration": 1388750,
+    "text": "lại"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 335916660,
+    "duration": 2430410,
+    "text": "giảm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 338347080,
+    "duration": 2430410,
+    "text": "khoảng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 340777910,
+    "duration": 2198750,
+    "text": "bốn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 342976660,
+    "duration": 1851660,
+    "text": "phẩy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 344828750,
+    "duration": 2083330,
+    "text": "năm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 346912080,
+    "duration": 1851660,
+    "text": "phần"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 348763750,
+    "duration": 2662080,
+    "text": "trăm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 359180410,
+    "duration": 3009160,
+    "text": "Vẫn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 362190000,
+    "duration": 2083330,
+    "text": "chiếc"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 364273330,
+    "duration": 2546250,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 366819580,
+    "duration": 3009160,
+    "text": "ấy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 371217500,
+    "duration": 2430410,
+    "text": "vẫn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 373648330,
+    "duration": 1851660,
+    "text": "lần"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 375500000,
+    "duration": 1967500,
+    "text": "đổi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 377467500,
+    "duration": 2777910,
+    "text": "bảng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 380245410,
+    "duration": 2777910,
+    "text": "ấy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 390777910,
+    "duration": 2893330,
+    "text": "Nhìn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 393671250,
+    "duration": 1620410,
+    "text": "từ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 395291660,
+    "duration": 1967500,
+    "text": "quầy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 397259160,
+    "duration": 3472080,
+    "text": "bán"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 402236250,
+    "duration": 3125000,
+    "text": "khoảng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 405361250,
+    "duration": 1851660,
+    "text": "dư"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 407212910,
+    "duration": 1504580,
+    "text": "của"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 408717500,
+    "duration": 2083330,
+    "text": "chị"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 410800830,
+    "duration": 2430410,
+    "text": "Hạnh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 413231660,
+    "duration": 1388750,
+    "text": "co"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 414620410,
+    "duration": 3240830,
+    "text": "lại"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 425615830,
+    "duration": 3009160,
+    "text": "Nhìn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 428625000,
+    "duration": 1504580,
+    "text": "từ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 430129580,
+    "duration": 1967500,
+    "text": "người"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 432097080,
+    "duration": 1967500,
+    "text": "làm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 434065000,
+    "duration": 3356660,
+    "text": "công"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 438925830,
+    "duration": 2777910,
+    "text": "tờ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 441703750,
+    "duration": 2546250,
+    "text": "lương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 444250000,
+    "duration": 2777910,
+    "text": "tăng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 447027910,
+    "duration": 1504580,
+    "text": "mà"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 448532500,
+    "duration": 1735830,
+    "text": "số"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 450268330,
+    "duration": 1967500,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 452236250,
+    "duration": 2083330,
+    "text": "mua"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 454319580,
+    "duration": 1504580,
+    "text": "được"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 455824160,
+    "duration": 1967500,
+    "text": "cũng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 457791660,
+    "duration": 1388750,
+    "text": "ít"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 459180410,
+    "duration": 2546250,
+    "text": "đi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 469481660,
+    "duration": 2661660,
+    "text": "Đời"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 472143330,
+    "duration": 2546250,
+    "text": "sống"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 474690000,
+    "duration": 1967500,
+    "text": "thật"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 476657500,
+    "duration": 2546250,
+    "text": "không"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 479203750,
+    "duration": 2083330,
+    "text": "chỉ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 481287080,
+    "duration": 1041660,
+    "text": "có"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 482328750,
+    "duration": 2083330,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 484412080,
+    "duration": 2546250,
+    "text": "mì"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 494712910,
+    "duration": 2777910,
+    "text": "Người"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 497490830,
+    "duration": 2199160,
+    "text": "phụ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 499690000,
+    "duration": 2430410,
+    "text": "bán"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 502120410,
+    "duration": 1967500,
+    "text": "còn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 504087910,
+    "duration": 1967500,
+    "text": "tiền"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 506055410,
+    "duration": 3125000,
+    "text": "nhà"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 510800830,
+    "duration": 1967500,
+    "text": "đi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 512768330,
+    "duration": 2662080,
+    "text": "lại"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 515430410,
+    "duration": 1273330,
+    "text": "và"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 516703750,
+    "duration": 2083330,
+    "text": "nhiều"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 518787080,
+    "duration": 2314580,
+    "text": "khoản"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 521101660,
+    "duration": 2662080,
+    "text": "khác"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 531518330,
+    "duration": 3587910,
+    "text": "Muốn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 535106660,
+    "duration": 1157080,
+    "text": "biết"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 536263750,
+    "duration": 2315000,
+    "text": "sức"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 538578750,
+    "duration": 1736250,
+    "text": "mua"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 540315000,
+    "duration": 1967500,
+    "text": "cả"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 542282500,
+    "duration": 1504580,
+    "text": "gia"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 543787080,
+    "duration": 2546250,
+    "text": "đình"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 547837910,
+    "duration": 1504580,
+    "text": "phải"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 549342500,
+    "duration": 2315000,
+    "text": "nhìn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 551657500,
+    "duration": 2083330,
+    "text": "giá"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 553740830,
+    "duration": 1157500,
+    "text": "của"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 554898330,
+    "duration": 1851660,
+    "text": "cùng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 556750000,
+    "duration": 1620410,
+    "text": "một"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 558370410,
+    "duration": 2199160,
+    "text": "giỏ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 560569580,
+    "duration": 1735830,
+    "text": "chi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 562305410,
+    "duration": 2199160,
+    "text": "tiêu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 564504580,
+    "duration": 1157500,
+    "text": "với"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 565662080,
+    "duration": 2662080,
+    "text": "lượng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 568324160,
+    "duration": 1041660,
+    "text": "và"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 569365830,
+    "duration": 1735830,
+    "text": "chất"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 571101660,
+    "duration": 2315000,
+    "text": "lượng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 573416660,
+    "duration": 2430410,
+    "text": "tương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 575847080,
+    "duration": 2662080,
+    "text": "đương"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 586263750,
+    "duration": 4282500,
+    "text": "Một"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 590546250,
+    "duration": 1273330,
+    "text": "ổ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 591819580,
+    "duration": 2430410,
+    "text": "bánh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 594250000,
+    "duration": 1157500,
+    "text": "là"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 595407500,
+    "duration": 2430410,
+    "text": "cửa"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 597837910,
+    "duration": 1736250,
+    "text": "vào"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 599574160,
+    "duration": 1388750,
+    "text": "để"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 600962910,
+    "duration": 3819580,
+    "text": "hiểu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 606287080,
+    "duration": 2662080,
+    "text": "không"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 608949160,
+    "duration": 1272910,
+    "text": "phải"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 610222080,
+    "duration": 1967500,
+    "text": "chiếc"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 612189580,
+    "duration": 1967500,
+    "text": "máy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 614157500,
+    "duration": 1272910,
+    "text": "đo"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 615430410,
+    "duration": 2777910,
+    "text": "toàn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 618208330,
+    "duration": 1967500,
+    "text": "bộ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 620175830,
+    "duration": 1504580,
+    "text": "đời"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 621680410,
+    "duration": 3587910,
+    "text": "sống"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 633022910,
+    "duration": 4166660,
+    "text": "Nếu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 637189580,
+    "duration": 2083330,
+    "text": "những"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 639272910,
+    "duration": 2315000,
+    "text": "khoản"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 641587910,
+    "duration": 1504580,
+    "text": "anh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 643092500,
+    "duration": 1967500,
+    "text": "mua"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 645060000,
+    "duration": 2083330,
+    "text": "nhiều"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 647143330,
+    "duration": 2083330,
+    "text": "tăng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 649226660,
+    "duration": 3125000,
+    "text": "nhanh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 653972080,
+    "duration": 1967500,
+    "text": "anh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 655939580,
+    "duration": 925830,
+    "text": "có"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 656865830,
+    "duration": 1504580,
+    "text": "thể"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 658370410,
+    "duration": 1967500,
+    "text": "thấy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 660337910,
+    "duration": 1967500,
+    "text": "áp"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 662305410,
+    "duration": 1736250,
+    "text": "lực"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 664041660,
+    "duration": 2430410,
+    "text": "hơn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 666472080,
+    "duration": 1736250,
+    "text": "con"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 668208330,
+    "duration": 2199160,
+    "text": "số"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 670407500,
+    "duration": 1967500,
+    "text": "bình"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 672375000,
+    "duration": 2893330,
+    "text": "quân"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 683022910,
+    "duration": 2777910,
+    "text": "Nhà"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 685800830,
+    "duration": 2546250,
+    "text": "khác"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 688347080,
+    "duration": 1620410,
+    "text": "chi"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 689967500,
+    "duration": 1851660,
+    "text": "tiêu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 691819580,
+    "duration": 2661660,
+    "text": "khác"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 694481250,
+    "duration": 1504580,
+    "text": "thì"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 695986250,
+    "duration": 2083330,
+    "text": "trải"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 698069580,
+    "duration": 2893330,
+    "text": "nghiệm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 700962910,
+    "duration": 1851660,
+    "text": "cũng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 702814580,
+    "duration": 2777910,
+    "text": "khác"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 713347080,
+    "duration": 2315000,
+    "text": "Vì"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 715662080,
+    "duration": 3009160,
+    "text": "vậy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 720060000,
+    "duration": 1736250,
+    "text": "cảm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 721796250,
+    "duration": 1736250,
+    "text": "giác"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 723532500,
+    "duration": 1620410,
+    "text": "thiếu"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 725152910,
+    "duration": 2661660,
+    "text": "tiền"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 727814580,
+    "duration": 2199160,
+    "text": "không"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 730013750,
+    "duration": 1620410,
+    "text": "tự"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 731634160,
+    "duration": 1967500,
+    "text": "chứng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 733601660,
+    "duration": 1620410,
+    "text": "minh"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 735222080,
+    "duration": 1967500,
+    "text": "bản"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 737189580,
+    "duration": 1736250,
+    "text": "tin"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 738925830,
+    "duration": 3703750,
+    "text": "sai"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 744250000,
+    "duration": 2199160,
+    "text": "còn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 746449160,
+    "duration": 1388750,
+    "text": "tỷ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 747837910,
+    "duration": 1620410,
+    "text": "lệ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 749458330,
+    "duration": 2083330,
+    "text": "lạm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 751541660,
+    "duration": 1736250,
+    "text": "phát"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 753277910,
+    "duration": 1388750,
+    "text": "thấp"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 754666660,
+    "duration": 2662080,
+    "text": "hơn"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 757328750,
+    "duration": 2083330,
+    "text": "cũng"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 759412080,
+    "duration": 1967500,
+    "text": "không"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 761379580,
+    "duration": 1736250,
+    "text": "bảo"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 763115830,
+    "duration": 1967500,
+    "text": "đảm"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 765083330,
+    "duration": 1851660,
+    "text": "chiếc"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 766935000,
+    "duration": 1504580,
+    "text": "ví"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 768439580,
+    "duration": 2083330,
+    "text": "nào"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 770522910,
+    "duration": 1157500,
+    "text": "đã"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 771680410,
+    "duration": 2083330,
+    "text": "nhẹ"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 773763750,
+    "duration": 3240830,
+    "text": "gánh"
+  }
+]

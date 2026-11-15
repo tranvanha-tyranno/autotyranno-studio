@@ -1,0 +1,6 @@
+{
+  "lesson_id": "evt-000008-159aee115b4d",
+  "application_id": "evt-000009-41991cb7f477",
+  "feedback_id": "evt-000012-01338d737d5a",
+  "conclusion": "Independent inspection of actual r04 native frames confirms the two source issues are fixed: contained comparison retains all meaningful labels and the checklist no longer has a headline over its third row. Narrow graphic-visibility verification only; no audio, motion, whole-video or user approval."
+}

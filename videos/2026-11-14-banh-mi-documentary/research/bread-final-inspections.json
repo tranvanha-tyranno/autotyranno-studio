@@ -1,0 +1,85 @@
+{
+  "schema": "bread-film-additional-inspections/1",
+  "method": "Opened seven actual source frames per contact sheet; no continuous audiovisual claim",
+  "assets": [
+    {
+      "id": "pexels-10047227",
+      "file": "assets/raw/pexels-10047227.mp4",
+      "durationSeconds": 20.84,
+      "tags": [
+        "flour",
+        "ingredients",
+        "storage"
+      ],
+      "inspection": {
+        "status": "inspected",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "observations": "Landscape close-up: hands scoop white flour from large glass storage jar into smaller glass, then pour it onto table. Red check apron only torso visible. Strong flour/storage/process footage, no finished bread or specific flour cost proven.",
+        "contactSheet": "research/contact-sheets/pexels-10047227.jpg",
+        "continuousAVReview": false
+      },
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 20.6,
+          "role": "illustrative flour scooping/storage input"
+        }
+      ],
+      "usableForBreadFilm": true,
+      "pageURL": "https://www.pexels.com/video/a-person-scooping-a-flour-10047227/",
+      "creator": "Ron Lach",
+      "sha256": "66b892be44397d816ef25af40858a28c9ec1d84373a747e16664b27e158185d2",
+      "downloadURL": "https://videos.pexels.com/video-files/10047227/10047227-hd_1366_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "width": 1366,
+      "height": 720
+    },
+    {
+      "id": "pexels-8176160",
+      "file": "assets/raw/pexels-8176160.mp4",
+      "durationSeconds": 32.84,
+      "tags": [
+        "flour",
+        "ingredients",
+        "bakery",
+        "storage"
+      ],
+      "inspection": {
+        "status": "inspected",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "observations": "Landscape close-up: anonymous hands scoop flour from glass jar, tip into metal pan on mechanical weighing scale and scoop again. Visible flour and measuring action. Same kitchen as8180413/8180409, avoid adjacent repeated set. No numeric cost, actual supplier or fictional identity established.",
+        "contactSheet": "research/contact-sheets/pexels-8176160.jpg",
+        "continuousAVReview": false
+      },
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 32.6,
+          "role": "illustrative flour weighing/input control"
+        }
+      ],
+      "usableForBreadFilm": true,
+      "pageURL": "https://www.pexels.com/video/a-woman-scooping-flour-into-the-weighing-scale-8176160/",
+      "creator": "Ron Lach",
+      "sha256": "360854bbd31d1e98d0606c6ab04128186c41fac46f39d18dd1bef06f84edf9d0",
+      "downloadURL": "https://videos.pexels.com/video-files/8176160/8176160-hd_1366_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "width": 1366,
+      "height": 720
+    }
+  ],
+  "sourceReceipts": "research/asset-receipts/pexels-ID.json contain full downloadURL,pageURL,licenseURL,sha256",
+  "retainedRejected": [
+    {
+      "id": "pexels-6681020",
+      "reason": "actual round pie/cake despite source title bread"
+    },
+    {
+      "id": "pexels-13726352",
+      "reason": "flatbread in brick oven differs from named baguette/bánh mì"
+    }
+  ],
+  "portraitCropNote": "The black sides in source contact sheets come from our320x180 pad for portrait footage. The original8233041 is720x1366. Final16:9crop must be inspected separately; do not assume context remains readable after crop. Prefer landscape10047227/8176160 for flour passages."
+}

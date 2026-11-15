@@ -1,0 +1,27 @@
+{
+  "decodedFrames": 2460,
+  "expectedFrames": 2460,
+  "frameCountPass": true,
+  "fps": 30.0,
+  "seconds": 82.0,
+  "width": 1920,
+  "height": 1080,
+  "clauses": 38,
+  "fullNarratedClausesPairedToActualMP4": true,
+  "videoSHA256": "b6fa87ebf7e27266f1ac7471a47852e116aeb1f2628cecfdb409d8c0aac7156c",
+  "audioMeasuredOnFinalMP4": {
+    "input_i": "-16.08",
+    "input_tp": "-4.81",
+    "input_lra": "2.00",
+    "input_thresh": "-26.43",
+    "output_i": "-15.97",
+    "output_tp": "-4.58",
+    "output_lra": "2.00",
+    "output_thresh": "-26.31",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "semanticAcceptance": "All clause samples reviewed on final MP4; core narrated meaning visible. See VISUAL_REVIEW.md for actual scope and limits. User aesthetic acceptance pending.",
+  "userAcceptance": "pending",
+  "humanAudioListening": "not performed by this script"
+}

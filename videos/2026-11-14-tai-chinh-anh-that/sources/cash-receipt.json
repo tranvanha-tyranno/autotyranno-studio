@@ -1,0 +1,30 @@
+{
+  "id": "cash-receipt",
+  "pexelsID": 4968499,
+  "sourceURL": "https://www.pexels.com/photo/person-getting-money-out-of-a-wallet-4968499/",
+  "creator": "Kaboompics",
+  "theme": "receipt",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/cash-receipt.jpg",
+  "downloadURL": "https://images.pexels.com/photos/4968499/pexels-photo-4968499.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "15e5f97e3610a760f4786a645e2c8fbabc5acae8b70b88b6c5f4ea250edf0a2a",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

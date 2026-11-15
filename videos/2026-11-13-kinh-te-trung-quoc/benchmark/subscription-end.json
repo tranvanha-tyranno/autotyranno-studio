@@ -1,0 +1,12 @@
+{
+  "schema": "audio-account-snapshot/1",
+  "capturedUTC": "2026-11-13T05:10:20.404791+00:00",
+  "endpoint": "/v1/user/subscription",
+  "httpStatus": 200,
+  "tier": "starter",
+  "status": "active",
+  "character_count": 30315,
+  "character_limit": 39948,
+  "creditsRemaining": 9633,
+  "scope": "Read-only sanitized account observation; changes may include concurrent jobs and are not task charges."
+}

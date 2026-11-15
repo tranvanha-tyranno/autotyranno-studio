@@ -1,0 +1,14 @@
+{
+  "round": 3,
+  "focus": "Nghĩa của nhãn thương mại",
+  "problem": "Nhãn hàng bán/mua đặt lên laptop và văn phòng không mô tả trực tiếp thương mại.",
+  "change": "Hai nguồn cảng chuyển động, nhãn rõ xuất/nhập; ghi đây là minh họa.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-02",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Hai nửa cảng và tàu hàng diễn đạt hoạt động thương mại rõ hơn laptop/office; nhãn đọc được và có dòng minh họa. Giữ; khung 12s vào split hơi sớm so với Con số, xử lý bằng cắt theo câu ở vòng 4."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

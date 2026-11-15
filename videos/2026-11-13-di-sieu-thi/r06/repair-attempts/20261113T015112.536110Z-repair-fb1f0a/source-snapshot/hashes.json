@@ -1,0 +1,134 @@
+[
+  {
+    "file": "directions.py",
+    "sha256": "baa3bfeba3d7a345b59fc5f8037afb62d10b45b9a73a18e43a5cde5923830152"
+  },
+  {
+    "file": "render_directions.py",
+    "sha256": "72c8e99a2c21778d8252fb132dda20294041d8f09851163e211c1bdcc2cdeed1"
+  },
+  {
+    "file": "direction_qa.py",
+    "sha256": "ccbfbe6583ca5c6bd7494b8152d95ddc10a3cbf8d27576abf06930754e50fb61"
+  },
+  {
+    "file": "directions_review.py",
+    "sha256": "4dfad86568ef9112f7a9417f00c5a7d96587eaa019628aaa0826494c0b0fd88b"
+  },
+  {
+    "file": "production.py",
+    "sha256": "a9716e30ff5d2b91ab15e71c61f073c6db892fa17b69328a9daf24f41e532d70"
+  },
+  {
+    "file": "PRODUCTION.md",
+    "sha256": "f262357ebf9f92a6cb1164a0ba0af7f175e583e404d0a10b4be83a17c6070c59"
+  },
+  {
+    "file": "reference-learning.profile.json",
+    "sha256": "ce3ef77f260e016c7b34485e2ce8cde67d14f0c8a145861a19b7b4bccdb07fcc"
+  },
+  {
+    "file": "TWO_DIRECTIONS.md",
+    "sha256": "c4d378ff616e2961d36ef02b340d686e045a90006bd78726c1f126b039f56de2"
+  },
+  {
+    "file": "cinematic.profile.json",
+    "sha256": "02e3c9b8bbaacb70056c253597391ac05de27c660f15b8ecea2bd9c52bacc8c8"
+  },
+  {
+    "file": "eleven_audio.py",
+    "sha256": "66d23c113d72b70d96ea01d79f2055e250ec7578aab62b4be3dd96a863bd8db3"
+  },
+  {
+    "file": "documentary.py",
+    "sha256": "36ab4ad7091be367a33c73169e93b55ec120959d393562fa38a20738bac31d44"
+  },
+  {
+    "file": "cinematic/src/directions-entry.tsx",
+    "sha256": "8c25e784d2acb830bc1dfec97ce47a20e28bc4eb8febc21b23502a0b15ba60d7"
+  },
+  {
+    "file": "cinematic/package.json",
+    "sha256": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f"
+  },
+  {
+    "file": "cinematic/package-lock.json",
+    "sha256": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c"
+  },
+  {
+    "file": "cinematic/remotion.config.ts",
+    "sha256": "af5ce97f98b2c91a7891f2bef4801f7dc700843f010fd81e1566d9eebf6f5ad1"
+  },
+  {
+    "file": "cinematic/tsconfig.json",
+    "sha256": "f2ce7d4149af71fd058aed6467668585849415547542ad0fa6d3dba3b336ae6a"
+  },
+  {
+    "file": "direction-profiles/hidden.json",
+    "sha256": "8ca4e79a0ec5888c72304c0f519218713e90b5494fc5f2ca283477cba207e09a"
+  },
+  {
+    "file": "direction-profiles/long.json",
+    "sha256": "0c65726314f09d849eadfdcd041c7d737db80ef85e1647393f98d6c11de8862f"
+  },
+  {
+    "file": "direction-profiles/README.md",
+    "sha256": "a83128e2a7c68814bee83d03df771cba19b5cf2d24fdb5ee8fa5ed31ae994086"
+  },
+  {
+    "file": "cinematic/src/directions/Film.tsx",
+    "sha256": "baff3e8fe35cd417ff6af47cac44e71c32748a7529313c35c8ddb9c61cfe0ce3"
+  },
+  {
+    "file": "cinematic/src/directions/Gallery3D.tsx",
+    "sha256": "9ad9f54652e681537fbf2f91f8ce2b3d282b2ba8f5209e5cd386a7144bebb18e"
+  },
+  {
+    "file": "cinematic/src/directions/index.ts",
+    "sha256": "48d5d3c2cca9afd2c10116910e18191a482a897aee8940385867f3b06a08f9a2"
+  },
+  {
+    "file": "cinematic/src/directions/Shopping3D.tsx",
+    "sha256": "539458c3a9881851c8e2e3abcbdbfab1111a759788d3f09594eee538d1cabbf2"
+  },
+  {
+    "file": "cinematic/src/directions/types.ts",
+    "sha256": "9771fef47faebf6210f01b4d1cd21d564372bc818a53e1f3f77d17327b591393"
+  },
+  {
+    "file": "batch/long/data.json",
+    "sha256": "984a809dd1fffec9e3f947d341144dd673e37d7ddaaa07932c9f8278dc3ea7ab"
+  },
+  {
+    "file": "batch/long/props.json",
+    "sha256": "de0640a169e0ac84d2e7bce2e9bd01ec8ee2c5d4f6f8c2abb55382092a4dc349"
+  },
+  {
+    "file": "batch/long/profile.json",
+    "sha256": "91d78714a97a04c443743b14b592abe9edf07c88cb7319e0cd6e80f2d29f4840"
+  },
+  {
+    "file": "batch/long/script.txt",
+    "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+  },
+  {
+    "file": "batch/long/render-assets.json",
+    "sha256": "433ea4b0e7b63dc6327ab9e6b01346e3cce793507fcb38af2a14955dc0e6ae63"
+  },
+  {
+    "file": "batch/long/image-sources.json",
+    "sha256": "348960b1b438842b92ad13f433ad6c7c875c5fdbe52cbcb9fb9623cc910fafe8"
+  },
+  {
+    "file": "batch/long/audio-sources.json",
+    "sha256": "55e80782996eb806fd7ad4b30e42ba95112fab36356e3d9241652e6c0486bb26"
+  },
+  {
+    "file": "batch/long/production-manifest.json",
+    "sha256": "91d78714a97a04c443743b14b592abe9edf07c88cb7319e0cd6e80f2d29f4840"
+  },
+  {
+    "file": "production_repair.py",
+    "sha256": "23fe50b337f6c55d875c2f651dc9af258c052f4e51c9390fd24869bf5f8ab5ff"
+  }
+]

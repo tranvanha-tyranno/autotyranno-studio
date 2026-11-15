@@ -1,0 +1,30 @@
+{
+  "schema": "china-variety-pinned-audio-reuse/1",
+  "recordedUTC": "2026-11-13T06:45:51.373120+00:00",
+  "newProviderCalls": 0,
+  "scope": "Historical mix/cue metadata copied exactly; original generation costs are not charged again. Historical input data hash does not describe current r03 visuals.",
+  "mixFile": "audio/final-mix.wav",
+  "mixSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+  "parentMixFile": "../audio/final-mix.wav",
+  "parentMixSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+  "samePinnedMix": true,
+  "rawStemBase": "../audio/",
+  "currentVisualDataSHA256": "fdfa41771cfb202f9168a15dda833aeffc18b05f2209b41608cfd6aa2a54b87b",
+  "records": [
+    {
+      "source": "../audio-sources.json",
+      "copy": "audio-sources.json",
+      "sourceSHA256": "b1b83e4fc4da5ced7f59853d77478902b34d87d749a1b9dac54d47a977c55eab",
+      "copySHA256": "b1b83e4fc4da5ced7f59853d77478902b34d87d749a1b9dac54d47a977c55eab",
+      "identical": true
+    },
+    {
+      "source": "../sound-cues.json",
+      "copy": "sound-cues.json",
+      "sourceSHA256": "74716c4ec832d19edd345cd0708eb846b58f40931b6dce5f57e06ea3f4532a25",
+      "copySHA256": "74716c4ec832d19edd345cd0708eb846b58f40931b6dce5f57e06ea3f4532a25",
+      "identical": true
+    }
+  ],
+  "manualAudioListening": "Not implied by copy/hash checks."
+}

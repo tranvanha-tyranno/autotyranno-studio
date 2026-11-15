@@ -1,0 +1,1655 @@
+[
+  {
+    "id": "vn-rin-cafe-cup",
+    "file": "sources/photos/vn-rin-cafe-cup.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Qu%C3%A1n_c%C3%A0_ph%C3%AA_Rin.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Qu%C3%A1n_c%C3%A0_ph%C3%AA_Rin.jpg/1280px-Qu%C3%A1n_c%C3%A0_ph%C3%AA_Rin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Lê Huỳnh Bộ",
+    "sourceDescription": "đây là quán cà phê Rin\n Hình tôi chụp tại quán cà phê Rin, Đường Nam Kỳ Khởi Nghĩa, Hòa Hải, Ngũ Hành Sơn, Đà Nẵng, Việt Nam.\n \nHình tôi chụp ngày 17/5/2025",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 176651,
+    "width": 960,
+    "height": 1280,
+    "sha256": "05a927f23945c59f98cd77674cb09635a11a618ce5f9f1d49324747af2d12243",
+    "capturedDate": "17 May 2025 (according to   Exif   data)",
+    "location": {
+      "countryCode": "VN",
+      "place": "Rin cafe, Nam Kỳ Khởi Nghĩa, Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Qu%C3%A1n_c%C3%A0_ph%C3%AA_Rin.jpg",
+      "evidence": "Author description explicitly names Rin cafe and its Da Nang, Vietnam address, photographed17May2025."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "supports": "Cafe consumption, occupied tables in the background, a sold drink as concrete product context.",
+      "doesNotEstablish": "Not exterior facade, not a packed cafe, not proof of revenue, order value, profits, rent or customers lingering.",
+      "sourceSha256": "05a927f23945c59f98cd77674cb09635a11a618ce5f9f1d49324747af2d12243"
+    },
+    "recommendedFocus": [
+      48,
+      52
+    ],
+    "role": "illustrative context",
+    "attribution": "Lê Huỳnh Bộ — Quán cà phê Rin — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Qu%C3%A1n_c%C3%A0_ph%C3%AA_Rin.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-cafe-oxy-tables",
+    "file": "sources/photos/vn-cafe-oxy-tables.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Qu%C3%A1n_C%C3%A0_Ph%C3%AA_Oxy_Garden.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Qu%C3%A1n_C%C3%A0_Ph%C3%AA_Oxy_Garden.jpg/1280px-Qu%C3%A1n_C%C3%A0_Ph%C3%AA_Oxy_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Lê Huỳnh Bộ",
+    "sourceDescription": "Đây là quán cà phê Oxy Garden, gần FPT Complex Đà Nẵng.\n Địa Chỉ: Khu đô thị FPT, Hòa Hải, Ngũ Hành Sơn, Đà Nẵng, Việt Nam.\n \nHình do tôi Chụp ngày 14/5/2025",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 389873,
+    "width": 960,
+    "height": 1280,
+    "sha256": "24b21a5a02d139fde45208a40e7b74af664ceecc5a917744133be1b6ee825473",
+    "capturedDate": "2025-05-14",
+    "location": {
+      "countryCode": "VN",
+      "place": "Oxy Garden, FPT urban area, Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Qu%C3%A1n_C%C3%A0_Ph%C3%AA_Oxy_Garden.jpg",
+      "evidence": "Author description provides exact Oxy Garden cafe address in Da Nang, Vietnam; shot14May2025."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; also individually opened this full-source image. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table.",
+      "supports": "Unoccupied seating at one moment and physical seating/floor-space context.",
+      "doesNotEstablish": "Does not establish that the cafe is chronically quiet, losing money, unable to pay rent, or the same business as any busy shot.",
+      "sourceSha256": "24b21a5a02d139fde45208a40e7b74af664ceecc5a917744133be1b6ee825473"
+    },
+    "recommendedFocus": [
+      51,
+      52
+    ],
+    "role": "illustrative context",
+    "attribution": "Lê Huỳnh Bộ — Quán Cà Phê Oxy Garden — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Qu%C3%A1n_C%C3%A0_Ph%C3%AA_Oxy_Garden.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-image-individually-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-hanoi-phone-patrons",
+    "file": "sources/photos/vn-hanoi-phone-patrons.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Newone_-_people_relax_with_smartphone_at_cafe_in_Hanoi.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Newone_-_people_relax_with_smartphone_at_cafe_in_Hanoi.jpg/1280px-Newone_-_people_relax_with_smartphone_at_cafe_in_Hanoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Newone",
+    "sourceDescription": "Young people with smartphones relaxing at cafe in Hanoi",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 313470,
+    "width": 960,
+    "height": 1280,
+    "sha256": "95870793ca51d47ebdcdbc76a7eecc36b56da3ca6eb93812a09030efdc3bfc8f",
+    "capturedDate": "2022-06-09 12:30:37",
+    "location": {
+      "countryCode": "VN",
+      "place": "Hanoi, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Newone_-_people_relax_with_smartphone_at_cafe_in_Hanoi.jpg",
+      "evidence": "Description explicitly says people with smartphones at cafe in Hanoi; primary page caption names Hanoi, Vietnam."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Four seated men at a cafe table look at smartphones; drinks on table and serving counter behind; intrinsic Vsmart camera watermark visible.",
+      "supports": "Occupied cafe seating, people using phones and drinks on table.",
+      "doesNotEstablish": "Phones do not prove orders, mobile payments, gaming transaction, long dwell time or purchasing amount; no claim that these customers caused cash problems.",
+      "sourceSha256": "95870793ca51d47ebdcdbc76a7eecc36b56da3ca6eb93812a09030efdc3bfc8f"
+    },
+    "recommendedFocus": [
+      53,
+      54
+    ],
+    "role": "illustrative context",
+    "attribution": "Newone — Newone - people relax with smartphone at cafe in Hanoi — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Newone_-_people_relax_with_smartphone_at_cafe_in_Hanoi.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "qualityLimit": "Intrinsic Vsmart/camera author watermark at lower edge; no removal attempted. Prefer alternative clip where possible.",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-dalat-cafe",
+    "file": "sources/photos/vn-dalat-cafe.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Morning_Break_(Unsplash).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Morning_Break_%28Unsplash%29.jpg/1280px-Morning_Break_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Bino Storyteller  curiousbino",
+    "sourceDescription": "La Viet Coffee, Thành phố Đà Lạt, Vietnam",
+    "license": "CC0",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "bytes": 150320,
+    "width": 1280,
+    "height": 853,
+    "sha256": "ec2da4c5e91bcbec0fbcd8c540c5509ddf9ec8454274bc521ed5e1734aab25d4",
+    "capturedDate": "2017-03-02",
+    "location": {
+      "countryCode": "VN",
+      "place": "La Viet Coffee, Đà Lạt, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Morning_Break_(Unsplash).jpg",
+      "evidence": "Commons description explicitly says La Viet Coffee, Thành phố Đà Lạt, Vietnam; coordinates11.956849,108.435165."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind.",
+      "supports": "Coffee drink/table detail, consumption context, visual pause.",
+      "doesNotEstablish": "Does not depict cafe interior, customer count, staff, revenue, costs or current menu price.",
+      "sourceSha256": "ec2da4c5e91bcbec0fbcd8c540c5509ddf9ec8454274bc521ed5e1734aab25d4"
+    },
+    "recommendedFocus": [
+      45,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "Bino Storyteller  curiousbino — Morning Break (Unsplash) — CC0 — https://commons.wikimedia.org/wiki/File:Morning_Break_(Unsplash).jpg — http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-hue-cafe",
+    "file": "sources/photos/vn-hue-cafe.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coffee_Shop,_Hue_(6927407846).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Coffee_Shop%2C_Hue_%286927407846%29.jpg/1280px-Coffee_Shop%2C_Hue_%286927407846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "David McKelvey  from Brisbane, Australia",
+    "sourceDescription": "<a href=\" http://en.wikipedia.org/wiki/Huế \" target=\"_blank\" rel=\"nofollow\">Huế</a>  is located in central Vietnam on the banks of the Sông Hương (Perfume River), just a few miles inland from the Biển Đông. It is about 700 km south of the national capital of Hanoi and about 1100 km north of Hồ Chí Minh City, the country’s largest city, also known as Saigon. Source:  <a href=\" http://en.wikipedia.org/wiki/Huế \" target=\"_blank\" rel=\"nofollow\">Wikipedia</a>",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "bytes": 234618,
+    "width": 1280,
+    "height": 720,
+    "sha256": "20e5d2c1b9b7c5111eba95fbc5c6b0f62f780e3e6003d11e046215b99d85aab5",
+    "capturedDate": "2012-02-24 01:34",
+    "location": {
+      "countryCode": "VN",
+      "place": "Huế, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Coffee_Shop,_Hue_(6927407846).jpg",
+      "evidence": "Source title Coffee Shop, Hue; description explicitly locates Hue in central Vietnam; coordinates16.466286,107.578061."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; also individually opened this full-source image. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible.",
+      "supports": "Occupied cafe seating at night and service setting.",
+      "doesNotEstablish": "No count-based proof of sales, full occupancy, financial success/failure or link to quiet cafe photographs. Intrinsic cup branding is not a production endorsement.",
+      "sourceSha256": "20e5d2c1b9b7c5111eba95fbc5c6b0f62f780e3e6003d11e046215b99d85aab5"
+    },
+    "recommendedFocus": [
+      52,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "David McKelvey  from Brisbane, Australia — Coffee Shop, Hue (6927407846) — CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Coffee_Shop,_Hue_(6927407846).jpg — https://creativecommons.org/licenses/by/2.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-image-individually-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-coffee-drying",
+    "file": "sources/photos/vn-coffee-drying.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vietnam_-_Drying_coffee_beans.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Vietnam_-_Drying_coffee_beans.jpg/1280px-Vietnam_-_Drying_coffee_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "P. Hughes",
+    "sourceDescription": "Drying coffee beans in the sun, near Da Lat, Vietnam",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "bytes": 510027,
+    "width": 1280,
+    "height": 824,
+    "sha256": "1871c904352778b6dc72211e78ae68259b8fe38898b75abdba5fadd6f143f2d3",
+    "capturedDate": "2015",
+    "location": {
+      "countryCode": "VN",
+      "place": "Near Đà Lạt, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Vietnam_-_Drying_coffee_beans.jpg",
+      "evidence": "Source description explicitly states drying coffee beans in the sun, near Da Lat, Vietnam."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Coffee beans spread on the ground beside a building, people at the edge of the drying area.",
+      "supports": "Coffee supply-chain stage, drying beans, tangible coffee input upstream.",
+      "doesNotEstablish": "Not inventory belonging to fictional cafe, supplier invoice, raw-material cost, amount bought, payment timing or actual stock loss.",
+      "sourceSha256": "1871c904352778b6dc72211e78ae68259b8fe38898b75abdba5fadd6f143f2d3"
+    },
+    "recommendedFocus": [
+      52,
+      64
+    ],
+    "role": "illustrative context",
+    "attribution": "P. Hughes — Vietnam - Drying coffee beans — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Vietnam_-_Drying_coffee_beans.jpg — https://creativecommons.org/licenses/by/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "coffee-roast-location-unverified",
+    "file": "sources/photos/coffee-roast-location-unverified.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vietnamese_Coffee_Beans.webp",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Vietnamese_Coffee_Beans.webp/960px-Vietnamese_Coffee_Beans.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Cafely",
+    "sourceDescription": "Vietnamese coffee beans being roasted",
+    "license": "CC0",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "bytes": 130701,
+    "width": 960,
+    "height": 540,
+    "sha256": "fa213a1e6df5aafb7781397f5b18bcd6ee79f0e122ef46ae4f831370278e0f14",
+    "capturedDate": "2025-03-24",
+    "location": {
+      "countryCode": "",
+      "place": "Location not independently established",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Vietnamese_Coffee_Beans.webp",
+      "evidence": "Primary description says Vietnamese coffee beans being roasted and category Coffee beans in Vietnam; exact capture location is not separately documented. Product origin/name is not treated as capture-location proof."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Close-up of dark roasted coffee beans with wisps of smoke or steam.",
+      "supports": "Roasted beans and roasting context.",
+      "doesNotEstablish": "Description Vietnamese coffee beans does not document where photo was taken; no Vietnam location claim. No supplier identity, costs or stock-level proof.",
+      "sourceSha256": "fa213a1e6df5aafb7781397f5b18bcd6ee79f0e122ef46ae4f831370278e0f14"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "Cafely — Vietnamese Coffee Beans — CC0 — https://commons.wikimedia.org/wiki/File:Vietnamese_Coffee_Beans.webp — http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "qualityLimit": "Small original source; use as inset/detail, avoid full-screen upscaling.",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-saigon-coffee-phin",
+    "file": "sources/photos/vn-saigon-coffee-phin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saigon_cafe_filtre_02.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Saigon_cafe_filtre_02.jpg/960px-Saigon_cafe_filtre_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Takeaway",
+    "sourceDescription": "A  café filtre  served at a sidewalk café in Ho Chi Minh City. In Vietnam, a cup of coffee is nearly always accompanied by a cup of hot or cold tea.",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 133685,
+    "width": 848,
+    "height": 1280,
+    "sha256": "41d66c1cbb3de9e4e4e5b916a55185146b2a49a72ee1342df1bb9033b349326d",
+    "capturedDate": "2011-09-21",
+    "location": {
+      "countryCode": "VN",
+      "place": "Sidewalk cafe, Ho Chi Minh City, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Saigon_cafe_filtre_02.jpg",
+      "evidence": "Source description explicitly locates cafe filtre at a sidewalk cafe in Ho Chi Minh City; coordinates10.762740,106.696257."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "supports": "Vietnamese phin brewing equipment and a specific coffee preparation format.",
+      "doesNotEstablish": "Not espresso equipment, modern barista labour footage, sales count, cafe earnings, ingredient cost or rent.",
+      "sourceSha256": "41d66c1cbb3de9e4e4e5b916a55185146b2a49a72ee1342df1bb9033b349326d"
+    },
+    "recommendedFocus": [
+      48,
+      54
+    ],
+    "role": "illustrative context",
+    "attribution": "Takeaway — Saigon cafe filtre 02 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Saigon_cafe_filtre_02.jpg — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-cafe-tayho",
+    "file": "sources/photos/vn-cafe-tayho.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cafe_T%C3%A2y_H%E1%BB%93_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_(ch%C3%ADnh_di%E1%BB%87n,_ch%E1%BA%ADu_ki%E1%BB%83ng,_t%E1%BA%A5m_xanh)_(7).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cafe_T%C3%A2y_H%E1%BB%93_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_%28ch%C3%ADnh_di%E1%BB%87n%2C_ch%E1%BA%ADu_ki%E1%BB%83ng%2C_t%E1%BA%A5m_xanh%29_%287%29.jpg/1280px-Cafe_T%C3%A2y_H%E1%BB%93_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_%28ch%C3%ADnh_di%E1%BB%87n%2C_ch%E1%BA%ADu_ki%E1%BB%83ng%2C_t%E1%BA%A5m_xanh%29_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Phương Huy",
+    "sourceDescription": "Cafés in Ho Chi Minh City",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 503333,
+    "width": 960,
+    "height": 1280,
+    "sha256": "15353dccbae83893d7a5d1da815ca30155ad1b93dc06a5dc2cbd63b276770357",
+    "capturedDate": "2022-05-01 07:39:01",
+    "location": {
+      "countryCode": "VN",
+      "place": "Tân Phú, Ho Chi Minh City",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cafe_T%C3%A2y_H%E1%BB%93_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_(ch%C3%ADnh_di%E1%BB%87n,_ch%E1%BA%ADu_ki%E1%BB%83ng,_t%E1%BA%A5m_xanh)_(7).jpg",
+      "evidence": "Source title names Cafe Tây Hồ in Tân Phú; description and category Cafés in Ho Chi Minh City establish city."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside.",
+      "supports": "Physical cafe premises, storefront and seating context.",
+      "doesNotEstablish": "Not proof premises are rented, lease amount, vacancy/closure, customer count or financial difficulty.",
+      "sourceSha256": "15353dccbae83893d7a5d1da815ca30155ad1b93dc06a5dc2cbd63b276770357"
+    },
+    "recommendedFocus": [
+      46,
+      51
+    ],
+    "role": "illustrative context",
+    "attribution": "Phương Huy — Cafe Tây Hồ ở Tân Phú (chính diện, chậu kiểng, tấm xanh) (7) — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Cafe_T%C3%A2y_H%E1%BB%93_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_(ch%C3%ADnh_di%E1%BB%87n,_ch%E1%BA%ADu_ki%E1%BB%83ng,_t%E1%BA%A5m_xanh)_(7).jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "coffee-robusta-location-unverified",
+    "file": "sources/photos/coffee-robusta-location-unverified.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coffee_beans_robusta.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coffee_beans_robusta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "creator": "DXLINH",
+    "sourceDescription": "Robusta coffee beans after harvesting (right) and after being dried (left)",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 175874,
+    "width": 800,
+    "height": 600,
+    "sha256": "e4c6ef47a788a7ea60bcf852ace6fd540388e56a8fe401563ba846d2518c727e",
+    "capturedDate": "",
+    "location": {
+      "countryCode": "",
+      "place": "Location not independently established",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Coffee_beans_robusta.jpg",
+      "evidence": "Description identifies harvested versus dried robusta; category Coffee planting in Vietnam only. Capture location is not independently documented, so not counted as Vietnam coverage."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Side-by-side dried coffee fruit/beans and red/yellow fresh coffee cherries.",
+      "supports": "Difference between harvested and dried coffee fruit/beans, upstream material stages.",
+      "doesNotEstablish": "Source category links coffee planting in Vietnam, but no exact capture-location statement in description; no country claim made. Not two supplier quotes, ingredient price or cafe inventory.",
+      "sourceSha256": "e4c6ef47a788a7ea60bcf852ace6fd540388e56a8fe401563ba846d2518c727e"
+    },
+    "recommendedFocus": [
+      51,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "DXLINH — Coffee beans robusta — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Coffee_beans_robusta.jpg — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "qualityLimit": "Small original source; use as inset/detail, avoid full-screen upscaling.",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-dalat-coffee-farm",
+    "file": "sources/photos/vn-dalat-coffee-farm.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kafarboj_sur_kampoj_apud_Da_Lat,_Vjetnamio_02.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Kafarboj_sur_kampoj_apud_Da_Lat%2C_Vjetnamio_02.jpg/1280px-Kafarboj_sur_kampoj_apud_Da_Lat%2C_Vjetnamio_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "RG72",
+    "sourceDescription": "Kafarboj sur kampoj apud Da Lat, Vjetnamio.",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 453811,
+    "width": 1280,
+    "height": 960,
+    "sha256": "e777b0bb83d79cd086bfc9309cfa7c68a8f69f17959fc22eaa22881465968732",
+    "capturedDate": "2013-11-18 09:22:34",
+    "location": {
+      "countryCode": "VN",
+      "place": "Near Đà Lạt, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Kafarboj_sur_kampoj_apud_Da_Lat,_Vjetnamio_02.jpg",
+      "evidence": "Esperanto source description states coffee trees in fields near Da Lat, Vietnam; categories Agriculture in Da Lat and2013inLamDong."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Coffee tree branches with red/green cherries on a farm, distant green hills.",
+      "supports": "Coffee-growing and raw-material origin context.",
+      "doesNotEstablish": "Not coffee packets delivered to a cafe, price volatility chart, particular supplier contract, payment or inventory shortage.",
+      "sourceSha256": "e777b0bb83d79cd086bfc9309cfa7c68a8f69f17959fc22eaa22881465968732"
+    },
+    "recommendedFocus": [
+      51,
+      51
+    ],
+    "role": "illustrative context",
+    "attribution": "RG72 — Kafarboj sur kampoj apud Da Lat, Vjetnamio 02 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Kafarboj_sur_kampoj_apud_Da_Lat,_Vjetnamio_02.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-saigon-coffee-food",
+    "file": "sources/photos/vn-saigon-coffee-food.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg/1280px-2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "源義信",
+    "sourceDescription": "Coffee and bánh mì in Saigon, Vietnam",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "bytes": 182231,
+    "width": 1280,
+    "height": 960,
+    "sha256": "eb4f9465e495ac65bcb65e18795c4dbb0b1b43f2914c6b84895ba9bf3c61f695",
+    "capturedDate": "Taken on 10 December 2023, 12:14:18",
+    "location": {
+      "countryCode": "VN",
+      "place": "Saigon / Ho Chi Minh City, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg",
+      "evidence": "Description explicitly says Coffee and bánh mì in Saigon, Vietnam; coordinates10.773572,106.696832."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray.",
+      "supports": "A concrete drink and food basket, product mix context, take-away packaging.",
+      "doesNotEstablish": "Not verified order value, margin, ingredient costs, delivery-platform fee, a fictional cafe receipt or proof customer bought multiple items.",
+      "sourceSha256": "eb4f9465e495ac65bcb65e18795c4dbb0b1b43f2914c6b84895ba9bf3c61f695"
+    },
+    "recommendedFocus": [
+      50,
+      54
+    ],
+    "role": "illustrative context",
+    "attribution": "源義信 — 2023-12-10 Coffee and bánh mì in Saigon — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg — https://creativecommons.org/licenses/by/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-coffee-shop-storefront",
+    "file": "sources/photos/vn-coffee-shop-storefront.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2023-12-10_V%C3%82N_NAM_Tea_%26_Coffee,_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i_Street,_Saigon.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2023-12-10_V%C3%82N_NAM_Tea_%26_Coffee%2C_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i_Street%2C_Saigon.jpg/1280px-2023-12-10_V%C3%82N_NAM_Tea_%26_Coffee%2C_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i_Street%2C_Saigon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "源義信",
+    "sourceDescription": "VÂN NAM (云南) Tea & Coffee, 66-68 Phạm Hồng Thái Street, Saigon",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "bytes": 421652,
+    "width": 1280,
+    "height": 960,
+    "sha256": "9acdd8527b349fa3cea870f5a8f76b6c634d46008c8edbd2218a44614cfc8237",
+    "capturedDate": "Taken on 10 December 2023, 11:57:54",
+    "location": {
+      "countryCode": "VN",
+      "place": "66–68 Phạm Hồng Thái Street, Saigon",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:2023-12-10_V%C3%82N_NAM_Tea_%26_Coffee,_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i_Street,_Saigon.jpg",
+      "evidence": "Source description explicitly names VÂN NAM Tea & Coffee at66–68PhamHongThaiStreet,Saigon; category Ho Chi Minh City and coordinates10.771263,106.694112."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Two-storey VÂN NAM Tea & Coffee storefront along urban road, cars partially obscure ground floor.",
+      "supports": "Urban cafe premises/storefront, physical location and fixed-space context.",
+      "doesNotEstablish": "No rent sign or lease; does not prove rent cost, vacancy, financial condition or ownership; intrinsic VÂN NAM branding should not imply failed business.",
+      "sourceSha256": "9acdd8527b349fa3cea870f5a8f76b6c634d46008c8edbd2218a44614cfc8237"
+    },
+    "recommendedFocus": [
+      50,
+      42
+    ],
+    "role": "illustrative context",
+    "attribution": "源義信 — 2023-12-10 VÂN NAM Tea & Coffee, Phạm Hồng Thái Street, Saigon — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:2023-12-10_V%C3%82N_NAM_Tea_%26_Coffee,_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i_Street,_Saigon.jpg — https://creativecommons.org/licenses/by/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-hanoi-cup",
+    "file": "sources/photos/vn-hanoi-cup.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coffee_cup_in_Hanoi,_Vietnam.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Coffee_cup_in_Hanoi%2C_Vietnam.jpg/1280px-Coffee_cup_in_Hanoi%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Vyacheslav Argenberg",
+    "sourceDescription": "Coffee cup in Hanoi, Vietnam.",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "bytes": 340976,
+    "width": 1280,
+    "height": 853,
+    "sha256": "effc310c5142ed90b508b5656da6e757c5be2b47046f12e059d9c47bb8a06cff",
+    "capturedDate": "2008-03-13 11:54:38",
+    "location": {
+      "countryCode": "VN",
+      "place": "Hanoi, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Coffee_cup_in_Hanoi,_Vietnam.jpg",
+      "evidence": "Source description explicitly says Coffee cup in Hanoi, Vietnam."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "supports": "Drink as product, surface/cup detail.",
+      "doesNotEstablish": "Not price, ingredient cost, menu demand, staff service action or shop finances.",
+      "sourceSha256": "effc310c5142ed90b508b5656da6e757c5be2b47046f12e059d9c47bb8a06cff"
+    },
+    "recommendedFocus": [
+      52,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "Vyacheslav Argenberg — Coffee cup in Hanoi, Vietnam — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Coffee_cup_in_Hanoi,_Vietnam.jpg — https://creativecommons.org/licenses/by/4.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-coffee-cherries",
+    "file": "sources/photos/vn-coffee-cherries.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vietnam_coffee_beans_VOA.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Vietnam_coffee_beans_VOA.jpg/960px-Vietnam_coffee_beans_VOA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Daniel Schearf",
+    "sourceDescription": "Ripening coffee cherries at a coffee farm in Buon Ma Thuot, Vietnam.",
+    "license": "Public domain",
+    "licenseURL": "https://commons.wikimedia.org/wiki/File:Vietnam_coffee_beans_VOA.jpg#Licensing",
+    "bytes": 88672,
+    "width": 960,
+    "height": 604,
+    "sha256": "bdaec47d6fce88aafca32efab79085464b4d96ec0945f40b17cd9812547f6193",
+    "capturedDate": "2012-09-25",
+    "location": {
+      "countryCode": "VN",
+      "place": "Buôn Ma Thuột, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Vietnam_coffee_beans_VOA.jpg",
+      "evidence": "VOA primary description identifies ripening coffee cherries at a coffee farm in Buon Ma Thuot, Vietnam."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Close-up red/green coffee cherries on plant branch with green leaf.",
+      "supports": "Coffee supply-chain origin and raw crop.",
+      "doesNotEstablish": "Not cafe supplier delivery, raw-material invoice, cup cost or a measured crop price.",
+      "sourceSha256": "bdaec47d6fce88aafca32efab79085464b4d96ec0945f40b17cd9812547f6193"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "Daniel Schearf — Vietnam coffee beans VOA — Public domain — https://commons.wikimedia.org/wiki/File:Vietnam_coffee_beans_VOA.jpg — https://commons.wikimedia.org/wiki/File:Vietnam_coffee_beans_VOA.jpg#Licensing",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "qualityLimit": "Small original source; use as inset/detail, avoid full-screen upscaling.",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "global-espresso-extraction",
+    "file": "sources/photos/global-espresso-extraction.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Linea_doubleespresso.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Linea_doubleespresso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "creator": "The original uploader was  Coffeegeek  at  English Wikipedia .",
+    "sourceDescription": "Image by Mark Prince, CoffeeGeek.com, 2006, rights released for wikipedia. Image can also be found at  https://www.flickr.com/photos/coffeegeek/113110988/",
+    "license": "Public domain",
+    "licenseURL": "https://commons.wikimedia.org/wiki/File:Linea_doubleespresso.jpg#Licensing",
+    "bytes": 71859,
+    "width": 500,
+    "height": 500,
+    "sha256": "c12dfbe662b37687aba11599e8d88339c674460cdcd9524b5dd9cfcb0e6d5f36",
+    "capturedDate": "26 March 2006 (original upload date)",
+    "location": {
+      "countryCode": "",
+      "place": "Location not documented",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Linea_doubleespresso.jpg",
+      "evidence": "Primary file describes Mark Prince/CoffeeGeek image; no geographic capture location supplied."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; also individually opened this full-source image. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Two streams of espresso flow from machine portafilter into two clear cups on drip tray.",
+      "supports": "Espresso extraction, coffee preparation and real machine detail.",
+      "doesNotEstablish": "Capture location not documented; do not label Vietnam. Does not establish machine price, purchase debt, repair costs or fictional cafe production volume.",
+      "sourceSha256": "c12dfbe662b37687aba11599e8d88339c674460cdcd9524b5dd9cfcb0e6d5f36"
+    },
+    "recommendedFocus": [
+      48,
+      53
+    ],
+    "role": "illustrative context",
+    "attribution": "The original uploader was  Coffeegeek  at  English Wikipedia . — Linea doubleespresso — Public domain — https://commons.wikimedia.org/wiki/File:Linea_doubleespresso.jpg — https://commons.wikimedia.org/wiki/File:Linea_doubleespresso.jpg#Licensing",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-image-individually-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "qualityLimit": "Small original source; use as inset/detail, avoid full-screen upscaling.",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "global-milk-frothing",
+    "file": "sources/photos/global-milk-frothing.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barista_frothing_milk_for_cappuccino_at_Tabak_shop_in_Esino_Lario.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Barista_frothing_milk_for_cappuccino_at_Tabak_shop_in_Esino_Lario.jpg/1280px-Barista_frothing_milk_for_cappuccino_at_Tabak_shop_in_Esino_Lario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Daniel Case",
+    "sourceDescription": "Barista at the  Esino Lario  Tabak froths a pitcher of milk to make  cappuccino  with",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 279942,
+    "width": 1280,
+    "height": 1229,
+    "sha256": "1255d6e78dc5cd354bb8dc0ca8fd6ea0a14bdfff287b51e21206c9d951b517bf",
+    "capturedDate": "2016-06-25",
+    "location": {
+      "countryCode": "IT",
+      "place": "Tabak shop, Esino Lario, Italy",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Barista_frothing_milk_for_cappuccino_at_Tabak_shop_in_Esino_Lario.jpg",
+      "evidence": "Description explicitly identifies Esino Lario Tabak; categories Women at work in Italy/Coffee in Italy; coordinates45.993590,9.332230."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; also individually opened this full-source image. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine.",
+      "supports": "Actual milk-steaming preparation and barista/equipment context.",
+      "doesNotEstablish": "Photographed in Italy, not Vietnam; no assertion about wages, staffing efficiency, cafe health, personal endorsement or fictional business identity.",
+      "sourceSha256": "1255d6e78dc5cd354bb8dc0ca8fd6ea0a14bdfff287b51e21206c9d951b517bf"
+    },
+    "recommendedFocus": [
+      48,
+      54
+    ],
+    "role": "illustrative context",
+    "attribution": "Daniel Case — Barista frothing milk for cappuccino at Tabak shop in Esino Lario — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Barista_frothing_milk_for_cappuccino_at_Tabak_shop_in_Esino_Lario.jpg — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-image-individually-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "global-milk-pour",
+    "file": "sources/photos/global-milk-pour.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barista_pouring_milk_(Unsplash).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Barista_pouring_milk_%28Unsplash%29.jpg/1280px-Barista_pouring_milk_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Tim Wright  timdwright",
+    "sourceDescription": "Laguna Beach, United States",
+    "license": "CC0",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "bytes": 85613,
+    "width": 1280,
+    "height": 853,
+    "sha256": "89f14d448db62d5c0d020d8e22f9fb48171b12049cfbb3e44ddc25b70d1680e9",
+    "capturedDate": "2016-08-22",
+    "location": {
+      "countryCode": "US",
+      "place": "Laguna Beach, California, United States",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Barista_pouring_milk_(Unsplash).jpg",
+      "evidence": "Source description explicitly says Laguna Beach, United States; coordinates33.542248,-117.783110."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern.",
+      "supports": "Actual drink assembly, milk input and takeaway cup as tangible variable input context.",
+      "doesNotEstablish": "Photographed in United States, not Vietnam. No proof of ingredient quantity, labour time, cup cost, sales or profit.",
+      "sourceSha256": "89f14d448db62d5c0d020d8e22f9fb48171b12049cfbb3e44ddc25b70d1680e9"
+    },
+    "recommendedFocus": [
+      52,
+      51
+    ],
+    "role": "illustrative context",
+    "attribution": "Tim Wright  timdwright — Barista pouring milk (Unsplash) — CC0 — https://commons.wikimedia.org/wiki/File:Barista_pouring_milk_(Unsplash).jpg — http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "global-roaster-equipment",
+    "file": "sources/photos/global-roaster-equipment.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coffee_roasting_machine_at_C%C3%BAcuta,_Colombia.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Coffee_roasting_machine_at_C%C3%BAcuta%2C_Colombia.jpg/1280px-Coffee_roasting_machine_at_C%C3%BAcuta%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Rramirezj",
+    "sourceDescription": "Coffee roasting machine at Cúcuta, Colombia",
+    "license": "CC0",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "bytes": 315391,
+    "width": 1280,
+    "height": 960,
+    "sha256": "dd1521faa8d9fe094a6a1a6abeb445ba0120b9b4fe1b3001d3d7ff7ee3e56c55",
+    "capturedDate": "2024-09-21",
+    "location": {
+      "countryCode": "CO",
+      "place": "Cúcuta, Colombia",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Coffee_roasting_machine_at_C%C3%BAcuta,_Colombia.jpg",
+      "evidence": "Source description explicitly says coffee roasting machine at Cúcuta, Colombia."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "People wearing hairnets gather beside a large industrial coffee roasting machine inside a warehouse/workshop.",
+      "supports": "Real roaster machinery, upstream production/capital-equipment context.",
+      "doesNotEstablish": "Colombia, not Vietnam; people appear to be a group visit/inspection rather than proven cafe staff. Does not show cafe equipment purchase, loan or worker wages.",
+      "sourceSha256": "dd1521faa8d9fe094a6a1a6abeb445ba0120b9b4fe1b3001d3d7ff7ee3e56c55"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "Rramirezj — Coffee roasting machine at Cúcuta, Colombia — CC0 — https://commons.wikimedia.org/wiki/File:Coffee_roasting_machine_at_C%C3%BAcuta,_Colombia.jpg — http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "vn-cafe-cart-hanoi",
+    "file": "sources/photos/vn-cafe-cart-hanoi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Cart_cafe,_Hanoi,_Vietnam_(6923022202).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Cart_cafe%2C_Hanoi%2C_Vietnam_%286923022202%29.jpg/1280px-The_Cart_cafe%2C_Hanoi%2C_Vietnam_%286923022202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "David McKelvey  from Brisbane, Australia",
+    "sourceDescription": "<a href=\" https://en.wikipedia.org/wiki/Tây_Hồ_District \" rel=\"nofollow\">Tây Hồ</a>  is an urban district (quận) located on the north side of central  <a href=\" https://en.wikipedia.org/wiki/Hanoi \" rel=\"nofollow\">Hanoi</a> , the capital city of Vietnam. The name of the district means West Lake, which is named after the West Lake located within the district.\n \nThanks to its close proximity to central Hanoi and scenery of the West Lake,  <a href=\" https://en.wikipedia.org/wiki/Tây_Hồ_District \" rel=\"nofollow\">Tây Hồ</a>  is a high-end residential area, housing a large population of expatriates. Many streets in the district are named after renowned Vietnamese poets, artists and music composers, such as Xuân Diệu, Tô Ngọc Vân, Trịnh Công Sơn, Nguyễn Đình Thi and Đặng Thai Mai.  <a href=\" https://en.wikipedia.org/wiki/Tây_Hồ_District \" rel=\"nofollow\">en.wikipedia.org</a>",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "bytes": 247416,
+    "width": 1280,
+    "height": 720,
+    "sha256": "edf5f47fe6530b58abcaaa351d233bdba8475be222ea00444c66eba1f2e6657f",
+    "capturedDate": "2012-02-25 14:10",
+    "location": {
+      "countryCode": "VN",
+      "place": "Tây Hồ, Hanoi, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:The_Cart_cafe,_Hanoi,_Vietnam_(6923022202).jpg",
+      "evidence": "Source title The Cart cafe, Hanoi, Vietnam; source description references Tây Hồ District. Visible address88Lane4ToNgocVan is contextual only; geographic claim rests on source title."
+    },
+    "inspection": {
+      "method": "Opened four original candidate contact sheets plus one additional sheet covering all selected actual images; this image inspected via contact sheet only. No rendered-crop or continuous AV inspection claimed.",
+      "observedSubjectAction": "The Cart cafe street facade with tables inside glass doors, motorbike outside and large cafe name sign.",
+      "supports": "Physical urban cafe storefront and seating behind windows.",
+      "doesNotEstablish": "Does not prove lease, rent, ownership, business failure, current occupancy or relation to other source cafes. Brand sign dominant, so secondary alternative to less branded cafe shots.",
+      "sourceSha256": "edf5f47fe6530b58abcaaa351d233bdba8475be222ea00444c66eba1f2e6657f"
+    },
+    "recommendedFocus": [
+      51,
+      50
+    ],
+    "role": "illustrative context",
+    "attribution": "David McKelvey  from Brisbane, Australia — The Cart cafe, Hanoi, Vietnam (6923022202) — CC BY 2.0 — https://commons.wikimedia.org/wiki/File:The_Cart_cafe,_Hanoi,_Vietnam_(6923022202).jpg — https://creativecommons.org/licenses/by/2.0",
+    "modifications": "Commons thumbnail converted/recompressed to JPEG; any subsequent cropping/animation must be recorded by production.",
+    "inspectionStatus": "source-contact-sheet-inspected",
+    "sourceReceipt": "sources/photos/selected-metadata.json",
+    "visibleBranding": "No Tyranno branding observed. Intrinsic product/cafe/camera marks may remain; see observed pixels and limits."
+  },
+  {
+    "id": "clip-pos-counter",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 6683948,
+    "file": "sources/videos/clip-card-payment.mp4",
+    "page": "https://www.pexels.com/video/a-customer-paying-using-debit-card-6683948/",
+    "download": "https://videos.pexels.com/video-files/6683948/6683948-hd_1280_720_25fps.mp4",
+    "creator": "Kampus Production",
+    "sourceDescription": "a customer paying using debit card",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 2441211,
+    "width": 1280,
+    "height": 720,
+    "duration": 10.08,
+    "fps": 25.0,
+    "frameCount": 252,
+    "decodedFrames": 252,
+    "sha256": "2b55ed216615cdab84713548bcd33356aa899f73bc889bfbadb7997fef181a4c",
+    "sourcePublishedDate": "2021-02-02",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/a-customer-paying-using-debit-card-6683948/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.48,
+        2.52,
+        5.04,
+        7.56,
+        9.56
+      ],
+      "observedSubjectAction": "Cashier operates a POS terminal behind a cafe counter; customer partly visible.",
+      "supports": "Cafe checkout workflow and staff using a terminal.",
+      "doesNotEstablish": "Samples do not clearly show a card tap or approval. No paid amount, revenue, profit or settlement time established.",
+      "sourceSha256": "2b55ed216615cdab84713548bcd33356aa899f73bc889bfbadb7997fef181a4c",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        4
+      ],
+      [
+        5,
+        9.7
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-phone-payment",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 6683943,
+    "file": "sources/videos/clip-phone-payment.mp4",
+    "page": "https://www.pexels.com/video/a-customer-doing-a-cashless-payment-at-a-cafe-6683943/",
+    "download": "https://videos.pexels.com/video-files/6683943/6683943-hd_1280_720_25fps.mp4",
+    "creator": "Kampus Production",
+    "sourceDescription": "a customer doing a cashless payment at a cafe",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 3355162,
+    "width": 1280,
+    "height": 720,
+    "duration": 12.92,
+    "fps": 25.0,
+    "frameCount": 323,
+    "decodedFrames": 323,
+    "sha256": "028e651cc2e90993f2d6192eb4fd4e7f7663c207d0a23609145a2055f774d068",
+    "sourcePublishedDate": "2021-02-02",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/a-customer-doing-a-cashless-payment-at-a-cafe-6683943/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.64,
+        3.2,
+        6.44,
+        9.68,
+        12.24
+      ],
+      "observedSubjectAction": "Customer holds smartphone near a terminal; cashier handles terminal, tears a receipt and hands paper to customer.",
+      "supports": "Contactless-phone payment context and receipt issuing.",
+      "doesNotEstablish": "No readable amount, bank balance or settlement time. Terminal interaction does not prove cash already settled.",
+      "sourceSha256": "028e651cc2e90993f2d6192eb4fd4e7f7663c207d0a23609145a2055f774d068",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        5
+      ],
+      [
+        6,
+        12.6
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-busy-cafe",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 3135924,
+    "file": "sources/videos/clip-busy-cafe.mp4",
+    "page": "https://www.pexels.com/video/a-coffee-shop-restaurant-full-of-customers-3135924/",
+    "download": "https://videos.pexels.com/video-files/3135924/3135924-hd_1280_720_30fps.mp4",
+    "creator": "Nazim Zafri",
+    "sourceDescription": "a coffee shop restaurant full of customers",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 3154131,
+    "width": 1280,
+    "height": 720,
+    "duration": 10.043366666666667,
+    "fps": 29.97002997002997,
+    "frameCount": 301,
+    "decodedFrames": 301,
+    "sha256": "659c6b3d749c9e2dfd46b0e5a5146729411b8152653ab878facc25339b11f808",
+    "sourcePublishedDate": "2019-10-27",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/a-coffee-shop-restaurant-full-of-customers-3135924/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.501,
+        2.502,
+        5.005,
+        7.508,
+        9.51
+      ],
+      "observedSubjectAction": "Wide cafe interior with many occupied tables; people talk and someone moves across seating area. Some empty chairs remain.",
+      "supports": "Busy-looking cafe context and patrons at tables.",
+      "doesNotEstablish": "Not proof every table is full, actual orders, profit or that this real cafe runs out of money.",
+      "sourceSha256": "659c6b3d749c9e2dfd46b0e5a5146729411b8152653ab878facc25339b11f808",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        4.8
+      ],
+      [
+        5,
+        9.7
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-roast-beans",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 7990940,
+    "file": "sources/videos/clip-roast-beans.mp4",
+    "page": "https://www.pexels.com/video/coffee-beans-in-a-roasting-machine-7990940/",
+    "download": "https://videos.pexels.com/video-files/7990940/7990940-hd_1280_720_24fps.mp4",
+    "creator": "Pew Nguyen",
+    "sourceDescription": "coffee beans in a roasting machine",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 2402876,
+    "width": 1280,
+    "height": 720,
+    "duration": 7.007,
+    "fps": 23.976023976023978,
+    "frameCount": 168,
+    "decodedFrames": 168,
+    "sha256": "fdde59202460f0e6d47972fcd04e7a87625bb04a30d802fea9982ee0f9bec49b",
+    "sourcePublishedDate": "2021-05-21",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/coffee-beans-in-a-roasting-machine-7990940/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.334,
+        1.752,
+        3.503,
+        5.255,
+        6.632
+      ],
+      "observedSubjectAction": "Coffee beans move under rotating paddle in a round metal roasting/cooling machine.",
+      "supports": "Physical coffee-bean preparation and supply-stage context.",
+      "doesNotEstablish": "No weighing, purchase, delivery, bean origin, unit cost or inventory value established.",
+      "sourceSha256": "fdde59202460f0e6d47972fcd04e7a87625bb04a30d802fea9982ee0f9bec49b",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        3.1
+      ],
+      [
+        3.3,
+        6.7
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-steam-milk",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 3772014,
+    "file": "sources/videos/clip-steam-milk.mp4",
+    "page": "https://www.pexels.com/video/footage-of-a-person-making-a-coffee-3772014/",
+    "download": "https://videos.pexels.com/video-files/3772014/3772014-hd_1280_720_25fps.mp4",
+    "creator": "Taryn Elliott",
+    "sourceDescription": "footage of a person making a coffee",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 3126756,
+    "width": 1280,
+    "height": 720,
+    "duration": 9.88,
+    "fps": 25.0,
+    "frameCount": 247,
+    "decodedFrames": 247,
+    "sha256": "75e428827e7f11290fc0e286196eda4946489c151d9675f27a8dd63366940289",
+    "sourcePublishedDate": "2020-02-19",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/footage-of-a-person-making-a-coffee-3772014/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.48,
+        2.44,
+        4.92,
+        7.4,
+        9.36
+      ],
+      "observedSubjectAction": "Hands hold stainless pitcher under espresso-machine steam wand; pitcher moves and is removed.",
+      "supports": "Actual milk preparation, staff activity and equipment use.",
+      "doesNotEstablish": "No milk amount, wage, labor cost, waste or time-per-order measured.",
+      "sourceSha256": "75e428827e7f11290fc0e286196eda4946489c151d9675f27a8dd63366940289",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        4.5
+      ],
+      [
+        4.8,
+        9.5
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-pour-milk",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 8855727,
+    "file": "sources/videos/clip-pour-milk.mp4",
+    "page": "https://www.pexels.com/video/person-pouring-milk-in-a-cup-8855727/",
+    "download": "https://videos.pexels.com/video-files/8855727/8855727-hd_1280_720_25fps.mp4",
+    "creator": "Rachel Claire",
+    "sourceDescription": "person pouring milk in a cup",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 3224925,
+    "width": 1280,
+    "height": 720,
+    "duration": 11.56,
+    "fps": 25.0,
+    "frameCount": 289,
+    "decodedFrames": 289,
+    "sha256": "bb77abece5a3187ee684de4019a89feafd77807394a7fa0dc1b754444d74d41f",
+    "sourcePublishedDate": "2021-07-22",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/person-pouring-milk-in-a-cup-8855727/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.56,
+        2.88,
+        5.76,
+        8.64,
+        10.96
+      ],
+      "observedSubjectAction": "Barista pours milk from metal pitcher into paper cup, then handles white lid over cup.",
+      "supports": "Milk, takeaway cup and lid as observable consumable components.",
+      "doesNotEstablish": "No verified recipe, quantity, supply cost, price, margin or waste established.",
+      "sourceSha256": "bb77abece5a3187ee684de4019a89feafd77807394a7fa0dc1b754444d74d41f",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        6.4
+      ],
+      [
+        6.6,
+        11.3
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-serve-coffee",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 6602055,
+    "file": "sources/videos/clip-serve-coffee.mp4",
+    "page": "https://www.pexels.com/video/a-female-barista-serving-coffee-on-a-glass-cup-6602055/",
+    "download": "https://videos.pexels.com/video-files/6602055/6602055-hd_1280_720_30fps.mp4",
+    "creator": "Pavel Danilyuk",
+    "sourceDescription": "a female barista serving coffee on a glass cup",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 3263390,
+    "width": 1280,
+    "height": 720,
+    "duration": 14.881533333333334,
+    "fps": 29.97002997002997,
+    "frameCount": 446,
+    "decodedFrames": 446,
+    "sha256": "fed9bdd26b8192018764528328e11e4c6fa9461a01cc9c2ab8ba152cc0eb259a",
+    "sourcePublishedDate": "2021-01-26",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/a-female-barista-serving-coffee-on-a-glass-cup-6602055/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.734,
+        3.704,
+        7.441,
+        11.144,
+        14.114
+      ],
+      "observedSubjectAction": "Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera.",
+      "supports": "Real serving motion and prepared-drink context.",
+      "doesNotEstablish": "No completed customer handoff or paid amount; not evidence of productivity, wages or profit.",
+      "sourceSha256": "fed9bdd26b8192018764528328e11e4c6fa9461a01cc9c2ab8ba152cc0eb259a",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        6.8
+      ],
+      [
+        7,
+        14.6
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-close-shift",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 8441757,
+    "file": "sources/videos/clip-close-shift.mp4",
+    "page": "https://www.pexels.com/video/a-woman-removing-her-apron-after-shift-8441757/",
+    "download": "https://videos.pexels.com/video-files/8441757/8441757-hd_1366_720_25fps.mp4",
+    "creator": "Ron Lach",
+    "sourceDescription": "a woman removing her apron after shift",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 6544658,
+    "width": 1366,
+    "height": 720,
+    "duration": 21.96,
+    "fps": 25.0,
+    "frameCount": 549,
+    "decodedFrames": 549,
+    "sha256": "c9bb72d8a0d1a972f588f82cab999bc127ce274e07fadfb96d54bee864b52bad",
+    "sourcePublishedDate": "2021-06-22",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/a-woman-removing-her-apron-after-shift-8441757/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        1.08,
+        5.48,
+        10.96,
+        16.44,
+        20.84
+      ],
+      "observedSubjectAction": "Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe.",
+      "supports": "Observable end-of-shift routine and empty seating after closing.",
+      "doesNotEstablish": "Not permanent closure, financial failure, debt or inability to pay staff. Not the same real business as unrelated busy clips.",
+      "sourceSha256": "c9bb72d8a0d1a972f588f82cab999bc127ce274e07fadfb96d54bee864b52bad",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        15.5
+      ],
+      [
+        17,
+        21.6
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-cafe-tables",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 20559735,
+    "file": "sources/videos/clip-cafe-tables.mp4",
+    "page": "https://www.pexels.com/video/a-group-of-people-sitting-at-tables-in-a-restaurant-20559735/",
+    "download": "https://videos.pexels.com/video-files/20559735/20559735-hd_1280_720_60fps.mp4",
+    "creator": "Israel Torres",
+    "sourceDescription": "a group of people sitting at tables in a restaurant",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 4815132,
+    "width": 1280,
+    "height": 720,
+    "duration": 12.212200000000001,
+    "fps": 59.94005994005994,
+    "frameCount": 732,
+    "decodedFrames": 732,
+    "sha256": "9ca407227782c75d22f6975c5c85794056d6915547a17210edcab910059a70ed",
+    "sourcePublishedDate": "2024-03-08",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/a-group-of-people-sitting-at-tables-in-a-restaurant-20559735/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.601,
+        3.053,
+        6.106,
+        9.159,
+        11.595
+      ],
+      "observedSubjectAction": "People sit around several tables; a person walks through central aisle and patrons talk or gesture.",
+      "supports": "Occupied cafe/restaurant seating and front-of-house activity.",
+      "doesNotEstablish": "No order throughput, long dwell times, rent, profit or cash shortage established.",
+      "sourceSha256": "9ca407227782c75d22f6975c5c85794056d6915547a17210edcab910059a70ed",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        5.6
+      ],
+      [
+        6,
+        11.9
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-roaster-hands",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 7118108,
+    "file": "sources/videos/clip-coffee-grind.mp4",
+    "page": "https://www.pexels.com/video/footage-of-a-coffee-roasting-machine-7118108/",
+    "download": "https://videos.pexels.com/video-files/7118108/7118108-hd_1080_1920_25fps.mp4",
+    "creator": "Michael Burrows",
+    "sourceDescription": "footage of a coffee roasting machine",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 6023991,
+    "width": 1080,
+    "height": 1920,
+    "duration": 9.88,
+    "fps": 25.0,
+    "frameCount": 247,
+    "decodedFrames": 247,
+    "sha256": "edcc02351828674f8a9c070e9a342154e3ab5c095a586b42c76bd3fe5cbabf3d",
+    "sourcePublishedDate": "2021-03-12",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/footage-of-a-coffee-roasting-machine-7118108/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        0.48,
+        2.44,
+        4.92,
+        7.4,
+        9.36
+      ],
+      "observedSubjectAction": "Vertical shot of hands beside a round bed of roasted beans and roasting machine.",
+      "supports": "Roaster work and bean handling context.",
+      "doesNotEstablish": "Initial download ID is misleading: this is not visibly grinding a single espresso dose. No purchase, supplier invoice or inventory measurement.",
+      "sourceSha256": "edcc02351828674f8a9c070e9a342154e3ab5c095a586b42c76bd3fe5cbabf3d",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "contain",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0,
+        4.5
+      ],
+      [
+        4.8,
+        9.5
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-espresso-flow",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 4074925,
+    "file": "sources/videos/clip-espresso-flow.mp4",
+    "page": "https://www.pexels.com/video/brewing-of-coffee-pouring-into-a-cup-4074925/",
+    "download": "https://videos.pexels.com/video-files/4074925/4074925-hd_1280_720_25fps.mp4",
+    "creator": "Thomas Windisch",
+    "sourceDescription": "brewing of coffee pouring into a cup",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 2353603,
+    "width": 1280,
+    "height": 720,
+    "duration": 36.6,
+    "fps": 25.0,
+    "frameCount": 915,
+    "decodedFrames": 915,
+    "sha256": "c8db119c2ce2f08affcbfa663bd7431020a237ee930007657260fc23b5b5ea4c",
+    "sourcePublishedDate": "2020-04-04",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/brewing-of-coffee-pouring-into-a-cup-4074925/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        1.8,
+        9.12,
+        18.28,
+        27.44,
+        34.76
+      ],
+      "observedSubjectAction": "Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change.",
+      "supports": "Actual extraction process, cup and machine as production context.",
+      "doesNotEstablish": "No measured recipe, exact cycle capacity, cost, margin or fictional cafe identification.",
+      "sourceSha256": "c8db119c2ce2f08affcbfa663bd7431020a237ee930007657260fc23b5b5ea4c",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0.5,
+        7
+      ],
+      [
+        9,
+        15.5
+      ],
+      [
+        17.5,
+        24
+      ],
+      [
+        26,
+        32.5
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-espresso-extract",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 7457398,
+    "file": "sources/videos/clip-espresso-extract.mp4",
+    "page": "https://www.pexels.com/video/coffee-pouring-from-coffee-machine-7457398/",
+    "download": "https://videos.pexels.com/video-files/7457398/7457398-hd_1280_720_30fps.mp4",
+    "creator": "Max Medyk",
+    "sourceDescription": "coffee pouring from coffee machine",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 6525467,
+    "width": 1280,
+    "height": 720,
+    "duration": 26.666666666666668,
+    "fps": 30.0,
+    "frameCount": 800,
+    "decodedFrames": 800,
+    "sha256": "0297f060b055a6a9d930401ea9ad604bca098fe3dcdd993448429fbdf11718a6",
+    "sourcePublishedDate": "2021-04-10",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/coffee-pouring-from-coffee-machine-7457398/",
+      "evidence": "Pexels page does not document filming country. Creator name, appearance and brands are not used to infer Vietnam."
+    },
+    "role": "Illustrative stock footage for an explicitly fictional cafe example. No depicted business/person is asserted to have cash shortages or endorse this video.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets with5distributed frames per complete clip. Decoded whole file for integrity; no continuous AV watching/listening or final rendered-crop QA.",
+      "sampleTimes": [
+        1.333,
+        6.667,
+        13.333,
+        20.0,
+        25.333
+      ],
+      "observedSubjectAction": "Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup.",
+      "supports": "Equipment and coffee extraction, including visible start of flow.",
+      "doesNotEstablish": "No measured amount, waste rate, recipe, purchase cost or financial performance.",
+      "sourceSha256": "0297f060b055a6a9d930401ea9ad604bca098fe3dcdd993448429fbdf11718a6",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      50,
+      50
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0.5,
+        10
+      ],
+      [
+        13,
+        23
+      ],
+      [
+        24,
+        26.3
+      ]
+    ],
+    "sourceAudio": "Not listened to or independently cleared; mute stock source audio and use independently sourced sound design.",
+    "sourcePageVerifiedVia": "Official Pexels source and license pages inspected via web.run on2026-11-13. Downloaded bounded official CDN HD rendition.",
+    "sourceReceipt": "sources/videos/download-receipts.json",
+    "visibleBranding": "No Tyranno branding observed in5sampled frames. Intrinsic cafe/equipment/product marks may remain; inspect final crop.",
+    "modifications": "Official HD rendition downloaded; not AI generated. Record trims/crops/speed adjustments in consuming batch."
+  },
+  {
+    "id": "clip-espresso-grinder",
+    "type": "video",
+    "provider": "Pexels",
+    "providerVideoId": 2849942,
+    "file": "sources/videos/clip-espresso-grinder.mp4",
+    "page": "https://www.pexels.com/video/ground-coffee-from-a-coffee-bean-grinder-machine-2849942/",
+    "download": "https://videos.pexels.com/video-files/2849942/2849942-hd_1280_720_24fps.mp4",
+    "creator": "K",
+    "sourceDescription": "Ground Coffee From A Coffee Bean Grinder Machine",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "bytes": 2968650,
+    "width": 1280,
+    "height": 720,
+    "duration": 14.291666666666666,
+    "fps": 24.0,
+    "frameCount": 343,
+    "decodedFrames": 343,
+    "sha256": "da54f53d2813f52f36844d0ca0951e34407059999c2f56f1467301dc8fbc6050",
+    "sourcePublishedDate": "2019-08-26",
+    "capturedDate": null,
+    "location": {
+      "countryCode": null,
+      "place": "Filming location not verified",
+      "sourceURL": "https://www.pexels.com/video/ground-coffee-from-a-coffee-bean-grinder-machine-2849942/",
+      "evidence": "Official Pexels page does not state filming country; no Vietnam claim."
+    },
+    "role": "Illustrative footage of espresso dose preparation; no actual person/business is asserted to have financial trouble.",
+    "inspectionStatus": "sampled-video-frames-inspected",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened6distributed source frames on a contact sheet and separately opened1280x720 frame at5.7s. Full file decoded; no continuous AV watching/listening or final render QA claimed.",
+      "sampleTimes": [
+        0.708,
+        2.833,
+        5.708,
+        8.542,
+        11.417,
+        13.542
+      ],
+      "observedSubjectAction": "Tattooed hand holds a double-spout portafilter beneath an electric coffee grinder chute; brown ground coffee visibly falls into the filter basket.",
+      "supports": "Actual espresso grinding into one portafilter, matching grinder visual context and a designed grinder sound cue.",
+      "doesNotEstablish": "No dose weight, recipe,15k cost, labor cost, exact cycle time, cafe identity or financial performance. Original sound has not been listened to; contextual designed Foley must not claim actual field audio.",
+      "sourceSha256": "da54f53d2813f52f36844d0ca0951e34407059999c2f56f1467301dc8fbc6050",
+      "checkedDate": "2026-11-13"
+    },
+    "recommendedFocus": [
+      43,
+      52
+    ],
+    "recommendedFit": "cover",
+    "suggestedNonOverlappingIntervals": [
+      [
+        0.5,
+        10.5
+      ],
+      [
+        10.7,
+        14.1
+      ]
+    ],
+    "sourceAudio": "Not listened to; default muted. A separately created grinder cue can illustrate the visible action, with final timing QA.",
+    "sourcePageVerifiedVia": "Official Pexels source page opened via web.run2026-11-13; license page previously inspected.",
+    "sourceReceipt": "sources/videos/espresso-grinder-receipt.json",
+    "visibleBranding": "No Tyranno observed in6sampled frames or native5.7s source frame. Small intrinsic equipment label remains.",
+    "modifications": "Official HD rendition downloaded; consuming batch should retain original and document trim/crop."
+  }
+]

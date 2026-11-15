@@ -1,0 +1,30 @@
+{
+  "id": "grocery-basket",
+  "pexelsID": 8422705,
+  "sourceURL": "https://www.pexels.com/photo/elderly-woman-buying-groceries-8422705/",
+  "creator": "Kampus Production",
+  "theme": "grocery",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/grocery-basket.jpg",
+  "downloadURL": "https://images.pexels.com/photos/8422705/pexels-photo-8422705.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1602,
+  "sha256": "008e1e2699a8c4f06dd2bd7b9b902a613df13a130d84ee540f8b591142786805",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

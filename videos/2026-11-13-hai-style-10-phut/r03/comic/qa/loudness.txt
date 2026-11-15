@@ -1,0 +1,24 @@
+0 LU  FTPK: -30.5 -28.2 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 590.799979 TARGET:-23 LUFS    M: -37.9 S: -17.3     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -35.4 -30.9 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 590.899979 TARGET:-23 LUFS    M: -38.4 S: -17.6     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -34.3 -32.6 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 590.999979 TARGET:-23 LUFS    M: -38.8 S: -17.8     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -35.6 -33.6 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 591.099979 TARGET:-23 LUFS    M: -40.6 S: -18.1     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -40.3 -34.9 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 591.199979 TARGET:-23 LUFS    M: -42.1 S: -18.2     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -45.0 -40.5 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 591.299979 TARGET:-23 LUFS    M: -44.7 S: -18.2     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -47.0 -43.4 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] t: 591.399979 TARGET:-23 LUFS    M: -48.4 S: -18.2     I: -16.1 LUFS       LRA:   2.0 LU  FTPK: -54.9 -52.0 dBFS  TPK:  -4.8  -4.8 dBFS
+[Parsed_ebur128_0 @ 00000189a58bee00] Summary:
+
+  Integrated loudness:
+    I:         -16.1 LUFS
+    Threshold: -26.6 LUFS
+
+  Loudness range:
+    LRA:         2.0 LU
+    Threshold: -36.6 LUFS
+    LRA low:   -17.6 LUFS
+    LRA high:  -15.6 LUFS
+
+  True peak:
+    Peak:       -4.8 dBFS
+[out#0/null @ 00000189a582ba00] video:7624KiB audio:110896KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=17743 fps=960 q=-0.0 Lsize=N/A time=00:09:51.43 bitrate=N/A speed=  32x    

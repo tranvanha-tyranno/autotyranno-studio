@@ -1,0 +1,49 @@
+{
+  "id": "cash-vnd",
+  "file": "assets/cash-vnd.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 34944540,
+  "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+  "downloadURL": "https://images.pexels.com/photos/34944540/pexels-photo-34944540.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Nguyễn Tiến Thịnh",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0",
+  "width": 2400,
+  "height": 3600,
+  "tags": [
+    "money",
+    "wages"
+  ],
+  "credit": "Nguyễn Tiến Thịnh / Pexels",
+  "expectedFromSource": "Vietnamese dong banknotes in hand",
+  "observed": "Hand holding blue Vietnamese twenty-thousand-dong banknotes. Portrait contain preserves visible denomination and notes; landscape crop truncates notes and makes amount ambiguous.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Currency illustration only; not a particular character’s wages, bank balance or fictional payment. Multiple notes visible, so do not imply photograph itself equals one twenty-thousand payment.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/cash-vnd.jpg",
+  "location": {
+    "countryCode": "VN",
+    "place": "Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+    "evidence": "Primary photo page location field says Vietnam; visible currency corroborates currency, not place."
+  }
+}

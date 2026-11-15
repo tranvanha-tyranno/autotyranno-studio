@@ -1,0 +1,30 @@
+{
+  "id": "discount-shopping",
+  "pexelsID": 16097558,
+  "sourceURL": "https://www.pexels.com/photo/young-woman-browsing-clothes-on-sale-16097558/",
+  "creator": "Vladimir Srajber",
+  "theme": "discount",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/discount-shopping.jpg",
+  "downloadURL": "https://images.pexels.com/photos/16097558/pexels-photo-16097558.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1602,
+  "sha256": "efb2c6a130a8e19a68cb3564b730bda1d376b1748c5f10b3d1252b396dea718b",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

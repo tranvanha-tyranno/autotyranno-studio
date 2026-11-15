@@ -1,0 +1,38 @@
+{
+  "narration": {
+    "file": "audio/narration-original.mp3",
+    "sha256": "3cc0a086878e8ac3a687d318ae1e46b028e92947eb692704ef7bdb1a8100b5d6",
+    "alignment": "audio/narration-original.alignment.json",
+    "speed": 1.0
+  },
+  "music": [
+    {
+      "file": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96"
+    },
+    {
+      "file": "videos/2026-11-11-ai-va-cong-viec-5phut/audio/analysis-score.mp3",
+      "sha256": "e7ff21706049c76ef0698ca14e8222a953bd769afe7bfa62b41cbe091077953d"
+    },
+    {
+      "file": "videos/2026-11-11-ai-va-cong-viec-5phut/audio/agency-score.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a"
+    }
+  ],
+  "mix": {
+    "file": "audio/final-mix.wav",
+    "sha256": "535115a6a2adc17b56a0eccb68af43af9f775cac98e10b0979e649ac6e2d2bb6",
+    "seconds": 204.92000000000002
+  },
+  "contextualFoley": [
+    {
+      "file": "videos/2026-11-13-di-sieu-thi/long/audio/grocery-handling.mp3",
+      "sha256": "3f1d11f90618a041a7fd7e564ac884a83aebba91edf8250717152c40598eaaa6",
+      "phrase": "Trước khi trả tiền, dừng một",
+      "offsetSeconds": 0.6,
+      "role": "Quiet grocery-handling texture under actual basket-unloading footage; no false scanner or payment sound.",
+      "time": 156.43333333333334
+    }
+  ],
+  "humanListening": "Not claimed by the mixer; record actual listening separately."
+}

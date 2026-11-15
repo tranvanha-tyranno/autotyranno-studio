@@ -1,0 +1,1628 @@
+{
+  "schema": "economy-story-asr-progress/1",
+  "runKey": "27f828dcea70d659779f518784c046326aa20d4d6d215c9e1afd85da7a78294e",
+  "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+  "parameters": {
+    "model": "base",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 2,
+    "num_workers": 1,
+    "local_files_only": true,
+    "language": "vi",
+    "beam_size": 1,
+    "best_of": 1,
+    "word_timestamps": false,
+    "condition_on_previous_text": false,
+    "vad_filter": false,
+    "temperature": 0,
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width_bytes": 2,
+    "normalizer": "vi-number-words/1"
+  },
+  "runtimeVersions": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.4"
+  },
+  "status": "complete",
+  "completedChapters": [
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "a9df1a9b4a7e365c07f838b84b1f1939df88b2b7cc296b6addc48353f54e12b7",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "75ebeece175becb5b9f71ab52cd3748dc19fedd5970c125e0f9dc85e89bde739",
+        "startFrame": 0,
+        "endFrameExclusive": 1749,
+        "expectedSHA256": "b33a769a33cd3dac5e9af384747c9818c2d48280d6b0122cdeae4aacdbf1b67d",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "to-bang-gia",
+      "expected": "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu? Chị Hạnh và tiệm bánh là hư cấu. Giá, chi phí, lương và tỷ lệ đều để minh họa, không phải số liệu thị trường hiện tại. Video giải thích kinh tế phổ thông, không phải tư vấn tài chính cá nhân. Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh. Nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê. Bảng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình. Hai câu hỏi dễ bị trộn: hàng hóa đắt đến đâu, và giá đang tăng nhanh đến mức nào? Một câu nói về mặt bằng giá. Câu còn lại nói về tốc độ thay đổi của mặt bằng ấy. Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát. Tiệm có thể đổi nhân, kích cỡ hoặc vị trí. Lạm phát nói đến mức tăng giá rộng hơn của nhiều hàng hóa và dịch vụ.",
+      "recognized": "ổ bánh mì tăng từ 20 lên 22.000. Nghe tin lạng phát giảm, khách quay lại, giá vẫn cao. Chỉ hạnh bản bánh cũng chẳng phải mình dâu hơn, và ý tiền năng mắt ở đâu. Chỉ hạnh và tiện bánh là hư cấu, giá, chí phí, lương và tỉ lệ đều để minh hoạ, không phải số liệu tị trường hiện tại. Video giải thích kinh tế phổ thông, không phải từ vấn tại trình cá nhân. Hát chỉ nhìn thấy tiền phải trả cho một ổ bánh, nhưng phía sau quay còn có bột, nhân, điện, vận chuyển và tiền thuyền, bằng giá nằm ở quấy một chối quyết định chỉ không tự xuất hiện một mình. Hãy co hỏi dế bị chốt, hàng hóa đất đến đâu và giá đăng tăng ngành đến mức nào. Một cơ nói về mặt bằng giá, câu còn lại nói về tốc độ thay đổi của mặt bằng ấy. Giá một ổ bánh tăng chưa đủ để cái luận cả nên kinh tế lạm phát, Tiệm có thể đổi nhân, kích cơ, hoặc vị trí, lạp phát nói đến mức tăng giá dọng hơn của nhiều hàng hóa và dịch bụng.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.88,
+          "text": " ổ bánh mì tăng từ 20 lên 22.000.",
+          "globalStart": 0.0,
+          "globalEnd": 2.88
+        },
+        {
+          "start": 3.48,
+          "end": 6.8,
+          "text": " Nghe tin lạng phát giảm, khách quay lại, giá vẫn cao.",
+          "globalStart": 3.48,
+          "globalEnd": 6.8
+        },
+        {
+          "start": 6.8,
+          "end": 9.46,
+          "text": " Chỉ hạnh bản bánh cũng chẳng phải mình dâu hơn,",
+          "globalStart": 6.8,
+          "globalEnd": 9.46
+        },
+        {
+          "start": 9.46,
+          "end": 11.14,
+          "text": " và ý tiền năng mắt ở đâu.",
+          "globalStart": 9.46,
+          "globalEnd": 11.14
+        },
+        {
+          "start": 11.14,
+          "end": 17.42,
+          "text": " Chỉ hạnh và tiện bánh là hư cấu, giá, chí phí, lương và tỉ lệ đều để minh hoạ,",
+          "globalStart": 11.14,
+          "globalEnd": 17.42
+        },
+        {
+          "start": 17.42,
+          "end": 19.54,
+          "text": " không phải số liệu tị trường hiện tại.",
+          "globalStart": 17.42,
+          "globalEnd": 19.54
+        },
+        {
+          "start": 19.54,
+          "end": 23.68,
+          "text": " Video giải thích kinh tế phổ thông, không phải từ vấn tại trình cá nhân.",
+          "globalStart": 19.54,
+          "globalEnd": 23.68
+        },
+        {
+          "start": 23.68,
+          "end": 26.38,
+          "text": " Hát chỉ nhìn thấy tiền phải trả cho một ổ bánh,",
+          "globalStart": 23.68,
+          "globalEnd": 26.38
+        },
+        {
+          "start": 26.38,
+          "end": 31.64,
+          "text": " nhưng phía sau quay còn có bột, nhân, điện, vận chuyển và tiền thuyền,",
+          "globalStart": 26.38,
+          "globalEnd": 31.64
+        },
+        {
+          "start": 31.64,
+          "end": 35.76,
+          "text": " bằng giá nằm ở quấy một chối quyết định chỉ không tự xuất hiện một mình.",
+          "globalStart": 31.64,
+          "globalEnd": 35.76
+        },
+        {
+          "start": 35.76,
+          "end": 41.66,
+          "text": " Hãy co hỏi dế bị chốt, hàng hóa đất đến đâu và giá đăng tăng ngành đến mức nào.",
+          "globalStart": 35.76,
+          "globalEnd": 41.66
+        },
+        {
+          "start": 41.66,
+          "end": 46.8,
+          "text": " Một cơ nói về mặt bằng giá, câu còn lại nói về tốc độ thay đổi của mặt bằng ấy.",
+          "globalStart": 41.66,
+          "globalEnd": 46.8
+        },
+        {
+          "start": 46.8,
+          "end": 50.84,
+          "text": " Giá một ổ bánh tăng chưa đủ để cái luận cả nên kinh tế lạm phát,",
+          "globalStart": 46.8,
+          "globalEnd": 50.84
+        },
+        {
+          "start": 50.84,
+          "end": 58.24,
+          "text": " Tiệm có thể đổi nhân, kích cơ, hoặc vị trí, lạp phát nói đến mức tăng giá dọng hơn của nhiều hàng hóa và dịch bụng.",
+          "globalStart": 50.84,
+          "globalEnd": 58.24
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 13.858,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\01-to-bang-gia-4eaccca90ad5f2a5.wav",
+      "chunk": {
+        "chunkKey": "4eaccca90ad5f2a5d5db55ad0168abe47b0ec9cdb82ec36c3aae980a759d1425",
+        "sha256": "75ebeece175becb5b9f71ab52cd3748dc19fedd5970c125e0f9dc85e89bde739",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 932800,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 0,
+        "sourceEndSampleExclusive": 2798400,
+        "sourceSampleRate": 48000,
+        "seconds": 58.3,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8108,
+        "expectedTokenCoverage": 0.8128,
+        "expectedTailTokenCoverage": 0.84,
+        "expectedTokens": 203,
+        "observedTokens": 204,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "682d6be48e8aa0e554c72b70d5987c98b501b9db5b968666b201ba46ce021d5c",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "68c1b1f8b44cb5dcc67cf79e7c5703e43edd07d6551cdd9070ad28d20628ccf3",
+        "startFrame": 1749,
+        "endFrameExclusive": 3951,
+        "expectedSHA256": "889af73784080fa3f7f9b141de4592a7de3f37c02b7a64d41cd8247d4b075a5c",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "muc-va-toc-do",
+      "expected": "Giữ nguyên chất lượng và kích cỡ. Năm đầu, bánh từ hai mươi lên hai mươi hai nghìn, tăng mười phần trăm. Đây là phép tính cho một mặt hàng minh họa, chưa phải chỉ số giá tiêu dùng của quốc gia. Năm sau, giá chỉ tăng hai phần trăm. Hai mươi hai nghìn nhân một phẩy không hai, được hai mươi hai nghìn bốn trăm bốn mươi đồng. Giữ số lẻ để thấy phép tính, chưa làm tròn thành giá bán ngoài tiệm. Tốc độ tăng giảm từ mười xuống hai phần trăm. Nhưng giá vẫn cao hơn trước. Nếu cả giỏ hàng vận động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về chỗ cũ. Chiếc xe đi chậm hơn nhưng chưa chạy lùi. Giá cũng vậy: tăng chậm hơn khác với giảm xuống. Muốn mặt bằng giá giảm, mức thay đổi chung phải âm, chứ không chỉ nhỏ hơn con số dương trước đó. Người nhớ giá năm ngoái. Người nhớ giá vài năm trước. Họ nghe cùng tỷ lệ lạm phát mà hình dung hai khoảng cách khác nhau. Khi đọc tin, hãy tìm rõ kỳ so sánh: tháng trước, cùng kỳ, hay một mốc xa hơn. Phép nhân chưa giải thích tại sao chị Hạnh thay bảng giá. Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ. Để hiểu nguyên nhân, phải quay lại trước lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.",
+      "recognized": "dự mươi rất lượng và kích cỡ. Năm đầu bánh từ 20 lên 22.000 tăng 10% Đây là phép tính cho một mật hàng minh hoạch chứ phải chỉ số giá tư dùng của quốc gia. Năm sau giá chỉ tăng 2% 22.000 nhân 1,02 được 22.440 đồng dự số lẻ để thấy phép tính chưa làm tròn thành giá bán ngoài tiệm. Tốc độ tăng giảm từ 10 xúm 2% Nhưng giá vẫn ca hơn trước, nếu cả dỏ hàng vật động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về cho cu. Chức xe đi chậm hơn nhưng chưa chạy lùi, giá cũng vậy, tăng chậm hơn khác với giảm xuống, muốn mặt bằng giả giảm, mức thấy đổi chung phải âm chứ không chỉ nhỏ hơn còn số dương trước đó. Người như giá năm ngoái, người như giá vải năm trước, họ nghe cùng tỷ lệ lạm phát mà hình dung 2 khóa khách khác nhau. Khi đập tin, hãy tìm do o kì so sánh, thẳng chết cùng kì hay một mất ra hơn. Phép nhân chưa dải thiết tại sao chị hạnh thay bằng giá, nó chỉ gỡ nhằm lẫn dưỡng mức và tấp độ, để hiểu mươi nhân phải quay lại chất lúc cử hàng mở cửa, nơi hoá đơn đầu vào được chốt.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": " dự mươi rất lượng và kích cỡ.",
+          "globalStart": 58.3,
+          "globalEnd": 60.3
+        },
+        {
+          "start": 2.0,
+          "end": 6.4,
+          "text": " Năm đầu bánh từ 20 lên 22.000 tăng 10%",
+          "globalStart": 60.3,
+          "globalEnd": 64.7
+        },
+        {
+          "start": 6.4,
+          "end": 9.0,
+          "text": " Đây là phép tính cho một mật hàng minh hoạch",
+          "globalStart": 64.7,
+          "globalEnd": 67.3
+        },
+        {
+          "start": 9.0,
+          "end": 11.5,
+          "text": " chứ phải chỉ số giá tư dùng của quốc gia.",
+          "globalStart": 67.3,
+          "globalEnd": 69.8
+        },
+        {
+          "start": 11.5,
+          "end": 14.0,
+          "text": " Năm sau giá chỉ tăng 2%",
+          "globalStart": 69.8,
+          "globalEnd": 72.3
+        },
+        {
+          "start": 14.0,
+          "end": 19.0,
+          "text": " 22.000 nhân 1,02 được 22.440 đồng",
+          "globalStart": 72.3,
+          "globalEnd": 77.3
+        },
+        {
+          "start": 19.0,
+          "end": 24.0,
+          "text": " dự số lẻ để thấy phép tính chưa làm tròn thành giá bán ngoài tiệm.",
+          "globalStart": 77.3,
+          "globalEnd": 82.3
+        },
+        {
+          "start": 24.0,
+          "end": 27.0,
+          "text": " Tốc độ tăng giảm từ 10 xúm 2%",
+          "globalStart": 82.3,
+          "globalEnd": 85.3
+        },
+        {
+          "start": 27.0,
+          "end": 35.18,
+          "text": " Nhưng giá vẫn ca hơn trước, nếu cả dỏ hàng vật động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về cho cu.",
+          "globalStart": 85.3,
+          "globalEnd": 93.47999999999999
+        },
+        {
+          "start": 35.18,
+          "end": 47.78,
+          "text": " Chức xe đi chậm hơn nhưng chưa chạy lùi, giá cũng vậy, tăng chậm hơn khác với giảm xuống, muốn mặt bằng giả giảm, mức thấy đổi chung phải âm chứ không chỉ nhỏ hơn còn số dương trước đó.",
+          "globalStart": 93.47999999999999,
+          "globalEnd": 106.08
+        },
+        {
+          "start": 47.78,
+          "end": 55.86,
+          "text": " Người như giá năm ngoái, người như giá vải năm trước, họ nghe cùng tỷ lệ lạm phát mà hình dung 2 khóa khách khác nhau.",
+          "globalStart": 106.08,
+          "globalEnd": 114.16
+        },
+        {
+          "start": 55.86,
+          "end": 58.74,
+          "text": " Khi đập tin, hãy tìm do o kì so sánh,",
+          "globalStart": 114.16,
+          "globalEnd": 117.03999999999999
+        },
+        {
+          "start": 58.74,
+          "end": 61.74,
+          "text": " thẳng chết cùng kì hay một mất ra hơn.",
+          "globalStart": 117.03999999999999,
+          "globalEnd": 120.03999999999999
+        },
+        {
+          "start": 61.74,
+          "end": 64.98,
+          "text": " Phép nhân chưa dải thiết tại sao chị hạnh thay bằng giá,",
+          "globalStart": 120.03999999999999,
+          "globalEnd": 123.28
+        },
+        {
+          "start": 64.98,
+          "end": 67.64,
+          "text": " nó chỉ gỡ nhằm lẫn dưỡng mức và tấp độ,",
+          "globalStart": 123.28,
+          "globalEnd": 125.94
+        },
+        {
+          "start": 67.64,
+          "end": 71.16,
+          "text": " để hiểu mươi nhân phải quay lại chất lúc cử hàng mở cửa,",
+          "globalStart": 125.94,
+          "globalEnd": 129.45999999999998
+        },
+        {
+          "start": 71.16,
+          "end": 73.24,
+          "text": " nơi hoá đơn đầu vào được chốt.",
+          "globalStart": 129.45999999999998,
+          "globalEnd": 131.54
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 13.387,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\02-muc-va-toc-do-049831db47be39bd.wav",
+      "chunk": {
+        "chunkKey": "049831db47be39bd3b1e7f6376fed644cc1cdc4064d4a05030b7624589ae0005",
+        "sha256": "68c1b1f8b44cb5dcc67cf79e7c5703e43edd07d6551cdd9070ad28d20628ccf3",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1174400,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 2798400,
+        "sourceEndSampleExclusive": 6321600,
+        "sourceSampleRate": 48000,
+        "seconds": 73.4,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.835,
+        "expectedTokenCoverage": 0.8367,
+        "expectedTailTokenCoverage": 0.76,
+        "expectedTokens": 251,
+        "observedTokens": 252,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "36b0547a465c7f1176ac9feb00d990e014ae3f0c26af4bd57306b132fb6e397f",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "ec49b3e28d502d48d14dc26a89a8e62d7f88824c122b1650d16e061075c1c612",
+        "startFrame": 3951,
+        "endFrameExclusive": 6496,
+        "expectedSHA256": "1389e4a5c6ad293029bc2bc18d5825dc2950f40237116e2940f145530228b360",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "sau-quay-banh",
+      "expected": "Trong mô hình đơn giản, một ổ bánh bán hai mươi nghìn. Chi phí biến đổi là mười hai nghìn; tiền thuê và chi phí cố định được phân bổ năm nghìn ở sản lượng giả định. Còn ba nghìn, trước các khoản chưa đưa vào mô hình. Ba nghìn chưa là lợi nhuận ròng: còn thuế, khấu hao và công chủ tiệm chưa tính đủ. Tiền thuê trên mỗi ổ cũng thay đổi nếu số bánh bán khác đi. Đây là kính lúp giải thích, không phải sổ kế toán hoàn chỉnh. Nguyên liệu, bao bì và năng lượng làm chi phí biến đổi tăng lên mười bốn nghìn năm trăm. Tiệm nâng giá lên hai mươi hai nghìn. Giữ cách phân bổ cũ, phần còn lại chỉ còn hai nghìn năm trăm, thấp hơn trước. Khách trả thêm hai nghìn, nhưng chi phí biến đổi tăng hai nghìn năm trăm. Vậy giá bán tăng mà phần dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bảng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này. Bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hụt có thể làm người bán trả nhiều hơn. Nếu nhiều doanh nghiệp gặp sức ép tương tự, chi phí có thể lan sang giá hàng tiêu dùng. Nhiên liệu đắt hơn có thể đi vào cước giao hàng, vận hành máy móc và phân phối. Khách không mua dầu thô cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chuỗi cung ứng trước khi hàng tới quầy. Đầu vào tăng không có nghĩa giá bán luôn tăng đúng bấy nhiêu. Chủ tiệm còn chịu cạnh tranh và sức mua của khách. Có nơi chấp nhận giảm phần dư, có nơi đổi cách vận hành, có nơi mới tăng giá.",
+      "recognized": "trong bầu hình đơn giản, một ổ bánh bán 20.000, G-FY bến đổi là 12.000, tiền thuyền và G-FY khú định được phân bộ 5.000 ở sản lượng giả định, còn 3.000 chức các khoảng chưa đưa vào bầu hình, 3.000 chưa là lợi nhận ròng, con thuyết, khấu hào và công chủ tiệm chưa tính đủ, tiền thuyền bộ cũng thay đổi nếu số bánh bán khác đi, đây là kính lúc giải thích không phải xấu kế toán hoàn trình. Nguyên liệu, bao bì và năng lượng làm chifey biến đổi tăng lên 14500. Tiệm nâng giá lên 22000, dự cách phân bộ cu, phân con lại chỉ còn 2500, thập hình trước. Khách trả thêm 2000, nhưng chifey biến đổi tăng 2500. Vậy giá bán tăng, mà phân dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bằng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này, bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hút có thể là người bán trả nhiều hơn. Nếu nhiều dân nghiệp vập sức ép tương tự, chi phí có thể lan sàng giá hàng tiêu dùng. Nhìn liệu đất hơn có thể đi vào cước dau hàng vận hành máy móc và phân phối. Khách không mua dổ thu cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chữa cùng ngứng trước khi hàng tới quầy. Đầu vào tăng, không có nghĩa giá bán luôn tăng đúng bấy nhiều. Chủ tiệm con triệu cạnh tranh và xức mua của khách. Có nơi chấp nhận giảm phân dư, có nơi đổi cách vận hành, có nơi mới tông giá",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.84,
+          "text": " trong bầu hình đơn giản, một ổ bánh bán 20.000,",
+          "globalStart": 131.7,
+          "globalEnd": 134.54
+        },
+        {
+          "start": 2.84,
+          "end": 9.26,
+          "text": " G-FY bến đổi là 12.000, tiền thuyền và G-FY khú định được phân bộ 5.000 ở sản lượng giả định,",
+          "globalStart": 134.54,
+          "globalEnd": 140.95999999999998
+        },
+        {
+          "start": 9.26,
+          "end": 14.3,
+          "text": " còn 3.000 chức các khoảng chưa đưa vào bầu hình, 3.000 chưa là lợi nhận ròng,",
+          "globalStart": 140.95999999999998,
+          "globalEnd": 146.0
+        },
+        {
+          "start": 14.3,
+          "end": 17.82,
+          "text": " con thuyết, khấu hào và công chủ tiệm chưa tính đủ,",
+          "globalStart": 146.0,
+          "globalEnd": 149.51999999999998
+        },
+        {
+          "start": 17.82,
+          "end": 21.76,
+          "text": " tiền thuyền bộ cũng thay đổi nếu số bánh bán khác đi,",
+          "globalStart": 149.51999999999998,
+          "globalEnd": 153.45999999999998
+        },
+        {
+          "start": 21.76,
+          "end": 25.34,
+          "text": " đây là kính lúc giải thích không phải xấu kế toán hoàn trình.",
+          "globalStart": 153.45999999999998,
+          "globalEnd": 157.04
+        },
+        {
+          "start": 25.34,
+          "end": 30.84,
+          "text": " Nguyên liệu, bao bì và năng lượng làm chifey biến đổi tăng lên 14500.",
+          "globalStart": 157.04,
+          "globalEnd": 162.54
+        },
+        {
+          "start": 30.84,
+          "end": 37.7,
+          "text": " Tiệm nâng giá lên 22000, dự cách phân bộ cu, phân con lại chỉ còn 2500, thập hình trước.",
+          "globalStart": 162.54,
+          "globalEnd": 169.39999999999998
+        },
+        {
+          "start": 37.7,
+          "end": 41.760000000000005,
+          "text": " Khách trả thêm 2000, nhưng chifey biến đổi tăng 2500.",
+          "globalStart": 169.39999999999998,
+          "globalEnd": 173.45999999999998
+        },
+        {
+          "start": 41.760000000000005,
+          "end": 45.4,
+          "text": " Vậy giá bán tăng, mà phân dư trên mỗi ổ lại giảm.",
+          "globalStart": 173.45999999999998,
+          "globalEnd": 177.1
+        },
+        {
+          "start": 45.4,
+          "end": 52.74,
+          "text": " Chỉ nhìn tấm bằng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này, bột và thực phẩm không đứng riêng khỏi kinh tế.",
+          "globalStart": 177.1,
+          "globalEnd": 184.44
+        },
+        {
+          "start": 52.74,
+          "end": 56.1,
+          "text": " Một đầu vào thiếu hút có thể là người bán trả nhiều hơn.",
+          "globalStart": 184.44,
+          "globalEnd": 187.79999999999998
+        },
+        {
+          "start": 56.1,
+          "end": 58.480000000000004,
+          "text": " Nếu nhiều dân nghiệp vập sức ép tương tự,",
+          "globalStart": 187.79999999999998,
+          "globalEnd": 190.18
+        },
+        {
+          "start": 58.480000000000004,
+          "end": 61.08,
+          "text": " chi phí có thể lan sàng giá hàng tiêu dùng.",
+          "globalStart": 190.18,
+          "globalEnd": 192.77999999999997
+        },
+        {
+          "start": 61.08,
+          "end": 63.980000000000004,
+          "text": " Nhìn liệu đất hơn có thể đi vào cước dau hàng",
+          "globalStart": 192.77999999999997,
+          "globalEnd": 195.68
+        },
+        {
+          "start": 63.980000000000004,
+          "end": 66.18,
+          "text": " vận hành máy móc và phân phối.",
+          "globalStart": 195.68,
+          "globalEnd": 197.88
+        },
+        {
+          "start": 66.18,
+          "end": 68.48,
+          "text": " Khách không mua dổ thu cùng ổ bánh,",
+          "globalStart": 197.88,
+          "globalEnd": 200.18
+        },
+        {
+          "start": 68.48,
+          "end": 72.58,
+          "text": " nhưng chi phí vận chuyển đã đi qua chữa cùng ngứng trước khi hàng tới quầy.",
+          "globalStart": 200.18,
+          "globalEnd": 204.27999999999997
+        },
+        {
+          "start": 72.58,
+          "end": 76.22,
+          "text": " Đầu vào tăng, không có nghĩa giá bán luôn tăng đúng bấy nhiều.",
+          "globalStart": 204.27999999999997,
+          "globalEnd": 207.92
+        },
+        {
+          "start": 76.22,
+          "end": 79.32000000000001,
+          "text": " Chủ tiệm con triệu cạnh tranh và xức mua của khách.",
+          "globalStart": 207.92,
+          "globalEnd": 211.01999999999998
+        },
+        {
+          "start": 79.32000000000001,
+          "end": 81.32000000000001,
+          "text": " Có nơi chấp nhận giảm phân dư,",
+          "globalStart": 211.01999999999998,
+          "globalEnd": 213.01999999999998
+        },
+        {
+          "start": 81.32000000000001,
+          "end": 84.60000000000001,
+          "text": " có nơi đổi cách vận hành, có nơi mới tông giá",
+          "globalStart": 213.01999999999998,
+          "globalEnd": 216.3
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 18.03,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\03-sau-quay-banh-c806672ba3a437eb.wav",
+      "chunk": {
+        "chunkKey": "c806672ba3a437ebce1d9e98935d332e07d9a75eadc0e3553855c7ca7d5a4f0c",
+        "sha256": "ec49b3e28d502d48d14dc26a89a8e62d7f88824c122b1650d16e061075c1c612",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1357333,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 6321600,
+        "sourceEndSampleExclusive": 10393600,
+        "sourceSampleRate": 48000,
+        "seconds": 84.8333125,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8262,
+        "expectedTokenCoverage": 0.8208,
+        "expectedTailTokenCoverage": 0.88,
+        "expectedTokens": 307,
+        "observedTokens": 303,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "2a2555d45f79f5677e290d1bec24b1324cb81d4953dee25e528f9f344aa8802e",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "65e92e67fc1eacd9467881a2f1fb334993d44109efd760d4fa2b2e4d772e6cd6",
+        "startFrame": 6496,
+        "endFrameExclusive": 8735,
+        "expectedSHA256": "ef99dbac7375b4e1f58e656a3d2725426153f4bdffe24fbfefaf752a07c6fb19",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "khach-va-cong-suat",
+      "expected": "Đổi tình huống: nguyên liệu chưa tăng giá, nhưng quanh tiệm có thêm người làm việc. Lượng khách muốn mua nhiều hơn trong khi lò nướng, quầy và thời gian phục vụ vẫn như cũ. Sức ép lúc này đến từ nhu cầu. Chị Hạnh có thể tăng ca, mua thiết bị hoặc thuê người, nhưng cần thời gian. Khi cung ứng chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện rộng có thể tạo áp lực lạm phát. Còn mắt xích kỳ vọng. Nếu tin nguyên liệu sắp đắt hơn, chủ tiệm có thể cân nhắc giá sớm. Nếu lo sức mua giảm, người lao động có thể đề nghị tăng lương. Những dự tính ấy ảnh hưởng quyết định hiện tại. Không có nghĩa cứ tăng lương là gây lạm phát, hay dự báo đều tự thành thật. Năng suất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn chen vào. Kỳ vọng là một kênh tác động, không phải nút duy nhất điều khiển giá. Đừng từ chị Hạnh mà kết luận mọi người bán chịu thiệt. Có doanh nghiệp tăng được biên lợi nhuận khi nhu cầu mạnh hoặc cạnh tranh yếu. Có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh doanh để phân biệt. Ta có ba lối vào: chi phí, nhu cầu và kỳ vọng. Nhưng khách vẫn hỏi: nếu vận chuyển bớt căng, nguyên liệu bớt đắt, tại sao bảng giá chưa hạ? Câu trả lời nằm ở cấu trúc chi phí và cạnh tranh.",
+      "recognized": "Lổi tình huấn, mươi liệu chưa tăng giá nhưng quen tiệm có thêm người làm việc, lượng khách muốn mua nhiều hơn trong khi lo nướng, quảy và thời gian phục vụ vẫn như cú. Sự gây bước này đến từ nhiều cầu, chỉ hạnh có thể tăng ca mùa thét bị mọc thêm người, nhưng cần thời gian, khi cũng vẫn chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện giọc có thể tạo áp lực lạm phát, con mắc sức kỳ vọng. Nếu tin mươi liệu xắp đặt hơn, chủ tiệm có thể cần nhắc giá sớm. Nếu lo sức mua giảm, người lâu động có thể đế nghị tăng lương. Những dựa tình gái ảnh hưởng quyết định hiện tại, không có nghĩa cứ tăng lương là gây lạng phát hay dự báo đều tự thành thật. Năng xuất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn trên vào. Khi vọng là một kinh tác động, không phải nút duy nhất điều khiển giá. Đừng từ chỉ hạnh mà cái luận mọi người bán triệu thiệt, có rất nghiệp tăng được biên lợi nhuận khi như cầu mạnh hoặc cạnh tranh giấu, có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh dành để phân biệt. Tàu có 3 lối vào, chi phí, nhu cầu và kỳ vọng. Nhưng khác vấn hỏi, nếu vận chuyển bất căng, nguyên liệu bất đất tại sao bằng giá chứ hả? Câu trả lời nằm ở cấu chút chi phí và cạnh tranh.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.24,
+          "text": " Lổi tình huấn, mươi liệu chưa tăng giá nhưng quen tiệm có thêm người làm việc,",
+          "globalStart": 216.53333333333333,
+          "globalEnd": 220.77333333333334
+        },
+        {
+          "start": 4.24,
+          "end": 9.6,
+          "text": " lượng khách muốn mua nhiều hơn trong khi lo nướng, quảy và thời gian phục vụ vẫn như cú.",
+          "globalStart": 220.77333333333334,
+          "globalEnd": 226.13333333333333
+        },
+        {
+          "start": 9.6,
+          "end": 16.28,
+          "text": " Sự gây bước này đến từ nhiều cầu, chỉ hạnh có thể tăng ca mùa thét bị mọc thêm người, nhưng cần thời gian,",
+          "globalStart": 226.13333333333333,
+          "globalEnd": 232.81333333333333
+        },
+        {
+          "start": 16.28,
+          "end": 20.0,
+          "text": " khi cũng vẫn chưa theo kịp, người bán có thêm điều kiện tăng giá.",
+          "globalStart": 232.81333333333333,
+          "globalEnd": 236.53333333333333
+        },
+        {
+          "start": 20.0,
+          "end": 25.240000000000002,
+          "text": " Cơ chế tương tự trên diện giọc có thể tạo áp lực lạm phát, con mắc sức kỳ vọng.",
+          "globalStart": 236.53333333333333,
+          "globalEnd": 241.77333333333334
+        },
+        {
+          "start": 25.240000000000002,
+          "end": 29.36,
+          "text": " Nếu tin mươi liệu xắp đặt hơn, chủ tiệm có thể cần nhắc giá sớm.",
+          "globalStart": 241.77333333333334,
+          "globalEnd": 245.89333333333332
+        },
+        {
+          "start": 29.36,
+          "end": 33.0,
+          "text": " Nếu lo sức mua giảm, người lâu động có thể đế nghị tăng lương.",
+          "globalStart": 245.89333333333332,
+          "globalEnd": 249.53333333333333
+        },
+        {
+          "start": 33.0,
+          "end": 35.64,
+          "text": " Những dựa tình gái ảnh hưởng quyết định hiện tại,",
+          "globalStart": 249.53333333333333,
+          "globalEnd": 252.17333333333335
+        },
+        {
+          "start": 35.64,
+          "end": 40.04,
+          "text": " không có nghĩa cứ tăng lương là gây lạng phát hay dự báo đều tự thành thật.",
+          "globalStart": 252.17333333333335,
+          "globalEnd": 256.5733333333333
+        },
+        {
+          "start": 40.04,
+          "end": 44.64,
+          "text": " Năng xuất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn trên vào.",
+          "globalStart": 256.5733333333333,
+          "globalEnd": 261.17333333333335
+        },
+        {
+          "start": 44.64,
+          "end": 48.519999999999996,
+          "text": " Khi vọng là một kinh tác động, không phải nút duy nhất điều khiển giá.",
+          "globalStart": 261.17333333333335,
+          "globalEnd": 265.05333333333334
+        },
+        {
+          "start": 48.519999999999996,
+          "end": 51.68,
+          "text": " Đừng từ chỉ hạnh mà cái luận mọi người bán triệu thiệt,",
+          "globalStart": 265.05333333333334,
+          "globalEnd": 268.2133333333333
+        },
+        {
+          "start": 51.68,
+          "end": 55.760000000000005,
+          "text": " có rất nghiệp tăng được biên lợi nhuận khi như cầu mạnh hoặc cạnh tranh giấu,",
+          "globalStart": 268.2133333333333,
+          "globalEnd": 272.29333333333335
+        },
+        {
+          "start": 55.760000000000005,
+          "end": 57.28,
+          "text": " có nơi không làm được.",
+          "globalStart": 272.29333333333335,
+          "globalEnd": 273.81333333333333
+        },
+        {
+          "start": 57.28,
+          "end": 60.86,
+          "text": " Cần dữ liệu về chi phí và kết quả kinh dành để phân biệt.",
+          "globalStart": 273.81333333333333,
+          "globalEnd": 277.3933333333333
+        },
+        {
+          "start": 61.58,
+          "end": 65.62,
+          "text": " Tàu có 3 lối vào, chi phí, nhu cầu và kỳ vọng.",
+          "globalStart": 278.11333333333334,
+          "globalEnd": 282.1533333333333
+        },
+        {
+          "start": 65.62,
+          "end": 68.28,
+          "text": " Nhưng khác vấn hỏi, nếu vận chuyển bất căng,",
+          "globalStart": 282.1533333333333,
+          "globalEnd": 284.81333333333333
+        },
+        {
+          "start": 68.28,
+          "end": 71.08,
+          "text": " nguyên liệu bất đất tại sao bằng giá chứ hả?",
+          "globalStart": 284.81333333333333,
+          "globalEnd": 287.61333333333334
+        },
+        {
+          "start": 71.08,
+          "end": 74.42,
+          "text": " Câu trả lời nằm ở cấu chút chi phí và cạnh tranh.",
+          "globalStart": 287.61333333333334,
+          "globalEnd": 290.9533333333333
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 14.061,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\04-khach-va-cong-suat-0d4129b054cd6e31.wav",
+      "chunk": {
+        "chunkKey": "0d4129b054cd6e31f40a87a57a1b6048e482b3ed6ab6a8fd6988fe7dbfe2609f",
+        "sha256": "65e92e67fc1eacd9467881a2f1fb334993d44109efd760d4fa2b2e4d772e6cd6",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1194133,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 10393600,
+        "sourceEndSampleExclusive": 13976000,
+        "sourceSampleRate": 48000,
+        "seconds": 74.6333125,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8015,
+        "expectedTokenCoverage": 0.8015,
+        "expectedTailTokenCoverage": 0.72,
+        "expectedTokens": 267,
+        "observedTokens": 267,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "d5114e3ea271f95e81e028e82f6e5d8ce1ee5ce7e9db7bc5f2650246df070afc",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "4bf2615b7b5f4a4b8bd8a1e5a7e1982286c1e34baec9aa79d207448213971074",
+        "startFrame": 8735,
+        "endFrameExclusive": 10920,
+        "expectedSHA256": "d6fd28cffc135c57090c61a543e51530c8667392004beb72bafd3bdc7ea86533",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "bang-gia-chua-ha",
+      "expected": "Cước giao hàng giảm, nhưng tiền thuê vẫn theo hợp đồng, lương đã thỏa thuận chưa đổi, vài nguyên liệu khác còn tăng. Tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cũ. Không thể nhìn một hóa đơn để đoán tất cả. Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá. Chi phí giảm bền vững và cạnh tranh mạnh tạo động lực hạ giá giữ khách. Nếu khách khó chuyển nơi mua, sức ép ấy có thể yếu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh. Một vài mặt hàng có thể rẻ đi trong khi mức giá chung tăng: nhóm này giảm nhưng nhóm khác tăng nhiều hơn. Vì thế, lạm phát còn dương không đồng nghĩa mọi món ở chợ đều tăng giá như nhau. Muốn bánh từ hai mươi hai nghìn về hai mươi nghìn, giá phải giảm khoảng chín phẩy một phần trăm trên nền hiện tại. Nó khác hẳn chuyện tốc độ tăng từ mười xuống hai phần trăm ta tính ban đầu. Điều người mua quan tâm là thu nhập mua được bao nhiêu hàng hóa và dịch vụ. Giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thu nhập tăng nhanh hơn chi phí sinh hoạt phù hợp với họ.",
+      "recognized": "Cước dau hàng giảm, nhưng tiền thuy vấn theo hoặc đồng, lường gã thỏa thuận chơi rồi, vài nguy lệu khác còn tăng, tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cu. Không thể nhìn một khoá đơn để đoán tất cả. Dù giá mua mươi thất hơn, tiệm có thể còn dùng lô hàng giá cao, hoặc thực hiện hợp đồng cu. Đây là tình huấn minh hoạ, đội chế, không phải bằng chứng mọi cửa hàng để có cùng lý do gió giữ giá. Chỉ phí giảm biến vững và cạnh tranh mạnh, tạo động lực hạ giự khách, nếu khách khó chuyển nơi mua, sức ép ấy có thể yêu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh. Một vài mặt hàng có thể dễ đi trong khi mức giá trung tăng, nhóm này giảm nhưng nhóm khác tăng nhiều hơn, vì thế lạm phát còn dương không đồng ý ơ mọi món ở trợ đều tăng giá như nhau. Một bánh từ 22000 v. 20000, giá phải giảm khoảng 9,100 trên nền hiện tại, nó khắc hẳn chuyện tâm lộ tăng từ 10-2% ta tính man đẩu. Điều người mua quan tâm là thú nhập mua được bao nhiêu hàng hỏa và dịch vụ. giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thú nhập tăng ngang hơn chi phí sinh hoạt, vừa hợp với họ.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.640000000000001,
+          "text": " Cước dau hàng giảm, nhưng tiền thuy vấn theo hoặc đồng, lường gã thỏa thuận chơi rồi, vài nguy lệu khác còn tăng,",
+          "globalStart": 291.1666666666667,
+          "globalEnd": 297.8066666666667
+        },
+        {
+          "start": 6.640000000000001,
+          "end": 10.4,
+          "text": " tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cu.",
+          "globalStart": 297.8066666666667,
+          "globalEnd": 301.56666666666666
+        },
+        {
+          "start": 10.4,
+          "end": 13.16,
+          "text": " Không thể nhìn một khoá đơn để đoán tất cả.",
+          "globalStart": 301.56666666666666,
+          "globalEnd": 304.3266666666667
+        },
+        {
+          "start": 13.16,
+          "end": 18.88,
+          "text": " Dù giá mua mươi thất hơn, tiệm có thể còn dùng lô hàng giá cao, hoặc thực hiện hợp đồng cu.",
+          "globalStart": 304.3266666666667,
+          "globalEnd": 310.0466666666667
+        },
+        {
+          "start": 18.88,
+          "end": 24.84,
+          "text": " Đây là tình huấn minh hoạ, đội chế, không phải bằng chứng mọi cửa hàng để có cùng lý do gió giữ giá.",
+          "globalStart": 310.0466666666667,
+          "globalEnd": 316.00666666666666
+        },
+        {
+          "start": 24.84,
+          "end": 29.94,
+          "text": " Chỉ phí giảm biến vững và cạnh tranh mạnh, tạo động lực hạ giự khách,",
+          "globalStart": 316.00666666666666,
+          "globalEnd": 321.1066666666667
+        },
+        {
+          "start": 29.94,
+          "end": 33.64,
+          "text": " nếu khách khó chuyển nơi mua, sức ép ấy có thể yêu hơn.",
+          "globalStart": 321.1066666666667,
+          "globalEnd": 324.8066666666667
+        },
+        {
+          "start": 33.64,
+          "end": 37.74,
+          "text": " Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh.",
+          "globalStart": 324.8066666666667,
+          "globalEnd": 328.9066666666667
+        },
+        {
+          "start": 37.74,
+          "end": 41.44,
+          "text": " Một vài mặt hàng có thể dễ đi trong khi mức giá trung tăng,",
+          "globalStart": 328.9066666666667,
+          "globalEnd": 332.6066666666667
+        },
+        {
+          "start": 41.44,
+          "end": 44.24,
+          "text": " nhóm này giảm nhưng nhóm khác tăng nhiều hơn,",
+          "globalStart": 332.6066666666667,
+          "globalEnd": 335.4066666666667
+        },
+        {
+          "start": 44.24,
+          "end": 49.34,
+          "text": " vì thế lạm phát còn dương không đồng ý ơ mọi món ở trợ đều tăng giá như nhau.",
+          "globalStart": 335.4066666666667,
+          "globalEnd": 340.50666666666666
+        },
+        {
+          "start": 49.34,
+          "end": 56.220000000000006,
+          "text": " Một bánh từ 22000 v. 20000, giá phải giảm khoảng 9,100 trên nền hiện tại,",
+          "globalStart": 340.50666666666666,
+          "globalEnd": 347.3866666666667
+        },
+        {
+          "start": 56.220000000000006,
+          "end": 60.580000000000005,
+          "text": " nó khắc hẳn chuyện tâm lộ tăng từ 10-2% ta tính man đẩu.",
+          "globalStart": 347.3866666666667,
+          "globalEnd": 351.74666666666667
+        },
+        {
+          "start": 60.580000000000005,
+          "end": 65.02000000000001,
+          "text": " Điều người mua quan tâm là thú nhập mua được bao nhiêu hàng hỏa và dịch vụ.",
+          "globalStart": 351.74666666666667,
+          "globalEnd": 356.1866666666667
+        },
+        {
+          "start": 65.02000000000001,
+          "end": 69.10000000000001,
+          "text": " giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn,",
+          "globalStart": 356.1866666666667,
+          "globalEnd": 360.2666666666667
+        },
+        {
+          "start": 69.10000000000001,
+          "end": 72.74000000000001,
+          "text": " nếu thú nhập tăng ngang hơn chi phí sinh hoạt, vừa hợp với họ.",
+          "globalStart": 360.2666666666667,
+          "globalEnd": 363.9066666666667
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 13.892,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\05-bang-gia-chua-ha-c95e4803a33beed5.wav",
+      "chunk": {
+        "chunkKey": "c95e4803a33beed5848e40146dbf29fadb49377fc9a9d796f4b3b4820f4ba253",
+        "sha256": "4bf2615b7b5f4a4b8bd8a1e5a7e1982286c1e34baec9aa79d207448213971074",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1165333,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 13976000,
+        "sourceEndSampleExclusive": 17472000,
+        "sourceSampleRate": 48000,
+        "seconds": 72.8333125,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8343,
+        "expectedTokenCoverage": 0.8327,
+        "expectedTailTokenCoverage": 0.88,
+        "expectedTokens": 263,
+        "observedTokens": 262,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "7ec7744ceeadfbf61e6b435049342ac5093f3841a6cfc4a9df68edd6e868953f",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "8344f589df16bcaa48cde0c11a077eed3698378f715f67a8dd8c6c07b1247f93",
+        "startFrame": 10920,
+        "endFrameExclusive": 13754,
+        "expectedSHA256": "c8d85226b4d3d9e72ca1cd9a5050248b060d0e4423186f2d3f249303f038b73d",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "gio-hang-va-tien-luong",
+      "expected": "Hãy nhìn cả giỏ chi tiêu. Chỉ số giá tiêu dùng dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng nay. Khoản chiếm tỷ trọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả chung. Giỏ giả định có một trăm phần chi tiêu: bốn mươi cho ăn uống, ba mươi cho nhà ở, hai mươi cho đi lại, mười cho phần khác. Tỷ trọng này chỉ để tính dễ, không mô tả hộ gia đình Việt Nam trung bình. Ăn uống tăng mười phần trăm, ba nhóm còn lại đứng giá, giỏ tăng bốn phần trăm nếu giữ nguyên lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm một phần giỏ. Nhà có con nhỏ, người thuê trọ và người đi làm xa chi tiêu khác nhau. Nếu khoản bạn mua nhiều tăng mạnh, áp lực thực tế có thể cao hơn bình quân. Cảm giác khó khăn không vì thế mà tự động thành sai. Thu nhập giả định từ mười lên mười triệu rưỡi, tăng năm phần trăm. Cùng lúc, giỏ hàng phù hợp tăng tám phần trăm. Tiền nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng cũ. Một phẩy không năm chia một phẩy không tám, trừ một, sức mua giảm khoảng hai phẩy tám phần trăm. Trừ năm với tám chỉ là ước lượng gần. Lương danh nghĩa tăng chưa đủ để kết luận đời sống khá lên. Giá niêm yết không đổi mà lượng hàng giảm: hai mươi nghìn mua một trăm gram, rồi chỉ mua chín mươi gram. Giá mỗi gram tăng khoảng mười một phẩy một phần trăm. So sánh đúng cần nhìn cả lượng và chất lượng.",
+      "recognized": "Hãy nhìn cả dọt chi tiêu. Chỉ số giá tiêu dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng ngày. Quảng chiếm tì chọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả trung. Giọ giá định có 100% chi tiêu. 40 cho ăn nguấn, 30 cho nhà ờ, 20 cho đi lại, 10 cho phần khác, tì chọng này chỉ để tính dễ không mô tả hộ gia đình Việt Nam trung bình. Anh uống tăng 10%, 3 nhóm còn lại đừng giá, giỏ tăng 40% nếu dựa mươi lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm 1 phần giỏ. Nhà có con nhỏ, người thuyết chọn và người đi làm xa chỉ tiêu khác nhau. Nếu khoảng bạn mua nhiều tăng mạnh, ab lực thực tế có thể cao hơn bình quân. Tảm giác khó khăn không vì thế mà tự động thành xai. Thôi nhập giả định từ 10 lên 10 triệu dưới, tăng 5%. Cùng lúc do hàng phù hợp tăng 8% Tiên nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng quốc. Một phải không 5, chia 1 phải không 8, chia 1, xước mua giảm khoảng 2,8%. Chừ năm vơi 8 chỉ là ước lượng gần, lừng dành nghĩa tăng chưa đủ để kết luận đời sống khá lên. Giá nha biết không đổi mà lượng hàng giảm. 20.000 mô 100 g, rồi chỉ mô 90 g, giá mỗi gram tăng khoảng 11.1% Sau sang đúng, cần nhìn cả lượng và chất lượng.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.48,
+          "text": " Hãy nhìn cả dọt chi tiêu. Chỉ số giá tiêu dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng ngày.",
+          "globalStart": 364.0,
+          "globalEnd": 371.48
+        },
+        {
+          "start": 7.48,
+          "end": 12.120000000000001,
+          "text": " Quảng chiếm tì chọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả trung.",
+          "globalStart": 371.48,
+          "globalEnd": 376.12
+        },
+        {
+          "start": 12.120000000000001,
+          "end": 15.16,
+          "text": " Giọ giá định có 100% chi tiêu.",
+          "globalStart": 376.12,
+          "globalEnd": 379.16
+        },
+        {
+          "start": 15.16,
+          "end": 22.16,
+          "text": " 40 cho ăn nguấn, 30 cho nhà ờ, 20 cho đi lại, 10 cho phần khác,",
+          "globalStart": 379.16,
+          "globalEnd": 386.16
+        },
+        {
+          "start": 22.16,
+          "end": 26.72,
+          "text": " tì chọng này chỉ để tính dễ không mô tả hộ gia đình Việt Nam trung bình.",
+          "globalStart": 386.16,
+          "globalEnd": 390.72
+        },
+        {
+          "start": 26.72,
+          "end": 33.9,
+          "text": " Anh uống tăng 10%, 3 nhóm còn lại đừng giá, giỏ tăng 40% nếu dựa mươi lượng mua.",
+          "globalStart": 390.72,
+          "globalEnd": 397.9
+        },
+        {
+          "start": 33.9,
+          "end": 40.379999999999995,
+          "text": " Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm 1 phần giỏ.",
+          "globalStart": 397.9,
+          "globalEnd": 404.38
+        },
+        {
+          "start": 40.379999999999995,
+          "end": 45.72,
+          "text": " Nhà có con nhỏ, người thuyết chọn và người đi làm xa chỉ tiêu khác nhau.",
+          "globalStart": 404.38,
+          "globalEnd": 409.72
+        },
+        {
+          "start": 45.72,
+          "end": 50.32,
+          "text": " Nếu khoảng bạn mua nhiều tăng mạnh, ab lực thực tế có thể cao hơn bình quân.",
+          "globalStart": 409.72,
+          "globalEnd": 414.32
+        },
+        {
+          "start": 50.32,
+          "end": 54.06,
+          "text": " Tảm giác khó khăn không vì thế mà tự động thành xai.",
+          "globalStart": 414.32,
+          "globalEnd": 418.06
+        },
+        {
+          "start": 54.06,
+          "end": 58.7,
+          "text": " Thôi nhập giả định từ 10 lên 10 triệu dưới, tăng 5%.",
+          "globalStart": 418.06,
+          "globalEnd": 422.7
+        },
+        {
+          "start": 58.7,
+          "end": 62.06,
+          "text": " Cùng lúc do hàng phù hợp tăng 8%",
+          "globalStart": 422.7,
+          "globalEnd": 426.06
+        },
+        {
+          "start": 62.06,
+          "end": 66.86,
+          "text": " Tiên nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng quốc.",
+          "globalStart": 426.06,
+          "globalEnd": 430.86
+        },
+        {
+          "start": 66.86,
+          "end": 73.26,
+          "text": " Một phải không 5, chia 1 phải không 8, chia 1, xước mua giảm khoảng 2,8%.",
+          "globalStart": 430.86,
+          "globalEnd": 437.26
+        },
+        {
+          "start": 73.26,
+          "end": 80.06,
+          "text": " Chừ năm vơi 8 chỉ là ước lượng gần, lừng dành nghĩa tăng chưa đủ để kết luận đời sống khá lên.",
+          "globalStart": 437.26,
+          "globalEnd": 444.06
+        },
+        {
+          "start": 80.06,
+          "end": 83.30000000000001,
+          "text": " Giá nha biết không đổi mà lượng hàng giảm.",
+          "globalStart": 444.06,
+          "globalEnd": 447.3
+        },
+        {
+          "start": 83.3,
+          "end": 90.8,
+          "text": " 20.000 mô 100 g, rồi chỉ mô 90 g, giá mỗi gram tăng khoảng 11.1%",
+          "globalStart": 447.3,
+          "globalEnd": 454.8
+        },
+        {
+          "start": 90.8,
+          "end": 94.3,
+          "text": " Sau sang đúng, cần nhìn cả lượng và chất lượng.",
+          "globalStart": 454.8,
+          "globalEnd": 458.3
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 31.037,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\06-gio-hang-va-tien-luong-d4eff57d1ee04625.wav",
+      "chunk": {
+        "chunkKey": "d4eff57d1ee04625b74a4bd66e82fc9347204e56a2db4c637ffc2e307b577263",
+        "sha256": "8344f589df16bcaa48cde0c11a077eed3698378f715f67a8dd8c6c07b1247f93",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1511467,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 17472000,
+        "sourceEndSampleExclusive": 22006400,
+        "sourceSampleRate": 48000,
+        "seconds": 94.4666875,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8496,
+        "expectedTokenCoverage": 0.851,
+        "expectedTailTokenCoverage": 0.84,
+        "expectedTokens": 302,
+        "observedTokens": 303,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "1a6ebb148117c110b9a2f760cafd3f3c641eb48c1956e195303519c1edd05510",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "2950a0460f5c395b3cc6853803d7331e9e69b90374d2d70bbae114339197070b",
+        "startFrame": 13754,
+        "endFrameExclusive": 16064,
+        "expectedSHA256": "ab51fa1d2bbebf72fe490fe2ed93a74961b717311d81ee621a1514334adaf4fb",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "cach-ha-nhiet",
+      "expected": "Làm gì để giá tăng bớt nhanh? Nếu vướng nguồn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đầu vào hiệu quả hơn. Nếu cầu quá nóng, chỉ sửa đường vận chuyển có thể chưa đủ. Một công cụ là lãi suất. Khi chi phí vay tăng, một số gia đình và doanh nghiệp có thể hoãn mua sắm hoặc đầu tư. Nhu cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều. Khách bớt mua thì tăng giá khó hơn, nhưng doanh thu và việc làm có thể chịu áp lực. Lãi suất không tự tạo thêm bột hay xăng. Người điều hành phải cân nhắc nguyên nhân, độ trễ và những đánh đổi trong thực tế. Giảm bánh hỏng, sắp xếp ca làm và dùng thiết bị hiệu quả có thể tạo cùng lượng hàng với ít nguồn lực hơn. Năng suất cải thiện tạo khoảng trống cho lương và giá, dù không bảo đảm mọi lợi ích chuyển ngay tới khách. Người mua dễ so sánh khi khối lượng, chất lượng và giá được trình bày rõ. Tiệm làm tốt có cơ hội giữ khách bằng giá trị thật. Nhìn giá trên cùng đơn vị hữu ích hơn chỉ nhìn số tiền trên bao bì. Lạm phát hạ có ý nghĩa: áp lực tăng giá đang bớt theo thước đo báo cáo. Nhưng để gia đình thấy dễ thở hơn, còn cần nhìn mặt bằng giá đã tích lũy, thu nhập, việc làm và giỏ chi tiêu của họ.",
+      "recognized": "làm gì để giá tăng bất nhăn. Nếu vướng mùn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đồ vào hiệu quả hơn. Nếu cầu quả nống, chỉ sửa đường văn chuyển có thể chưa đủ. Một công cụ là lãi xuất. Khi chỉ phí vây tăng, một số gia đình và dân nhập có thể hoãn mô sắm hoặc đầu tư. Như cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều. Khách bất mua thì tăng giá khó hơn. Nhưng doanh thu và việc làm có thể chịu áp lực. Lại xuất không tự tạo thêm bột hay sang, người điều hành phải cân nhắc mùi nhân, đậu chế và những đánh đổi trong thực tế. Giảm bánh hồng, sắp xếp cá làm và dùng thích bị hiệu quả có thể tạo cùng lượng hàng với ít một lực hơn. Năng xuất kải thiện tạo khoảng chống cho lương và giá, dù không bảo đả mọi lợi ích chuyển ngày từ khách. Người mua dễ so sánh khi khối lượng chất lượng và giá được chình bây do. Tiệm nằm tốt có cơ hội dưới khách bằng giá trị thật, nhìn giá trên cùng đơn vị hiểu ích hơn chỉ nhìn số tiền trên bao bì. Lạm phát hạ, coi nghĩa, áp lực tăng giá đang bớt theo thức đò báo cáo, nhưng để giá định thẩy dễ thở hơn, con cần nhìn mặt bằng giá đã tích lưỡi, thu nhập, việc làm và giỏ chi tiêu của họ.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.68,
+          "text": " làm gì để giá tăng bất nhăn.",
+          "globalStart": 458.46666666666664,
+          "globalEnd": 460.14666666666665
+        },
+        {
+          "start": 2.2800000000000002,
+          "end": 5.28,
+          "text": " Nếu vướng mùn cung, giải pháp có thể nằm ở lưu thông,",
+          "globalStart": 460.7466666666666,
+          "globalEnd": 463.7466666666666
+        },
+        {
+          "start": 5.28,
+          "end": 8.28,
+          "text": " năng lực sản xuất và sử dụng đồ vào hiệu quả hơn.",
+          "globalStart": 463.7466666666666,
+          "globalEnd": 466.7466666666666
+        },
+        {
+          "start": 8.76,
+          "end": 10.0,
+          "text": " Nếu cầu quả nống,",
+          "globalStart": 467.22666666666663,
+          "globalEnd": 468.46666666666664
+        },
+        {
+          "start": 10.0,
+          "end": 11.92,
+          "text": " chỉ sửa đường văn chuyển có thể chưa đủ.",
+          "globalStart": 468.46666666666664,
+          "globalEnd": 470.38666666666666
+        },
+        {
+          "start": 12.24,
+          "end": 13.8,
+          "text": " Một công cụ là lãi xuất.",
+          "globalStart": 470.70666666666665,
+          "globalEnd": 472.26666666666665
+        },
+        {
+          "start": 14.280000000000001,
+          "end": 19.0,
+          "text": " Khi chỉ phí vây tăng, một số gia đình và dân nhập có thể hoãn mô sắm hoặc đầu tư.",
+          "globalStart": 472.74666666666667,
+          "globalEnd": 477.46666666666664
+        },
+        {
+          "start": 19.48,
+          "end": 21.88,
+          "text": " Như cầu chậm lại có thể giảm sức ép giá,",
+          "globalStart": 477.94666666666666,
+          "globalEnd": 480.34666666666664
+        },
+        {
+          "start": 22.240000000000002,
+          "end": 24.36,
+          "text": " nhưng tác động không tức thì hay đồng đều.",
+          "globalStart": 480.70666666666665,
+          "globalEnd": 482.82666666666665
+        },
+        {
+          "start": 24.76,
+          "end": 26.76,
+          "text": " Khách bất mua thì tăng giá khó hơn.",
+          "globalStart": 483.22666666666663,
+          "globalEnd": 485.22666666666663
+        },
+        {
+          "start": 27.16,
+          "end": 29.76,
+          "text": " Nhưng doanh thu và việc làm có thể chịu áp lực.",
+          "globalStart": 485.62666666666667,
+          "globalEnd": 488.22666666666663
+        },
+        {
+          "start": 30.0,
+          "end": 37.16,
+          "text": " Lại xuất không tự tạo thêm bột hay sang, người điều hành phải cân nhắc mùi nhân, đậu chế và những đánh đổi trong thực tế.",
+          "globalStart": 488.46666666666664,
+          "globalEnd": 495.62666666666667
+        },
+        {
+          "start": 37.16,
+          "end": 44.44,
+          "text": " Giảm bánh hồng, sắp xếp cá làm và dùng thích bị hiệu quả có thể tạo cùng lượng hàng với ít một lực hơn.",
+          "globalStart": 495.62666666666667,
+          "globalEnd": 502.90666666666664
+        },
+        {
+          "start": 44.44,
+          "end": 50.480000000000004,
+          "text": " Năng xuất kải thiện tạo khoảng chống cho lương và giá, dù không bảo đả mọi lợi ích chuyển ngày từ khách.",
+          "globalStart": 502.90666666666664,
+          "globalEnd": 508.94666666666666
+        },
+        {
+          "start": 50.480000000000004,
+          "end": 55.519999999999996,
+          "text": " Người mua dễ so sánh khi khối lượng chất lượng và giá được chình bây do.",
+          "globalStart": 508.94666666666666,
+          "globalEnd": 513.9866666666667
+        },
+        {
+          "start": 55.52,
+          "end": 58.68000000000001,
+          "text": " Tiệm nằm tốt có cơ hội dưới khách bằng giá trị thật,",
+          "globalStart": 513.9866666666667,
+          "globalEnd": 517.1466666666666
+        },
+        {
+          "start": 58.68000000000001,
+          "end": 63.2,
+          "text": " nhìn giá trên cùng đơn vị hiểu ích hơn chỉ nhìn số tiền trên bao bì.",
+          "globalStart": 517.1466666666666,
+          "globalEnd": 521.6666666666666
+        },
+        {
+          "start": 64.2,
+          "end": 65.98,
+          "text": " Lạm phát hạ, coi nghĩa,",
+          "globalStart": 522.6666666666666,
+          "globalEnd": 524.4466666666666
+        },
+        {
+          "start": 65.98,
+          "end": 69.2,
+          "text": " áp lực tăng giá đang bớt theo thức đò báo cáo,",
+          "globalStart": 524.4466666666666,
+          "globalEnd": 527.6666666666666
+        },
+        {
+          "start": 69.2,
+          "end": 71.32000000000001,
+          "text": " nhưng để giá định thẩy dễ thở hơn,",
+          "globalStart": 527.6666666666666,
+          "globalEnd": 529.7866666666666
+        },
+        {
+          "start": 71.32000000000001,
+          "end": 73.54,
+          "text": " con cần nhìn mặt bằng giá đã tích lưỡi,",
+          "globalStart": 529.7866666666666,
+          "globalEnd": 532.0066666666667
+        },
+        {
+          "start": 73.54,
+          "end": 76.80000000000001,
+          "text": " thu nhập, việc làm và giỏ chi tiêu của họ.",
+          "globalStart": 532.0066666666667,
+          "globalEnd": 535.2666666666667
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 16.879,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\07-cach-ha-nhiet-aea07b5477d34aff.wav",
+      "chunk": {
+        "chunkKey": "aea07b5477d34aff4165dfd0829dbf2f34a09ab12ee91fe420309e5f12df9ee1",
+        "sha256": "2950a0460f5c395b3cc6853803d7331e9e69b90374d2d70bbae114339197070b",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1232000,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 22006400,
+        "sourceEndSampleExclusive": 25702400,
+        "sourceSampleRate": 48000,
+        "seconds": 77.0,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8299,
+        "expectedTokenCoverage": 0.8284,
+        "expectedTailTokenCoverage": 0.8,
+        "expectedTokens": 268,
+        "observedTokens": 267,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    },
+    {
+      "schema": "economy-story-chapter-asr/1",
+      "requestHash": "2ebfaa9b10fc382ade8d902f894374318e644730bc337156fab3e55cdecc8b61",
+      "request": {
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "chapterAudioSHA256": "cb2be66115efb92f9a3ec9b6765c82ea3dd0e11b443c69ad7deaeb13f5dc8e07",
+        "startFrame": 16064,
+        "endFrameExclusive": 18671,
+        "expectedSHA256": "ff0564010e07a26349daaaac87ce7bd870316be39dace7de8a9e16bee5c1b4aa",
+        "parameters": {
+          "model": "base",
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 2,
+          "num_workers": 1,
+          "local_files_only": true,
+          "language": "vi",
+          "beam_size": 1,
+          "best_of": 1,
+          "word_timestamps": false,
+          "condition_on_previous_text": false,
+          "vad_filter": false,
+          "temperature": 0,
+          "sample_rate": 16000,
+          "channels": 1,
+          "sample_width_bytes": 2,
+          "normalizer": "vi-number-words/1"
+        },
+        "runtimeVersions": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.8.4"
+        }
+      },
+      "chapter": "tro-lai-bua-sang",
+      "expected": "Nghe lạm phát giảm, hãy hỏi: giá tăng chậm hơn hay thực sự giảm; con số so với thời điểm nào; giỏ được đo có gần những khoản mình phải trả không? Ba câu ấy giúp đọc đúng ý nghĩa bản tin. Giữ hóa đơn vài khoản mua thường xuyên, ghi khối lượng và chất lượng tương đương, rồi so theo thời gian. Đây là cách quan sát giỏ cá nhân, không phải cách tính lạm phát chính thức từ vài món quen thuộc. Đặt thay đổi của giỏ cạnh thu nhập thực nhận và khoản bắt buộc khác. Mục đích là biết sức mua đổi ra sao để điều chỉnh kế hoạch, không phải tự trách bản thân vì mức giá mình không quyết định được. Chị Hạnh không thể chỉ nhìn hóa đơn đầu vào rồi quên khách. Khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn bao nhiêu. Cả hai cần bức tranh đầy đủ hơn tấm bảng trước cửa. Vì sao lạm phát giảm mà bánh vẫn đắt? Vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn. Và vì sức mua còn phụ thuộc thu nhập, chứ không chỉ phụ thuộc tốc độ đổi giá một năm riêng lẻ. Ổ bánh nối đồng ruộng, nhiên liệu, chuyến xe, người làm và túi tiền người mua. Hiểu mối nối ấy giúp ta bớt vội kết luận, hỏi đúng điều cần kiểm chứng. Kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày. Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+      "recognized": "Nghe lạng phát giảm, hãy hỏi, giá tăng chậm hơn hay thực sự giảm. Con số xô với thời điểm nào, giỏ được đò có gần những khoản mình phải chả không. Bà cô ấy, dúc đọc đúng ý nghĩa bản tin. Dự hóa đơn vài khoản mua thường suyên, ghi khối lượng và chất lượng tương đường, rồi xô theo thời gian. Đây là cách quan sát giỏ cả nhân, không phải cách tính lạng phát chính thức từ vải món quen thuộc. Đọc thấy đổi của giỏ cách thư nhập thực nhật và khoản bất bồ khác, Một đích là biết sức mua đổi ra sao để điều trình kế hoạch không phải tự trách bản thân vì mức giá mình không quyết định được. Chỉ hạnh không thể chỉ nhìn hoa đơn đầu vào rồi quyền khách, khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn băng nhiều, cả hai cần bức tranh đầy đủ hơn tấm bản trước cửa. Vì sao lạm phát giả mà bánh vận đất, vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn và vì sức mua còn phụ thuật thuật nhập, chứ không chỉ phụ thuật tốc độ đổi giá một năm dân lẻ. Ủa bánh, nối đồng duận, nhân liệu, chuyến xe, người làm và tối tiền người mua. Hiểu mua nổi ấy, dúc ta bất vội kết luận, hỏi đúng điều cần kiểm chứng, kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày. Bạn thấy khoản chi nào đổi dọ nhất, so với mất thời gian nào, hãy bình luận cùng ví dụ cổ thể. Một ngày thêm chuyện kinh tế dễ hiểu từ đời sống, Hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.3,
+          "text": " Nghe lạng phát giảm, hãy hỏi, giá tăng chậm hơn hay thực sự giảm.",
+          "globalStart": 535.4666666666667,
+          "globalEnd": 539.7666666666667
+        },
+        {
+          "start": 4.8,
+          "end": 9.6,
+          "text": " Con số xô với thời điểm nào, giỏ được đò có gần những khoản mình phải chả không.",
+          "globalStart": 540.2666666666667,
+          "globalEnd": 545.0666666666667
+        },
+        {
+          "start": 10.3,
+          "end": 12.8,
+          "text": " Bà cô ấy, dúc đọc đúng ý nghĩa bản tin.",
+          "globalStart": 545.7666666666667,
+          "globalEnd": 548.2666666666667
+        },
+        {
+          "start": 13.5,
+          "end": 17.7,
+          "text": " Dự hóa đơn vài khoản mua thường suyên, ghi khối lượng và chất lượng tương đường,",
+          "globalStart": 548.9666666666667,
+          "globalEnd": 553.1666666666667
+        },
+        {
+          "start": 17.7,
+          "end": 19.3,
+          "text": " rồi xô theo thời gian.",
+          "globalStart": 553.1666666666667,
+          "globalEnd": 554.7666666666667
+        },
+        {
+          "start": 19.6,
+          "end": 24.5,
+          "text": " Đây là cách quan sát giỏ cả nhân, không phải cách tính lạng phát chính thức từ vải món quen thuộc.",
+          "globalStart": 555.0666666666667,
+          "globalEnd": 559.9666666666667
+        },
+        {
+          "start": 25.400000000000002,
+          "end": 28.7,
+          "text": " Đọc thấy đổi của giỏ cách thư nhập thực nhật và khoản bất bồ khác,",
+          "globalStart": 560.8666666666667,
+          "globalEnd": 564.1666666666667
+        },
+        {
+          "start": 28.7,
+          "end": 35.879999999999995,
+          "text": " Một đích là biết sức mua đổi ra sao để điều trình kế hoạch không phải tự trách bản thân vì mức giá mình không quyết định được.",
+          "globalStart": 564.1666666666667,
+          "globalEnd": 571.3466666666667
+        },
+        {
+          "start": 35.879999999999995,
+          "end": 44.0,
+          "text": " Chỉ hạnh không thể chỉ nhìn hoa đơn đầu vào rồi quyền khách, khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn băng nhiều,",
+          "globalStart": 571.3466666666667,
+          "globalEnd": 579.4666666666667
+        },
+        {
+          "start": 44.0,
+          "end": 47.16,
+          "text": " cả hai cần bức tranh đầy đủ hơn tấm bản trước cửa.",
+          "globalStart": 579.4666666666667,
+          "globalEnd": 582.6266666666667
+        },
+        {
+          "start": 47.16,
+          "end": 53.82,
+          "text": " Vì sao lạm phát giả mà bánh vận đất, vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn",
+          "globalStart": 582.6266666666667,
+          "globalEnd": 589.2866666666667
+        },
+        {
+          "start": 53.82,
+          "end": 56.12,
+          "text": " và vì sức mua còn phụ thuật thuật nhập,",
+          "globalStart": 589.2866666666667,
+          "globalEnd": 591.5866666666667
+        },
+        {
+          "start": 56.12,
+          "end": 59.2,
+          "text": " chứ không chỉ phụ thuật tốc độ đổi giá một năm dân lẻ.",
+          "globalStart": 591.5866666666667,
+          "globalEnd": 594.6666666666667
+        },
+        {
+          "start": 59.7,
+          "end": 65.44,
+          "text": " Ủa bánh, nối đồng duận, nhân liệu, chuyến xe, người làm và tối tiền người mua.",
+          "globalStart": 595.1666666666667,
+          "globalEnd": 600.9066666666668
+        },
+        {
+          "start": 65.44,
+          "end": 68.4,
+          "text": " Hiểu mua nổi ấy, dúc ta bất vội kết luận,",
+          "globalStart": 600.9066666666668,
+          "globalEnd": 603.8666666666667
+        },
+        {
+          "start": 68.4,
+          "end": 70.1,
+          "text": " hỏi đúng điều cần kiểm chứng,",
+          "globalStart": 603.8666666666667,
+          "globalEnd": 605.5666666666667
+        },
+        {
+          "start": 70.1,
+          "end": 73.3,
+          "text": " kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày.",
+          "globalStart": 605.5666666666667,
+          "globalEnd": 608.7666666666667
+        },
+        {
+          "start": 73.3,
+          "end": 75.53999999999999,
+          "text": " Bạn thấy khoản chi nào đổi dọ nhất,",
+          "globalStart": 608.7666666666667,
+          "globalEnd": 611.0066666666667
+        },
+        {
+          "start": 75.53999999999999,
+          "end": 77.18,
+          "text": " so với mất thời gian nào,",
+          "globalStart": 611.0066666666667,
+          "globalEnd": 612.6466666666668
+        },
+        {
+          "start": 77.18,
+          "end": 79.5,
+          "text": " hãy bình luận cùng ví dụ cổ thể.",
+          "globalStart": 612.6466666666668,
+          "globalEnd": 614.9666666666667
+        },
+        {
+          "start": 79.5,
+          "end": 82.42,
+          "text": " Một ngày thêm chuyện kinh tế dễ hiểu từ đời sống,",
+          "globalStart": 614.9666666666667,
+          "globalEnd": 617.8866666666667
+        },
+        {
+          "start": 82.42,
+          "end": 85.98,
+          "text": " Hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+          "globalStart": 617.8866666666667,
+          "globalEnd": 621.4466666666667
+        }
+      ],
+      "language": "vi",
+      "wallSeconds": 29.933,
+      "chapterAudio": "audio\\asr-base-chapters\\chunks\\08-tro-lai-bua-sang-030fe68d2b2e77ea.wav",
+      "chunk": {
+        "chunkKey": "030fe68d2b2e77ea7d2866c8c9f30cf03a363b0fda9259f4207cb83a43b7a364",
+        "sha256": "cb2be66115efb92f9a3ec9b6765c82ea3dd0e11b443c69ad7deaeb13f5dc8e07",
+        "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "samples": 1390400,
+        "sampleRate": 16000,
+        "channels": 1,
+        "sampleWidthBytes": 2,
+        "sourceStartSample": 25702400,
+        "sourceEndSampleExclusive": 29873600,
+        "sourceSampleRate": 48000,
+        "seconds": 86.9,
+        "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+      },
+      "diagnostics": {
+        "tokenSimilarity": 0.8393,
+        "expectedTokenCoverage": 0.8393,
+        "expectedTailTokenCoverage": 0.92,
+        "expectedTokens": 305,
+        "observedTokens": 305,
+        "diagnosticFlags": [],
+        "possibleOmissionSpans": [],
+        "requiresHumanReview": false,
+        "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+      },
+      "cacheHit": false
+    }
+  ],
+  "currentChapter": null,
+  "scope": "Independent local ASR diagnostics; not manual listening or aesthetic approval.",
+  "wallSeconds": 157.657
+}

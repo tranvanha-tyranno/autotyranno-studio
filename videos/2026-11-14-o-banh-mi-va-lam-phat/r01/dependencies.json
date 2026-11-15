@@ -1,0 +1,26 @@
+{
+  "sources": {
+    "workflows/reference-video/economy_story.py": "8ec54f8db12a4bb0517bba5ec1ee59fb9eb6901e717e6c16dacc1a222a78c312",
+    "workflows/reference-video/economy_story_content.py": "0e65992b5e12d28f910b9d0553ace4c600cd171693ca7c99ed87bae5fae68c88",
+    "workflows/reference-video/cinematic/src/economy-story-entry.tsx": "6d318a7a1e2cb97771cd7046056dcf011a0f9e50305d304533b55a404b893c7e",
+    "workflows/reference-video/finance_long.py": "e0f4b8bed2f13f1d67aec5f8d7dd02e85dad1a3577c65c3f9a3fb4ee6ea30415",
+    "workflows/reference-video/eleven_audio.py": "66d23c113d72b70d96ea01d79f2055e250ec7578aab62b4be3dd96a863bd8db3",
+    "workflows/reference-video/cinematic/economy-story-preflight.cjs": "2186bdaf52b52f23c1a6db12c85a71e8d17384713abc6ba9e79097593fb7bedc",
+    "workflows/reference-video/cinematic/package.json": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f",
+    "workflows/reference-video/cinematic/package-lock.json": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c",
+    "workflows/reference-video/cinematic/src/economy-story/fonts.css": "f086304cb673cc357e8f2db69f3746babe9e46fe0e6de214aea45ec7a3b503fe",
+    "workflows/reference-video/cinematic/src/economy-story/index.tsx": "f02d1808780b35b073209b2774397d76b4f679f45e1a46a2ecf9ceddc6e51470",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-Bold.ttf": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-Regular.ttf": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-SemiBold.ttf": "bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/OFL.txt": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85",
+    "workflows/reference-video/cinematic/src/economy-story/fonts/sources.json": "9274e4206cec0aaf218b2e53ce23e01db88398810d521062f1d5a5d996b64d9f",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/CandidateSheet.tsx": "c6cb501468f16210e9b5d2463195c32dc954a063dec7424dbc3c5acb15d679d4",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/index.ts": "f03ce0096514163b3d957a40af389b03af48a612f5a97da75f116911e5cfb110",
+    "workflows/reference-video/cinematic/src/finance-cast-v2/README.md": "754f5779c9664ac678edf76336e61d9b5571f04d96c68152273c847066114c1b"
+  },
+  "propsSHA256": "9766c823e326262190f54f3a2d06ae512caae018df7222dd24db92e8e73cf9b4",
+  "mixSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+  "photoCatalogSHA256": "e32080cad320df7ffac7c84f448407b2563c2999022f36582a9b9d9bd2478541"
+}

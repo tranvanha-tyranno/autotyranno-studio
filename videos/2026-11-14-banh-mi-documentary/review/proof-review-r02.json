@@ -1,0 +1,28 @@
+{
+  "schema": "bread-documentary-moving-proof-review/1",
+  "revision": "r02",
+  "method": "Decoded complete proof clips and inspected sequential one-second rendered frames across each entire scene; this is sampled temporal visual review, not continuous audiovisual listening.",
+  "proofs": [
+    {"unit": "b01", "frames": 415, "fps": 30, "seconds": 13.8333333333},
+    {"unit": "b06", "frames": 447, "fps": 30, "seconds": 14.9},
+    {"unit": "b18", "frames": 517, "fps": 30, "seconds": 17.2333333333},
+    {"unit": "b24", "frames": 446, "fps": 30, "seconds": 14.8666666667}
+  ],
+  "observations": [
+    "The opening shows actual sandwich filling, hand shaping/placing dough and a baguette cabinet; no cartoon or subtitle.",
+    "b06 changes from dough handling to a short oven-backed explanation. 3000 becomes2500; additional sales2000 and input2500 appear in order; conclusion remains readable, then footage returns to active dough handling.",
+    "b18 shows real baguette unwrapping/tearing behind the500-to477 comparison; the result-4.5% appears and remains visible before the next footage. Crops keep actual hands/bread, though overlay intentionally occupies the right side.",
+    "The CTA now ends with the original Vietnamese sandwich preparation/wrapping source rather than a weak grocery crop.",
+    "No obvious text/numeric overflow was seen in these sampled scene frames. Small model-limit labels are supporting scope notes, not subtitles."
+  ],
+  "technicalRepair": {
+    "rejectedProofRevision": "r01",
+    "finding": "Remotion clips used90000video timescale and FFmpeg derivatives15360; concat copy distorted scene durations although individual frame counts were correct.",
+    "correction": "Retain raw Remotion outputs; remux copied video frames to15360timescale before joining. Enforce complete decoded frame counts for each joined proof and final export.",
+    "result": "All four corrected proof frame counts match their exact narration intervals at30fps."
+  },
+  "continuousAvReview": false,
+  "audioListened": false,
+  "fullFilmAestheticAcceptance": "not_established",
+  "userApproval": "pending"
+}

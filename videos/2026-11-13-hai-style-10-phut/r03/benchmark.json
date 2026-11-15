@@ -1,0 +1,27 @@
+{
+  "styles": [
+    {
+      "style": "comic",
+      "completeChunks": 10,
+      "renderedFrames": 17743,
+      "renderWallSeconds": 916.6080000000001,
+      "framesPerSecond": 19.35723886328725,
+      "outputDurationSeconds": 591.4333333333333,
+      "localRenderMinutesPerOutputMinute": 1.5498078115313083
+    },
+    {
+      "style": "flow",
+      "completeChunks": 10,
+      "renderedFrames": 17743,
+      "renderWallSeconds": 903.8039999999999,
+      "framesPerSecond": 19.63146876977752,
+      "outputDurationSeconds": 591.4333333333333,
+      "localRenderMinutesPerOutputMinute": 1.5281587104773713
+    }
+  ],
+  "successfulChunkWallSeconds": 1820.4119999999998,
+  "newVoiceProviderCalls": 10,
+  "newVoiceCharacterCostHeaderSum": 3791.0,
+  "newProviderImageVideoMusicSFXCalls": 0,
+  "limits": "Successful chunk render wall times exclude setup, editorial work, failed r02 partial, failed comic chunk9 attempt, final mux and QA. Provider header credits are not a USD invoice. No electricity or hardware cash cost measured."
+}

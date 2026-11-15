@@ -1,0 +1,198 @@
+{
+  "schema": "bread-documentary-chapter-asr/1",
+  "requestHash": "8a75804294a3056bc7883c408a45eed635f90944098e6fe14661865d9d76c338",
+  "request": {
+    "sourceSHA256": "567656d2b688a6e0b96ae3bccb670a9777d947124baecfdf2d366debf4181590",
+    "audioSHA256": "87d7cdd95200d3fa030a86282a184baef5d0332ef6598ba37e067187228ca5ff",
+    "scriptSHA256": "6e0d45bc13fb0a7e22974ef41bb2c3911927e2b59f19c10ef102b9b43479d4e2",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1",
+      "source": "exact individual narration takes; no music",
+      "numberCheck": "explicit illustrative number phrases within each chapter; not exact local alignment"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "luong-mua-bao-nhieu-banh",
+  "expected": "Quay lại đúng kỳ chiếc bánh tăng từ hai mươi lên hai mươi hai nghìn. Giả sử thu nhập của người phụ bán cũng tăng trong kỳ ấy: từ mười triệu lên mười triệu rưỡi, tức năm phần trăm. Anh nhận nhiều tiền hơn, nhưng giá bữa sáng đã tăng nhanh hơn lương.\n\nThử dùng chính chiếc bánh làm thước đo nhỏ. Mười triệu tương đương năm trăm ổ giá cũ. Mười triệu rưỡi chỉ tương đương khoảng bốn trăm bảy mươi bảy ổ giá mới. Không ai cần đem toàn bộ lương đi mua bánh. Phép so chỉ hỏi: thu nhập mỗi kỳ đổi được bao nhiêu chiếc bánh cùng loại?\n\nTiền lương tăng, sức mua tính riêng bằng bánh lại giảm khoảng bốn phẩy năm phần trăm. Vẫn chiếc bánh ấy, vẫn lần đổi bảng ấy. Nhìn từ quầy bán, khoảng dư của chị Hạnh co lại. Nhìn từ người làm công, tờ lương tăng mà số bánh mua được cũng ít đi.\n\nĐời sống thật không chỉ có bánh mì. Người phụ bán còn tiền nhà, đi lại và nhiều khoản khác. Muốn biết sức mua cả gia đình, phải nhìn giá của cùng một giỏ chi tiêu với lượng và chất lượng tương đương. Một ổ bánh là cửa vào để hiểu, không phải chiếc máy đo toàn bộ đời sống.\n\nNếu những khoản anh mua nhiều tăng nhanh, anh có thể thấy áp lực hơn con số bình quân. Nhà khác chi tiêu khác thì trải nghiệm cũng khác. Vì vậy, cảm giác thiếu tiền không tự chứng minh bản tin sai; còn tỷ lệ lạm phát thấp hơn cũng không bảo đảm chiếc ví nào đã nhẹ gánh.",
+  "recognized": "Cô ấy lại đúng kỳ chiếc bánh tăng từ 20 linh 22,000. Giả sự thu nhập của người phụ bán cũng tăng trong kỳ ấy từ 10 triệu lên 10 triệu rưới, tức 5%. Anh nhận nhiều tiền hơn, nhưng giá bữa sáng đã tăng nhân hơn luôn. Thử dùng 9 chiếc bánh làm thước đo nhỏ. 10 triệu tương đương 500 ổ giá cụ. 10 triệu rưới chỉ tương đương khoảng 477 ổ giá mới. Không ai cần đem toàn bộ lương đi mua bánh. Phép sau chỉ hỏi thu nhập mỗi kỳ đổi được bao nhiêu chiếc bánh cùng loại. Tìm lương tăng, sức mua tính riêng bằng bánh lại giảm khoảng 4,5%. Vẫn chiếc bánh ấy, vẫn lần đổi bản ấy. Nhìn từ quay bán, khoảng dư của chỉ hạnh có lại. Nhìn từ người làm công, tờ lương tăng mà số bánh mua được cũng ích đi. Đời sống thật không chỉ có bánh mì. Người phụ bán còn tìa nhà đi lại và nhiều khoảng khác. Múng biết sức mua cả gia đình phải nhìn giá của cùng một giỏi chi tiêu với lượng và chất lượng tương đương. Một ổ bánh là cửa vào để hiểu không phải chích máy do toàn bộ đời sống. Nếu những khoảng ăn mua nhiều tăng nhân, anh có thể thấy áp lực hơn con số bình quân. Nhà khác chi tiêu khác thì trải nghiệm cũng khác. Vì vậy, cảm giác thiếu tiền không từ chính minh bản tin sai, con tỷ lệ làm phát thấp hơn cũng không bảo đảm chiếc ví nào đã nhẹ gắn.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": " Cô ấy lại đúng kỳ chiếc bánh tăng từ 20 linh 22,000."
+    },
+    {
+      "start": 3.46,
+      "end": 9.700000000000001,
+      "text": " Giả sự thu nhập của người phụ bán cũng tăng trong kỳ ấy từ 10 triệu lên 10 triệu rưới, tức 5%."
+    },
+    {
+      "start": 9.700000000000001,
+      "end": 13.74,
+      "text": " Anh nhận nhiều tiền hơn, nhưng giá bữa sáng đã tăng nhân hơn luôn."
+    },
+    {
+      "start": 13.74,
+      "end": 16.7,
+      "text": " Thử dùng 9 chiếc bánh làm thước đo nhỏ."
+    },
+    {
+      "start": 16.7,
+      "end": 19.6,
+      "text": " 10 triệu tương đương 500 ổ giá cụ."
+    },
+    {
+      "start": 19.6,
+      "end": 23.740000000000002,
+      "text": " 10 triệu rưới chỉ tương đương khoảng 477 ổ giá mới."
+    },
+    {
+      "start": 23.740000000000002,
+      "end": 26.7,
+      "text": " Không ai cần đem toàn bộ lương đi mua bánh."
+    },
+    {
+      "start": 26.7,
+      "end": 30.9,
+      "text": " Phép sau chỉ hỏi thu nhập mỗi kỳ đổi được bao nhiêu chiếc bánh cùng loại."
+    },
+    {
+      "start": 30.9,
+      "end": 35.62,
+      "text": " Tìm lương tăng, sức mua tính riêng bằng bánh lại giảm khoảng 4,5%."
+    },
+    {
+      "start": 35.62,
+      "end": 38.74,
+      "text": " Vẫn chiếc bánh ấy, vẫn lần đổi bản ấy."
+    },
+    {
+      "start": 38.74,
+      "end": 42.22,
+      "text": " Nhìn từ quay bán, khoảng dư của chỉ hạnh có lại."
+    },
+    {
+      "start": 42.22,
+      "end": 46.620000000000005,
+      "text": " Nhìn từ người làm công, tờ lương tăng mà số bánh mua được cũng ích đi."
+    },
+    {
+      "start": 46.620000000000005,
+      "end": 49.1,
+      "text": " Đời sống thật không chỉ có bánh mì."
+    },
+    {
+      "start": 49.1,
+      "end": 52.78,
+      "text": " Người phụ bán còn tìa nhà đi lại và nhiều khoảng khác."
+    },
+    {
+      "start": 52.78,
+      "end": 58.04,
+      "text": " Múng biết sức mua cả gia đình phải nhìn giá của cùng một giỏi chi tiêu với lượng và chất lượng tương đương."
+    },
+    {
+      "start": 58.04,
+      "end": 62.900000000000006,
+      "text": " Một ổ bánh là cửa vào để hiểu không phải chích máy do toàn bộ đời sống."
+    },
+    {
+      "start": 62.900000000000006,
+      "end": 67.84,
+      "text": " Nếu những khoảng ăn mua nhiều tăng nhân, anh có thể thấy áp lực hơn con số bình quân."
+    },
+    {
+      "start": 67.84,
+      "end": 70.82,
+      "text": " Nhà khác chi tiêu khác thì trải nghiệm cũng khác."
+    },
+    {
+      "start": 70.82,
+      "end": 74.3,
+      "text": " Vì vậy, cảm giác thiếu tiền không từ chính minh bản tin sai,"
+    },
+    {
+      "start": 74.3,
+      "end": 77.98,
+      "text": " con tỷ lệ làm phát thấp hơn cũng không bảo đảm chiếc ví nào đã nhẹ gắn."
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 5.845,
+  "chapterAudio": "audio/asr-base-chapters/chunks/04-luong-mua-bao-nhieu-banh-be6e2f45759b97e2.wav",
+  "audio": {
+    "sourceSHA256": "567656d2b688a6e0b96ae3bccb670a9777d947124baecfdf2d366debf4181590",
+    "sha256": "87d7cdd95200d3fa030a86282a184baef5d0332ef6598ba37e067187228ca5ff",
+    "seconds": 78.48,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "scope": "Complete individual take resampled, no time stretching or mix."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8928,
+    "expectedTokenCoverage": 0.8944,
+    "expectedTailTokenCoverage": 0.8,
+    "expectedTokens": 284,
+    "observedTokens": 285,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission.",
+    "numberPhrases": [
+      {
+        "expectedPhrase": "mười triệu",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "mười triệu rưỡi",
+        "foundSomewhereInChapter": false
+      },
+      {
+        "expectedPhrase": "năm phần trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "năm trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "bốn trăm bảy mươi bảy",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "bốn phẩy năm phần trăm",
+        "foundSomewhereInChapter": true
+      }
+    ],
+    "numberPhrasesNotFound": [
+      "mười triệu rưỡi"
+    ],
+    "expectedFinalSentence": "Vì vậy, cảm giác thiếu tiền không tự chứng minh bản tin sai; còn tỷ lệ lạm phát thấp hơn cũng không bảo đảm chiếc ví nào đã nhẹ gánh.",
+    "finalSentenceExactNormalizedMatch": false,
+    "requiresReview": true,
+    "lexicalLimits": "Number checks search the chapter, not the corresponding speech location. A match cannot prove every number was spoken in its intended order; a missing phrase can be an ASR mistake. Final-sentence normalization can also fail on harmless recognition differences. This is not prosody assessment."
+  },
+  "cacheHit": false,
+  "continuousListening": false,
+  "aestheticApproval": false
+}

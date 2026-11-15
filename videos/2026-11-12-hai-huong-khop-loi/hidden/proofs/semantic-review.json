@@ -1,0 +1,675 @@
+{
+  "reviewer": "literal_storyboards independent review",
+  "revision": "proofs-v2 after consolidated semantic/3D corrections",
+  "inspectionScope": "Opened pairs-01.jpg through pairs-10.jpg containing all37 actualv2 frames; additionally fullsize H25-1690.jpg, H32-2065.jpg, H34-2194.jpg and read current Workbench typing code.",
+  "previousRevision": "../proofs-v1/semantic-review.json",
+  "statusMeaning": {
+    "pass": "The core meaning of this spoken clause is visible in the checked still, with explicit limitations; this is not user aesthetic acceptance or whole-video approval.",
+    "fix": "A mandatory core meaning is absent/misleading in this checked still."
+  },
+  "statusCounts": {
+    "pass": 37,
+    "fix": 0
+  },
+  "userAcceptance": "pending",
+  "continuousPlayback": "not performed",
+  "manualAudioListening": "not performed",
+  "motionValidation": "not established from these stills; fullMP4 needs temporal review",
+  "shots": [
+    {
+      "id": "H01",
+      "status": "pass",
+      "frame": 64,
+      "seconds": 2.1333333333333333,
+      "scene": "work_role",
+      "mode": "remains",
+      "narratedText": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn.",
+      "observed": "Một chức danh có nhiều nhiệm vụ, chỉ Viết email được nhấn nhanh hơn; nghề và phần việc khác vẫn hiện.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H01-64.jpg",
+        "sha256": "02d177e28d287c1bc3323907118994cbe7730511d57b2605d476abac4b12954d"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H02",
+      "status": "pass",
+      "frame": 199,
+      "seconds": 6.633333333333334,
+      "scene": "work_role",
+      "mode": "change",
+      "narratedText": "Nhưng một người cũng khó yên tâm nếu phần việc mình làm hằng ngày đang đổi khác.",
+      "observed": "Cùng bảng nhiệm vụ, bước email mang nhãn AI hỗ trợ; kiểm thông tin/trao đổi/quyết định còn hiện.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H02-199.jpg",
+        "sha256": "bdaa28b07d3bff8566b6aac89fbb5a7e73a401a08d2a82b155c0ea6515fa060f"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H03",
+      "status": "pass",
+      "frame": 301,
+      "seconds": 10.033333333333333,
+      "scene": "work_role",
+      "mode": "label",
+      "narratedText": "Vậy rốt cuộc, chúng ta nên nhìn vào tên nghề,",
+      "observed": "Nhãn chức danh và các nhiệm vụ bên trong cùng hiện, nên người xem thấy tên nghề không phải toàn bộ các việc.",
+      "issues": [],
+      "limitations": [
+        "Không xác nhận chuyển động cận/tách nhãn từ một ảnh; bố cục hiện tại giữ quan hệ tên nghề–nhiệm vụ."
+      ],
+      "evidence": {
+        "file": "H03-301.jpg",
+        "sha256": "25b8cc623329319a35c35c41df9c644e49209abfac690ab1c1c93cab0165ca49"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H04",
+      "status": "pass",
+      "frame": 379,
+      "seconds": 12.633333333333333,
+      "scene": "task_map",
+      "mode": "all",
+      "narratedText": "hay nhìn vào từng việc mình thực sự làm?",
+      "observed": "Ba card 3D nay có mặt nội dung: biểu tượng email, bảng kiểm, người duyệt cùng tên Tạo bản đầu/Kiểm tra/Quyết định; không còn rỗng.",
+      "issues": [],
+      "limitations": [
+        "Các card là biểu tượng quy trình, chưa phải ảnh tài liệu đầy đủ; chi tiết tình huống được diễn giải ở những cảnh kế tiếp."
+      ],
+      "evidence": {
+        "file": "H04-379.jpg",
+        "sha256": "4544f6aa32cb0c246de0b2dd8b4766f4fe9315870110ce678d323cb06e899c0c"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H05",
+      "status": "pass",
+      "frame": 515,
+      "seconds": 17.166666666666668,
+      "scene": "disclaimer",
+      "mode": "scope",
+      "narratedText": "Phần sau là một cách tự rà soát công việc, không phải kết luận về tương lai của mọi nghề.",
+      "observed": "Thông báo tình huống, dữ liệu giả định và phạm vi không dự báo nghề nghiệp cá nhân hiện rõ.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H05-515.jpg",
+        "sha256": "16668b4fc4187923f48a7d9be86a7d5519fafe5b34b19f6f6192a74937d1e4da"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H06",
+      "status": "pass",
+      "frame": 603,
+      "seconds": 20.1,
+      "scene": "intro",
+      "mode": "workday",
+      "narratedText": "Hãy lấy một ngày làm việc bình thường.",
+      "observed": "Workbench giới thiệu hồ sơ đèn, email nháp chưa kiểm/chưa gửi và việc cần tiếp tục; bám một ngày làm việc của cùng tình huống.",
+      "issues": [],
+      "limitations": [
+        "Ảnh đèn không tự chứng minh thông số USB-C/không pin; thông số luôn thuộc ví dụ dữ liệu giả định."
+      ],
+      "evidence": {
+        "file": "H06-603.jpg",
+        "sha256": "e9730abcf30a10ed28871eed7100b480a6842ba3343c5482f7a9a3913342ac90"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H07",
+      "status": "pass",
+      "frame": 649,
+      "seconds": 21.633333333333333,
+      "scene": "product_facts",
+      "mode": "lookup",
+      "narratedText": "Bạn tìm thông tin,",
+      "observed": "Hồ sơ nguồn và dòng USB-C có dây được tô sáng, cùng bố cục Workbench ổn định.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H07-649.jpg",
+        "sha256": "c00018f559418a1ba3697e34d09129a3ed661acee44548b877b2c80ed91362ac"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H08",
+      "status": "pass",
+      "frame": 687,
+      "seconds": 22.9,
+      "scene": "email_draft",
+      "mode": "typing",
+      "narratedText": "viết bản đầu,",
+      "observed": "Email nháp là đối tượng đang được chọn, có người nhận/chủ đề/nội dung/chưa gửi. Proof ở cuối nhịp đã hiện dòng Mời bạn xem đèn Mẫu A.",
+      "issues": [],
+      "limitations": [
+        "Đã đọc thêm mã Workbench v2 có nhập dòng theo localFrame; ảnh tĩnh này không tự xác nhận chuyển động nhập hoặc độ mượt."
+      ],
+      "evidence": {
+        "file": "H08-687.jpg",
+        "sha256": "fbbb26fd2a5691bdfd46eefdedc2e704fbabd40aa5d903cab5d2c1816c84722e"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H09",
+      "status": "pass",
+      "frame": 714,
+      "seconds": 23.8,
+      "scene": "source_check",
+      "mode": "original",
+      "narratedText": "kiểm tra,",
+      "observed": "Nguồn có dây được đánh dấu đúng màu xanh; lời email không dây bị đánh dấu sai đỏ. Không còn dấu x đỏ đặt lên nguồn đúng.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H09-714.jpg",
+        "sha256": "a9659de22f4161033447c96a54337779f9681b41ec6a5f0ac6106a6609135796"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H10",
+      "status": "pass",
+      "frame": 734,
+      "seconds": 24.466666666666665,
+      "scene": "customer_reply",
+      "mode": "received",
+      "narratedText": "trao đổi",
+      "observed": "Câu hỏi ngắn Đèn có pin? hiện trong ô hội thoại, chờ trả lời, giữ cùng Workbench.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H10-734.jpg",
+        "sha256": "dbd19c2b756d64d3d457e63316f87c17e569c4fc9fd4c153df615b67b1f6c205"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H11",
+      "status": "pass",
+      "frame": 766,
+      "seconds": 25.533333333333335,
+      "scene": "decision",
+      "mode": "human",
+      "narratedText": "và đưa ra quyết định.",
+      "observed": "Ô người duyệt Bạn hiện lựa chọn Sửa trả lời/Không gửi/Duyệt bản đúng, Không gửi đang chọn.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H11-766.jpg",
+        "sha256": "c3a4cb86d47b54e46d499f3425d0598cf188999249356d30dc827ee611276ffa"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H12",
+      "status": "pass",
+      "frame": 834,
+      "seconds": 27.8,
+      "scene": "work_role",
+      "mode": "bundled",
+      "narratedText": "Những việc ấy nằm chung trong một chức danh,",
+      "observed": "Năm nhiệm vụ được đặt dưới cùng một chức danh, thể hiện nhiều việc chung một nghề.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H12-834.jpg",
+        "sha256": "03acb8329991f1acf82e6a3082ccef6afab53989cabd0bb99d1fcc64207771b1"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H13",
+      "status": "pass",
+      "frame": 902,
+      "seconds": 30.066666666666666,
+      "scene": "decision",
+      "mode": "responsibility",
+      "narratedText": "nhưng không có cùng mức độ cần con người.",
+      "observed": "Nguồn có dây/không pin, nhu cầu không ổ cắm và câu trả lời Mẫu A chưa phù hợp đặt cạnh Bạn quyết định và lựa chọn nói rõ chưa phù hợp.",
+      "issues": [],
+      "limitations": [
+        "Cảnh tập trung vào phần trách nhiệm con người; phần AI hỗ trợ được thấy ở bảng nhiệm vụ trước đó."
+      ],
+      "evidence": {
+        "file": "H13-902.jpg",
+        "sha256": "7e62c656a2706587a81acd734ecb04edd58fa3ec8c47d842e7ed89a07426bbf6"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H14",
+      "status": "pass",
+      "frame": 999,
+      "seconds": 33.3,
+      "scene": "task_map",
+      "mode": "question",
+      "narratedText": "Vì vậy, thay vì hỏi máy có thay mình không, thử hỏi:",
+      "observed": "Ba bước email/kiểm tra/quyết định hiện bằng card có nhãn và biểu tượng rõ, làm cầu nối sang rà từng việc.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H14-999.jpg",
+        "sha256": "311c84b0f80a486a94fbd01180e2c50495d0c905cb28157af8dad0d1f5979595"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H15",
+      "status": "pass",
+      "frame": 1065,
+      "seconds": 35.5,
+      "scene": "task_map",
+      "mode": "draft",
+      "narratedText": "phần nào có thể tạo nháp,",
+      "observed": "Card Tạo bản đầu được nhấn sáng trong cùng mô hình ba bước; hai bước khác vẫn cùng vị trí.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H15-1065.jpg",
+        "sha256": "aec5795f3490f4395deac08a94bb54fec9fd6f952d5b39a4f8c20d03cf455acd"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H16",
+      "status": "pass",
+      "frame": 1109,
+      "seconds": 36.96666666666667,
+      "scene": "task_map",
+      "mode": "review",
+      "narratedText": "phần nào phải đối chiếu,",
+      "observed": "Card Kiểm tra được nhấn sáng; nhãn Bạn đối chiếu thông tin gốc giải thích nhiệm vụ đang soi.",
+      "issues": [],
+      "limitations": [
+        "Trong card là biểu tượng bảng kiểm; phép so các giá cụ thể nằm ở H19–H20."
+      ],
+      "evidence": {
+        "file": "H16-1109.jpg",
+        "sha256": "6ff60bf018707cb4aaa4beb2db77a58befa1d9af27bb8df220bda95bb7de65d5"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H17",
+      "status": "pass",
+      "frame": 1165,
+      "seconds": 38.833333333333336,
+      "scene": "task_map",
+      "mode": "decide",
+      "narratedText": "và phần nào cần mình chịu trách nhiệm?",
+      "observed": "Card Quyết định với biểu tượng người/check được nhấn sáng, dòng bạn chịu trách nhiệm trước khi gửi hiện rõ.",
+      "issues": [],
+      "limitations": [
+        "Lựa chọn duyệt/sửa/không gửi được trình bày chi tiết ở các cảnh quyết định, không nằm trong card quy trình thu nhỏ này."
+      ],
+      "evidence": {
+        "file": "H17-1165.jpg",
+        "sha256": "3f011196336aaf093c2c7f6935b59428cd66f0d7a3029e573e180da1ddf0ce0f"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H18",
+      "status": "pass",
+      "frame": 1238,
+      "seconds": 41.266666666666666,
+      "scene": "email_prompt",
+      "mode": "structure",
+      "narratedText": "Bạn có thể nhờ công cụ gợi ý cấu trúc.",
+      "observed": "Gợi ý cấu trúc email bốn phần có trên giao diện, nhãn chưa điền cam kết tính năng; ảnh tay gõ hỗ trợ thao tác.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H18-1238.jpg",
+        "sha256": "643887ef903e074b6ee8fbc3f9d8ad135a3948ae21aec8e013393c93c72c7cce"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H19",
+      "status": "pass",
+      "frame": 1305,
+      "seconds": 43.5,
+      "scene": "source_check",
+      "mode": "mismatch",
+      "narratedText": "Nhưng khi một con số không khớp,",
+      "observed": "Nguồn 1.200.000đ và nháp 120.000đ cùng khung, giá nguồn được nhấn, nháp mang trạng thái chưa khớp.",
+      "issues": [],
+      "limitations": [
+        "Không thấy vòng khoanh riêng một số 0; hai giá đủ rõ để nhận ra sai lệch."
+      ],
+      "evidence": {
+        "file": "H19-1305.jpg",
+        "sha256": "2063686a695209f8fc8cb8d17317a67052b57ccf688ea9a98a3027d3c8d21baa"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H20",
+      "status": "pass",
+      "frame": 1352,
+      "seconds": 45.06666666666667,
+      "scene": "source_check",
+      "mode": "reconcile",
+      "narratedText": "bạn cần quay về nguồn.",
+      "observed": "Giá nháp đã sửa thành 1.200.000đ khớp nguồn; câu Dùng không dây vẫn đỏ và nhãn Giá khớp/Còn lỗi tính năng giữ đúng trạng thái từng phần.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H20-1352.jpg",
+        "sha256": "9d31772d9fbe2047625bfc58ba460c0628940c850e3b43f65dc008c8ab963df4"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H21",
+      "status": "pass",
+      "frame": 1413,
+      "seconds": 47.1,
+      "scene": "customer_reply",
+      "mode": "upset",
+      "narratedText": "Khi khách hàng đang bức xúc,",
+      "observed": "Câu khách giả định về email nói không dây/rút cáp không sáng và 3D đèn/cáp tách rời cùng hiện; nhãn Rút cáp/Đèn tắt/Không pin.",
+      "issues": [],
+      "limitations": [
+        "Một frame xác nhận trạng thái rời/tắt, không chứng nhận chuyển động rút cáp hay tắt sáng liên tục."
+      ],
+      "evidence": {
+        "file": "H21-1413.jpg",
+        "sha256": "ed7aa4a8c9be2b8e1cefce9e1cee577609fcabdcfe30d5e57970ffecbbb82543"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H22",
+      "status": "pass",
+      "frame": 1497,
+      "seconds": 49.9,
+      "scene": "feedback",
+      "mode": "polite_only",
+      "narratedText": "một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề.",
+      "observed": "Câu hỏi không có nguồn USB có dùng được không nằm cạnh lời đáp lịch sự nhưng chung chung; nhãn chưa giải quyết nhu cầu không dây.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H22-1497.jpg",
+        "sha256": "2314330f22e64da013a48d569b0994cc379ef442d2f20098e73544fc10b2734a"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H23",
+      "status": "pass",
+      "frame": 1561,
+      "seconds": 52.03333333333333,
+      "scene": "quality_compare",
+      "mode": "definitions",
+      "narratedText": "Đây là điểm cần phân biệt:",
+      "observed": "Nháp ban đầu trông hoàn chỉnh vẫn sai tính năng/giá cạnh các tiêu chí kiểm chưa tick; chỉ hình thức không được gọi hoàn tất.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H23-1561.jpg",
+        "sha256": "a795b2a05a847d374ebff1bf8bdac1890f6f27bb70e35cea4bab7215d7987eb0"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H24",
+      "status": "pass",
+      "frame": 1617,
+      "seconds": 53.9,
+      "scene": "quality_compare",
+      "mode": "appearance",
+      "narratedText": "đầu ra trông có vẻ hoàn chỉnh,",
+      "observed": "Giá sai xuất hiện lại trong cột rõ nhãn BẢN NHÁP BAN ĐẦU, vì thế không mâu thuẫn với giá đã sửa ở H20; câu không dây vẫn đỏ.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H24-1617.jpg",
+        "sha256": "db1354836f12c86d43e8b1475b172e917eb01ca55c6826943f956524438f8151"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H25",
+      "status": "pass",
+      "frame": 1690,
+      "seconds": 56.333333333333336,
+      "scene": "quality_compare",
+      "mode": "completion",
+      "narratedText": "và một công việc thật sự được hoàn thành.",
+      "observed": "Cột kết quả nay là lời email đã sửa cụ thể: USB-C có dây/không pin, giá 1.200.000đ, vì khách dùng nơi không ổ cắm nên mẫu này chưa phù hợp. Cột trái vẫn nháp ban đầu.",
+      "issues": [],
+      "limitations": [
+        "Đã mở thêm ảnh H25-1690.jpg kích thước đầy đủ để đọc nội dung; không suy ra nhịp đọc liên tục từ ảnh."
+      ],
+      "evidence": {
+        "file": "H25-1690.jpg",
+        "sha256": "192ad57d6544f3bafc4490c2328230333856b90682059937c4a469660f2bddaf"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H26",
+      "status": "pass",
+      "frame": 1783,
+      "seconds": 59.43333333333333,
+      "scene": "review_work",
+      "mode": "checklist",
+      "narratedText": "Khoảng cách giữa hai điều đó chính là chỗ để kiểm tra,",
+      "observed": "Ba khối cụ thể nhu cầu không ổ cắm → nguồn có dây/không pin/giá → cần nguồn qua cáp, mẫu chưa phù hợp; có căn cứ hồ sơ và sửa trả lời trước gửi.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H26-1783.jpg",
+        "sha256": "fee5063628403ae354b361030f6298132914c0b25f2d04995de9ae296db9caff"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H27",
+      "status": "pass",
+      "frame": 1826,
+      "seconds": 60.86666666666667,
+      "scene": "context",
+      "mode": "client_need",
+      "narratedText": "hiểu bối cảnh",
+      "observed": "Giữ đúng ba khối NeedBridge từ H26, chỉ nhấn câu Dùng nơi không có ổ cắm trong khối nhu cầu. Không mở đoạn văn/bố cục mới ở nhịp 0,7 giây.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H27-1826.jpg",
+        "sha256": "52e669d1a32838d814f312690d20de8410e894bdfdbe8e70ca6df48ddbbd59ec"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H28",
+      "status": "pass",
+      "frame": 1857,
+      "seconds": 61.9,
+      "scene": "decision",
+      "mode": "human",
+      "narratedText": "và quyết định.",
+      "observed": "Có nguồn, nhu cầu, kết luận chưa phù hợp; ô Bạn quyết định chọn Nói rõ chưa phù hợp, còn Không gửi lời hứa sai. Quyết định cụ thể đã thay khẩu hiệu chung.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H28-1857.jpg",
+        "sha256": "ca3950bdd1aa31656dc8a33a721ada3f6f3d01e94d776cc3a181b4bf6d2fe8dd"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H29",
+      "status": "pass",
+      "frame": 1916,
+      "seconds": 63.86666666666667,
+      "scene": "trial",
+      "mode": "choose",
+      "narratedText": "Hôm nay, hãy chọn một nhiệm vụ.",
+      "observed": "Chỉ một nhiệm vụ nháp email Mẫu A được chọn, các ví dụ việc khác để mờ; đúng lời chọn một nhiệm vụ.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H29-1916.jpg",
+        "sha256": "35bf0ddb24d824ea642cf7429b3fd92eb2be71d57863c99562dd20eaae56bcdb"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H30",
+      "status": "pass",
+      "frame": 1968,
+      "seconds": 65.6,
+      "scene": "trial",
+      "mode": "criteria",
+      "narratedText": "Viết rõ tiêu chuẩn đạt,",
+      "observed": "Các tiêu chí đúng tính năng/giá/nhu cầu/không còn lỗi hiện cùng checkbox chưa tick, không tự nhận đạt trước khi thử.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H30-1968.jpg",
+        "sha256": "ed349a37f3a5fb726d4530af309c37d2dcb022b9def1f1e5e1407148db4939af"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H31",
+      "status": "pass",
+      "frame": 2020,
+      "seconds": 67.33333333333333,
+      "scene": "trial",
+      "mode": "dummy_data",
+      "narratedText": "thử bằng dữ liệu giả định,",
+      "observed": "Chỉ dùng dữ liệu giả định, Mẫu A, khách vidu.invalid, không dùng dữ liệu khách thật được nêu cụ thể.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H31-2020.jpg",
+        "sha256": "7cc63145bec5098f45d97342f93f885683e5c4137fd97fa254ad64095c54809c"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H32",
+      "status": "pass",
+      "frame": 2065,
+      "seconds": 68.83333333333333,
+      "scene": "trial",
+      "mode": "compare",
+      "narratedText": "rồi tự so kết quả.",
+      "observed": "Ba cột nay có nội dung để so: nguồn có dây/không pin/1.200.000đ; kết quả AI không dây/120.000đ; phần sửa có dây/không pin/giá đúng và chưa phù hợp nhu cầu không ổ cắm.",
+      "issues": [],
+      "limitations": [
+        "Đã mở ảnh đầy đủ H32-2065.jpg: chữ không bị cắt. Bố cục lặp các dữ kiện đã giải thích, không coi đây là thời gian đủ để đọc mọi chữ mới."
+      ],
+      "evidence": {
+        "file": "H32-2065.jpg",
+        "sha256": "a82a0d53a65c217a4003137904600b007dcad06a83f032a100eb57b416afcfe4"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H33",
+      "status": "pass",
+      "frame": 2110,
+      "seconds": 70.33333333333333,
+      "scene": "time_log",
+      "mode": "repair",
+      "narratedText": "Đo cả thời gian sửa.",
+      "observed": "13 phút kiểm tra/sửa nổi rõ cùng log 12 phút cũ, 2 phút nháp, 13 phút sửa và tổng 15; có nhãn dữ liệu giả định.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H33-2110.jpg",
+        "sha256": "48dee15fe4e5ca2a5712dc534a979753712352eedc1ff3d9b44018448e9fefdd"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H34",
+      "status": "pass",
+      "frame": 2194,
+      "seconds": 73.13333333333334,
+      "scene": "quality_gate",
+      "mode": "pass",
+      "narratedText": "Chỉ giữ cách làm khi bạn kiểm soát được chất lượng.",
+      "observed": "Tiêu đề Điều kiện: bạn kiểm tra được; ba cột cho căn cứ tính năng/giá/nhu cầu và kết quả đã sửa, dòng chỉ giữ cách làm khi xác minh từng tiêu chí. Không còn tự khẳng định chất lượng bằng khẩu hiệu.",
+      "issues": [],
+      "limitations": [
+        "Đã mở ảnh đầy đủ H34-2194.jpg, đọc được nguồn và email đã sửa; ảnh không chứng minh một người thật đã tiến hành thử nghiệm."
+      ],
+      "evidence": {
+        "file": "H34-2194.jpg",
+        "sha256": "4592cf79a3aea803bdc48bde46ba08adb50a496b83869ec9c8bad5fb7a46b623"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H35",
+      "status": "pass",
+      "frame": 2267,
+      "seconds": 75.56666666666666,
+      "scene": "comment_cta",
+      "mode": "question",
+      "narratedText": "Bạn muốn bóc tách nhiệm vụ nào tiếp theo?",
+      "observed": "Ba nhiệm vụ ví dụ cụ thể và ô chọn một nhiệm vụ muốn bóc tách hiện đúng lời mời người xem.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H35-2267.jpg",
+        "sha256": "9540d46b3bfae771eca1760907bfd768fb193d513eb93efbc91b87f631a879ec"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H36",
+      "status": "pass",
+      "frame": 2338,
+      "seconds": 77.93333333333334,
+      "scene": "comment_cta",
+      "mode": "example",
+      "narratedText": "Hãy để lại một ví dụ dưới bình luận,",
+      "observed": "Ô bình luận minh họa có ví dụ Tôi muốn thử đối chiếu bảng số, nút để lại ví dụ; không hiển thị tương tác thật hoặc số tương tác giả.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "H36-2338.jpg",
+        "sha256": "6296feec5cab5e38b3929883b88d5da32b7783bcafb7482140c1efec67075558"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    },
+    {
+      "id": "H37",
+      "status": "pass",
+      "frame": 2453,
+      "seconds": 81.76666666666667,
+      "scene": "subscribe",
+      "mode": "follow",
+      "narratedText": "và đăng ký TYRANNO để cùng quan sát công việc đang thay đổi.",
+      "observed": "End card TYRANNO và nút đăng ký cùng các nhãn ba bước; bên phải nay có case card email Mẫu A/nguồn/kiểm giá nhu cầu/quyết định, nối lại ví dụ.",
+      "issues": [],
+      "limitations": [
+        "Câu cuối đang hiện ở proof; cần kiểm file MP4 cuối để xác nhận không bị cắt ở đuôi."
+      ],
+      "evidence": {
+        "file": "H37-2453.jpg",
+        "sha256": "b85f5e73010cd50b0b269c9a95574c010d2e8539051f064000e564c4c7f4550d"
+      },
+      "scope": "Core narrated meaning visible at this actual v2 proof frame. Static proof does not certify motion, complete playback, sound, or user aesthetic acceptance."
+    }
+  ]
+}

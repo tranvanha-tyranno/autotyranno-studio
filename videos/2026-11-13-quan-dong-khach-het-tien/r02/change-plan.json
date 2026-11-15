@@ -1,0 +1,13 @@
+{
+  "changedShots": [
+    "h01",
+    "h02",
+    "p04"
+  ],
+  "audioChanged": false,
+  "timingChanged": false,
+  "captionsChanged": false,
+  "baseDataSHA256": "f2f42dd1c4b99b5bc51bf7dd923ed5f28fef948b9f6f62265d270009cae58ae6",
+  "newDataSHA256": "459dc37150ad02530b6b3ad48f3735f401c2c61cbe03b83c549b5e97d950441e",
+  "observations": "Actual opening strip showed three choices entering out of spoken order. Enforce all three exact cues; chart bars also use complete explicit cues. Opening extraction uses an active unused source interval starting15s."
+}

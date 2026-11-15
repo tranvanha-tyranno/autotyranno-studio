@@ -1,5 +1,15 @@
 # Học mẫu người dùng gửi — 13/11/2026
 
+## Cập nhật ưu tiên nội dung — 14/11/2026
+
+Người dùng tiếp tục bác chất lượng lời: luông tuồng, thiếu phân đoạn và trọng tâm.
+Đọc `CONTENT_FIRST.md` cùng `docs/video-references/2026-11-14-content-study/README.md`
+trước khi viết bài mới. Đợt học này đọc lại caption theo chương, phân biệt câu hỏi,
+luận điểm, ví dụ, cơ chế, chốt ý, cầu nối và payoff; nghiên cứu cả điểm yếu của mẫu.
+Chương phải có chức năng lập luận, không chỉ một tiêu đề. `editorial_gate.py` và
+chốt trong `eleven_audio.generate` kiểm map/review khớp lời trước timed TTS mới.
+Exact take/cached audio cũ vẫn dùng cho sửa hình; không tạo video mới từ yêu cầu học.
+
 Đọc trước khi viết/dựng video explainer tiếp theo:
 
 1. `docs/video-references/2026-11-13-user-samples/README.md` — mục lục, phạm vi kiểm tra và vị trí bốn bản tải.

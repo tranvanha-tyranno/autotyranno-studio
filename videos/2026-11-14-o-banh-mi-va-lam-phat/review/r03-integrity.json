@@ -1,0 +1,1599 @@
+{
+  "schema": "economy-story-integrity/1",
+  "revision": "r03",
+  "date": "2026-11-14",
+  "reviewer": "Codex economics_script independent read-only integrity audit",
+  "status": "pass-authoring-integrity-with-nonblocking-metadata-note",
+  "scope": "Frozen r03props/source content/source receipts/exact-take alignment text/actual renderer selection and local file hashes. No source,pipeline,plan,asset or audio modification. No new provider requests. Actual synthesized audio was not transcribed or continuously listened to by this audit.",
+  "assertions": {
+    "segmentCount50": true,
+    "canonicalIdsOnceInOrder": true,
+    "canonicalTextsExactlyRetainedOnce": true,
+    "wordsReconstructCanonicalText": true,
+    "captionsReconstructCanonicalText": true,
+    "scriptFileMatchesCanonicalText": true,
+    "sourceContentHashMatches": true,
+    "sourceResearchReceiptMatchesDependencies": true,
+    "propsMatchDependencies": true,
+    "actualMixMatchesDependencies": true,
+    "segmentEndEqualsDuration": true,
+    "eightChapters": true,
+    "allEightTakesTextAndHashRetained": true,
+    "allIllustrativeMathMatches": true,
+    "e02ExplicitDisclaimer": true,
+    "e40SetupStageHidesDerivedAnswer": true,
+    "e41CalculationStageShowsDerivedAnswer": true,
+    "e37WeightsOnly": true,
+    "allConceptSourceReferencesResolve": true,
+    "everyPhotoBeatHasActuallySelectedPhoto": true,
+    "allActuallySelectedSourceHashesAndInspectionsMatch": true,
+    "noTyrannoOrInventedChannelBrandInSpokenOrDisplayedFields": true,
+    "segmentsContiguousAndSpeechInBounds": true,
+    "noCueBeyondSegmentEnd": true
+  },
+  "failures": [],
+  "text": {
+    "canonicalWordsWhitespace": 2166,
+    "segments": 50,
+    "chapters": 8,
+    "all50CanonicalTextPassagesMatchExactlyOnceInOrder": true,
+    "providerAlignmentScope": "Exact normalized character alignment strings match original request text; this verifies text/timing lineage, not actual waveform intelligibility.",
+    "chapterTakeChecks": [
+      {
+        "chapter": "to-bang-gia",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "46daa8fdad4123f8671755b1d5041a2f347e8022b8355088a914cec652baffe4",
+        "alignmentSHA256": "5046c2b245e02dc3ae3c5d3b3d55f6f7816ad31bd00718a730b9b7beab92df97"
+      },
+      {
+        "chapter": "muc-va-toc-do",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "4ba67f84e6fea5807a7204fbb9bf4102c0a589a76796ba7e841b3332cdaf5637",
+        "alignmentSHA256": "4c098169a6b8c419543c5dbb99d2a95c8d65e14b081cdebb88fd949d23a3a93e"
+      },
+      {
+        "chapter": "sau-quay-banh",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "84310479465c7559fa93f00d97628673755cebb28d5ec98ed6480196d8f0e196",
+        "alignmentSHA256": "f7fba385fba81ea153e01eef857a85230f9f9e2c2475c17a9c5fa12a713e1ee4"
+      },
+      {
+        "chapter": "khach-va-cong-suat",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "91e9cc0711e0a842a006988f962a1598fbea17f7e4adcee889f65aa25adcceef",
+        "alignmentSHA256": "d27a2edce042cc89e1a9ca6b99ad06c8ee2768f02077c2e0dc82366523c6d3dc"
+      },
+      {
+        "chapter": "bang-gia-chua-ha",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "23815b612194a908e0993883b7f0cae823b91d4e549bd49e6106cd8578ba00e9",
+        "alignmentSHA256": "dda7a42fd2698a8614667bf6bc8b3f739b1ee4b86ff242ba473cbf71d30f8297"
+      },
+      {
+        "chapter": "gio-hang-va-tien-luong",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "6c722cadbe90c2ddc19cb4240571495ae66dadafe7f85446e06866c1add1df8e",
+        "alignmentSHA256": "a540725b8dad289e875ba4a4c21d18a4908dc332f2a501ad1cd954230c656e68"
+      },
+      {
+        "chapter": "cach-ha-nhiet",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "593985fc5348dc5b792672de6439b2ed624e3555130d09bd6fdb68b8a0c1f293",
+        "alignmentSHA256": "0d704f8d70343ace862c8bf72daf4427e0c7449f25dc19715ccba9efdbd5301c"
+      },
+      {
+        "chapter": "tro-lai-bua-sang",
+        "requestTextEqualsCanonical": true,
+        "alignmentTextEqualsCanonicalAfterWhitespaceNormalization": true,
+        "chapterAudioMatchesPlanHash": true,
+        "chapterAlignmentMatchesPlanHash": true,
+        "audioSHA256": "22a274230a1e1e3fadad55e1fea9bc7fdf32aae85272ff7d829138bcce11ea0f",
+        "alignmentSHA256": "0b9e159344f57ff27fb1831fd0b566cceb96458962cde6b2882ebaa8e5c657bc"
+      }
+    ]
+  },
+  "timeline": {
+    "fps": 30,
+    "durationFrames": 18671,
+    "durationSeconds": 622.3666666666667,
+    "formattedDuration": "10:22.367",
+    "contiguousSegments": [
+      {
+        "beat": "e01",
+        "from": 0,
+        "end": 332,
+        "duration": 332,
+        "speechStart": 0,
+        "speechEnd": 324,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e02",
+        "from": 332,
+        "end": 706,
+        "duration": 374,
+        "speechStart": 332,
+        "speechEnd": 700,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e03",
+        "from": 706,
+        "end": 1082,
+        "duration": 376,
+        "speechStart": 706,
+        "speechEnd": 1061,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e05",
+        "from": 1082,
+        "end": 1400,
+        "duration": 318,
+        "speechStart": 1082,
+        "speechEnd": 1392,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e07",
+        "from": 1400,
+        "end": 1749,
+        "duration": 349,
+        "speechStart": 1400,
+        "speechEnd": 1736,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e08",
+        "from": 1749,
+        "end": 2085,
+        "duration": 336,
+        "speechStart": 1749,
+        "speechEnd": 2078,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e09",
+        "from": 2085,
+        "end": 2460,
+        "duration": 375,
+        "speechStart": 2085,
+        "speechEnd": 2443,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e10",
+        "from": 2460,
+        "end": 2808,
+        "duration": 348,
+        "speechStart": 2460,
+        "speechEnd": 2800,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e11",
+        "from": 2808,
+        "end": 3195,
+        "duration": 387,
+        "speechStart": 2808,
+        "speechEnd": 3175,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e13",
+        "from": 3195,
+        "end": 3608,
+        "duration": 413,
+        "speechStart": 3195,
+        "speechEnd": 3592,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e14",
+        "from": 3608,
+        "end": 3951,
+        "duration": 343,
+        "speechStart": 3608,
+        "speechEnd": 3938,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e15",
+        "from": 3951,
+        "end": 4321,
+        "duration": 370,
+        "speechStart": 3951,
+        "speechEnd": 4316,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e16",
+        "from": 4321,
+        "end": 4717,
+        "duration": 396,
+        "speechStart": 4321,
+        "speechEnd": 4705,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e17",
+        "from": 4717,
+        "end": 5085,
+        "duration": 368,
+        "speechStart": 4717,
+        "speechEnd": 5078,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e18",
+        "from": 5085,
+        "end": 5445,
+        "duration": 360,
+        "speechStart": 5085,
+        "speechEnd": 5438,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e19",
+        "from": 5445,
+        "end": 5783,
+        "duration": 338,
+        "speechStart": 5445,
+        "speechEnd": 5775,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e20",
+        "from": 5783,
+        "end": 6125,
+        "duration": 342,
+        "speechStart": 5783,
+        "speechEnd": 6120,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e21",
+        "from": 6125,
+        "end": 6496,
+        "duration": 371,
+        "speechStart": 6125,
+        "speechEnd": 6483,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e22",
+        "from": 6496,
+        "end": 6848,
+        "duration": 352,
+        "speechStart": 6496,
+        "speechEnd": 6844,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e23",
+        "from": 6848,
+        "end": 7213,
+        "duration": 365,
+        "speechStart": 6848,
+        "speechEnd": 7204,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e25",
+        "from": 7213,
+        "end": 7561,
+        "duration": 348,
+        "speechStart": 7213,
+        "speechEnd": 7557,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e26",
+        "from": 7561,
+        "end": 7958,
+        "duration": 397,
+        "speechStart": 7561,
+        "speechEnd": 7942,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e27",
+        "from": 7958,
+        "end": 8337,
+        "duration": 379,
+        "speechStart": 7958,
+        "speechEnd": 8314,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e28",
+        "from": 8337,
+        "end": 8735,
+        "duration": 398,
+        "speechStart": 8337,
+        "speechEnd": 8722,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e29",
+        "from": 8735,
+        "end": 9134,
+        "duration": 399,
+        "speechStart": 8735,
+        "speechEnd": 9122,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e30",
+        "from": 9134,
+        "end": 9492,
+        "duration": 358,
+        "speechStart": 9134,
+        "speechEnd": 9467,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e31",
+        "from": 9492,
+        "end": 9871,
+        "duration": 379,
+        "speechStart": 9492,
+        "speechEnd": 9861,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e32",
+        "from": 9871,
+        "end": 10220,
+        "duration": 349,
+        "speechStart": 9871,
+        "speechEnd": 10208,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e33",
+        "from": 10220,
+        "end": 10548,
+        "duration": 328,
+        "speechStart": 10220,
+        "speechEnd": 10543,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e35",
+        "from": 10548,
+        "end": 10920,
+        "duration": 372,
+        "speechStart": 10548,
+        "speechEnd": 10907,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e36",
+        "from": 10920,
+        "end": 11291,
+        "duration": 371,
+        "speechStart": 10920,
+        "speechEnd": 11271,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e37",
+        "from": 11291,
+        "end": 11739,
+        "duration": 448,
+        "speechStart": 11291,
+        "speechEnd": 11706,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e38",
+        "from": 11739,
+        "end": 12145,
+        "duration": 406,
+        "speechStart": 11739,
+        "speechEnd": 12123,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e39",
+        "from": 12145,
+        "end": 12538,
+        "duration": 393,
+        "speechStart": 12145,
+        "speechEnd": 12530,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e40",
+        "from": 12538,
+        "end": 12921,
+        "duration": 383,
+        "speechStart": 12538,
+        "speechEnd": 12915,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e41",
+        "from": 12921,
+        "end": 13320,
+        "duration": 399,
+        "speechStart": 12921,
+        "speechEnd": 13309,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e42",
+        "from": 13320,
+        "end": 13754,
+        "duration": 434,
+        "speechStart": 13320,
+        "speechEnd": 13741,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e43",
+        "from": 13754,
+        "end": 14113,
+        "duration": 359,
+        "speechStart": 13754,
+        "speechEnd": 14108,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e44",
+        "from": 14113,
+        "end": 14488,
+        "duration": 375,
+        "speechStart": 14113,
+        "speechEnd": 14483,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e45",
+        "from": 14488,
+        "end": 14882,
+        "duration": 394,
+        "speechStart": 14488,
+        "speechEnd": 14858,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e46",
+        "from": 14882,
+        "end": 15260,
+        "duration": 378,
+        "speechStart": 14882,
+        "speechEnd": 15255,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e47",
+        "from": 15260,
+        "end": 15675,
+        "duration": 415,
+        "speechStart": 15260,
+        "speechEnd": 15643,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e49",
+        "from": 15675,
+        "end": 16064,
+        "duration": 389,
+        "speechStart": 15675,
+        "speechEnd": 16051,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e50",
+        "from": 16064,
+        "end": 16452,
+        "duration": 388,
+        "speechStart": 16064,
+        "speechEnd": 16441,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e51",
+        "from": 16452,
+        "end": 16820,
+        "duration": 368,
+        "speechStart": 16452,
+        "speechEnd": 16805,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e52",
+        "from": 16820,
+        "end": 17151,
+        "duration": 331,
+        "speechStart": 16820,
+        "speechEnd": 17133,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e53",
+        "from": 17151,
+        "end": 17482,
+        "duration": 331,
+        "speechStart": 17151,
+        "speechEnd": 17469,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e54",
+        "from": 17482,
+        "end": 17859,
+        "duration": 377,
+        "speechStart": 17482,
+        "speechEnd": 17831,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      },
+      {
+        "beat": "e55",
+        "from": 17859,
+        "end": 18261,
+        "duration": 402,
+        "speechStart": 17859,
+        "speechEnd": 18255,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": false
+      },
+      {
+        "beat": "e56",
+        "from": 18261,
+        "end": 18671,
+        "duration": 410,
+        "speechStart": 18261,
+        "speechEnd": 18635,
+        "contiguousAndSpeechInBounds": true,
+        "strictCueInBounds": true
+      }
+    ]
+  },
+  "illustrativeArithmetic": [
+    {
+      "id": "20k-increase10percent",
+      "computed": 22000.0,
+      "stored": 22000,
+      "matches": true
+    },
+    {
+      "id": "22k-increase2percent",
+      "computed": 22440.0,
+      "stored": 22440,
+      "matches": true
+    },
+    {
+      "id": "e15-cost-residual",
+      "computed": 3000,
+      "stored": 3000,
+      "matches": true
+    },
+    {
+      "id": "e16-cost-residual",
+      "computed": 3000,
+      "stored": 3000,
+      "matches": true
+    },
+    {
+      "id": "e17-before-residual",
+      "computed": 3000,
+      "stored": 3000,
+      "matches": true
+    },
+    {
+      "id": "e17-after-residual",
+      "computed": 2500,
+      "stored": 2500,
+      "matches": true
+    },
+    {
+      "id": "22k-return20k-percent",
+      "computed": -9.090909090909093,
+      "stored": -9.090909,
+      "matches": true
+    },
+    {
+      "id": "e37-weights-total",
+      "computed": 100,
+      "stored": 100,
+      "matches": true
+    },
+    {
+      "id": "e37-weighted-inflation",
+      "computed": 4.0,
+      "stored": 4,
+      "matches": true
+    },
+    {
+      "id": "e38-weights-total",
+      "computed": 100,
+      "stored": 100,
+      "matches": true
+    },
+    {
+      "id": "e38-weighted-inflation",
+      "computed": 4.0,
+      "stored": 4,
+      "matches": true
+    },
+    {
+      "id": "e40-real-wage",
+      "computed": -2.777777777777779,
+      "stored": -2.7777777778,
+      "matches": true
+    },
+    {
+      "id": "e41-real-wage",
+      "computed": -2.777777777777779,
+      "stored": -2.7777777778,
+      "matches": true
+    },
+    {
+      "id": "unit-price-shrink",
+      "computed": 11.111111111111116,
+      "stored": 11.111111,
+      "matches": true
+    }
+  ],
+  "research": {
+    "sources": 7,
+    "sourceFileSHA256": "b2b5280ec433069e708c2a09af24383415349027510d804606f39daabc0557fc",
+    "contentSHA256": "0e65992b5e12d28f910b9d0553ace4c600cd171693ca7c99ed87bae5fae68c88",
+    "limit": "Conceptual mechanisms only. All prices,costs,weights,wages and rates are illustrative; no present-day national statistics or pictured-business outcomes claimed."
+  },
+  "photoCoverage": {
+    "photoOnlySegmentCount": 32,
+    "photoOnlyFrames": 11876,
+    "photoOnlySeconds": 395.8666666666667,
+    "photoOnlyDurationPercent": 63.606662739007014,
+    "includingDisclaimerPhotoSegmentCount": 33,
+    "includingDisclaimerPhotoFrames": 12250,
+    "includingDisclaimerPhotoSeconds": 408.3333333333333,
+    "includingDisclaimerPhotoDurationPercent": 65.60976916073055,
+    "actuallySelectedDistinctOriginalSourceCount": 18,
+    "actuallySelectedDistinctSourceURLCount": 18,
+    "selectionMethod": "Reproduced renderer: globalSegmentIndex modulo4 chooses layout; index modulo asset-array-length chooses primary; only layout2adds(index+1)modulo length secondary. Explicit disclaimer uses firstasset. Graphic beats other than disclaimer do not count attached assets. Decorative backings are derivatives of foreground source,not extra original sources.",
+    "limit": "Timeline-presence share of segments assigned photographs,not photo pixel-area share,full-strength visibility during6-frame fades,aesthetic acceptance,footage motion,or independent semantic proof. Multi-panel source-presence frames overlap and must not be summed as whole-video duration.",
+    "selectedByBeat": [
+      {
+        "beat": "e01",
+        "globalSegmentIndex": 0,
+        "layout": 0,
+        "segmentFrames": 332,
+        "selectedAssetIds": [
+          "vn-filled-banhmi"
+        ],
+        "selectedFiles": [
+          "assets/vn-filled-banhmi.jpg"
+        ]
+      },
+      {
+        "beat": "e02",
+        "globalSegmentIndex": 1,
+        "layout": "disclaimer-photo",
+        "segmentFrames": 374,
+        "selectedAssetIds": [
+          "vn-filled-banhmi"
+        ],
+        "selectedFiles": [
+          "assets/vn-filled-banhmi.jpg"
+        ]
+      },
+      {
+        "beat": "e03",
+        "globalSegmentIndex": 2,
+        "layout": 2,
+        "segmentFrames": 376,
+        "selectedAssetIds": [
+          "baker-kneading",
+          "flour-butter"
+        ],
+        "selectedFiles": [
+          "assets/baker-kneading.jpg",
+          "assets/flour-butter.jpg"
+        ]
+      },
+      {
+        "beat": "e07",
+        "globalSegmentIndex": 4,
+        "layout": 0,
+        "segmentFrames": 349,
+        "selectedAssetIds": [
+          "vn-market-dalat"
+        ],
+        "selectedFiles": [
+          "assets/vn-market-dalat.jpg"
+        ]
+      },
+      {
+        "beat": "e13",
+        "globalSegmentIndex": 9,
+        "layout": 1,
+        "segmentFrames": 413,
+        "selectedAssetIds": [
+          "cash-vnd"
+        ],
+        "selectedFiles": [
+          "assets/cash-vnd.jpg"
+        ]
+      },
+      {
+        "beat": "e14",
+        "globalSegmentIndex": 10,
+        "layout": 2,
+        "segmentFrames": 343,
+        "selectedAssetIds": [
+          "baker-kneading",
+          "flour-counter"
+        ],
+        "selectedFiles": [
+          "assets/baker-kneading.jpg",
+          "assets/flour-counter.jpg"
+        ]
+      },
+      {
+        "beat": "e19",
+        "globalSegmentIndex": 15,
+        "layout": 3,
+        "segmentFrames": 338,
+        "selectedAssetIds": [
+          "flour-sifting"
+        ],
+        "selectedFiles": [
+          "assets/flour-sifting.jpg"
+        ]
+      },
+      {
+        "beat": "e20",
+        "globalSegmentIndex": 16,
+        "layout": 0,
+        "segmentFrames": 342,
+        "selectedAssetIds": [
+          "vn-fuel"
+        ],
+        "selectedFiles": [
+          "assets/vn-fuel.jpg"
+        ]
+      },
+      {
+        "beat": "e21",
+        "globalSegmentIndex": 17,
+        "layout": 1,
+        "segmentFrames": 371,
+        "selectedAssetIds": [
+          "vn-market-dalat"
+        ],
+        "selectedFiles": [
+          "assets/vn-market-dalat.jpg"
+        ]
+      },
+      {
+        "beat": "e22",
+        "globalSegmentIndex": 18,
+        "layout": 2,
+        "segmentFrames": 352,
+        "selectedAssetIds": [
+          "bread-oven",
+          "oven-loading"
+        ],
+        "selectedFiles": [
+          "assets/bread-oven.jpg",
+          "assets/oven-loading.jpg"
+        ]
+      },
+      {
+        "beat": "e23",
+        "globalSegmentIndex": 19,
+        "layout": 3,
+        "segmentFrames": 365,
+        "selectedAssetIds": [
+          "oven-loading"
+        ],
+        "selectedFiles": [
+          "assets/oven-loading.jpg"
+        ]
+      },
+      {
+        "beat": "e25",
+        "globalSegmentIndex": 20,
+        "layout": 0,
+        "segmentFrames": 348,
+        "selectedAssetIds": [
+          "cash-vnd"
+        ],
+        "selectedFiles": [
+          "assets/cash-vnd.jpg"
+        ]
+      },
+      {
+        "beat": "e26",
+        "globalSegmentIndex": 21,
+        "layout": 1,
+        "segmentFrames": 397,
+        "selectedAssetIds": [
+          "cash-vnd"
+        ],
+        "selectedFiles": [
+          "assets/cash-vnd.jpg"
+        ]
+      },
+      {
+        "beat": "e27",
+        "globalSegmentIndex": 22,
+        "layout": 2,
+        "segmentFrames": 379,
+        "selectedAssetIds": [
+          "vn-market-dalat",
+          "vn-market-scooters"
+        ],
+        "selectedFiles": [
+          "assets/vn-market-dalat.jpg",
+          "assets/vn-market-scooters.jpg"
+        ]
+      },
+      {
+        "beat": "e28",
+        "globalSegmentIndex": 23,
+        "layout": 3,
+        "segmentFrames": 398,
+        "selectedAssetIds": [
+          "vn-fuel"
+        ],
+        "selectedFiles": [
+          "assets/vn-fuel.jpg"
+        ]
+      },
+      {
+        "beat": "e29",
+        "globalSegmentIndex": 24,
+        "layout": 0,
+        "segmentFrames": 399,
+        "selectedAssetIds": [
+          "receipt-hands"
+        ],
+        "selectedFiles": [
+          "assets/receipt-hands.jpg"
+        ]
+      },
+      {
+        "beat": "e30",
+        "globalSegmentIndex": 25,
+        "layout": 1,
+        "segmentFrames": 358,
+        "selectedAssetIds": [
+          "flour-butter"
+        ],
+        "selectedFiles": [
+          "assets/flour-butter.jpg"
+        ]
+      },
+      {
+        "beat": "e31",
+        "globalSegmentIndex": 26,
+        "layout": 2,
+        "segmentFrames": 379,
+        "selectedAssetIds": [
+          "vn-market-dalat",
+          "bread-basket"
+        ],
+        "selectedFiles": [
+          "assets/vn-market-dalat.jpg",
+          "assets/bread-basket.jpg"
+        ]
+      },
+      {
+        "beat": "e32",
+        "globalSegmentIndex": 27,
+        "layout": 3,
+        "segmentFrames": 349,
+        "selectedAssetIds": [
+          "grocery-cart"
+        ],
+        "selectedFiles": [
+          "assets/grocery-cart.jpg"
+        ]
+      },
+      {
+        "beat": "e35",
+        "globalSegmentIndex": 29,
+        "layout": 1,
+        "segmentFrames": 372,
+        "selectedAssetIds": [
+          "grocery-cart"
+        ],
+        "selectedFiles": [
+          "assets/grocery-cart.jpg"
+        ]
+      },
+      {
+        "beat": "e36",
+        "globalSegmentIndex": 30,
+        "layout": 2,
+        "segmentFrames": 371,
+        "selectedAssetIds": [
+          "grocery-cart",
+          "receipt-hands"
+        ],
+        "selectedFiles": [
+          "assets/grocery-cart.jpg",
+          "assets/receipt-hands.jpg"
+        ]
+      },
+      {
+        "beat": "e39",
+        "globalSegmentIndex": 33,
+        "layout": 1,
+        "segmentFrames": 393,
+        "selectedAssetIds": [
+          "grocery-cart"
+        ],
+        "selectedFiles": [
+          "assets/grocery-cart.jpg"
+        ]
+      },
+      {
+        "beat": "e43",
+        "globalSegmentIndex": 37,
+        "layout": 1,
+        "segmentFrames": 359,
+        "selectedAssetIds": [
+          "cargo-ship"
+        ],
+        "selectedFiles": [
+          "assets/cargo-ship.jpg"
+        ]
+      },
+      {
+        "beat": "e44",
+        "globalSegmentIndex": 38,
+        "layout": 2,
+        "segmentFrames": 375,
+        "selectedAssetIds": [
+          "cash-vnd",
+          "receipt-hands"
+        ],
+        "selectedFiles": [
+          "assets/cash-vnd.jpg",
+          "assets/receipt-hands.jpg"
+        ]
+      },
+      {
+        "beat": "e45",
+        "globalSegmentIndex": 39,
+        "layout": 3,
+        "segmentFrames": 394,
+        "selectedAssetIds": [
+          "receipt-hands"
+        ],
+        "selectedFiles": [
+          "assets/receipt-hands.jpg"
+        ]
+      },
+      {
+        "beat": "e46",
+        "globalSegmentIndex": 40,
+        "layout": 0,
+        "segmentFrames": 378,
+        "selectedAssetIds": [
+          "baker-kneading"
+        ],
+        "selectedFiles": [
+          "assets/baker-kneading.jpg"
+        ]
+      },
+      {
+        "beat": "e47",
+        "globalSegmentIndex": 41,
+        "layout": 1,
+        "segmentFrames": 415,
+        "selectedAssetIds": [
+          "bread-rustic"
+        ],
+        "selectedFiles": [
+          "assets/bread-rustic.jpg"
+        ]
+      },
+      {
+        "beat": "e49",
+        "globalSegmentIndex": 42,
+        "layout": 2,
+        "segmentFrames": 389,
+        "selectedAssetIds": [
+          "budget-couple",
+          "grocery-cart"
+        ],
+        "selectedFiles": [
+          "assets/budget-couple.jpg",
+          "assets/grocery-cart.jpg"
+        ]
+      },
+      {
+        "beat": "e51",
+        "globalSegmentIndex": 44,
+        "layout": 0,
+        "segmentFrames": 368,
+        "selectedAssetIds": [
+          "receipt-hands"
+        ],
+        "selectedFiles": [
+          "assets/receipt-hands.jpg"
+        ]
+      },
+      {
+        "beat": "e52",
+        "globalSegmentIndex": 45,
+        "layout": 1,
+        "segmentFrames": 331,
+        "selectedAssetIds": [
+          "receipt-hands"
+        ],
+        "selectedFiles": [
+          "assets/receipt-hands.jpg"
+        ]
+      },
+      {
+        "beat": "e53",
+        "globalSegmentIndex": 46,
+        "layout": 2,
+        "segmentFrames": 331,
+        "selectedAssetIds": [
+          "bread-basket",
+          "vn-filled-banhmi"
+        ],
+        "selectedFiles": [
+          "assets/bread-basket.jpg",
+          "assets/vn-filled-banhmi.jpg"
+        ]
+      },
+      {
+        "beat": "e55",
+        "globalSegmentIndex": 48,
+        "layout": 0,
+        "segmentFrames": 402,
+        "selectedAssetIds": [
+          "vn-filled-banhmi"
+        ],
+        "selectedFiles": [
+          "assets/vn-filled-banhmi.jpg"
+        ]
+      },
+      {
+        "beat": "e56",
+        "globalSegmentIndex": 49,
+        "layout": 1,
+        "segmentFrames": 410,
+        "selectedAssetIds": [
+          "vn-filled-banhmi-bag"
+        ],
+        "selectedFiles": [
+          "assets/vn-filled-banhmi-bag.jpg"
+        ]
+      }
+    ],
+    "sourcesActuallySelected": [
+      {
+        "id": "vn-filled-banhmi",
+        "sourceURL": "https://www.pexels.com/photo/vibrant-vietnamese-banh-mi-sandwich-close-up-32961648/",
+        "creator": "Hậu Mai",
+        "license": "Pexels License",
+        "file": "assets/vn-filled-banhmi.jpg",
+        "sha256": "91ace0d5ae34c02d939a1e2347904a8f0d3260e680fc4da68b38366a29ef7977",
+        "beats": [
+          "e01",
+          "e02",
+          "e53",
+          "e55"
+        ],
+        "presenceFrames": 1439,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "baker-kneading",
+        "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+        "creator": "Vaibhav Jadhav",
+        "license": "Pexels License",
+        "file": "assets/baker-kneading.jpg",
+        "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe",
+        "beats": [
+          "e03",
+          "e14",
+          "e46"
+        ],
+        "presenceFrames": 1097,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "flour-butter",
+        "sourceURL": "https://www.pexels.com/photo/bakery-flour-cooking-baking-94443/",
+        "creator": "Markus Spiske",
+        "license": "Pexels License",
+        "file": "assets/flour-butter.jpg",
+        "sha256": "10e7c74b9eb3556d4a58482fec479b5f68469728591763a33bff41914ff8729f",
+        "beats": [
+          "e03",
+          "e30"
+        ],
+        "presenceFrames": 734,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "vn-market-dalat",
+        "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+        "creator": "Kushie In Vietnam",
+        "license": "Pexels License",
+        "file": "assets/vn-market-dalat.jpg",
+        "sha256": "733398a388dbb5a9ea54202db5d75277335aa14d5cdefca17195df85e7fee6e1",
+        "beats": [
+          "e07",
+          "e21",
+          "e27",
+          "e31"
+        ],
+        "presenceFrames": 1478,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "cash-vnd",
+        "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+        "creator": "Nguyễn Tiến Thịnh",
+        "license": "Pexels License",
+        "file": "assets/cash-vnd.jpg",
+        "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0",
+        "beats": [
+          "e13",
+          "e25",
+          "e26",
+          "e44"
+        ],
+        "presenceFrames": 1533,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "flour-counter",
+        "sourceURL": "https://www.pexels.com/photo/close-up-of-dough-and-flour-on-kitchen-counter-36912597/",
+        "creator": "Debora Silveira",
+        "license": "Pexels License",
+        "file": "assets/flour-counter.jpg",
+        "sha256": "b8812f924cdad69dacf7c975cfb9370bff44014a7766323ee3dc1b4d0f0de9f1",
+        "beats": [
+          "e14"
+        ],
+        "presenceFrames": 343,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "flour-sifting",
+        "sourceURL": "https://www.pexels.com/photo/person-sifting-flour-7669733/",
+        "creator": "Polina Tankilevitch",
+        "license": "Pexels License",
+        "file": "assets/flour-sifting.jpg",
+        "sha256": "55bc0d35bf8bec62cda59cd6bb7dc6d6049dc421ba2b5c38e36249eb082aab0d",
+        "beats": [
+          "e19"
+        ],
+        "presenceFrames": 338,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "vn-fuel",
+        "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+        "creator": "Bui Van Dong",
+        "license": "Pexels License",
+        "file": "assets/vn-fuel.jpg",
+        "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b",
+        "beats": [
+          "e20",
+          "e28"
+        ],
+        "presenceFrames": 740,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "bread-oven",
+        "sourceURL": "https://www.pexels.com/photo/freshly-baked-baguettes-in-a-traditional-bakery-30596422/",
+        "creator": "Zehra K.",
+        "license": "Pexels License",
+        "file": "assets/bread-oven.jpg",
+        "sha256": "03624d24fe3f9f0f6ee85b4cbfcc8c82a5abded3c8b6208470117b86e8dcc7d2",
+        "beats": [
+          "e22"
+        ],
+        "presenceFrames": 352,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "oven-loading",
+        "sourceURL": "https://www.pexels.com/photo/a-person-baking-bread-7633904/",
+        "creator": "Ilaria M",
+        "license": "Pexels License",
+        "file": "assets/oven-loading.jpg",
+        "sha256": "b448e284ff1fcf455fab76aaec7b705bed434e788202a3729892f854a0328073",
+        "beats": [
+          "e22",
+          "e23"
+        ],
+        "presenceFrames": 717,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "vn-market-scooters",
+        "sourceURL": "https://www.pexels.com/photo/bustling-street-market-scene-in-vietnam-28463355/",
+        "creator": "Sam Tan",
+        "license": "Pexels License",
+        "file": "assets/vn-market-scooters.jpg",
+        "sha256": "4c47de35f059d11a29a2dd257638924f80fcba114bf17c0e0473fbb486436dbd",
+        "beats": [
+          "e27"
+        ],
+        "presenceFrames": 379,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "receipt-hands",
+        "sourceURL": "https://www.pexels.com/photo/close-up-of-woman-hands-holding-bill-4959926/",
+        "creator": "Kaboompics",
+        "license": "Pexels License",
+        "file": "assets/receipt-hands.jpg",
+        "sha256": "8172115d0e3d8710fbbfc97cdda0b414e5f0df8b48f829a4e865884f1f37f81a",
+        "beats": [
+          "e29",
+          "e36",
+          "e44",
+          "e45",
+          "e51",
+          "e52"
+        ],
+        "presenceFrames": 2238,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "bread-basket",
+        "sourceURL": "https://www.pexels.com/photo/artisanal-baguettes-in-rustic-bakery-setting-30509573/",
+        "creator": "Anna Danilina",
+        "license": "Pexels License",
+        "file": "assets/bread-basket.jpg",
+        "sha256": "498379d80945c7119154443f81408f982fdba58689116d5f9252f231b56237ab",
+        "beats": [
+          "e31",
+          "e53"
+        ],
+        "presenceFrames": 710,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "grocery-cart",
+        "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+        "creator": "Gustavo Fring",
+        "license": "Pexels License",
+        "file": "assets/grocery-cart.jpg",
+        "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458",
+        "beats": [
+          "e32",
+          "e35",
+          "e36",
+          "e39",
+          "e49"
+        ],
+        "presenceFrames": 1874,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "cargo-ship",
+        "sourceURL": "https://www.pexels.com/photo/stacks-of-shipping-containers-on-a-cargo-ship-7128920/",
+        "creator": "Wolf Achim Wiegand",
+        "license": "Pexels License",
+        "file": "assets/cargo-ship.jpg",
+        "sha256": "bbc23c809371cceb9e0294816794e9e938cfcf097101544f16a6d8bb76e1e0e3",
+        "beats": [
+          "e43"
+        ],
+        "presenceFrames": 359,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "bread-rustic",
+        "sourceURL": "https://www.pexels.com/photo/rustic-baguette-bread-on-dark-background-29635018/",
+        "creator": "Büşra Boduroğlu",
+        "license": "Pexels License",
+        "file": "assets/bread-rustic.jpg",
+        "sha256": "a6854e6005a63bbfc1d4080a0e56c1fe4aa85012011a8c07815eed205a7987b1",
+        "beats": [
+          "e47"
+        ],
+        "presenceFrames": 415,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "budget-couple",
+        "sourceURL": "https://www.pexels.com/photo/couple-looking-at-their-bills-6964105/",
+        "creator": "Mikhail Nilov",
+        "license": "Pexels License",
+        "file": "assets/budget-couple.jpg",
+        "sha256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd",
+        "beats": [
+          "e49"
+        ],
+        "presenceFrames": 389,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      },
+      {
+        "id": "vn-filled-banhmi-bag",
+        "sourceURL": "https://www.pexels.com/photo/a-sandwich-with-meat-and-vegetables-on-top-of-a-paper-bag-26619988/",
+        "creator": "Theodore Nguyen",
+        "license": "Pexels License",
+        "file": "assets/vn-filled-banhmi-bag.jpg",
+        "sha256": "ee2f314844274596b609d86dbd4770e90bc726c2927c59153fb5256496418ef2",
+        "beats": [
+          "e56"
+        ],
+        "presenceFrames": 410,
+        "publicFileHashMatches": true,
+        "inspectionMatchesHash": true,
+        "backgroundHashMatches": true
+      }
+    ]
+  },
+  "branding": {
+    "scannedTerms": [
+      "tyranno",
+      "lăng kính",
+      "lóng",
+      "the hidden self"
+    ],
+    "matches": [],
+    "scope": "Spoken text,headlines,chapter titles,data strings,captions and credits. Local folder names and research metadata are not video content. Generic subscribe/bell/comment CTA retained; intrinsic real-world source brand markings such as fuel-station signage are contextual photographs,not invented channel branding."
+  },
+  "hashes": {
+    "propsSHA256": "bd6e57e873fbe98bfab44c265eba4dfa054beebb00f78222963cfda8c0353d2f",
+    "dependenciesSHA256": "ed5e7028b1dbfcf3a09aa17c6dc9e4e2e360f6ebe0e0cc12015ca6638bbebc82",
+    "mixSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2"
+  },
+  "visualAndUserApproval": "This pass covers authoring integrity only. R02sampled-frame observations and parent r03moving/full-renderQA remain separate; user approval pending.",
+  "nonBlockingObservations": [
+    {
+      "id": "unreachable-cut-boundary-cues",
+      "count": 22,
+      "explanation": "22turnCues equal segment duration exactly. Renderer selects segment only for local frame<duration,so these cues never execute and do not change visuals/audio/cuts. Recorded as dormant cue metadata rather than a continuity failure. No source mutation or new render warranted by this audit.",
+      "entries": [
+        {
+          "beat": "e03",
+          "localCue": 376,
+          "duration": 376,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e07",
+          "localCue": 349,
+          "duration": 349,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e08",
+          "localCue": 336,
+          "duration": 336,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e10",
+          "localCue": 348,
+          "duration": 348,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e13",
+          "localCue": 413,
+          "duration": 413,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e16",
+          "localCue": 396,
+          "duration": 396,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e17",
+          "localCue": 368,
+          "duration": 368,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e20",
+          "localCue": 342,
+          "duration": 342,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e25",
+          "localCue": 348,
+          "duration": 348,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e26",
+          "localCue": 397,
+          "duration": 397,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e28",
+          "localCue": 398,
+          "duration": 398,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e29",
+          "localCue": 399,
+          "duration": 399,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e31",
+          "localCue": 379,
+          "duration": 379,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e32",
+          "localCue": 349,
+          "duration": 349,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e33",
+          "localCue": 328,
+          "duration": 328,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e37",
+          "localCue": 448,
+          "duration": 448,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e41",
+          "localCue": 399,
+          "duration": 399,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e42",
+          "localCue": 434,
+          "duration": 434,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e45",
+          "localCue": 394,
+          "duration": 394,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e51",
+          "localCue": 368,
+          "duration": 368,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e53",
+          "localCue": 331,
+          "duration": 331,
+          "reachableDuringSegment": false
+        },
+        {
+          "beat": "e55",
+          "localCue": 402,
+          "duration": 402,
+          "reachableDuringSegment": false
+        }
+      ]
+    }
+  ]
+}

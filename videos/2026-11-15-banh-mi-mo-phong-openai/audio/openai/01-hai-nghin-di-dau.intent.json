@@ -1,0 +1,18 @@
+{
+  "request_hash": "72b42c0bdd187b307f2f2fb03f869f4bf66938d0e5153839adcab49f3fdae0cc",
+  "endpoint": "/v1/audio/speech",
+  "payload": {
+    "model": "gpt-4o-mini-tts",
+    "voice": "cedar",
+    "input": "Ổ bánh tăng hai nghìn. Nhưng người bán lại giữ được ít hơn năm trăm đồng. Khách thấy đắt, chủ tiệm cũng thấy hụt. Trong khi đó, bản tin bảo lạm phát đã giảm. Vì sao cả hai vẫn thấy khó hơn?\n\nThử theo một ngày ở tiệm bánh giả định của chị Hạnh. Ta đặt các con số đơn giản vào tiệm này để lần theo số tiền vừa tăng. Chìa khóa nằm ở ba thứ thường bị nhìn riêng: bảng giá, hóa đơn đầu vào, và tiền người mua kiếm được.\n\nTrước lần đổi bảng, một ổ bán hai mươi nghìn. Nguyên liệu và những khoản thay đổi theo lượng bánh hết mười hai nghìn. Tiền thuê cùng chi phí cố định được chia ra năm nghìn một ổ, ở lượng bán đang giả định. Còn ba nghìn.\n\nKhoan gọi ba nghìn ấy là tiền bỏ túi. Mô hình còn chưa tính đủ thuế, khấu hao và công của chủ tiệm. Cứ giữ cách tính ấy để so trước với sau, rồi nhìn hóa đơn mới chị Hạnh vừa nhận.\n\nCùng một ổ bánh, phần chi phí biến đổi giờ thành mười bốn nghìn năm trăm. Nếu giữ giá cũ, khoảng còn lại chỉ còn năm trăm đồng. Chị Hạnh đổi bảng lên hai mươi hai nghìn. Khách trả thêm hai nghìn; nhưng đầu vào đã tăng hai nghìn năm trăm.\n\nKết quả: từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm trên một ổ. Hai nghìn tăng thêm không biến mất. Nó chưa bù hết phần chi phí tăng. Giá bán đi lên mà khoảng dư vẫn co lại. Chỉ nhìn tấm bảng, khách không thể biết điều đó.\n\nĐấy là chuyện của tiệm trong ví dụ. Tiệm khác có thể giữ giá, giảm phần dư, hoặc tăng được lãi; muốn kết luận phải có sổ thật. Nhưng người khách vẫn có lý do để hỏi chị Hạnh: nếu lạm phát đang giảm, tại sao bảng giá không quay về hai mươi nghìn?",
+    "instructions": "Speak entirely in fluent natural Vietnamese as a professional Vietnamese economic storyteller. Use neutral clear Vietnamese pronunciation, warm grounded tone and lively conversational phrasing. Read the supplied Vietnamese text exactly without adding, omitting, translating or repeating words. Make the opening question curious and engaging. Emphasize contrasts and consequences: trả thêm versus giữ lại thêm, tăng chậm hơn versus giảm giá, tiền lương versus sức mua. Vary sentence rhythm and pitch; avoid a flat classroom lecture or exaggerated advertising voice. Clearly articulate number phrases and brief pauses around calculations, without spelling individual letters or dragging syllables. Use a brisk but unhurried native conversational pace. Slightly lower the voice for the conclusion, and end questions naturally. No music, sound effects, laughter or extra commentary.",
+    "response_format": "mp3",
+    "speed": 1.0
+  },
+  "editorial": {
+    "map": "videos/2026-11-15-banh-mi-mo-phong-openai/editorial-map.json",
+    "mapSHA256": "db5a5471eea1a447a8f625e9b1f35872dfd34a9a8a4c93456c1d2e7cee809bb2",
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "userApproval": "not_established"
+  }
+}

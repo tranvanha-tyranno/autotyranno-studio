@@ -1,0 +1,14 @@
+[
+  {
+    "style": "comic",
+    "status": 206,
+    "contentType": "video/mp4",
+    "range": "bytes 0-1023/140186455"
+  },
+  {
+    "style": "flow",
+    "status": 206,
+    "contentType": "video/mp4",
+    "range": "bytes 0-1023/82462529"
+  }
+]

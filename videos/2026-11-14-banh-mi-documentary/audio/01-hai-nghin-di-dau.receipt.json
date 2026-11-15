@@ -1,0 +1,16 @@
+{
+  "provider": "ElevenLabs",
+  "model": "eleven_v3",
+  "request_hash": "457cb9bef86b1297ed6da062c4b6296d54332f30059f1ac0fb569f7f0ebd8832",
+  "endpoint": "/v1/text-to-speech/6adFm46eyy74snVn6YrT/with-timestamps",
+  "character_cost": "612",
+  "request_id": "QnKInunk55BSXJ1cbN29",
+  "sha256": "43b53e4c3b850e7f0ecf913d6d05a0dd36b38cd20adbc652f6d9a35fbdf247a6",
+  "bytes": 1562792,
+  "editorial": {
+    "map": "videos/2026-11-14-banh-mi-documentary/editorial-map.json",
+    "mapSHA256": "db5a5471eea1a447a8f625e9b1f35872dfd34a9a8a4c93456c1d2e7cee809bb2",
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "userApproval": "not_established"
+  }
+}

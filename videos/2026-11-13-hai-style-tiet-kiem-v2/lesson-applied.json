@@ -1,0 +1,28 @@
+{
+  "lesson_id": "evt-000031-da3249fe55c0",
+  "batch": "videos/2026-11-13-hai-style-tiet-kiem-v2",
+  "revision": "r02",
+  "change": "Applied continuous receipt/day/money actions and two new adult comic leads with palm-anchored held invoice in two17.83s exact-take motion proofs; full library expansion remains pending.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02/flow/final.mp4",
+      "sha256": "e3acdf3c60a44c98385daf6f638f8021847075577d8bafe6915075e3aada564a"
+    },
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02/comic/final.mp4",
+      "sha256": "1c665e9008ab62de270f32b6a9fa8f35d007ab62ec148bb97387291e3d350aed"
+    },
+    {
+      "role": "code",
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02/source-snapshot/workflows/reference-video/cinematic/src/finance-flow/FlowFilm.tsx",
+      "sha256": "4b2779230a1121522ddd7087d88a1a83784bbceed173ee76809ded33c9ad92c8"
+    },
+    {
+      "role": "code",
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02/source-snapshot/workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx",
+      "sha256": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59"
+    }
+  ]
+}

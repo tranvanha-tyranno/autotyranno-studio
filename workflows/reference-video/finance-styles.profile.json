@@ -1,6 +1,6 @@
 {
   "schema": "optional-finance-styles/1",
-  "status": "revision-needed-after-user-feedback",
+  "status": "photo-primary-revision-in-progress",
   "defaultOverride": false,
   "voice": {
     "id": "6adFm46eyy74snVn6YrT",
@@ -66,10 +66,10 @@
   "noBranding": true,
   "approval": "New demos require user feedback; do not inherit previous approvals",
   "latestFeedback": {
-    "quote": "dàn video số 2 tối giản làm chả khác gì 1 cái slide hả còn nhân vật thực sự chưa ưa mắt về ng cho lắm",
-    "evidence": "videos/2026-11-13-hai-style-tiet-kiem/review/user-critique/user-feedback.txt",
-    "sha256": "0fddf66bbdca9dbc2cbc0a154f7b97e9d49d2f5d64b2c2f61600044fb7624509",
-    "scope": "Both original demo visual styles need revision; narration is not criticized"
+    "quote": "sao lại làm thành video kiểu slide nữa vậy?, tôi đâu có cần kiểu video slide đầu ghi vô rule sao cứ làm theo kiểu slide mãi thế",
+    "evidence": "videos/2026-11-13-hai-style-10-phut/review/user-slide-rejection/user-feedback.txt",
+    "sha256": "4766acf6fb85a07957376a167e08b732b9f7d65f0f6bb028ada0e0f165a28ff8",
+    "scope": "Both finance-long comic and flow r03 films rejected for slide style; previous anti-slide instruction was already in force."
   },
   "revisionDirection": {
     "characters": "Comic biểu cảm mạnh, hơi hài hước",
@@ -77,5 +77,63 @@
     "newDesignApproval": "pending",
     "motion": "Content-specific continuous object actions and coherent transitions; static cards with entrance animation are insufficient",
     "proofPolicy": "Short18s motion proofs and two leads before another full library expansion"
+  },
+  "feedbackHistory": [
+    {
+      "quote": "dàn video số 2 tối giản làm chả khác gì 1 cái slide hả còn nhân vật thực sự chưa ưa mắt về ng cho lắm",
+      "evidence": "videos/2026-11-13-hai-style-tiet-kiem/review/user-critique/user-feedback.txt",
+      "sha256": "0fddf66bbdca9dbc2cbc0a154f7b97e9d49d2f5d64b2c2f61600044fb7624509",
+      "scope": "Both original demo visual styles need revision; narration is not criticized"
+    }
+  ],
+  "antiSlidePolicy": {
+    "required": true,
+    "rejectPatterns": [
+      "Fixed headline/stage/panel with short entrance action and a hold through narration",
+      "Counting, bobbing, blinking, small camera drift or moving objects alone presented as proof of scene progression"
+    ],
+    "requiredReview": "Inspect complete moving representative scenes from the beginning, middle and end; confirm purposeful subject actions and developing state changes aligned with narration.",
+    "stillFrameAndTechnicalChecksEstablishMotionAcceptance": false,
+    "newUserApprovalStepRequired": false,
+    "correctionVerified": false
+  },
+  "longform": {
+    "batch": "videos/2026-11-13-hai-style-10-phut",
+    "revision": "r03",
+    "styles": [
+      {
+        "style": "comic",
+        "file": "videos/2026-11-13-hai-style-10-phut/r03/comic/final.mp4",
+        "sha256": "56323734f34e88d86b5b2986ad92758163fcb5889f771b3e1712a38c68aad248",
+        "decision": "rejected"
+      },
+      {
+        "style": "flow",
+        "file": "videos/2026-11-13-hai-style-10-phut/r03/flow/final.mp4",
+        "sha256": "3f3199567060f922505af0609c96f58011679df3d9ad48a8664f1efcf3db24a4",
+        "decision": "rejected"
+      }
+    ],
+    "status": "rejected-slide-style",
+    "unchangedRenderSourcesBlockedBy": "finance-rejected-visuals.json",
+    "reuseNarrationOnAuthorizedRewrite": true
+  },
+  "activeRevisionRequest": {
+    "quote": "style chuyển động quá lâu, chuyển cảnh nhanh hơn nâng cấp hơn đi cho tôi rồi cuối video còn đăng ký kệnh đồ nữa",
+    "date": "2026-11-13",
+    "batch": "videos/2026-11-13-hai-style-nhip-nhanh",
+    "action": "Upgrade both styles with short evolving action shots and append same-voice subscribe/bell/comment outro",
+    "meanShotSeconds": 3.238351254480288,
+    "mainAudio": "Retain exact previous main PCM prefix at natural speed",
+    "newUserApproval": "pending",
+    "priorRejectionStillAppliesToOldSources": true
+  },
+  "latestVisualPolicy": {
+    "primary": "real-source-photographs",
+    "simulation": "only-when-needed-for-calculation-allocation-or-cash-timing",
+    "preserveExactAudio": true,
+    "subscribeOutro": true,
+    "batch": "videos/2026-11-14-tai-chinh-anh-that",
+    "userApproval": "pending"
   }
 }

@@ -1,0 +1,53 @@
+{
+  "id": "bread-cut",
+  "file": "audio/sfx/downloaded/bread-cut.mp3",
+  "sha256": "e5ba1ceb6dc91030a6b7cde53291d87fed0264c87e170b4c4f6264ef2af3bbba",
+  "bytes": 414576,
+  "durationSeconds": 19.03,
+  "sourceURL": "https://freesound.org/people/BogumilaMerc/sounds/835792/",
+  "downloadURL": "https://cdn.freesound.org/previews/835/835792_18186550-hq.mp3",
+  "creator": "BogumilaMerc",
+  "sourceTitle": "bread-cutting-slow-medium-fast",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Knife slicing bread at three speeds",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "bread",
+    "cut",
+    "knife"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b01",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b03",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b08",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b24",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/bread-cut.html",
+    "htmlSHA256": "b927fe314a2b879b5f916e0ef090ffd95da2239e2c33a789406d433501a7cd02",
+    "text": "research/sfx-source-pages/bread-cut.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Knife slicing bread at three speeds by BogumilaMerc, Freesound #835792, CC0 1.0: https://freesound.org/people/BogumilaMerc/sounds/835792/"
+}

@@ -1,0 +1,3039 @@
+{
+  "schema": "reference-video-src-review/1",
+  "date": "2026-11-14",
+  "root": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src",
+  "method": "Complete150-file inventory and hashes;145code/text files read directly in full bounded outputs across three delegated audits and current composition review. Two large JSON geometry/font payloads fully parsed and structurally traversed, distinct from prose reading. Three font binaries inspected using CMAP samples/hash/provenance. No source files remain inventory-only; source reading is not continuous audiovisual watching/listening or aesthetic acceptance.",
+  "latestTaskOverride": "User explicitly permits stationary characters with only narration-aligned turns and prioritizes economic storytelling. This applies to current task and does not approve the appearance of retained cast assets.",
+  "totalFiles": 150,
+  "totalBytes": 1498018,
+  "sourceFilesRead": 145,
+  "groups": [
+    {
+      "group": "(root)",
+      "files": 17,
+      "bytes": 83933,
+      "reviewedSourceFiles": 16,
+      "status": "entry-or-shared-historical",
+      "note": "Multiple historical entrypoints are retained. New story uses its isolated entry.",
+      "parsedDataFiles": 1,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "business",
+      "files": 11,
+      "bytes": 32329,
+      "reviewedSourceFiles": 11,
+      "status": "pending-feedback",
+      "note": "Topic-specific cafe/business renderer; selected components inspected, retained as optional reference.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "china",
+      "files": 12,
+      "bytes": 244980,
+      "reviewedSourceFiles": 11,
+      "status": "rejected-production-baseline",
+      "note": "China r02 criticized for repetitive visual styles; retain sources and exports.",
+      "parsedDataFiles": 1,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "china-v2",
+      "files": 9,
+      "bytes": 119487,
+      "reviewedSourceFiles": 9,
+      "status": "pending-feedback",
+      "note": "Revision offers variety but not established as user-approved.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "directions",
+      "files": 5,
+      "bytes": 37851,
+      "reviewedSourceFiles": 5,
+      "status": "interface-retained-images-unresolved",
+      "note": "Photo/gallery interface explicitly restored; actual past image selection still not approved.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "economy-story",
+      "files": 7,
+      "bytes": 434805,
+      "reviewedSourceFiles": 4,
+      "status": "new-pending-feedback",
+      "note": "Current request: content first, local Vietnamese fonts, mostly photos, static actor with cue yaw only.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 3
+    },
+    {
+      "group": "finance-cast",
+      "files": 7,
+      "bytes": 29210,
+      "reviewedSourceFiles": 7,
+      "status": "rejected-appearance-reference-only",
+      "note": "Thirty original SVG designs retained; earlier appearance criticized.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-cast-v2",
+      "files": 4,
+      "bytes": 23235,
+      "reviewedSourceFiles": 4,
+      "status": "candidate-not-art-approved",
+      "note": "Comic direction was chosen; new actual artwork has no user aesthetic approval.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-comic",
+      "files": 1,
+      "bytes": 5574,
+      "reviewedSourceFiles": 1,
+      "status": "proof-only-pending",
+      "note": "Short original comic proof, not a full-production baseline.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-demo",
+      "files": 6,
+      "bytes": 12224,
+      "reviewedSourceFiles": 6,
+      "status": "older-demo-preserved",
+      "note": "Earlier demo implementation, retain for reference; no reset to this default.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-flow",
+      "files": 5,
+      "bytes": 34616,
+      "reviewedSourceFiles": 5,
+      "status": "proof-only-pending",
+      "note": "Local continuous object simulation; not substitute for real source photos.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-long-comic",
+      "files": 3,
+      "bytes": 56638,
+      "reviewedSourceFiles": 3,
+      "status": "rejected-production-baseline",
+      "note": "Long r03 finance film rejected as slides.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-long-flow",
+      "files": 2,
+      "bytes": 52501,
+      "reviewedSourceFiles": 2,
+      "status": "rejected-production-baseline",
+      "note": "Long r03 finance film rejected as slides.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-pace-comic",
+      "files": 9,
+      "bytes": 96707,
+      "reviewedSourceFiles": 9,
+      "status": "superseded-photo-requirement",
+      "note": "Faster SVG shots failed latest real-photo priority; helper reuse only.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-pace-flow",
+      "files": 5,
+      "bytes": 76712,
+      "reviewedSourceFiles": 5,
+      "status": "superseded-photo-requirement",
+      "note": "Faster SVG shots failed latest real-photo priority; helper reuse only.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-photo",
+      "files": 4,
+      "bytes": 11944,
+      "reviewedSourceFiles": 4,
+      "status": "pending-feedback-runner-incomplete",
+      "note": "Best existing photo/crop primitives; old Python runner references absent finance_photo_plan.py and pins old audio.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "finance-simple",
+      "files": 1,
+      "bytes": 16382,
+      "reviewedSourceFiles": 1,
+      "status": "rejected-static-slide-direction",
+      "note": "Minimalist film criticized as a slide presentation.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "longform",
+      "files": 23,
+      "bytes": 18445,
+      "reviewedSourceFiles": 23,
+      "status": "rejected-dominant-3d-direction",
+      "note": "Five-minute AI film rejected for too little internet imagery and too much 3D.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "scenes",
+      "files": 6,
+      "bytes": 6733,
+      "reviewedSourceFiles": 6,
+      "status": "historical-approved-50s-scope",
+      "note": "50-second cinematic reset accepted historically; later photo priority overrides dominant-3D default.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "semantic",
+      "files": 10,
+      "bytes": 96501,
+      "reviewedSourceFiles": 10,
+      "status": "rejected-cluttered-direction",
+      "note": "Semantic email/table/dashboard rebuild rejected; no default reuse.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    },
+    {
+      "group": "visualstory",
+      "files": 3,
+      "bytes": 7211,
+      "reviewedSourceFiles": 3,
+      "status": "earlier-photo-revision-preserved",
+      "note": "Earlier photo-led AI branch, acceptance not inferred from render.",
+      "parsedDataFiles": 0,
+      "binaryFontFiles": 0
+    }
+  ],
+  "knownIssues": [
+    {
+      "id": "old-photo-runner-missing-plan",
+      "path": "workflows/reference-video/finance_photo_render.py",
+      "finding": "bundle() hashes workflows/reference-video/finance_photo_plan.py but this file does not exist. Older runner is also hard-pinned to prior finance audio/plan and two variants.",
+      "resolution": "Current new story has isolated economy_story production path; do not silently reuse broken historical runner."
+    },
+    {
+      "id": "system-font-metrics",
+      "finding": "Older paths use Arial/Bahnschrift/Times New Roman without local font bundles. Arial/Bahnschrift CMAP contains tested Vietnamese glyphs on this host; issue is inconsistent family/weights/layout, not evidence of missing glyphs.",
+      "resolution": "New EconomyStory bundles Be Vietnam Pro regular/600/700 + OFL and SHA receipts, waits on document.fonts before render."
+    },
+    {
+      "id": "idle-actor-is-not-static",
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx",
+      "finding": "Even idle pose normally applies bodyBob and periodic blink. Procedural speaking is not verified lip-sync.",
+      "resolution": "New QuietActor passes frame=0, speaking=false, idle pose and neutral emotion. Only outer cue-driven yaw changes; fixed feet position."
+    },
+    {
+      "id": "old-root-includes-unrelated-films",
+      "path": "workflows/reference-video/cinematic/src/Root.tsx",
+      "finding": "Root imports older data.json files and historical compositions.",
+      "resolution": "Use isolated economy-story-entry.tsx for new story, preserving old root."
+    },
+    {
+      "id": "contain-foreground-normal-flow",
+      "path": "workflows/reference-video/cinematic/src/economy-story/index.tsx",
+      "finding": "Parent inspected r01 preflight and observed fit:contain displayed blurred backing without the intended sharp foreground: both CanvasImages occupied normal document flow, so the second foreground fell below the stage. Earlier TypeScript and CMAP checks did not detect this visual bug.",
+      "observedBy": "Parent agent during r01 preflight frame inspection, reported to source-audit agent; source-audit agent inspected the resulting code but did not independently view those frames.",
+      "resolution": "Parent changed both images to position:absolute,inset:0 so they stack in the same stage. Source audit hashes refreshed and scoped strict TypeScript passes after this change.",
+      "evidenceRoot": "videos/2026-11-14-o-banh-mi-va-lam-phat/r01/preflight",
+      "priorRevision": "r01 rejected preflight retained",
+      "verificationStatus": "r02 independent editorial samples observed repaired; r03 parent inspected four sheets / 50 midpoint frames after baked-backing optimization, sharp foreground preserved; no continuous motion or user approval claimed",
+      "userApproval": "pending",
+      "evidence": [
+        "videos/2026-11-14-o-banh-mi-va-lam-phat/review/preflight-editorial.json",
+        "videos/2026-11-14-o-banh-mi-va-lam-phat/review/r02-preflight-editorial.json",
+        "videos/2026-11-14-o-banh-mi-va-lam-phat/review/r02-repair-evidence.json"
+      ]
+    }
+  ],
+  "validation": {
+    "scopedTypeScript": "passed again after absolute image-layer fix; strict/noUnusedLocals/skipLibCheck/noEmit",
+    "fontGlyphCoverage": "All sampled Vietnamese tone vowel glyphs available in all three new Be Vietnam Pro font CMAPs.",
+    "fullAVReview": false,
+    "userApproval": "pending",
+    "containRender": "r03 parent sampled rendered verification over 50 midpoint frames reports sharp contained foreground; scope recorded separately from motion and user approval"
+  },
+  "files": [
+    {
+      "path": "workflows/reference-video/cinematic/src/business/BusinessFilm.tsx",
+      "relativePath": "business/BusinessFilm.tsx",
+      "group": "business",
+      "bytes": 2285,
+      "sha256": "86f473308d9921e3c9eb520542881d439b78cf70656dbe5ae36247add5f085ae",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/ChartScene.tsx",
+      "relativePath": "business/ChartScene.tsx",
+      "group": "business",
+      "bytes": 6725,
+      "sha256": "22861ea733e8240cc599ee12a21b589c704e8c422f2210ed87af7b6bebc62a3b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/CoffeeScene.tsx",
+      "relativePath": "business/CoffeeScene.tsx",
+      "group": "business",
+      "bytes": 4765,
+      "sha256": "3959b435ea51f4b841400b985cadc683106ae15bf73820fd48ea509999a2972c",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/index.ts",
+      "relativePath": "business/index.ts",
+      "group": "business",
+      "bytes": 152,
+      "sha256": "edd051a3e1b464e4af10f93b04ae8a2648b5456b2892b3e400545054cffa63a0",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/PaperScene.tsx",
+      "relativePath": "business/PaperScene.tsx",
+      "group": "business",
+      "bytes": 3140,
+      "sha256": "84ba0e6e53108f5694130b624b56b32a0c91d2d42cf9e674408069722baaa1e4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/PhotoScene.tsx",
+      "relativePath": "business/PhotoScene.tsx",
+      "group": "business",
+      "bytes": 2783,
+      "sha256": "3068b9bf207ea7fca29bf37796e6e6d0dcd823cf761f283613e9445a0b0d9eb8",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/QuestionScene.tsx",
+      "relativePath": "business/QuestionScene.tsx",
+      "group": "business",
+      "bytes": 1782,
+      "sha256": "15fbe9cf73ff1c83a5479c789c888b3236ef53a69368346a6a0350073a942427",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/README.md",
+      "relativePath": "business/README.md",
+      "group": "business",
+      "bytes": 3031,
+      "sha256": "3afa5c8b08bd3c2321502bfcc2e6fa3d0c7ea253ef37782dd03e89e5ac38bde0",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/Shared.tsx",
+      "relativePath": "business/Shared.tsx",
+      "group": "business",
+      "bytes": 4271,
+      "sha256": "af8a78b9b493243782098628f043e172ee13dac0292d046fa9511f0f51c49611",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/SplitScene.tsx",
+      "relativePath": "business/SplitScene.tsx",
+      "group": "business",
+      "bytes": 1930,
+      "sha256": "5397b0549f78b6f1c3b4d091cad3695703ff7d3534872d883bd626a918c3a517",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business/types.ts",
+      "relativePath": "business/types.ts",
+      "group": "business",
+      "bytes": 1465,
+      "sha256": "51dd6583ed3dbad69edc367d2b0de0e3bc9475d3bcc9a7a9fca06ce68755ab70",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/business-entry.tsx",
+      "relativePath": "business-entry.tsx",
+      "group": "(root)",
+      "bytes": 570,
+      "sha256": "277dfd37cbcc61e364adae0f81f2cf80570fce575f6d2bd4e5406675c2d05985",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/ChartScene.tsx",
+      "relativePath": "china/ChartScene.tsx",
+      "group": "china",
+      "bytes": 5362,
+      "sha256": "78f9173a95324745999292fabe851569070fdc208e8ee189db5cdcbbbcf9edc2",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/ChinaFilm.tsx",
+      "relativePath": "china/ChinaFilm.tsx",
+      "group": "china",
+      "bytes": 2574,
+      "sha256": "fdfe964fedbe326856723f14e474bb9fe4698375ab86e94326f796b8a0fe4ece",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/CompareScene.tsx",
+      "relativePath": "china/CompareScene.tsx",
+      "group": "china",
+      "bytes": 1829,
+      "sha256": "8e3031050ae1c8432b9282f8547eee81f20d57623abef67274c70819ed72d708",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/FlowScene.tsx",
+      "relativePath": "china/FlowScene.tsx",
+      "group": "china",
+      "bytes": 2954,
+      "sha256": "04c2cefb8e17bf91508f08146560a0d67296d1c1f1f7b4bb5c78283733a93ee0",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/geography/natural-earth-110m.json",
+      "relativePath": "china/geography/natural-earth-110m.json",
+      "group": "china",
+      "bytes": 208456,
+      "sha256": "2ce99e35cb4a9f7e595e6abe8eec1b5a9de33d1c6518f45ef780f1a786b9b499",
+      "reviewScope": "structured-data-fully-parsed",
+      "directTextRead": false,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Full JSON parse and coordinate traversal; consumer code and source receipt read."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/geography/source-receipt.json",
+      "relativePath": "china/geography/source-receipt.json",
+      "group": "china",
+      "bytes": 1145,
+      "sha256": "42d0542520b9f21332da926b2f56b060c53e545ec493a98baa21bddb1acbd0e0",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/index.ts",
+      "relativePath": "china/index.ts",
+      "group": "china",
+      "bytes": 118,
+      "sha256": "32ab23595a3a751aa71d877f8d32feb504b3a635a46867d313354c174671d9f1",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/MapScene.tsx",
+      "relativePath": "china/MapScene.tsx",
+      "group": "china",
+      "bytes": 4896,
+      "sha256": "0188b0d9cca2023fc7bcd95239ea4e03e5b823fe36c1c66ff6d891ac254292cd",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/README.md",
+      "relativePath": "china/README.md",
+      "group": "china",
+      "bytes": 4020,
+      "sha256": "fc560d66a509126c9f2463540721361124a10081c0c17a08108c8568dc89ff00",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/Shared.tsx",
+      "relativePath": "china/Shared.tsx",
+      "group": "china",
+      "bytes": 2720,
+      "sha256": "5236dcdd1a3c844559979d0d5e4297a44a9c46edceb828546df7cb9fa333e24c",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/SimulationScene.tsx",
+      "relativePath": "china/SimulationScene.tsx",
+      "group": "china",
+      "bytes": 9181,
+      "sha256": "381c662c4e443395db442919bb009b2f9b49f5aae052e4285b2ef8aa86af0c63",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china/types.ts",
+      "relativePath": "china/types.ts",
+      "group": "china",
+      "bytes": 1725,
+      "sha256": "61eca5572b64071d8b03d20f2b19a69df39eb8aab2135120b4e9e09db243ddbc",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-entry.tsx",
+      "relativePath": "china-entry.tsx",
+      "group": "(root)",
+      "bytes": 533,
+      "sha256": "4eec75794d22201f18da25ed313cba89f84a65090466db278823696d3e7ef80a",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/DataTradePreview.tsx",
+      "relativePath": "china-v2/DataTradePreview.tsx",
+      "group": "china-v2",
+      "bytes": 1154,
+      "sha256": "a20d799c5780865d4435195f5205a892f23608208d8e16a885e8d77c672eb86b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/DataTradeScenes.tsx",
+      "relativePath": "china-v2/DataTradeScenes.tsx",
+      "group": "china-v2",
+      "bytes": 31112,
+      "sha256": "3a4c2c28c77eb91203de3938ccd470d55c4d5bf2a2658f3e4fc7c1490c16cca8",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/PeoplePreview.tsx",
+      "relativePath": "china-v2/PeoplePreview.tsx",
+      "group": "china-v2",
+      "bytes": 3129,
+      "sha256": "21dee1c04686c7de1a23bfb38f5265a4b6bdf1bf6c5d94df1f3afc22f4d5f0af",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/PeoplePrimitives.tsx",
+      "relativePath": "china-v2/PeoplePrimitives.tsx",
+      "group": "china-v2",
+      "bytes": 7560,
+      "sha256": "1a45373ee0cd70530ce1c62a9581afa83f67a00f5e6ee6f599d060cd567131e7",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/PeopleScenes.tsx",
+      "relativePath": "china-v2/PeopleScenes.tsx",
+      "group": "china-v2",
+      "bytes": 28369,
+      "sha256": "1e2e3101fdafeb1076e79d8d5e0f5e91fb5307601ce199b74deaa179d0395cc8",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/SpatialScenes.tsx",
+      "relativePath": "china-v2/SpatialScenes.tsx",
+      "group": "china-v2",
+      "bytes": 26550,
+      "sha256": "d3441bb2ef6fb6b67527c619139240e6dac122fd5c0c2f64f5d58c29d0097567",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/StoryPreview.tsx",
+      "relativePath": "china-v2/StoryPreview.tsx",
+      "group": "china-v2",
+      "bytes": 1093,
+      "sha256": "e55a21a7283b56938589c44e3bb55513656b67141cea65ba6bb3648ccee45f83",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/StoryScenes.tsx",
+      "relativePath": "china-v2/StoryScenes.tsx",
+      "group": "china-v2",
+      "bytes": 15813,
+      "sha256": "01128b94469aad6b93f87199d1d64e8cf368dbe72ab60f65c9402306746b56f5",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-v2/VarietyFilm.tsx",
+      "relativePath": "china-v2/VarietyFilm.tsx",
+      "group": "china-v2",
+      "bytes": 4707,
+      "sha256": "382c0cea02576847d0b68f87fa90dabfb24a735f72449dc5a6eaff9ba3434991",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/china-variety-entry.tsx",
+      "relativePath": "china-variety-entry.tsx",
+      "group": "(root)",
+      "bytes": 452,
+      "sha256": "9ff895ccda8ff3beb4dae08afb6bfc27738f1025917e2026688319a1e0deb008",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Composition.tsx",
+      "relativePath": "Composition.tsx",
+      "group": "(root)",
+      "bytes": 3105,
+      "sha256": "2377d6a07dcf71b2858d7d6ed6b7fdca73a56715b5ce7a77d1852850b7bd71c4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        },
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 44,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/Film.tsx",
+      "relativePath": "directions/Film.tsx",
+      "group": "directions",
+      "bytes": 14803,
+      "sha256": "baff3e8fe35cd417ff6af47cac44e71c32748a7529313c35c8ddb9c61cfe0ce3",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 184,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/Gallery3D.tsx",
+      "relativePath": "directions/Gallery3D.tsx",
+      "group": "directions",
+      "bytes": 5204,
+      "sha256": "9ad9f54652e681537fbf2f91f8ce2b3d282b2ba8f5209e5cd386a7144bebb18e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 123,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/index.ts",
+      "relativePath": "directions/index.ts",
+      "group": "directions",
+      "bytes": 132,
+      "sha256": "48d5d3c2cca9afd2c10116910e18191a482a897aee8940385867f3b06a08f9a2",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 2,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/Shopping3D.tsx",
+      "relativePath": "directions/Shopping3D.tsx",
+      "group": "directions",
+      "bytes": 15957,
+      "sha256": "539458c3a9881851c8e2e3abcbdbfab1111a759788d3f09594eee538d1cabbf2",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 185,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/types.ts",
+      "relativePath": "directions/types.ts",
+      "group": "directions",
+      "bytes": 1755,
+      "sha256": "9771fef47faebf6210f01b4d1cd21d564372bc818a53e1f3f77d17327b591393",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 52,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions-entry.tsx",
+      "relativePath": "directions-entry.tsx",
+      "group": "(root)",
+      "bytes": 737,
+      "sha256": "8c25e784d2acb830bc1dfec97ce47a20e28bc4eb8febc21b23502a0b15ba60d7",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 19,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-Bold.ttf",
+      "relativePath": "economy-story/fonts/BeVietnamPro-Bold.ttf",
+      "group": "economy-story",
+      "bytes": 140300,
+      "sha256": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847",
+      "reviewScope": "binary-font-cmap-and-hash-inspected",
+      "directTextRead": false,
+      "reviewEvidence": [
+        {
+          "method": "FontTools CMAP inspected for sampled Vietnamese vowels/tones; file hash and OFL/source receipt verified. Binary contents not claimed as source lines."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-Regular.ttf",
+      "relativePath": "economy-story/fonts/BeVietnamPro-Regular.ttf",
+      "group": "economy-story",
+      "bytes": 132948,
+      "sha256": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3",
+      "reviewScope": "binary-font-cmap-and-hash-inspected",
+      "directTextRead": false,
+      "reviewEvidence": [
+        {
+          "method": "FontTools CMAP inspected for sampled Vietnamese vowels/tones; file hash and OFL/source receipt verified. Binary contents not claimed as source lines."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/fonts/BeVietnamPro-SemiBold.ttf",
+      "relativePath": "economy-story/fonts/BeVietnamPro-SemiBold.ttf",
+      "group": "economy-story",
+      "bytes": 136736,
+      "sha256": "bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71",
+      "reviewScope": "binary-font-cmap-and-hash-inspected",
+      "directTextRead": false,
+      "reviewEvidence": [
+        {
+          "method": "FontTools CMAP inspected for sampled Vietnamese vowels/tones; file hash and OFL/source receipt verified. Binary contents not claimed as source lines."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/fonts/OFL.txt",
+      "relativePath": "economy-story/fonts/OFL.txt",
+      "group": "economy-story",
+      "bytes": 4397,
+      "sha256": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "reviewer": "Codex source_font_audit",
+          "method": "Complete OFL.txt and sources.json read directly in bounded tool output during merge."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/fonts/sources.json",
+      "relativePath": "economy-story/fonts/sources.json",
+      "group": "economy-story",
+      "bytes": 1217,
+      "sha256": "9274e4206cec0aaf218b2e53ce23e01db88398810d521062f1d5a5d996b64d9f",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "reviewer": "Codex source_font_audit",
+          "method": "Complete OFL.txt and sources.json read directly in bounded tool output during merge."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/fonts.css",
+      "relativePath": "economy-story/fonts.css",
+      "group": "economy-story",
+      "bytes": 535,
+      "sha256": "f086304cb673cc357e8f2db69f3746babe9e46fe0e6de214aea45ec7a3b503fe",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "reviewer": "Codex source_font_audit",
+          "method": "Current EconomyStory source authored and directly reviewed earlier in this session; complete code/font stylesheet/entry read, strict TypeScript checked. Historical23-file targeted subset expanded by delegated reports."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story/index.tsx",
+      "relativePath": "economy-story/index.tsx",
+      "group": "economy-story",
+      "bytes": 18672,
+      "sha256": "6186ddf9729fb8a2907fbd127a148ac9cff1796d0e5324ae5d8e0ad968d28dfa",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "reviewer": "Codex source_font_audit",
+          "method": "Current EconomyStory source authored and directly reviewed earlier in this session; complete code/font stylesheet/entry read, strict TypeScript checked. Historical23-file targeted subset expanded by delegated reports."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story-entry.tsx",
+      "relativePath": "economy-story-entry.tsx",
+      "group": "(root)",
+      "bytes": 584,
+      "sha256": "6d318a7a1e2cb97771cd7046056dcf011a0f9e50305d304533b55a404b893c7e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 7,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/CastSheet.tsx",
+      "relativePath": "finance-cast/CastSheet.tsx",
+      "group": "finance-cast",
+      "bytes": 3183,
+      "sha256": "09f7415549a73940465021439df8e4e678bda56e04b9bca911a86e7c3f20fa4b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/Character.tsx",
+      "relativePath": "finance-cast/Character.tsx",
+      "group": "finance-cast",
+      "bytes": 12341,
+      "sha256": "432479457a26851d8466352380cd0430a922200241ee156a0c8802aca1db6ef6",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/export-cast.cjs",
+      "relativePath": "finance-cast/export-cast.cjs",
+      "group": "finance-cast",
+      "bytes": 1704,
+      "sha256": "eb64ba5672c289832bdfa43ad95816f8f49a2b19035bc249fa989463afbd2edc",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/index.ts",
+      "relativePath": "finance-cast/index.ts",
+      "group": "finance-cast",
+      "bytes": 241,
+      "sha256": "ed34ed87020909ca6b8333032dc19ea7793c6533b29318a06b6e0e2b0563116a",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/preview-entry.tsx",
+      "relativePath": "finance-cast/preview-entry.tsx",
+      "group": "finance-cast",
+      "bytes": 397,
+      "sha256": "df6bc9b80831507200b0e20a3b951da5024cda19188307605de15d2e1d1adb2d",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/README.md",
+      "relativePath": "finance-cast/README.md",
+      "group": "finance-cast",
+      "bytes": 2843,
+      "sha256": "087d52533347ff6f002e1e20655beeb51235b1f5646c049bcd05d543d92bd133",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/roster.ts",
+      "relativePath": "finance-cast/roster.ts",
+      "group": "finance-cast",
+      "bytes": 8501,
+      "sha256": "0f8777226973909f97f01e6f1423c7102818e4f6aa19e92ec41761b11a4bf082",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/CandidateSheet.tsx",
+      "relativePath": "finance-cast-v2/CandidateSheet.tsx",
+      "group": "finance-cast-v2",
+      "bytes": 3520,
+      "sha256": "c6cb501468f16210e9b5d2463195c32dc954a063dec7424dbc3c5acb15d679d4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx",
+      "relativePath": "finance-cast-v2/CharacterV2.tsx",
+      "group": "finance-cast-v2",
+      "bytes": 15870,
+      "sha256": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/index.ts",
+      "relativePath": "finance-cast-v2/index.ts",
+      "group": "finance-cast-v2",
+      "bytes": 187,
+      "sha256": "f03ce0096514163b3d957a40af389b03af48a612f5a97da75f116911e5cfb110",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/README.md",
+      "relativePath": "finance-cast-v2/README.md",
+      "group": "finance-cast-v2",
+      "bytes": 3658,
+      "sha256": "754f5779c9664ac678edf76336e61d9b5571f04d96c68152273c847066114c1b",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-comic/ComicProof.tsx",
+      "relativePath": "finance-comic/ComicProof.tsx",
+      "group": "finance-comic",
+      "bytes": 5574,
+      "sha256": "01a33c68d056e6460746d60dc6ae26492f01cef59f501ae0beddb483ed767a95",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/BudgetScene.tsx",
+      "relativePath": "finance-demo/BudgetScene.tsx",
+      "group": "finance-demo",
+      "bytes": 1652,
+      "sha256": "c35160c369e9e2f7445fc5f1d07ef58bb5ade839e3edf8366aa90958a790323d",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/CastFilm.tsx",
+      "relativePath": "finance-demo/CastFilm.tsx",
+      "group": "finance-demo",
+      "bytes": 2396,
+      "sha256": "389bd999714954ce118e6e94072e97b8b3e29247a85599dc9ac0a86b9c2c4f10",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/DailyScene.tsx",
+      "relativePath": "finance-demo/DailyScene.tsx",
+      "group": "finance-demo",
+      "bytes": 2015,
+      "sha256": "c1d03c38600db5ed0f1177906b43f03b35e9a6d17a4676092b9cc46862bb858c",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/DecisionScene.tsx",
+      "relativePath": "finance-demo/DecisionScene.tsx",
+      "group": "finance-demo",
+      "bytes": 2827,
+      "sha256": "1a0c130cc62cb0b26c375f43972d7f06294b069e3841f506b2809cdcafeb32ce",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/Stage.tsx",
+      "relativePath": "finance-demo/Stage.tsx",
+      "group": "finance-demo",
+      "bytes": 2990,
+      "sha256": "ec6fbc13998715a9cd80c4797b678a1c428bb39fa47bc6e99106331ae3658f71",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/types.ts",
+      "relativePath": "finance-demo/types.ts",
+      "group": "finance-demo",
+      "bytes": 344,
+      "sha256": "cf6f04c76a7c76d03c75ab4a1a372c42d9b417d639f367008b7b256a54d4abeb",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo-entry.tsx",
+      "relativePath": "finance-demo-entry.tsx",
+      "group": "(root)",
+      "bytes": 1715,
+      "sha256": "d715cc937b50ccc8122c4c3187c6d6f4bbb377b29518c2065fafa82d090960ba",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/FlowFilm.tsx",
+      "relativePath": "finance-flow/FlowFilm.tsx",
+      "group": "finance-flow",
+      "bytes": 21454,
+      "sha256": "4b2779230a1121522ddd7087d88a1a83784bbceed173ee76809ded33c9ad92c8",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/index.ts",
+      "relativePath": "finance-flow/index.ts",
+      "group": "finance-flow",
+      "bytes": 37,
+      "sha256": "f3f1705b60646e19843130b1d76c21e5dca81bb59c73eb6f2121fbc73577b20e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/Objects.tsx",
+      "relativePath": "finance-flow/Objects.tsx",
+      "group": "finance-flow",
+      "bytes": 9820,
+      "sha256": "053333166b30d8a89b6f62d611edb3f59b650873bd844d31981d97c8671eb3e4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/README.md",
+      "relativePath": "finance-flow/README.md",
+      "group": "finance-flow",
+      "bytes": 1811,
+      "sha256": "618b10b344ff2ebb378bd64d20248df2690eeaf4ec42e9a96f9a423143c47195",
+      "reviewScope": "source-code-reviewed",
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/timing.ts",
+      "relativePath": "finance-flow/timing.ts",
+      "group": "finance-flow",
+      "bytes": 1494,
+      "sha256": "cb689cb8fb4f24e53fce33652d0e271d1010e5165c4cafb3183e83c25a4693b2",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-comic/art.tsx",
+      "relativePath": "finance-long-comic/art.tsx",
+      "group": "finance-long-comic",
+      "bytes": 9330,
+      "sha256": "b36280a3c5c713a3a9566b1c3f862a4cad559fba07961a005037c4517839800f",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-comic/index.tsx",
+      "relativePath": "finance-long-comic/index.tsx",
+      "group": "finance-long-comic",
+      "bytes": 25764,
+      "sha256": "3480abf8c1246a399dde605381b3e16e5632f1e59ad1cc25258182cd262b495d",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-comic/variants.tsx",
+      "relativePath": "finance-long-comic/variants.tsx",
+      "group": "finance-long-comic",
+      "bytes": 21544,
+      "sha256": "79ba3acc8c59434aaecf02d40a64c5e87aefa44efcd74e56f870e94cccfbdaba",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-entry.tsx",
+      "relativePath": "finance-long-entry.tsx",
+      "group": "(root)",
+      "bytes": 1739,
+      "sha256": "5597aba1bcf7776956771431e416ce2dfb3dffc60066716867f28737cef81d1b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-flow/index.tsx",
+      "relativePath": "finance-long-flow/index.tsx",
+      "group": "finance-long-flow",
+      "bytes": 50787,
+      "sha256": "9788ceff40a36c1c256f7e2511b74be4391bd8c89a54973a0025b4ac9b3c98fe",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-flow/preview.tsx",
+      "relativePath": "finance-long-flow/preview.tsx",
+      "group": "finance-long-flow",
+      "bytes": 1714,
+      "sha256": "b962d872580138ec1e1b065579e8000d1d1951ca16b45b2ae33c1b71e284891a",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/art.tsx",
+      "relativePath": "finance-pace-comic/art.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 9090,
+      "sha256": "224f7931244fa9646765d99c040987cf158f42cbddf821001799decd27b5bd42",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/continuations.tsx",
+      "relativePath": "finance-pace-comic/continuations.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 9702,
+      "sha256": "9f3a5adfc3019aed7bc569a648a11b10da79afd57c55db8181472894ad37153b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/decisions.tsx",
+      "relativePath": "finance-pace-comic/decisions.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 30053,
+      "sha256": "08e86a3019daea93deaa782dd1719ea580553577f8a4c4c3f026f1be810b383c",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/final-states.tsx",
+      "relativePath": "finance-pace-comic/final-states.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 3583,
+      "sha256": "829bd920f3179e4a95b3cdd5d60f8a8a7d5746b1b8e39fac35ea8550f0aac16d",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/index.tsx",
+      "relativePath": "finance-pace-comic/index.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 4213,
+      "sha256": "26ffedc40f84afe186a14455d51fc16de9ca910c24a75d5d471842ce279614ea",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/money-scenes.tsx",
+      "relativePath": "finance-pace-comic/money-scenes.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 25080,
+      "sha256": "9b4dcfce5088707803a16d42b368e4f57291f0de0099236133891a6b7d7a5a29",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/remaining-scenes.tsx",
+      "relativePath": "finance-pace-comic/remaining-scenes.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 5264,
+      "sha256": "7d5d9cefbdd122e0cfb08081207618dd146f9786aefe8ac9ae8df32e6fd17a93",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/timing-scenes.tsx",
+      "relativePath": "finance-pace-comic/timing-scenes.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 9100,
+      "sha256": "fb3abbe31ef96b37e637ac26fb408b8a573b26efa45ea650186006c9eb317ec3",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/types.ts",
+      "relativePath": "finance-pace-comic/types.ts",
+      "group": "finance-pace-comic",
+      "bytes": 622,
+      "sha256": "13759cb0294cc1c69979ed4fd390db054d54385f9a4f8b54d3f9bcceac3a25b9",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-entry.tsx",
+      "relativePath": "finance-pace-entry.tsx",
+      "group": "(root)",
+      "bytes": 1803,
+      "sha256": "c3dff3a385039328b3e952eef57febb396c6865ce661d5dff49bd767e7ebc888",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/art.tsx",
+      "relativePath": "finance-pace-flow/art.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 8385,
+      "sha256": "be0931f0cd7bccc4b4e9ac678ac9205f81d8ef73f30eba63d180ec6c52b9de0f",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/index.tsx",
+      "relativePath": "finance-pace-flow/index.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 1804,
+      "sha256": "ce556dc05d85c001e8b69fff27c5b308f161fd72d85ef2c3ffcca3d90678ba54",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/progressions.tsx",
+      "relativePath": "finance-pace-flow/progressions.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 21691,
+      "sha256": "1e6fd7f5fe6a8376563215fb69cb83d804f423a6581c3e09e3018f9efce9be14",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/scenes.tsx",
+      "relativePath": "finance-pace-flow/scenes.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 42710,
+      "sha256": "113c0cc9f201163e5e7999c7848dd6f14ef52617c89e879005b28481af3edb92",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/types.ts",
+      "relativePath": "finance-pace-flow/types.ts",
+      "group": "finance-pace-flow",
+      "bytes": 2122,
+      "sha256": "1904a64edd8e41c66b40f17715df8d1b94b9086774f6553f3a2686d2ef2e4376",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/index.tsx",
+      "relativePath": "finance-photo/index.tsx",
+      "group": "finance-photo",
+      "bytes": 2620,
+      "sha256": "4958efdfb5c960dc324f171b350003ed94bfd86f027f4aa3172cd4ba0ffc35aa",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/Overlays.tsx",
+      "relativePath": "finance-photo/Overlays.tsx",
+      "group": "finance-photo",
+      "bytes": 4471,
+      "sha256": "5b94b47ff57a3750506d7fecba04a080b90abad02ceb4c250ab1cbce8c828bb6",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/PhotoStage.tsx",
+      "relativePath": "finance-photo/PhotoStage.tsx",
+      "group": "finance-photo",
+      "bytes": 3192,
+      "sha256": "87a2dbed4ea78f65e16d27828a84151058c1a52c5e6dc6cace8405ab81835f68",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/types.ts",
+      "relativePath": "finance-photo/types.ts",
+      "group": "finance-photo",
+      "bytes": 1661,
+      "sha256": "27d75d4284411786421002c40d7982f89fa2d302b4707eb814efcd01cf288afb",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo-entry.tsx",
+      "relativePath": "finance-photo-entry.tsx",
+      "group": "(root)",
+      "bytes": 924,
+      "sha256": "4cae261330a3360069cd2d6d7b7432e4120f91d1b1ef199ae9747f7f7df90c56",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-reset-entry.tsx",
+      "relativePath": "finance-reset-entry.tsx",
+      "group": "(root)",
+      "bytes": 1880,
+      "sha256": "8a88df42f66ff5c5218c7e3621a661f9a92d69003c3f88066f54de7a0ff9a320",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-simple/Minimal.tsx",
+      "relativePath": "finance-simple/Minimal.tsx",
+      "group": "finance-simple",
+      "bytes": 16382,
+      "sha256": "e589330f4af20e32565d5c11773bf7a7ddbf8056a2279146992def94709e5ece",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial, sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-finance-2026-11-14.json",
+          "reviewer": "Codex source_font_audit agent",
+          "method": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/font.json",
+      "relativePath": "font.json",
+      "group": "(root)",
+      "bytes": 61632,
+      "sha256": "bd68159ee0b8d10fe24b9daa2e32f19686f9d8269a79dc8d44203a66298bfa2f",
+      "reviewScope": "structured-data-fully-parsed",
+      "directTextRead": false,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 1,
+            "mode": "full parsed JSON: metadata, every glyph key/record shape and coverage"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/index.ts",
+      "relativePath": "index.ts",
+      "group": "(root)",
+      "bytes": 109,
+      "sha256": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        },
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 4,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/Composition.tsx",
+      "relativePath": "longform/Composition.tsx",
+      "group": "longform",
+      "bytes": 2465,
+      "sha256": "79a933c008dc9f47da862ccd2234abf9f68245b85254cf4f62037aaca1a09bde",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/Objects.tsx",
+      "relativePath": "longform/Objects.tsx",
+      "group": "longform",
+      "bytes": 6945,
+      "sha256": "ac4968cb403965e535686c9eeb160537010012ccd4709dfee29552b87d83526e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/registry.ts",
+      "relativePath": "longform/registry.ts",
+      "group": "longform",
+      "bytes": 1372,
+      "sha256": "f79c8accefcb323e6365a92e0270e8431cf3e872cfb41998e6beb49cecc33d96",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/Scene.tsx",
+      "relativePath": "longform/Scene.tsx",
+      "group": "longform",
+      "bytes": 4267,
+      "sha256": "a44477b9ce72e70e33d400df48defea5cfb060baf31f72d2f140ae5bcad3706f",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial",
+        "Bahnschrift,Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Bundle.tsx",
+      "relativePath": "longform/scenes/Bundle.tsx",
+      "group": "longform",
+      "bytes": 168,
+      "sha256": "99153c79d6351258b633ebf0294aaa10b9c7c3d3e396e66880d5cedd8497ebb7",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Closing.tsx",
+      "relativePath": "longform/scenes/Closing.tsx",
+      "group": "longform",
+      "bytes": 169,
+      "sha256": "781df9586f7bef81dfc09a2e8a525b4f39d9ebb567ed1d02f366c64f7d2a642a",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Company.tsx",
+      "relativePath": "longform/scenes/Company.tsx",
+      "group": "longform",
+      "bytes": 169,
+      "sha256": "d72993a8a920a11708b095268c5965d29383501256d42839259a7529987d1d79",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Context.tsx",
+      "relativePath": "longform/scenes/Context.tsx",
+      "group": "longform",
+      "bytes": 169,
+      "sha256": "55aac670bc728e69a11e689ae44fc474dc1e876b82b5a9a96fab07a39cea2ff8",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Economics.tsx",
+      "relativePath": "longform/scenes/Economics.tsx",
+      "group": "longform",
+      "bytes": 171,
+      "sha256": "1bfbe45b8500262a0700b4a5eadff6e797fd9750d3a11787bc21e57c2b18826a",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Example.tsx",
+      "relativePath": "longform/scenes/Example.tsx",
+      "group": "longform",
+      "bytes": 169,
+      "sha256": "5b38932aa45def794218b48c080ec191aa7c97027ece7a4878dd116ed1a9c35e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Experiment.tsx",
+      "relativePath": "longform/scenes/Experiment.tsx",
+      "group": "longform",
+      "bytes": 172,
+      "sha256": "a72fd61227d455a99d5c0b4f9631e3c60ecdb8fac5c644f55bd3f0aa9e3a128e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Exposure.tsx",
+      "relativePath": "longform/scenes/Exposure.tsx",
+      "group": "longform",
+      "bytes": 170,
+      "sha256": "bbbc1874be2fd30f47a042ea57448e4eb068ec9675478155c6da416e519f83c4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Forecast.tsx",
+      "relativePath": "longform/scenes/Forecast.tsx",
+      "group": "longform",
+      "bytes": 170,
+      "sha256": "e6a2c3efb0079268e6d1a5344865b00978d214b126b75771e541e69c0259f66f",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Hallucination.tsx",
+      "relativePath": "longform/scenes/Hallucination.tsx",
+      "group": "longform",
+      "bytes": 175,
+      "sha256": "76ce5ac913e4bdca22d964f0b747283f074be3e1ac6a40f1e971cca8e0078be0",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Hook.tsx",
+      "relativePath": "longform/scenes/Hook.tsx",
+      "group": "longform",
+      "bytes": 166,
+      "sha256": "0dd64f126a2319ada1eb69928c65e81a7f614eb8d28409969343d37b5b7b8aff",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Map.tsx",
+      "relativePath": "longform/scenes/Map.tsx",
+      "group": "longform",
+      "bytes": 165,
+      "sha256": "3818c1e70e34daeec93d899566fd106aa5c29c9405398b1e7803c42d456237d5",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Meaning.tsx",
+      "relativePath": "longform/scenes/Meaning.tsx",
+      "group": "longform",
+      "bytes": 169,
+      "sha256": "cf9ad3723a178680179830f93c5a4ba88b8ddb99a0cded5d288351b88be17613",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Measure.tsx",
+      "relativePath": "longform/scenes/Measure.tsx",
+      "group": "longform",
+      "bytes": 169,
+      "sha256": "a4e32fe9f91bbd4e6ee6bdc849e0e019de08aab5501a3091fffaa4534cd3da03",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Physical.tsx",
+      "relativePath": "longform/scenes/Physical.tsx",
+      "group": "longform",
+      "bytes": 170,
+      "sha256": "c71f9a07e24fd67bc7fa8528f6240274d964c4c47b13f5150c5f813714d2f6c8",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Portfolio.tsx",
+      "relativePath": "longform/scenes/Portfolio.tsx",
+      "group": "longform",
+      "bytes": 171,
+      "sha256": "7c3dc612e65288ec9ae41cff13b52dac4468ff3efb9d2e273e56f0f13fa6bff5",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Review.tsx",
+      "relativePath": "longform/scenes/Review.tsx",
+      "group": "longform",
+      "bytes": 168,
+      "sha256": "ae3a6d50d5d34471a220621456fd54e631253be5dad3c38f222407b97c6ac1e4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/scenes/Skills.tsx",
+      "relativePath": "longform/scenes/Skills.tsx",
+      "group": "longform",
+      "bytes": 168,
+      "sha256": "4c030cd66265b8bab154804efd98d866d9e78582fbf4e4d928e63a729b27330d",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/longform/types.ts",
+      "relativePath": "longform/types.ts",
+      "group": "longform",
+      "bytes": 348,
+      "sha256": "27ddd6aeb922a8311187deef7656feb3bf9562c84e240edf02a05c1d5b557cce",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Root.tsx",
+      "relativePath": "Root.tsx",
+      "group": "(root)",
+      "bytes": 1497,
+      "sha256": "aee54a79c4ffe126eb2344bcf2e0879122cc37c0eb959b382c9518f45ad64beb",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        },
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 24,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Closing.tsx",
+      "relativePath": "scenes/Closing.tsx",
+      "group": "scenes",
+      "bytes": 1057,
+      "sha256": "db1df33da1e3daf8bf7774427e1dba362004205c8b662fd9824a2c5930cd7e39",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Flow.tsx",
+      "relativePath": "scenes/Flow.tsx",
+      "group": "scenes",
+      "bytes": 903,
+      "sha256": "2673dd1cafab02fe976dbd815f46a5bcc7997e2f47ecd4b98483aac81190a8cb",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Globe.tsx",
+      "relativePath": "scenes/Globe.tsx",
+      "group": "scenes",
+      "bytes": 1276,
+      "sha256": "bde6b4d5c8c8f516277e1afe72272fe3ae70c9e73b3e7ed6221cf1804d675aa6",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Live.tsx",
+      "relativePath": "scenes/Live.tsx",
+      "group": "scenes",
+      "bytes": 1460,
+      "sha256": "b592356318bff085dca47a1eaaaf9017b01fd87a63833487c2f7930e756df0a6",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Bahnschrift"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Numbers.tsx",
+      "relativePath": "scenes/Numbers.tsx",
+      "group": "scenes",
+      "bytes": 805,
+      "sha256": "121d7067cb0bf10599f257f87caa7ff06fa76105efe929af17272648cc899ff4",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/scenes/Thesis.tsx",
+      "relativePath": "scenes/Thesis.tsx",
+      "group": "scenes",
+      "bytes": 1232,
+      "sha256": "37df45ee94ec3424e1cbaa48044dcda786e6d25a3035daef26570934ff23f35f",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-economics-2026-11-14.json",
+          "reviewer": "Codex economics_script",
+          "method": "Complete verbatim text read. Initially truncated business middle files were reopened in full."
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/Composition.tsx",
+      "relativePath": "semantic/Composition.tsx",
+      "group": "semantic",
+      "bytes": 6109,
+      "sha256": "4c836410447b4ed46e1de760232d1bb625b5ef326b27f86f17f47d8f9cd8e79e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 213,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/EmailScenes.tsx",
+      "relativePath": "semantic/EmailScenes.tsx",
+      "group": "semantic",
+      "bytes": 16809,
+      "sha256": "365ddcdc335030fb6693ac4213f134b1ed778e7006e2796b8fb79e52c7263197",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 567,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/index.ts",
+      "relativePath": "semantic/index.ts",
+      "group": "semantic",
+      "bytes": 167,
+      "sha256": "2fd9178d2cc91ad17a4e019a5327b06c6f42eb66d0f732f7d0dd5d9ab735ff2b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 8,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/Objects3D.tsx",
+      "relativePath": "semantic/Objects3D.tsx",
+      "group": "semantic",
+      "bytes": 7630,
+      "sha256": "8f7015ae2605004d5fe7964837a0a8512c14374e0c09fb78329ada536616600e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 245,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/ProcessScenes.tsx",
+      "relativePath": "semantic/ProcessScenes.tsx",
+      "group": "semantic",
+      "bytes": 32580,
+      "sha256": "3e4d1d6e17cac1868d1bbcaa788a00387fbcb442983de549f07ab82358ccbf03",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 1008,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/StoryScenes.tsx",
+      "relativePath": "semantic/StoryScenes.tsx",
+      "group": "semantic",
+      "bytes": 15193,
+      "sha256": "c967f2163676ddabfec37c08b8f8f8bda3e048ffd30fedfc068a797d95d0e87e",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 515,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/theme.ts",
+      "relativePath": "semantic/theme.ts",
+      "group": "semantic",
+      "bytes": 1480,
+      "sha256": "c031d0cb2e7e12486860de5987c042e38eaa9845d491f886e2f0c91ec3ef3faa",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 54,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/types.ts",
+      "relativePath": "semantic/types.ts",
+      "group": "semantic",
+      "bytes": 1509,
+      "sha256": "3e3af2584d386fa1b580a1d41312b0aecd726f9cfb1fd7eeb8cae01df71a6550",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 68,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/UI.tsx",
+      "relativePath": "semantic/UI.tsx",
+      "group": "semantic",
+      "bytes": 8125,
+      "sha256": "2c8e8159f5e518dec861300220e678b7ecbf584ed370a8800e19dff059e1a2f2",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 342,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/Workbench.tsx",
+      "relativePath": "semantic/Workbench.tsx",
+      "group": "semantic",
+      "bytes": 6899,
+      "sha256": "36c7e1a6a7fca3a463ed8de5916731591147a32f6d511508a76fd241a37eacbf",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 213,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic-entry.tsx",
+      "relativePath": "semantic-entry.tsx",
+      "group": "(root)",
+      "bytes": 577,
+      "sha256": "230deaef2cae18ae7f5f03e000c37f2389464671c78675c2cbc2359230b0638d",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 17,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Type.tsx",
+      "relativePath": "Type.tsx",
+      "group": "(root)",
+      "bytes": 773,
+      "sha256": "bf3ca370a5210c4d02eec4425fecb30331c9c00e0891dee82bbd827e0ced5de1",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 10,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/visualstory/Composition.tsx",
+      "relativePath": "visualstory/Composition.tsx",
+      "group": "visualstory",
+      "bytes": 1661,
+      "sha256": "280f59e594acfa2b646f01d97f2e56089bafbbaad8c35233be9ca46fe71fb16b",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 21,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/visualstory/Scene.tsx",
+      "relativePath": "visualstory/Scene.tsx",
+      "group": "visualstory",
+      "bytes": 5212,
+      "sha256": "d34a70513db25dd430036ea3ff3567e2eac836dfa078daac323424f5ca2ed024",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Arial",
+        "Bahnschrift,Arial",
+        "Bahnschrift,Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 47,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/visualstory/types.ts",
+      "relativePath": "visualstory/types.ts",
+      "group": "visualstory",
+      "bytes": 338,
+      "sha256": "f9b4bbbbebf74208bb604bce1d6d7cd87a5791f1ffa12fff495ca724ea348fb6",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 4,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/World.tsx",
+      "relativePath": "World.tsx",
+      "group": "(root)",
+      "bytes": 5303,
+      "sha256": "580350274a90fdc878d2710bded16d35767714629dee4b3576f4e7881b75928c",
+      "reviewScope": "source-code-reviewed",
+      "literalFontFamilies": [
+        "Bahnschrift,Arial,sans-serif"
+      ],
+      "directTextRead": true,
+      "reviewEvidence": [
+        {
+          "report": "workflows/reference-video/src-review-photos-2026-11-14.json",
+          "reviewer": "Codex story_photos",
+          "method": {
+            "fromLine": 1,
+            "throughLine": 73,
+            "mode": "full source text, bounded tool output; no truncated read"
+          }
+        }
+      ]
+    }
+  ],
+  "sampledRenderedVerification": {
+    "revision": "r03",
+    "observer": "Parent agent opened all four actual preflight sheets and reported observations to source-audit agent. Source-audit agent records this attributed review; it did not independently view the sheets.",
+    "scope": "50 midpoint frames, one per narration beat",
+    "observations": [
+      "Sharp contained foreground photographs visible after replacing runtime blur with baked backing.",
+      "No obvious text clipping observed in these samples.",
+      "e40 hides the derived purchasing-power result until later calculation beat."
+    ],
+    "limits": [
+      "Not continuous motion review",
+      "Not continuous audiovisual playback or listening",
+      "Not every frame or every caption",
+      "Not user aesthetic approval"
+    ],
+    "sheets": [
+      {
+        "file": "videos/2026-11-14-o-banh-mi-va-lam-phat/r03/preflight/sheet-01.jpg",
+        "sha256": "c0a0e55146cebd24ebd10a2b95f8105ae6cb383c93fdc4762d22e931710cef86"
+      },
+      {
+        "file": "videos/2026-11-14-o-banh-mi-va-lam-phat/r03/preflight/sheet-02.jpg",
+        "sha256": "5dd932a7b69c511bb02cee52c158391f980d455931db1bafb92a1abb5a6a80b4"
+      },
+      {
+        "file": "videos/2026-11-14-o-banh-mi-va-lam-phat/r03/preflight/sheet-03.jpg",
+        "sha256": "eb85623f5fea23b24083007ebc9d9e19885a5bc7cfbef2414519955ea2adb7d2"
+      },
+      {
+        "file": "videos/2026-11-14-o-banh-mi-va-lam-phat/r03/preflight/sheet-04.jpg",
+        "sha256": "ffcbfd7604b7df88aeb371bf21ed3149c85e062c4ea3f6ae3e25315663b86257"
+      }
+    ]
+  },
+  "performanceChange": {
+    "revision": "r03",
+    "reason": "r02 portrait e56 proof took107.682s for410frames versus30.124s for332frames cover e01 and30.653s for358frames cover e30. Different scenes are not a controlled blur-only benchmark.",
+    "sourceChange": "Asset.backgroundFile optional, contain backdrop uses preprocessed local JPEG without runtime filter; absent backgroundFile uses plain dark stage. Sharp foreground remains absolute inset0 and contain.",
+    "preparation": "Pillow1280x720 center-cover,GaussianBlur23.333px,brightness0.5,quality90; derivatives and source hashes recorded in batch/research/derived-backgrounds.json",
+    "r03MeasuredSpeed": "pending; no speedup percentage claimed",
+    "evidenceFile": "videos/2026-11-14-o-banh-mi-va-lam-phat/r02/proof/proof-receipts.json"
+  },
+  "structuredDataFilesParsed": 2,
+  "binaryFontsInspected": 3,
+  "inventoryOnlyFiles": 0,
+  "delegatedReports": [
+    {
+      "file": "workflows/reference-video/src-review-finance-2026-11-14.json",
+      "sha256": "92d1c9c6aacd0a1e29e6bf37150ed2f0dba0d7c64e5793ea676c7b2bfb70b516",
+      "reportedFiles": 52
+    },
+    {
+      "file": "workflows/reference-video/src-review-economics-2026-11-14.json",
+      "sha256": "51ea4405d243eb19cae2a14b5d057c30dad395873d5d0f97e24722e56ce5f2e7",
+      "reportedFiles": 67
+    },
+    {
+      "file": "workflows/reference-video/src-review-photos-2026-11-14.json",
+      "sha256": "0057b4a29fe0afa1ce9c852434949c6fd4d9d9a0f2c35c6cf81f9b97068bb7b5",
+      "reportedFiles": 27
+    }
+  ],
+  "mergeVerification": {
+    "all150FilesAccounted": true,
+    "allReportFileHashesRechecked": true,
+    "directRead145Parsed2FontBinary3": true,
+    "remainingInventoryOnly": 0,
+    "frozenRenderSourceModified": false
+  }
+}

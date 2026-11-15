@@ -1,0 +1,51 @@
+{
+  "pexelsID": 7405932,
+  "pageURL": "https://www.pexels.com/video/close-up-footage-of-a-breads-inside-an-oven-7405932/",
+  "title": "Baguettes baking in an oven",
+  "creator": "8 K",
+  "fps": [
+    24
+  ],
+  "tags": [
+    "bread",
+    "bakery"
+  ],
+  "id": "pexels-7405932",
+  "file": "assets/raw/pexels-7405932.mp4",
+  "sha256": "b54c87aba84deb4c2e2ff9a248e3e0c13af5c3ff9618a5aff40169bc298bbd89",
+  "bytes": 2512452,
+  "durationSeconds": 24.04,
+  "downloadURL": "https://videos.pexels.com/video-files/7405932/7405932-hd_1280_720_24fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 1.784,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Rows of elongated baguette-shaped rolls bake behind oven glass; warm orange oven light, loaf surfaces change gradually. Low action: use brief oven/energy-cost context, not a long held shot.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-7405932.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 23.8,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 1280,
+  "height": 720,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/close-up-footage-of-a-breads-inside-an-oven-7405932/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

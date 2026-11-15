@@ -1,0 +1,12 @@
+{
+  "frames": 2460,
+  "shots": 38,
+  "wordsCovered": 287,
+  "allWordsCoveredExactlyOnce": true,
+  "audioSHA256": "5b5b1385a4a96d4225869a71c98e83829dc5b850d2658696c43b4c7c4a352320",
+  "sourceAudioSHA256": "5b5b1385a4a96d4225869a71c98e83829dc5b850d2658696c43b4c7c4a352320",
+  "voiceRegenerated": false,
+  "semanticDesignPresent": true,
+  "actualVisualReview": "pending rendered phrase/frame evidence",
+  "userAcceptance": "pending"
+}

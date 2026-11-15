@@ -1,0 +1,12 @@
+{
+  "url": "https://www.youtube.com/watch?v=w3z43Hlzq3c",
+  "file": "reference.mp4",
+  "bytes": 42815279,
+  "sha256": "c289665d902d662003bd1f9660fb300272ca06a4592488b9eb7071b42c0dade2",
+  "streams": [
+    "Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x360 [SAR 1:1 DAR 16:9], 220 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)",
+    "Stream #0:1[0x2](eng): Audio: aac (HE-AAC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 48 kb/s (default)"
+  ],
+  "full_av_decode": "passed",
+  "purpose": "Private reference analysis; not licensed for reuse in outputs"
+}

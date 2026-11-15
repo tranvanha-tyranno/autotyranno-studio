@@ -1,0 +1,17 @@
+{
+  "technicalIntegrity": "passed",
+  "frames": 6150,
+  "seconds": 205,
+  "naturalVoiceSeconds": 203.15,
+  "lastWordEnd": 203.12,
+  "tempo": 1.0,
+  "shots": 24,
+  "uniquePhotos": 19,
+  "allNarrationWordsAligned": true,
+  "publicSource": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\production-public",
+  "sourceInspections": "Recorded actual inspections with matching hashes; machine checks do not establish their semantic truth.",
+  "visualInspection": "Rendered crop, text, timing and motion still require inspection.",
+  "userAcceptance": "pending",
+  "audioListening": "Not established by preparation",
+  "manifestSHA256": "28a5b8784311eeb12e745b0cd10e6de2aab4bd5d698da74530d5501ec1df37fd"
+}

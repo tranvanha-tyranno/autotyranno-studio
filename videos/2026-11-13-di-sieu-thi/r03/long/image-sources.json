@@ -1,0 +1,477 @@
+[
+  {
+    "id": "basket-full",
+    "file": "assets/basket-full.jpg",
+    "sha256": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e",
+    "bytes": 259305,
+    "width": 1920,
+    "height": 1282,
+    "creator": "Kampus Production",
+    "page": "https://www.pexels.com/photo/smiling-woman-carrying-a-grocery-basket-8422688/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Smiling woman in green top holds red basket with leafy greens; background grocery shelves.",
+      "action": "Smiling woman in green top holds red basket with leafy greens; background grocery shelves.",
+      "objects": "Woman carrying basket of fresh produce",
+      "limits": "Neutral completed basket context only; do not attach shame, irresponsibility or claimed overspending to person."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "c5a560ffe1a947c0562259bdee8a3da27305a6ed1ec9099c471b1910191fbc5e",
+      "observations": "Smiling woman in green top holds red basket with leafy greens; background grocery shelves. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "cart-browse",
+    "file": "assets/cart-browse.jpg",
+    "sha256": "cc489ce973f3d62a92a9cef3391dc4d48af40d661d17858ac97f705afbf24520",
+    "bytes": 234180,
+    "width": 1920,
+    "height": 1280,
+    "creator": "Gustavo Fring",
+    "page": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Woman stands behind orange-handle grocery cart by refrigerated cabinets; cart visibly contains produce. Wide aisle recedes.",
+      "action": "Woman stands behind orange-handle grocery cart by refrigerated cabinets; cart visibly contains produce. Wide aisle recedes.",
+      "objects": "Woman choosing groceries beside a full shopping cart",
+      "limits": "Shopping trip context or browsing; does not show what was planned, duration, basket growth or overspending."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "cc489ce973f3d62a92a9cef3391dc4d48af40d661d17858ac97f705afbf24520",
+      "observations": "Woman stands behind orange-handle grocery cart by refrigerated cabinets; cart visibly contains produce. Wide aisle recedes. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "cart-full",
+    "file": "assets/cart-full.jpg",
+    "sha256": "5230b59e3149dd73eb34ca45895343fe27fe2670aaa92b3ebd5374e91d3e7ddc",
+    "bytes": 362629,
+    "width": 1920,
+    "height": 1280,
+    "creator": "Gustavo Fring",
+    "page": "https://www.pexels.com/photo/woman-with-cart-grocery-shopping-in-supermarket-4971949/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Woman bends toward orange-handle cart at aisle end. A pineapple and leafy groceries are visible in cart; bottles on right shelf.",
+      "action": "Woman bends toward orange-handle cart at aisle end. A pineapple and leafy groceries are visible in cart; bottles on right shelf.",
+      "objects": "Woman behind cart among produce",
+      "limits": "Choosing/carrying groceries; not a matched before-after of the same trip and not evidence of an impulse decision."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "5230b59e3149dd73eb34ca45895343fe27fe2670aaa92b3ebd5374e91d3e7ddc",
+      "observations": "Woman bends toward orange-handle cart at aisle end. A pineapple and leafy groceries are visible in cart; bottles on right shelf. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "checkout-couple",
+    "file": "assets/checkout-couple.jpg",
+    "sha256": "87c20097bd209a224304afa2fa1a822d1fe4a6eb633413a0ee2ef1787132ba7b",
+    "bytes": 719913,
+    "width": 1920,
+    "height": 2876,
+    "creator": "Jack Sparrow",
+    "page": "https://www.pexels.com/photo/couple-buying-groceries-at-a-supermarket-4199489/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Portrait frame: couple facing cashier at checkout with register in foreground. People, food and scanner region visible.",
+      "action": "Portrait frame: couple facing cashier at checkout with register in foreground. People, food and scanner region visible.",
+      "objects": "Couple and cashier at grocery checkout",
+      "limits": "Transaction context; contain portrait or crop carefully to keep faces and checkout objects. No basket-before/after or spending claim."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "87c20097bd209a224304afa2fa1a822d1fe4a6eb633413a0ee2ef1787132ba7b",
+      "observations": "Portrait frame: couple facing cashier at checkout with register in foreground. People, food and scanner region visible. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "checkout-wide",
+    "file": "assets/checkout-wide.jpg",
+    "sha256": "7bb74fdc68c4348b56b2f22c18249e5c655ad3d1ca4607582d8d7adbb6d2d661",
+    "bytes": 273301,
+    "width": 1920,
+    "height": 1458,
+    "creator": "Radik 2707",
+    "page": "https://www.pexels.com/photo/cashier-at-supermarket-checkout-counter-36772947/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Older female cashier behind checkout; packaged snacks and small price labels occupy foreground; checkout equipment and store shelves visible.",
+      "action": "Older female cashier behind checkout; packaged snacks and small price labels occupy foreground; checkout equipment and store shelves visible.",
+      "objects": "Products and cashier at supermarket checkout",
+      "limits": "Checkout display context. Labels use foreign prices; do not equate to local prices or accuse this person/store of manipulation."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "7bb74fdc68c4348b56b2f22c18249e5c655ad3d1ca4607582d8d7adbb6d2d661",
+      "observations": "Older female cashier behind checkout; packaged snacks and small price labels occupy foreground; checkout equipment and store shelves visible. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "clip-aisle",
+    "file": "assets/clip-aisle-720p.mp4",
+    "sha256": "27abc57343be844d6ee53cf5a10db2889e31a0ec5bbba296f27442c6e3a8c6d5",
+    "bytes": 5689475,
+    "width": 1280,
+    "height": 720,
+    "creator": "Suika Chan",
+    "page": "https://www.pexels.com/video/customers-shopping-at-supermarket-10901926/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Wide busy supermarket view with Chinese-language department signs, shoppers walking and selecting products. Change of positions across all sampled times shows actual motion.",
+      "action": "Wide busy supermarket view with Chinese-language department signs, shoppers walking and selecting products. Change of positions across all sampled times shows actual motion.",
+      "objects": "Grocery shelf, products, shopper/cart or checkout.",
+      "limits": "Illustrative foreign stock footage. Does not establish the shopper intention, overspending, impulse or payment; original audio is muted."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "27abc57343be844d6ee53cf5a10db2889e31a0ec5bbba296f27442c6e3a8c6d5",
+      "observations": "Wide busy supermarket view with Chinese-language department signs, shoppers walking and selecting products. Change of positions across all sampled times shows actual motion. Root inspected six timed frames across the complete source; bounded derivative retains original speed and visible action."
+    }
+  },
+  {
+    "id": "clip-checkout",
+    "file": "assets/clip-checkout-720p.mp4",
+    "sha256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+    "bytes": 3436555,
+    "width": 1280,
+    "height": 720,
+    "creator": "Gustavo Fring",
+    "page": "https://www.pexels.com/video/woman-getting-things-out-of-grocery-basket-at-billing-counter-5103988/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end.",
+      "action": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end.",
+      "objects": "Grocery shelf, products, shopper/cart or checkout.",
+      "limits": "Illustrative foreign stock footage. Does not establish the shopper intention, overspending, impulse or payment; original audio is muted."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+      "observations": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end. Root inspected six timed frames across the complete source; bounded derivative retains original speed and visible action."
+    }
+  },
+  {
+    "id": "clip-choose",
+    "file": "assets/clip-choose-720p.mp4",
+    "sha256": "bec3cbfdaaeea22a56b25fec66b6e0910d6ea17dbe16a49d3b8b203694c33989",
+    "bytes": 3858513,
+    "width": 1280,
+    "height": 720,
+    "creator": "Gustavo Fring",
+    "page": "https://www.pexels.com/video/customer-picking-food-items-from-a-supermarket-5104001/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Woman with gray/orange shopping cart selects an item, reaches to a high jar shelf, examines a jar, then leans toward cart. See six sampled frames over21.82s.",
+      "action": "Woman with gray/orange shopping cart selects an item, reaches to a high jar shelf, examines a jar, then leans toward cart. See six sampled frames over21.82s.",
+      "objects": "Grocery shelf, products, shopper/cart or checkout.",
+      "limits": "Illustrative foreign stock footage. Does not establish the shopper intention, overspending, impulse or payment; original audio is muted."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "bec3cbfdaaeea22a56b25fec66b6e0910d6ea17dbe16a49d3b8b203694c33989",
+      "observations": "Woman with gray/orange shopping cart selects an item, reaches to a high jar shelf, examines a jar, then leans toward cart. See six sampled frames over21.82s. Root inspected six timed frames across the complete source; bounded derivative retains original speed and visible action."
+    }
+  },
+  {
+    "id": "fridge-check",
+    "file": "assets/fridge-check.jpg",
+    "sha256": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+    "bytes": 789058,
+    "width": 1920,
+    "height": 2880,
+    "creator": "Mike Jones",
+    "page": "https://www.pexels.com/photo/a-woman-opening-a-fridge-8805274/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded.",
+      "action": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded.",
+      "objects": "Woman looking inside open refrigerator",
+      "limits": "Checking fridge contents; not proof fridge is empty, overfull or food spoiled. Use contain portrait."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+      "observations": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "fridge-kitchen",
+    "file": "assets/fridge-kitchen.jpg",
+    "sha256": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+    "bytes": 156748,
+    "width": 1920,
+    "height": 1082,
+    "creator": "Pew Nguyen",
+    "page": "https://www.pexels.com/photo/woman-exploring-fridge-in-cozy-kitchen-36671734/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible.",
+      "action": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible.",
+      "objects": "Woman checks refrigerator in home kitchen",
+      "limits": "Checking inventory before a trip; exact list/contents cannot be read. Strong horizontal context frame."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+      "observations": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "groceries-home",
+    "file": "assets/groceries-home.jpg",
+    "sha256": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc",
+    "bytes": 165445,
+    "width": 1920,
+    "height": 1280,
+    "creator": "Kaboompics.com",
+    "page": "https://www.pexels.com/photo/bags-of-food-on-a-white-table-5842506/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people.",
+      "action": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people.",
+      "objects": "Mesh bags containing produce on white table",
+      "limits": "Home shopping haul and category variety; not the actual purchases of any shopper shown and no waste evident."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc",
+      "observations": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "milk-shelf",
+    "file": "assets/milk-shelf.jpg",
+    "sha256": "8ce67e4259f4cce49439c1eddf3daa04b9d52bf3113b172f158202eddb9807d6",
+    "bytes": 404985,
+    "width": 1920,
+    "height": 1280,
+    "creator": "Nothing Ahead",
+    "page": "https://www.pexels.com/photo/shelves-with-various-milk-boxes-7451957/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Shelves hold colorful cow-milk and plant-milk cartons with prominent brands and shelf price labels. The upper left includes Almond Breeze; many central cartons are dairy.",
+      "action": "Shelves hold colorful cow-milk and plant-milk cartons with prominent brands and shelf price labels. The upper left includes Almond Breeze; many central cartons are dairy.",
+      "objects": "Multiple milk cartons displayed with shelf price labels",
+      "limits": "Milk-category choice and supermarket shelf variety. Not proof all packages are dairy, not a specific claimed Vietnamese milk price."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "8ce67e4259f4cce49439c1eddf3daa04b9d52bf3113b172f158202eddb9807d6",
+      "observations": "Shelves hold colorful cow-milk and plant-milk cartons with prominent brands and shelf price labels. The upper left includes Almond Breeze; many central cartons are dairy. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "phone-list",
+    "file": "assets/phone-list.jpg",
+    "sha256": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d",
+    "bytes": 246099,
+    "width": 1920,
+    "height": 1280,
+    "creator": "Helena Lopes",
+    "page": "https://www.pexels.com/photo/woman-looking-at-a-shopping-list-in-a-supermarket-27175517/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read.",
+      "action": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read.",
+      "objects": "Woman with grocery basket checking smartphone; text on screen is not readable",
+      "limits": "Consulting a phone while shopping; not proof that screen contains exact list or prices. If narration requires readable list, use an original illustrative list separately."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d",
+      "observations": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "plum-price",
+    "file": "assets/plum-price.jpg",
+    "sha256": "296bffca948575dbfc800981bb4cd5acdf8de78c669eab94cdcea25bfe85c7c6",
+    "bytes": 302932,
+    "width": 1920,
+    "height": 1278,
+    "creator": "Andri Arbianto",
+    "page": "https://www.pexels.com/photo/fresh-plums-on-display-at-grocery-store-40914715/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Baskets of dark red plums in foreground; handwritten promotional/price card centered with shelves behind.",
+      "action": "Baskets of dark red plums in foreground; handwritten promotional/price card centered with shelves behind.",
+      "objects": "Plums displayed with price tag",
+      "limits": "Produce display and price-card context only. Exact text partly small/foreign; no claim about current local plum price."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "296bffca948575dbfc800981bb4cd5acdf8de78c669eab94cdcea25bfe85c7c6",
+      "observations": "Baskets of dark red plums in foreground; handwritten promotional/price card centered with shelves behind. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "price-example",
+    "file": "assets/price-example.jpg",
+    "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+    "bytes": 123473,
+    "width": 1920,
+    "height": 1080,
+    "creator": "TYRANNO original illustration",
+    "page": "original:make_pilot_graphics.py",
+    "license": "Original project graphic",
+    "licenseURL": "original:project",
+    "role": "original",
+    "observed": {
+      "subject": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price.",
+      "action": "Static explanatory illustration, not filmed action.",
+      "objects": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price.",
+      "limits": "A teaching example only; no real shop, transaction or price is established."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+      "observations": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic."
+    }
+  },
+  {
+    "id": "sale-shelf",
+    "file": "assets/sale-shelf.jpg",
+    "sha256": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef",
+    "bytes": 250047,
+    "width": 1920,
+    "height": 1280,
+    "creator": "Erik Mclean",
+    "page": "https://www.pexels.com/photo/assorted-labeled-boxes-on-white-shelf-9592528/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Close angled shelf of boxed crackers/snacks; two clear yellow labels show2/$5.50. The higher3.49regular price is crossed out on matching white/colored labels. This is a foreign historical retail example, not a Vietnamese current price.",
+      "action": "Close angled shelf of boxed crackers/snacks; two clear yellow labels show2/$5.50. The higher3.49regular price is crossed out on matching white/colored labels. This is a foreign historical retail example, not a Vietnamese current price.",
+      "objects": "Snack shelf with sale labels and prices",
+      "limits": "Real foreign multi-unit price-display example. Do not translate values into Vietnamese prices or overlay hypothetical30k/50k as if those are printed here."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "48016e9f83d7c3098f17b05255fcac322d69f2b94d5847f1dab157c3cc9771ef",
+      "observations": "Close angled shelf of boxed crackers/snacks; two clear yellow labels show2/$5.50. The higher3.49regular price is crossed out on matching white/colored labels. This is a foreign historical retail example, not a Vietnamese current price. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  },
+  {
+    "id": "shopping-list",
+    "file": "assets/shopping-list.jpg",
+    "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+    "bytes": 94233,
+    "width": 1600,
+    "height": 1100,
+    "creator": "TYRANNO original illustration",
+    "page": "original:make_pilot_graphics.py",
+    "license": "Original project graphic",
+    "licenseURL": "original:project",
+    "role": "original",
+    "observed": {
+      "subject": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list.",
+      "action": "Static explanatory illustration, not filmed action.",
+      "objects": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list.",
+      "limits": "A teaching example only; no real shop, transaction or price is established."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+      "observations": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic."
+    }
+  },
+  {
+    "id": "total-change",
+    "file": "assets/total-change.jpg",
+    "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab",
+    "bytes": 120483,
+    "width": 1920,
+    "height": 1080,
+    "creator": "TYRANNO original illustration",
+    "page": "original:make_pilot_graphics.py",
+    "license": "Original project graphic",
+    "licenseURL": "original:project",
+    "role": "original",
+    "observed": {
+      "subject": "Same hypothetical comparison, revised to label the difference CHI THÊM20.000VND instead of an ambiguous total label. One-versus-two quantities and arithmetic remain unchanged.",
+      "action": "Static explanatory illustration, not filmed action.",
+      "objects": "Same hypothetical comparison, revised to label the difference CHI THÊM20.000VND instead of an ambiguous total label. One-versus-two quantities and arithmetic remain unchanged.",
+      "limits": "A teaching example only; no real shop, transaction or price is established."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab",
+      "observations": "Same hypothetical comparison, revised to label the difference CHI THÊM20.000VND instead of an ambiguous total label. One-versus-two quantities and arithmetic remain unchanged. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic."
+    }
+  },
+  {
+    "id": "vegetables-home",
+    "file": "assets/vegetables-home.jpg",
+    "sha256": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf",
+    "bytes": 217754,
+    "width": 1920,
+    "height": 1280,
+    "creator": "MART PRODUCTION",
+    "page": "https://www.pexels.com/photo/assorted-vegetables-in-a-basket-and-on-a-wooden-table-7890015/",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "role": "stock",
+    "observed": {
+      "subject": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind.",
+      "action": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind.",
+      "objects": "Vegetables unpacked on wooden table",
+      "limits": "Meal ingredients or household inventory; no exact household meal plan or food waste visible."
+    },
+    "inspection": {
+      "status": "inspected",
+      "reviewer": "Codex root",
+      "sha256": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf",
+      "observations": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+    }
+  }
+]

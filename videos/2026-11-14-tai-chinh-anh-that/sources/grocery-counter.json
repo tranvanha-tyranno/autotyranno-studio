@@ -1,0 +1,30 @@
+{
+  "id": "grocery-counter",
+  "pexelsID": 7990767,
+  "sourceURL": "https://www.pexels.com/photo/pregnant-woman-holding-basket-while-sitting-beside-counter-7990767/",
+  "creator": "Ivan S",
+  "theme": "grocery",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/grocery-counter.jpg",
+  "downloadURL": "https://images.pexels.com/photos/7990767/pexels-photo-7990767.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3598,
+  "sha256": "7c39d5926cf1202bbd758e7b10c513ff46d7de07da63829a84243072d5143fa9",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

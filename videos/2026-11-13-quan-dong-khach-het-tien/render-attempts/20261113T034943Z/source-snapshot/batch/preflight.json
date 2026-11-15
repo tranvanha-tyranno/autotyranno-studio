@@ -1,0 +1,33 @@
+{
+  "schema": "business-preflight/1",
+  "validation": {
+    "beats": 58,
+    "words": 2136,
+    "exampleChecks": {
+      "unit": 20000,
+      "discountUnit": 14000,
+      "monthlyBaseUnits": 2400,
+      "monthlyDiscountUnitsCeil": 3429,
+      "preserve60MillionUnitsCeil": 4286,
+      "cashShortfall": -5000000
+    }
+  },
+  "frames": 17848,
+  "seconds": 594.9333333333333,
+  "shots": 58,
+  "lastWordEnd": 593.42,
+  "speed": 1.0,
+  "chapterTakes": 8,
+  "layouts": {
+    "b-chart": 61.233333333333334,
+    "b-closing": 11.2,
+    "b-coffee": 38.46666666666667,
+    "b-paper": 120.33333333333333,
+    "b-photo": 209.9,
+    "b-question": 75.8,
+    "b-split": 78.0
+  },
+  "brandingGate": "No forbidden text in visible render props or spoken script",
+  "userAcceptance": "pending",
+  "audioListening": "not claimed"
+}

@@ -1,0 +1,658 @@
+{
+  "reviewer": "literal_storyboards independent review",
+  "revision": "proofs-v1, before known Three.js occlusion/semantic fixes",
+  "inspectionScope": "Opened pairs-01.jpg through pairs-10.jpg containing all 37 actual frames; additionally read Workbench/QualityCompare source to distinguish state from claimed typing/action.",
+  "userAcceptance": "not established",
+  "continuousPlayback": "not performed",
+  "manualAudioListening": "not performed",
+  "statusMeaning": {
+    "provisional_match": "Core narrated meaning visible in this proof only; no claim of complete animation or aesthetic acceptance.",
+    "reject_semantic": "The required concrete action/object/result is absent or replaced by a declarative label.",
+    "reject_known_blank_3d": "Known blank 3D surface makes the narrated tasks invisible; must be re-rendered.",
+    "reject_reading_load": "A brief clause demands new long reading instead of highlighting an established object."
+  },
+  "statusCounts": {
+    "provisional_match": 22,
+    "weak_match": 2,
+    "reject_known_blank_3d": 5,
+    "needs_action_revision": 1,
+    "needs_legibility_revision": 1,
+    "reject_semantic": 4,
+    "needs_concrete_check_revision": 1,
+    "reject_reading_load": 1
+  },
+  "shots": [
+    {
+      "id": "H01",
+      "status": "provisional_match",
+      "frame": 64,
+      "seconds": 2.1333333333333333,
+      "scene": "work_role",
+      "mode": "remains",
+      "narratedText": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn.",
+      "observed": "Một chức danh kinh doanh chứa năm nhiệm vụ; chỉ Viết email được nhấn nhanh hơn. Phần nghề không bị xóa.",
+      "issues": [],
+      "evidence": {
+        "file": "H01-64.jpg",
+        "sha256": "02d177e28d287c1bc3323907118994cbe7730511d57b2605d476abac4b12954d"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H02",
+      "status": "provisional_match",
+      "frame": 199,
+      "seconds": 6.633333333333334,
+      "scene": "work_role",
+      "mode": "change",
+      "narratedText": "Nhưng một người cũng khó yên tâm nếu phần việc mình làm hằng ngày đang đổi khác.",
+      "observed": "Cùng bảng nhiệm vụ, Viết email chuyển nhãn AI hỗ trợ trong khi kiểm tra/trao đổi/quyết định còn nguyên.",
+      "issues": [],
+      "evidence": {
+        "file": "H02-199.jpg",
+        "sha256": "bdaa28b07d3bff8566b6aac89fbb5a7e73a401a08d2a82b155c0ea6515fa060f"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H03",
+      "status": "weak_match",
+      "frame": 301,
+      "seconds": 10.033333333333333,
+      "scene": "work_role",
+      "mode": "label",
+      "narratedText": "Vậy rốt cuộc, chúng ta nên nhìn vào tên nghề,",
+      "observed": "Tên nghề và các nhiệm vụ cùng thấy, nhưng proof gần như không khác bố cục H01; chưa thấy tách nhãn/zoom vào tên như thiết kế.",
+      "issues": [
+        "Chỉ nhìn proof một mốc không chứng minh có hành động cận/tách nhãn. Cần temporal check hoặc nhấn tên nghề rõ hơn."
+      ],
+      "evidence": {
+        "file": "H03-301.jpg",
+        "sha256": "25b8cc623329319a35c35c41df9c644e49209abfac690ab1c1c93cab0165ca49"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H04",
+      "status": "reject_known_blank_3d",
+      "frame": 379,
+      "seconds": 12.633333333333333,
+      "scene": "task_map",
+      "mode": "all",
+      "narratedText": "hay nhìn vào từng việc mình thực sự làm?",
+      "observed": "Ba mặt phẳng không có nội dung/tên nhiệm vụ, chỉ còn câu một email qua ba bước.",
+      "issues": [
+        "Lỗi texture/geometry che nội dung đã báo root; phải hiện email, nguồn, bảng kiểm/người duyệt thay vì các khối rỗng."
+      ],
+      "evidence": {
+        "file": "H04-379.jpg",
+        "sha256": "f507a59d383a5e45490ffa501ef11cdb3ffd2ff73426e47252498d9e230a2282"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H05",
+      "status": "provisional_match",
+      "frame": 515,
+      "seconds": 17.166666666666668,
+      "scene": "disclaimer",
+      "mode": "scope",
+      "narratedText": "Phần sau là một cách tự rà soát công việc, không phải kết luận về tương lai của mọi nghề.",
+      "observed": "Thông báo tình huống, dữ liệu giả định và không dự báo nghề nghiệp hiện rõ, đúng chức năng disclaimer.",
+      "issues": [],
+      "evidence": {
+        "file": "H05-515.jpg",
+        "sha256": "16668b4fc4187923f48a7d9be86a7d5519fafe5b34b19f6f6192a74937d1e4da"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H06",
+      "status": "provisional_match",
+      "frame": 603,
+      "seconds": 20.1,
+      "scene": "intro",
+      "mode": "workday",
+      "narratedText": "Hãy lấy một ngày làm việc bình thường.",
+      "observed": "Workbench giới thiệu đèn/hồ sơ nguồn, email sai và checklist chưa được gửi trong cùng ví dụ ngày làm việc.",
+      "issues": [
+        "Ảnh đèn trên bàn không tự chứng minh USB-C/không pin; nhãn dữ liệu giả định cần giữ. Không yêu cầu tạo thêm suy luận từ ảnh."
+      ],
+      "evidence": {
+        "file": "H06-603.jpg",
+        "sha256": "b456b19f378df951a4aafa763ee9f737d8f59b034505e6c2c2e7f0b3f56de5e3"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H07",
+      "status": "provisional_match",
+      "frame": 649,
+      "seconds": 21.633333333333333,
+      "scene": "product_facts",
+      "mode": "lookup",
+      "narratedText": "Bạn tìm thông tin,",
+      "observed": "Bố cục Workbench giữ nguyên, hồ sơ nguồn có viền đang chọn và USB-C có dây được tô nền.",
+      "issues": [],
+      "evidence": {
+        "file": "H07-649.jpg",
+        "sha256": "a0935a3c3fea61f71382ff6cd260b91a4d93f8f7a757152394c65430c01ed424"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H08",
+      "status": "needs_action_revision",
+      "frame": 687,
+      "seconds": 22.9,
+      "scene": "email_draft",
+      "mode": "typing",
+      "narratedText": "viết bản đầu,",
+      "observed": "Email panel có viền được chọn, nội dung nháp có trên màn hình và chưa gửi.",
+      "issues": [
+        "Proof và mã Workbench được đọc thêm cho thấy văn bản email đang tĩnh hoàn chỉnh; nhịp viết bản đầu cần một thao tác tạo/nhập ngắn, không chỉ đổi viền."
+      ],
+      "evidence": {
+        "file": "H08-687.jpg",
+        "sha256": "816960e43e3d940f5b4b503aee982da80488a78c0af07113b665151c1d428fe7"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H09",
+      "status": "needs_legibility_revision",
+      "frame": 714,
+      "seconds": 23.8,
+      "scene": "source_check",
+      "mode": "original",
+      "narratedText": "kiểm tra,",
+      "observed": "Cùng Workbench, email Dùng không dây tô đỏ; bảng phải nối Nguồn có dây và Email không dây.",
+      "issues": [
+        "Hai dấu x đỏ đặt cạnh cả Nguồn có dây lẫn Email không dây có thể làm nguồn đúng trông như sai. Giữ nguồn đúng màu trung tính/xanh, chỉ mệnh đề sai đỏ."
+      ],
+      "evidence": {
+        "file": "H09-714.jpg",
+        "sha256": "59e2defd0f19d8cf17ec27cb80a015a770477bb40b70c4fae70219abcac43fca"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H10",
+      "status": "provisional_match",
+      "frame": 734,
+      "seconds": 24.466666666666665,
+      "scene": "customer_reply",
+      "mode": "received",
+      "narratedText": "trao đổi",
+      "observed": "Bong bóng ngắn Đèn có pin? hiện đúng trong ô hội thoại, đang chờ trả lời; bố cục không đổi.",
+      "issues": [],
+      "evidence": {
+        "file": "H10-734.jpg",
+        "sha256": "cdcf7facc3fa917fdb403ac079bba959a6dae69090c572e5db5fda063a03844f"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H11",
+      "status": "provisional_match",
+      "frame": 766,
+      "seconds": 25.533333333333335,
+      "scene": "decision",
+      "mode": "human",
+      "narratedText": "và đưa ra quyết định.",
+      "observed": "Người duyệt Bạn có ba lựa chọn Sửa trả lời / Không gửi / Duyệt bản đúng, chọn Không gửi trong Workbench.",
+      "issues": [],
+      "evidence": {
+        "file": "H11-766.jpg",
+        "sha256": "dcdabb2dd54bbc5a382bb17a615280980b25e13e60d907292b38fd4e427cfa14"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H12",
+      "status": "provisional_match",
+      "frame": 834,
+      "seconds": 27.8,
+      "scene": "work_role",
+      "mode": "bundled",
+      "narratedText": "Những việc ấy nằm chung trong một chức danh,",
+      "observed": "Các nhiệm vụ được đặt trong một chức danh, thể hiện đúng quan hệ nhiều việc/chung nghề.",
+      "issues": [],
+      "evidence": {
+        "file": "H12-834.jpg",
+        "sha256": "03acb8329991f1acf82e6a3082ccef6afab53989cabd0bb99d1fcc64207771b1"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H13",
+      "status": "weak_match",
+      "frame": 902,
+      "seconds": 30.066666666666666,
+      "scene": "decision",
+      "mode": "responsibility",
+      "narratedText": "nhưng không có cùng mức độ cần con người.",
+      "observed": "Nguồn, nhu cầu khách, trách nhiệm gửi và Bạn quyết định hiện cụ thể.",
+      "issues": [
+        "Thiếu đối chiếu ngay trong khung phần AI hỗ trợ tạo nháp với phần bạn xác minh; hiện tại nghiêng về khẩu hiệu trách nhiệm, vẫn liên quan nhưng chưa làm rõ mức độ vai trò khác nhau."
+      ],
+      "evidence": {
+        "file": "H13-902.jpg",
+        "sha256": "fbf1a2db7c0af3f5c6a17b67242484572f74c76a27576ed8a5a43e61cff8f89b"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H14",
+      "status": "reject_known_blank_3d",
+      "frame": 999,
+      "seconds": 33.3,
+      "scene": "task_map",
+      "mode": "question",
+      "narratedText": "Vì vậy, thay vì hỏi máy có thay mình không, thử hỏi:",
+      "observed": "Ba card 3D rỗng trong đoạn đổi câu hỏi từ thay nghề sang từng việc.",
+      "issues": [
+        "Cần vật thể email/nguồn/người duyệt có nội dung; đã biết cùng lỗi geometry."
+      ],
+      "evidence": {
+        "file": "H14-999.jpg",
+        "sha256": "d00a341612a5f957944774195e4a5499b6aafeb805d61ee1601f87e71217bdaf"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H15",
+      "status": "reject_known_blank_3d",
+      "frame": 1065,
+      "seconds": 35.5,
+      "scene": "task_map",
+      "mode": "draft",
+      "narratedText": "phần nào có thể tạo nháp,",
+      "observed": "Card đầu sáng nhưng trống, caption nói có thể tạo nháp.",
+      "issues": [
+        "Phải nhìn được bản email nháp, không chỉ thẻ màu."
+      ],
+      "evidence": {
+        "file": "H15-1065.jpg",
+        "sha256": "7e6ef2878519e11660fa604f19bf28d44df08cb328fe6ad6d04ebc914cd48e6a"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H16",
+      "status": "reject_known_blank_3d",
+      "frame": 1109,
+      "seconds": 36.96666666666667,
+      "scene": "task_map",
+      "mode": "review",
+      "narratedText": "phần nào phải đối chiếu,",
+      "observed": "Card giữa sáng nhưng trống, caption nói đối chiếu nguồn.",
+      "issues": [
+        "Phải thấy trường nguồn và trường email được nối/so; không chỉ thẻ màu."
+      ],
+      "evidence": {
+        "file": "H16-1109.jpg",
+        "sha256": "22be8d6eb5c832c45ddb0adae03ef3e7770347402ae8137680609af662d8ae5c"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H17",
+      "status": "reject_known_blank_3d",
+      "frame": 1165,
+      "seconds": 38.833333333333336,
+      "scene": "task_map",
+      "mode": "decide",
+      "narratedText": "và phần nào cần mình chịu trách nhiệm?",
+      "observed": "Card cuối sáng nhưng trống, câu trách nhiệm nằm ngoài card.",
+      "issues": [
+        "Phải thấy Người duyệt: Bạn và lựa chọn không gửi/sửa/duyệt; không chỉ thẻ màu."
+      ],
+      "evidence": {
+        "file": "H17-1165.jpg",
+        "sha256": "0e3d154c1eda1c559139ed6f95e726a08a3bbf3284ced9465a4204312e92665f"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H18",
+      "status": "provisional_match",
+      "frame": 1238,
+      "seconds": 41.266666666666666,
+      "scene": "email_prompt",
+      "mode": "structure",
+      "narratedText": "Bạn có thể nhờ công cụ gợi ý cấu trúc.",
+      "observed": "Khung cấu trúc email có Chào khách/Giới thiệu/Đối chiếu nhu cầu/Hỏi lại; nhãn chưa điền cam kết tính năng. Ảnh tay gõ chỉ hỗ trợ thao tác.",
+      "issues": [],
+      "evidence": {
+        "file": "H18-1238.jpg",
+        "sha256": "643887ef903e074b6ee8fbc3f9d8ad135a3948ae21aec8e013393c93c72c7cce"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H19",
+      "status": "provisional_match",
+      "frame": 1305,
+      "seconds": 43.5,
+      "scene": "source_check",
+      "mode": "mismatch",
+      "narratedText": "Nhưng khi một con số không khớp,",
+      "observed": "Nguồn giá 1.200.000đ và nháp 120.000đ cùng nhìn thấy, nhãn Thông tin chưa khớp.",
+      "issues": [
+        "Dấu thiếu một số 0 chưa được khoanh cụ thể trong proof; có thể làm rõ bằng highlight đúng chữ số thay vì cả số."
+      ],
+      "evidence": {
+        "file": "H19-1305.jpg",
+        "sha256": "2063686a695209f8fc8cb8d17317a67052b57ccf688ea9a98a3027d3c8d21baa"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H20",
+      "status": "provisional_match",
+      "frame": 1352,
+      "seconds": 45.06666666666667,
+      "scene": "source_check",
+      "mode": "reconcile",
+      "narratedText": "bạn cần quay về nguồn.",
+      "observed": "Bảng nguồn và nháp đã sửa cùng giá 1.200.000đ, nháp cũng nêu USB-C có dây/Không pin.",
+      "issues": [
+        "Đây là trạng thái sau sửa; ảnh một mốc không chứng minh con trỏ mở/đọc nguồn, chỉ xác nhận hai giá đã khớp trên frame."
+      ],
+      "evidence": {
+        "file": "H20-1352.jpg",
+        "sha256": "5be113fca7c4dbde99b98f948f7fd47d65817621fac7195ef46087906188c81d"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H21",
+      "status": "provisional_match",
+      "frame": 1413,
+      "seconds": 47.1,
+      "scene": "customer_reply",
+      "mode": "upset",
+      "narratedText": "Khi khách hàng đang bức xúc,",
+      "observed": "Hội thoại giả định nói email hứa không dây nhưng rút cáp đèn không sáng; 3D đèn và cáp rời, nhãn Rút cáp/Đèn tắt/Không pin.",
+      "issues": [
+        "Proof cho thấy trạng thái rời, chưa xác nhận chuyển động rút cáp/tắt đèn theo thời gian."
+      ],
+      "evidence": {
+        "file": "H21-1413.jpg",
+        "sha256": "2863190a65dc6ca125d9fae502f48d77b4698c466f21ea973b995a7fa58236ce"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H22",
+      "status": "provisional_match",
+      "frame": 1497,
+      "seconds": 49.9,
+      "scene": "feedback",
+      "mode": "polite_only",
+      "narratedText": "một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề.",
+      "observed": "Câu khách cần mang đèn đến nơi không ổ cắm và lời trả lời lịch sự nhưng chung chung cùng hiện; nhãn chưa giải quyết nhu cầu.",
+      "issues": [],
+      "evidence": {
+        "file": "H22-1497.jpg",
+        "sha256": "7a4385f20630b3ea2f66eff799820ad715f85baae87459c8ec4cc026ceed4c2f"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H23",
+      "status": "provisional_match",
+      "frame": 1561,
+      "seconds": 52.03333333333333,
+      "scene": "quality_compare",
+      "mode": "definitions",
+      "narratedText": "Đây là điểm cần phân biệt:",
+      "observed": "Nháp ban đầu có hình thức email hoàn chỉnh nhưng sai tính năng/giá cạnh bốn điều cần kiểm, checkbox rỗng.",
+      "issues": [],
+      "evidence": {
+        "file": "H23-1561.jpg",
+        "sha256": "a795b2a05a847d374ebff1bf8bdac1890f6f27bb70e35cea4bab7215d7987eb0"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H24",
+      "status": "provisional_match",
+      "frame": 1617,
+      "seconds": 53.9,
+      "scene": "quality_compare",
+      "mode": "appearance",
+      "narratedText": "đầu ra trông có vẻ hoàn chỉnh,",
+      "observed": "Email cũ sai được ghi BẢN NHÁP BAN ĐẦU, nên giá 120.000đ xuất hiện lại có phân biệt bản cũ; câu không dây vẫn đỏ.",
+      "issues": [],
+      "evidence": {
+        "file": "H24-1617.jpg",
+        "sha256": "db1354836f12c86d43e8b1475b172e917eb01ca55c6826943f956524438f8151"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H25",
+      "status": "reject_semantic",
+      "frame": 1690,
+      "seconds": 56.333333333333336,
+      "scene": "quality_compare",
+      "mode": "completion",
+      "narratedText": "và một công việc thật sự được hoàn thành.",
+      "observed": "Bên trái vẫn là nháp cũ sai; bên phải chỉ checkbox xanh Đúng tính năng/Đúng giá/Hiểu khách cần dùng ở đâu/Bạn chịu trách nhiệm.",
+      "issues": [
+        "Không có bản email đã sửa hoặc câu trả lời cụ thể nói đèn cần dây nên chưa phù hợp nhu cầu dùng xa nguồn. Chỉ đánh dấu đã xong mà chưa cho thấy kết quả hoàn thành. Cần hiện câu đúng/giá đúng/nhu cầu đúng trong kết quả, từng check gắn căn cứ."
+      ],
+      "evidence": {
+        "file": "H25-1690.jpg",
+        "sha256": "949aa8004239e30245f18e1cb4fc6100b01b8595fbb65ea89b35586fcbc8eaa9"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H26",
+      "status": "needs_concrete_check_revision",
+      "frame": 1783,
+      "seconds": 59.43333333333333,
+      "scene": "review_work",
+      "mode": "checklist",
+      "narratedText": "Khoảng cách giữa hai điều đó chính là chỗ để kiểm tra,",
+      "observed": "Câu hỏi kiểm tính năng/giá/nhu cầu hiện thành danh sách, luồng AI nháp→Bạn kiểm tra.",
+      "issues": [
+        "Chưa có tài liệu hoặc thao tác kiểm đang được thực hiện; yêu cầu là làm thấy công việc kiểm tra giữa nháp và duyệt. Có thể ghim nguồn và vết sửa đã biết vào chính checklist, không chỉ hỏi bằng chữ."
+      ],
+      "evidence": {
+        "file": "H26-1783.jpg",
+        "sha256": "f19bbdced1adf57e875983e99256b62f0eab55a47f6bfc37340980df1a0aef42"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H27",
+      "status": "reject_reading_load",
+      "frame": 1826,
+      "seconds": 60.86666666666667,
+      "scene": "context",
+      "mode": "client_need",
+      "narratedText": "hiểu bối cảnh",
+      "observed": "Hai panel mới đầy chữ về nhu cầu không ổ cắm và câu Dùng không dây xuất hiện trong đoạn chỉ 0,7 giây.",
+      "issues": [
+        "Vi phạm displayPolicy của shot ngắn: cần giữ giao diện đã biết, chỉ tô lại Không có ổ cắm / biểu tượng nguồn. Không mở hai đoạn mới người xem phải đọc."
+      ],
+      "evidence": {
+        "file": "H27-1826.jpg",
+        "sha256": "4ceefad435cc6f54553018ebbfbe90dfd26b83a10016b803b2ceb87a038ec2a6"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H28",
+      "status": "reject_semantic",
+      "frame": 1857,
+      "seconds": 61.9,
+      "scene": "decision",
+      "mode": "human",
+      "narratedText": "và quyết định.",
+      "observed": "Chỉ có Bạn quyết định và ba câu nhắc nguồn/nhu cầu/chỉ gửi khi hiểu, không có lựa chọn quyết định cụ thể.",
+      "issues": [
+        "Lời quyết định cần cho thấy thao tác chọn Sửa trả lời / Nói rõ chưa phù hợp hoặc Không gửi, gắn với nhu cầu. Khẩu hiệu trách nhiệm không thay hành động quyết định."
+      ],
+      "evidence": {
+        "file": "H28-1857.jpg",
+        "sha256": "1dcae022ca38dde422f7a89e1d788aba0d3cef7966054cd131401f162bc2670d"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H29",
+      "status": "provisional_match",
+      "frame": 1916,
+      "seconds": 63.86666666666667,
+      "scene": "trial",
+      "mode": "choose",
+      "narratedText": "Hôm nay, hãy chọn một nhiệm vụ.",
+      "observed": "Nhiệm vụ Nháp email Mẫu A được chọn duy nhất, hai nhiệm vụ khác để mờ và nhãn chỉ chọn một việc.",
+      "issues": [],
+      "evidence": {
+        "file": "H29-1916.jpg",
+        "sha256": "35bf0ddb24d824ea642cf7429b3fd92eb2be71d57863c99562dd20eaae56bcdb"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H30",
+      "status": "provisional_match",
+      "frame": 1968,
+      "seconds": 65.6,
+      "scene": "trial",
+      "mode": "criteria",
+      "narratedText": "Viết rõ tiêu chuẩn đạt,",
+      "observed": "Bốn tiêu chí đạt cụ thể có checkbox rỗng: đúng tính năng nguồn, đúng giá/đơn vị, đúng nhu cầu, không còn lỗi chưa kiểm. Không tự xanh.",
+      "issues": [],
+      "evidence": {
+        "file": "H30-1968.jpg",
+        "sha256": "ed349a37f3a5fb726d4530af309c37d2dcb022b9def1f1e5e1407148db4939af"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H31",
+      "status": "provisional_match",
+      "frame": 2020,
+      "seconds": 67.33333333333333,
+      "scene": "trial",
+      "mode": "dummy_data",
+      "narratedText": "thử bằng dữ liệu giả định,",
+      "observed": "Ghi rõ chỉ dùng dữ liệu giả định, Mẫu A, vidu.invalid và không dùng dữ liệu khách hàng thật.",
+      "issues": [],
+      "evidence": {
+        "file": "H31-2020.jpg",
+        "sha256": "7cc63145bec5098f45d97342f93f885683e5c4137fd97fa254ad64095c54809c"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H32",
+      "status": "reject_semantic",
+      "frame": 2065,
+      "seconds": 68.83333333333333,
+      "scene": "trial",
+      "mode": "compare",
+      "narratedText": "rồi tự so kết quả.",
+      "observed": "Ba card chỉ có biểu tượng/tên Bản gốc / Kết quả AI / Phần bạn sửa và câu So từng tính năng, con số và cách trả lời.",
+      "issues": [
+        "Không có dữ liệu hoặc đầu ra nào để thực sự so. Đây là nhãn về hành động chứ chưa diễn đạt hành động. Cần đặt nguồn và nháp/bản sửa cụ thể cạnh tiêu chí, với một trường đang được đối chiếu."
+      ],
+      "evidence": {
+        "file": "H32-2065.jpg",
+        "sha256": "2dde13e12c4377d2bb7e589d011b88a3d8dd4ecacfd805b5c8ebc24fee04cccd"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H33",
+      "status": "provisional_match",
+      "frame": 2110,
+      "seconds": 70.33333333333333,
+      "scene": "time_log",
+      "mode": "repair",
+      "narratedText": "Đo cả thời gian sửa.",
+      "observed": "13 phút kiểm tra/sửa nổi rõ cạnh bảng 12 phút cũ, 2 phút nháp, 13 phút sửa và 2+13=15; có nhãn dữ liệu giả định.",
+      "issues": [],
+      "evidence": {
+        "file": "H33-2110.jpg",
+        "sha256": "48dee15fe4e5ca2a5712dc534a979753712352eedc1ff3d9b44018448e9fefdd"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H34",
+      "status": "reject_semantic",
+      "frame": 2194,
+      "seconds": 73.13333333333334,
+      "scene": "quality_gate",
+      "mode": "pass",
+      "narratedText": "Chỉ giữ cách làm khi bạn kiểm soát được chất lượng.",
+      "observed": "Tiêu đề Đã kiểm soát chất lượng, USB-C có dây/1.200.000đ và câu Khớp nguồn và kiểm tra được, Bạn biết vì sao kết quả đúng.",
+      "issues": [
+        "Đây là tự khẳng định đạt; không hiện các tiêu chí và căn cứ đầy đủ, thiếu việc đã giải quyết đúng nhu cầu khách. Nên hiện điều kiện Nếu bạn xác minh được từng mục cùng nguồn/nhu cầu và mở nút Giữ cách làm sau kiểm, không tự nhận đã kiểm soát."
+      ],
+      "evidence": {
+        "file": "H34-2194.jpg",
+        "sha256": "b8d60202e54f72da74a9a963f80fc2d5e0fb6335633a13a8faf491ee136ccb36"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H35",
+      "status": "provisional_match",
+      "frame": 2267,
+      "seconds": 75.56666666666666,
+      "scene": "comment_cta",
+      "mode": "question",
+      "narratedText": "Bạn muốn bóc tách nhiệm vụ nào tiếp theo?",
+      "observed": "Ba nhiệm vụ cụ thể để chọn và ô viết nhiệm vụ muốn bóc tách; đúng lời mời bình luận liên quan.",
+      "issues": [],
+      "evidence": {
+        "file": "H35-2267.jpg",
+        "sha256": "9540d46b3bfae771eca1760907bfd768fb193d513eb93efbc91b87f631a879ec"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H36",
+      "status": "provisional_match",
+      "frame": 2338,
+      "seconds": 77.93333333333334,
+      "scene": "comment_cta",
+      "mode": "example",
+      "narratedText": "Hãy để lại một ví dụ dưới bình luận,",
+      "observed": "Ô bình luận có ví dụ Tôi muốn thử đối chiếu bảng số và nút Để lại một ví dụ; không có số tương tác giả.",
+      "issues": [],
+      "evidence": {
+        "file": "H36-2338.jpg",
+        "sha256": "6296feec5cab5e38b3929883b88d5da32b7783bcafb7482140c1efec67075558"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    },
+    {
+      "id": "H37",
+      "status": "provisional_match",
+      "frame": 2453,
+      "seconds": 81.76666666666667,
+      "scene": "subscribe",
+      "mode": "follow",
+      "narratedText": "và đăng ký TYRANNO để cùng quan sát công việc đang thay đổi.",
+      "observed": "End card TYRANNO, nút Đăng ký và ba nhãn Tạo nháp/Kiểm tra/Quyết định; câu cuối giữ ở frame proof.",
+      "issues": [
+        "Không thấy ba vật thể hồ sơ/email/bảng kiểm như thiết kế; nửa phải trống, nhưng chức năng lời mời theo dõi vẫn được thể hiện. Đây là hạn chế bố cục, không phải lỗi mất nghĩa CTA."
+      ],
+      "evidence": {
+        "file": "H37-2453.jpg",
+        "sha256": "a1aa60f39cb76f803126221c104b345e3a198078348db7ab504060f9b9239a70"
+      },
+      "scope": "Viewed actual single proof frame paired with narration/requirements; no continuous playback or audio listening. Motion not certified from still."
+    }
+  ]
+}

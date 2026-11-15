@@ -1,0 +1,105 @@
+{
+  "bundleDependenciesSHA256": "9c27233d459fc27ad456afef28c288ed18d84f014e0e032c22cd3e43be27492b",
+  "styles": {
+    "comic": {
+      "decision": "ready_for_long_render",
+      "method": "temporal_scene_review",
+      "clips": [
+        {
+          "beat": "b01",
+          "sha256": "6625895e0960561ce30ce06737eb0d54ca8e71027814456f14fbe39afb3d25fc"
+        },
+        {
+          "beat": "b15",
+          "sha256": "0fbc21893a62fb5b18b99474e09173e7528dc3d0367dc5bb32cae5d5f571897b"
+        },
+        {
+          "beat": "b17",
+          "sha256": "29631f0278cf7a65e87341a0dd1e6a2d348300b25148777cff93a7ba9d4c6324"
+        },
+        {
+          "beat": "b25",
+          "sha256": "ff6facf40c559fb04116652b8701a246cb7b090058587dcd82a5b3b5b104e9bf"
+        },
+        {
+          "beat": "b26",
+          "sha256": "680fd8389a3d64d3ac349c43a178166588471cfa7e5bdec089574a5d99d8a19c"
+        },
+        {
+          "beat": "b31",
+          "sha256": "94604c19497606f9118bcee35e875ed2584257e50ffe042185386ef1c7f8db6f"
+        },
+        {
+          "beat": "b42",
+          "sha256": "9bf0a0bad14e93999b00327446cfa0f39bb995b48f78c1229ccd2ff278289b0b"
+        },
+        {
+          "beat": "subscribe",
+          "sha256": "62bca804640821dd77ca1db25e7e8beade0a16868da3546ac7af289ec0f2c662"
+        }
+      ],
+      "observations": [
+        "New short shot sequences progress through allocations, comparisons and consequences instead of replaying the opening.",
+        "Transfer, cash withdrawal and duplicate recording are distinct; essential needs and protected health actions are separated.",
+        "Subscribe, bell and writing/send states develop across the exact new outro."
+      ],
+      "basis": [
+        "Complete real-time browser playback verified",
+        "Ordered dense frame sequences across all representative intervals",
+        "All186shot static layout/state review"
+      ],
+      "scope": "Internal readiness to render; not user approval or proof of perfect style. Some similar short terminal compositions remain."
+    },
+    "flow": {
+      "decision": "ready_for_long_render",
+      "method": "temporal_scene_review",
+      "clips": [
+        {
+          "beat": "b01",
+          "sha256": "9c2a1a3c4a36a8692d540770b3f75515f3fa3c4cf83e7a432ca9455d3ea4188c"
+        },
+        {
+          "beat": "b15",
+          "sha256": "d4f2fb5f1eefacfb5e2819721f4a85017966562c65250a7b94f566bf66edf8d2"
+        },
+        {
+          "beat": "b17",
+          "sha256": "07efb6a94560242866ed608165f968a41983c293994ba8876b080468016d64c4"
+        },
+        {
+          "beat": "b25",
+          "sha256": "a44a60868e69c6dd1229c54959081a2fa34d9c692ee40ef9429c44a8c2204d33"
+        },
+        {
+          "beat": "b26",
+          "sha256": "c29ee145491883e95cf998f60f6695db85b692f2f690475703704ed522fa8bfd"
+        },
+        {
+          "beat": "b31",
+          "sha256": "db6d9585d652e5d7b025974ca425c8c58fe03e3ef99941c8d8b173b0ec8fa377"
+        },
+        {
+          "beat": "b42",
+          "sha256": "e383222e3b8a0aa90091f54499ed62c6a32ab8508cb64c970360ac623ed18a56"
+        },
+        {
+          "beat": "subscribe",
+          "sha256": "7a746d11222b8255dbf0393666f3c78bfc984b0b8b74f6b9188bfa70919daf3b"
+        }
+      ],
+      "observations": [
+        "Two-to-four second phrase shots replace the previous single beat canvas; main numerical results remain on screen when stated.",
+        "Timing, assignment, receipt decisions and purchase actions use distinct states; illustrative amounts remain consistent.",
+        "Some descriptive primitive text exceeds its icon face but remains inside the video; short terminal compositions/callbacks remain."
+      ],
+      "basis": [
+        "Complete real-time browser playback verified",
+        "Ordered dense frame sequences across all representative intervals",
+        "All186shot static layout/state review"
+      ],
+      "scope": "Internal readiness to render; not user approval or proof of perfect style. Some similar short terminal compositions remain."
+    }
+  },
+  "fullFilmContinuousAVReview": false,
+  "userApproval": "pending"
+}

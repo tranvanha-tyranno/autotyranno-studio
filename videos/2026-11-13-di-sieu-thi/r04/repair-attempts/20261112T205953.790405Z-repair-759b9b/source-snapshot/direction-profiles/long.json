@@ -1,0 +1,256 @@
+{
+  "id": "tyranno-long-inspired",
+  "direction": "long",
+  "title": "AI làm hộ bản nháp. Ai chịu trách nhiệm?",
+  "reference": "Lóng — học cách đặt vấn đề, ví dụ gần gũi và nhịp khám phá; không sao chép lời, hình, nhạc hay nhận diện",
+  "status": "new-direction-awaiting-user-review",
+  "sourceBatch": "videos/2026-11-12-ai-va-cong-viec-anh-that",
+  "artDirection": {
+    "palette": [
+      "#f3ead9",
+      "#14181c",
+      "#f46e4f"
+    ],
+    "pace": "direct, lively, evidence-driven",
+    "media": "Real illustrative internet photographs lead; short photo-based 3D galleries explain relationships",
+    "sound": "Approved Nhật Phong voice, speech-first mix and contextual Foley"
+  },
+  "sections": [
+    {
+      "phase": "hook",
+      "text": "Bạn giao cho AI viết một email chào hàng. Vài giây sau, bản nháp đã nằm trên màn hình. Nhưng nếu nó hứa sai một tính năng, ai là người phải trả lời khách? Nhanh thì có nhanh. Nhưng công việc đã xong, hay mới chuyển sang một người khác ngồi sửa?",
+      "shots": [
+        {
+          "phrase": "Bạn giao cho AI",
+          "layout": "full",
+          "images": [
+            "typing-photo"
+          ],
+          "eyebrow": "MỘT TÌNH HUỐNG QUEN THUỘC",
+          "headline": "AI viết hộ."
+        },
+        {
+          "phrase": "Vài giây sau",
+          "layout": "full",
+          "images": [
+            "notes"
+          ]
+        },
+        {
+          "phrase": "Nhưng nếu nó hứa sai",
+          "layout": "diptych",
+          "images": [
+            "pens-proof",
+            "support-agent"
+          ],
+          "headline": "Ai trả lời khách?"
+        },
+        {
+          "phrase": "Nhanh thì có nhanh",
+          "layout": "full",
+          "images": [
+            "review-docs"
+          ],
+          "headline": "Nhanh ≠ xong"
+        }
+      ]
+    },
+    {
+      "phase": "disclaimer",
+      "text": "Đây là tình huống minh họa để bàn về công việc, không phải dự báo nghề nghiệp của từng người.",
+      "shots": [
+        {
+          "phrase": "Đây là tình huống",
+          "layout": "evidence",
+          "images": [
+            "discussion"
+          ],
+          "eyebrow": "LƯU Ý",
+          "headline": "Tình huống minh họa",
+          "body": "Không phải dự báo nghề nghiệp của từng người."
+        }
+      ]
+    },
+    {
+      "phase": "content",
+      "text": "Cứ nhìn một email tưởng như rất đơn giản. Trước khi viết, bạn phải hiểu sản phẩm, biết người đọc đang cần gì và chọn điều có thể cam kết. Sau khi viết, bạn còn phải kiểm tra số liệu, sửa giọng điệu, rồi theo dõi phản hồi. AI có thể hỗ trợ bản nháp. Nhưng bản nháp chưa phải kết quả cuối cùng. Một câu nghe trơn tru vẫn có thể thiếu bối cảnh. Một bảng nhìn rất gọn vẫn cần đối chiếu với tài liệu gốc. Thử tách công việc thành ba phần: tạo bản đầu, kiểm tra, và quyết định. Đừng gom cả ba vào một nút gửi. Chỗ đáng nâng cấp không chỉ là viết nhanh hơn, mà là phát hiện sai sớm hơn. Ngày mai, chọn một việc nhỏ, như nháp email bằng dữ liệu giả định. Ghi lại thời gian viết, thời gian sửa và lỗi còn sót. Nếu tổng thời gian không giảm, hoặc bạn không kiểm tra nổi, hãy đổi cách giao việc. Đừng gọi một thao tác nhanh hơn là năng suất cao hơn.",
+      "shots": [
+        {
+          "phrase": "Cứ nhìn một email",
+          "layout": "full",
+          "images": [
+            "headset"
+          ],
+          "eyebrow": "01 / ĐẰNG SAU NÚT GỬI"
+        },
+        {
+          "phrase": "Trước khi viết",
+          "layout": "full",
+          "images": [
+            "team-charts"
+          ]
+        },
+        {
+          "phrase": "biết người đọc",
+          "layout": "full",
+          "images": [
+            "client-meeting"
+          ]
+        },
+        {
+          "phrase": "Sau khi viết",
+          "layout": "full",
+          "images": [
+            "calculator"
+          ],
+          "headline": "Kiểm tra số liệu"
+        },
+        {
+          "phrase": "sửa giọng điệu",
+          "layout": "diptych",
+          "images": [
+            "review-team-detail",
+            "support-team"
+          ]
+        },
+        {
+          "phrase": "AI có thể hỗ trợ",
+          "layout": "full",
+          "images": [
+            "colleagues"
+          ],
+          "eyebrow": "02 / BẢN NHÁP CHƯA PHẢI KẾT QUẢ"
+        },
+        {
+          "phrase": "Nhưng bản nháp",
+          "layout": "full",
+          "images": [
+            "folders"
+          ]
+        },
+        {
+          "phrase": "Một câu nghe",
+          "layout": "full",
+          "images": [
+            "support-agent"
+          ]
+        },
+        {
+          "phrase": "Một bảng nhìn",
+          "layout": "evidence",
+          "images": [
+            "clipboard-check"
+          ],
+          "headline": "Đối chiếu bản gốc",
+          "sourceNote": "Ví dụ giả định · Ảnh minh họa"
+        },
+        {
+          "phrase": "Thử tách công việc",
+          "layout": "gallery3d",
+          "images": [
+            "typing-photo",
+            "pens-proof",
+            "team-decision"
+          ],
+          "eyebrow": "03 / TÁCH ĐÚNG TỪNG PHẦN",
+          "headline": "Tạo nháp → Kiểm tra → Quyết định"
+        },
+        {
+          "phrase": "Đừng gom cả ba",
+          "layout": "full",
+          "images": [
+            "team-decision"
+          ]
+        },
+        {
+          "phrase": "Chỗ đáng nâng cấp",
+          "layout": "full",
+          "images": [
+            "held-docs"
+          ],
+          "headline": "Phát hiện sai sớm hơn"
+        },
+        {
+          "phrase": "Ngày mai",
+          "layout": "full",
+          "images": [
+            "home-learning"
+          ],
+          "eyebrow": "04 / THỬ MỘT VIỆC NHỎ"
+        },
+        {
+          "phrase": "Ghi lại thời gian",
+          "layout": "diptych",
+          "images": [
+            "notes",
+            "asian-notes"
+          ],
+          "headline": "Tính cả thời gian sửa"
+        },
+        {
+          "phrase": "Nếu tổng thời gian",
+          "layout": "full",
+          "images": [
+            "calculator"
+          ]
+        },
+        {
+          "phrase": "hoặc bạn không kiểm tra",
+          "layout": "full",
+          "images": [
+            "paperwork"
+          ]
+        },
+        {
+          "phrase": "hãy đổi cách giao việc",
+          "layout": "full",
+          "images": [
+            "board-team"
+          ]
+        },
+        {
+          "phrase": "Đừng gọi một thao tác",
+          "layout": "gallery3d",
+          "images": [
+            "typing-photo",
+            "calculator",
+            "review-docs"
+          ],
+          "headline": "Đo kết quả. Tính cả kiểm tra."
+        }
+      ]
+    },
+    {
+      "phase": "cta",
+      "text": "Bạn sẽ giao phần nào cho AI, và giữ phần nào tự kiểm tra? Bình luận một công việc cụ thể. Đăng ký TYRANNO để cùng bóc tách thử nghiệm tiếp theo.",
+      "shots": [
+        {
+          "phrase": "Bạn sẽ giao phần nào",
+          "layout": "closing",
+          "images": [
+            "colleagues"
+          ],
+          "eyebrow": "ĐẾN LƯỢT BẠN",
+          "headline": "Bạn giữ phần nào?"
+        },
+        {
+          "phrase": "Bình luận một công việc",
+          "layout": "closing",
+          "images": [
+            "sticky-board"
+          ],
+          "headline": "Bình luận một việc cụ thể"
+        },
+        {
+          "phrase": "Đăng ký TYRANNO",
+          "layout": "closing",
+          "images": [
+            "learning"
+          ],
+          "headline": "Cùng thử. Cùng kiểm tra.",
+          "body": "Đăng ký TYRANNO cho thử nghiệm tiếp theo."
+        }
+      ]
+    }
+  ]
+}

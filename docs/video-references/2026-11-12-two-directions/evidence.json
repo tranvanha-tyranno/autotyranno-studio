@@ -1,0 +1,425 @@
+{
+  "date": "2026-11-12",
+  "timezone": "Asia/Saigon",
+  "status": "sampled_visual_and_transcript_review_complete",
+  "scope": "Six sparse full-runtime contact sheets and six targeted opening/transition/ending sheets opened and inspected; opening/closing/caveat transcripts read. No full audiovisual viewing or auditory assessment.",
+  "user_requested_structure": [
+    "hook",
+    "disclaimer",
+    "main_content",
+    "call_to_action"
+  ],
+  "structure_application": "Apply all four stages to both new directions as user request; do not claim this exact four-part order occurs in every source.",
+  "production_guide": "REFERENCE_AUDIT.md",
+  "sources": [
+    {
+      "id": "JlfAd_OaFek",
+      "url": "https://www.youtube.com/watch?v=JlfAd_OaFek",
+      "title": "Liệu AI có thực sự cướp mất việc của chúng ta?",
+      "channel": "Lóng",
+      "channel_identity": {
+        "channel_id": "UCF-8rX3Rg44mnz5sPz3Mnlg",
+        "channel_url": "https://www.youtube.com/channel/UCF-8rX3Rg44mnz5sPz3Mnlg",
+        "uploader_url": "https://www.youtube.com/@Longngghienn"
+      },
+      "duration_seconds": 1077,
+      "source_directory": "2026-11-12-two-directions/JlfAd_OaFek",
+      "media": {
+        "path": "reference.mp4",
+        "bytes": 14122890,
+        "sha256": "0176dcaae7695cd6ff20184f224aaf926a72afeef78a7245e8ec9961e6895920"
+      },
+      "transcript": {
+        "path": "transcript.json",
+        "segments": 594,
+        "source": "YouTube captions; may contain ASR errors",
+        "language": "vi-orig",
+        "sha256": "a42dcf62dff496a588b3c559af88d351dd753610f1569303b910d6eb08d4b590"
+      },
+      "inspected_contact_sheet": "2026-11-12-two-directions/JlfAd_OaFek/contact-sheet.jpg",
+      "inspected_targeted_sheet": "targeted-samples/JlfAd_OaFek/targeted-contact-sheet.jpg",
+      "targeted_sample_seconds": [
+        0,
+        2,
+        5,
+        12,
+        20,
+        32,
+        35,
+        39,
+        43,
+        46,
+        1070,
+        1075
+      ],
+      "approximate_structure_seconds": {
+        "hook": [
+          0,
+          34.52
+        ],
+        "disclaimer_or_scope": [
+          34.52,
+          43.68
+        ],
+        "main_entry": [
+          43.68,
+          47.8
+        ],
+        "closing": [
+          1070.82,
+          1075.7
+        ]
+      },
+      "generic_disclaimer_observed": true,
+      "transcript_observation": "Situational AI use leads into dependence and work question; source/personal-opinion caveat and invitation to correct; sponsor disclosure; closing subscribe CTA.",
+      "visual_observation": "Illustrated street and mascot plus three real-image cards; purple caveat scene; source document highlights and diagrams in body; sponsor marks and subscribe graphic.",
+      "claims_not_made": [
+        "full continuous viewing",
+        "listening by ear",
+        "fact-check of content claims",
+        "license to reuse source visuals",
+        "measured shot density"
+      ]
+    },
+    {
+      "id": "podWgLH4b3M",
+      "url": "https://www.youtube.com/watch?v=podWgLH4b3M",
+      "title": "Thời kì quần áo giá rẻ Shein đã sụp đổ như thế nào?",
+      "channel": "Lóng",
+      "channel_identity": {
+        "channel_id": "UCF-8rX3Rg44mnz5sPz3Mnlg",
+        "channel_url": "https://www.youtube.com/channel/UCF-8rX3Rg44mnz5sPz3Mnlg",
+        "uploader_url": "https://www.youtube.com/@Longngghienn"
+      },
+      "duration_seconds": 989,
+      "source_directory": "2026-11-12-two-directions/podWgLH4b3M",
+      "media": {
+        "path": "reference.mp4",
+        "bytes": 20609762,
+        "sha256": "b0b22f94399cc630a2492fb4beaed8d9f4cad620aa79bde862c6aaa6de426930"
+      },
+      "transcript": {
+        "path": "transcript.json",
+        "segments": 531,
+        "source": "YouTube captions; may contain ASR errors",
+        "language": "vi-orig",
+        "sha256": "a10c1ce0e5c1aaa92df44e7918f5e7edb0bdd6696dcf134a3b32d0006aeac029"
+      },
+      "inspected_contact_sheet": "2026-11-12-two-directions/podWgLH4b3M/contact-sheet.jpg",
+      "inspected_targeted_sheet": "targeted-samples/podWgLH4b3M/targeted-contact-sheet.jpg",
+      "targeted_sample_seconds": [
+        0,
+        3,
+        10,
+        20,
+        35,
+        58,
+        62,
+        65,
+        68,
+        70,
+        980,
+        987
+      ],
+      "approximate_structure_seconds": {
+        "hook": [
+          0,
+          61.7
+        ],
+        "disclaimer_or_scope": [
+          61.7,
+          68.6
+        ],
+        "main_entry": [
+          68.6,
+          73.9
+        ],
+        "closing": [
+          977.4,
+          987.4
+        ]
+      },
+      "generic_disclaimer_observed": true,
+      "transcript_observation": "Low prices and buyer behavior lead to changing business conditions; source/personal-experience caveat; mechanism explanation; topic question, comments and subscription.",
+      "visual_observation": "Ecommerce photographs, illustrated clothes and mascot, customs/store pictures; purple caveat scene; factory and highlighted document samples; subscribe graphic.",
+      "claims_not_made": [
+        "full continuous viewing",
+        "listening by ear",
+        "fact-check of content claims",
+        "license to reuse source visuals",
+        "measured shot density"
+      ]
+    },
+    {
+      "id": "w3z43Hlzq3c",
+      "url": "https://www.youtube.com/watch?v=w3z43Hlzq3c",
+      "title": "Châu Âu đang rơi vào khủng hoảng toàn diện như thế nào?",
+      "channel": "Lóng",
+      "channel_identity": {
+        "channel_id": "UCF-8rX3Rg44mnz5sPz3Mnlg",
+        "channel_url": "https://www.youtube.com/channel/UCF-8rX3Rg44mnz5sPz3Mnlg",
+        "uploader_url": "https://www.youtube.com/@Longngghienn"
+      },
+      "duration_seconds": 1251,
+      "source_directory": "2026-11-12-two-directions/w3z43Hlzq3c",
+      "media": {
+        "path": "reference.mp4",
+        "bytes": 34906345,
+        "sha256": "eac7411cfe5876909e1b3156c858ba89b7f1d54ba2b7c82c48472c9f1e405340"
+      },
+      "transcript": {
+        "path": "transcript.json",
+        "segments": 727,
+        "source": "YouTube captions; may contain ASR errors",
+        "language": "vi-orig",
+        "sha256": "5686d67a1ffa8bb3d2d0ffc317fd2606413871c9a3312981bc1a8e1fd37b03b4"
+      },
+      "inspected_contact_sheet": "2026-11-12-two-directions/w3z43Hlzq3c/contact-sheet.jpg",
+      "inspected_targeted_sheet": "targeted-samples/w3z43Hlzq3c/targeted-contact-sheet.jpg",
+      "targeted_sample_seconds": [
+        0,
+        3,
+        10,
+        20,
+        35,
+        56,
+        60,
+        64,
+        69,
+        72,
+        1246,
+        1250
+      ],
+      "approximate_structure_seconds": {
+        "hook": [
+          0,
+          60.4
+        ],
+        "disclaimer_or_scope": [
+          60.4,
+          70.2
+        ],
+        "main_entry": [
+          70.2,
+          75.3
+        ],
+        "closing": [
+          1246.4,
+          1251.0
+        ]
+      },
+      "generic_disclaimer_observed": false,
+      "transcript_observation": "Multiple local protest examples lead to question; scope clarification says separate places have separate problems; country-by-country explanation; subscribe CTA. This is not the same generic disclaimer as two other samples.",
+      "visual_observation": "Actual protest imagery in opening; purple mascot scene around clarification; flags, hospital, icons and chapter title in body; subscribe graphic.",
+      "claims_not_made": [
+        "full continuous viewing",
+        "listening by ear",
+        "fact-check of content claims",
+        "license to reuse source visuals",
+        "measured shot density"
+      ]
+    },
+    {
+      "id": "29B8-FtuC6U",
+      "url": "https://www.youtube.com/watch?v=29B8-FtuC6U",
+      "title": "TRUNG QUỐC KHÔNG THIẾU VỐN, KHÔNG THIẾU CÔNG NGHỆ - VẬY HỌ THIẾU GÌ?",
+      "channel": "THE HIDDEN SELF",
+      "channel_identity": {
+        "channel_id": "UCLrBMhGhD8nJmq1sEP6hQgw",
+        "channel_url": "https://www.youtube.com/channel/UCLrBMhGhD8nJmq1sEP6hQgw",
+        "uploader_url": "https://www.youtube.com/@thehiddenself.pocast"
+      },
+      "duration_seconds": 893,
+      "source_directory": "2026-11-11/29B8-FtuC6U",
+      "media": {
+        "path": "reference.mp4",
+        "bytes": 17208376,
+        "sha256": "a393386042fa95f41360a74cddd17a69c529ce43bb2d6f4d9c9ddd6c402195d0"
+      },
+      "transcript": {
+        "path": "transcript.json",
+        "segments": 504,
+        "source": "YouTube captions; may contain ASR errors",
+        "language": "vi-orig",
+        "sha256": "a7d8df2bebde46f035c720859e5939dc213a34c25cc9951564e6c89652b04f87"
+      },
+      "inspected_contact_sheet": "2026-11-11/29B8-FtuC6U/contact-sheet.jpg",
+      "inspected_targeted_sheet": "targeted-samples/29B8-FtuC6U/targeted-contact-sheet.jpg",
+      "targeted_sample_seconds": [
+        0,
+        3,
+        10,
+        20,
+        45,
+        82,
+        86,
+        90,
+        94,
+        98,
+        880,
+        892
+      ],
+      "approximate_structure_seconds": {
+        "hook": [
+          0.56,
+          84.4
+        ],
+        "disclaimer_or_scope": null,
+        "main_entry": [
+          129.17,
+          137.01
+        ],
+        "closing": [
+          879.94,
+          893.0
+        ]
+      },
+      "generic_disclaimer_observed": false,
+      "transcript_observation": "Paradox and restaurant analogy; brand introduction at 84.4s and logo at sampled 94s; promotional segment from 96.28s; return to argument around 129s; closing synthesis, visual subscribe end screen. No spoken disclaimer found in inspected opening transcript.",
+      "visual_observation": "Real-life background imagery, dark overlay, mic/waveform/player repeated; logo bumper; promotional shot; end screen at 892s.",
+      "claims_not_made": [
+        "full continuous viewing",
+        "listening by ear",
+        "fact-check of content claims",
+        "license to reuse source visuals",
+        "measured shot density"
+      ]
+    },
+    {
+      "id": "5zqAMK2qsfM",
+      "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM",
+      "title": "NĂNG LỰC ĐÁNG QUÝ NHẤT GIAI ĐOẠN NÀY CHÍNH LÀ KHẢ NĂNG XUẤT BẢN GIÁ TRỊ CỦA BẠN RA NGOÀI",
+      "channel": "THE HIDDEN SELF",
+      "channel_identity": {
+        "channel_id": "UCLrBMhGhD8nJmq1sEP6hQgw",
+        "channel_url": "https://www.youtube.com/channel/UCLrBMhGhD8nJmq1sEP6hQgw",
+        "uploader_url": "https://www.youtube.com/@thehiddenself.pocast"
+      },
+      "duration_seconds": 1289,
+      "source_directory": "2026-11-11/5zqAMK2qsfM",
+      "media": {
+        "path": "reference.mp4",
+        "bytes": 19959866,
+        "sha256": "9f2b65208cb7ba57417dde1f3a88841baf0b0fe0c5cd3056748bae1107cbd741"
+      },
+      "transcript": {
+        "path": "transcript.json",
+        "segments": 709,
+        "source": "YouTube captions; may contain ASR errors",
+        "language": "vi-orig",
+        "sha256": "3e1b2eefae6b57a7435829d772a9f01e4c2e37ab2eb6e0d5e7fb16f074cfea79"
+      },
+      "inspected_contact_sheet": "2026-11-11/5zqAMK2qsfM/contact-sheet.jpg",
+      "inspected_targeted_sheet": "targeted-samples/5zqAMK2qsfM/targeted-contact-sheet.jpg",
+      "targeted_sample_seconds": [
+        0,
+        3,
+        10,
+        20,
+        45,
+        79,
+        83,
+        87,
+        91,
+        95,
+        1274,
+        1288
+      ],
+      "approximate_structure_seconds": {
+        "hook": [
+          0,
+          81.32
+        ],
+        "disclaimer_or_scope": null,
+        "main_entry": [
+          124.652,
+          130.252
+        ],
+        "closing": [
+          1261.99,
+          1289.0
+        ]
+      },
+      "generic_disclaimer_observed": false,
+      "transcript_observation": "Saved articles, videos and books become consumption-versus-output conflict; brand at 81.32s, logo around sampled 87/91s, promotion from 92.8s, main argument at 124.652s. Closing asks for a concrete practice and comment; visual subscribe end screen. No spoken disclaimer found in inspected opening transcript.",
+      "visual_observation": "Laptop/phone, books and writing/work imagery under repeated dark podcast overlay; logo; promotional image; plant imagery on comment prompt; end screen.",
+      "claims_not_made": [
+        "full continuous viewing",
+        "listening by ear",
+        "fact-check of content claims",
+        "license to reuse source visuals",
+        "measured shot density"
+      ]
+    },
+    {
+      "id": "5uTC396kCs4",
+      "url": "https://www.youtube.com/watch?v=5uTC396kCs4",
+      "title": "5 THỦ THUẬT CHUYỂN TIỀN RA NƯỚC NGOÀI CỦA GIỚI NHÀ GIÀU TRUNG QUỐC - CUỘC ĐÀO THOÁT CỦA DÒNG VỐN",
+      "channel": "THE HIDDEN SELF",
+      "channel_identity": {
+        "channel_id": "UCLrBMhGhD8nJmq1sEP6hQgw",
+        "channel_url": "https://www.youtube.com/channel/UCLrBMhGhD8nJmq1sEP6hQgw",
+        "uploader_url": "https://www.youtube.com/@thehiddenself.pocast"
+      },
+      "duration_seconds": 1320,
+      "source_directory": "2026-11-11/5uTC396kCs4",
+      "media": {
+        "path": "reference.mp4",
+        "bytes": 22745456,
+        "sha256": "98b6fb299786e133a5ef60c48c5f1f17f9d5a3a0ebc13f0981ebbcdf8a1eb766"
+      },
+      "transcript": {
+        "path": "transcript.json",
+        "segments": 709,
+        "source": "YouTube captions; may contain ASR errors",
+        "language": "vi-orig",
+        "sha256": "4771be10be5a77650964f91b8bb615bfcee5cb1304145650b046f0491b5361ad"
+      },
+      "inspected_contact_sheet": "2026-11-11/5uTC396kCs4/contact-sheet.jpg",
+      "inspected_targeted_sheet": "targeted-samples/5uTC396kCs4/targeted-contact-sheet.jpg",
+      "targeted_sample_seconds": [
+        0,
+        3,
+        10,
+        20,
+        45,
+        92,
+        96,
+        100,
+        104,
+        108,
+        1300,
+        1319
+      ],
+      "approximate_structure_seconds": {
+        "hook": [
+          0.4,
+          94.32
+        ],
+        "disclaimer_or_scope": null,
+        "main_entry": [
+          137.53,
+          145.33
+        ],
+        "closing": [
+          1299.35,
+          1320.0
+        ]
+      },
+      "generic_disclaimer_observed": false,
+      "transcript_observation": "Same dollar amount contrasts two groups, then water metaphor and five-part promise; brand at 94.32s, logo at sampled 100/104s and promotion from 106.08s; mechanism begins at 137.53s; metaphorical closing, black sampled frame at 1319s. No spoken disclaimer found in inspected opening transcript.",
+      "visual_observation": "Money, calculator, production, port and finance imagery; repeated dark podcast overlay; logo and promotional image; black last sampled frame.",
+      "claims_not_made": [
+        "full continuous viewing",
+        "listening by ear",
+        "fact-check of content claims",
+        "license to reuse source visuals",
+        "measured shot density"
+      ]
+    }
+  ],
+  "proposed_not_observed": {
+    "long_inspired": "Conversational situational explanation; real photos/documents in depth, comparisons and useful 3D cause-paths. Original identity and images.",
+    "hidden_self_inspired": "Narration-led curiosity and layered causes; real photographs in a spatial archive, meaningful near/far moves and short diagrams. Preserve project narrator; remove recurring podcast mic/player."
+  }
+}

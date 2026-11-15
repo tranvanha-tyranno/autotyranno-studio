@@ -1,0 +1,595 @@
+[0000.00] Giờ tôi hay làm về Labubu, xong rồi đổ
+[0002.16] hai các thứ, thế là tôi nhớ ra có một
+[0003.84] thứ có cách làm tương tự, nhưng mà sống
+[0005.60] khá là bền, thậm chí là sống khỏe luôn,
+[0007.44] đó là TCG. Mà hình như là thầy ba còn
+[0009.44] mới mở shop để scam anh Độ với cả anh
+[0011.44] Chris Devil Gamer hay sao ấy. Dốc nhá.
+[0013.76] Về cơ bản ấy thì đây là mấy cái tấm thẻ
+[0015.08] Pokemon, One Piece các thứ. Bạn mua cái
+[0016.92] hộp về, đập ra để kiếm thẻ mình thích.
+[0019.00] Nhưng mà tôi vẫn khá thắc mắc là tại sao
+[0021.00] mấy cái tấm bìa cứng này nó bán giá tận
+[0023.16] trăm nghìn đô, thậm chí là cả triệu đô,
+[0025.00] trong khi tiền sản xuất một cái tấm thẻ
+[0026.44] nó chẳng bằng một bộ quần áo luôn, hay
+[0027.96] là một cái món đồ chơi A Toy. Thế nên là
+[0029.84] trong video ngày hôm nay, chúng ta sẽ
+[0031.04] cùng tìm hiểu là tại sao những cái lá
+[0032.48] bài này lại sống khỏe đến thế. Chúng có
+[0034.32] gì mà thu hút được nhiều người vậy? Và
+[0036.00] liệu thị trường này có thoái trào như
+[0037.96] hai cái trào lưu sớm nở chóng tàn trước
+[0039.48] đó không? Và tôi đã lắng và lưu ý những
+[0041.48] thông tin dưới đây được chúng tôi tổng
+[0042.64] hợp và cóp nhặt từ nhiều nguồn. Nên là
+[0044.12] nếu mà có gì sai hoặc cần đính chính,
+[0045.48] các bạn đó vui lòng comment bên dưới.
+[0046.92] Còn giờ thì vào video thôi. Đầu tiên
+[0048.28] chúng ta phải tìm hiểu xem là TCG nó là
+[0049.84] cái gì đã. TCG là viết tắt của Trading
+[0052.08] Card Game hay là trò chơi thẻ bài giao
+[0054.00] dịch. À, nói đơn giản là bạn vừa có thể
+[0055.80] sưu tập thẻ và vừa có thể dùng để đấu
+[0057.80] bài với người khác. Người chơi sẽ mua
+[0059.52] những gói bài ngẫu nhiên gọi là Booster
+[0061.40] Pack, mở ra được thẻ gì thì thu thập
+[0063.16] lại, rồi tự xếp thành một cái bộ bài
+[0064.60] riêng. Sau đó thì mang bộ bài đó đi đấu
+[0066.44] với người khác theo luật của trò chơi.
+[0068.00] Về mặt vật liệu nhá, thì nó là giấy, bìa
+[0070.60] cứng được in màu ấy. Nhưng mà người chơi
+[0072.96] và người sưu tập ấy công nhận giá trị
+[0074.48] của chúng nó, nên là chúng nó mới có giá
+[0076.08] cao như vậy. Các công ty phát hành sẽ
+[0077.64] làm luật chơi này, xây dựng cốt truyện
+[0079.20] và hình ảnh nhân vật. Và quan trọng nhất
+[0080.84] ấy là họ quyết định là thẻ nào phổ biến,
+[0082.64] thẻ nào hiếm. Và nhờ vào những thứ đó ấy
+[0084.40] thì một món đồ có tiền sản xuất cực kỳ
+[0086.12] thấp lại trở thành thứ mà được mua đi
+[0087.72] bán lại trên thị trường. Và đến gần đây
+[0089.56] thì TCG đã vượt ra khỏi cái chuyện là
+[0091.84] ngồi quanh bàn đấu bài, nó trở thành một
+[0093.52] ngành kinh doanh. Có công ty sản xuất,
+[0095.36] có cả công ty kiểm tra chất lượng thẻ,
+[0097.08] thị trường mua bán lại và cả người đầu
+[0098.68] tư. Và khi mà kinh doanh lớn đến mức đó
+[0100.84] ấy thì việc quản lý cũng bắt đầu quan
+[0102.16] trọng hơn. Bây giờ tưởng tượng bạn đi mở
+[0103.96] một cửa hàng bán TCG đi. Ngày vài chục
+[0106.04] đơn thì vẫn xử lý bằng Excel được, nhưng
+[0107.68] mà nếu mà mỗi ngày có hàng trăm, thậm
+[0109.44] chí là hàng nghìn đơn thì sao? Thì bạn
+[0110.92] sẽ phải liên tục cập nhật hàng tồn, xử
+[0112.60] lý đơn hàng, đóng gói rồi giao đi. Doanh
+[0114.88] thu, chi phí và hóa đơn thì cũng phải
+[0116.44] theo dõi. Còn nếu mà còn bán trên nền
+[0118.12] tảng nữa thì thôi, mọi thứ lại càng phức
+[0119.64] tạp. Và đó là vấn đề mà Odoo có thể giải
+[0121.68] quyết được. Với Odoo TikTok Shop
+[0123.00] Connector thì bạn có thể kết nối trực
+[0124.52] tiếp trên gian hàng TikTok Shop với
+[0125.88] Odoo, rồi quản lý mọi thứ trên cùng một
+[0127.76] nền tảng. Khi mà TikTok Shop có đơn mới
+[0129.68] thì đơn có thể tự động được chuyển vào
+[0131.24] Odoo. Sản phẩm bán đi rồi thì số lượng
+[0133.28] hàng tồn được cập nhật ngay lập tức. Còn
+[0135.00] nếu bạn nhập thêm hàng, số lượng tồn có
+[0136.48] thể được cập nhật ngược lại trên TikTok
+[0137.84] Shop. Từ đơn hàng, kho, đóng gói, giao
+[0140.12] hàng cho đến hóa đơn và báo cáo tài
+[0141.60] chính đều được nối với nhau trong cùng
+[0143.08] một hệ thống. Và nếu bạn bán ở nhiều thị
+[0144.88] trường như là Mỹ, UK hay Thái Lan thì
+[0146.64] Odoo còn hỗ trợ quản lý nhiều gian hàng
+[0148.28] TikTok Shop trên cùng một nền tảng. Nói
+[0150.04] đơn giản là khi mà việc kinh doanh lớn
+[0151.48] lên ấy thì chắc chắn là không ai muốn
+[0153.00] dành cả ngày để copy đơn hàng từ chỗ này
+[0154.76] sang chỗ khác. Thì Odoo sẽ tự làm việc
+[0156.56] đó cho bạn. Và các bạn có thể đăng ký
+[0158.00] dùng thử Odoo miễn phí ở đường link
+[0159.72] trong phần mô tả và bình luận. Quay lại
+[0161.32] với những tấm thẻ bài thì để hiểu tại
+[0163.20] sao một cái miếng bìa cứng lại nổi tiếng
+[0164.80] và thu hút đến thế, chúng ta phải nhìn
+[0166.40] vào lý do người ta muốn mua nó. Nó sẽ có
+[0168.48] yếu tố tâm lý này, có cách người trẻ
+[0170.40] nhìn nhận tài sản này và cả những kỷ
+[0171.96] niệm hồi bé nữa. Đầu tiên là cảm giác
+[0173.80] khi mở bài. Khi mà bạn mua một gói thẻ
+[0176.08] nhá, chưa biết bên trong có gì cho lúc
+[0177.80] xé vỏ ra ấy, cảm giác nó cực kỳ hồi hộp.
+[0180.24] Thì cái cơ chế này giống mấy trò đỏ đen,
+[0182.04] blind box ấy. Não tiết ra dopamine khi
+[0183.76] mà chúng ta chờ đợi, rồi tìm được một lá
+[0185.76] bài hiếm thì ồ, sướng vãi chưởng luôn.
+[0188.16] Những nghiên cứu về kinh tế học hành vi
+[0189.60] cũng cho thấy là cái việc sưu tầm đáp
+[0191.04] ứng được nhiều nhu cầu của một lúc. Một
+[0192.72] món đồ càng khó kiếm ấy thì người ta lại
+[0194.36] càng thấy nó có giá trị. Rồi là cái hiệu
+[0196.20] ứng sở hữu nó nữa. Một khi cái món đồ đó
+[0198.40] đã thuộc về mình ấy thì mình sẽ thường
+[0200.00] đánh giá nó cao hơn giá trị thực tế.
+[0201.84] Ngoài ra thì sưu tầm thẻ bài còn là cách
+[0203.32] để thể hiện bản thân trong cộng đồng.
+[0205.00] Bây giờ bạn mà có một cái thẻ mà ít
+[0206.52] người có xem thì auto là mình hiểu hơn
+[0209.08] người ta, mình biết chơi hơn người ta.
+[0210.56] Rồi là mình giàu hơn người ta để có tiền
+[0212.00] chơi nữa. Giống như kiểu hồi bé ăn bim
+[0213.92] bim Poca để bóc thẻ cầu thủ ấy. Ông nào
+[0216.16] mà bóc được quả thẻ vàng Rooney thì
+[0217.84] thôi, xịn nhất cả mấy trường luôn. Tại
+[0220.60] vì là nó không chỉ thể hiện là thằng này
+[0222.20] nó bóc được bài xịn ấy, mà nó còn nhiều
+[0224.04] tiền để nó ăn quà nữa. Thế nên nó vip.
+[0226.04] Nhưng mà ngoài câu chuyện là thích mở
+[0227.28] bài với lại khoe khoang các thứ ấy, thì
+[0228.76] nhiều người còn mua tại vì coi đây là
+[0230.20] tài sản, nhất là Gen Z và Millennials.
+[0232.64] Tại sao lại thế? Tại vì hai thế hệ này
+[0234.40] đang gặp khá là nhiều khó khăn về kinh
+[0235.72] tế khi mà giá nhà tăng cao này, còn
+[0237.40] lương thì không theo kịp lạm phát. Thế
+[0239.12] nên là với nhiều người trẻ thì mua được
+[0240.60] một cái nhà là một mục tiêu cực kỳ xa
+[0242.24] vời. Và vì những cái tài sản to như thế
+[0244.60] nó xa vời như thế, nên là bắt buộc là
+[0246.68] cách nhìn về tài sản phải thay đổi. Thay
+[0248.56] vì dồn tiền vào mua nhà hoặc là cổ phiếu
+[0250.12] truyền thống ấy, thì họ chuyển sang
+[0251.44] những cái loại tài sản khác. Và một
+[0252.88] trong số đó là thẻ bài TCG. Tiền bỏ ra
+[0255.16] để mua thẻ thấp hơn mua bất động sản, mà
+[0256.92] mua bán trên mạng cũng dễ. Rồi là những
+[0258.48] người này thì cũng lớn lên cùng internet
+[0259.84] và những cái thương hiệu giải trí. Đến
+[0261.20] lúc có thu nhập rồi thì họ sẵn sàng chi
+[0262.80] tiền cho những thứ mình thích. Và nhiều
+[0264.32] người còn coi đồ sưu tập là một cách để
+[0265.96] giữ tiền chống lại lạm phát. Họ sẽ theo
+[0267.96] dõi giá thẻ bài, giống như cách mà những
+[0269.40] người lớn tuổi theo dõi giá vàng hay là
+[0270.88] chứng khoán ấy. Ờ tôi có một ông anh mua
+[0272.72] một bộ bài Pokemon, nhưng mà không bóc
+[0274.28] seal luôn nhá, vẫn cứ giữ nguyên như
+[0275.44] thế. Một năm sau bán được gấp đôi luôn
+[0276.92] mà. Ác thật. Thì thế cũng là đầu tư
+[0278.92] thôi. Thay vì lời 10 20% thì ông này lời
+[0281.08] hẳn 100%. Nhưng mà đừng có nghe câu
+[0283.32] chuyện là ông anh đấy mua về xong rồi
+[0285.24] lại cứ bán ra. Bạn mua một bộ bài về
+[0287.16] xong rồi không bóc seal giữ.
+[0289.52] Thì kỳ vọng bán gấp đôi nhá. Tại vì là
+[0291.28] nó cũng có rủi ro ấy. Cái thị trường này
+[0292.88] nó không to đến thế để có thể thanh
+[0294.24] khoản được luôn đâu, nên là anh em đừng
+[0295.52] có nghe thấy mà nghĩ là hay. Còn với một
+[0297.28] số nhóm khác mua bài ấy, thì lý do lại
+[0298.92] nằm ở tuổi thơ. Và đây cũng là một yếu
+[0300.60] tố để đẩy giá TCG lên. Nhiều người
+[0302.52] khoảng tầm 30 tuổi bây giờ thì từng chơi
+[0304.00] Pokemon hoặc là Yugioh hồi nhỏ. Lúc đấy
+[0306.12] thì không có tiền mua nhiều bài. Bây giờ
+[0307.48] đi làm rồi, có tiền dư rồi thì sẽ quay
+[0309.16] lại mua những cái lá bài cũ để tìm lại
+[0310.76] kỷ niệm. Giống như kiểu là tôi lâu lâu
+[0312.44] nhìn mấy quả mô hình Songoku vẫn thấy
+[0313.92] thèm ấy. Có tiền thì lấy mua một tí về
+[0315.56] ngắm thôi. Và các nhà phát hành thẻ thế
+[0317.36] thì ngon luôn, liên tục ra những cái sản
+[0319.24] phẩm để nhắm vào kỷ niệm tuổi thơ của
+[0321.00] người mua. Và nhóm khách hàng này khiến
+[0322.32] nhu cầu trên thị trường tăng cao. Tại vì
+[0323.96] là họ vừa mua bài mới mà vừa săn cả
+[0325.56] những cái lá bài đã được in từ 20 năm
+[0327.20] trước. Và thế là trong cùng một thị
+[0328.76] trường thì có người mua để chơi, người
+[0330.40] mua để sưu tập, rồi người mua để kiếm
+[0331.96] tiền.
+[0332.80] Và ở nhóm cuối cùng ấy là nhóm đầu tư
+[0334.24] ấy, thì nó sẽ luôn đi kèm với những nhóm
+[0335.96] đầu cơ. Những nhà nghiên cứu học thuật
+[0337.68] chỉ ra rằng là thị trường TCG có nhiều
+[0339.48] điểm giống thị trường tài chính. Người
+[0341.12] chơi cũng nghiên cứu dữ liệu, cũng đánh
+[0342.56] giá rủi ro và tính xem là mình có thể
+[0344.08] lãi bao nhiêu. Nhưng mà nhiều lúc ấy thì
+[0345.52] cái việc mua bán này nó mang tính đầu cơ
+[0347.64] nhiều hơn là đầu tư lâu dài. Tức là mua
+[0349.60] vào rồi tìm cách bán ra với giá cao hơn
+[0351.52] trong thời gian ngắn. Và một số người
+[0353.24] tham gia thì cũng thích cái trò đen đủi
+[0354.76] rủi ro giống người giao dịch những cổ
+[0356.80] phiếu lên xuống mạnh hoặc là người đánh
+[0358.00] bạc. Và tất cả những cái thứ vừa rồi nó
+[0359.60] góp phần tạo nên một cái thị trường lớn
+[0361.76] ngang nhiều ngành giải trí đã tồn tại từ
+[0363.52] lâu. Các tổ chức nghiên cứu thì đưa ra
+[0365.48] những con số khác nhau, nhưng mà nhìn
+[0366.72] chung thì đều dự báo thị trường sẽ tiếp
+[0368.44] tục tăng trưởng ổn định trong 10 năm
+[0369.80] tới. Những cái tổ chức định giá ấy đã
+[0371.56] báo cáo rằng là thị trường TCG đang được
+[0373.44] định giá ở mức là hàng chục tỷ đô. Thực
+[0375.64] ra là
+[0376.68] bao nhiêu tỷ thì cũng hơi khó xác định
+[0378.24] tại vì là có bên thì chỉ tính thẻ bài,
+[0379.84] còn có bên thì tính thêm cả cái thẻ kỹ
+[0381.64] thuật số. Xong rồi có bên thì gom luôn
+[0383.44] cả cái tiền mua đi bán lại vào cho số nó
+[0385.24] to nữa. Thế nên là cùng nhìn vào cái thị
+[0387.16] trường này thì mỗi bên lại ra một con
+[0388.44] số. Ví dụ như là Data Nello ấy thì tính
+[0390.40] thị trường năm 2025 là 12,8 tỷ đô. Còn
+[0393.12] ông Mordor Intelligence lại tính ra là
+[0394.52] 13,28 tỷ. Ông Carson Market Insight thì
+[0397.36] là 14,12 tỷ. Tức là theo ba bên này ấy
+[0399.92] thì chúng ta đang nhìn vào một cái thị
+[0401.20] trường khoảng từ 13 đến 14 tỷ đô. Và họ
+[0403.68] nghĩ là nó vẫn còn lớn tiếp. Ông Data
+[0405.64] Nello thì dự báo đến năm 2034 sẽ lên là
+[0407.80] 27,6 tỷ này, tăng trưởng kép trung bình
+[0409.92] là 8,9% mỗi năm. Mordor thì cho rằng là
+[0412.28] năm 2031 sẽ đạt 24,36 tỷ, tức là mỗi năm
+[0415.36] tăng trưởng 10%. Nhưng mà cũng có những
+[0417.20] cái bên mà tính thận trọng hơn thì ra số
+[0419.00] thấp hơn khá là nhiều. Nó vẫn là nhiều
+[0420.60] tỷ đô thôi, nhưng mà nó thấp hơn. Ví dụ
+[0421.96] như là ông Texcite Research này, ông
+[0423.24] tính ra năm 2025 chỉ là 7,85 tỷ đô thôi.
+[0425.96] Xong rồi nó sẽ lên được hơn 10 chục tỷ
+[0427.28] đô vào năm 2031 này. Rồi là Business
+[0429.36] Research Insight còn tính thị trường năm
+[0431.40] 2026 chỉ có mức là 1 tỷ đô thôi. Và đến
+[0434.00] năm 2035 thì là 1 tỷ 8. Tức là cũng là
+[0436.20] có tăng trưởng nhưng nó không tăng nhiều
+[0437.24] đến thế. Nói chung là các con số thì
+[0438.96] khác nhau, nhưng mà hướng dự báo thì đều
+[0440.84] cho rằng là trong 10 năm tới người ta
+[0442.36] vẫn sẽ tiếp tục bỏ thêm tiền vào thẻ bài
+[0444.24] này. Thế thì cái số tiền đấy đang được
+[0446.04] dùng để mua cái gì? Thì chủ yếu là vẫn
+[0447.88] để mua những cái tấm thẻ thật. Năm 2025
+[0449.84] ấy thì thẻ giấy chiếm khoảng 68 đến
+[0451.68] 68,4% doanh thu. Còn thẻ kỹ thuật số
+[0454.24] chiếm khoảng tầm 32% Điện thoại ngày
+[0456.28] càng phổ biến ấy thì cái việc chơi và
+[0457.68] mua thẻ trên màn hình nó cũng phát triển
+[0458.96] nhanh hơn. Nhưng mà đến lúc sưu tập thì
+[0460.60] nhiều người vẫn muốn có một cái lá bài
+[0462.24] để cầm trên tay. Nó giống như kiểu là
+[0463.52] mua PS5 ấy. Bản online lúc sale thì rẻ
+[0465.80] hơn nhưng mà người ta vẫn thích mua đĩa,
+[0467.16] mang về xong đặt lên kệ. Tại vì là nhìn
+[0469.20] thấy nó trước mặt thì mới có cảm giác là
+[0470.60] mình sở hữu món đồ đấy, xong rồi nó còn
+[0472.04] mang tính hoài niệm nữa. Mà nhá, người
+[0473.72] có tiền để mua những thứ này ấy thì phần
+[0475.32] lớn lại là người đã đi làm. Nhóm trưởng
+[0477.12] thành đóng góp 59% số tiền mua sắm. Họ
+[0479.48] mua những cái thẻ đắt tiền này, trả tiền
+[0480.96] chấm điểm, rồi giữ lại như một khoản đầu
+[0482.52] tư lâu dài. Còn thanh thiếu niên ấy thì
+[0484.28] chiếm khoảng tầm 41% nhu cầu. Nhóm này
+[0486.44] mua để chơi với bạn bè, để tham gia cộng
+[0488.20] đồng trên mạng và đi đấu ở các giải địa
+[0489.92] phương. Thế là cùng một tấm thẻ thì
+[0491.64] người này mua về để đấu bài, người kia
+[0493.12] lại mua về chấm điểm xong cất đi. Và cái
+[0495.32] nơi ấy mà cái chuyện này phát triển nhất
+[0496.84] lại chính là châu Á-Thái Bình Dương. Năm
+[0498.88] 2025 ấy thì khu vực này chiếm hơn 1/3
+[0501.24] đến gần một nửa doanh thu toàn cầu. Thì
+[0503.40] cũng dễ hiểu thôi, tại vì Nhật Bản có cả
+[0505.16] một ngành truyện tranh và phim hoạt hình
+[0506.56] phát triển rất là mạnh. Người ta đã quen
+[0508.16] với cái việc là mua đồ liên quan đến
+[0509.80] những nhân vật mình thích từ lâu rồi.
+[0511.40] Thẻ thẻ bài cũng nằm trong thói quen đó.
+[0513.16] Ở Bắc Mỹ là thị trường đứng thứ hai,
+[0514.68] doanh thu chiếm khoảng tầm 1/4 đến 1/3.
+[0517.12] Tại vì ở đây thì có hệ thống bán lẻ tốt
+[0518.64] này, cộng đồng sưu tập cũng chuyên
+[0519.72] nghiệp. Rồi cả những công ty lớn như là
+[0521.56] Wizards of the Coast cũng đặt trụ sở ở
+[0523.04] đây. Châu Âu thì đứng thứ ba, chiếm
+[0524.72] khoảng tầm 20% thị phần. Nhưng mà dù
+[0526.92] người mua ở đâu ấy thì những nhân vật
+[0528.24] trên lá bài vẫn nằm trong tay một vài
+[0529.84] công ty lớn thôi. Và chính những công ty
+[0531.60] giữ bản quyền này đã kiểm soát thị
+[0533.00] trường. Đứng đầu là The Pokémon Company.
+[0535.64] Trong năm tài chính năm 2024 đến năm
+[0537.28] 2025 ấy thì họ đã in 10,2 tỷ thẻ. Tính
+[0540.72] từ lúc ra mắt thì tổng số đã vượt 75 tỷ
+[0542.68] thẻ trên toàn cầu và doanh thu của công
+[0544.64] ty trong năm tài chính kết thúc vào
+[0545.92] tháng 2 năm 2025 ấy là đạt khoảng tầm
+[0547.60] 2,9 tỷ đô. Còn Pokémon thì chiếm khoảng
+[0550.12] tầm 12% thị trường TCG thế giới. Nhưng
+[0552.56] mà công ty đang phát triển nhanh nhất ấy
+[0553.96] thì lại là Bandai Namco, tại vì họ có
+[0556.08] One Piece và Dragon Ball. Riêng cái mảng
+[0557.88] đồ chơi và sở thích của One Piece tại
+[0559.36] Nhật Bản đã mang về 94,2 tỷ yên trong
+[0562.60] năm tài chính năm 2025, tức là khoảng
+[0564.20] tầm 620 triệu đô ấy, tăng 56,2% so với
+[0567.00] năm trước. Còn riêng One Piece TCG được
+[0569.12] ước tính là tạo ra từ 300 đến 400 triệu
+[0571.36] đô mỗi năm. Bandai đã kết hợp thẻ bài
+[0573.40] với phim hoạt hình, rồi cả là phim người
+[0574.84] đóng trên Netflix. Người xem mà thích
+[0576.64] nhân vật trên phim ấy thì công ty có
+[0578.04] những tấm thẻ với nhân vật đó để bán.
+[0579.88] Đến đây thì chúng ta đã thấy là tiền đến
+[0581.40] từ đâu này, ai đang mua, ai đang bán.
+[0583.20] Nhưng mà vẫn có một câu hỏi là in ra
+[0585.44] hàng tỷ tấm như thế thì tại sao có những
+[0587.44] lá bài vẫn hiếm đến mức mà người ta phải
+[0589.08] bỏ cả triệu đô để mua. Thế thì giờ chúng
+[0591.24] ta sẽ nói về câu chuyện là cách họ tạo
+[0592.84] độ hiếm và chấm điểm từng lá bài. Nói về
+[0595.00] độ hiếm trước đi. Những công ty phát
+[0596.52] hành ấy thì kiểm soát rất là chặt chẽ số
+[0598.08] lượng thẻ được in. Họ chia thẻ thành
+[0599.92] nhiều mức độ hiếm khác nhau. Thẻ thông
+[0601.48] thường thì in nhiều để ai mà cũng có thể
+[0602.88] mua về chơi, còn thẻ đặc biệt thì được
+[0604.52] in rất là ít. Có thể để mang chữ ký của
+[0606.20] họa sĩ, có thể để được ép kim lấp lánh.
+[0608.28] Cái tỷ lệ để mở ra những thẻ này nó cực
+[0609.88] kỳ thấp. Có thể là chỉ 1/1000 gói thôi.
+[0612.72] Thì biết một cái lá bài khó kiếm như thế
+[0614.44] nên là nhiều người sẵn sàng trả giá cao
+[0616.16] để mua ngay trên thị trường bán lại. Thì
+[0618.20] đây cũng chẳng phải chiêu mới gì cả. Nó
+[0619.52] đơn giản là cung cầu thôi. Ai cũng muốn
+[0621.16] là bố mẹ đặc biệt, có thẻ xịn để khoe
+[0622.76] với bạn bè. Nhưng mà càng nhiều người
+[0624.28] muốn mua mà số thẻ lại không đủ thì giá
+[0626.04] lại càng bị đẩy lên cao. Tuy nhiên thì
+[0627.64] hiếm thôi vẫn chưa đủ để quyết định một
+[0629.20] lá bài đáng đầu tư đến đâu. Còn phải xem
+[0631.08] là nó được chấm bao nhiêu điểm nữa. Thì
+[0632.84] đây là cái dịch vụ chấm điểm thẻ bài hay
+[0634.52] là card grading. Cái dịch vụ này là yếu
+[0636.60] tố quyết định giá trị đầu tư của một lá
+[0638.20] bài. Tại vì là người sưu tập sẽ không
+[0640.08] thể tự định giá thẻ của mình được mà họ
+[0641.84] sẽ phải gửi đến những công ty chuyên
+[0643.04] nghiệp. Và ba công ty lớn nhất trong
+[0644.64] lĩnh vực này là PSA, BGS với lại CGC.
+[0647.64] Quy trình chấm điểm của họ thì cũng có
+[0648.80] những bước rõ ràng. Chuyên gia sẽ dùng
+[0650.24] kính lúp để kiểm tra bốn thứ. Đầu tiên
+[0652.04] là góc thẻ xem có bị sờn hay bị mòn
+[0653.84] không này. Tiếp theo là cạnh thẻ xem là
+[0655.60] có bị trắng hoặc là bị cắt lỗi không.
+[0657.44] Rồi tiếp đến là bề mặt xem là mặt trước
+[0659.28] và mặt sau của nó có bị xước hay là mờ
+[0660.88] mực in không. Và cuối cùng là hình in có
+[0662.80] nằm chính giữa thẻ hay là bị lệch sang
+[0664.24] một bên không. Kiểm tra xong ấy thì công
+[0666.12] ty sẽ cho thẻ một số điểm từ 1 đến 10.
+[0668.72] Và sau đó thì thẻ được đặt vào một cái
+[0670.12] hộp nhựa cứng trong suốt rồi hàn kín
+[0672.16] bằng sóng siêu âm. Phía trên hộp sẽ có
+[0674.12] nhãn ghi thông tin thẻ này, điểm số và
+[0676.00] mã vạch chứng nhận. Và cái điểm số này
+[0677.76] chính là cái thứ mà tạo ra chênh lệch về
+[0679.48] giá. Một cái thẻ nguyên seal nhé, chưa
+[0681.40] chắc đã được 10 điểm tại vì là nó có thể
+[0682.92] bị in lỗi ngay từ nhà máy rồi. Còn cái
+[0684.80] thẻ nào mà được 10 điểm tuyệt đối thì
+[0686.48] giá có thể tăng gấp hàng chục lần so với
+[0688.12] lúc mà chưa chấm điểm. Trong năm 2024 ấy
+[0689.96] thì những cái thẻ bài mới đạt PSA 10
+[0691.96] mang lại lợi nhuận trung bình là 18,3%
+[0694.24] cho người giữ, cao hơn nhiều kênh đầu tư
+[0696.16] khác. Người mua thì rất là tin cái chiếc
+[0697.80] hộp nhựa này, tại vì nó đảm bảo thẻ là
+[0699.48] thật và không bị hỏng theo thời gian.
+[0701.16] Anh em nào mà chơi cái quả TCG Simulator
+[0703.12] chắc cũng thế đấy, cuốn phết. Mà nó vẫn
+[0704.92] còn tỉ lệ đỏ đen nữa cơ, bốc được thẻ mà
+[0706.64] chấm ra hai điểm cũng cúc luôn. Còn được
+[0708.40] 10 điểm thì ngon. Thế thì khi mà thẻ vừa
+[0710.88] hiếm vừa có điểm cao ấy thì nó có thể
+[0712.48] đắt đến đâu? Chúng ta có thể nhìn vào
+[0714.36] những cái giao dịch đắt nhất thế giới,
+[0715.76] giá của chúng nó ấy sẽ ngang những cái
+[0717.08] bức tranh nghệ thuật đắt tiền hoặc là
+[0718.40] những con siêu xe. Ví dụ như là Pikachu
+[0720.72] Illustrator, thẻ hiếm nhất của Pokemon.
+[0722.68] Cái thẻ này thì không được bán trong cửa
+[0723.80] hàng, mà nó là phần thưởng cho người
+[0725.16] thắng của một cuộc thi vẽ do tạp chí tổ
+[0727.04] chức ở Nhật Bản vào năm 1998. Chỉ có
+[0729.24] dưới 40 tấm tồn tại thôi. Năm 2021 thì
+[0731.48] YouTuber Paul Logan đã mua tấm Pikachu
+[0733.64] Illustrator duy nhất trên thế giới đạt
+[0735.52] PSA 10, sương sương giá khoảng tầm 5
+[0738.12] triệu đô, cụ thể là 5 triệu 275.000 đô.
+[0740.92] Một cái tấm khác đạt PSA 9 cũng được bán
+[0743.20] qua giao dịch cá nhân với giá là
+[0744.56] 2.700.000 đô. Còn một trường hợp khác
+[0746.80] của The One Ring của Magic The
+[0748.28] Gathering. Năm 2023 ấy thì nhà phát hành
+[0750.20] đã hợp tác với thương hiệu Chúa tể những
+[0751.68] chiếc nhẫn, in đúng một tấm thẻ The One
+[0753.44] Ring bản đặc biệt trên toàn cầu, độc
+[0755.56] bản, có trên thế giới chỉ có đúng một
+[0757.28] cái thôi. Một người bán hàng ở Canada
+[0759.04] tên là Brook Trafton đã mở được nó. Tấm
+[0761.32] thẻ được chấm PSA 9 và sau đó thì Post
+[0763.72] Malone đã mua lại với giá là 2 triệu đô.
+[0766.12] Khi chơi ấy thì những người có cái thẻ
+[0767.20] đắt tiền đấy thì thường sẽ chỉ đặt một
+[0768.64] cái thẻ đại diện của cái lá đấy trên bàn
+[0770.24] thôi, còn thẻ thật thì tất nhiên là vẫn
+[0771.76] phải cất trong hộp nhựa cho nó an toàn.
+[0773.48] Một trường hợp nữa là Alpha Black Lotus,
+[0775.44] huyền thoại lâu đời của Magic The
+[0776.72] Gathering. Thẻ này được in vào năm 1993
+[0778.96] và rất là mạnh trong game. Và công ty
+[0780.76] thì cũng đã ngừng in nó từ lâu rồi. Một
+[0782.56] cái tấm Black Lotus đạt điểm hoàn hảo
+[0784.20] Pristine 10 được bán trong phiên đấu giá
+[0785.92] kín với giá là 3 triệu đô và trên đó thì
+[0787.88] trở thành cái thẻ đắt nhất của cái trò
+[0789.28] chơi này. Và tất nhiên, như mọi thị
+[0790.92] trường kiếm được cực kỳ nhiều tiền khác
+[0792.44] ấy, người ta sẽ bắt đầu muốn gian lận và
+[0794.24] lừa đảo. Có ba vấn đề lớn liên quan đến
+[0796.16] câu chuyện lừa đảo và scam trong cái
+[0798.32] giới TCG này. Vấn đề đầu tiên là đồ giả.
+[0800.96] Chúng ta vừa nói là giá trị của thẻ thì
+[0802.52] phụ thuộc rất là nhiều vào hộp nhựa và
+[0804.08] chứng nhận của PSA hay là BGS. Thế nên
+[0806.24] là những kẻ lừa đảo chuyển từ làm giả
+[0808.20] thẻ sang làm giả cả hộp nhựa lẫn nhãn
+[0810.32] bên trong. Và cách làm cũng rất là tinh
+[0811.92] vi. Đồ này sẽ lên mạng tìm những cái mã
+[0813.76] chứng nhận của một thẻ thật rồi in một
+[0815.48] cái chiếc nhãn giống hệt ghi đúng cái mã
+[0817.12] đó lên. Và sau đó thì bỏ thẻ giả hoặc là
+[0819.08] thẻ cũ nát vào hộp nhựa giả rồi đóng kín
+[0820.92] vào. Người mua tra mã trên trang PSA thì
+[0823.20] vẫn thấy được thông tin đúng thì cứ
+[0824.36] tưởng là mình đang cầm hàng thật. Một
+[0825.76] cách khác là đập cái hộp thật ra, cháo
+[0827.40] thẻ dởm vào rồi dùng keo dán lại. Vì vậy
+[0829.48] thì muốn tự bảo vệ mình thì người mua sẽ
+[0830.96] phải kiểm tra kỹ cả chiếc hộp. Với hộp
+[0832.64] PSA thì họ sẽ phải dùng đèn tia cực tím
+[0834.76] để chiếu vào nhãn. Hộp thật thì sẽ hiện
+[0836.48] những cái logo ẩn phát sáng, còn hộp giả
+[0838.12] thì sẽ không có hoặc là cả cái nhãn nó
+[0839.56] sáng rực lên. Rồi là kiểm tra cả cái
+[0841.16] đường hàn ở mép hộp nữa. Hộp thật thì
+[0842.84] được hàn bằng sóng siêu âm nên là viền
+[0844.60] có độ mờ nhám đều nhau, còn hộp giả thì
+[0846.64] sẽ có vết keo hoặc là vết nứt chẳng hạn.
+[0848.36] Rồi là cái tem ba chiều trên hộp thật
+[0849.84] thì sẽ đổi màu khi mà nghiêng và tem giả
+[0851.84] thì nó sẽ mờ mờ, nó không đổi màu. Ngoài
+[0853.96] chuyện mua phải hàng giả ra ấy thì còn
+[0855.24] có rủi ro từ cách mà người ta bán bài.
+[0857.32] Đó là hình thức xé bài hay là box break
+[0859.44] đang thành trend trên mạng xã hội. Một
+[0861.00] người bán sẽ mua vài hộp đắt tiền rồi
+[0862.80] livestream chia hộp thành nhiều vị trí
+[0864.36] để bán cho người xem. Ví dụ như là bạn
+[0865.88] trả tiền để chọn một nhân vật thì người
+[0867.48] bán sẽ xé gói trên sóng trực tiếp ra
+[0869.40] đúng nhân vật đó thì bạn lại được thẻ.
+[0871.20] Còn không thì mất trắng tiền. Và tất
+[0872.64] nhiên cái này trông rất là giống cờ bạc
+[0874.08] trá hình tại vì là bạn trả tiền để hy
+[0875.92] vọng một kết quả ngẫu nhiên nó sẽ xảy
+[0877.28] ra. Gần đây thì những nền tảng thương
+[0878.84] mại như là Whatnot và Fantastic Live đã
+[0880.52] bị kiện tại vì là vi phạm pháp luật liên
+[0883.08] quan đến tổ chức cờ bạc không đăng ký.
+[0884.92] Ngoài câu chuyện cờ bạc như thế thì cái
+[0886.88] hình thức này còn ảnh hưởng đến tâm lý
+[0888.36] của người trẻ. Tại vì là kể cả không
+[0890.16] phải trẻ con, người lớn thì thấy mọi
+[0891.68] người trên mạng liên tục mở bài xong rồi
+[0893.36] bị FOMO thì nhiều người lại mua bỏ tiền
+[0895.32] vào, cứ mua vị trí xem người bán xé bài
+[0897.72] rồi chờ kết quả. Lặp đi lặp lại như thế
+[0899.56] thì cái việc mua bài bắt đầu giống như
+[0901.12] việc là chơi máy đánh bạc trong sòng bài
+[0902.76] và nhiều thanh niên cứ thế tiêu tiền quá
+[0904.48] mức kiểm soát. Bên ngoài sòng livestream
+[0906.48] thì ngoài cửa hàng cũng có những người
+[0907.80] mà tìm cách gom bài về để bán lại. Đó là
+[0910.12] vấn đề về đầu cơ và ôm hàng. Thấy cái
+[0911.84] thẻ bài có thể sinh lời nhanh thì họ
+[0913.28] dùng phần mềm tự động để mua sạch hàng
+[0914.88] trên web ngay khi mà vừa mở bán hoặc là
+[0916.72] đến siêu thị để gom hết hộp bài trên kệ.
+[0918.64] Thành ra là người thực sự muốn chơi thì
+[0919.88] lại không mua được với giá gốc mà muốn
+[0921.24] có bài thì phải lên chợ mạng trả giá cao
+[0923.08] gấp hai gấp ba lần và một trò giải trí
+[0925.20] cứ thế để trở thành một công cụ kiếm
+[0926.60] lời. Nhưng mà cái trò mua đắt xong rồi
+[0928.56] bán đắt hơn ý thì chỉ có thể tiếp tục
+[0930.08] khi mà vẫn có người chịu trả tiền thôi.
+[0931.80] Thế nên là giá càng tăng ý thì người đầu
+[0933.24] tư TCG lại càng lo một chuyện là liệu
+[0935.44] đến lúc nào đó thị trường có sụp đổ như
+[0937.36] thể thao hay là quần áo hype trước đây
+[0938.80] không. Với thẻ thể thao ấy thì chuyện
+[0940.56] này đã từng xảy ra ở Mỹ vào những năm
+[0942.12] 1980 đến 1990. Lúc đó thì mọi người đổ
+[0944.60] xô đi mua thẻ bóng chày. Các công ty
+[0946.36] thấy bán được thì cứ in thêm. Một thẻ
+[0948.16] thì được in hàng triệu bản mà cũng không
+[0949.44] nghĩ đến cái chuyện là có bán được
+[0950.40] không. Cái giai đoạn này được gọi là
+[0952.04] junk wax hay là thời kỳ sáp rác. Tên gọi
+[0954.48] ám chỉ những cái tấm thẻ vô giá trị được
+[0956.04] bọc trong lớp sáp. Bởi vì là có nhiều
+[0958.04] thẻ bài đến mức đấy thì cái sự khan hiếm
+[0959.48] nó cũng mất đi và giá nó tụt không phanh
+[0961.32] và nhiều người lại mất trắng tiền đầu
+[0962.48] tư. TCG hiện tại ý thì có cái điểm khác
+[0964.76] đó là các a kiểm soát số lượng này.
+[0966.20] Những công ty như là Pokémon hay là
+[0967.44] Bandai Namco ấy thì quản lý độ hiếm cực
+[0969.12] kỳ tốt. Thẻ cơ bản được in nhiều để
+[0971.00] người chơi mua về giá rẻ. Còn thẻ hiếm
+[0972.88] ấy thì chỉ được in số lượng rất là nhỏ
+[0974.56] nên là vẫn giữ được độ hiếm. Chưa kể là
+[0976.60] hệ thống chấm điểm nó còn tạo thêm một
+[0978.08] cái lớp khan hiếm nữa. Dù một thẻ được
+[0979.84] in nhiều nhưng mà số tấm đạt điểm 10
+[0981.56] hoàn hảo vẫn là ít. Nhưng mà giữ được độ
+[0983.20] hiếm thì cũng chưa trả lời được hết câu
+[0984.52] hỏi tại vì là quần áo hype trước đây
+[0986.04] cũng được bán với số lượng giới hạn đấy
+[0987.28] thôi. Vài năm trước giới trẻ phát cuồng
+[0989.24] với quần áo đường phố. Các hãng thì giới
+[0990.96] hạn số lượng để đẩy giá bán lên. Nhiều
+[0992.80] người săn đồ để bán lại kiếm lời thay vì
+[0994.60] để mua về mặc. Rồi đến lúc cái trào lưu
+[0996.08] này qua đi thì giá nó vẫn tụt. Thì TCG
+[0998.32] cũng có những người mua đi bán lại để
+[0999.68] kiếm lời nhanh như vậy. Nhưng bên cạnh
+[1001.24] thì họ vẫn có những người mua bài để
+[1002.56] chơi. Thì đó là lý do để khiến TCG bền
+[1004.76] hơn. Tại vì là cái thẻ bài thì vốn được
+[1006.48] làm ra để đấu với nhau. Và các nhà phát
+[1008.16] hành thì cũng liên tục tổ chức giải đấu
+[1009.56] trên toàn cầu. Và chừng nào luật chơi
+[1011.20] còn hay và giải đấu còn được tổ chức ấy
+[1012.76] thì mọi người vẫn sẽ còn mua bài về đấu.
+[1014.76] Một cái quần áo mua để khoe thì có thể
+[1016.36] là hết hấp dẫn khi mà nó hết trend. Còn
+[1018.00] thẻ bài thì vẫn có cộng đồng thực sự để
+[1019.56] sử dụng nó. Rồi lại cả những người sưu
+[1021.16] tập nữa. TCG dựa vào cốt truyện của
+[1023.08] những thương hiệu đã tồn tại hàng chục
+[1024.40] năm. Những kỷ niệm gắn với những cái này
+[1026.24] thì cũng kéo dài hơn là một xu hướng
+[1027.68] thời trang sớm nở tối tàn. Thế nên là
+[1029.48] cái thị trường này thì khó mà thối trào
+[1031.24] và sụp đổ hoàn toàn được. Nhưng mà điều
+[1032.88] này không có nghĩa là giá thẻ sẽ luôn
+[1034.52] được giữ nguyên. Tại vì như chúng ta vừa
+[1036.12] nói thì nhiều người vào đây chỉ để kiếm
+[1037.84] tiền. Nếu mà kinh tế đi xuống ấy thì họ
+[1039.64] sẽ bán tháo để lấy tiền mặt. Và khi đó
+[1041.60] ấy thì giá trên cái thị trường thứ cấp,
+[1043.08] tức là thị trường mua đi bán lại sẽ giảm
+[1044.76] mạnh. Các bạn nghĩ sao về câu chuyện này
+[1046.32] thì hãy comment bên dưới. Tôi là Long,
+[1047.64] đừng quên đăng ký để không bỏ lỡ bất kỳ
+[1048.92] video nào. Xin chào và hẹn gặp lại.

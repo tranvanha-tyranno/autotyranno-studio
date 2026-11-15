@@ -1,0 +1,684 @@
+{
+  "schema": "business-visual-plan/1",
+  "shots": [
+    {
+      "id": "h01",
+      "images": [
+        {
+          "id": "clip-busy-cafe",
+          "trimBeforeFrames": 0
+        },
+        {
+          "id": "clip-espresso-extract",
+          "trimBeforeFrames": 0
+        },
+        "vn-hue-cafe"
+      ],
+      "sourceNote": "Tư liệu minh họa · Nazim Zafri / Pexels License; Max Medyk / Pexels License; David McKelvey  from Brisbane, Australia / CC BY 2.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Wide cafe interior with many occupied tables; people talk and someone moves across seating area. Some empty chairs remain. | Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible."
+    },
+    {
+      "id": "h02",
+      "images": [
+        "vn-rin-cafe-cup",
+        "vn-saigon-coffee-phin",
+        "vn-dalat-cafe"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0; Takeaway / CC BY-SA 3.0; Bino Storyteller  curiousbino / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"01\", \"title\": \"Chưa đủ sản lượng\"}, {\"label\": \"02\", \"title\": \"Mỗi đơn còn ít\"}, {\"label\": \"03\", \"title\": \"Lệch lịch thu–chi\"}]",
+      "cuePhrases": [
+        "Có thể mỗi đơn",
+        "hoặc tiền phải chi"
+      ]
+    },
+    {
+      "id": "h03",
+      "images": [
+        {
+          "id": "clip-espresso-flow",
+          "trimBeforeFrames": 0
+        }
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Thomas Windisch / Pexels License",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change."
+    },
+    {
+      "id": "d01",
+      "images": [
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "u01",
+      "images": [
+        {
+          "id": "clip-phone-payment",
+          "trimBeforeFrames": 0
+        },
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Kampus Production / Pexels License; Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Customer holds smartphone near a terminal; cashier handles terminal, tears a receipt and hands paper to customer. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card."
+    },
+    {
+      "id": "u02",
+      "images": [
+        {
+          "id": "clip-espresso-grinder",
+          "trimBeforeFrames": 0
+        },
+        {
+          "id": "clip-pour-milk",
+          "trimBeforeFrames": 0
+        },
+        "vn-saigon-coffee-food"
+      ],
+      "sourceNote": "Tư liệu minh họa · K / Pexels License; Rachel Claire / Pexels License; 源義信 / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Tattooed hand holds a double-spout portafilter beneath an electric coffee grinder chute; brown ground coffee visibly falls into the filter basket. | Barista pours milk from metal pitcher into paper cup, then handles white lid over cup. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray."
+    },
+    {
+      "id": "u03",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"MỘT LY / VÍ DỤ GIẢ ĐỊNH\", \"rows\": [{\"label\": \"Giá bán\", \"value\": \"35.000đ\"}, {\"label\": \"Biến phí mỗi ly\", \"value\": \"−15.000đ\"}], \"total\": {\"label\": \"Phần đóng góp\", \"value\": \"20.000đ\"}}",
+      "cuePhrases": [
+        "ba mươi lăm trừ",
+        "mười lăm",
+        "hai mươi nghìn"
+      ]
+    },
+    {
+      "id": "u04",
+      "images": [
+        "vn-saigon-coffee-phin"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "cuePhrases": [
+        "Hai mươi nghìn ấy",
+        "Tiền thuê nhà",
+        "cả tháng"
+      ]
+    },
+    {
+      "id": "u05",
+      "images": [
+        "global-milk-frothing",
+        "global-milk-pour"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Daniel Case / CC BY-SA 3.0; Tim Wright  timdwright / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"PHẦN NỀN\", \"title\": \"Lương theo tháng\", \"body\": \"Trong phạm vi công suất đang xét\"}, {\"label\": \"PHẦN TĂNG\", \"title\": \"Làm thêm giờ\", \"body\": \"Thay đổi khi lượng việc tăng\"}]",
+      "cuePhrases": [
+        "Nhân viên",
+        "làm thêm giờ"
+      ]
+    },
+    {
+      "id": "u06",
+      "images": [
+        {
+          "id": "clip-steam-milk",
+          "trimBeforeFrames": 0
+        },
+        "global-milk-frothing",
+        "vn-saigon-coffee-phin"
+      ],
+      "sourceNote": "Tư liệu minh họa · Taryn Elliott / Pexels License; Daniel Case / CC BY-SA 3.0; Takeaway / CC BY-SA 3.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Hands hold stainless pitcher under espresso-machine steam wand; pitcher moves and is removed. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind."
+    },
+    {
+      "id": "u07",
+      "images": [
+        {
+          "id": "clip-pour-milk",
+          "trimBeforeFrames": 96
+        },
+        "vn-saigon-coffee-food",
+        "global-milk-pour"
+      ],
+      "sourceNote": "Tư liệu minh họa · Rachel Claire / Pexels License; 源義信 / CC BY 4.0; Tim Wright  timdwright / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista pours milk from metal pitcher into paper cup, then handles white lid over cup. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray. | Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern."
+    },
+    {
+      "id": "u08",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card."
+    },
+    {
+      "id": "u09",
+      "images": [
+        {
+          "id": "clip-cafe-tables",
+          "trimBeforeFrames": 0
+        },
+        "vn-hue-cafe",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Israel Torres / Pexels License; David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: People sit around several tables; a person walks through central aisle and patrons talk or gesture. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "b01",
+      "images": [
+        "vn-cafe-tayho"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Phương Huy / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CHI PHÍ CỐ ĐỊNH / THÁNG\", \"rows\": [{\"label\": \"Thuê mặt bằng\", \"value\": \"18 triệu\"}, {\"label\": \"Nhân sự\", \"value\": \"22 triệu\"}, {\"label\": \"Chi phí nền khác\", \"value\": \"8 triệu\"}], \"total\": {\"label\": \"Tổng giả định\", \"value\": \"48 triệu\"}}",
+      "cuePhrases": [
+        "mười tám triệu",
+        "hai mươi hai triệu",
+        "là tám triệu"
+      ]
+    },
+    {
+      "id": "b02",
+      "images": [
+        "vn-cafe-tayho",
+        "vn-cafe-oxy-tables"
+      ],
+      "sourceNote": "Tư liệu minh họa · Phương Huy / CC BY-SA 4.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table."
+    },
+    {
+      "id": "b03",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0 · Công thức: SBA",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÔNG THỨC HÒA VỐN / GIẢ ĐỊNH\", \"rows\": [{\"label\": \"Chi phí cố định/tháng\", \"value\": \"48.000.000đ\"}, {\"label\": \"Phần đóng góp/ly\", \"value\": \"÷20.000đ\"}], \"total\": {\"label\": \"Số ly/tháng\", \"value\": \"2.400 ly\"}}",
+      "cuePhrases": [
+        "bốn mươi tám triệu",
+        "Chia ra",
+        "hai nghìn bốn trăm"
+      ]
+    },
+    {
+      "id": "b04",
+      "images": [
+        "vn-saigon-coffee-phin"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "cuePhrases": [
+        "Nếu mở đủ",
+        "tám mươi ly",
+        "chưa bảo đảm"
+      ]
+    },
+    {
+      "id": "b05",
+      "images": [],
+      "sourceNote": "Mô hình minh họa gốc · Công thức: SBA",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"breakeven\", \"items\": [{\"label\": \"40\", \"x\": 40, \"value\": 24}, {\"label\": \"80\", \"x\": 80, \"value\": 48}, {\"label\": \"120\", \"x\": 120, \"value\": 72}], \"fixed\": 48, \"max\": 80, \"unit\": \"triệu đồng/tháng\", \"xLabel\": \"Ly/ngày · 30 ngày\", \"highlight\": 1}"
+    },
+    {
+      "id": "b06",
+      "images": [
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"3.000 LY / 30 NGÀY\", \"rows\": [{\"label\": \"Doanh thu\", \"value\": \"105 triệu\"}, {\"label\": \"Biến phí\", \"value\": \"−45 triệu\"}], \"total\": {\"label\": \"Phần đóng góp\", \"value\": \"60 triệu\"}}",
+      "cuePhrases": [
+        "một trăm lẻ năm",
+        "bốn mươi lăm",
+        "sáu mươi triệu"
+      ]
+    },
+    {
+      "id": "b07",
+      "images": [],
+      "sourceNote": "Mô hình minh họa gốc",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"waterfall\", \"items\": [{\"label\": \"Doanh thu\", \"value\": 105}, {\"label\": \"Biến phí\", \"value\": -45}, {\"label\": \"Cố định\", \"value\": -48}, {\"label\": \"Còn lại*\", \"value\": 12}], \"unit\": \"triệu đồng\", \"max\": 120}",
+      "cuePhrases": [
+        "Trả tiếp",
+        "Trả tiếp",
+        "bốn mươi tám triệu",
+        "mười hai triệu"
+      ]
+    },
+    {
+      "id": "b08",
+      "images": [
+        {
+          "id": "clip-close-shift",
+          "trimBeforeFrames": 0
+        },
+        "global-milk-frothing",
+        "vn-cafe-oxy-tables"
+      ],
+      "sourceNote": "Tư liệu minh họa · Ron Lach / Pexels License; Daniel Case / CC BY-SA 3.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table."
+    },
+    {
+      "id": "v01",
+      "images": [
+        {
+          "id": "clip-cafe-tables",
+          "trimBeforeFrames": 109
+        },
+        "vn-cafe-oxy-tables",
+        "vn-hue-cafe"
+      ],
+      "sourceNote": "Tư liệu minh họa · Israel Torres / Pexels License; Lê Huỳnh Bộ / CC BY-SA 4.0; David McKelvey  from Brisbane, Australia / CC BY 2.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: People sit around several tables; a person walks through central aisle and patrons talk or gesture. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible."
+    },
+    {
+      "id": "v02",
+      "images": [],
+      "sourceNote": "Mô hình minh họa gốc",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"bars\", \"items\": [{\"label\": \"Buổi sáng\", \"value\": 60}, {\"label\": \"Còn lại\", \"value\": 10}, {\"label\": \"Cả ngày\", \"value\": 70}], \"max\": 90, \"unit\": \"ly\", \"target\": 80}",
+      "cuePhrases": [
+        "sáu mươi ly",
+        "mười ly",
+        "bảy mươi"
+      ]
+    },
+    {
+      "id": "v03",
+      "images": [
+        {
+          "id": "clip-serve-coffee",
+          "trimBeforeFrames": 0
+        },
+        "vn-saigon-coffee-food",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; 源義信 / CC BY 4.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "v04",
+      "images": [
+        "vn-hue-cafe",
+        "vn-cafe-oxy-tables"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"QUAN SÁT\", \"title\": \"Có lúc kín bàn\"}, {\"label\": \"ĐO LƯỜNG\", \"title\": \"Đơn × phần đóng góp\", \"body\": \"Theo ngày và kênh bán\"}]"
+    },
+    {
+      "id": "v05",
+      "images": [
+        {
+          "id": "clip-steam-milk",
+          "trimBeforeFrames": 98
+        },
+        "global-milk-frothing",
+        {
+          "id": "clip-espresso-extract",
+          "trimBeforeFrames": 100
+        }
+      ],
+      "sourceNote": "Tư liệu minh họa · Taryn Elliott / Pexels License; Daniel Case / CC BY-SA 3.0; Max Medyk / Pexels License",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Hands hold stainless pitcher under espresso-machine steam wand; pitcher moves and is removed. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup."
+    },
+    {
+      "id": "v06",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card."
+    },
+    {
+      "id": "p01",
+      "images": [
+        "global-milk-pour"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Tim Wright  timdwright / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"GIẢ ĐỊNH KHUYẾN MẠI\", \"rows\": [{\"label\": \"Giá mới\", \"value\": \"29.000đ\"}, {\"label\": \"Biến phí giữ nguyên\", \"value\": \"−15.000đ\"}], \"total\": {\"label\": \"Phần đóng góp mới\", \"value\": \"14.000đ\"}}",
+      "cuePhrases": [
+        "hai mươi chín nghìn",
+        "mười lăm nghìn",
+        "mười bốn nghìn"
+      ]
+    },
+    {
+      "id": "p02",
+      "images": [],
+      "sourceNote": "Mô hình minh họa gốc",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"bars\", \"items\": [{\"label\": \"Trước\", \"value\": 20}, {\"label\": \"Sau\", \"value\": 14}], \"unit\": \"nghìn đồng/ly\", \"max\": 24, \"highlight\": 1}",
+      "cuePhrases": [
+        "hai mươi",
+        "mười bốn",
+        "ba mươi phần trăm"
+      ]
+    },
+    {
+      "id": "p03",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÙNG MỘT MỤC TIÊU ĐÓNG GÓP\", \"rows\": [{\"label\": \"Mục tiêu\", \"value\": \"60.000.000đ\"}, {\"label\": \"Mỗi ly giá mới\", \"value\": \"14.000đ\"}], \"total\": {\"label\": \"Số ly làm tròn lên\", \"value\": \"4.286 ly\"}}",
+      "cuePhrases": [
+        "sáu mươi triệu",
+        "bốn nghìn hai trăm tám mươi lăm",
+        "bốn nghìn hai trăm tám mươi sáu"
+      ]
+    },
+    {
+      "id": "p04",
+      "images": [],
+      "sourceNote": "Mô hình minh họa gốc",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"bars\", \"items\": [{\"label\": \"Giá cũ\", \"value\": 3000}, {\"label\": \"Giá mới\", \"value\": 4286}], \"max\": 5000, \"unit\": \"ly/tháng\", \"highlight\": 1}",
+      "cuePhrases": [
+        "bốn mươi ba phần trăm"
+      ]
+    },
+    {
+      "id": "p05",
+      "images": [
+        "vn-saigon-coffee-phin"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÙNG 48 TRIỆU CHI PHÍ CỐ ĐỊNH\", \"rows\": [{\"label\": \"Phần đóng góp mới\", \"value\": \"14.000đ/ly\"}, {\"label\": \"Số ly/tháng làm tròn lên\", \"value\": \"3.429 ly\"}], \"total\": {\"label\": \"Bình quân 30 ngày\", \"value\": \"≈115 ly/ngày\"}}",
+      "cuePhrases": [
+        "bốn mươi tám triệu",
+        "ba nghìn bốn trăm hai mươi chín",
+        "một trăm mười lăm"
+      ]
+    },
+    {
+      "id": "p06",
+      "images": [
+        {
+          "id": "clip-serve-coffee",
+          "trimBeforeFrames": 105
+        },
+        "vn-hanoi-cup",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; Vyacheslav Argenberg / CC BY 4.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "p07",
+      "images": [
+        "vn-rin-cafe-cup",
+        "vn-saigon-coffee-food"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0; 源義信 / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"THỬ SẢN PHẨM\", \"title\": \"Khách có quay lại?\"}, {\"label\": \"KINH TẾ ĐƠN HÀNG\", \"title\": \"Đóng góp có tăng?\"}]"
+    },
+    {
+      "id": "p08",
+      "images": [
+        "vn-cafe-oxy-tables",
+        "vn-hue-cafe",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Lê Huỳnh Bộ / CC BY-SA 4.0; David McKelvey  from Brisbane, Australia / CC BY 2.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "p09",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card."
+    },
+    {
+      "id": "m01",
+      "images": [
+        "vn-dalat-cafe"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Bino Storyteller  curiousbino / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind."
+    },
+    {
+      "id": "m02",
+      "images": [
+        "vn-saigon-coffee-phin",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0; Lê Huỳnh Bộ / CC BY-SA 4.0 · Tham khảo: Business Queensland / business.gov.au",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"KẾT QUẢ\", \"title\": \"Thuộc kỳ nào?\"}, {\"label\": \"TIỀN MẶT\", \"title\": \"Thu, chi ngày nào?\"}]",
+      "cuePhrases": [
+        "Một bên",
+        "Bên kia"
+      ]
+    },
+    {
+      "id": "m03",
+      "images": [
+        "coffee-roast-location-unverified"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Cafely / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"HAI THỜI ĐIỂM KHÁC NHAU\", \"rows\": [{\"label\": \"Trả tiền mua nguyên liệu\", \"value\": \"Hôm nay\"}, {\"label\": \"Dùng nguyên liệu để bán\", \"value\": \"Dần nhiều tuần\"}], \"total\": {\"label\": \"Hàng còn lại\", \"value\": \"Cần theo dõi\"}}",
+      "cuePhrases": [
+        "tiền ra ngay",
+        "hàng vẫn còn trong kho"
+      ]
+    },
+    {
+      "id": "m04",
+      "images": [
+        "vn-cafe-tayho"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Phương Huy / CC BY-SA 4.0 · Tham khảo: Business Queensland / business.gov.au",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"PHÂN LOẠI TRƯỚC KHI CỘNG\", \"rows\": [{\"label\": \"Tiền thuê của tháng\", \"value\": \"Chi phí theo kỳ\"}, {\"label\": \"Tiền đặt cọc\", \"value\": \"Tiền bị giữ theo hợp đồng\"}]}",
+      "cuePhrases": [
+        "Đặt cọc",
+        "không đơn giản"
+      ]
+    },
+    {
+      "id": "m05",
+      "images": [
+        {
+          "id": "clip-espresso-flow",
+          "trimBeforeFrames": 269
+        },
+        {
+          "id": "clip-espresso-extract",
+          "trimBeforeFrames": 213
+        },
+        "global-espresso-extraction"
+      ],
+      "sourceNote": "Tư liệu minh họa · Thomas Windisch / Pexels License; Max Medyk / Pexels License; The original uploader was  Coffeegeek  at  English Wikipedia . / Public domain",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change. | Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup. | Two streams of espresso flow from machine portafilter into two clear cups on drip tray."
+    },
+    {
+      "id": "m06",
+      "images": [
+        "vn-hanoi-cup",
+        "vn-saigon-coffee-food"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0; 源義信 / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"TẠI QUẦY\", \"title\": \"Tiền thu ngay\", \"body\": \"Khi thực sự được thanh toán\"}, {\"label\": \"KÊNH ĐỐI SOÁT\", \"title\": \"Tiền chuyển về sau\", \"body\": \"Tùy thỏa thuận cụ thể\"}]"
+    },
+    {
+      "id": "m07",
+      "images": [],
+      "sourceNote": "Mô hình minh họa gốc",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"waterfall\", \"items\": [{\"label\": \"Đầu tuần\", \"value\": 20}, {\"label\": \"Thu trong tuần\", \"value\": 15}, {\"label\": \"Khoản đến hạn\", \"value\": -40}, {\"label\": \"Còn thiếu\", \"value\": -5}], \"unit\": \"triệu đồng\", \"max\": 45}",
+      "cuePhrases": [
+        "hai mươi triệu",
+        "mười lăm triệu",
+        "bốn mươi triệu",
+        "Thiếu năm triệu"
+      ]
+    },
+    {
+      "id": "m08",
+      "images": [
+        "vn-dalat-cafe"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Bino Storyteller  curiousbino / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind."
+    },
+    {
+      "id": "m09",
+      "images": [
+        "vn-cafe-oxy-tables"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0 · Tham khảo: Business Queensland / business.gov.au",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"TUẦN TỚI\", \"rows\": [{\"label\": \"Bắt đầu với bao nhiêu?\", \"value\": \"Số dư\"}, {\"label\": \"Thu khoản nào, ngày nào?\", \"value\": \"Dự kiến thu\"}, {\"label\": \"Chi khoản nào, hạn nào?\", \"value\": \"Đến hạn\"}], \"total\": {\"label\": \"Cuối kỳ dự kiến\", \"value\": \"Cần đối chiếu\"}}",
+      "cuePhrases": [
+        "số dư đầu kỳ",
+        "tiền dự kiến thu",
+        "khoản phải chi"
+      ]
+    },
+    {
+      "id": "a01",
+      "images": [
+        {
+          "id": "clip-close-shift",
+          "trimBeforeFrames": 106
+        },
+        "vn-dalat-cafe",
+        "vn-cafe-tayho"
+      ],
+      "sourceNote": "Tư liệu minh họa · Ron Lach / Pexels License; Bino Storyteller  curiousbino / CC0; Phương Huy / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe. | A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind. | Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside."
+    },
+    {
+      "id": "a02",
+      "images": [
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"ĐƠN HÀNG THỰC TẾ\", \"rows\": [{\"label\": \"Giá thực thu\", \"value\": \"Sau điều chỉnh\"}, {\"label\": \"Chi phí đi cùng\", \"value\": \"Theo món và kênh\"}], \"total\": {\"label\": \"Phần đóng góp\", \"value\": \"Cần tính lại\"}}",
+      "cuePhrases": [
+        "giá thực thu",
+        "chi phí trực tiếp"
+      ]
+    },
+    {
+      "id": "a03",
+      "images": [
+        {
+          "id": "clip-serve-coffee",
+          "trimBeforeFrames": 214
+        },
+        "global-milk-frothing",
+        "vn-cafe-tayho"
+      ],
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; Daniel Case / CC BY-SA 3.0; Phương Huy / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside."
+    },
+    {
+      "id": "a04",
+      "images": [
+        "vn-hue-cafe",
+        "vn-cafe-oxy-tables",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "a05",
+      "images": [
+        {
+          "id": "clip-espresso-extract",
+          "trimBeforeFrames": 330
+        },
+        "global-milk-pour",
+        "vn-saigon-coffee-food"
+      ],
+      "sourceNote": "Tư liệu minh họa · Max Medyk / Pexels License; Tim Wright  timdwright / CC0; 源義信 / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup. | Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray."
+    },
+    {
+      "id": "a06",
+      "images": [
+        "vn-rin-cafe-cup",
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0; Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"TRƯỚC\", \"title\": \"Một cách vận hành\"}, {\"label\": \"SAU\", \"title\": \"Một thay đổi rõ\", \"body\": \"Ghi điều kiện đi cùng\"}]"
+    },
+    {
+      "id": "a07",
+      "images": [
+        "vn-cafe-oxy-tables"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÙNG NHÌN MỘT QUÁN\", \"rows\": [{\"label\": \"Mỗi đơn để lại\", \"value\": \"Bao nhiêu?\"}, {\"label\": \"Cả ngày bán được\", \"value\": \"Bao nhiêu?\"}, {\"label\": \"Tiền về và đi\", \"value\": \"Ngày nào?\"}]}",
+      "cuePhrases": [
+        "phần đóng góp mỗi đơn",
+        "lượng đơn",
+        "lịch tiền mặt"
+      ]
+    },
+    {
+      "id": "a08",
+      "images": [
+        {
+          "id": "clip-espresso-flow",
+          "trimBeforeFrames": 386
+        },
+        "global-milk-frothing",
+        "vn-saigon-coffee-phin"
+      ],
+      "sourceNote": "Tư liệu minh họa · Thomas Windisch / Pexels License; Daniel Case / CC BY-SA 3.0; Takeaway / CC BY-SA 3.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind."
+    },
+    {
+      "id": "e01",
+      "images": [
+        {
+          "id": "clip-busy-cafe",
+          "trimBeforeFrames": 100
+        },
+        "vn-hue-cafe",
+        "vn-rin-cafe-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Nazim Zafri / Pexels License; David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Wide cafe interior with many occupied tables; people talk and someone moves across seating area. Some empty chairs remain. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe."
+    },
+    {
+      "id": "e02",
+      "images": [
+        "vn-saigon-coffee-phin"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind."
+    },
+    {
+      "id": "e03",
+      "images": [
+        {
+          "id": "clip-serve-coffee",
+          "trimBeforeFrames": 333
+        },
+        "global-milk-pour",
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; Tim Wright  timdwright / CC0; Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card."
+    },
+    {
+      "id": "e04",
+      "images": [
+        "vn-dalat-cafe"
+      ],
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Bino Storyteller  curiousbino / CC0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind."
+    },
+    {
+      "id": "e05",
+      "images": [
+        {
+          "id": "clip-close-shift",
+          "trimBeforeFrames": 210
+        },
+        "vn-cafe-oxy-tables",
+        "vn-hanoi-cup"
+      ],
+      "sourceNote": "Tư liệu minh họa · Ron Lach / Pexels License; Lê Huỳnh Bộ / CC BY-SA 4.0; Vyacheslav Argenberg / CC BY 4.0",
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card."
+    }
+  ],
+  "reviewScope": "Root opened all4photo sheets and3video sheets, actual sampled source pixels. Rendered crop/motion inspection remains pending."
+}

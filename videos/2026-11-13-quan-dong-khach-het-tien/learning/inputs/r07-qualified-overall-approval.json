@@ -1,0 +1,34 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r07",
+  "reviewer": {
+    "kind": "human_user",
+    "name": "User"
+  },
+  "target": {
+    "clause_id": "__whole_video__",
+    "narration": "Grocery explainer205s: Một món cần mua, cả giỏ mang về.",
+    "start": 0,
+    "end": 205.0
+  },
+  "method": "human_feedback",
+  "evidence": [
+    {
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/final.mp4",
+      "role": "render",
+      "sha256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861",
+      "description": "Actual retained grocery r07 final,205s; this is the video to which the user opening approval refers."
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/learning/evidence/user-business-upgrade-request-2026-11-13.txt",
+      "role": "feedback",
+      "sha256": "f7513fe71cd0b208500284a2401c08236ec5aa4f977fe0f55362e8ec1aa27596",
+      "description": "Exact UTF-8 latest user request, including qualified approval and following new production request."
+    }
+  ],
+  "dimension": "overall",
+  "decision": "accepted",
+  "quote": "tôi thấy khá ổn đỉnh rồi",
+  "observation": "The user explicitly says the retained grocery r07 is fairly stable/okay. This qualified overall acceptance is preserved separately from their request to improve the process and make a new, longer original business video. It does not accept any new business render.",
+  "action": "Retain this r07 as qualified user-accepted prior output; preserve its hashes. Apply the new request in a separate business batch and keep new output pending feedback."
+}

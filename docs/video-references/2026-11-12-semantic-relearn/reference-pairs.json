@@ -1,0 +1,222 @@
+[
+  {
+    "channel": "long",
+    "videoId": "JlfAd_OaFek",
+    "frameTime": 3.8,
+    "phrase": "ảnh AI làm menu",
+    "spokenMeaning": "Ảnh món ăn AI được đưa lên thực đơn quán ăn",
+    "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=3s",
+    "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+    "decodedFrameTime": 3.8038000000000003,
+    "file": "frames/JlfAd_OaFek-0003.800.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "JlfAd_OaFek",
+    "frameTime": 8.5,
+    "phrase": "việc học",
+    "spokenMeaning": "Chuyển sang việc học có hỗ trợ AI",
+    "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=8s",
+    "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+    "decodedFrameTime": 8.5085,
+    "file": "frames/JlfAd_OaFek-0008.500.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "JlfAd_OaFek",
+    "frameTime": 405.8,
+    "phrase": "viết báo cáo",
+    "spokenMeaning": "Một người xử lý dữ liệu rồi làm báo cáo",
+    "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=405s",
+    "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+    "decodedFrameTime": 405.8054,
+    "file": "frames/JlfAd_OaFek-0405.800.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "JlfAd_OaFek",
+    "frameTime": 410.7,
+    "phrase": "kiểm tra thông tin",
+    "spokenMeaning": "Con người vẫn cần kiểm chứng và đánh giá kết quả",
+    "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=410s",
+    "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+    "decodedFrameTime": 410.7103000000001,
+    "file": "frames/JlfAd_OaFek-0410.700.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "JlfAd_OaFek",
+    "frameTime": 452.8,
+    "phrase": "kiểm tra code",
+    "spokenMeaning": "Kỹ sư thực sự viết và kiểm tra mã",
+    "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=452s",
+    "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+    "decodedFrameTime": 452.7856666666667,
+    "file": "frames/JlfAd_OaFek-0452.800.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "podWgLH4b3M",
+    "frameTime": 4.5,
+    "phrase": "thiên đường mua sắm",
+    "spokenMeaning": "Nơi mua quần áo online với nhiều lựa chọn",
+    "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=4s",
+    "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+    "decodedFrameTime": 4.5045,
+    "file": "frames/podWgLH4b3M-0004.500.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "podWgLH4b3M",
+    "frameTime": 127,
+    "phrase": "mẫu mới mỗi ngày",
+    "spokenMeaning": "Số lượng mẫu thời trang được tung ra mỗi ngày",
+    "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=127s",
+    "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+    "decodedFrameTime": 126.99353333333335,
+    "file": "frames/podWgLH4b3M-0127.000.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "podWgLH4b3M",
+    "frameTime": 200.3,
+    "phrase": "ngưỡng miễn thuế",
+    "spokenMeaning": "Hạn mức cho một gói hàng nhỏ",
+    "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=200s",
+    "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+    "decodedFrameTime": 200.30010000000001,
+    "file": "frames/podWgLH4b3M-0200.300.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "podWgLH4b3M",
+    "frameTime": 215,
+    "phrase": "từng đơn hàng nhỏ",
+    "spokenMeaning": "Gửi trực tiếp từng kiện tới người mua",
+    "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=215s",
+    "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+    "decodedFrameTime": 215.0148,
+    "file": "frames/podWgLH4b3M-0215.000.jpg"
+  },
+  {
+    "channel": "long",
+    "videoId": "podWgLH4b3M",
+    "frameTime": 274.8,
+    "phrase": "Quần áo nữ",
+    "spokenMeaning": "Phân biệt nhóm quần áo nữ trong câu chuyện tăng giá",
+    "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=274s",
+    "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+    "decodedFrameTime": 274.80786666666665,
+    "file": "frames/podWgLH4b3M-0274.800.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "29B8-FtuC6U",
+    "frameTime": 7.8,
+    "phrase": "năng lực sản xuất",
+    "spokenMeaning": "Năng lực sản xuất của nền kinh tế",
+    "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=7s",
+    "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+    "decodedFrameTime": 7.8,
+    "file": "frames/29B8-FtuC6U-0007.800.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "29B8-FtuC6U",
+    "frameTime": 10.5,
+    "phrase": "thiếu là sức mua",
+    "spokenMeaning": "Nhu cầu mua thay vì năng lực làm ra hàng",
+    "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=10s",
+    "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+    "decodedFrameTime": 10.5,
+    "file": "frames/29B8-FtuC6U-0010.500.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "29B8-FtuC6U",
+    "frameTime": 27.8,
+    "phrase": "đầu bếp nấu",
+    "spokenMeaning": "Ẩn dụ nhà hàng có nhiều đầu bếp nấu món ăn",
+    "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=27s",
+    "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+    "decodedFrameTime": 27.8,
+    "file": "frames/29B8-FtuC6U-0027.800.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "29B8-FtuC6U",
+    "frameTime": 36.5,
+    "phrase": "vài thực khách",
+    "spokenMeaning": "Đối lập lượng món ăn với lượng khách ít trong nhà hàng",
+    "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=36s",
+    "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+    "decodedFrameTime": 36.5,
+    "file": "frames/29B8-FtuC6U-0036.500.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "29B8-FtuC6U",
+    "frameTime": 456,
+    "phrase": "lao động di cư",
+    "spokenMeaning": "Người rời nông thôn ra đô thị làm việc",
+    "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=456s",
+    "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+    "decodedFrameTime": 456.0,
+    "file": "frames/29B8-FtuC6U-0456.000.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "5zqAMK2qsfM",
+    "frameTime": 3.8,
+    "phrase": "bấm nút lưu",
+    "spokenMeaning": "Hành vi lưu nội dung trên điện thoại",
+    "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=3s",
+    "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+    "decodedFrameTime": 3.8,
+    "file": "frames/5zqAMK2qsfM-0003.800.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "5zqAMK2qsfM",
+    "frameTime": 11.5,
+    "phrase": "kệ sách",
+    "spokenMeaning": "Sách xếp trên kệ trong phòng",
+    "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=11s",
+    "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+    "decodedFrameTime": 11.5,
+    "file": "frames/5zqAMK2qsfM-0011.500.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "5zqAMK2qsfM",
+    "frameTime": 391.8,
+    "phrase": "ngồi viết",
+    "spokenMeaning": "Viết bài cảm nhận sau khi đọc",
+    "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=391s",
+    "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+    "decodedFrameTime": 391.8,
+    "file": "frames/5zqAMK2qsfM-0391.800.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "5zqAMK2qsfM",
+    "frameTime": 517,
+    "phrase": "viết nó ra giấy",
+    "spokenMeaning": "Đưa suy nghĩ ra giấy thành vật thể nhìn thấy",
+    "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=517s",
+    "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+    "decodedFrameTime": 517.0,
+    "file": "frames/5zqAMK2qsfM-0517.000.jpg"
+  },
+  {
+    "channel": "hidden",
+    "videoId": "5zqAMK2qsfM",
+    "frameTime": 647,
+    "phrase": "thuyết trình",
+    "spokenMeaning": "Chuẩn bị trình bày cho người nghe cụ thể",
+    "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=647s",
+    "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+    "decodedFrameTime": 647.0,
+    "file": "frames/5zqAMK2qsfM-0647.000.jpg"
+  }
+]

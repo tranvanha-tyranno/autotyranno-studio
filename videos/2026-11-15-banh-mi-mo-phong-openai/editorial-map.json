@@ -1,0 +1,332 @@
+{
+  "schema": "reference-video-editorial/1",
+  "title": "Lạm phát giảm, vì sao ổ bánh mì vẫn đắt?",
+  "structurePolicy": "no-spoken-disclaimer-user-requested",
+  "centralQuestion": "Vì sao lạm phát hạ mà người mua lẫn tiệm bánh vẫn thấy khó hơn?",
+  "thesis": "Giảm tốc tăng giá không xóa mặt bằng giá đã tăng; phần tiệm giữ lại phụ thuộc tổng chi phí, còn sức mua phụ thuộc cả thu nhập.",
+  "viewerStake": "Bản tin giá hạ nhiệt nhưng bữa sáng vẫn nặng tiền với khách lẫn tiệm.",
+  "hookPromise": "Theo một tiệm qua bảng giá, hóa đơn và sức mua để giải nghịch lý.",
+  "exclusions": [
+    "Chương chính sách lãi suất",
+    "Kỳ vọng lạm phát độc lập",
+    "Mô hình giỏ 100 phần",
+    "Ví dụ shrinkflation",
+    "Nhân vật hoạt hình",
+    "Subtitle"
+  ],
+  "units": [
+    {
+      "id": "b01",
+      "phase": "hook",
+      "text": "Ổ bánh tăng hai nghìn. Nhưng người bán lại giữ được ít hơn năm trăm đồng. Khách thấy đắt, chủ tiệm cũng thấy hụt. Trong khi đó, bản tin bảo lạm phát đã giảm. Vì sao cả hai vẫn thấy khó hơn?"
+    },
+    {
+      "id": "b02",
+      "phase": "content",
+      "text": "Thử theo một ngày ở tiệm bánh giả định của chị Hạnh. Ta đặt các con số đơn giản vào tiệm này để lần theo số tiền vừa tăng. Chìa khóa nằm ở ba thứ thường bị nhìn riêng: bảng giá, hóa đơn đầu vào, và tiền người mua kiếm được."
+    },
+    {
+      "id": "b03",
+      "phase": "content",
+      "text": "Trước lần đổi bảng, một ổ bán hai mươi nghìn. Nguyên liệu và những khoản thay đổi theo lượng bánh hết mười hai nghìn. Tiền thuê cùng chi phí cố định được chia ra năm nghìn một ổ, ở lượng bán đang giả định. Còn ba nghìn."
+    },
+    {
+      "id": "b04",
+      "phase": "content",
+      "text": "Khoan gọi ba nghìn ấy là tiền bỏ túi. Mô hình còn chưa tính đủ thuế, khấu hao và công của chủ tiệm. Cứ giữ cách tính ấy để so trước với sau, rồi nhìn hóa đơn mới chị Hạnh vừa nhận."
+    },
+    {
+      "id": "b05",
+      "phase": "content",
+      "text": "Cùng một ổ bánh, phần chi phí biến đổi giờ thành mười bốn nghìn năm trăm. Nếu giữ giá cũ, khoảng còn lại chỉ còn năm trăm đồng. Chị Hạnh đổi bảng lên hai mươi hai nghìn. Khách trả thêm hai nghìn; nhưng đầu vào đã tăng hai nghìn năm trăm."
+    },
+    {
+      "id": "b06",
+      "phase": "content",
+      "text": "Kết quả: từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm trên một ổ. Hai nghìn tăng thêm không biến mất. Nó chưa bù hết phần chi phí tăng. Giá bán đi lên mà khoảng dư vẫn co lại. Chỉ nhìn tấm bảng, khách không thể biết điều đó."
+    },
+    {
+      "id": "b07",
+      "phase": "content",
+      "text": "Đấy là chuyện của tiệm trong ví dụ. Tiệm khác có thể giữ giá, giảm phần dư, hoặc tăng được lãi; muốn kết luận phải có sổ thật. Nhưng người khách vẫn có lý do để hỏi chị Hạnh: nếu lạm phát đang giảm, tại sao bảng giá không quay về hai mươi nghìn?"
+    },
+    {
+      "id": "b08",
+      "phase": "content",
+      "text": "Hãy giữ đúng chiếc bánh ấy, cùng lượng nhân và kích cỡ. Từ hai mươi lên hai mươi hai nghìn là tăng mười phần trăm. Nếu kỳ sau chỉ tăng hai phần trăm, bánh không trở lại hai mươi nghìn. Nó thành hai mươi hai nghìn bốn trăm bốn mươi đồng trong phép tính."
+    },
+    {
+      "id": "b09",
+      "phase": "content",
+      "text": "Tỷ lệ đã hạ từ mười xuống hai. Số tiền phải trả vẫn tăng. Đây là chỗ lời nói và kỳ vọng dễ đi lệch nhau: bản tin nói tốc độ tăng chậm lại, còn khách đang chờ giá hạ xuống. Hai việc ấy khác nhau."
+    },
+    {
+      "id": "b10",
+      "phase": "content",
+      "text": "Một ổ bánh không đại diện cho lạm phát cả nước. Chỉ số chung nhìn một rổ nhiều hàng hóa và dịch vụ. Chiếc bánh ở đây chỉ giúp ta thấy phép tính: mức tăng mới có thể nhỏ, nhưng nó cộng lên phần giá đã tăng từ trước."
+    },
+    {
+      "id": "b11",
+      "phase": "content",
+      "text": "Vì thế, chị Hạnh không thể nghe một tỷ lệ lạm phát thấp hơn rồi tự suy ra bao bột, tiền thuê và tiền điện của mình đã về giá cũ. Nhưng nếu có một hóa đơn thực sự giảm thì sao? Chẳng hạn, bột mua cho mẻ bánh mới đã rẻ hơn. Lúc ấy khách có được chờ bánh rẻ lại không?"
+    },
+    {
+      "id": "b12",
+      "phase": "content",
+      "text": "Chị Hạnh mở kho. Bao bột đang dùng có thể thuộc lô mua trước, giá cao. Hóa đơn mới thấp hơn chưa đổi ngay giá vốn của mẻ bánh hôm nay. Đấy là một độ trễ có thể có, không phải lý do mặc định cho mọi tiệm."
+    },
+    {
+      "id": "b13",
+      "phase": "content",
+      "text": "Rồi chị đặt hóa đơn bột cạnh các khoản khác. Tiền thuê vẫn theo hợp đồng. Lương người phụ bán đã thỏa thuận. Điện, nhân bánh, bao bì có thể đi theo hướng khác. Một dòng giảm chưa có nghĩa tổng chi phí của chiếc bánh đã trở lại như trước."
+    },
+    {
+      "id": "b14",
+      "phase": "content",
+      "text": "Nhưng nói đến đây rồi dừng sẽ là bênh người bán quá dễ. Ta phải hỏi ngược: nếu tổng chi phí đã giảm thật, lượng bán vẫn như cũ, mà chị Hạnh giữ giá, thì sao? Khoảng dư có thể tăng. Không có quy luật nào bảo mọi cửa hàng luôn phải chịu thiệt."
+    },
+    {
+      "id": "b15",
+      "phase": "content",
+      "text": "Lúc này người khách có vai trò. Nếu bên cạnh có bánh tương đương, rẻ hơn và dễ mua, chị Hạnh phải cân nhắc mất khách. Nếu khách khó chuyển chỗ mua, sức ép ấy có thể yếu hơn. Giá bán còn là kết quả của lựa chọn và cạnh tranh, không chỉ phép cộng trên hóa đơn."
+    },
+    {
+      "id": "b16",
+      "phase": "content",
+      "text": "Vậy câu hỏi đúng không phải: bột giảm rồi, sao chị chưa giảm? Mà là: tổng chi phí đã đổi bao nhiêu, và khách có lựa chọn nào? Ta vừa nhìn được hai phía của quầy. Còn một phía nữa: chiếc ví của người mua."
+    },
+    {
+      "id": "b17",
+      "phase": "content",
+      "text": "Quay lại đúng kỳ chiếc bánh tăng từ hai mươi lên hai mươi hai nghìn. Giả sử thu nhập của người phụ bán cũng tăng trong kỳ ấy: từ mười triệu lên mười triệu rưỡi, tức năm phần trăm. Anh nhận nhiều tiền hơn, nhưng giá bữa sáng đã tăng nhanh hơn lương."
+    },
+    {
+      "id": "b18",
+      "phase": "content",
+      "text": "Thử dùng chính chiếc bánh làm thước đo nhỏ. Mười triệu tương đương năm trăm ổ giá cũ. Mười triệu rưỡi chỉ tương đương khoảng bốn trăm bảy mươi bảy ổ giá mới. Không ai cần đem toàn bộ lương đi mua bánh. Phép so chỉ hỏi: thu nhập mỗi kỳ đổi được bao nhiêu chiếc bánh cùng loại?"
+    },
+    {
+      "id": "b19",
+      "phase": "content",
+      "text": "Tiền lương tăng, sức mua tính riêng bằng bánh lại giảm khoảng bốn phẩy năm phần trăm. Vẫn chiếc bánh ấy, vẫn lần đổi bảng ấy. Nhìn từ quầy bán, khoảng dư của chị Hạnh co lại. Nhìn từ người làm công, tờ lương tăng mà số bánh mua được cũng ít đi."
+    },
+    {
+      "id": "b20",
+      "phase": "content",
+      "text": "Đời sống thật không chỉ có bánh mì. Người phụ bán còn tiền nhà, đi lại và nhiều khoản khác. Muốn biết sức mua cả gia đình, phải nhìn giá của cùng một giỏ chi tiêu với lượng và chất lượng tương đương. Một ổ bánh là cửa vào để hiểu, không phải chiếc máy đo toàn bộ đời sống."
+    },
+    {
+      "id": "b21",
+      "phase": "content",
+      "text": "Nếu những khoản anh mua nhiều tăng nhanh, anh có thể thấy áp lực hơn con số bình quân. Nhà khác chi tiêu khác thì trải nghiệm cũng khác. Vì vậy, cảm giác thiếu tiền không tự chứng minh bản tin sai; còn tỷ lệ lạm phát thấp hơn cũng không bảo đảm chiếc ví nào đã nhẹ gánh."
+    },
+    {
+      "id": "b22",
+      "phase": "content",
+      "text": "Trở lại buổi sáng ở tiệm Hạnh. Khách trả thêm hai nghìn không có nghĩa chị giữ thêm hai nghìn. Tin lạm phát giảm không có nghĩa giá trở lại mốc cũ. Và lương tăng không tự bảo đảm mua được nhiều hơn. Ba điều ấy có thể cùng đúng, chẳng cần mâu thuẫn nào cả."
+    },
+    {
+      "id": "b23",
+      "phase": "content",
+      "text": "Lần tới nghe lạm phát hạ, hãy hỏi: đang tăng chậm hơn hay giảm giá thật? So với mốc nào? Và thu nhập của mình có theo kịp những khoản mình thực sự mua không? Bắt đầu từ một bữa sáng quen, nhưng so cùng lượng, cùng chất lượng. Đừng chỉ nhìn con số to nhất trên bản tin."
+    },
+    {
+      "id": "b24",
+      "phase": "cta",
+      "text": "Ở chỗ bạn, món ăn sáng nào tăng giá rõ nhất, và bạn đang so với năm nào? Hãy để lại một ví dụ cụ thể trong bình luận. Nếu muốn xem thêm những câu chuyện kinh tế được bóc từ đời sống như thế này, hãy đăng ký kênh và bật chuông."
+    }
+  ],
+  "chapters": [
+    {
+      "id": "hai-nghin-di-dau",
+      "title": "Hai nghìn đồng đã đi đâu?",
+      "unitIds": [
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07"
+      ],
+      "question": "Khách trả thêm có nghĩa chủ tiệm lời hơn không?",
+      "answer": "Trong mô hình, chi phí tăng nhiều hơn giá bán nên phần còn lại giảm.",
+      "mechanism": "Giá bán tăng 2.000 nhưng chi phí biến đổi tăng 2.500, giữ phân bổ cố định và lượng bán giả định không đổi.",
+      "whyItMatters": "Nối vấn đề của cùng tiệm và người mua, thêm một phân biệt cần thiết.",
+      "takeaway": "Khách trả thêm không đồng nghĩa người bán giữ lại thêm.",
+      "evidenceExamples": [
+        {
+          "kind": "illustrative",
+          "detail": "20.000 - 12.000 - 5.000 = 3.000; 22.000 - 14.500 - 5.000 = 2.500, chưa phải lợi nhuận ròng."
+        }
+      ],
+      "emphasis": {
+        "spokenQuote": "Kết quả: từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm trên một ổ. Hai nghìn tăng thêm không biến mất. Nó chưa bù hết phần chi phí tăng. Giá bán đi lên mà khoảng dư vẫn co lại. Chỉ nhìn tấm bảng, khách không thể biết điều đó.",
+        "visualFocus": "Trả thêm ≠ giữ lại thêm",
+        "purpose": "Làm rõ quan hệ của chương bằng một điểm nhấn trên footage."
+      },
+      "bridge": {
+        "reason": "Hóa đơn giải thích sức ép của tiệm, nhưng chưa giải thích chữ giảm trong bản tin mà khách đang chờ.",
+        "nextQuestion": "Vì sao tin lạm phát giảm chưa làm giá trở lại?"
+      }
+    },
+    {
+      "id": "giam-cai-gi",
+      "title": "“Giảm” — nhưng giảm cái gì?",
+      "unitIds": [
+        "b08",
+        "b09",
+        "b10",
+        "b11"
+      ],
+      "question": "Vì sao giảm lạm phát không đồng nghĩa bánh rẻ lại?",
+      "answer": "Tỷ lệ tăng dương nhỏ hơn vẫn làm giá tăng từ mặt bằng đã cao.",
+      "mechanism": "Cùng lượng/chất lượng, 20.000 tăng10% thành22.000 rồi tăng2% thành22.440. Một món chỉ minh họa, không phải CPI.",
+      "whyItMatters": "Nối vấn đề của cùng tiệm và người mua, thêm một phân biệt cần thiết.",
+      "takeaway": "Bản tin nói tốc độ; người mua đang chịu mặt bằng giá.",
+      "evidenceExamples": [
+        {
+          "kind": "illustrative",
+          "detail": "Chuỗi 20.000 ->22.000 ->22.440 là phép tính minh họa, không giá hiện hành."
+        }
+      ],
+      "emphasis": {
+        "spokenQuote": "Tỷ lệ đã hạ từ mười xuống hai. Số tiền phải trả vẫn tăng. Đây là chỗ lời nói và kỳ vọng dễ đi lệch nhau: bản tin nói tốc độ tăng chậm lại, còn khách đang chờ giá hạ xuống. Hai việc ấy khác nhau.",
+        "visualFocus": "Tăng chậm hơn vẫn là tăng",
+        "purpose": "Làm rõ quan hệ của chương bằng một điểm nhấn trên footage."
+      },
+      "bridge": {
+        "reason": "Phân biệt tỷ lệ và mức giá trả lời bản tin nhưng không trả lời động lực hạ giá của tiệm.",
+        "nextQuestion": "Nếu hóa đơn bột giảm thật thì sao?"
+      }
+    },
+    {
+      "id": "hoa-don-nao-giam",
+      "title": "Một hóa đơn giảm chưa đủ",
+      "unitIds": [
+        "b12",
+        "b13",
+        "b14",
+        "b15",
+        "b16"
+      ],
+      "question": "Khi nào giảm chi phí thật sự có thể dẫn tới giảm giá bán?",
+      "answer": "Phải nhìn tổng chi phí, độ trễ và cạnh tranh, không chỉ một đầu vào; lợi nhuận cũng có thể tăng.",
+      "mechanism": "Bột mua mới khác lô tồn; thuê, lương còn hợp đồng; tổng chi phí giảm và khách có lựa chọn thay thế có thể ép giá bán.",
+      "whyItMatters": "Nối vấn đề của cùng tiệm và người mua, thêm một phân biệt cần thiết.",
+      "takeaway": "Không bênh hay kết tội chủ tiệm chỉ từ một tờ hóa đơn.",
+      "evidenceExamples": [
+        {
+          "kind": "illustrative",
+          "detail": "Cùng tiệm Hạnh: hóa đơn bột mới giảm nhưng các khoản khác không tự đổi; phản ví dụ tổng chi phí giảm."
+        }
+      ],
+      "emphasis": {
+        "spokenQuote": "Nhưng nói đến đây rồi dừng sẽ là bênh người bán quá dễ. Ta phải hỏi ngược: nếu tổng chi phí đã giảm thật, lượng bán vẫn như cũ, mà chị Hạnh giữ giá, thì sao? Khoảng dư có thể tăng. Không có quy luật nào bảo mọi cửa hàng luôn phải chịu thiệt.",
+        "visualFocus": "Chi phí giảm, khoảng dư có thể tăng",
+        "purpose": "Làm rõ quan hệ của chương bằng một điểm nhấn trên footage."
+      },
+      "bridge": {
+        "reason": "Quyết định giá của tiệm chưa cho biết sức mua của khách; phải nối sang khoản thu của chính người mua bánh.",
+        "nextQuestion": "Bánh chưa rẻ, tăng lương có đủ để người mua dễ thở hơn không?"
+      }
+    },
+    {
+      "id": "luong-mua-bao-nhieu-banh",
+      "title": "Lương tăng, mua được bao nhiêu bánh?",
+      "unitIds": [
+        "b17",
+        "b18",
+        "b19",
+        "b20",
+        "b21"
+      ],
+      "question": "Vì sao nhận nhiều tiền hơn mà mua cùng bữa sáng vẫn khó hơn?",
+      "answer": "Sức mua phụ thuộc tỷ lệ thu nhập tăng so với giá của cùng lượng hàng; bread is only a yardstick.",
+      "mechanism": "Thu nhập10triệu->10,5triệu(+5%); bánh20nghìn->22nghìn(+10%); số ổ tương đương500->477,27(-4,55%). Không giả định chi toàn lương cho bánh.",
+      "whyItMatters": "Nối vấn đề của cùng tiệm và người mua, thêm một phân biệt cần thiết.",
+      "takeaway": "Tờ lương tăng chưa bảo đảm cùng lượng hàng dễ mua hơn.",
+      "evidenceExamples": [
+        {
+          "kind": "illustrative",
+          "detail": "Cùng giá bánh 20.000/22.000 từ chương1, dùng làm thước so thu nhập minh họa, không tính CPI hay giỏ hộ trung bình."
+        }
+      ],
+      "emphasis": {
+        "spokenQuote": "Tiền lương tăng, sức mua tính riêng bằng bánh lại giảm khoảng bốn phẩy năm phần trăm. Vẫn chiếc bánh ấy, vẫn lần đổi bảng ấy. Nhìn từ quầy bán, khoảng dư của chị Hạnh co lại. Nhìn từ người làm công, tờ lương tăng mà số bánh mua được cũng ít đi.",
+        "visualFocus": "Nhiều tiền hơn, ít bánh hơn",
+        "purpose": "Làm rõ quan hệ của chương bằng một điểm nhấn trên footage."
+      },
+      "bridge": {
+        "reason": "Đã đủ giá, chi phí và thu nhập để trả lời hook và rút một cách đọc cụ thể thay vì thêm giáo trình.",
+        "nextQuestion": "Đọc tin lạm phát giảm thì nên kiểm những gì?"
+      }
+    },
+    {
+      "id": "tro-lai-quay-banh",
+      "title": "Đặt ba thứ cạnh nhau",
+      "unitIds": [
+        "b22",
+        "b23"
+      ],
+      "question": "Câu trả lời cuối cho nghịch lý mở đầu là gì?",
+      "answer": "Bản tin đo tốc độ giá; tiệm chịu tổng chi phí và cạnh tranh; người mua chịu giá tích lũy tương quan thu nhập.",
+      "mechanism": "Callback đúng các kết quả đã giải, không thêm ví dụ độc lập hay chương chính sách.",
+      "whyItMatters": "Nối vấn đề của cùng tiệm và người mua, thêm một phân biệt cần thiết.",
+      "takeaway": "Đọc cùng bảng giá, hóa đơn và khoản thu để hiểu sức ép từng phía.",
+      "evidenceExamples": [
+        {
+          "kind": "illustrative",
+          "detail": "Trở lại đúng một tiệm, một lần tăng giá, một người làm công và chiếc bánh xuyên suốt."
+        }
+      ],
+      "emphasis": {
+        "spokenQuote": "Trở lại buổi sáng ở tiệm Hạnh. Khách trả thêm hai nghìn không có nghĩa chị giữ thêm hai nghìn. Tin lạm phát giảm không có nghĩa giá trở lại mốc cũ. Và lương tăng không tự bảo đảm mua được nhiều hơn. Ba điều ấy có thể cùng đúng, chẳng cần mâu thuẫn nào cả.",
+        "visualFocus": "Giá bán · chi phí · sức mua",
+        "purpose": "Làm rõ quan hệ của chương bằng một điểm nhấn trên footage."
+      }
+    }
+  ],
+  "payoff": {
+    "answer": "Giảm tốc tăng giá không xóa mặt bằng giá đã tăng; phần tiệm giữ lại phụ thuộc tổng chi phí, còn sức mua phụ thuộc cả thu nhập.",
+    "unitIds": [
+      "b22",
+      "b23"
+    ]
+  },
+  "review": {
+    "status": "accepted",
+    "method": "full_script_read",
+    "reviewer": {
+      "kind": "agent",
+      "name": "Codex library_content — script editorial review"
+    },
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "unresolvedIssues": [],
+    "checks": {
+      "structure": {
+        "decision": "accepted",
+        "observation": "Read all 24 units in order. Five chapters are audible without titles: b07 asks why the board has not returned, b11 asks about a genuinely cheaper flour bill, b16 turns to the buyer, b17 explicitly returns to the original 20-to-22-thousand period, and b22-b23 resolve the opening before b24 CTA. Explicit user override removes a standalone spoken disclaimer; b02 labels the shop hypothetical within the story."
+      },
+      "focus": {
+        "decision": "accepted",
+        "observation": "The script follows one bakery, one unchanged bread type and the same original price rise. The 22,440 calculation is explicitly a next-period illustration; b17 resets the time reference before the wage comparison. b20-b21 explain the boundary of a bread-only yardstick without inventing a second household-basket model. No monetary-policy, shrinkflation, independent expectation chapter or filler added to force ten minutes."
+      },
+      "evidence": {
+        "decision": "accepted",
+        "observation": "Recomputed all illustrative arithmetic: 20,000-12,000-5,000=3,000; 20,000-14,500-5,000=500; 22,000-14,500-5,000=2,500. 20,000*1.1*1.02=22,440; 10m/20k=500 and 10.5m/22k=477.2727, so change=-4.54545%, rounded about -4.5%. b03 conditions fixed allocation on assumed quantity; b04 excludes unmodeled tax/depreciation/owner labor and avoids calling the remainder net profit. b07, b10, b12, b14 and b20 bound the model and acknowledge alternative outcomes. No current prices, actual owner behavior or national CPI is inferred from the fictional shop."
+      },
+      "progression": {
+        "decision": "accepted",
+        "observation": "Each chapter resolves a different missing relation: customer price versus modeled retained amount; rate versus level; one input versus total costs and competition; nominal wage versus bread purchasing power; then a synthesis. b14 deliberately tests the seller-friendly explanation by allowing higher surplus if total costs fall and sales stay constant. The final questions follow the preceding gap rather than an arbitrary subject list."
+      },
+      "payoff": {
+        "decision": "accepted",
+        "observation": "The revised opening asks why buyer and shop can both feel squeezed, rather than promising to identify a beneficiary that the script cannot prove. b22 answers with the cost result, rate/level distinction and income comparison already demonstrated. b23 makes this usable through baseline, rate/level and actual spending questions; b24 asks for a breakfast example with a comparison year, then subscribes. No new central claim is introduced at the end."
+      },
+      "spokenNaturalness": {
+        "decision": "accepted",
+        "observation": "Full text read as connected spoken prose. Numbers are spelled out in Vietnamese; short contrast sentences and genuine questions mark the turns. b02 now says hypothetical shop briefly, b18 uses income each period rather than the ambiguous same income, and b19 replaces writing-process commentary with a concrete callback from counter to worker. This accepts text rhythm only; perceived monotony, pronunciation, emotional stress, breaths and the actual Nhật Phong performance still require listening to the generated take."
+      }
+    }
+  }
+}

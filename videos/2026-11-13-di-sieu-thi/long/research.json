@@ -1,0 +1,75 @@
+{
+  "title": "Vì sao ra siêu thị mua một món lại về với cả túi đồ?",
+  "editorialAngle": "Từ kế hoạch trước khi đi, đến những quyết định phát sinh trong cửa hàng; kiểm lại nhu cầu thay vì quy mọi lần mua thêm cho yếu ý chí hoặc cho một âm mưu bán lẻ.",
+  "audienceInference": "Người đi mua thực phẩm cho bản thân hoặc gia đình, nhận ra trải nghiệm giỏ hàng lớn hơn dự định và muốn biết cách kiểm soát quyết định mà không phải bỏ mọi ưu đãi.",
+  "claimPolicy": "No universal percentages, no claim that all supermarkets manipulate everyone, no hunger/dopamine folklore, no health advice, no assertion that stock subjects overspend. Primary findings are bounded by design and setting.",
+  "sources": [
+    {
+      "id": "inman2009",
+      "title": "The Interplay among Category Characteristics, Customer Characteristics, and Customer Activities on in-Store Decision Making",
+      "authors": "J. Jeffrey Inman, Russell S. Winer, Rosellina Ferraro",
+      "published": "2009-09-01",
+      "url": "https://journals.sagepub.com/doi/10.1509/jmkg.73.5.19",
+      "doi": "10.1509/jmkg.73.5.19",
+      "accessed": "2026-11-13",
+      "sourceType": "Primary research article, publisher abstract directly read; full text restricted.",
+      "designScope": "In-store intercept interviews with 2,300 consumers across 28 stores, analyzed using hierarchical models.",
+      "supports": "Unplanned purchasing varies with category, displays and shopper activities. List use and limiting aisles/time were associated in the model with lower likelihood of unplanned purchasing.",
+      "safeNarration": "Một nghiên cứu theo dõi người mua tại nhiều cửa hàng cho thấy việc mua ngoài kế hoạch còn liên quan đến cách trưng bày và cách chúng ta đi mua, chứ không chỉ món hàng ban đầu.",
+      "limits": "Observational/model-based evidence. Do not claim a randomized causal effect, apply the paper's baseline percentage universally, or say every extra purchase is impulsive/unnecessary. List use is not a guarantee."
+    },
+    {
+      "id": "gravert2025",
+      "title": "In-store food promotions increase sales as well as household food waste",
+      "authors": "Christina Gravert, Milica Mormann",
+      "published": "2025-05-23",
+      "url": "https://www.nature.com/articles/s41598-025-01800-x",
+      "doi": "10.1038/s41598-025-01800-x",
+      "accessed": "2026-11-13",
+      "sourceType": "Primary open access research article; methods and limitations directly read.",
+      "designScope": "Field experiment in eight Swedish supermarkets in March2021 on cucumbers/broccoli, with 43,246 units sold. Compared multiple-unit and single-unit offer framing at equal promotional per-unit prices.",
+      "supports": "Multiple-unit framing increased quantity sold compared with single-unit framing in this setting. Quantity reminders and making single-item comparison price more prominent reduced quantity relative to the multiple-unit format.",
+      "safeNarration": "Trong một thử nghiệm ở siêu thị Thụy Điển, chỉ đổi cách ghi từ giá một món sang giá mua hai món, dù giá khuyến mãi mỗi món bằng nhau, cũng làm lượng mua thay đổi.",
+      "limits": "Do not generalize across every product/store/country. Home consumption was reported by a small follow-up sample, not weighed waste; the authors discuss weak response and measurement limitations. Omit waste claims in the short pilot."
+    },
+    {
+      "id": "nakamura2014",
+      "title": "Sales impact of displaying alcoholic and non-alcoholic beverages in end-of-aisle locations: an observational study",
+      "authors": "Ryota Nakamura et al.",
+      "published": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24632050/",
+      "doi": "10.1016/j.socscimed.2014.02.032",
+      "accessed": "2026-11-13",
+      "sourceType": "Primary study abstract, PubMed.",
+      "designScope": "One UK grocery store,2010–2011, six beverage categories, adjusted regression.",
+      "supports": "End-of-aisle placement was associated with greater sales after adjustment for measured price/promotion/display factors.",
+      "safeNarration": "Những vị trí dễ thấy có thể làm một món bước vào vùng chú ý của người mua.",
+      "limits": "Use only as background support, not a number in narration. One-store observational study cannot establish what any specific Vietnamese supermarket intends or what any pictured shopper did."
+    }
+  ],
+  "originalExamples": [
+    {
+      "id": "unit-versus-total",
+      "type": "Explicit hypothetical arithmetic, not a current store price or study result",
+      "example": "Một món30.000đ; hai món50.000đ. Đơn giá giảm từ30.000đ còn25.000đ, nhưng tổng chi tăng từ30.000đ lên50.000đ so với kế hoạch mua một món.",
+      "illustrationRequirement": "Create a sparse original comparison with one item vs two identical items, hypothetical label, unit price AND total. Do not overlay these values on the foreign sale-shelf photo as if printed there.",
+      "limit": "If both items were needed and used, the bundle can be useful. Lower unit price alone does not determine whether the purchase suits a household."
+    }
+  ],
+  "suggestedStructure": [
+    {"phase":"hook","purpose":"A shopping trip starts with one need but decisions multiply inside; ask where the extra items came from.","visuals":["milk-shelf","cart-browse","cart-full","groceries-home"],"limit":"Explicitly call the one-item-to-full-bag story a familiar illustrative situation, not the biography of depicted stock subjects."},
+    {"phase":"disclaimer","purpose":"Explain ordinary decision mechanisms using research and illustrative shopping situations; no claim about every shopper or store.","visuals":["cart-browse"]},
+    {"phase":"content","purpose":"Before the trip: a vague plan leaves room for decisions. A shopping list/inventory can clarify needs.","visuals":["fridge-kitchen","phone-list","phone-plan-couple","vegetables-home"],"limit":"Phone screen text cannot be read; add an original short list if exact contents matter."},
+    {"phase":"content","purpose":"Inside store: shelves, visible displays and repeated product encounters create more occasions to decide.","visuals":["clip-cart","clip-aisle","milk-shelf","checkout-wide"],"limit":"Do not assert all essential products are intentionally hidden in back, or all layouts use the same tactic."},
+    {"phase":"content","purpose":"Promotional framing: distinguish lower price per item from lower total spending; use one simple arithmetic example.","visuals":["sale-shelf","plum-price","original-unit-comparison"],"limit":"Keep actual foreign labels distinct from hypothetical Vietnamese numbers. No universal savings claim."},
+    {"phase":"content","purpose":"Counterargument: an unplanned item can be a forgotten genuine need, and a deal can help when quantity will be used.","visuals":["phone-plan-couple","fridge-check","vegetables-home"],"limit":"Do not equate unplanned with irrational or imply depicted people lack self-control."},
+    {"phase":"cta","purpose":"On the next trip, write missing items/quantity, check inventory, and before paying distinguish planned purchases from additions. Ask viewer which shelf triggers additions for them.","visuals":["fridge-kitchen","phone-list","clip-checkout","groceries-home"],"limit":"Practical self-observation experiment, not guaranteed savings or personal financial advice."}
+  ],
+  "mediaCaveats": [
+    "All supplied source photos are illustrative stock, not evidence of the research or of Vietnamese supermarket practices.",
+    "No branded stock subject is said to endorse TYRANNO.",
+    "No named study number should appear above a generic photo as if the photo depicts its participants.",
+    "Phone screens are unreadable: do not claim they visibly show a named app, list, price comparison or budget.",
+    "The assets initially named choose-produce and phone-basket actually show checkout actions; IDs are retained for traceability and corrected observations are in source-candidates.json."
+  ]
+}

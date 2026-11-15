@@ -1,0 +1,42 @@
+{
+  "id": "oil-bottle",
+  "file": "assets/oil-bottle.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 6213754,
+  "sourceURL": "https://www.pexels.com/photo/olive-oil-in-a-glass-bottle-6213754/",
+  "downloadURL": "https://images.pexels.com/photos/6213754/pexels-photo-6213754.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Vladimir Gladkov",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "b3b143d2710057ec584e206029f59bd6c3c59b9e611b34e0be57c655f14e677f",
+  "width": 2400,
+  "height": 3600,
+  "tags": [
+    "oil"
+  ],
+  "credit": "Vladimir Gladkov / Pexels",
+  "expectedFromSource": "Bottle of culinary oil",
+  "observed": "Small clear cruet with golden culinary oil on a circular wooden board, black seeds and herbs; larger green container and bottle behind. Full portrait needed: landscape crop cuts the cruet body.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "b3b143d2710057ec584e206029f59bd6c3c59b9e611b34e0be57c655f14e677f"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Culinary olive-oil illustration only. Must not substitute for crude oil, petrol, gas or diesel. Does not establish Hạnh’s ingredients or purchases.",
+  "reusedSource": null
+}

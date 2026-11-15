@@ -1,0 +1,30 @@
+{
+  "id": "bill-due",
+  "pexelsID": 7926666,
+  "sourceURL": "https://www.pexels.com/photo/hand-of-a-man-holding-a-bill-with-past-due-stamp-7926666/",
+  "creator": "Nicola Barts",
+  "theme": "bills",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/bill-due.jpg",
+  "downloadURL": "https://images.pexels.com/photos/7926666/pexels-photo-7926666.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "b76f1dd51cddcc8749a79df1ee1e3156108530ceef5ef0c790ff06d44c723ab2",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

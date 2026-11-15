@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-15",
+  "scope": "Curated media; code, scripts, plans, source receipts and QA reports are retained. No local media are deleted.",
+  "selected_outputs": [
+    {
+      "path": "videos/2026-11-10-original-edit-30s/video-hoan-chinh-30s.mp4",
+      "bytes": 7014950,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-10-real-estate-10s/bat-dong-san-10s.mp4",
+      "bytes": 9425446,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-11-cinematic-reset/final.mp4",
+      "bytes": 23221680,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
+      "bytes": 267636447,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-12-hai-huong/hidden/final.mp4",
+      "bytes": 45064133,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-12-hai-huong/long/final.mp4",
+      "bytes": 47919549,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/final.mp4",
+      "bytes": 75363539,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02/comic/final.mp4",
+      "bytes": 4679130,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/r02/flow/final.mp4",
+      "bytes": 5172688,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-13-kinh-te-trung-quoc/r03/final.mp4",
+      "bytes": 90235394,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
+      "bytes": 268014380,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-14-banh-mi-documentary/r02/final.mp4",
+      "bytes": 202494177,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-14-o-banh-mi-va-lam-phat/r06/final.mp4",
+      "bytes": 102224405,
+      "status": "retained_output_not_automatic_user_approval"
+    },
+    {
+      "path": "videos/2026-11-15-banh-mi-mo-phong-openai/r02/visual-preview.mp4",
+      "bytes": 93405622,
+      "status": "provisional_visual_preview_openai_voice_blocked"
+    }
+  ],
+  "retained_media": {
+    "files": 1521,
+    "bytes_before_lfs_dedup": 4065769381,
+    "reasons": {
+      "already_published": 702,
+      "selected_latest_output": 14,
+      "production_source_asset": 565,
+      "original_compressed_audio": 239,
+      "approved_baseline_audio": 1
+    }
+  },
+  "local_only_media": {
+    "files": 8244,
+    "bytes": 12725508402,
+    "reasons": {
+      "downloaded_reference_media_or_sample": 816,
+      "superseded_or_generated_media": 7428
+    }
+  },
+  "rules": [
+    "Preserve pre-existing published media without rewriting remote history.",
+    "Keep latest useful outputs, approved baseline, production assets and original compressed audio.",
+    "Keep source/text metadata even for old revisions.",
+    "Exclude superseded renders, silent picture passes, chunks, proofs, frame samples and expanded WAV stems.",
+    "Keep full downloaded reference videos and samples local; publish source URLs, transcripts and analyses."
+  ]
+}

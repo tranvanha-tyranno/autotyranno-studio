@@ -1,0 +1,43 @@
+{
+  "video": "final.mp4",
+  "sha256": "2a3c20c12c6d84e732d31a15ff149be0458adefcf676008bc90d3b1e75c6731c",
+  "bytes": 23221680,
+  "decode": {
+    "file": "videos\\2026-11-11-cinematic-reset\\final.mp4",
+    "decodedFrames": 1500,
+    "fps": 30.0,
+    "seconds": 50.0,
+    "width": 1920,
+    "height": 1080,
+    "expectedFrames": 1500,
+    "frameCountPass": true,
+    "deltaTopPictureMean": 4.078603940672486,
+    "minimumConsecutiveSampleDelta": 0.0074166664853692055,
+    "aestheticAcceptance": "not inferred; requires visual review and user feedback",
+    "audioListening": "not performed by this script"
+  },
+  "audio": {
+    "input_i": "-16.20",
+    "input_tp": "-4.83",
+    "input_lra": "1.80",
+    "input_thresh": "-26.57",
+    "output_i": "-16.01",
+    "output_tp": "-4.55",
+    "output_lra": "1.60",
+    "output_thresh": "-26.40",
+    "normalization_type": "dynamic",
+    "target_offset": "0.01"
+  },
+  "typescript": "npx tsc --noEmit passed",
+  "visualReview": "final full-duration sheet, motion strips and large frame 1185 inspected; notes in REVIEW.md",
+  "manualAudioListening": false,
+  "userAcceptance": "approved",
+  "direction": "Motion graphics mạnh, 3D và chữ động",
+  "userApproval": {
+    "status": "approved",
+    "date": "2026-11-11",
+    "evidence": "Explicit user feedback in this chat",
+    "userQuote": "rất ok nhớ lưu lại chổ này giộng dọc sound và toàn bộ những cái này nhé tôi sẽ kêu bạn tiến hành làm 1 video sau",
+    "scope": "Current final video, narrator, sound/music, 3D/kinetic visual style and edit approach; reuse as baseline for future requested videos"
+  }
+}

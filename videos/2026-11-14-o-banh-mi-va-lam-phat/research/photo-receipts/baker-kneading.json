@@ -1,0 +1,49 @@
+{
+  "id": "baker-kneading",
+  "file": "assets/baker-kneading.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 3218467,
+  "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+  "downloadURL": "https://images.pexels.com/photos/3218467/pexels-photo-3218467.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Vaibhav Jadhav",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "bakery",
+    "wages"
+  ],
+  "credit": "Vaibhav Jadhav / Pexels",
+  "expectedFromSource": "Baker kneading dough",
+  "observed": "Aproned adult pressing flour-covered dough with both hands on work surface, dough balls nearby. Landscape crop preserves hands and dough. Face not shown.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "d01ee221cf8edae77c2ef3c36010197e8779907889438a5145e76117958ffffe"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Work process in Pune, India according to source; not Vietnam or Hạnh’s shop. Shows kneading labor, not wage amount or productivity measurement.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "IN",
+    "place": "Pune, India",
+    "sourceURL": "https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/",
+    "evidence": "Primary photo page location field says Pune, MH, India."
+  }
+}

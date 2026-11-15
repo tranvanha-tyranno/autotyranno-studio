@@ -1,0 +1,21 @@
+{
+  "checked_date": "2026-11-13",
+  "tool": "Playwright CLI",
+  "url": "http://127.0.0.1:8880/index.html",
+  "observations": [
+    "Desktop page displayed the four correct titles and full rendered analysis.",
+    "Timeline tab displayed the consecutive interval buttons, authored notes, caption rows and contact-sheet links.",
+    "Selected 19:00–20:00 on w3z43Hlzq3c and used the seek button; URL and actual player currentTime were 1140 seconds.",
+    "w3z43Hlzq3c player decoded 640x360, readyState4, duration1250.858957, media error null.",
+    "Switched to3JUxxp2sIDM and selected the source chapter11:08; actual player currentTime668, readyState4, duration802.899592, media error null.",
+    "Desktop screenshot inspected: readable controls, video and tabs.",
+    "390x844 mobile screenshot inspected: title wraps, player and source chapter buttons fit the viewport.",
+    "Only initial console error was missing favicon; builder was updated with an inline empty favicon.",
+    "Final generated library reloaded without console errors after the favicon fix."
+  ],
+  "screenshots": [
+    "output/playwright/reference-study/desktop.png",
+    "output/playwright/reference-study/mobile.png"
+  ],
+  "scope": "Viewer rendering, media decoding and timestamp navigation. This is not a claim of continuous source viewing or auditory judgment."
+}

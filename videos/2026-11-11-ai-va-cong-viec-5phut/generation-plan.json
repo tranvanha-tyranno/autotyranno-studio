@@ -1,0 +1,80 @@
+{
+  "voice": {
+    "endpoint": "/v1/text-to-speech/6adFm46eyy74snVn6YrT/with-timestamps",
+    "payload": {
+      "text": "Một bản nháp từng mất cả buổi, giờ có thể xuất hiện sau một câu lệnh. Rất tiện. Cũng rất đáng lo. Nếu máy đã viết được, trả lời được, phần nào còn lại cho chúng ta? Trước khi hỏi AI có lấy mất việc hay không, hãy nhìn kỹ: một công việc thực ra gồm những gì?\n\nHãy tưởng tượng công việc là một bó nhiệm vụ. Thu thập thông tin. Viết bản đầu. Rồi kiểm tra, trao đổi với khách hàng và chịu trách nhiệm về kết quả. AI có thể tác động vào vài mắt xích trước khi thay được cả chuỗi. Làm nhanh một phần chưa có nghĩa là làm thay được cả nghề.\n\nVí dụ, người làm nội dung có thể nhờ AI đề xuất tiêu đề và phác thảo kịch bản. Nhưng ai hiểu sản phẩm thật sự có gì? Ai phát hiện quảng cáo đang hứa quá mức? Ai nhận phản hồi khi khách hàng không hài lòng? Bản nháp là đầu vào. Kết quả còn nằm ở những quyết định đó.\n\nNghiên cứu năm hai nghìn không trăm hai mươi lăm của Tổ chức Lao động Quốc tế ước tính: cứ bốn người lao động toàn cầu, có một người làm trong nghề có mức tiếp xúc nào đó với AI tạo sinh. Từ quan trọng là tiếp xúc, không phải chắc chắn mất việc.\n\nChỉ số này xem nhiệm vụ có thể chịu ảnh hưởng đến đâu. Nó không đếm số người đã bị sa thải. Nghiên cứu nhận định biến đổi công việc là tác động có khả năng xảy ra hơn, vì nhiều nhiệm vụ vẫn cần con người. Điều đó không bảo đảm mọi vị trí đều an toàn.\n\nCâu trả lời trên màn hình khác với công việc đời thực. Ở đó có dữ liệu thiếu, yêu cầu đổi liên tục và những người cần được thuyết phục. Xử lý khách hàng tức giận là ví dụ. Soạn câu trả lời lịch sự là một phần. Hiểu hoàn cảnh và quyết định cách giải quyết lại là phần khác.\n\nCòn bài toán kinh tế: tổng thời gian và chi phí có thực sự giảm? Nếu viết nhanh nhưng sửa sai lâu hơn, lợi ích có thể biến mất. Nếu dữ liệu không được phép đưa ra ngoài, cách dùng phải đổi. Doanh nghiệp cần một quy trình chạy được và có người chịu trách nhiệm.\n\nDiễn đàn Kinh tế Thế giới dự báo đến năm hai nghìn không trăm ba mươi, thay đổi cơ cấu có thể tạo ra một trăm bảy mươi triệu việc làm, và làm dịch chuyển chín mươi hai triệu việc làm. Đây là kỳ vọng của nhà tuyển dụng, không phải kết quả đã xảy ra, và không chỉ do AI.\n\nCác xu hướng còn gồm kinh tế, dân số và chuyển đổi xanh. Kể cả tổng việc làm tăng, người mất một vị trí không tự động bước sang việc mới. Khác kỹ năng, khác địa điểm, khác thời điểm: đó là khoảng cách phải vượt qua. Tin tốt toàn cầu vẫn có thể đi cùng khó khăn cá nhân.\n\nVậy lợi thế con người nằm ở đâu? Một hướng đáng thử là đặt yêu cầu rõ, biết thế nào là kết quả tốt và kiểm tra được kết quả ấy. Khi bản nháp dễ tạo, nhận ra bản nháp sai ở đâu có thể quan trọng hơn. Nhanh chỉ có ý nghĩa khi vẫn đúng mục tiêu.\n\nGiả sử AI tóm tắt bảng doanh thu rất trôi chảy, nhưng nhầm doanh thu với lợi nhuận. Nếu thấy hay rồi gửi đi, tốc độ giúp một lỗi đi xa hơn. Hãy đối chiếu số với bảng gốc, xem định nghĩa từng cột và hỏi: kết luận có thật sự được dữ liệu hỗ trợ không?\n\nThử chia việc thành ba nhóm. Nhóm đầu: lặp lại, dễ mô tả và kiểm tra. Nhóm hai: AI hỗ trợ nhưng bạn phải duyệt. Nhóm ba: cần quan hệ, phán đoán hoặc trách nhiệm trực tiếp. Đây là cách tự rà soát, không phải xếp hạng nghề. Điều cần thấy là nhiệm vụ nào thay đổi trước.\n\nChọn một việc nhỏ ở nhóm đầu. Chẳng hạn, nháp email thường gặp bằng thông tin giả định. Viết rõ mục tiêu, người đọc và điều không được tự bịa. Giữ bản làm cách cũ để so sánh. Đừng bắt đầu với dữ liệu nhạy cảm. Hãy chọn nơi sai sót có thể được phát hiện và sửa.\n\nĐo cả thời gian ra lệnh, chờ kết quả, đọc lại và sửa. Ghi những lỗi khó nhận ra. Nếu tiết kiệm thời gian mà chất lượng đạt yêu cầu, đó là bước có ích. Nếu chưa, sửa cách giao việc hoặc đổi nhiệm vụ. Một quy trình nhỏ lặp lại đáng tin cậy hơn một màn trình diễn ấn tượng.\n\nBạn không nhất thiết phải thành kỹ sư AI. Báo cáo của Diễn đàn Kinh tế Thế giới coi trọng tư duy phân tích, kỹ năng công nghệ và khả năng học hỏi. Mỗi người cần chuẩn bị khác nhau. Nhưng hiểu nghề, biết kiểm tra và diễn đạt rõ vấn đề là ba năng lực có thể rèn ngay hôm nay.\n\nThay vì chỉ sưu tầm câu lệnh hay, hãy giữ trước và sau của một nhiệm vụ: yêu cầu, bản nháp của máy, phần bạn sửa và kết quả đã kiểm tra. Hồ sơ ấy cho thấy đóng góp thật của bạn, cũng như chỗ cần tiến bộ. Mục tiêu là biết khi nào dùng thì có ích.\n\nChuyển đổi không thể chỉ đặt lên vai người lao động. Tổ chức cần hướng dẫn, thời gian đào tạo, tiêu chuẩn chất lượng và người xử lý khi hệ thống sai. Chỉ yêu cầu làm nhiều hơn mà không cho học và kiểm tra có thể tạo thêm áp lực. Đổi công cụ cũng cần đổi cách tổ chức công việc ấy.\n\nAI sẽ lấy việc hay thay đổi công việc? Không có một câu trả lời chung. Hãy nhìn từng nhiệm vụ và từng quyết định. Bạn không cần thắng máy ở mọi thao tác. Hãy tìm phần mà sự hiểu biết và trách nhiệm của bạn làm kết quả tốt hơn. Ngày mai, bạn sẽ bắt đầu kiểm tra lại nhiệm vụ nào?",
+      "model_id": "eleven_v3",
+      "language_code": "vi",
+      "voice_settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.8,
+        "speed": 1.0
+      }
+    }
+  },
+  "music": [
+    {
+      "file": "analysis-score.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Instrumental score for an intelligent Vietnamese 3D motion design explainer about AI and work. Cohesive premium editorial design-film sound, 112 BPM. precise analytical forward motion, gentle marimba-like glass figures, warm analog bass, tight restrained percussion, gradually open the arrangement across two minutes. Plenty of space for narration. No vocals, spoken words, choir, alarms, braams, big risers or aggressive EDM. Musical development, not a repeating four-bar loop. 120 seconds.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "file": "agency-score.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Instrumental score for an intelligent Vietnamese 3D motion design explainer about AI and work. Cohesive premium editorial design-film sound, 112 BPM. more hopeful human agency, warm piano over subtle arpeggios, restrained bass and brushed electronic percussion, build gently then resolve without an epic climax. Plenty of space for narration. No vocals, spoken words, choir, alarms, braams, big risers or aggressive EDM. Musical development, not a repeating four-bar loop. 120 seconds.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    }
+  ],
+  "effects": [
+    {
+      "file": "typing.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "Close detailed soft modern computer keyboard typing in a quiet workspace. A few deliberate bursts, tactile and warm. Dry recording, no voices, music, notification tones or ambience wash.",
+        "duration_seconds": 4,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "file": "paper.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One gentle page turn followed by a document laid on a desk, close dry studio foley. Subtle realistic paper detail, no music, voice or cinematic whoosh.",
+        "duration_seconds": 3,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "file": "confirm.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One soft tactile wooden click with a very short warm muted tonal tail. A refined confirmation for an editorial motion graphic. Quiet, understated, dry; no alert, chime cascade, music or voice.",
+        "duration_seconds": 1,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    }
+  ],
+  "reuseApprovedMusic": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+  "limits": {
+    "newVoiceTakes": 1,
+    "newMusicTracks": 2,
+    "newEffects": 3
+  },
+  "style": "approved cinematic.profile.json",
+  "credentials": "Read at call time from encrypted vault; excluded from this file"
+}

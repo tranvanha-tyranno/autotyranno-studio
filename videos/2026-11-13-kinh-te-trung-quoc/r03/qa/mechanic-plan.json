@@ -1,0 +1,526 @@
+{
+  "schema": "china-variety-mechanic-plan/1",
+  "createdUTC": "2026-11-13T06:57:22.287024+00:00",
+  "shots": [
+    {
+      "id": "o01",
+      "start": 0,
+      "end": 328,
+      "layout": "c-map",
+      "module": "spatial",
+      "mechanic": "port, rail and domestic-life spatial juxtaposition",
+      "narration": "Một bên là cảng biển, dây chuyền và những đoàn tàu chở hàng. Một bên là người mua nhà và các gia đình vẫn cân nhắc từng khoản chi. Hai cảnh ấy có thể cùng đúng về Trung Quốc.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "o02",
+      "start": 328,
+      "end": 614,
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "two engines and a balance of production and demand",
+      "narration": "Vì sao một nền kinh tế sản xuất rất mạnh vẫn phải lo kích thích nhu cầu? Muốn hiểu, cần tách cỗ máy làm ra hàng hóa khỏi vòng tuần hoàn đưa thu nhập trở lại thị trường.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "o03",
+      "start": 614,
+      "end": 973,
+      "layout": "c-compare",
+      "module": "story",
+      "mechanic": "folded chapter atlas",
+      "narration": "Video này nhìn vào các động cơ tăng trưởng, bất động sản, tiêu dùng và già hóa. Số liệu được chốt theo các công bố đã kiểm tra đến ngày mười ba tháng mười một, năm hai nghìn không trăm hai mươi sáu.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "o04",
+      "start": 973,
+      "end": 1330,
+      "layout": "c-question",
+      "module": "story",
+      "mechanic": "brief educational scope disclaimer",
+      "narration": "Đây là phân tích giáo dục, không phải khuyến nghị đầu tư. Biểu đồ số liệu có kỳ đo và nguồn riêng; mô phỏng chỉ giải thích cơ chế, không phải dự báo hay bản sao hoạt động của doanh nghiệp cụ thể.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f01",
+      "start": 1330,
+      "end": 1703,
+      "layout": "c-map",
+      "module": "spatial",
+      "mechanic": "industrial city with infrastructure and districts",
+      "narration": "Trước hết, Trung Quốc không phải một nhà máy duy nhất. Trên bản đồ là các thành phố, vùng công nghiệp, cảng và thị trường lao động kết nối với nhau. Khoảng cách và hạ tầng góp phần quyết định cách hàng hóa di chuyển.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f02",
+      "start": 1703,
+      "end": 2039,
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "exploded product parts assembling and inspection",
+      "narration": "Hãy lấy một dây chuyền minh họa. Nhà cung cấp đưa linh kiện tới, công nhân và thiết bị lắp ráp, rồi sản phẩm được kiểm tra trước khi xuất xưởng. Giá trị nằm trong cả chuỗi phối hợp ấy.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f03",
+      "start": 2039,
+      "end": 2387,
+      "layout": "c-flow",
+      "module": "spatial",
+      "mechanic": "supplier cluster neighborhood",
+      "narration": "Khi nhiều nhà cung cấp, kỹ năng và dịch vụ ở gần nhau, việc tìm đầu vào hay xử lý trục trặc có thể thuận tiện hơn. Đó là một lợi thế của cụm sản xuất, không chỉ là câu chuyện tiền công thấp.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f04",
+      "start": 2387,
+      "end": 2693,
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "warehouse inventory and order tickets",
+      "narration": "Nhưng năng lực làm ra sản phẩm chưa tự bảo đảm mọi nhà máy có lợi nhuận. Còn cần đơn hàng, mức giá đủ bù chi phí, chất lượng, công suất sử dụng và khả năng thu hồi tiền.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f05",
+      "start": 2693,
+      "end": 3034,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "statistical ruler and manufacturing source extract",
+      "narration": "Theo bảng hạch toán sơ bộ của cơ quan thống kê Trung Quốc, giá trị tăng thêm ngành chế tạo trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu tăng năm phẩy sáu phần trăm so với cùng kỳ, theo giá so sánh.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f06",
+      "start": 3034,
+      "end": 3359,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "diverging sector markers",
+      "narration": "Trong cùng bảng và cùng kỳ, xây dựng giảm bốn phẩy một phần trăm, còn khu vực dịch vụ tăng năm phẩy hai phần trăm. Các bộ phận có thể đi khác nhịp, dù đều nằm trong một nền kinh tế.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f07",
+      "start": 3359,
+      "end": 3675,
+      "layout": "c-photo",
+      "module": "story",
+      "mechanic": "two different industrial contexts with limits of inference",
+      "narration": "Điều này giúp tránh hai kết luận cực đoan: thấy một ngành tốt rồi cho rằng mọi gia đình đều khá lên, hoặc thấy một ngành khó khăn rồi cho rằng toàn bộ năng lực sản xuất đã biến mất.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "f08",
+      "start": 3675,
+      "end": 4028,
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "pulling and braking economic engines",
+      "narration": "Câu hỏi khó hơn là động cơ nào đang kéo, động cơ nào đang ghìm, và sức kéo có chuyển thành thu nhập cùng nhu cầu bền vững hay không. Để thấy phần ghìm, hãy nhìn sang bất động sản.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r01",
+      "start": 4028,
+      "end": 4371,
+      "layout": "c-flow",
+      "module": "spatial",
+      "mechanic": "sectional housing project with stakeholder places",
+      "narration": "Một dự án nhà ở có nhiều bên tham gia: người mua, chủ đầu tư, nhà thầu, ngân hàng và chính quyền địa phương. Vì vậy, khó khăn ở dự án có thể truyền tới những bảng cân đối khác nhau.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r02",
+      "start": 4371,
+      "end": 4724,
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "escrow, payment calendar and waiting contractor",
+      "narration": "Trong mô phỏng này, một hộ gia đình mua nhà và một doanh nghiệp triển khai dự án. Khi tiền thu chậm lại, doanh nghiệp phải xem lại lịch thanh toán cho nhà thầu và khả năng hoàn thành công trình.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r03",
+      "start": 4724,
+      "end": 5134,
+      "layout": "c-flow",
+      "module": "spatial",
+      "mechanic": "construction floors and materials response",
+      "narration": "Nếu công trình chậm, người mua có thể lo về việc nhận nhà. Nếu doanh nghiệp giảm đầu tư, nhu cầu vật liệu và việc làm liên quan cũng chịu ảnh hưởng. Đây là các kênh truyền dẫn, không phải một tỷ lệ cố định cho mọi dự án.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r04",
+      "start": 5134,
+      "end": 5523,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "investment comparison index, not house price",
+      "narration": "Số liệu chính thức cho biết đầu tư phát triển bất động sản trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu giảm hai mươi phẩy sáu phần trăm so với cùng kỳ. Đây là chỉ tiêu đầu tư, không phải mức giảm của giá mọi căn nhà.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r05",
+      "start": 5523,
+      "end": 5887,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "family postponing a purchase at a decision desk",
+      "narration": "Một gia đình cũng có thể thay đổi hành vi khi giá trị tài sản hoặc triển vọng thu nhập khiến họ bất an. Họ có thể hoãn một món mua lớn hay muốn giữ dự phòng nhiều hơn, ngay cả khi vẫn đang có việc.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r06",
+      "start": 5887,
+      "end": 6307,
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "source documents and unfinished-obligations board",
+      "narration": "World Bank và IMF đều xem điều chỉnh bất động sản là một phần quan trọng của bài toán tái cân bằng. Nhưng giải quyết dự án dở dang, tổn thất và nghĩa vụ tài chính không đơn giản như bật lại một công tắc xây dựng.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "r07",
+      "start": 6307,
+      "end": 6669,
+      "layout": "c-compare",
+      "module": "people",
+      "mechanic": "complete old apartment versus new empty foundation",
+      "narration": "Xây thêm có thể tạo hoạt động trước mắt, nhưng nếu nhu cầu hoặc hiệu quả không phù hợp thì rủi ro vẫn ở đó. Điều cần phân biệt là hoàn thành nghĩa vụ cũ với mở rộng những cam kết mới.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h01",
+      "start": 6669,
+      "end": 6985,
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "payroll and purchases in an actual store vignette",
+      "narration": "Bây giờ chuyển từ công trường sang hộ gia đình. Một vòng tuần hoàn đơn giản là doanh nghiệp trả thu nhập, người dân chi tiêu, doanh nghiệp có doanh thu rồi tiếp tục tuyển dụng và đầu tư.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h02",
+      "start": 6985,
+      "end": 7322,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "family calendar and financial protection objects",
+      "narration": "Vòng ấy không chạy chỉ nhờ lời kêu gọi mua sắm. Quyết định chi còn phụ thuộc thu nhập kỳ vọng, độ ổn định công việc, nghĩa vụ nợ và nhu cầu dự phòng cho những việc quan trọng của gia đình.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h03",
+      "start": 7322,
+      "end": 7672,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "100 illustrative coins allocated to three physical jars",
+      "narration": "Để nhìn rõ cơ chế, tạm chia một khoản thu nhập minh họa thành tiêu dùng, trả nghĩa vụ và dự phòng. Các khối chuyển động chỉ thể hiện lựa chọn; chúng không phải cơ cấu tiết kiệm thực tế của Trung Quốc.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h04",
+      "start": 7672,
+      "end": 8019,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "nominal-to-real price-adjustment lens",
+      "narration": "Theo khảo sát hộ gia đình, chi tiêu tiêu dùng bình quân đầu người trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu tăng ba phẩy sáu phần trăm theo giá hiện hành, và hai phẩy bảy phần trăm sau điều chỉnh giá.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h05",
+      "start": 8019,
+      "end": 8343,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "different household baskets behind an average",
+      "narration": "Hai con số khác nhau vì một bên chưa loại tác động của giá. Và chỉ tiêu bình quân này không có nghĩa mỗi gia đình tăng chi đúng từng ấy. Bình quân có thể che những khác biệt rất lớn.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h06",
+      "start": 8343,
+      "end": 8701,
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "nested goods and service measurement scopes",
+      "narration": "Cũng đừng dùng doanh số bán lẻ hàng hóa thay cho toàn bộ tiêu dùng trong GDP. Phạm vi dịch vụ, đối tượng đo và phương pháp thống kê khác nhau; biểu đồ đẹp vẫn sai nếu đặt nhầm hai đại lượng cạnh nhau.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h07",
+      "start": 8701,
+      "end": 9111,
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "income and safety-net bridge towards a store",
+      "narration": "Một phần tranh luận chính sách vì thế hướng tới thu nhập hộ gia đình, an sinh và niềm tin, thay vì chỉ thêm năng lực làm hàng. Đây là chuyện điều kiện để người dân muốn chi, không phải kết luận rằng tiết kiệm tự nó là xấu.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "h08",
+      "start": 9111,
+      "end": 9422,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "warehouse and shopping demand bottleneck",
+      "narration": "Doanh nghiệp cần người mua, còn người mua cần nguồn thu nhập và sự an tâm. Khi một mắt xích yếu đi, tăng công suất ở mắt xích khác có thể chưa giải quyết được điểm nghẽn.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t01",
+      "start": 9422,
+      "end": 9777,
+      "layout": "c-map",
+      "module": "story",
+      "mechanic": "geographic trade atlas and actual port photograph",
+      "narration": "Hàng hóa không chỉ tìm người mua trong nước. Từ các cụm công nghiệp và cảng, chúng đi vào nhiều thị trường. Bản đồ ở đây là sơ đồ kết nối thương mại, không mô tả tuyến tàu thực hay khối lượng vận chuyển.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t02",
+      "start": 9777,
+      "end": 10120,
+      "layout": "c-flow",
+      "module": "data",
+      "mechanic": "imports, local assembly, export and domestic sale",
+      "narration": "Xuất khẩu tạo đơn hàng cho doanh nghiệp và việc làm liên quan. Nhập khẩu mang vào nguyên liệu, thiết bị và sản phẩm. Cả hai cùng nằm trong chuỗi cung ứng, chứ không chỉ có một mũi tên hàng đi ra.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t03",
+      "start": 10120,
+      "end": 10468,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "domestic-value ledger excluding foreign input",
+      "narration": "Trong tính GDP theo chi tiêu, xuất khẩu ròng là xuất khẩu trừ nhập khẩu. Điều này không có nghĩa nhập khẩu là xấu; phép trừ giúp tránh tính phần giá trị được tạo ở nước ngoài vào sản lượng trong nước.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t04",
+      "start": 10468,
+      "end": 10786,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "hypothetical unit blocks, ten minus seven",
+      "narration": "Hãy dùng một phép tính giả định: xuất khẩu tăng mười đơn vị, nhập khẩu tăng bảy, thì phần chênh tăng ba. Đây chỉ là minh họa số học, không phải đóng góp tăng trưởng thực tế của Trung Quốc.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t05",
+      "start": 10786,
+      "end": 11105,
+      "layout": "c-map",
+      "module": "data",
+      "mechanic": "trade obstacles acting on a container",
+      "narration": "Xuất khẩu mạnh có thể bù một phần nhu cầu yếu ở nơi khác, nhưng không vô hạn. Doanh nghiệp còn đối mặt thị hiếu, cạnh tranh, chi phí vận chuyển và chính sách thương mại của đối tác.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t06",
+      "start": 11105,
+      "end": 11434,
+      "layout": "c-map",
+      "module": "data",
+      "mechanic": "partial supply-chain relocation with parts remaining",
+      "narration": "Một thay đổi thuế quan có thể khiến người mua, nhà cung cấp và địa điểm hoàn thiện sản phẩm điều chỉnh. Tuy vậy, một tuyến nối mới trên bản đồ không chứng minh toàn bộ chuỗi giá trị đã chuyển đi.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "t07",
+      "start": 11434,
+      "end": 11761,
+      "layout": "c-flow",
+      "module": "data",
+      "mechanic": "gross receipts, costs, profits and household income ledger",
+      "narration": "Bởi vậy, đọc sức mạnh xuất khẩu cần đi cùng khả năng tạo giá trị, thu nhập và đa dạng thị trường. Không nên lấy kim ngạch gộp để suy thẳng thành lợi nhuận hay mức sống của từng người.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "d01",
+      "start": 11761,
+      "end": 12088,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "100 people with 23 aged-60-plus pictograms",
+      "narration": "Có một chuyển động chậm hơn tàu hàng nhưng rất quan trọng: cơ cấu dân số. Theo công bố thống kê cuối năm hai nghìn không trăm hai mươi lăm, người từ sáu mươi tuổi trở lên chiếm hai mươi ba phần trăm dân số.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "d02",
+      "start": 12088,
+      "end": 12401,
+      "layout": "c-compare",
+      "module": "people",
+      "mechanic": "age ruler with distinct 60 and 65 thresholds",
+      "narration": "Mốc tuổi phải được giữ rõ. Hai mươi ba phần trăm ở đây là nhóm sáu mươi trở lên, không phải sáu mươi lăm trở lên. Đổi mốc tuổi mà giữ nguyên con số sẽ làm biểu đồ sai nghĩa.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "d03",
+      "start": 12401,
+      "end": 12789,
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "life-course care, work and family spaces",
+      "narration": "Già hóa tác động tới nhu cầu chăm sóc, chi tiêu công, thị trường lao động và kế hoạch của gia đình. Nhưng tỷ lệ tuổi không tự quyết định một kết cục kinh tế duy nhất; năng suất và cách tổ chức xã hội vẫn quan trọng.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "d04",
+      "start": 12789,
+      "end": 13167,
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "human skills, tools and process at a workbench",
+      "narration": "Trong mô phỏng nhà máy này, cùng một nhóm người có thể làm ra nhiều giá trị hơn nếu kỹ năng, công cụ và quy trình tốt lên. Không phải chỉ đếm có bao nhiêu robot, mà phải hỏi hiệu quả thực sự tăng thế nào.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "d05",
+      "start": 13167,
+      "end": 13549,
+      "layout": "c-photo",
+      "module": "story",
+      "mechanic": "automation and worker contexts in a moving photographic aperture",
+      "narration": "Đầu tư công nghệ có thể mở cơ hội, đồng thời đòi hỏi vốn và chuyển đổi kỹ năng. Việc làm ở từng ngành có thể thay đổi khác nhau; một cảnh tự động hóa không chứng minh toàn bộ người lao động đều được lợi hoặc mất việc.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "d06",
+      "start": 13549,
+      "end": 13854,
+      "layout": "c-flow",
+      "module": "people",
+      "mechanic": "multi-year education and training staircase",
+      "narration": "Vì thế, thách thức dài hạn là phối hợp năng suất, đào tạo và mạng lưới hỗ trợ. Đó là một bài toán nhiều năm, không thể kiểm bằng số bán hàng của riêng một tháng.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p01",
+      "start": 13854,
+      "end": 14130,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "nine-month GDP statistical book and growth scale",
+      "narration": "Quay lại con số tổng. GDP trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu tăng bốn phẩy sáu phần trăm so với cùng kỳ, theo ước tính sơ bộ của cơ quan thống kê.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p02",
+      "start": 14130,
+      "end": 14483,
+      "layout": "c-chart",
+      "module": "data",
+      "mechanic": "three quarterly year-on-year calendar markers",
+      "narration": "Theo quý so với cùng kỳ, lần lượt là năm phẩy không, bốn phẩy ba và bốn phẩy năm phần trăm. Đó không phải tăng trưởng so với quý liền trước, và cũng chưa phải kết quả cả năm.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p03",
+      "start": 14483,
+      "end": 14876,
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "policy plumbing with three different destinations",
+      "narration": "Một chính sách có thể nâng cầu trước mắt, nhưng cần hỏi tiền tới đâu, ai thực sự chi, và nghĩa vụ nào được tạo thêm. Hỗ trợ đầu tư, hỗ trợ hộ gia đình và xử lý nghĩa vụ cũ có đường truyền khác nhau.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p04",
+      "start": 14876,
+      "end": 15238,
+      "layout": "c-sim",
+      "module": "spatial",
+      "mechanic": "effective productive project versus empty construction",
+      "narration": "Phép thử thứ nhất: hoạt động mới có tạo hiệu quả và dòng thu nhập lâu dài không? Nếu chỉ tăng số dự án mà bỏ qua nhu cầu, tăng trưởng hiện tại có thể đi cùng áp lực xử lý trong tương lai.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p05",
+      "start": 15238,
+      "end": 15630,
+      "layout": "c-sim",
+      "module": "people",
+      "mechanic": "household income security and store orders",
+      "narration": "Phép thử thứ hai: thu nhập và sự an tâm của hộ gia đình có cải thiện không? Một nền kinh tế muốn cân bằng hơn cần nhìn cả bên sản xuất lẫn điều kiện để thị trường trong nước hấp thụ hàng hóa, dịch vụ.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p06",
+      "start": 15630,
+      "end": 16007,
+      "layout": "c-flow",
+      "module": "data",
+      "mechanic": "moving a liability versus actually settling it",
+      "narration": "Phép thử thứ ba: rủi ro được giải quyết hay chỉ chuyển từ nơi này sang nơi khác? Tái cơ cấu nghĩa vụ và hoàn thiện dự án cần được phân biệt với việc đẩy cam kết sang một bảng cân đối mới.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "p07",
+      "start": 16007,
+      "end": 16348,
+      "layout": "c-compare",
+      "module": "story",
+      "mechanic": "reading a claim through a moving scope lens",
+      "narration": "Các phép thử này không đưa ra một dự báo chắc chắn. Chúng giúp đọc tin mới mà không bị một con số hoặc một hình ảnh dẫn đi quá xa, nhất là khi các ngành và địa phương đang khác nhịp.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "e01",
+      "start": 16348,
+      "end": 16756,
+      "layout": "c-flow",
+      "module": "story",
+      "mechanic": "a layered economic landscape showing simultaneous pressures",
+      "narration": "Trung Quốc vì thế có thể đồng thời sở hữu năng lực sản xuất lớn và gặp áp lực từ bất động sản, sức mua, dân số. Những điều ấy không tự loại trừ nhau; chúng tương tác qua thu nhập, tài sản, đơn hàng và niềm tin.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "e02",
+      "start": 16756,
+      "end": 17147,
+      "layout": "c-sim",
+      "module": "story",
+      "mechanic": "meaningful callback to a town income-demand cycle",
+      "narration": "Nếu nhớ một sơ đồ, hãy nhớ vòng kết nối: sản xuất tạo thu nhập, thu nhập hỗ trợ nhu cầu, nhu cầu nuôi doanh nghiệp; nhà ở, nghĩa vụ tài chính và chính sách có thể làm từng đường nối mạnh lên hoặc yếu đi.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "e03",
+      "start": 17147,
+      "end": 17524,
+      "layout": "c-compare",
+      "module": "story",
+      "mechanic": "four-question source inspection with a page magnifier",
+      "narration": "Khi gặp một số liệu mới, hãy hỏi nó đo kỳ nào, theo giá nào, là mức hay tốc độ tăng, và có đại diện cho điều đang được kết luận không. Bốn câu hỏi nhỏ giúp nhìn một nền kinh tế lớn rõ hơn.",
+      "actualRenderedReview": "pending"
+    },
+    {
+      "id": "e04",
+      "start": 17524,
+      "end": 17913,
+      "layout": "c-closing",
+      "module": "story",
+      "mechanic": "moving China context and an actionable three-topic closing",
+      "narration": "Bạn muốn đi sâu vào bất động sản, xe điện hay thương mại Trung Quốc? Chia sẻ phần bạn quan tâm ở bình luận, và theo dõi để cùng kiểm tra những câu chuyện kinh tế qua số liệu và cơ chế phía sau.",
+      "actualRenderedReview": "pending"
+    }
+  ],
+  "moduleCounts": {
+    "spatial": 10,
+    "story": 14,
+    "data": 13,
+    "people": 14
+  },
+  "authoredMechanicLabels": 51,
+  "scope": "Authoring inventory only; label uniqueness is not proof of aesthetic diversity, motion or clause relevance.",
+  "actualRenderedReview": "pending",
+  "userAcceptance": "pending"
+}

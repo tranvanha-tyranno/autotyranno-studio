@@ -1,0 +1,7 @@
+{
+  "source": "YouTube JSON3 captions",
+  "language": "vi-orig",
+  "rows": 727,
+  "sha256": "5686d67a1ffa8bb3d2d0ffc317fd2606413871c9a3312981bc1a8e1fd37b03b4",
+  "limitation": "Automatic captions can contain recognition errors and overlapping display durations. Word offsets are supplied ASR offsets, not independently measured exact speech boundaries."
+}

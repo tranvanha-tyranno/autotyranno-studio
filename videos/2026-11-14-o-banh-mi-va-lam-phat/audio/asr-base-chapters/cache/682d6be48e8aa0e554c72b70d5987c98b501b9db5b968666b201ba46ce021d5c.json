@@ -1,0 +1,187 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "682d6be48e8aa0e554c72b70d5987c98b501b9db5b968666b201ba46ce021d5c",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "68c1b1f8b44cb5dcc67cf79e7c5703e43edd07d6551cdd9070ad28d20628ccf3",
+    "startFrame": 1749,
+    "endFrameExclusive": 3951,
+    "expectedSHA256": "889af73784080fa3f7f9b141de4592a7de3f37c02b7a64d41cd8247d4b075a5c",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "muc-va-toc-do",
+  "expected": "Giữ nguyên chất lượng và kích cỡ. Năm đầu, bánh từ hai mươi lên hai mươi hai nghìn, tăng mười phần trăm. Đây là phép tính cho một mặt hàng minh họa, chưa phải chỉ số giá tiêu dùng của quốc gia. Năm sau, giá chỉ tăng hai phần trăm. Hai mươi hai nghìn nhân một phẩy không hai, được hai mươi hai nghìn bốn trăm bốn mươi đồng. Giữ số lẻ để thấy phép tính, chưa làm tròn thành giá bán ngoài tiệm. Tốc độ tăng giảm từ mười xuống hai phần trăm. Nhưng giá vẫn cao hơn trước. Nếu cả giỏ hàng vận động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về chỗ cũ. Chiếc xe đi chậm hơn nhưng chưa chạy lùi. Giá cũng vậy: tăng chậm hơn khác với giảm xuống. Muốn mặt bằng giá giảm, mức thay đổi chung phải âm, chứ không chỉ nhỏ hơn con số dương trước đó. Người nhớ giá năm ngoái. Người nhớ giá vài năm trước. Họ nghe cùng tỷ lệ lạm phát mà hình dung hai khoảng cách khác nhau. Khi đọc tin, hãy tìm rõ kỳ so sánh: tháng trước, cùng kỳ, hay một mốc xa hơn. Phép nhân chưa giải thích tại sao chị Hạnh thay bảng giá. Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ. Để hiểu nguyên nhân, phải quay lại trước lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.",
+  "recognized": "dự mươi rất lượng và kích cỡ. Năm đầu bánh từ 20 lên 22.000 tăng 10% Đây là phép tính cho một mật hàng minh hoạch chứ phải chỉ số giá tư dùng của quốc gia. Năm sau giá chỉ tăng 2% 22.000 nhân 1,02 được 22.440 đồng dự số lẻ để thấy phép tính chưa làm tròn thành giá bán ngoài tiệm. Tốc độ tăng giảm từ 10 xúm 2% Nhưng giá vẫn ca hơn trước, nếu cả dỏ hàng vật động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về cho cu. Chức xe đi chậm hơn nhưng chưa chạy lùi, giá cũng vậy, tăng chậm hơn khác với giảm xuống, muốn mặt bằng giả giảm, mức thấy đổi chung phải âm chứ không chỉ nhỏ hơn còn số dương trước đó. Người như giá năm ngoái, người như giá vải năm trước, họ nghe cùng tỷ lệ lạm phát mà hình dung 2 khóa khách khác nhau. Khi đập tin, hãy tìm do o kì so sánh, thẳng chết cùng kì hay một mất ra hơn. Phép nhân chưa dải thiết tại sao chị hạnh thay bằng giá, nó chỉ gỡ nhằm lẫn dưỡng mức và tấp độ, để hiểu mươi nhân phải quay lại chất lúc cử hàng mở cửa, nơi hoá đơn đầu vào được chốt.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " dự mươi rất lượng và kích cỡ.",
+      "globalStart": 58.3,
+      "globalEnd": 60.3
+    },
+    {
+      "start": 2.0,
+      "end": 6.4,
+      "text": " Năm đầu bánh từ 20 lên 22.000 tăng 10%",
+      "globalStart": 60.3,
+      "globalEnd": 64.7
+    },
+    {
+      "start": 6.4,
+      "end": 9.0,
+      "text": " Đây là phép tính cho một mật hàng minh hoạch",
+      "globalStart": 64.7,
+      "globalEnd": 67.3
+    },
+    {
+      "start": 9.0,
+      "end": 11.5,
+      "text": " chứ phải chỉ số giá tư dùng của quốc gia.",
+      "globalStart": 67.3,
+      "globalEnd": 69.8
+    },
+    {
+      "start": 11.5,
+      "end": 14.0,
+      "text": " Năm sau giá chỉ tăng 2%",
+      "globalStart": 69.8,
+      "globalEnd": 72.3
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": " 22.000 nhân 1,02 được 22.440 đồng",
+      "globalStart": 72.3,
+      "globalEnd": 77.3
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": " dự số lẻ để thấy phép tính chưa làm tròn thành giá bán ngoài tiệm.",
+      "globalStart": 77.3,
+      "globalEnd": 82.3
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": " Tốc độ tăng giảm từ 10 xúm 2%",
+      "globalStart": 82.3,
+      "globalEnd": 85.3
+    },
+    {
+      "start": 27.0,
+      "end": 35.18,
+      "text": " Nhưng giá vẫn ca hơn trước, nếu cả dỏ hàng vật động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về cho cu.",
+      "globalStart": 85.3,
+      "globalEnd": 93.47999999999999
+    },
+    {
+      "start": 35.18,
+      "end": 47.78,
+      "text": " Chức xe đi chậm hơn nhưng chưa chạy lùi, giá cũng vậy, tăng chậm hơn khác với giảm xuống, muốn mặt bằng giả giảm, mức thấy đổi chung phải âm chứ không chỉ nhỏ hơn còn số dương trước đó.",
+      "globalStart": 93.47999999999999,
+      "globalEnd": 106.08
+    },
+    {
+      "start": 47.78,
+      "end": 55.86,
+      "text": " Người như giá năm ngoái, người như giá vải năm trước, họ nghe cùng tỷ lệ lạm phát mà hình dung 2 khóa khách khác nhau.",
+      "globalStart": 106.08,
+      "globalEnd": 114.16
+    },
+    {
+      "start": 55.86,
+      "end": 58.74,
+      "text": " Khi đập tin, hãy tìm do o kì so sánh,",
+      "globalStart": 114.16,
+      "globalEnd": 117.03999999999999
+    },
+    {
+      "start": 58.74,
+      "end": 61.74,
+      "text": " thẳng chết cùng kì hay một mất ra hơn.",
+      "globalStart": 117.03999999999999,
+      "globalEnd": 120.03999999999999
+    },
+    {
+      "start": 61.74,
+      "end": 64.98,
+      "text": " Phép nhân chưa dải thiết tại sao chị hạnh thay bằng giá,",
+      "globalStart": 120.03999999999999,
+      "globalEnd": 123.28
+    },
+    {
+      "start": 64.98,
+      "end": 67.64,
+      "text": " nó chỉ gỡ nhằm lẫn dưỡng mức và tấp độ,",
+      "globalStart": 123.28,
+      "globalEnd": 125.94
+    },
+    {
+      "start": 67.64,
+      "end": 71.16,
+      "text": " để hiểu mươi nhân phải quay lại chất lúc cử hàng mở cửa,",
+      "globalStart": 125.94,
+      "globalEnd": 129.45999999999998
+    },
+    {
+      "start": 71.16,
+      "end": 73.24,
+      "text": " nơi hoá đơn đầu vào được chốt.",
+      "globalStart": 129.45999999999998,
+      "globalEnd": 131.54
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 13.387,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\02-muc-va-toc-do-049831db47be39bd.wav",
+  "chunk": {
+    "chunkKey": "049831db47be39bd3b1e7f6376fed644cc1cdc4064d4a05030b7624589ae0005",
+    "sha256": "68c1b1f8b44cb5dcc67cf79e7c5703e43edd07d6551cdd9070ad28d20628ccf3",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1174400,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 2798400,
+    "sourceEndSampleExclusive": 6321600,
+    "sourceSampleRate": 48000,
+    "seconds": 73.4,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.835,
+    "expectedTokenCoverage": 0.8367,
+    "expectedTailTokenCoverage": 0.76,
+    "expectedTokens": 251,
+    "observedTokens": 252,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

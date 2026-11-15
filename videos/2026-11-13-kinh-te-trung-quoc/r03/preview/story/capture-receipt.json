@@ -1,0 +1,78 @@
+{
+  "startedUTC": "2026-11-13T06:30:31.749Z",
+  "finishedUTC": "2026-11-13T06:30:58.014Z",
+  "wallSeconds": 26.2625525,
+  "captures": [
+    {
+      "id": "o02",
+      "frame": 471,
+      "file": "o02.jpg"
+    },
+    {
+      "id": "o03",
+      "frame": 793,
+      "file": "o03.jpg"
+    },
+    {
+      "id": "o04",
+      "frame": 1151,
+      "file": "o04.jpg"
+    },
+    {
+      "id": "f07",
+      "frame": 3517,
+      "file": "f07.jpg"
+    },
+    {
+      "id": "f08",
+      "frame": 3851,
+      "file": "f08.jpg"
+    },
+    {
+      "id": "r06",
+      "frame": 6097,
+      "file": "r06.jpg"
+    },
+    {
+      "id": "t01",
+      "frame": 9599,
+      "file": "t01.jpg"
+    },
+    {
+      "id": "d05",
+      "frame": 13358,
+      "file": "d05.jpg"
+    },
+    {
+      "id": "p03",
+      "frame": 14679,
+      "file": "p03.jpg"
+    },
+    {
+      "id": "p07",
+      "frame": 16177,
+      "file": "p07.jpg"
+    },
+    {
+      "id": "e01",
+      "frame": 16552,
+      "file": "e01.jpg"
+    },
+    {
+      "id": "e02",
+      "frame": 16951,
+      "file": "e02.jpg"
+    },
+    {
+      "id": "e03",
+      "frame": 17335,
+      "file": "e03.jpg"
+    },
+    {
+      "id": "e04",
+      "frame": 17718,
+      "file": "e04.jpg"
+    }
+  ],
+  "scope": "Actual rendered midpoint images; requires visual review, not an animation/aesthetic acceptance check."
+}

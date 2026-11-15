@@ -1,0 +1,50 @@
+{
+  "pexelsID": 30329515,
+  "pageURL": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-preparation-30329515/",
+  "title": "Authentic Vietnamese Banh Mi preparation",
+  "creator": "Vietnam Street Food TV",
+  "downloadURL": "https://videos.pexels.com/video-files/30329515/13000700_3840_2160_60fps.mp4",
+  "tags": [
+    "bread",
+    "bakery",
+    "ingredients",
+    "shop"
+  ],
+  "id": "pexels-30329515",
+  "file": "assets/raw/pexels-30329515.mp4",
+  "sha256": "f82cadb3681f1d8cd71429dea63cabf3b953d744bab07b2cbf7089c7fc5e0cb1",
+  "bytes": 85969427,
+  "durationSeconds": 20.33,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 31.621,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Close-up real baguette sandwich assembled with pork, cucumber/herbs and seasoning, then wrapped/bagged. Strong authentic Bánh Mì visual. Source provides Vietnamese identification; pixels show actual baguette and filling. Does not identify Hạnh or prove price.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-30329515.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.1,
+      "end": 20.1,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 3840,
+  "height": 2160,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-preparation-30329515/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

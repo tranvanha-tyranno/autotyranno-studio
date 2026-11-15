@@ -1,0 +1,147 @@
+{
+  "schema": "paced-comic-remaining-preflight-review/1",
+  "reviewed_at": "2026-11-13T17:03:43.710780+00:00",
+  "revision": "r04",
+  "method": "one_static_preflight_frame_per_shot_contact_sheet_review",
+  "coverage": {
+    "sheet_pages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sampled_shots": 114,
+    "parent_reviewed_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "combined_shots": 186
+  },
+  "sheets": [
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-05.jpg",
+      "sha256": "a6f1361aea75fe8941298764e08af5270872623f0d223a210ef536cc5e39e625"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-06.jpg",
+      "sha256": "b88e93d7524c4df5dc9bb7732bcb6a699954b87e955e6cb3bbe97892c539788d"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-07.jpg",
+      "sha256": "e6bcd3c18c95af17c584be8e7822f817a3297a52f0cde66dedda5da09ea27ea2"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-08.jpg",
+      "sha256": "213bb86b054a03d1c185aeebe3b221c7bbcade78fbdca1a8336941a8f773e9f1"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-09.jpg",
+      "sha256": "57b500029676d9b9cef4b7353cb444cf76707fb863d2526398db59d236d92bc4"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-10.jpg",
+      "sha256": "7a151220c0a74b5f0b1571627b4238110f14aa7b3bf4780fc6860d806d920c3d"
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-nhip-nhanh/r04/comic/preflight/comic-audit/audit-11.jpg",
+      "sha256": "791a24f026e49512585863be22656a1222f4fb3fd8f608e7c6da1fecd0e2554b"
+    }
+  ],
+  "decision": "report_material_replay_for_parent_coordinated_revision",
+  "positive_observations": [
+    {
+      "beats": [
+        "b33"
+      ],
+      "finding": "Three distinct compositions: income-versus-essential bars, three major-option receipts, individual decision."
+    },
+    {
+      "beats": [
+        "b41"
+      ],
+      "finding": "Cumulative visible receipts progress from one to two to four, followed by total comparison."
+    },
+    {
+      "beats": [
+        "b45"
+      ],
+      "finding": "Repairable bike, need/use case, keep-needed choice and moving unused parcel are distinct."
+    },
+    {
+      "beats": [
+        "b34"
+      ],
+      "finding": "Printed 14 - 11.4 = 2.6 arithmetic and conditional caveat visible; no new primary numeric or crop defect observed in pages5-11."
+    },
+    {
+      "beats": [
+        "subscribe"
+      ],
+      "finding": "Subscribe, bell, comment writing and sent comment differ; written state preserved in final sample."
+    }
+  ],
+  "material_findings": [
+    {
+      "beats": [
+        "b23"
+      ],
+      "finding": "All three samples repeat the same annual-calendar object placement."
+    },
+    {
+      "beats": [
+        "b25"
+      ],
+      "finding": "All four samples repeat same reserve-envelope transfer state."
+    },
+    {
+      "beats": [
+        "b26",
+        "b27",
+        "b28",
+        "b30"
+      ],
+      "finding": "Calendar, due-before-payday and balance curve repeat between these beats; fourth part returns to initial calendar."
+    },
+    {
+      "beats": [
+        "b40"
+      ],
+      "finding": "All four samples repeat same two-envelope transfer composition/state."
+    },
+    {
+      "beats": [
+        "b39"
+      ],
+      "finding": "Parts1,2 and4 show the same repair/use setup; part3 changes replenishment label."
+    },
+    {
+      "beats": [
+        "b43"
+      ],
+      "finding": "Parts2 and3 show same installments setup."
+    }
+  ],
+  "text_observations": {
+    "headings_obscured_by_actors": [
+      "b33-p03",
+      "b35-p03",
+      "b40",
+      "b45-p04",
+      "b47-cups",
+      "b49-p03",
+      "b50-p03",
+      "subscribe-p02"
+    ],
+    "note": "Parent already coordinates global text separation in r05; no source edits made by this reviewer."
+  },
+  "limits": [
+    "One static frame per shot cannot establish continuous action, audiovisual relevance or aesthetic approval.",
+    "No audio playback or listening performed by this reviewer.",
+    "All observations apply only to retained r04 images; parent is implementing a separately reviewed r05."
+  ]
+}

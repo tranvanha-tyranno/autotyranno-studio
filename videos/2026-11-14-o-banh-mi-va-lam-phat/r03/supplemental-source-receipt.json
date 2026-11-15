@@ -1,0 +1,60 @@
+{
+  "scope": "Additional unchanged helper sources, new local verifier and final guidance captured after render; original frozen render dependencies remain in dependencies.json",
+  "files": [
+    {
+      "source": "workflows/reference-video/finance_long_render.py",
+      "sha256": "383b50ce037cfdcbad012370b591e00dff53c59a51a5bc3e7b07d7a040206e2a",
+      "retained": "r03/source-supplement/workflows/reference-video/finance_long_render.py"
+    },
+    {
+      "source": "workflows/reference-video/documentary.py",
+      "sha256": "36ab4ad7091be367a33c73169e93b55ec120959d393562fa38a20738bac31d44",
+      "retained": "r03/source-supplement/workflows/reference-video/documentary.py"
+    },
+    {
+      "source": "workflows/reference-video/economy_story_asr.py",
+      "sha256": "30cb11b8eb4946be411afa201d6bc7af8320566c4d7a62d59e5e7c357278a54f",
+      "retained": "r03/source-supplement/workflows/reference-video/economy_story_asr.py"
+    },
+    {
+      "source": "workflows/reference-video/economy_story_assets.py",
+      "sha256": "111c0c52c01d53ddb3a0902020e135e3cda48738b418f21fc57eb4187f1caba8",
+      "retained": "r03/source-supplement/workflows/reference-video/economy_story_assets.py"
+    },
+    {
+      "source": "workflows/reference-video/economy-story.profile.json",
+      "sha256": "3c1068eaa9e1f2cd2bf272b2eacead43666a2957cf6eaee537223e68d5b024ac",
+      "retained": "r03/source-supplement/workflows/reference-video/economy-story.profile.json"
+    },
+    {
+      "source": "workflows/reference-video/ECONOMY_STORY.md",
+      "sha256": "84d6b2ffc1a8cb8888c51671321eb367c55514187c4c451b67b653e2801aaedb",
+      "retained": "r03/source-supplement/workflows/reference-video/ECONOMY_STORY.md"
+    },
+    {
+      "source": "workflows/reference-video/SRC_REVIEW_2026-11-14.md",
+      "sha256": "b7905adc9a9ba5e98a0c8cd6a5e20f369cb231eddc4ba81c4629a5ea5948b63e",
+      "retained": "r03/source-supplement/workflows/reference-video/SRC_REVIEW_2026-11-14.md"
+    },
+    {
+      "source": "workflows/reference-video/src-review-2026-11-14.json",
+      "sha256": "9c70a9d807ec9b192d65b1932f428042a993482cc84eb940542d6a5f8c5fdd21",
+      "retained": "r03/source-supplement/workflows/reference-video/src-review-2026-11-14.json"
+    },
+    {
+      "source": "workflows/reference-video/src-review-finance-2026-11-14.json",
+      "sha256": "92d1c9c6aacd0a1e29e6bf37150ed2f0dba0d7c64e5793ea676c7b2bfb70b516",
+      "retained": "r03/source-supplement/workflows/reference-video/src-review-finance-2026-11-14.json"
+    },
+    {
+      "source": "workflows/reference-video/src-review-economics-2026-11-14.json",
+      "sha256": "51ea4405d243eb19cae2a14b5d057c30dad395873d5d0f97e24722e56ce5f2e7",
+      "retained": "r03/source-supplement/workflows/reference-video/src-review-economics-2026-11-14.json"
+    },
+    {
+      "source": "workflows/reference-video/src-review-photos-2026-11-14.json",
+      "sha256": "0057b4a29fe0afa1ce9c852434949c6fd4d9d9a0f2c35c6cf81f9b97068bb7b5",
+      "retained": "r03/source-supplement/workflows/reference-video/src-review-photos-2026-11-14.json"
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "schema": "paced-comic-all-shot-static-review/1",
+  "revision": "r04",
+  "method": "one_rendered_frame_per_shot_contact_sheet_review",
+  "sampleCount": 186,
+  "sheetCount": 11,
+  "reviewCoverage": {
+    "comic_pacing": "sheets01-04,72frames",
+    "remaining_audit": "sheets05-11,114frames"
+  },
+  "limits": [
+    "Static samples cannot prove motion or creative acceptance. See separate five-beat dense temporal review and parent real browser playback.",
+    "r05 source corrections supersede the major replay observations below; r05 needs its own rendered review."
+  ],
+  "observations": [
+    "No new arithmetic or cropped main numerical evidence found in186 sample scan.",
+    "b14 frequency/meaningful meeting, b33 options, b41 cumulative costs and b45 useful/unused action states visibly differ.",
+    "Major repetition in b17,b23,b25,b26-30,b31-32,b39,b40,b43 and part3 wrapping groups reported to parent and corrected in coordinated r05 source freeze.",
+    "Secondary headings behind actor heads occurred in multiple frames; r05 caps actor scale and moves large secondary headings into top safe area."
+  ],
+  "frames": [
+    {
+      "file": "r04/comic/preflight/b01-p01-00062.jpg",
+      "sha256": "1198f1c7a90f9b6ce50ca4add3b4c806dcb2ed2286450863418ec5b56efef4f9"
+    },
+    {
+      "file": "r04/comic/preflight/b01-p02-00153.jpg",
+      "sha256": "0bb6c280419aa10b81ec890b09288941dc9de80b9f2b5ac8735c8f1f7ec2f27e"
+    },
+    {
+      "file": "r04/comic/preflight/b01-p03-00223.jpg",
+      "sha256": "34ad3f8305b160fd51a82e81e9b0d391590cbe773536d7e55ccc5e3b6f658abe"
+    },
+    {
+      "file": "r04/comic/preflight/b01-p04-00311.jpg",
+      "sha256": "be9d7efa635a4421f89bab166fcad4a6c4e399199006b99e8de8cf686274f55d"
+    },
+    {
+      "file": "r04/comic/preflight/b02-p01-00421.jpg",
+      "sha256": "42cde051a04113212be8188befd7ae52dd4c7290d20e25b7853f34be5dc3cc12"
+    },
+    {
+      "file": "r04/comic/preflight/b02-p02-00538.jpg",
+      "sha256": "04fd620dabca73a65eb89dd76f670a9be21d0be31f367f19b26c2c1805c46493"
+    },
+    {
+      "file": "r04/comic/preflight/b02-p03-00622.jpg",
+      "sha256": "dcc0e99167af6348234c06626c4747bae2f43b2c271dd878ebe764869a38c03a"
+    },
+    {
+      "file": "r04/comic/preflight/b03-p01-00708.jpg",
+      "sha256": "60d5ab0d73e5a46ec493b858469c404bc1da9818425f2558c5ea7ec2c1ae8ba2"
+    },
+    {
+      "file": "r04/comic/preflight/b03-p02-00819.jpg",
+      "sha256": "91541bc88a03ac0116f3b803a04597d91f6f8da392919a79842f77f8260cd7b9"
+    },
+    {
+      "file": "r04/comic/preflight/b03-p03-00927.jpg",
+      "sha256": "4469e939275ea8d45180608c7c3fb0d6cf190e5420cf517d3239ff252b0fda72"
+    },
+    {
+      "file": "r04/comic/preflight/b04-p01-01015.jpg",
+      "sha256": "dc8e1e80167a1a82eb475b52d5f614a72fc91542301840d2d19ccc3a272836aa"
+    },
+    {
+      "file": "r04/comic/preflight/b04-p02-01094.jpg",
+      "sha256": "f3f4c31b20e9a9717ea8cf543e9709a48a88afb1f8121b6a838eeafa7d877a84"
+    },
+    {
+      "file": "r04/comic/preflight/b04-p03-01179.jpg",
+      "sha256": "07e5fbd048cce6c7e10e2693540c2cc56aa3cb5f62d91844140124e3678efacb"
+    },
+    {
+      "file": "r04/comic/preflight/b04-p04-01260.jpg",
+      "sha256": "6f38bea9fe0b11a5f9ff2e6373694f4dae645fcae613ea0d176de414551c2f32"
+    },
+    {
+      "file": "r04/comic/preflight/b05-p01-01346.jpg",
+      "sha256": "0ba9cc55daf0b0526133cbf4be7281ac50aa26835a23629ea1cb4e299a5586d8"
+    },
+    {
+      "file": "r04/comic/preflight/b05-p02-01460.jpg",
+      "sha256": "ee6f04f20f4bebd64fd5beeb14115679aa8aa6f4be1f7bf5c66e701fce9e43f0"
+    },
+    {
+      "file": "r04/comic/preflight/b05-p03-01569.jpg",
+      "sha256": "f10a296ebf3ca5f209b65ce15ac0313c9d32b589ce9d5501d5564c43d0babae7"
+    },
+    {
+      "file": "r04/comic/preflight/b06-p01-01676.jpg",
+      "sha256": "b3fdebfa2f673a86d3356317a284bbfd1aa7c34c4ae1e8741324f27367a68753"
+    },
+    {
+      "file": "r04/comic/preflight/b06-p02-01766.jpg",
+      "sha256": "00c0b934c13621c56d032ecae6f00862c95d0a6a73e85c2707f474fe5d95c351"
+    },
+    {
+      "file": "r04/comic/preflight/b06-p03-01844.jpg",
+      "sha256": "620287c8847489a4450c13582c3689745dc5f82346e83defa7e612b83ff94f8a"
+    },
+    {
+      "file": "r04/comic/preflight/b06-p04-01918.jpg",
+      "sha256": "1e95ad6a797c4797a3f78a718a7429be488882c86f3dbb185bfdb59dc0012af2"
+    },
+    {
+      "file": "r04/comic/preflight/b07-p01-02021.jpg",
+      "sha256": "d422f53c871fcecce3348863bb77808e270cc9cb8c601c27bc77d1d2718f63d1"
+    },
+    {
+      "file": "r04/comic/preflight/b07-p02-02127.jpg",
+      "sha256": "81d728b24c18eea9b23e4a66e925c86a181f897d2fee4c5108410756786da46c"
+    },
+    {
+      "file": "r04/comic/preflight/b07-p03-02247.jpg",
+      "sha256": "3b58e08f237a9c98ab9f6856e02455b222c0e222981b1cf7bfe38431a1d93a6b"
+    },
+    {
+      "file": "r04/comic/preflight/b08-p01-02333.jpg",
+      "sha256": "d00710793d1f4ac135c240a1b041ece98d4b60ad1337d58018aca4d967fe9275"
+    },
+    {
+      "file": "r04/comic/preflight/b08-p02-02412.jpg",
+      "sha256": "799f142af0988d31c7f3fec31466feb8230ed6646b109d0b29cfedd2d2e447f4"
+    },
+    {
+      "file": "r04/comic/preflight/b08-p03-02505.jpg",
+      "sha256": "be61afda22679c3a4e82cdffb0c00b875e492baadb5096977b90e4b9b52f7f88"
+    },
+    {
+      "file": "r04/comic/preflight/b08-p04-02620.jpg",
+      "sha256": "f407e8b01ce152b564a36156f608e6454d7bb54782f4cada53575ed7b20a75ea"
+    },
+    {
+      "file": "r04/comic/preflight/b09-p01-02734.jpg",
+      "sha256": "68bf02417834fb9819d0ef0115073136b6c078bd00649ed586cb93a1b53dc5ab"
+    },
+    {
+      "file": "r04/comic/preflight/b09-p02-02834.jpg",
+      "sha256": "9d9b105d3a14f15575b82caee72837fe51c0b714f9b906d2f1ddee7737da8c08"
+    },
+    {
+      "file": "r04/comic/preflight/b09-p03-02932.jpg",
+      "sha256": "93e159165f0963b6a053d79ff7d4d00eaa5b473f80434960fef75ef5ac326790"
+    },
+    {
+      "file": "r04/comic/preflight/b09-p04-03020.jpg",
+      "sha256": "dfb98cc83dbcbdbf936909c6700bb3fed580a3a5f3edc73ab11bdc1fb79ad745"
+    },
+    {
+      "file": "r04/comic/preflight/b10-p01-03118.jpg",
+      "sha256": "cd5e337f8dc4adea645dedfd9347e20b29b2f2f81c10ba530dc677f5871f7650"
+    },
+    {
+      "file": "r04/comic/preflight/b10-p02-03237.jpg",
+      "sha256": "8c4571bfd2eab050ba8439fd9e87a51daf36a69fd37a56bea253b8796e1aad87"
+    },
+    {
+      "file": "r04/comic/preflight/b10-p03-03354.jpg",
+      "sha256": "6f51b366b7c176de2dc40ce8b1063fcd966baaea71461af2b765a2d9df713382"
+    },
+    {
+      "file": "r04/comic/preflight/b11-p01-03463.jpg",
+      "sha256": "944564c1ddd075b1b943690a835d8aa84613a850dbb3a09622b868d444726a2c"
+    },
+    {
+      "file": "r04/comic/preflight/b11-p02-03575.jpg",
+      "sha256": "cfadce8e763c00cb66a05c20a041aa0bf1fb87aa8747586b751e76cd4f717bdc"
+    },
+    {
+      "file": "r04/comic/preflight/b11-p03-03686.jpg",
+      "sha256": "997499afada33211e3f9ad26a25a514d52f64f7e99ff9794f4280129db7da78e"
+    },
+    {
+      "file": "r04/comic/preflight/b12-p01-03772.jpg",
+      "sha256": "a99f431e6e3230bd60aae8949bf2d5468a47aaeacfe335a44212dc266102c184"
+    },
+    {
+      "file": "r04/comic/preflight/b12-p02-03853.jpg",
+      "sha256": "95b5376746d5200b3bd3198c40b4d18b7c40f0c6e292a776748b19458893cf40"
+    },
+    {
+      "file": "r04/comic/preflight/b12-p03-03955.jpg",
+      "sha256": "7187cf23272884e762b98184f6995f1786d6c803513163245a436b499f8fbb04"
+    },
+    {
+      "file": "r04/comic/preflight/b12-p04-04050.jpg",
+      "sha256": "192c7cc79eed21507eda86dc1eb36f186d510c2e05698038f41e9509438d21a9"
+    },
+    {
+      "file": "r04/comic/preflight/b13-p01-04134.jpg",
+      "sha256": "15782f4fe6716ffe701a4530d505883a3f553e1b80ebb5be12cf7f5eb5b42087"
+    },
+    {
+      "file": "r04/comic/preflight/b13-p02-04234.jpg",
+      "sha256": "8e645233a59a9f319ec384252668999273c58367eb7e9508503138ec11e6fbfb"
+    },
+    {
+      "file": "r04/comic/preflight/b13-p03-04332.jpg",
+      "sha256": "d0c4ac6b11e40fa9f3fbe93867323a2b9be2074d66656b1dfa8b4b281e692ea5"
+    },
+    {
+      "file": "r04/comic/preflight/b13-p04-04418.jpg",
+      "sha256": "7a76db197d477f427149a3387552f2241e44bc0766ddc5df5c5d946f010aa193"
+    },
+    {
+      "file": "r04/comic/preflight/b14-p01-04526.jpg",
+      "sha256": "cd6d8793176e821eb9178b23bed4ffebd061a43a77525183998e066383fae6ed"
+    },
+    {
+      "file": "r04/comic/preflight/b14-p02-04639.jpg",
+      "sha256": "970a9252ab9fa7c75b331544a852f8179fa2fb161cf44718b736a9359a182be5"
+    },
+    {
+      "file": "r04/comic/preflight/b14-p03-04713.jpg",
+      "sha256": "545963c49b37df8c645e9f0116a6113a2cf0bd5500b5bb0efce5a195c6dc6686"
+    },
+    {
+      "file": "r04/comic/preflight/b15-p01-04773.jpg",
+      "sha256": "c7ec908e8e134e32182f73df2eee7db5d85f9b0b3fa9a4e0ade2bea211d6504a"
+    },
+    {
+      "file": "r04/comic/preflight/b15-p02-04848.jpg",
+      "sha256": "e468e841c654ddee7685bfb55c7093a24928ee07ea25ad2e03f4ae00587147fb"
+    },
+    {
+      "file": "r04/comic/preflight/b15-p03-04928.jpg",
+      "sha256": "4f09f92794cddc559f7a6e79ee3e8ada517691c1254f737ae515b962832a739b"
+    },
+    {
+      "file": "r04/comic/preflight/b15-p04-05006.jpg",
+      "sha256": "6440a162e51ff83896674530b058dd64ccab4f706c324543b3a1fb19b211e5bf"
+    },
+    {
+      "file": "r04/comic/preflight/b15-p05-05098.jpg",
+      "sha256": "77fd93e027ba330eb8e54e56284a9cbdb05d2bc55dcdb88d1d234f2df08ceddc"
+    },
+    {
+      "file": "r04/comic/preflight/b16-p01-05188.jpg",
+      "sha256": "9d31d55e71723d181b0982d5ed448b727cf24122951680fa10c67982c4f36080"
+    },
+    {
+      "file": "r04/comic/preflight/b16-p02-05295.jpg",
+      "sha256": "fc722a9296ef5d4fd819bb0f114a6d86062d24b1142b859f427672bb47daa32b"
+    },
+    {
+      "file": "r04/comic/preflight/b16-p03-05408.jpg",
+      "sha256": "92ec1dd42b96559a90cde49a14baf4cb6792fdf2705c735c537bc790464c1d9f"
+    },
+    {
+      "file": "r04/comic/preflight/b17-p01-05515.jpg",
+      "sha256": "60f87ef680101c103444ace5eacf52a640334e172b466430dde79c4af989d35e"
+    },
+    {
+      "file": "r04/comic/preflight/b17-p02-05627.jpg",
+      "sha256": "8c9ef8b44a6125715caf674c777ae6e2a815b907be234910569845986c1466d3"
+    },
+    {
+      "file": "r04/comic/preflight/b17-p03-05741.jpg",
+      "sha256": "47823ec37dc036d97767b21a4422fc9c46b5b3360f0820e73e4a78686a6683b1"
+    },
+    {
+      "file": "r04/comic/preflight/b18-p01-05845.jpg",
+      "sha256": "df498e0def33b4fc76ee0b3aa64012ad455c1b3ead4cab79db379aa8aecbcfbf"
+    },
+    {
+      "file": "r04/comic/preflight/b18-p02-05935.jpg",
+      "sha256": "01bb4b901571a3df0f0fb8471684cc3f5125ca8f48f66b169d4c75d0a62ec82a"
+    },
+    {
+      "file": "r04/comic/preflight/b18-p03-06015.jpg",
+      "sha256": "bc335220512b01ea33cf496d9d06f9c468ea1b9777a06d1ddc1374f33a8dcd7b"
+    },
+    {
+      "file": "r04/comic/preflight/b18-p04-06089.jpg",
+      "sha256": "6a2b937a96c1c8cff219cd673df128a68909b486782f282112b2882a8d331d16"
+    },
+    {
+      "file": "r04/comic/preflight/b19-p01-06194.jpg",
+      "sha256": "3410fb3d07806598b99ef505de410a14ce89162aeec8509a005dcef0c7b24bb3"
+    },
+    {
+      "file": "r04/comic/preflight/b19-p02-06323.jpg",
+      "sha256": "73ca8e561d84335a199081f81d800d525292c047b5bc9e4765f4701053315de9"
+    },
+    {
+      "file": "r04/comic/preflight/b19-p03-06437.jpg",
+      "sha256": "03ba7a7519e2f4aa2d460ae189166ab88cfa6065507d7fb373b8b29e292b00ab"
+    },
+    {
+      "file": "r04/comic/preflight/b20-p01-06532.jpg",
+      "sha256": "21d07b0accf98bb621a791cfb93a0bedc6acdd6123cc594e68a5ab017e67d87e"
+    },
+    {
+      "file": "r04/comic/preflight/b20-p02-06632.jpg",
+      "sha256": "73247fe704069d2e665d04933df35c59b2b24abe291c203f74fbd211b8c56570"
+    },
+    {
+      "file": "r04/comic/preflight/b20-p03-06713.jpg",
+      "sha256": "62ff3990a28f42db7232bd17d03693f68f228481ccd1b130fc714b0618f50d78"
+    },
+    {
+      "file": "r04/comic/preflight/b20-p04-06803.jpg",
+      "sha256": "d54b92ec5b1074ba49d8469a5c19729118cc19b573f50184647de1f2dc69d6ef"
+    },
+    {
+      "file": "r04/comic/preflight/b21-p01-06907.jpg",
+      "sha256": "59222bfae0533a6ec39d7e3e53067af8326ce1ed26e63fe3d7056cf089893306"
+    },
+    {
+      "file": "r04/comic/preflight/b21-p02-07027.jpg",
+      "sha256": "26f6b34b89f843e69623775decc1bd4ef28012096a299504273c8c334c7839e4"
+    },
+    {
+      "file": "r04/comic/preflight/b21-p03-07140.jpg",
+      "sha256": "91b57cc705c58d945d5c00a4669bd43117e93c34fa5a1fd6e5317857cd592bc6"
+    },
+    {
+      "file": "r04/comic/preflight/b22-p01-07230.jpg",
+      "sha256": "f7c131d3959f1b7455650c06562a6f6d0416b5aa36f47038deb4cbfc6519daed"
+    },
+    {
+      "file": "r04/comic/preflight/b22-p02-07322.jpg",
+      "sha256": "c544ad78156e364d068d82d61a5fca227fbb5605e1885bbe3bf43ce54e884494"
+    },
+    {
+      "file": "r04/comic/preflight/b22-p03-07403.jpg",
+      "sha256": "d1b1431f0b3af1601af10b17d7fcc81445abeaa99347be7717a9b8c916d00a99"
+    },
+    {
+      "file": "r04/comic/preflight/b22-p04-07513.jpg",
+      "sha256": "78eb0ae6d5fa4769adbdbbb77204369c3135f31507e6a969aac69c4927de181e"
+    },
+    {
+      "file": "r04/comic/preflight/b23-p01-07634.jpg",
+      "sha256": "47616f7d5e336105b6e06fb87f14baf37c289a282476f95df71a3f51beec378b"
+    },
+    {
+      "file": "r04/comic/preflight/b23-p02-07743.jpg",
+      "sha256": "624f7b1c5f84e42ce66d53305c6ffcb53a13b57a40bdc2ddb89a76f1661c6951"
+    },
+    {
+      "file": "r04/comic/preflight/b23-p03-07858.jpg",
+      "sha256": "50a31e6e398df44651341dc6e84d29031613080a0c677d036ab0a635302f4288"
+    },
+    {
+      "file": "r04/comic/preflight/b24-p01-07977.jpg",
+      "sha256": "22af2f72f5164144ca3fb150adfb40be7128c15276e186aea95167c2c786a4c5"
+    },
+    {
+      "file": "r04/comic/preflight/b24-p02-08095.jpg",
+      "sha256": "bc85b2fd0519d3df65c0e718b078659c55a3c9512b2d18de563d659e7fd6343a"
+    },
+    {
+      "file": "r04/comic/preflight/b24-p03-08197.jpg",
+      "sha256": "64ea650d3e6d9dcb1f97a9f2e8863cf0b3dd63c3e01ff7016b936f2e7ed9a02c"
+    },
+    {
+      "file": "r04/comic/preflight/b25-p01-08288.jpg",
+      "sha256": "9f07f7f7753b6ad9760f3e9cda5f916d4f70551eedb9f6bd9ed07d27d662b92a"
+    },
+    {
+      "file": "r04/comic/preflight/b25-p02-08376.jpg",
+      "sha256": "2d36057a57722ca28759f2b907a0da95d845b31756338fbb7fad7241c19f545b"
+    },
+    {
+      "file": "r04/comic/preflight/b25-p03-08455.jpg",
+      "sha256": "8ed3eef0599eb5107ca785883c57034905c1785ec048d6c8ceb2363d0f55762e"
+    },
+    {
+      "file": "r04/comic/preflight/b25-p04-08533.jpg",
+      "sha256": "68df5d85f9472bb48f344987148478554d68e142d3d82e594d5610c14770d9a8"
+    },
+    {
+      "file": "r04/comic/preflight/b26-p01-08612.jpg",
+      "sha256": "fbbce26e788fffc4f00b478838a4b0690e8f7aa2e6e3801a697d30cd82662659"
+    },
+    {
+      "file": "r04/comic/preflight/b26-p02-08706.jpg",
+      "sha256": "eaa25ccdef57dfc1197d6615214c3251ba600c79e02fac3cdd8c3bf687fdf77a"
+    },
+    {
+      "file": "r04/comic/preflight/b26-p03-08818.jpg",
+      "sha256": "b70043bae897fb3eeab1e721de2cc34c586f56248a1ba177b859a4869ccdcc15"
+    },
+    {
+      "file": "r04/comic/preflight/b26-p04-08911.jpg",
+      "sha256": "1405340943d0493a7f2641f9dc42914464eec0c4a6b4ab9a481b0ea8d4379bcc"
+    },
+    {
+      "file": "r04/comic/preflight/b27-p01-09005.jpg",
+      "sha256": "414e92f7eb1d9c02fb19d55ce66ee343e637f77ec2d0f65441e3ab9ffb172bc3"
+    },
+    {
+      "file": "r04/comic/preflight/b27-p02-09113.jpg",
+      "sha256": "d80a6c68f1594d2dcc0dbfb20b30ae10ca35057b80580ff57a0608dbaa007983"
+    },
+    {
+      "file": "r04/comic/preflight/b27-p03-09192.jpg",
+      "sha256": "21746d20b2a2976b4772b572e2e845f36f1fbc733f62e3751596fb11d90a9b6d"
+    },
+    {
+      "file": "r04/comic/preflight/b27-p04-09273.jpg",
+      "sha256": "9f465a805aabbb4bc624ead6ae7c42cc057871e9737db4a5c24d012b0d24f663"
+    },
+    {
+      "file": "r04/comic/preflight/b28-p01-09352.jpg",
+      "sha256": "2ebe35661b260b0e16af66e8221c82fef14c9c1248ecf10a2fc7cd26cd27aeae"
+    },
+    {
+      "file": "r04/comic/preflight/b28-p02-09440.jpg",
+      "sha256": "388074caf68f45237f0d3aa01fb52acaa18d0675e196ac0dbd2cdf3331bfaa23"
+    },
+    {
+      "file": "r04/comic/preflight/b28-p03-09532.jpg",
+      "sha256": "5ef96ad93d7b70769cbf4b38e751b30e41620295655c8311c777ddd544bc17a6"
+    },
+    {
+      "file": "r04/comic/preflight/b28-p04-09608.jpg",
+      "sha256": "9a61ee2535df497e3371dd192fdca0aa244a20e7eda75c853f60c533eac0cf44"
+    },
+    {
+      "file": "r04/comic/preflight/b29-p01-09694.jpg",
+      "sha256": "0ea4bfafee2eaf4b7b389e3f4a9456564c7c1fb2b523a5b5790de3784d1f583a"
+    },
+    {
+      "file": "r04/comic/preflight/b29-p02-09797.jpg",
+      "sha256": "3addefa98f23f168b6b4cb6d4089ba92e55153156542be327dfbe5319d241ac3"
+    },
+    {
+      "file": "r04/comic/preflight/b29-p03-09906.jpg",
+      "sha256": "77845ed150322cbc0de86c0b39bcd41b4ed34a2bca96f9b1cae5a52930c2759b"
+    },
+    {
+      "file": "r04/comic/preflight/b29-p04-09994.jpg",
+      "sha256": "752779cb948c07cae95ad95d3b059ac08951983c6e341fe6a239a5518607b2bc"
+    },
+    {
+      "file": "r04/comic/preflight/b30-p01-10097.jpg",
+      "sha256": "9fa90d04984c62c818400505e415ea7d1f5e4a9a3637fc7deb82ace1d44ef541"
+    },
+    {
+      "file": "r04/comic/preflight/b30-p02-10185.jpg",
+      "sha256": "82c9132215fc92a52497976ae1ebc60a03058acb37b6cd619045f91ae8c6efb6"
+    },
+    {
+      "file": "r04/comic/preflight/b30-p03-10280.jpg",
+      "sha256": "b97157e7dbc907b803827ace7814a9a95f94dfe03afc8faaff5363998c328d2e"
+    },
+    {
+      "file": "r04/comic/preflight/b30-p04-10382.jpg",
+      "sha256": "18e4af6de1dca013613da173c1b0500c99817d7b5fc2cd7157bbb8d4bf103234"
+    },
+    {
+      "file": "r04/comic/preflight/b31-p01-10459.jpg",
+      "sha256": "3ac958bb88a3c88920dbafbd05ad1bab65576da6cbf99d3f66d66c9560945d98"
+    },
+    {
+      "file": "r04/comic/preflight/b31-p02-10532.jpg",
+      "sha256": "1a07c64215d3db2b5c7640bdb9c45d09256da22539046759e083099e69595cb3"
+    },
+    {
+      "file": "r04/comic/preflight/b31-p03-10621.jpg",
+      "sha256": "95d1ad4383fc83ba6afcb9e55b64ffd9a366022c87a726cf5e595807617d847b"
+    },
+    {
+      "file": "r04/comic/preflight/b31-p04-10714.jpg",
+      "sha256": "780209d433d63496ee522a88c904100dfa6e34ff129a0479b35ea0078db10ab5"
+    },
+    {
+      "file": "r04/comic/preflight/b32-p01-10822.jpg",
+      "sha256": "a67c1659bf8dbc23a6b90f3736075e5d02394bba3561a7d1624050fc7c57f647"
+    },
+    {
+      "file": "r04/comic/preflight/b32-p02-10916.jpg",
+      "sha256": "0e5364f7f8424c94476963c11ff3e9698ea77a2469632da54bafb91f9d97bf58"
+    },
+    {
+      "file": "r04/comic/preflight/b32-p03-10999.jpg",
+      "sha256": "56626f8659d65e40c96d3040524f836023aca8f1add4d43e6e08e804c93de1bf"
+    },
+    {
+      "file": "r04/comic/preflight/b32-p04-11082.jpg",
+      "sha256": "ea67201d07a676b1d161f17a5f445562c385cb4038653a9c1209507a741eb9ad"
+    },
+    {
+      "file": "r04/comic/preflight/b33-p01-11190.jpg",
+      "sha256": "501478178057344a09219eb01201fc786f13ad662a78264bf26cc2c79037c595"
+    },
+    {
+      "file": "r04/comic/preflight/b33-p02-11313.jpg",
+      "sha256": "982d49302de8c36601a9ab4a713a01ae4c04141f21a518a779a3ab03a368fe41"
+    },
+    {
+      "file": "r04/comic/preflight/b33-p03-11431.jpg",
+      "sha256": "606475a1288bc850d57ee1fe842ffdb973c29c23583e76d448b99745c0e0ad6e"
+    },
+    {
+      "file": "r04/comic/preflight/b34-p01-11527.jpg",
+      "sha256": "94b8270be5b3e65db34c42b245b5139963fd7b3d6d37ac55667235b5ebf7904c"
+    },
+    {
+      "file": "r04/comic/preflight/b34-p02-11643.jpg",
+      "sha256": "2147773d37d8441a522d29f410a94f6e050990a96683b1cc79622c2631ec2929"
+    },
+    {
+      "file": "r04/comic/preflight/b34-p03-11762.jpg",
+      "sha256": "1799b3775fd63129e06ce6287f391232a62fd4ae5f46f850ed2f9f8e852d4e51"
+    },
+    {
+      "file": "r04/comic/preflight/b35-p01-11881.jpg",
+      "sha256": "7f79cbf9263b2b189c548f959dcc0eb868a9daf627aa65dea8c50a536bbef413"
+    },
+    {
+      "file": "r04/comic/preflight/b35-p02-12004.jpg",
+      "sha256": "63d10ed7483de905982f949745ac30286ed7f1537b217432937cbd822802af72"
+    },
+    {
+      "file": "r04/comic/preflight/b35-p03-12114.jpg",
+      "sha256": "48fae3960b21d5aafea3f4f1f615a508ff1afaebd8b572914515f9382c653d2b"
+    },
+    {
+      "file": "r04/comic/preflight/b36-p01-12232.jpg",
+      "sha256": "6274be0a6d49840c1ff95ae52042cb93c765f2dc1b2daabb0a672d2bc42ae141"
+    },
+    {
+      "file": "r04/comic/preflight/b36-p02-12341.jpg",
+      "sha256": "9c9cd96c936cf3e28b338ecc06e0538d456e5d35a8d0f8790660e19d25a2cdc6"
+    },
+    {
+      "file": "r04/comic/preflight/b36-p03-12442.jpg",
+      "sha256": "6f36474bcbcd817eb9a21268293fd170fefdc56c2f1b2746c7da78b318c77c97"
+    },
+    {
+      "file": "r04/comic/preflight/b37-p01-12541.jpg",
+      "sha256": "3183584d952e0a9a804e9a15f841d7cd94d16c6ed8247ccb8a210851b243a55c"
+    },
+    {
+      "file": "r04/comic/preflight/b37-p02-12644.jpg",
+      "sha256": "cc80874ff5dde823664307897033313db4cbc2fca90a701a12598c3161cd0738"
+    },
+    {
+      "file": "r04/comic/preflight/b37-p03-12761.jpg",
+      "sha256": "50d2a7e77ff194ae5c7941099370d034267d30bbed5c65adc119a9e32b403aeb"
+    },
+    {
+      "file": "r04/comic/preflight/b38-p01-12858.jpg",
+      "sha256": "c35966487d5b81853547953fead9f66592970a4c437bc2b6e9261cb7addb970e"
+    },
+    {
+      "file": "r04/comic/preflight/b38-p02-12930.jpg",
+      "sha256": "ca0e0bbc26eee8cac0ec6c842129640dae1e6653345d9b8076ba4c6799b1a8f8"
+    },
+    {
+      "file": "r04/comic/preflight/b38-p03-13018.jpg",
+      "sha256": "345db33a1310b0a94d6e821bcf65847eeb7a9013c680ea8328fc2dc3a28b0f10"
+    },
+    {
+      "file": "r04/comic/preflight/b38-p04-13131.jpg",
+      "sha256": "97e37397c7e1c4263e5d26cbd2e118ea4bf54796a1a69a56a685d41547932442"
+    },
+    {
+      "file": "r04/comic/preflight/b39-p01-13230.jpg",
+      "sha256": "585f6d22cd35e8e1d403a86d85e7e92726efdd77ee30fe25eace84b2c17a6e99"
+    },
+    {
+      "file": "r04/comic/preflight/b39-p02-13313.jpg",
+      "sha256": "35900e26774cdc6d6025f9b06aa0ff76bd57f7b85aff1f6d78fa91f3023b994e"
+    },
+    {
+      "file": "r04/comic/preflight/b39-p03-13396.jpg",
+      "sha256": "5a20dc8763436a39ba30bb491b32bfb91967c2d0acea8f3d49a4ea016f4bdf2a"
+    },
+    {
+      "file": "r04/comic/preflight/b39-p04-13493.jpg",
+      "sha256": "14810b5062e32e4283da58bb4ec0d6ec690f705b679306e08fcb3c9c726fa000"
+    },
+    {
+      "file": "r04/comic/preflight/b40-p01-13584.jpg",
+      "sha256": "5335a7bdf319f9ac903a5e7856e97e1ebb3bc09470623ad25988e75678ab6ce0"
+    },
+    {
+      "file": "r04/comic/preflight/b40-p02-13689.jpg",
+      "sha256": "dedfb5b769cbe0ece3035b9d884aebad36ede2d13d885f21ad48715cce74a72a"
+    },
+    {
+      "file": "r04/comic/preflight/b40-p03-13799.jpg",
+      "sha256": "7319d154c0f5a56b33b75e3ed9033d361dbb4ad7b2236dd99a12b503dc1f4ed2"
+    },
+    {
+      "file": "r04/comic/preflight/b40-p04-13890.jpg",
+      "sha256": "8e352232031c3a8aad64b817ee407d73c6095d32a0e639c5778ae13a841254f8"
+    },
+    {
+      "file": "r04/comic/preflight/b41-p01-13970.jpg",
+      "sha256": "9f649943a65d78618d11f72ab39ff0c293f4a006c21fc159d65e8a298d20c450"
+    },
+    {
+      "file": "r04/comic/preflight/b41-p02-14065.jpg",
+      "sha256": "3dc9e14c92805252e8bd15f496f6776e86ad6f09d5d3629bb42d656140a6da80"
+    },
+    {
+      "file": "r04/comic/preflight/b41-p03-14161.jpg",
+      "sha256": "ccd4604fe9f703a0a1134d8a23c2b23b81d48787a6cf80722bf382f552ee6dbd"
+    },
+    {
+      "file": "r04/comic/preflight/b41-p04-14266.jpg",
+      "sha256": "e3ebf8e5b854799758f103c3fdbe6094973b054a31065c476f6d31ce1f2ef829"
+    },
+    {
+      "file": "r04/comic/preflight/b42-p01-14349.jpg",
+      "sha256": "38749d4b03da9b791baeddb2a5be8a7ebe144b4279f4425c36ddf815983d5a62"
+    },
+    {
+      "file": "r04/comic/preflight/b42-p02-14424.jpg",
+      "sha256": "b2a91de0a7ff2aed2545f70436246ffcc5fb8c46a43ac3c73228fe35a28c1144"
+    },
+    {
+      "file": "r04/comic/preflight/b42-p03-14528.jpg",
+      "sha256": "8d1bd733c417677c49182d95728cc11f3e3fce2f8735c8ba93ca8aa203c45a14"
+    },
+    {
+      "file": "r04/comic/preflight/b42-p04-14627.jpg",
+      "sha256": "0c91e90b97051fb361dda0c647ea4a555480ab2292485c465eeb62bcf2ce6ddc"
+    },
+    {
+      "file": "r04/comic/preflight/b42-p05-14699.jpg",
+      "sha256": "ee6c8f4791695b4ad85c975ae216c858c982243bfc45d91f7f516c1f47e8d756"
+    },
+    {
+      "file": "r04/comic/preflight/b43-p01-14781.jpg",
+      "sha256": "9815152f812547008981d117898bc17d6d10764cdc97862eaaf5c4ec3b5be2b8"
+    },
+    {
+      "file": "r04/comic/preflight/b43-p02-14883.jpg",
+      "sha256": "07124daa11de007fb191a1add795b720f34b0ac578135c397aa938096e8dd88f"
+    },
+    {
+      "file": "r04/comic/preflight/b43-p03-14989.jpg",
+      "sha256": "d8c81c9a43fbaf15e1143bd4387b1745ad588fa6ddd884aca74949069222b91f"
+    },
+    {
+      "file": "r04/comic/preflight/b43-p04-15085.jpg",
+      "sha256": "d7c68e3b5028d317e23997fbf7a7d9148616442fe380754be66811b0b978a3d5"
+    },
+    {
+      "file": "r04/comic/preflight/b44-p01-15178.jpg",
+      "sha256": "ed69964ef4a4de1727034260946a11adbc17b70321728d108d21f72f5dc001db"
+    },
+    {
+      "file": "r04/comic/preflight/b44-p02-15299.jpg",
+      "sha256": "8c8190bc0fdb9d28efa320af2df61814432c20df3d458e8405d43e3ca49570a7"
+    },
+    {
+      "file": "r04/comic/preflight/b44-p03-15431.jpg",
+      "sha256": "efbf108b39d4d0290da0110e7430816a2db593bf00cab8f97402c14c5b88b830"
+    },
+    {
+      "file": "r04/comic/preflight/b45-p01-15546.jpg",
+      "sha256": "fa3c74f20eb0a57e127c45587a1d9a12abc7cfd0b9c9b86d423c8ea70d25716d"
+    },
+    {
+      "file": "r04/comic/preflight/b45-p02-15645.jpg",
+      "sha256": "33300b2d7fca6e51ca8eb77df0e8eed4b7c434e78ab86f6ffb38877ce6f72980"
+    },
+    {
+      "file": "r04/comic/preflight/b45-p03-15723.jpg",
+      "sha256": "176675203014fce7bedb7689c9ccb175230c74554a391d9f558f354c4d7cf75a"
+    },
+    {
+      "file": "r04/comic/preflight/b45-p04-15804.jpg",
+      "sha256": "78569cba33817436e14ef5dae8383ad59963afe978d1eba9eeacf37a0d978444"
+    },
+    {
+      "file": "r04/comic/preflight/b46-p01-15886.jpg",
+      "sha256": "608ba87a34f33bfc8b1324e5b3915074ffeef59464b3910d06a0b613efafe132"
+    },
+    {
+      "file": "r04/comic/preflight/b46-p02-15993.jpg",
+      "sha256": "046b9cbfe8365587cc08b25b8724b1a1bc901ed14faf41946723e658f101f6da"
+    },
+    {
+      "file": "r04/comic/preflight/b46-p03-16117.jpg",
+      "sha256": "d36bab2affe24c08c93d2dc579647c40ca3f4662c68dd4636225cf38eba253e7"
+    },
+    {
+      "file": "r04/comic/preflight/b47-p01-16243.jpg",
+      "sha256": "5a66e5d460f2be434486c8d71cb58bd62b5f0610039687dc52a5aa56203798ce"
+    },
+    {
+      "file": "r04/comic/preflight/b47-p02-16343.jpg",
+      "sha256": "74582ad93ca74ca3ced41fdd80e786bdbf66ac74d6c1cf22b7c99564d50337fd"
+    },
+    {
+      "file": "r04/comic/preflight/b47-p03-16430.jpg",
+      "sha256": "4302e5d1ed685754a0d74b6203dbb4c0b68a0d0499e7d9e328dcbc4b6457b734"
+    },
+    {
+      "file": "r04/comic/preflight/b47-p04-16534.jpg",
+      "sha256": "0c46f06e1564eccbc1c5129af6a4208947a5add3a848c0a92bfffb05403f0a02"
+    },
+    {
+      "file": "r04/comic/preflight/b48-p01-16648.jpg",
+      "sha256": "cc0cc7a383eeb8bc97b201c243b14ff41caf98d86a3efc58559f2bdc2666cc95"
+    },
+    {
+      "file": "r04/comic/preflight/b48-p02-16755.jpg",
+      "sha256": "e6610d0db610c90adf178d37ee07431c949322780ebdc0f72f48d87ea7601b5b"
+    },
+    {
+      "file": "r04/comic/preflight/b48-p03-16826.jpg",
+      "sha256": "8634f307068f7395ff20562b74be350c9f1d7fa4e54ffd6c3ae46b8f5487f554"
+    },
+    {
+      "file": "r04/comic/preflight/b48-p04-16903.jpg",
+      "sha256": "d036f1e0216dbf5514d3142cea66ddf2675cf92c748fc9212f40c01c46d1e12d"
+    },
+    {
+      "file": "r04/comic/preflight/b49-p01-16996.jpg",
+      "sha256": "28b42a9ed21585e46c3335c83b3345177ea8ff1499caa99afec69effb67c25c3"
+    },
+    {
+      "file": "r04/comic/preflight/b49-p02-17090.jpg",
+      "sha256": "8ffa7367cf6a8523b04439582b91d2783bcb8e4293d91dc7a3c685a8bee255d4"
+    },
+    {
+      "file": "r04/comic/preflight/b49-p03-17171.jpg",
+      "sha256": "f372bda621ccc6d616d57c02fc81ca5efef9099d76aef0db739e4dc2b2401bcc"
+    },
+    {
+      "file": "r04/comic/preflight/b49-p04-17284.jpg",
+      "sha256": "1b3e523bfddb217471e948c9cf7b5149bbe99996d3da979d30105f65a9a54c95"
+    },
+    {
+      "file": "r04/comic/preflight/b50-p01-17395.jpg",
+      "sha256": "99f342f1b454e587e14900693ceaa74276f69cc69d95ccf8c1b52811bd7ddd09"
+    },
+    {
+      "file": "r04/comic/preflight/b50-p02-17483.jpg",
+      "sha256": "a2c7ce5479ea8d8187d145d8e6e78159f143e9dbed01a0d2c637746156f92cf9"
+    },
+    {
+      "file": "r04/comic/preflight/b50-p03-17575.jpg",
+      "sha256": "b840bc8c8229309b97781a9c3f500f3dd12a7696d7eba59c9a9a2010294bfcc7"
+    },
+    {
+      "file": "r04/comic/preflight/b50-p04-17693.jpg",
+      "sha256": "3c5f2c1ac2895c39dd3eb9250739b5839c7b945e40cbab780618dbaabef5a383"
+    },
+    {
+      "file": "r04/comic/preflight/subscribe-p01-17798.jpg",
+      "sha256": "042092cda5a79e2eebb0e7dd756ddee90974b66598002b848c19e8872c96806c"
+    },
+    {
+      "file": "r04/comic/preflight/subscribe-p02-17879.jpg",
+      "sha256": "8e01e4bc7a8d534d0ceaeba90e71062f88839d96e22dd6f9692269aa2694b4a5"
+    },
+    {
+      "file": "r04/comic/preflight/subscribe-p03-17968.jpg",
+      "sha256": "f8cd898bf5b4e7b71c5e526cfb5a67b86273bfc8325321c2d16fd4c7c6028076"
+    },
+    {
+      "file": "r04/comic/preflight/subscribe-p04-18045.jpg",
+      "sha256": "3f347745097d44806aba3ab150cad732bab531f9ee8a64dc4b745ae3db5b6bca"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-01.jpg",
+      "sha256": "6fd0e419cd40dab42f5138e776d12dda627c8382a0590981759759e3a764087f"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-02.jpg",
+      "sha256": "d1f32ff062576e5b246f3b578da7648d8447a9b7873d0c11e5e5e469e4df253d"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-03.jpg",
+      "sha256": "bcd9929ba2ec386fc29103c5ba74b35a0cf8a3caaaeee4c8dfcc3da6d43704fd"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-04.jpg",
+      "sha256": "68e9bbf43ee64499d19aa910262371524b9becd2cb8001a210012f355a3fb336"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-05.jpg",
+      "sha256": "a6f1361aea75fe8941298764e08af5270872623f0d223a210ef536cc5e39e625"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-06.jpg",
+      "sha256": "b88e93d7524c4df5dc9bb7732bcb6a699954b87e955e6cb3bbe97892c539788d"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-07.jpg",
+      "sha256": "e6bcd3c18c95af17c584be8e7822f817a3297a52f0cde66dedda5da09ea27ea2"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-08.jpg",
+      "sha256": "213bb86b054a03d1c185aeebe3b221c7bbcade78fbdca1a8336941a8f773e9f1"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-09.jpg",
+      "sha256": "57b500029676d9b9cef4b7353cb444cf76707fb863d2526398db59d236d92bc4"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-10.jpg",
+      "sha256": "7a151220c0a74b5f0b1571627b4238110f14aa7b3bf4780fc6860d806d920c3d"
+    },
+    {
+      "file": "r04/comic/preflight/comic-audit/audit-11.jpg",
+      "sha256": "791a24f026e49512585863be22656a1222f4fb3fd8f608e7c6da1fecd0e2554b"
+    }
+  ],
+  "decision": "r04_not_for_long_render_use_coordinated_r05"
+}

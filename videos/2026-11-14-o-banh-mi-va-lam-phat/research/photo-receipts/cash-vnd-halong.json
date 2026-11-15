@@ -1,0 +1,48 @@
+{
+  "id": "cash-vnd-halong",
+  "file": "assets/cash-vnd-halong.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 8089862,
+  "sourceURL": "https://www.pexels.com/photo/person-holding-a-vietnamese-dong-8089862/",
+  "downloadURL": "https://images.pexels.com/photos/8089862/pexels-photo-8089862.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "My Tran",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "321ff208568d9f5ac4243817d0310f9fd2b2ed45ff4f66cc3a2835f4b681ec30",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "money"
+  ],
+  "credit": "My Tran / Pexels",
+  "expectedFromSource": "Vietnamese dong banknote in hand",
+  "observed": "Two hands hold a reddish two-hundred-thousand-dong banknote in front of water and limestone islands. Landscape image preserves whole note and both hands.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "321ff208568d9f5ac4243817d0310f9fd2b2ed45ff4f66cc3a2835f4b681ec30"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Currency context; visible note denomination is 200000 VND and is unrelated to example price of 20000. Do not label the photographed note as 20000 or wage payment.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/cash-vnd-halong.jpg",
+  "location": {
+    "countryCode": "VN",
+    "place": "Quảng Ninh, Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/person-holding-a-vietnamese-dong-8089862/",
+    "evidence": "Prior source receipt records primary photo page location field as Quảng Ninh, Vietnam."
+  }
+}

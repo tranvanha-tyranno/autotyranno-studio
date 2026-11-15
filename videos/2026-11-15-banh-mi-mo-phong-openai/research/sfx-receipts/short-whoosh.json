@@ -1,0 +1,52 @@
+{
+  "id": "short-whoosh",
+  "file": "audio/sfx/downloaded/short-whoosh.mp3",
+  "sha256": "1fcee738b55df8edbde03a13186e6c3ea9f61235827ec1a241eb5d393edad614",
+  "bytes": 325200,
+  "durationSeconds": 14.35,
+  "sourceURL": "https://freesound.org/people/Kinoton/sounds/427979/",
+  "downloadURL": "https://cdn.freesound.org/previews/427/427979_2247456-hq.mp3",
+  "creator": "Kinoton",
+  "sourceTitle": "Short Whoosh, 13x",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Short bamboo-stick swings, thirteen versions",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "transition",
+    "whoosh"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b07",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b11",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b16",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b22",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/short-whoosh.html",
+    "htmlSHA256": "53345627129359b31829748197b888bcf3b5e33a126fbf1563b28f9d6a8e4b48",
+    "text": "research/sfx-source-pages/short-whoosh.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Short bamboo-stick swings, thirteen versions by Kinoton, Freesound #427979, CC0 1.0: https://freesound.org/people/Kinoton/sounds/427979/"
+}

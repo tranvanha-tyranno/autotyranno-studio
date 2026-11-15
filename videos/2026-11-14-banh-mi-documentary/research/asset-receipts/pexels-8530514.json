@@ -1,0 +1,50 @@
+{
+  "pexelsID": 8530514,
+  "pageURL": "https://www.pexels.com/fr-fr/video/nourriture-mains-porter-couper-8530514/",
+  "title": "Hands breaking a baguette outdoors",
+  "creator": "KoolShooters",
+  "fps": [
+    25
+  ],
+  "tags": [
+    "bread"
+  ],
+  "id": "pexels-8530514",
+  "file": "assets/raw/pexels-8530514.mp4",
+  "sha256": "72068d349a0098b082e499bb83238f1de78ab52c46762fa71e00a848311a6153",
+  "bytes": 4966758,
+  "durationSeconds": 22.28,
+  "downloadURL": "https://videos.pexels.com/video-files/8530514/8530514-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.509,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Hands unwrap and break a long baguette at a green outdoor picnic, bread and basket visible. Supports bread handling/consumption only; not a Vietnamese shop or supplier.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8530514.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 21.9,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 1280,
+  "height": 720,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/fr-fr/video/nourriture-mains-porter-couper-8530514/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

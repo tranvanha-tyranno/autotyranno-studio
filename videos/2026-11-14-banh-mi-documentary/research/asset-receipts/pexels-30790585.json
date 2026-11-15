@@ -1,0 +1,49 @@
+{
+  "pexelsID": 30790585,
+  "pageURL": "https://www.pexels.com/video/vietnamese-street-food-vendor-prepares-roast-pork-30790585/",
+  "title": "Vietnamese street vendor preparing roast pork",
+  "creator": "Vietnam Street Food TV",
+  "downloadURL": "https://videos.pexels.com/video-files/30790585/13169935_3840_2160_60fps.mp4",
+  "tags": [
+    "ingredients",
+    "shop",
+    "market"
+  ],
+  "id": "pexels-30790585",
+  "file": "assets/raw/pexels-30790585.mp4",
+  "sha256": "b1ad506fcc8a4d8f9dbb44712cf566b8f89165cf2adba30a965f6938ea63c56c",
+  "bytes": 29576285,
+  "durationSeconds": 7.27,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 15.553,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Vendor chops roast pork at street cart with motorbikes arriving/passing. Vietnamese street-food setting per source; no fictional-person identity. Supports shop work/ingredients context.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-30790585.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.1,
+      "end": 7.05,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 3840,
+  "height": 2160,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/vietnamese-street-food-vendor-prepares-roast-pork-30790585/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

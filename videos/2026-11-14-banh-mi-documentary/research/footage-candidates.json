@@ -1,0 +1,19 @@
+{
+  "candidates": [
+    {"pexelsID":11265880,"pageURL":"https://www.pexels.com/video/11265880/","title":"Close-up hands working bread dough","fps":[25],"tags":["bread","bakery","flour"]},
+    {"pexelsID":11265881,"pageURL":"https://www.pexels.com/video/11265881/","title":"Bread making process","fps":[25,24,30],"tags":["bread","bakery","flour"]},
+    {"pexelsID":7405932,"pageURL":"https://www.pexels.com/video/close-up-footage-of-a-breads-inside-an-oven-7405932/","title":"Baguettes baking in an oven","creator":"8 K","fps":[24],"tags":["bread","bakery"]},
+    {"pexelsID":30329515,"pageURL":"https://www.pexels.com/video/authentic-vietnamese-banh-mi-preparation-30329515/","title":"Authentic Vietnamese Banh Mi preparation","creator":"Vietnam Street Food TV","fps":[25,30,24,60],"tags":["bread","bakery","ingredients","shop"]},
+    {"pexelsID":7405927,"pageURL":"https://www.pexels.com/video/7405927/","title":"Kneading bread dough","fps":[24,25],"tags":["bread","bakery","flour"]},
+    {"pexelsID":34724120,"pageURL":"https://www.pexels.com/video/34724120/","title":"Artisan bread preparation","creator":"Thái Trường Giang","fps":[30,25,60],"tags":["bread","bakery"]},
+    {"pexelsID":34215394,"pageURL":"https://www.pexels.com/video/34215394/","title":"Kneading dough in bowl","creator":"Anh Nguyen","fps":[30,25,60],"tags":["bread","bakery","flour"]},
+    {"pexelsID":8180413,"pageURL":"https://www.pexels.com/video/person-kneading-a-dough-8180413/","title":"Hands kneading bread dough with flour","creator":"Ron Lach","fps":[25],"tags":["bread","bakery","flour"]},
+    {"pexelsID":8180409,"pageURL":"https://www.pexels.com/video/a-woman-kneading-dough-8180409/","title":"Woman kneading bread dough","creator":"Ron Lach","fps":[25],"tags":["bread","bakery","flour"]},
+    {"pexelsID":29980691,"pageURL":"https://www.pexels.com/video/artisan-bread-dough-kneading-in-kitchen-29980691/","title":"Artisan kneading dough in kitchen","creator":"khezez","fps":[30],"tags":["bread","bakery","flour"]},
+    {"pexelsID":8530514,"pageURL":"https://www.pexels.com/fr-fr/video/nourriture-mains-porter-couper-8530514/","title":"Hands breaking a baguette outdoors","creator":"KoolShooters","fps":[25],"tags":["bread"]},
+    {"pexelsID":8540402,"pageURL":"https://www.pexels.com/video/woman-paying-cashless-8540402/","title":"Cashless transaction at farmers market","creator":"RDNE Stock project","fps":[25,24,30],"tags":["payment","market","groceries"]},
+    {"pexelsID":4121751,"pageURL":"https://www.pexels.com/video/a-couple-paying-at-the-counter-in-the-grocery-4121751/","title":"Grocery checkout payment and bagging","creator":"Jack Sparrow","fps":[25,24,30],"tags":["payment","shop","groceries"]},
+    {"pexelsID":7593795,"pageURL":"https://www.pexels.com/video/a-person-counting-money-7593795/","title":"Counting banknotes","creator":"Pavel Danilyuk","fps":[25],"tags":["payment"]},
+    {"pexelsID":7692777,"pageURL":"https://www.pexels.com/video/woman-counting-money-7692777/","title":"Counting cash with notebook and pencil","creator":"Yan Krukau","fps":[25,24,30],"tags":["payment","receipt"]}
+  ]
+}

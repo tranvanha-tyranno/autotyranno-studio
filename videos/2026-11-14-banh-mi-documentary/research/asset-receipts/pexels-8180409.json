@@ -1,0 +1,52 @@
+{
+  "pexelsID": 8180409,
+  "pageURL": "https://www.pexels.com/video/a-woman-kneading-dough-8180409/",
+  "title": "Woman kneading bread dough",
+  "creator": "Ron Lach",
+  "fps": [
+    25
+  ],
+  "tags": [
+    "bread",
+    "bakery",
+    "flour"
+  ],
+  "id": "pexels-8180409",
+  "file": "assets/raw/pexels-8180409.mp4",
+  "sha256": "d95b9815a2f97920c718e84c2fd972bafbe1070c493da7d65af0b0ef5e897dc9",
+  "bytes": 10425781,
+  "durationSeconds": 39.84,
+  "downloadURL": "https://videos.pexels.com/video-files/8180409/8180409-hd_720_1366_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 4.79,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Portrait view: hands lift, turn and knead one dough mass at white table. Same kitchen as8180413, but different framing; center crop must keep hands and dough, no claim these are fictional staff.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8180409.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 39.6,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 720,
+  "height": 1366,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/a-woman-kneading-dough-8180409/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

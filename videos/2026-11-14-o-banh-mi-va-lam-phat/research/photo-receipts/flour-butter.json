@@ -1,0 +1,42 @@
+{
+  "id": "flour-butter",
+  "file": "assets/flour-butter.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 94443,
+  "sourceURL": "https://www.pexels.com/photo/bakery-flour-cooking-baking-94443/",
+  "downloadURL": "https://images.pexels.com/photos/94443/pexels-photo-94443.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Markus Spiske",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "10e7c74b9eb3556d4a58482fec479b5f68469728591763a33bff41914ff8729f",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "flour"
+  ],
+  "credit": "Markus Spiske / Pexels",
+  "expectedFromSource": "Butter and flour on counter",
+  "observed": "Pale flour mound topped with yellow butter cubes on wooden work surface. Landscape crop keeps both ingredients clearly visible.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "10e7c74b9eb3556d4a58482fec479b5f68469728591763a33bff41914ff8729f"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Ingredient context; not the fictional recipe, quantities, prices or proof that all bánh mì contains butter.",
+  "reusedSource": null
+}

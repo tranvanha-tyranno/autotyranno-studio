@@ -1,0 +1,30 @@
+{
+  "id": "budget-couple",
+  "pexelsID": 6964105,
+  "sourceURL": "https://www.pexels.com/photo/couple-looking-at-their-bills-6964105/",
+  "creator": "Mikhail Nilov",
+  "theme": "budget",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/budget-couple.jpg",
+  "downloadURL": "https://images.pexels.com/photos/6964105/pexels-photo-6964105.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1720,
+  "sha256": "296a1480def51f1b40866f216bfaab60dcb6ba183d180c94be98491b1ea66efd",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

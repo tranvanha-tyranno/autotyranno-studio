@@ -1,0 +1,50 @@
+{
+  "clips": [
+    {
+      "beat": "b01",
+      "from": 0,
+      "duration": 351,
+      "decodedFrames": 351,
+      "file": "r04\\comic\\proof\\b01.mp4",
+      "sha256": "5eb7284f71c525c96ecc40f1bd3cc50bafb031a53a984cb6411da186e71a6b8c",
+      "wallSeconds": 17.036
+    },
+    {
+      "beat": "b15",
+      "from": 4734,
+      "duration": 402,
+      "decodedFrames": 402,
+      "file": "r04\\comic\\proof\\b15.mp4",
+      "sha256": "09702e068c6d0fc39ed50a6c32e92e586a9c6e96b6cfdbcbc65367207ac55438",
+      "wallSeconds": 20.193
+    },
+    {
+      "beat": "b26",
+      "from": 8564,
+      "duration": 377,
+      "decodedFrames": 377,
+      "file": "r04\\comic\\proof\\b26.mp4",
+      "sha256": "01eb1e34f7e319b6d6b3b667bfd0725de077523a40682a8ab35e7036d9d86d38",
+      "wallSeconds": 19.305
+    },
+    {
+      "beat": "b42",
+      "from": 14309,
+      "duration": 414,
+      "decodedFrames": 414,
+      "file": "r04\\comic\\proof\\b42.mp4",
+      "sha256": "8efb705dd982aab1290b2cbfd86f3277891cab0cf37f99a908133e91fb077b63",
+      "wallSeconds": 20.183
+    },
+    {
+      "beat": "subscribe",
+      "from": 17743,
+      "duration": 327,
+      "decodedFrames": 327,
+      "file": "r04\\comic\\proof\\subscribe.mp4",
+      "sha256": "42743ed9ced81adbe75b6eaedf35d411e28b2b32e069e790986448b6163778c8",
+      "wallSeconds": 16.385
+    }
+  ],
+  "review": "Pending complete moving-scene review; still samples do not establish pacing."
+}

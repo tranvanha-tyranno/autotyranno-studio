@@ -1,0 +1,31 @@
+{
+  "schema": "economy-story-prior-asr-failure/1",
+  "date": "2026-11-14",
+  "status": "failed-partial-only",
+  "workflow": "finance_long_asr.main() with BATCH overridden to this local batch",
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 2,
+  "beam_size": 3,
+  "word_timestamps": true,
+  "local_files_only": true,
+  "source": "audio/final-mix.wav",
+  "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+  "errorType": "RuntimeError",
+  "errorVerbatim": "RuntimeError: mkl_malloc: failed to allocate memory .",
+  "reportedStackLocations": [
+    "faster_whisper/transcribe.py generate_segments:1213",
+    "generate_with_fallback:1446",
+    "self.model.generate"
+  ],
+  "errorEvidence": "Exact error line and stack locations relayed by parent Codex agent from the failed tool execution; no saved full traceback was found in the batch.",
+  "partialProgressFile": "audio/asr-progress.json",
+  "partialProgressSHA256": "8ab0abb7b48e6be5ed439ad622e7091606af24e3713fd4d69966ddb8554da7f0",
+  "partialSegments": 32,
+  "recognizedThroughSeconds": 134.28,
+  "recognizedThroughScope": "Last retained recognition endpoint, not wall time or full-audio coverage.",
+  "context": "Allocation failure occurred while full video rendering was active. This records timing/context, not proof of a unique cause.",
+  "retention": "Existing partial progress is retained unchanged. This attempt was not restarted.",
+  "nextVerifier": "workflows/reference-video/economy_story_asr.py: cached sequential chapter splits, local base/int8, beam1, no word timestamps, no previous-text conditioning; run only after render completion and memory release."
+}

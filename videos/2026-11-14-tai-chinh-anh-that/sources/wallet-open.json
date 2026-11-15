@@ -1,0 +1,30 @@
+{
+  "id": "wallet-open",
+  "pexelsID": 4452504,
+  "sourceURL": "https://www.pexels.com/photo/close-up-of-hands-holding-wallet-4452504/",
+  "creator": "Vlada Karpovich",
+  "theme": "wallet",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/wallet-open.jpg",
+  "downloadURL": "https://images.pexels.com/photos/4452504/pexels-photo-4452504.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2200,
+  "height": 2200,
+  "sha256": "dd85345d3c5ea6ac474724a6765c2d833e597942a32299a8190a90a449dfbbf1",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

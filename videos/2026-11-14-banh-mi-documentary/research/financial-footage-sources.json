@@ -1,0 +1,667 @@
+{
+  "schema": "bread-film-footage-sources/1",
+  "assets": [
+    {
+      "pexelsID": 8298010,
+      "pageURL": "https://www.pexels.com/video/a-woman-using-calculator-8298010/",
+      "title": "A Woman Using Calculator",
+      "creator": "Mikhail Nilov",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "calculator",
+        "accounting"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8298010",
+      "file": "assets/raw/finance-8298010.mp4",
+      "sha256": "2cf997250202d35a373d23027f369a05cf9e75ef0bb4e095f688a775c4206cc6",
+      "bytes": 5671527,
+      "durationSeconds": 23.72,
+      "downloadURL": "https://videos.pexels.com/video-files/8298010/8298010-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.68,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Overhead hands turn/hold printed formal documents, press calculator and write with pen.",
+          "Document pages have stamps and lines; this is not a verified bakery/flour invoice or household receipt. Use only generic calculation context."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8298010.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 23.22,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8298010.mp4",
+      "sourceSha256": "2cf997250202d35a373d23027f369a05cf9e75ef0bb4e095f688a775c4206cc6",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 593
+      }
+    },
+    {
+      "pexelsID": 13433110,
+      "pageURL": "https://www.pexels.com/video/a-person-reading-a-receipt-attached-to-a-paper-bag-13433110/",
+      "title": "A Person Reading a Receipt Attached to a Paper Bag",
+      "creator": "Mizuno K",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "delivery",
+        "paperbag"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-13433110",
+      "file": "assets/raw/finance-13433110.mp4",
+      "sha256": "8131c0b33d87860e52441cd1bb56fd07671220141248f8d296589dc6a5816a12",
+      "bytes": 3415302,
+      "durationSeconds": 10.03,
+      "downloadURL": "https://videos.pexels.com/video-files/13433110/13433110-hd_720_1280_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.657,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Hands point at a narrow printed delivery slip attached to a brown paper bag outdoors, then hold/adjust it.",
+          "Portrait source; landscape derivative crops x0 y500 w720 h404 to preserve hands/slip. No claim the slip contains the fictional model values.",
+          "Actual 16:9 derivative crops at0.5/4/8seconds were opened; hands/slip remain visible in receipt crop. Grocery crop protects produce but crops face/raised hand in early samples."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-13433110.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false,
+        "derivativeCropSheet": "research/contact-sheets/financial-landscape-derivative-crops.jpg",
+        "derivativeCropSamplesOpened": [
+          0.5,
+          4,
+          8
+        ]
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 9.53,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceCrop": {
+        "x": 0,
+        "y": 500,
+        "width": 720,
+        "height": 404,
+        "outputWidth": 1280,
+        "outputHeight": 720,
+        "fps": 30,
+        "method": "Fixed content crop then scale to1280x720 using ffmpeg default scaling; source preserved separately."
+      },
+      "sourceFile": "assets/raw/pexels-13433110.mp4",
+      "sourceSha256": "a8c37ba17f5c21ead8b2914782f8b31ac10db884dc9e961b1dcccb0205a62af6",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "frames": 300
+      }
+    },
+    {
+      "pexelsID": 8421355,
+      "pageURL": "https://www.pexels.com/video/paying-with-a-creditcard-8421355/",
+      "title": "Paying with a Creditcard",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "checkout",
+        "shop",
+        "receipt",
+        "payment"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8421355",
+      "file": "assets/raw/finance-8421355.mp4",
+      "sha256": "d3a9e2f5a2a1017f2e7653fd9c1ab2a07df7965e7be105ba164ed5c02184ede6",
+      "bytes": 2922025,
+      "durationSeconds": 8.13,
+      "downloadURL": "https://videos.pexels.com/video-files/8421355/8421355-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.518,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Close grocery checkout: a shopper and cashier hold a red-keypad terminal; shopper presses keys. A paper receipt emerges and is handed away near the end.",
+          "Food/leaves and red grocery basket visible. Do not infer country or a particular fictional person."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8421355.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 7.63,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8421355.mp4",
+      "sourceSha256": "d3a9e2f5a2a1017f2e7653fd9c1ab2a07df7965e7be105ba164ed5c02184ede6",
+      "semanticIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 5.8,
+          "role": "payment terminal interaction"
+        },
+        {
+          "startSeconds": 6.0,
+          "endSeconds": 7.8,
+          "role": "receipt print and handoff"
+        }
+      ],
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 203
+      }
+    },
+    {
+      "pexelsID": 8479282,
+      "pageURL": "https://www.pexels.com/video/person-counting-money-8479282/",
+      "title": "Person Counting Money",
+      "creator": "ArtHouse Studio",
+      "fps": [
+        25,
+        30,
+        24
+      ],
+      "tags": [
+        "foreign-currency-context"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8479282",
+      "file": "assets/raw/finance-8479282.mp4",
+      "sha256": "e9648cc2639141c2a6dc908bc1b5a8c4b33056fb9ed541b7a008812314c8008c",
+      "bytes": 2389908,
+      "durationSeconds": 10.05,
+      "downloadURL": "https://videos.pexels.com/video-files/8479282/8479282-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.453,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Hands visibly count euro notes at a desk beside a laptop/tablet/calculator.",
+          "Currency is EURO, visibly not Vietnamese dong. Excluded from bread/VND narration and tagged foreign-currency-context only."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8479282.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8479282.mp4",
+      "sourceSha256": "e9648cc2639141c2a6dc908bc1b5a8c4b33056fb9ed541b7a008812314c8008c",
+      "excludedFromBreadNarration": true,
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 251
+      }
+    },
+    {
+      "pexelsID": 9474101,
+      "pageURL": "https://www.pexels.com/video/a-woman-is-shopping-in-a-supermarket-9474101/",
+      "title": "A woman is shopping in a supermarket",
+      "creator": "Greta Hoffman",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-9474101",
+      "file": "assets/raw/finance-9474101.mp4",
+      "sha256": "757b1eb141268fa824e0d0f1caa0503dca6e441a4a4de072b63b5cc1ad4b611d",
+      "bytes": 3213651,
+      "durationSeconds": 10.01,
+      "downloadURL": "https://videos.pexels.com/video-files/9474101/9474101-hd_1080_1920_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 1.553,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "A shopper selects fruit, brings one close to examine/smell, and puts/returns fruit near a produce display; reusable mesh bag visible.",
+          "Portrait source; landscape derivative crops x0 y420 w720 h404 for hand/fruit action. Visible shelf labels are archival foreign-context labels, not current Vietnamese offers.",
+          "Actual 16:9 derivative crops at0.5/4/8seconds were opened; hands/slip remain visible in receipt crop. Grocery crop protects produce but crops face/raised hand in early samples."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-9474101.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false,
+        "derivativeCropSheet": "research/contact-sheets/financial-landscape-derivative-crops.jpg",
+        "derivativeCropSamplesOpened": [
+          0.5,
+          4,
+          8
+        ]
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 6.2,
+          "endSeconds": 9.5,
+          "role": "hand lowers examined fruit toward display, mesh bag and produce visible"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceCrop": {
+        "x": 0,
+        "y": 420,
+        "width": 720,
+        "height": 404,
+        "outputWidth": 1280,
+        "outputHeight": 720,
+        "fps": 30,
+        "method": "Fixed content crop then scale to1280x720 using ffmpeg default scaling; source preserved separately."
+      },
+      "sourceFile": "assets/raw/pexels-9474101.mp4",
+      "sourceSha256": "62ff731171f03e0da66a8ece05879d97253dd7016a32cc0ce23910ec9c635dcf",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "frames": 300
+      }
+    },
+    {
+      "pexelsID": 8420781,
+      "pageURL": "https://www.pexels.com/video/woman-looking-inside-a-grocery-8420781/",
+      "title": "Woman Looking Inside a Grocery",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "list"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8420781",
+      "file": "assets/raw/finance-8420781.mp4",
+      "sha256": "ea94142e0c3deec17e86129e05cad7eec19de6c897dcaa501a00faa374a658d8",
+      "bytes": 3990154,
+      "durationSeconds": 16.3,
+      "downloadURL": "https://videos.pexels.com/video-files/8420781/8420781-hd_1920_1080_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 3.361,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "A shopper holds a paper list and a red basket of vegetables, looks from list to shelves and reaches for a product.",
+          "Visible person is illustrative stock, never presented as Hanh or her employee; no assertion she is overspending or under financial stress."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8420781.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 15.8,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8420781.mp4",
+      "sourceSha256": "ea94142e0c3deec17e86129e05cad7eec19de6c897dcaa501a00faa374a658d8",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 407
+      }
+    },
+    {
+      "pexelsID": 8465179,
+      "pageURL": "https://www.pexels.com/video/men-buying-on-the-supermarket-8465179/",
+      "title": "Men Buying on the Supermarket",
+      "creator": "Kampus Production",
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "ingredients"
+      ],
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8465179",
+      "file": "assets/raw/finance-8465179.mp4",
+      "sha256": "ea5ba6309b28fcae1a1218a7fe94a48df7ffd15b8e8c80883036c514ed5bf37f",
+      "bytes": 4635150,
+      "durationSeconds": 18.82,
+      "downloadURL": "https://videos.pexels.com/video-files/8465179/8465179-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 3.496,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Two shoppers inspect produce in a grocery, handle leafy greens near a red basket and continue selecting.",
+          "Generic grocery selection; no location, relationship, price or budget asserted from stock."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8465179.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 18.32,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8465179.mp4",
+      "sourceSha256": "ea5ba6309b28fcae1a1218a7fe94a48df7ffd15b8e8c80883036c514ed5bf37f",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 470
+      }
+    },
+    {
+      "pexelsID": 8465192,
+      "pageURL": "https://www.pexels.com/video/men-checking-vegetables-at-the-cashier-counter-8465192/",
+      "title": "Men Checking Vegetables at the Cashier Counter",
+      "creator": "Kampus Production",
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "checkout"
+      ],
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8465192",
+      "file": "assets/raw/finance-8465192.mp4",
+      "sha256": "03ad5ecdf0eec5f89be1faefd26f715fbfeafa68fdd5b264acda997760ec233c",
+      "bytes": 2595523,
+      "durationSeconds": 11.46,
+      "downloadURL": "https://videos.pexels.com/video-files/8465192/8465192-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.609,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Hands move red/yellow/green vegetables across a counter; focus later moves to shoppers faces.",
+          "Use 0.4–6.0s for object handling/counter, rather than later face-only part when discussing a basket or costs."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8465192.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 6,
+          "role": "handling vegetables on counter"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8465192.mp4",
+      "sourceSha256": "03ad5ecdf0eec5f89be1faefd26f715fbfeafa68fdd5b264acda997760ec233c",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 286
+      }
+    },
+    {
+      "pexelsID": 8466806,
+      "pageURL": "https://www.pexels.com/video/man-choosing-fruits-on-the-market-8466806/",
+      "title": "Man Choosing Fruits on the Market",
+      "creator": "Kampus Production",
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "ingredients"
+      ],
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8466806",
+      "file": "assets/raw/finance-8466806.mp4",
+      "sha256": "acd41a2f2e392b740275ec5b64a5dcd15f0dc552e310ad52d46d51ce40396356",
+      "bytes": 3435224,
+      "durationSeconds": 9.86,
+      "downloadURL": "https://videos.pexels.com/video-files/8466806/8466806-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.84,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Shopper reaches to wooden produce bins, handles a piece of produce and moves it toward a red basket.",
+          "Shelf signs visible but not verified prices or Vietnamese locations; generic choice/alternative-shopping context."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8466806.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 9.36,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8466806.mp4",
+      "sourceSha256": "acd41a2f2e392b740275ec5b64a5dcd15f0dc552e310ad52d46d51ce40396356",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 246
+      }
+    }
+  ],
+  "failed": [
+    {
+      "id": "pexels-7710751",
+      "status": "download_failed",
+      "pageURL": "https://www.pexels.com/video/a-woman-putting-notes-on-the-receipt-7710751/",
+      "reason": "No successful public CDN candidate found"
+    },
+    {
+      "id": "pexels-34982664",
+      "status": "download_failed",
+      "pageURL": "https://www.pexels.com/video/young-woman-selecting-vegetables-at-grocery-store-34982664/",
+      "reason": "No successful public CDN candidate found"
+    },
+    {
+      "id": "pexels-7710779",
+      "status": "download_failed",
+      "pageURL": "https://www.pexels.com/video/a-woman-opening-a-folder-with-receipts-7710779/",
+      "reason": "No successful public CDN candidate found"
+    },
+    {
+      "id": "pexels-5981347",
+      "status": "download_failed",
+      "pageURL": "https://www.pexels.com/video/a-woman-looking-problematic-and-frustrated-5981347/",
+      "reason": "No successful public CDN candidate found"
+    }
+  ],
+  "licenseCheckedOn": "2026-11-15 Asia/Saigon",
+  "licenseURL": "https://www.pexels.com/license/",
+  "licenseSummary": "Official Pexels license allows free use and modification, including social media. Preserve limits on implied endorsement, offensive use and standalone redistribution. Source page search result was read; direct page requests can return403.",
+  "excludedProvider": "Mixkit individual candidate pages restricted free download to personal use; none of those clips downloaded/used.",
+  "rawDurationSeconds": 118.38,
+  "breadEligibleDurationSeconds": 108.33,
+  "editorialLimits": "Stock is context, not Hanh/employee or evidence of the fictional money model. No Vietnam/current-price claims.",
+  "usableIntervalSeconds": 90.36
+}

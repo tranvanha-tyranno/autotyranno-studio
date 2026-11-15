@@ -1,0 +1,24 @@
+{
+  "schema": "economy-story-delivery/2",
+  "title": "Một ổ bánh mì kể chuyện lạm phát",
+  "revision": "r06",
+  "file": "r06/final.mp4",
+  "sha256": "4e9c9aa5203401a4575ac5f73b9051bf275a98a1bd621360af9c3cb60bf36ec1",
+  "bytes": 102224405,
+  "durationSeconds": 622.3666666666667,
+  "decodedFrames": 18671,
+  "technical": "passed",
+  "voice": "Nhật Phong exact existing mix; no new audio generation",
+  "motion": "Content-specific prop/pose/state progression in reusable Remotion renderer; proof clips inspected beginning/graphic-middle/ending",
+  "photoCoverage": "Retained real contextual photo catalog and clause selection; no stock subject is fictional Hạnh",
+  "sourceReview": "All150src files accounted in SRC_REVIEW_2026-11-14.md",
+  "r03Status": "rejected as slide/static cast and retained",
+  "userApproval": "pending",
+  "reports": {
+    "qa": "r06/qa-report.json",
+    "motionProof": "review/r06-motion-proof.json",
+    "integrity": "review/r03-integrity.json",
+    "source": "workflows/reference-video/SRC_REVIEW_2026-11-14.md",
+    "userFeedback": "review/r03-user-feedback.json"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "schema": "reference-content-analysis/1",
+  "source": {
+    "id": "5zqAMK2qsfM",
+    "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM",
+    "title": "NĂNG LỰC ĐÁNG QUÝ NHẤT GIAI ĐOẠN NÀY CHÍNH LÀ KHẢ NĂNG XUẤT BẢN GIÁ TRỊ CỦA BẠN RA NGOÀI",
+    "channel": "THE HIDDEN SELF",
+    "declared_duration": 1289.0,
+    "metadata_source": "docs/video-references/2026-11-11/catalog-complete.json",
+    "metadata_source_sha256": "92328ccade88c4885c4269791b478f0d57807080ab7b2a1aba830c793bfd0483",
+    "transcript_path": "docs/video-references/2026-11-11/5zqAMK2qsfM/transcript.json",
+    "transcript_sha256": "42c5bbe2f41382a2f5d5248af6513a35a930cd078d2e47f3fffede49bfd7a703",
+    "media_path": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+    "media_sha256": "53672ea9a4aa1fbb296ea5c41b1335fc2a1cc2f84498199530f5d0f2b97601c8"
+  },
+  "coverage": {
+    "method": "full_caption_read",
+    "reviewed_start": 0.0,
+    "reviewed_end": 1278.505,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listening": false,
+    "visual_method": "existing sparse contact sheet inspected"
+  },
+  "chapter_source": "agent-inferred semantic sections from caption; not official chapters or frame-accurate cuts",
+  "central_question": "Vì sao học và lưu nhiều mà vẫn không tiến bộ, và làm một sản phẩm nhỏ cho người khác thay đổi điều gì?",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 81.32,
+      "title": "Rất nhiều đầu vào, không có đầu ra",
+      "question": "Vì sao mình luôn học nhưng kế hoạch không thành việc?",
+      "claim": "Người kể gom các hành vi lưu bài/mua sách/xin lời khuyên rồi đối lập với việc không tạo sản phẩm.",
+      "evidence_example": "0–46,72 điện thoại, sách còn nilông, cà phê xin lời khuyên, sổ kế hoạch không được làm.",
+      "mechanism": "Tình huống nhận diện bản thân → mâu thuẫn đầu vào/đầu ra → lời hứa phá vòng lặp.",
+      "transition": "81,32 nhận diện kênh.",
+      "payoff": "Một vấn đề duy nhất xuyên hook, thay vì ghép nhiều lời khuyên rời.",
+      "emphasis": "Nhấn hành vi quan sát được trước nhãn lười/giỏi; không sao chép sự quy kết tâm lý.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 81.32,
+      "end": 124.65,
+      "title": "Nhận diện và quảng bá",
+      "question": "Đây có phải phần giải thích?",
+      "claim": "Đây là bumper rồi quảng bá sách/hệ sinh thái.",
+      "evidence_example": "81,32 chào kênh; 92,8–124,65 lời mời mua/truy cập.",
+      "mechanism": "Dừng câu chuyện để nhận diện và bán dịch vụ.",
+      "transition": "124,65 gọi tên chương đầu.",
+      "payoff": "Không phải miễn trừ; không có luận cứ mới cho luận đề.",
+      "emphasis": "Tách nhãn promotion khỏi chương biên tập.",
+      "kind": "promotion",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 124.65,
+      "end": 226.21,
+      "title": "Vì sao nạp thông tin dễ gây cảm giác tiến bộ?",
+      "question": "Phần thưởng của lưu bài khác gì phần thưởng của làm việc?",
+      "claim": "Người kể diễn giải tiêu thụ như một phần thưởng dễ, có thể thay cho hành động khó.",
+      "evidence_example": "167,17 mua sách không sở hữu tri thức; 181,09–204,41 ví việc nạp với ti giả.",
+      "mechanism": "Phần thưởng dễ → né trang giấy trắng/phán xét → chuẩn bị kéo dài.",
+      "transition": "226,21 chuyển sang thông tin lưu lại trong trí nhớ thế nào.",
+      "payoff": "Nêu một cơ chế cho mâu thuẫn hook.",
+      "emphasis": "Các phát biểu vùng não/dopamine là lời nguồn chưa được kiểm khoa học; chỉ học chức năng giải thích.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 226.21,
+      "end": 338.37,
+      "title": "Từ nhớ thụ động sang tái cấu trúc",
+      "question": "Viết lại/ứng dụng khác đọc thêm như thế nào?",
+      "claim": "Người kể đối chiếu quên lãng với tự tóm tắt, giải thích và ứng dụng.",
+      "evidence_example": "273,09–282,41 bị hỏi cuốn sách nói gì thì không nói ra; 307,61–335,81 viết/giải thích buộc đối chiếu.",
+      "mechanism": "Đầu ra buộc truy hồi và tổ chức ý; người kể dùng đó làm cầu sang định nghĩa xuất bản.",
+      "transition": "338,37 hỏi xuất bản trong đời thường là gì.",
+      "payoff": "Khái niệm cần một hoạt động cụ thể, không dừng khẩu hiệu học chủ động.",
+      "emphasis": "Con số quên 75% trong 48–72h chưa được kiểm; không đưa vào kịch bản như hằng số.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 338.37,
+      "end": 479.3,
+      "title": "Xuất bản nhỏ trông ra sao?",
+      "question": "Có phải phải viết sách hay có triệu người theo dõi?",
+      "claim": "Người kể hạ ngưỡng hành động: một đầu ra nhỏ mà người khác dùng được.",
+      "evidence_example": "386,54 bài cảm nhận; 407,25 bảng chi tiêu; 420,65 công thức nấu ăn; 448,18 quy trình cho đồng nghiệp.",
+      "mechanism": "Định nghĩa trừu tượng → nhiều nghề/hành vi → nhận ra việc có thể làm ngay.",
+      "transition": "479,3 chuyển sang tác động lên tư duy.",
+      "payoff": "Người xem có tiêu chuẩn nhận biết đầu ra, không chỉ được khuyến khích.",
+      "emphasis": "Mỗi ví dụ cần thêm một tình huống khác; có thể cắt bớt nếu nhiều ví dụ không tăng hiểu biết.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 479.3,
+      "end": 598.14,
+      "title": "Lợi ích thứ nhất: tư duy rõ hơn",
+      "question": "Tại sao phải viết ra mới thấy lỗ hổng?",
+      "claim": "Người kể dùng việc biên tập để kiểm nguyên nhân, bằng chứng và định kiến.",
+      "evidence_example": "526,5–536,38 các câu hỏi nguyên nhân/hiện tượng/bằng chứng.",
+      "mechanism": "Đóng gói lời → buộc chọn quan hệ logic → lộ chỗ hiểu hời hợt.",
+      "transition": "598,14 báo rõ chuyển sang giao tiếp/EQ.",
+      "payoff": "Mỗi lợi ích có cơ chế riêng, không chỉ đọc tên lợi ích.",
+      "emphasis": "Chốt ở thay đổi trong cách nghĩ; lời hứa quyết định luôn chuẩn xác là cường điệu cần loại.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 598.14,
+      "end": 717.1,
+      "title": "Lợi ích thứ hai: nghĩ từ phía người nhận",
+      "question": "Làm sao truyền đạt để người khác hiểu?",
+      "claim": "Người kể giải thích luyện xuất bản qua câu hỏi ai đọc, vướng gì, hiểu từ ngữ này không.",
+      "evidence_example": "648,14–662,66 câu hỏi về độc giả và hình ảnh đời thường.",
+      "mechanism": "Có người nhận cụ thể → sửa từ/cấu trúc → tăng cơ hội hiểu và phản hồi.",
+      "transition": "717,1 gọi tên vốn sống và quan hệ.",
+      "payoff": "Tiến từ tổ chức suy nghĩ cá nhân sang giao tiếp.",
+      "emphasis": "Nhấn một người nhận/một điều họ cần; không khẳng định việc đăng bài tự động tăng EQ.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 717.1,
+      "end": 878.98,
+      "title": "Lợi ích thứ ba: quan sát và quan hệ",
+      "question": "Khi cần chia sẻ, mình chú ý cuộc sống khác thế nào?",
+      "claim": "Người kể phát triển hai hệ quả: quan sát kỹ hơn và thu hút người cùng mối quan tâm.",
+      "evidence_example": "747,34–769,78 tình huống đời thường thành chất liệu; 814,42–866,22 chia sẻ chuyên môn gợi kết nối.",
+      "mechanism": "Mục tiêu tạo đầu ra → tìm chất liệu; đầu ra công khai → người khác có cơ sở tương tác.",
+      "transition": "878,98 chuyển từ quan hệ sang đòn bẩy nghề nghiệp.",
+      "payoff": "Tăng quy mô lợi ích, nhưng phần này dễ dài và trùng hứa hẹn.",
+      "emphasis": "Không sao chép khẳng định người tiêu thụ chỉ hút bạn tiêu cực hoặc xuất bản chắc chắn vào vòng tinh hoa.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 878.98,
+      "end": 1021.22,
+      "title": "Lợi ích thứ tư: đầu ra có thể được tìm lại",
+      "question": "Tại sao một bài làm rồi vẫn có thể tạo cơ hội?",
+      "claim": "Người kể đối chiếu tiêu thụ một lần với tài liệu có thể dùng lại/tìm thấy.",
+      "evidence_example": "965,34–986,86 kịch bản bài viết hôm nay được độc giả/đối tác tìm sau này.",
+      "mechanism": "Sản phẩm lưu được → nhiều lượt tiếp cận → khả năng người cần giải pháp nhận ra năng lực.",
+      "transition": "1021,22 chuyển sang tự tin từ kiểm chứng thực tế.",
+      "payoff": "Nêu giá trị khả dụng của đầu ra.",
+      "emphasis": "Kịch bản cơ hội là minh họa, không phải kết quả tất yếu hoặc lãi kép không giới hạn.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 1021.22,
+      "end": 1143.5,
+      "title": "Lợi ích thứ năm: tự tin từ phản hồi",
+      "question": "Nếu sản phẩm đầu dở thì sao?",
+      "claim": "Người kể dẫn chuỗi làm vụng→nhận phản hồi→sửa→giúp được người thật.",
+      "evidence_example": "1067,98–1108,58 bài đầu không ai thích rồi một người cảm ơn hoặc mua giải pháp.",
+      "mechanism": "Hành động tạo dữ kiện năng lực → sửa theo phản hồi → tự tin có căn cứ hơn.",
+      "transition": "1143,5 gọi hành động ngay hôm nay.",
+      "payoff": "Giải nỗi sợ đã nêu ở chương đầu, tạo callback.",
+      "emphasis": "Giữ phản hồi cụ thể; bớt hình dung thành công dài và lời hứa bất khả lay chuyển.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 1143.5,
+      "end": 1278.51,
+      "title": "Chọn một việc để xuất bản",
+      "question": "Sau khi xem, cần làm việc nhỏ nào?",
+      "claim": "Người kể quay lại lưu bài/mua sách và yêu cầu biến một kinh nghiệm thành đầu ra.",
+      "evidence_example": "1198,66–1219,38 bài học nuôi con, bảng tính, chia sẻ trải nghiệm; 1267,94 hỏi lĩnh vực sẽ bắt đầu.",
+      "mechanism": "Callback hành vi cũ → thay thế bằng thao tác → câu hỏi comment đúng nội dung.",
+      "transition": "Hết lời, media còn end screen.",
+      "payoff": "CTA phát sinh từ luận đề, không chỉ xin đăng ký.",
+      "emphasis": "Nên rút đoạn nhắc lại/tiên đoán tiền tài; CTA chọn một sản phẩm nhỏ và một người nhận.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    }
+  ],
+  "observations": [
+    "Đã đọc toàn caption; mốc kết tính từ caption cuối, không phải thời gian lời được forced align.",
+    "Đã mở contact sheet toàn timeline: mic/waveform/player lặp; tại 184,14s có mẹ/con ngoài trời, chưa thấy ti giả như ẩn dụ đang đọc. Không nhận mẫu này làm chuẩn khớp hình.",
+    "Lợi ích nhiều và đánh dấu bằng câu tiêu đề rõ, nhưng 717–1143s nối quan hệ, tài sản số, tự tin dễ thành liệt kê lời hứa. Bản gốc mới nên chọn ít tầng có bằng chứng thay vì sao chép toàn độ dài."
+  ],
+  "transferable_rules": [
+    {
+      "reference_interval": "338.37–479.30",
+      "rule": "Đặt định nghĩa trừu tượng vào đầu ra nhỏ có người nhận và có thể quan sát.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "648.14–662.66",
+      "rule": "Trước khi viết chương, xác định người nghe là ai, họ cần giải được gì, từ nào họ chưa hiểu.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "1067.98–1143.50",
+      "rule": "Phản hồi của người thật là bước phát triển câu chuyện; lời tự khen và test kỹ thuật không thay bước này.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "1267.94–1278.51",
+      "rule": "Hỏi khán giả một lựa chọn có thể làm ngay từ nội dung vừa giải thích.",
+      "status": "editorial observation; not user-approved production lesson"
+    }
+  ],
+  "factual_validation": "not performed; all claims/examples describe what source narrator says, not verified facts"
+}

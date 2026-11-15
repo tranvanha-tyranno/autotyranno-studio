@@ -1,0 +1,126 @@
+[
+  {
+    "file": "directions.py",
+    "sha256": "baa3bfeba3d7a345b59fc5f8037afb62d10b45b9a73a18e43a5cde5923830152"
+  },
+  {
+    "file": "render_directions.py",
+    "sha256": "72c8e99a2c21778d8252fb132dda20294041d8f09851163e211c1bdcc2cdeed1"
+  },
+  {
+    "file": "direction_qa.py",
+    "sha256": "ccbfbe6583ca5c6bd7494b8152d95ddc10a3cbf8d27576abf06930754e50fb61"
+  },
+  {
+    "file": "directions_review.py",
+    "sha256": "4dfad86568ef9112f7a9417f00c5a7d96587eaa019628aaa0826494c0b0fd88b"
+  },
+  {
+    "file": "production.py",
+    "sha256": "cd8e1802fba933b3eb98eaf9699dac6c2ffaa01baf6d80dc1e1de2c2a2dafe5b"
+  },
+  {
+    "file": "PRODUCTION.md",
+    "sha256": "b705698089c9c310b82914dcf95485ff82f2b131eea3faa77378f457d3043329"
+  },
+  {
+    "file": "reference-learning.profile.json",
+    "sha256": "ce3ef77f260e016c7b34485e2ce8cde67d14f0c8a145861a19b7b4bccdb07fcc"
+  },
+  {
+    "file": "TWO_DIRECTIONS.md",
+    "sha256": "c4d378ff616e2961d36ef02b340d686e045a90006bd78726c1f126b039f56de2"
+  },
+  {
+    "file": "cinematic.profile.json",
+    "sha256": "02e3c9b8bbaacb70056c253597391ac05de27c660f15b8ecea2bd9c52bacc8c8"
+  },
+  {
+    "file": "eleven_audio.py",
+    "sha256": "66d23c113d72b70d96ea01d79f2055e250ec7578aab62b4be3dd96a863bd8db3"
+  },
+  {
+    "file": "documentary.py",
+    "sha256": "36ab4ad7091be367a33c73169e93b55ec120959d393562fa38a20738bac31d44"
+  },
+  {
+    "file": "cinematic/src/directions-entry.tsx",
+    "sha256": "8c25e784d2acb830bc1dfec97ce47a20e28bc4eb8febc21b23502a0b15ba60d7"
+  },
+  {
+    "file": "cinematic/package.json",
+    "sha256": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f"
+  },
+  {
+    "file": "cinematic/package-lock.json",
+    "sha256": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c"
+  },
+  {
+    "file": "cinematic/remotion.config.ts",
+    "sha256": "af5ce97f98b2c91a7891f2bef4801f7dc700843f010fd81e1566d9eebf6f5ad1"
+  },
+  {
+    "file": "cinematic/tsconfig.json",
+    "sha256": "f2ce7d4149af71fd058aed6467668585849415547542ad0fa6d3dba3b336ae6a"
+  },
+  {
+    "file": "direction-profiles/hidden.json",
+    "sha256": "8ca4e79a0ec5888c72304c0f519218713e90b5494fc5f2ca283477cba207e09a"
+  },
+  {
+    "file": "direction-profiles/long.json",
+    "sha256": "0c65726314f09d849eadfdcd041c7d737db80ef85e1647393f98d6c11de8862f"
+  },
+  {
+    "file": "direction-profiles/README.md",
+    "sha256": "a83128e2a7c68814bee83d03df771cba19b5cf2d24fdb5ee8fa5ed31ae994086"
+  },
+  {
+    "file": "cinematic/src/directions/Film.tsx",
+    "sha256": "0efeac4d9e2f71a96de93588a91a0f929c562f76c01cef2d4d8f55b7fc0bcd36"
+  },
+  {
+    "file": "cinematic/src/directions/Gallery3D.tsx",
+    "sha256": "9ad9f54652e681537fbf2f91f8ce2b3d282b2ba8f5209e5cd386a7144bebb18e"
+  },
+  {
+    "file": "cinematic/src/directions/index.ts",
+    "sha256": "48d5d3c2cca9afd2c10116910e18191a482a897aee8940385867f3b06a08f9a2"
+  },
+  {
+    "file": "cinematic/src/directions/types.ts",
+    "sha256": "913e5e88abb4d361e0d53eb6ad1fa8eabe873fd66bbecb6614f8faa5c6cd10f1"
+  },
+  {
+    "file": "batch/long/data.json",
+    "sha256": "19ff1e3f488ed7ed8e6196db1ab113aec17a3bd05a3edb9785c286d07cf57b72"
+  },
+  {
+    "file": "batch/long/props.json",
+    "sha256": "ffab567f217c2a7213f36ad708062b60e0c05e3785b502e5e048e3a782548c3f"
+  },
+  {
+    "file": "batch/long/profile.json",
+    "sha256": "a6915544624ddf5c3334635de884f5f2520fc084ff3b5bec372495a0c9367ac7"
+  },
+  {
+    "file": "batch/long/script.txt",
+    "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+  },
+  {
+    "file": "batch/long/render-assets.json",
+    "sha256": "7eeaa79d637c66a74a90bb7f18dd324d5154fa368fbea011fe9116c9494981b4"
+  },
+  {
+    "file": "batch/long/image-sources.json",
+    "sha256": "b9bdd920b5d31c43de2f1531df77e8970fa50c932ecc4a01ff2170106e676d2f"
+  },
+  {
+    "file": "batch/long/audio-sources.json",
+    "sha256": "55e80782996eb806fd7ad4b30e42ba95112fab36356e3d9241652e6c0486bb26"
+  },
+  {
+    "file": "batch/long/production-manifest.json",
+    "sha256": "a6915544624ddf5c3334635de884f5f2520fc084ff3b5bec372495a0c9367ac7"
+  }
+]

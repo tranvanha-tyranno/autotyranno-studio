@@ -1,0 +1,50 @@
+{
+  "schema": "bread-documentary-research/1",
+  "checked": "2026-11-15",
+  "sourcePolicy": "Conceptual economics only. Every shop, price, cost and wage in the story is an original illustrative model, not current Vietnam data. Moving stock is contextual and does not identify Hanh or document the model's behavior.",
+  "sources": [
+    {
+      "id": "boe-inflation",
+      "publisher": "Bank of England",
+      "title": "What is inflation?",
+      "url": "https://www.bankofengland.co.uk/explainers/what-is-inflation",
+      "readMethod": "Primary explanatory page opened with web tool during this rewrite.",
+      "supports": "Distinguishing the pace of price increases from the accumulated price level; annual comparison and a broad consumption basket.",
+      "doesNotEstablish": "No UK rate, policy target, forecast or historic episode is used as Vietnam data. Bread20k/22k/22440 is our arithmetic.",
+      "units": ["b08", "b09", "b10", "b11", "b22", "b23"]
+    },
+    {
+      "id": "ecb-inflation",
+      "publisher": "European Central Bank",
+      "title": "What is inflation?",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html",
+      "readMethod": "Primary explanatory page opened with web tool during this rewrite.",
+      "supports": "One product is not the aggregate price index; household expenditure patterns differ; price comparisons need attention to quantity, quality and period.",
+      "doesNotEstablish": "Euro-area HICP methods or weights are not asserted for Vietnam; bread purchasing power is not household CPI.",
+      "units": ["b10", "b17", "b18", "b19", "b20", "b21", "b23"]
+    },
+    {
+      "id": "rba-price-pressures",
+      "publisher": "Reserve Bank of Australia",
+      "title": "Causes of Inflation",
+      "url": "https://www.rba.gov.au/education/resources/explainers/causes-of-inflation.html",
+      "readMethod": "Primary explanatory page opened with web tool during this rewrite.",
+      "supports": "Input-cost pressures and conditional price-setting/margins; costs do not mechanically determine every firm's price.",
+      "doesNotEstablish": "No claim about an actual bakery's inputs, stock contracts, pricing conduct or profit. These are explicitly possible cases in the original model.",
+      "units": ["b03", "b04", "b05", "b06", "b07", "b12", "b13", "b14", "b15", "b16"]
+    }
+  ],
+  "modelChecks": {
+    "assumedQuantityUnchanged": true,
+    "retainedBefore": "20000-12000-5000=3000",
+    "retainedIfPriceHeld": "20000-14500-5000=500",
+    "retainedAfter": "22000-14500-5000=2500",
+    "netProfitClaimed": false,
+    "nextPeriodBread": "22000*1.02=22440",
+    "wageChapterReset": "Return to original20k->22k period, not22440.",
+    "breadEquivalents": "10000000/20000=500;10500000/22000=477.272727",
+    "breadPurchasingPowerChange": "(477.272727/500-1)*100=-4.54545%",
+    "wholeSalarySpentOnBreadAssumed": false,
+    "nationalInflationInferredFromBread": false
+  }
+}

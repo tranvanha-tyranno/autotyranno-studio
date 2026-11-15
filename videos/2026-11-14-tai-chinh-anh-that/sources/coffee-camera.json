@@ -1,0 +1,30 @@
+{
+  "id": "coffee-camera",
+  "pexelsID": 5047022,
+  "sourceURL": "https://www.pexels.com/photo/woman-taking-a-picture-of-her-friend-while-sitting-in-a-cafe-and-drinking-coffee-5047022/",
+  "creator": "Ketut Subiyanto",
+  "theme": "coffee",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/coffee-camera.jpg",
+  "downloadURL": "https://images.pexels.com/photos/5047022/pexels-photo-5047022.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "4b027006210e8bc1d71631bb0c87261d9bfc92130db024c5b0fd1a57b1d52972",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

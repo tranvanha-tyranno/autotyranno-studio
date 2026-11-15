@@ -1,0 +1,32 @@
+{
+  "id": "vn-house",
+  "pexelsID": 36564122,
+  "sourceURL": "https://www.pexels.com/photo/traditional-vietnamese-house-in-rural-setting-36564122/",
+  "creator": "Jolenne Trieu",
+  "theme": "home",
+  "documentedLocation": "Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A traditional house stands in a rural landscape in daylight.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-house.jpg",
+  "downloadURL": "https://images.pexels.com/photos/36564122/pexels-photo-36564122.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "9669fcb741fbad18ce9a5db581a1082641bfe132db013ea5e2ff414f17bbb5ff",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

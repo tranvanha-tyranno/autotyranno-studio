@@ -1,0 +1,22 @@
+{
+  "schema": "china-variety-revision/1",
+  "preparedUTC": "2026-11-13T06:27:10.656458+00:00",
+  "revision": "r03",
+  "feedback": "User rejected repetitive templates; content-specific physical, people, data and editorial treatments replace template substitution.",
+  "baselineFinalSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+  "shots": 51,
+  "moduleCounts": {
+    "spatial": 10,
+    "people": 14,
+    "data": 13,
+    "story": 14
+  },
+  "exactSameNarration": true,
+  "exactSameCaptions": true,
+  "exactSameTiming": true,
+  "newPaidCalls": 0,
+  "uniqueContextSources": 10,
+  "mixSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+  "diversityScope": "Authored per-shot mechanisms and later actual sequence viewing; counting IDs/modules alone does not establish visual variety or acceptance.",
+  "userAcceptance": "pending"
+}

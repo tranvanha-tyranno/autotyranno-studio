@@ -1,0 +1,47 @@
+{
+  "pexelsID": 30042091,
+  "pageURL": "https://www.pexels.com/video/street-food-preparation-of-roast-pork-banh-mi-30042091/",
+  "title": "Slicing roast pork for Banh Mi",
+  "creator": "Vietnam Street Food TV",
+  "downloadURL": "https://videos.pexels.com/video-files/30042091/12887461_3840_2160_60fps.mp4",
+  "tags": [
+    "ingredients"
+  ],
+  "id": "pexels-30042091",
+  "file": "assets/raw/pexels-30042091.mp4",
+  "sha256": "16aebf4ffc470d20ce9e97331242f135ef08967ccf669d0a72a33d2e3da36fe9",
+  "bytes": 52924903,
+  "durationSeconds": 10.97,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 17.262,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Gloved hands chop roast pork with large knife on round wooden board and gather slices near containers. Ingredient preparation only, not finished bread, costs or hygiene conclusion.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-30042091.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.1,
+      "end": 10.75,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 3840,
+  "height": 2160,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/street-food-preparation-of-roast-pork-banh-mi-30042091/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

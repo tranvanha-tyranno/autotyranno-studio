@@ -1,0 +1,21 @@
+{
+  "duration": 30,
+  "fps": 30,
+  "size": [
+    720,
+    1280
+  ],
+  "decode": "passed",
+  "source_range": [
+    0,
+    30
+  ],
+  "audio": "original speech, cleaned and normalized, original synthesized instrumental bed",
+  "references": [
+    "2aOboRBg8qr1z9EPrtwyzv4APHO3JY5wW2xuZY3s.mp4",
+    "2aOboRBg8qr1z9EPrtwz0VPVYrbCnFHTAFqZDNyK.mp4"
+  ],
+  "editing": "tight portrait crops, timed emphasis captions, two illustrated inserts over the long source pause, gentle transitions",
+  "asr_note": "Unclear words in the opening are deliberately not subtitled. Clear source phrases received spelling correction.",
+  "bytes": 7014950
+}

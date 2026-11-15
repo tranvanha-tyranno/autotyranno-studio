@@ -1,0 +1,18 @@
+{
+  "model": "faster-whisper-base local CPU int8",
+  "sourceSHA256": "6b5e876b6dbc46b791e4edbd2caedb1e30d1a671a7a533896c7c0d8e5fa39e4c",
+  "wallSeconds": 5.1301600999431685,
+  "segments": [
+    {
+      "from": 0.0,
+      "end": 5.36,
+      "text": " Nếu thấy video hữu íc, hãy đăng kỳ kênh và bắt chuông để đón xem những nội dụng tiếp theo."
+    },
+    {
+      "from": 6.2,
+      "end": 10.200000000000001,
+      "text": " Bạn muốn xem lại khoảng chi nào trong tháng này, hãy để lại bình luận nét."
+    }
+  ],
+  "scope": "Local recognition only, not manual listening or pronunciation approval."
+}

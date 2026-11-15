@@ -1,0 +1,24 @@
+{
+  "id": "di-sieu-thi-vietnam-motion-r06",
+  "direction": "long",
+  "title": "Vì sao mua một món lại mang về cả giỏ?",
+  "structure": [
+    "hook",
+    "disclaimer",
+    "content",
+    "cta"
+  ],
+  "voice": {
+    "name": "Nhật Phong",
+    "voice_id": "6adFm46eyy74snVn6YrT",
+    "model_id": "eleven_v3",
+    "language_code": "vi",
+    "speed": 1.0,
+    "stability": 0.5,
+    "similarity_boost": 0.8
+  },
+  "durationPolicy": "Natural exact take plus at least one second tail; never truncate the final sentence or stretch voice.",
+  "userAcceptance": "pending",
+  "manifestSHA256": "91d78714a97a04c443743b14b592abe9edf07c88cb7319e0cd6e80f2d29f4840",
+  "guidanceSHA256": null
+}

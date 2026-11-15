@@ -1,0 +1,147 @@
+{
+  "movingMediaSeconds": 87.76666666666667,
+  "clips": 10,
+  "intervals": {
+    "sources/videos/clip-busy-cafe.mp4": [
+      [
+        0,
+        95,
+        "h01"
+      ],
+      [
+        100,
+        180,
+        "e01"
+      ]
+    ],
+    "sources/videos/clip-espresso-extract.mp4": [
+      [
+        450,
+        545,
+        "h01"
+      ],
+      [
+        100,
+        208,
+        "v05"
+      ],
+      [
+        213,
+        324,
+        "m05"
+      ],
+      [
+        330,
+        439,
+        "a05"
+      ]
+    ],
+    "sources/videos/clip-espresso-flow.mp4": [
+      [
+        0,
+        264,
+        "h03"
+      ],
+      [
+        269,
+        381,
+        "m05"
+      ],
+      [
+        386,
+        509,
+        "a08"
+      ]
+    ],
+    "sources/videos/clip-phone-payment.mp4": [
+      [
+        0,
+        114,
+        "u01"
+      ]
+    ],
+    "sources/videos/clip-espresso-grinder.mp4": [
+      [
+        0,
+        90,
+        "u02"
+      ]
+    ],
+    "sources/videos/clip-pour-milk.mp4": [
+      [
+        0,
+        91,
+        "u02"
+      ],
+      [
+        96,
+        201,
+        "u07"
+      ]
+    ],
+    "sources/videos/clip-steam-milk.mp4": [
+      [
+        0,
+        93,
+        "u06"
+      ],
+      [
+        98,
+        206,
+        "v05"
+      ]
+    ],
+    "sources/videos/clip-cafe-tables.mp4": [
+      [
+        0,
+        104,
+        "u09"
+      ],
+      [
+        109,
+        205,
+        "v01"
+      ]
+    ],
+    "sources/videos/clip-close-shift.mp4": [
+      [
+        0,
+        100,
+        "b08"
+      ],
+      [
+        106,
+        204,
+        "a01"
+      ],
+      [
+        210,
+        322,
+        "e05"
+      ]
+    ],
+    "sources/videos/clip-serve-coffee.mp4": [
+      [
+        0,
+        100,
+        "v03"
+      ],
+      [
+        105,
+        208,
+        "p06"
+      ],
+      [
+        214,
+        328,
+        "a03"
+      ],
+      [
+        333,
+        441,
+        "e03"
+      ]
+    ]
+  },
+  "scope": "Playback bounds and non-overlapping trims only, not semantic/aesthetic approval."
+}

@@ -1,0 +1,1031 @@
+{
+  "schema": "economy-proof-temporal-review/1",
+  "reviewedOn": "2026-11-14",
+  "reviewer": "Codex story_photos",
+  "method": "Decoded every frame of encoded AV proof intervals; visually opened frame-contact sequences at 3fps including final frame and separate enlarged cast crops at cue+0,+7,+16,+24frames.",
+  "reviewType": "sampled visual temporal inspection",
+  "continuousAVPlayback": false,
+  "audioListened": false,
+  "userApproval": "pending",
+  "scopeLimit": "A full decode and chronological samples are not continuous watching/listening, do not establish sub-frame smoothness, and do not constitute user aesthetic approval. Audio was present in proof containers but not listened to during this review.",
+  "latestUserDirection": "Content-first storytelling; character may remain still and only turn gently with dialogue. Prior obligatory character-action/fast-motion rules are superseded for this new trial.",
+  "r02": [
+    {
+      "id": "e01",
+      "sourceFile": "r02/proof/e01-av.mp4",
+      "sourceSHA256": "e7b5e56d16ce8e0c87374be916dd0793cc4afd68269398b3023caf834c4f4942",
+      "fps": 30.0,
+      "decodedFrames": 332,
+      "seconds": 11.066666666666666,
+      "narration": "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu?",
+      "turnCues": [
+        0,
+        88,
+        201,
+        281
+      ],
+      "sampleEveryFrames": 10,
+      "sampleFPS": 3,
+      "samples": [
+        {
+          "frame": 0,
+          "seconds": 0.0,
+          "file": "review/r02-proof-temporal/e01/frame-0000.jpg"
+        },
+        {
+          "frame": 10,
+          "seconds": 0.3333333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0010.jpg"
+        },
+        {
+          "frame": 20,
+          "seconds": 0.6666666666666666,
+          "file": "review/r02-proof-temporal/e01/frame-0020.jpg"
+        },
+        {
+          "frame": 30,
+          "seconds": 1.0,
+          "file": "review/r02-proof-temporal/e01/frame-0030.jpg"
+        },
+        {
+          "frame": 40,
+          "seconds": 1.3333333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0040.jpg"
+        },
+        {
+          "frame": 50,
+          "seconds": 1.6666666666666667,
+          "file": "review/r02-proof-temporal/e01/frame-0050.jpg"
+        },
+        {
+          "frame": 60,
+          "seconds": 2.0,
+          "file": "review/r02-proof-temporal/e01/frame-0060.jpg"
+        },
+        {
+          "frame": 70,
+          "seconds": 2.3333333333333335,
+          "file": "review/r02-proof-temporal/e01/frame-0070.jpg"
+        },
+        {
+          "frame": 80,
+          "seconds": 2.6666666666666665,
+          "file": "review/r02-proof-temporal/e01/frame-0080.jpg"
+        },
+        {
+          "frame": 90,
+          "seconds": 3.0,
+          "file": "review/r02-proof-temporal/e01/frame-0090.jpg"
+        },
+        {
+          "frame": 100,
+          "seconds": 3.3333333333333335,
+          "file": "review/r02-proof-temporal/e01/frame-0100.jpg"
+        },
+        {
+          "frame": 110,
+          "seconds": 3.6666666666666665,
+          "file": "review/r02-proof-temporal/e01/frame-0110.jpg"
+        },
+        {
+          "frame": 120,
+          "seconds": 4.0,
+          "file": "review/r02-proof-temporal/e01/frame-0120.jpg"
+        },
+        {
+          "frame": 130,
+          "seconds": 4.333333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0130.jpg"
+        },
+        {
+          "frame": 140,
+          "seconds": 4.666666666666667,
+          "file": "review/r02-proof-temporal/e01/frame-0140.jpg"
+        },
+        {
+          "frame": 150,
+          "seconds": 5.0,
+          "file": "review/r02-proof-temporal/e01/frame-0150.jpg"
+        },
+        {
+          "frame": 160,
+          "seconds": 5.333333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0160.jpg"
+        },
+        {
+          "frame": 170,
+          "seconds": 5.666666666666667,
+          "file": "review/r02-proof-temporal/e01/frame-0170.jpg"
+        },
+        {
+          "frame": 180,
+          "seconds": 6.0,
+          "file": "review/r02-proof-temporal/e01/frame-0180.jpg"
+        },
+        {
+          "frame": 190,
+          "seconds": 6.333333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0190.jpg"
+        },
+        {
+          "frame": 200,
+          "seconds": 6.666666666666667,
+          "file": "review/r02-proof-temporal/e01/frame-0200.jpg"
+        },
+        {
+          "frame": 210,
+          "seconds": 7.0,
+          "file": "review/r02-proof-temporal/e01/frame-0210.jpg"
+        },
+        {
+          "frame": 220,
+          "seconds": 7.333333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0220.jpg"
+        },
+        {
+          "frame": 230,
+          "seconds": 7.666666666666667,
+          "file": "review/r02-proof-temporal/e01/frame-0230.jpg"
+        },
+        {
+          "frame": 240,
+          "seconds": 8.0,
+          "file": "review/r02-proof-temporal/e01/frame-0240.jpg"
+        },
+        {
+          "frame": 250,
+          "seconds": 8.333333333333334,
+          "file": "review/r02-proof-temporal/e01/frame-0250.jpg"
+        },
+        {
+          "frame": 260,
+          "seconds": 8.666666666666666,
+          "file": "review/r02-proof-temporal/e01/frame-0260.jpg"
+        },
+        {
+          "frame": 270,
+          "seconds": 9.0,
+          "file": "review/r02-proof-temporal/e01/frame-0270.jpg"
+        },
+        {
+          "frame": 280,
+          "seconds": 9.333333333333334,
+          "file": "review/r02-proof-temporal/e01/frame-0280.jpg"
+        },
+        {
+          "frame": 290,
+          "seconds": 9.666666666666666,
+          "file": "review/r02-proof-temporal/e01/frame-0290.jpg"
+        },
+        {
+          "frame": 300,
+          "seconds": 10.0,
+          "file": "review/r02-proof-temporal/e01/frame-0300.jpg"
+        },
+        {
+          "frame": 310,
+          "seconds": 10.333333333333334,
+          "file": "review/r02-proof-temporal/e01/frame-0310.jpg"
+        },
+        {
+          "frame": 320,
+          "seconds": 10.666666666666666,
+          "file": "review/r02-proof-temporal/e01/frame-0320.jpg"
+        },
+        {
+          "frame": 330,
+          "seconds": 11.0,
+          "file": "review/r02-proof-temporal/e01/frame-0330.jpg"
+        },
+        {
+          "frame": 331,
+          "seconds": 11.033333333333333,
+          "file": "review/r02-proof-temporal/e01/frame-0331.jpg"
+        }
+      ],
+      "sheets": [
+        {
+          "file": "review/r02-proof-temporal/e01-sequence-01.jpg",
+          "sha256": "cf4b7129e6799eb5bd581ba28311d9134c7ac22b55c3b1c792d01988ff096a42"
+        },
+        {
+          "file": "review/r02-proof-temporal/e01-sequence-02.jpg",
+          "sha256": "ecd9df0f47e0aa635a906758328be5b5bcb1bc9e08a3e1b73ee3c3a1d1d7b848"
+        }
+      ],
+      "castCueCrops": {
+        "file": "review/r02-proof-temporal/e01-cast-cue-crops.jpg",
+        "sha256": "0c54e98e282913e48dc6c99cf78d7fe18f1a062c28af20beb9e34cc3ba73686a",
+        "frames": [
+          0,
+          7,
+          16,
+          24,
+          88,
+          95,
+          104,
+          112,
+          201,
+          208,
+          217,
+          225,
+          281,
+          288,
+          297,
+          305
+        ],
+        "roi": [
+          1550,
+          450,
+          1900,
+          1000
+        ]
+      },
+      "observations": {
+        "temporalSequence": "Starts immediately with sharp filled bánh mì photograph, two-line white headline and small cast at lower right. Same photo and headline persist through 11.03s sampled last frame; captions replace each spoken phrase. No sampled blank interior frame or premature exit.",
+        "imageCrop": "Filled bread cross-section, vegetables and meat remain clearly recognizable; sharp foreground retained across samples.",
+        "text": "Headline and lower captions remain inside frame with no overlap with cast in opened samples. Some very short caption tails such as “hai nghìn.” occur; readable but phrase grouping can be refined in a future caption-only revision.",
+        "character": "At clause cues 0/88/201/281, close-up crop sequence shows slight whole-character angle changes. Feet, arms and closed smiling mouth keep the same pose; no walking, gesturing or lip animation seen.",
+        "blockingIssues": []
+      }
+    },
+    {
+      "id": "e30",
+      "sourceFile": "r02/proof/e30-av.mp4",
+      "sourceSHA256": "01950cae400084f713e63a5af8711675ca60ca212e73705923366c766d6de659",
+      "fps": 30.0,
+      "decodedFrames": 358,
+      "seconds": 11.933333333333334,
+      "narration": "Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá.",
+      "turnCues": [
+        0,
+        161,
+        234
+      ],
+      "sampleEveryFrames": 10,
+      "sampleFPS": 3,
+      "samples": [
+        {
+          "frame": 0,
+          "seconds": 0.0,
+          "file": "review/r02-proof-temporal/e30/frame-0000.jpg"
+        },
+        {
+          "frame": 10,
+          "seconds": 0.3333333333333333,
+          "file": "review/r02-proof-temporal/e30/frame-0010.jpg"
+        },
+        {
+          "frame": 20,
+          "seconds": 0.6666666666666666,
+          "file": "review/r02-proof-temporal/e30/frame-0020.jpg"
+        },
+        {
+          "frame": 30,
+          "seconds": 1.0,
+          "file": "review/r02-proof-temporal/e30/frame-0030.jpg"
+        },
+        {
+          "frame": 40,
+          "seconds": 1.3333333333333333,
+          "file": "review/r02-proof-temporal/e30/frame-0040.jpg"
+        },
+        {
+          "frame": 50,
+          "seconds": 1.6666666666666667,
+          "file": "review/r02-proof-temporal/e30/frame-0050.jpg"
+        },
+        {
+          "frame": 60,
+          "seconds": 2.0,
+          "file": "review/r02-proof-temporal/e30/frame-0060.jpg"
+        },
+        {
+          "frame": 70,
+          "seconds": 2.3333333333333335,
+          "file": "review/r02-proof-temporal/e30/frame-0070.jpg"
+        },
+        {
+          "frame": 80,
+          "seconds": 2.6666666666666665,
+          "file": "review/r02-proof-temporal/e30/frame-0080.jpg"
+        },
+        {
+          "frame": 90,
+          "seconds": 3.0,
+          "file": "review/r02-proof-temporal/e30/frame-0090.jpg"
+        },
+        {
+          "frame": 100,
+          "seconds": 3.3333333333333335,
+          "file": "review/r02-proof-temporal/e30/frame-0100.jpg"
+        },
+        {
+          "frame": 110,
+          "seconds": 3.6666666666666665,
+          "file": "review/r02-proof-temporal/e30/frame-0110.jpg"
+        },
+        {
+          "frame": 120,
+          "seconds": 4.0,
+          "file": "review/r02-proof-temporal/e30/frame-0120.jpg"
+        },
+        {
+          "frame": 130,
+          "seconds": 4.333333333333333,
+          "file": "review/r02-proof-temporal/e30/frame-0130.jpg"
+        },
+        {
+          "frame": 140,
+          "seconds": 4.666666666666667,
+          "file": "review/r02-proof-temporal/e30/frame-0140.jpg"
+        },
+        {
+          "frame": 150,
+          "seconds": 5.0,
+          "file": "review/r02-proof-temporal/e30/frame-0150.jpg"
+        },
+        {
+          "frame": 160,
+          "seconds": 5.333333333333333,
+          "file": "review/r02-proof-temporal/e30/frame-0160.jpg"
+        },
+        {
+          "frame": 170,
+          "seconds": 5.666666666666667,
+          "file": "review/r02-proof-temporal/e30/frame-0170.jpg"
+        },
+        {
+          "frame": 180,
+          "seconds": 6.0,
+          "file": "review/r02-proof-temporal/e30/frame-0180.jpg"
+        },
+        {
+          "frame": 190,
+          "seconds": 6.333333333333333,
+          "file": "review/r02-proof-temporal/e30/frame-0190.jpg"
+        },
+        {
+          "frame": 200,
+          "seconds": 6.666666666666667,
+          "file": "review/r02-proof-temporal/e30/frame-0200.jpg"
+        },
+        {
+          "frame": 210,
+          "seconds": 7.0,
+          "file": "review/r02-proof-temporal/e30/frame-0210.jpg"
+        },
+        {
+          "frame": 220,
+          "seconds": 7.333333333333333,
+          "file": "review/r02-proof-temporal/e30/frame-0220.jpg"
+        },
+        {
+          "frame": 230,
+          "seconds": 7.666666666666667,
+          "file": "review/r02-proof-temporal/e30/frame-0230.jpg"
+        },
+        {
+          "frame": 240,
+          "seconds": 8.0,
+          "file": "review/r02-proof-temporal/e30/frame-0240.jpg"
+        },
+        {
+          "frame": 250,
+          "seconds": 8.333333333333334,
+          "file": "review/r02-proof-temporal/e30/frame-0250.jpg"
+        },
+        {
+          "frame": 260,
+          "seconds": 8.666666666666666,
+          "file": "review/r02-proof-temporal/e30/frame-0260.jpg"
+        },
+        {
+          "frame": 270,
+          "seconds": 9.0,
+          "file": "review/r02-proof-temporal/e30/frame-0270.jpg"
+        },
+        {
+          "frame": 280,
+          "seconds": 9.333333333333334,
+          "file": "review/r02-proof-temporal/e30/frame-0280.jpg"
+        },
+        {
+          "frame": 290,
+          "seconds": 9.666666666666666,
+          "file": "review/r02-proof-temporal/e30/frame-0290.jpg"
+        },
+        {
+          "frame": 300,
+          "seconds": 10.0,
+          "file": "review/r02-proof-temporal/e30/frame-0300.jpg"
+        },
+        {
+          "frame": 310,
+          "seconds": 10.333333333333334,
+          "file": "review/r02-proof-temporal/e30/frame-0310.jpg"
+        },
+        {
+          "frame": 320,
+          "seconds": 10.666666666666666,
+          "file": "review/r02-proof-temporal/e30/frame-0320.jpg"
+        },
+        {
+          "frame": 330,
+          "seconds": 11.0,
+          "file": "review/r02-proof-temporal/e30/frame-0330.jpg"
+        },
+        {
+          "frame": 340,
+          "seconds": 11.333333333333334,
+          "file": "review/r02-proof-temporal/e30/frame-0340.jpg"
+        },
+        {
+          "frame": 350,
+          "seconds": 11.666666666666666,
+          "file": "review/r02-proof-temporal/e30/frame-0350.jpg"
+        },
+        {
+          "frame": 357,
+          "seconds": 11.9,
+          "file": "review/r02-proof-temporal/e30/frame-0357.jpg"
+        }
+      ],
+      "sheets": [
+        {
+          "file": "review/r02-proof-temporal/e30-sequence-01.jpg",
+          "sha256": "38aed9eb299079a6c7bda3f0bf1b5687e0eea061c20109c794ec1314732dde1a"
+        },
+        {
+          "file": "review/r02-proof-temporal/e30-sequence-02.jpg",
+          "sha256": "ae943be109bd544797c290f7e40aa8beb251267492ab7d2486d036a9a79b8517"
+        }
+      ],
+      "castCueCrops": {
+        "file": "review/r02-proof-temporal/e30-cast-cue-crops.jpg",
+        "sha256": "fea357adee555a72b7e58ea465c8f2f0ec50dda404893aabea5147db457791fe",
+        "frames": [
+          0,
+          7,
+          16,
+          24,
+          161,
+          168,
+          177,
+          185,
+          234,
+          241,
+          250,
+          258
+        ],
+        "roi": [
+          65,
+          450,
+          415,
+          1000
+        ]
+      },
+      "observations": {
+        "temporalSequence": "Local first frame is cream with caption, scene appears by sampled frame10 (0.33s). Split stays: cream left with headline/cast, flour+butter photo right. Holds through frame357 (11.90s); no unexpected exit.",
+        "imageCrop": "Flour mound and yellow butter cubes clear and uncut. This photograph is context for input inventory; it does not show a contract or prove the narrated reason any real shop holds prices.",
+        "text": "Two-line headline “Hợp đồng và tồn kho có độ trễ” and changing captions remain readable with safe spacing.",
+        "character": "Cue-centered enlarged crops show fixed pose and modest change of whole-character angle only; no observed bobbing, blinking, mouth or gesture action.",
+        "blockingIssues": []
+      }
+    },
+    {
+      "id": "e56",
+      "sourceFile": "r02/proof/e56-av.mp4",
+      "sourceSHA256": "ca5210bfc734fd2bd3d18603ca366f11ff9500ad281661dbd52b390c7e9a0771",
+      "fps": 30.0,
+      "decodedFrames": 410,
+      "seconds": 13.666666666666666,
+      "narration": "Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+      "turnCues": [
+        0,
+        119,
+        185
+      ],
+      "sampleEveryFrames": 10,
+      "sampleFPS": 3,
+      "samples": [
+        {
+          "frame": 0,
+          "seconds": 0.0,
+          "file": "review/r02-proof-temporal/e56/frame-0000.jpg"
+        },
+        {
+          "frame": 10,
+          "seconds": 0.3333333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0010.jpg"
+        },
+        {
+          "frame": 20,
+          "seconds": 0.6666666666666666,
+          "file": "review/r02-proof-temporal/e56/frame-0020.jpg"
+        },
+        {
+          "frame": 30,
+          "seconds": 1.0,
+          "file": "review/r02-proof-temporal/e56/frame-0030.jpg"
+        },
+        {
+          "frame": 40,
+          "seconds": 1.3333333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0040.jpg"
+        },
+        {
+          "frame": 50,
+          "seconds": 1.6666666666666667,
+          "file": "review/r02-proof-temporal/e56/frame-0050.jpg"
+        },
+        {
+          "frame": 60,
+          "seconds": 2.0,
+          "file": "review/r02-proof-temporal/e56/frame-0060.jpg"
+        },
+        {
+          "frame": 70,
+          "seconds": 2.3333333333333335,
+          "file": "review/r02-proof-temporal/e56/frame-0070.jpg"
+        },
+        {
+          "frame": 80,
+          "seconds": 2.6666666666666665,
+          "file": "review/r02-proof-temporal/e56/frame-0080.jpg"
+        },
+        {
+          "frame": 90,
+          "seconds": 3.0,
+          "file": "review/r02-proof-temporal/e56/frame-0090.jpg"
+        },
+        {
+          "frame": 100,
+          "seconds": 3.3333333333333335,
+          "file": "review/r02-proof-temporal/e56/frame-0100.jpg"
+        },
+        {
+          "frame": 110,
+          "seconds": 3.6666666666666665,
+          "file": "review/r02-proof-temporal/e56/frame-0110.jpg"
+        },
+        {
+          "frame": 120,
+          "seconds": 4.0,
+          "file": "review/r02-proof-temporal/e56/frame-0120.jpg"
+        },
+        {
+          "frame": 130,
+          "seconds": 4.333333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0130.jpg"
+        },
+        {
+          "frame": 140,
+          "seconds": 4.666666666666667,
+          "file": "review/r02-proof-temporal/e56/frame-0140.jpg"
+        },
+        {
+          "frame": 150,
+          "seconds": 5.0,
+          "file": "review/r02-proof-temporal/e56/frame-0150.jpg"
+        },
+        {
+          "frame": 160,
+          "seconds": 5.333333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0160.jpg"
+        },
+        {
+          "frame": 170,
+          "seconds": 5.666666666666667,
+          "file": "review/r02-proof-temporal/e56/frame-0170.jpg"
+        },
+        {
+          "frame": 180,
+          "seconds": 6.0,
+          "file": "review/r02-proof-temporal/e56/frame-0180.jpg"
+        },
+        {
+          "frame": 190,
+          "seconds": 6.333333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0190.jpg"
+        },
+        {
+          "frame": 200,
+          "seconds": 6.666666666666667,
+          "file": "review/r02-proof-temporal/e56/frame-0200.jpg"
+        },
+        {
+          "frame": 210,
+          "seconds": 7.0,
+          "file": "review/r02-proof-temporal/e56/frame-0210.jpg"
+        },
+        {
+          "frame": 220,
+          "seconds": 7.333333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0220.jpg"
+        },
+        {
+          "frame": 230,
+          "seconds": 7.666666666666667,
+          "file": "review/r02-proof-temporal/e56/frame-0230.jpg"
+        },
+        {
+          "frame": 240,
+          "seconds": 8.0,
+          "file": "review/r02-proof-temporal/e56/frame-0240.jpg"
+        },
+        {
+          "frame": 250,
+          "seconds": 8.333333333333334,
+          "file": "review/r02-proof-temporal/e56/frame-0250.jpg"
+        },
+        {
+          "frame": 260,
+          "seconds": 8.666666666666666,
+          "file": "review/r02-proof-temporal/e56/frame-0260.jpg"
+        },
+        {
+          "frame": 270,
+          "seconds": 9.0,
+          "file": "review/r02-proof-temporal/e56/frame-0270.jpg"
+        },
+        {
+          "frame": 280,
+          "seconds": 9.333333333333334,
+          "file": "review/r02-proof-temporal/e56/frame-0280.jpg"
+        },
+        {
+          "frame": 290,
+          "seconds": 9.666666666666666,
+          "file": "review/r02-proof-temporal/e56/frame-0290.jpg"
+        },
+        {
+          "frame": 300,
+          "seconds": 10.0,
+          "file": "review/r02-proof-temporal/e56/frame-0300.jpg"
+        },
+        {
+          "frame": 310,
+          "seconds": 10.333333333333334,
+          "file": "review/r02-proof-temporal/e56/frame-0310.jpg"
+        },
+        {
+          "frame": 320,
+          "seconds": 10.666666666666666,
+          "file": "review/r02-proof-temporal/e56/frame-0320.jpg"
+        },
+        {
+          "frame": 330,
+          "seconds": 11.0,
+          "file": "review/r02-proof-temporal/e56/frame-0330.jpg"
+        },
+        {
+          "frame": 340,
+          "seconds": 11.333333333333334,
+          "file": "review/r02-proof-temporal/e56/frame-0340.jpg"
+        },
+        {
+          "frame": 350,
+          "seconds": 11.666666666666666,
+          "file": "review/r02-proof-temporal/e56/frame-0350.jpg"
+        },
+        {
+          "frame": 360,
+          "seconds": 12.0,
+          "file": "review/r02-proof-temporal/e56/frame-0360.jpg"
+        },
+        {
+          "frame": 370,
+          "seconds": 12.333333333333334,
+          "file": "review/r02-proof-temporal/e56/frame-0370.jpg"
+        },
+        {
+          "frame": 380,
+          "seconds": 12.666666666666666,
+          "file": "review/r02-proof-temporal/e56/frame-0380.jpg"
+        },
+        {
+          "frame": 390,
+          "seconds": 13.0,
+          "file": "review/r02-proof-temporal/e56/frame-0390.jpg"
+        },
+        {
+          "frame": 400,
+          "seconds": 13.333333333333334,
+          "file": "review/r02-proof-temporal/e56/frame-0400.jpg"
+        },
+        {
+          "frame": 409,
+          "seconds": 13.633333333333333,
+          "file": "review/r02-proof-temporal/e56/frame-0409.jpg"
+        }
+      ],
+      "sheets": [
+        {
+          "file": "review/r02-proof-temporal/e56-sequence-01.jpg",
+          "sha256": "eb235e7a8a15604233040c7af2b6400b419d4d27febe44119bee2813f7e084bb"
+        },
+        {
+          "file": "review/r02-proof-temporal/e56-sequence-02.jpg",
+          "sha256": "f11e4ca111295a0473af4090434e8fa607096e11d007fa732f3d4142145b472b"
+        },
+        {
+          "file": "review/r02-proof-temporal/e56-sequence-03.jpg",
+          "sha256": "b3d137bf0984f33aba6fd238f1b72dfff90112c381a4da7525ce95097664c2e7"
+        }
+      ],
+      "castCueCrops": {
+        "file": "review/r02-proof-temporal/e56-cast-cue-crops.jpg",
+        "sha256": "46fe2d08989a5b68cc1685be28b3b9bbd8f844b5c7f46ab60ffc6ae816f46938",
+        "frames": [
+          0,
+          7,
+          16,
+          24,
+          119,
+          126,
+          135,
+          143,
+          185,
+          192,
+          201,
+          209
+        ],
+        "roi": [
+          65,
+          450,
+          415,
+          1000
+        ]
+      },
+      "observations": {
+        "temporalSequence": "Local first frame cream with caption; by frame10 the closing split appears. Filled sandwich portrait remains contained within right panel over blurred margins. Captions progress from comparison question to comment and subscribe/bell CTA, clear near 12.67s, then photo+headline+cast hold through last frame409 (13.63s).",
+        "imageCrop": "Sandwich filling and brown wrapper remain fully visible; no cover-crop loss of primary object.",
+        "text": "Question headline fits two lines and does not cover cast or sandwich; CTA captions stay in bottom band.",
+        "character": "Fixed left-side pose. Cue-centered enlarged crops show only slight whole-character yaw changes with identical mouth, hands and feet.",
+        "blockingIssues": []
+      }
+    }
+  ],
+  "r03ReuseEvidence": [
+    {
+      "id": "e01",
+      "r02MutedSHA256": "2a9e8db24d2946392de5055cac5ade2c57d9eaf29cc2030c85f1ad093d47905a",
+      "r03MutedSHA256": "2a9e8db24d2946392de5055cac5ade2c57d9eaf29cc2030c85f1ad093d47905a",
+      "identicalBytes": true
+    },
+    {
+      "id": "e30",
+      "r02MutedSHA256": "efb583c5507fa22b5475a5e6901da7f22141da42584832f9a820597881e7808c",
+      "r03MutedSHA256": "efb583c5507fa22b5475a5e6901da7f22141da42584832f9a820597881e7808c",
+      "identicalBytes": true
+    }
+  ],
+  "r03ChangedProof": {
+    "id": "e56",
+    "sourceFile": "r03/proof/e56-av.mp4",
+    "sourceSHA256": "3b7bc08f02b9b71303fb810bec0e9e14232d7c68014be85f95cd608b06c062af",
+    "decodedFrames": 410,
+    "fps": 30.0,
+    "seconds": 13.666666666666666,
+    "sampleFPS": 3,
+    "samples": [
+      {
+        "frame": 0,
+        "seconds": 0.0,
+        "file": "review/r03-proof-temporal/e56/frame-0000.jpg"
+      },
+      {
+        "frame": 10,
+        "seconds": 0.3333333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0010.jpg"
+      },
+      {
+        "frame": 20,
+        "seconds": 0.6666666666666666,
+        "file": "review/r03-proof-temporal/e56/frame-0020.jpg"
+      },
+      {
+        "frame": 30,
+        "seconds": 1.0,
+        "file": "review/r03-proof-temporal/e56/frame-0030.jpg"
+      },
+      {
+        "frame": 40,
+        "seconds": 1.3333333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0040.jpg"
+      },
+      {
+        "frame": 50,
+        "seconds": 1.6666666666666667,
+        "file": "review/r03-proof-temporal/e56/frame-0050.jpg"
+      },
+      {
+        "frame": 60,
+        "seconds": 2.0,
+        "file": "review/r03-proof-temporal/e56/frame-0060.jpg"
+      },
+      {
+        "frame": 70,
+        "seconds": 2.3333333333333335,
+        "file": "review/r03-proof-temporal/e56/frame-0070.jpg"
+      },
+      {
+        "frame": 80,
+        "seconds": 2.6666666666666665,
+        "file": "review/r03-proof-temporal/e56/frame-0080.jpg"
+      },
+      {
+        "frame": 90,
+        "seconds": 3.0,
+        "file": "review/r03-proof-temporal/e56/frame-0090.jpg"
+      },
+      {
+        "frame": 100,
+        "seconds": 3.3333333333333335,
+        "file": "review/r03-proof-temporal/e56/frame-0100.jpg"
+      },
+      {
+        "frame": 110,
+        "seconds": 3.6666666666666665,
+        "file": "review/r03-proof-temporal/e56/frame-0110.jpg"
+      },
+      {
+        "frame": 120,
+        "seconds": 4.0,
+        "file": "review/r03-proof-temporal/e56/frame-0120.jpg"
+      },
+      {
+        "frame": 130,
+        "seconds": 4.333333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0130.jpg"
+      },
+      {
+        "frame": 140,
+        "seconds": 4.666666666666667,
+        "file": "review/r03-proof-temporal/e56/frame-0140.jpg"
+      },
+      {
+        "frame": 150,
+        "seconds": 5.0,
+        "file": "review/r03-proof-temporal/e56/frame-0150.jpg"
+      },
+      {
+        "frame": 160,
+        "seconds": 5.333333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0160.jpg"
+      },
+      {
+        "frame": 170,
+        "seconds": 5.666666666666667,
+        "file": "review/r03-proof-temporal/e56/frame-0170.jpg"
+      },
+      {
+        "frame": 180,
+        "seconds": 6.0,
+        "file": "review/r03-proof-temporal/e56/frame-0180.jpg"
+      },
+      {
+        "frame": 190,
+        "seconds": 6.333333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0190.jpg"
+      },
+      {
+        "frame": 200,
+        "seconds": 6.666666666666667,
+        "file": "review/r03-proof-temporal/e56/frame-0200.jpg"
+      },
+      {
+        "frame": 210,
+        "seconds": 7.0,
+        "file": "review/r03-proof-temporal/e56/frame-0210.jpg"
+      },
+      {
+        "frame": 220,
+        "seconds": 7.333333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0220.jpg"
+      },
+      {
+        "frame": 230,
+        "seconds": 7.666666666666667,
+        "file": "review/r03-proof-temporal/e56/frame-0230.jpg"
+      },
+      {
+        "frame": 240,
+        "seconds": 8.0,
+        "file": "review/r03-proof-temporal/e56/frame-0240.jpg"
+      },
+      {
+        "frame": 250,
+        "seconds": 8.333333333333334,
+        "file": "review/r03-proof-temporal/e56/frame-0250.jpg"
+      },
+      {
+        "frame": 260,
+        "seconds": 8.666666666666666,
+        "file": "review/r03-proof-temporal/e56/frame-0260.jpg"
+      },
+      {
+        "frame": 270,
+        "seconds": 9.0,
+        "file": "review/r03-proof-temporal/e56/frame-0270.jpg"
+      },
+      {
+        "frame": 280,
+        "seconds": 9.333333333333334,
+        "file": "review/r03-proof-temporal/e56/frame-0280.jpg"
+      },
+      {
+        "frame": 290,
+        "seconds": 9.666666666666666,
+        "file": "review/r03-proof-temporal/e56/frame-0290.jpg"
+      },
+      {
+        "frame": 300,
+        "seconds": 10.0,
+        "file": "review/r03-proof-temporal/e56/frame-0300.jpg"
+      },
+      {
+        "frame": 310,
+        "seconds": 10.333333333333334,
+        "file": "review/r03-proof-temporal/e56/frame-0310.jpg"
+      },
+      {
+        "frame": 320,
+        "seconds": 10.666666666666666,
+        "file": "review/r03-proof-temporal/e56/frame-0320.jpg"
+      },
+      {
+        "frame": 330,
+        "seconds": 11.0,
+        "file": "review/r03-proof-temporal/e56/frame-0330.jpg"
+      },
+      {
+        "frame": 340,
+        "seconds": 11.333333333333334,
+        "file": "review/r03-proof-temporal/e56/frame-0340.jpg"
+      },
+      {
+        "frame": 350,
+        "seconds": 11.666666666666666,
+        "file": "review/r03-proof-temporal/e56/frame-0350.jpg"
+      },
+      {
+        "frame": 360,
+        "seconds": 12.0,
+        "file": "review/r03-proof-temporal/e56/frame-0360.jpg"
+      },
+      {
+        "frame": 370,
+        "seconds": 12.333333333333334,
+        "file": "review/r03-proof-temporal/e56/frame-0370.jpg"
+      },
+      {
+        "frame": 380,
+        "seconds": 12.666666666666666,
+        "file": "review/r03-proof-temporal/e56/frame-0380.jpg"
+      },
+      {
+        "frame": 390,
+        "seconds": 13.0,
+        "file": "review/r03-proof-temporal/e56/frame-0390.jpg"
+      },
+      {
+        "frame": 400,
+        "seconds": 13.333333333333334,
+        "file": "review/r03-proof-temporal/e56/frame-0400.jpg"
+      },
+      {
+        "frame": 409,
+        "seconds": 13.633333333333333,
+        "file": "review/r03-proof-temporal/e56/frame-0409.jpg"
+      }
+    ],
+    "sheets": [
+      {
+        "file": "review/r03-proof-temporal/e56-sequence-01.jpg",
+        "sha256": "86068e1e8606edb744308c7d3876d66b43c74091c974d0fb065843e5ed70839a"
+      },
+      {
+        "file": "review/r03-proof-temporal/e56-sequence-02.jpg",
+        "sha256": "53a887ea79287d92d0c17f356bea62ab77d6c292fc89eefc91c15def7bb05021"
+      },
+      {
+        "file": "review/r03-proof-temporal/e56-sequence-03.jpg",
+        "sha256": "d9360ba2ef72107ec3cae7c11a2ee15fb85f1a1d0e1186b0c10afecd53ae079a"
+      }
+    ],
+    "observations": {
+      "temporalSequence": "Full interval decoded and all three 3fps contact sheets opened. Same entry/hold/caption/ending sequence as r02; no new clipping, early exit or sharp-subject loss seen.",
+      "imageCrop": "Primary portrait foreground remains sharp and complete. Decorative blurred margins differ in hue/texture due to baked backing; this does not obscure filling or wrapper.",
+      "character": "Fixed-pose small character; same slight cue-turn appearance as r02 in sampled frames.",
+      "blockingIssues": []
+    }
+  },
+  "overallObservation": "No blocking visual defect in inspected samples. Sharp illustrative photos, readable typography and restrained static-pose character behavior are visible. The new request permits this held composition.",
+  "editorialLimits": [
+    "e30 flour/butter stock provides input context, not evidence of an actual shop’s contracts or inventory prices.",
+    "Very short caption tails occur; no sampled clipping, but grouping polish may help future revisions.",
+    "Scene entry on non-hook proof starts with a very brief cream frame before fade-in; visible by 0.33s."
+  ]
+}

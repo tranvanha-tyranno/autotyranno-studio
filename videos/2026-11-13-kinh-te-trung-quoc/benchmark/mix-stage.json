@@ -1,0 +1,10 @@
+{
+  "schema": "audio-local-mix-benchmark/1",
+  "startedUTC": "2026-11-13T05:16:40.143365+00:00",
+  "finishedUTC": "2026-11-13T05:18:16.824005+00:00",
+  "elapsedSeconds": 96.672,
+  "cache_hit": false,
+  "outputSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+  "seconds": 597.1,
+  "scope": "Measured local audio mixing/checking; no provider request or cash/CPU-power estimate."
+}

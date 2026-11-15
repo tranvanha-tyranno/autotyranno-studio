@@ -1,0 +1,421 @@
+{
+  "schema": "economy-final-visual-review/1",
+  "revision": "r03",
+  "reviewedOn": "2026-11-14",
+  "reviewer": "Codex story_photos",
+  "sourceFile": "r03/final.mp4",
+  "sourceSHA256": "05c2b38c75c3088b1860d8b3d8ccdf0ba83feefd2790e1a20e538cf5c3a33f3e",
+  "scope": {
+    "type": "sampled encoded-frame visual review",
+    "contactSheetsOpened": [
+      {
+        "file": "r03/qa/contact-06.jpg",
+        "sha256": "d8349e0d6c856ad8f1e0e1165c2e592d96cc2ec8773b7d3328cac5d414faa599"
+      },
+      {
+        "file": "r03/qa/contact-07.jpg",
+        "sha256": "27c09cb191e48088b2a7e5c19e44b010fdbedc8c5f48551bba362f1bce150b7d"
+      },
+      {
+        "file": "r03/qa/contact-08.jpg",
+        "sha256": "7be9a8522283ad4cf48ab6768a74218697986e572930086e31767b1ec401eafe"
+      },
+      {
+        "file": "r03/qa/contact-09.jpg",
+        "sha256": "d477f35f3310615764850c5c7a9ed5647b069e281b7a5b8e1cc1442a7f0d37ab"
+      },
+      {
+        "file": "r03/qa/contact-10.jpg",
+        "sha256": "e10f2cfdc5c513ed372f091fdd9ceba2773e05e456cf352b0fbcdf7c73bc04d8"
+      }
+    ],
+    "contactFrameCount": 75,
+    "sampledBeatIds": [
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56"
+    ],
+    "frameRange": [
+      9184,
+      18609
+    ],
+    "sampleFiles": [
+      {
+        "file": "r03/qa/e30-early-09184.jpg",
+        "sha256": "49a56e4cf2a2a392e879cfda31418c87b4fcd40c3d81e33e2a35f430e8a0ce39"
+      },
+      {
+        "file": "r03/qa/e30-late-09438.jpg",
+        "sha256": "bd065484b9a5bdd9dae399f5ee0e3560d6ef528fdda7a22469a7abb64ec96b2b"
+      },
+      {
+        "file": "r03/qa/e30-middle-09313.jpg",
+        "sha256": "8c25bf174a36ad3d20a0ed95a40e9cbcafd99f790e87a7730ce4f8cc10e660ef"
+      },
+      {
+        "file": "r03/qa/e31-early-09545.jpg",
+        "sha256": "c366a8b336456876e4f6612bb50dab7249c4dcc08df9e1ac9276d705b41cbd76"
+      },
+      {
+        "file": "r03/qa/e31-late-09814.jpg",
+        "sha256": "503fbad5242d531b06c2a7288e2b89143f1dc962b6c70158a888ed787b373beb"
+      },
+      {
+        "file": "r03/qa/e31-middle-09681.jpg",
+        "sha256": "ff33009f660a901399cc1e52b638308d6f9d861d5cb9e9c955c1b3365fcbf9d9"
+      },
+      {
+        "file": "r03/qa/e32-early-09919.jpg",
+        "sha256": "024dabd8aaff1d0d2b662e7316d33d63ad069e73ce943ffcef1dcb900570ca87"
+      },
+      {
+        "file": "r03/qa/e32-late-10167.jpg",
+        "sha256": "36b5b81142a958196bb605aeb29c95b7c9baf6b211d9464aaf216c62f7cd0863"
+      },
+      {
+        "file": "r03/qa/e32-middle-10045.jpg",
+        "sha256": "050201e9cb5223fdd6ba935106eec760da249a01870895b9390fee52602f95d6"
+      },
+      {
+        "file": "r03/qa/e33-early-10265.jpg",
+        "sha256": "2eb73ca02bf471fa3c881b84916e565ed9a8f3c12da6649c515c1a67b2bd4836"
+      },
+      {
+        "file": "r03/qa/e33-late-10498.jpg",
+        "sha256": "e45e6803c8cb13ce89d1ed11ab964a60345b3b16684b8e9d9ff86b1a6a0a7968"
+      },
+      {
+        "file": "r03/qa/e33-middle-10384.jpg",
+        "sha256": "4dacaae15745697a1262eac174199c3e724fe01f127c17cc1290461722413d11"
+      },
+      {
+        "file": "r03/qa/e35-early-10600.jpg",
+        "sha256": "9b65b1709f6bce6b9dafc0935fb724fc97a7701d6431e661cadea685af3e23ad"
+      },
+      {
+        "file": "r03/qa/e35-late-10864.jpg",
+        "sha256": "a542c7c75edb945b54a01da084f4652b778c07ac6a322e71280f269f906cc348"
+      },
+      {
+        "file": "r03/qa/e35-middle-10734.jpg",
+        "sha256": "3d3aa58ff3b282e26598133006dfd446301e5b7e12bf910c5befb164e139038d"
+      },
+      {
+        "file": "r03/qa/e36-early-10971.jpg",
+        "sha256": "12f4bfeeda333f6f3131546fe5c6b3c55e5d338c4ba2b17eea297db51502dfc7"
+      },
+      {
+        "file": "r03/qa/e36-late-11235.jpg",
+        "sha256": "e94e84d76ba68d002dc9c03bd0ee9583a1944b6b3c0cc9969c9cc063dfbdf4bf"
+      },
+      {
+        "file": "r03/qa/e36-middle-11105.jpg",
+        "sha256": "3c55b8e89af9d65b9438bdb2ef62e5764323ec4de4b7256417b786940db52b00"
+      },
+      {
+        "file": "r03/qa/e37-early-11353.jpg",
+        "sha256": "2c1aba1f1c831ed4d5478f0b3b521af26e7e60e0feadc518d10c253fddf3fa8a"
+      },
+      {
+        "file": "r03/qa/e37-late-11671.jpg",
+        "sha256": "eb7577c417428ad054a771c0aa54295d0f9b9aacb579af1c8774334087b69a03"
+      },
+      {
+        "file": "r03/qa/e37-middle-11515.jpg",
+        "sha256": "e8cea8638e2d9567a9641d5f8b5b08bb08ddbef78298b91a18060cd09fb2b99d"
+      },
+      {
+        "file": "r03/qa/e38-early-11795.jpg",
+        "sha256": "4bff2acc3cc01ac672a9eaa967edc7fc7c7c7c56f67a1ae97d6c9ed24c6f2bda"
+      },
+      {
+        "file": "r03/qa/e38-late-12084.jpg",
+        "sha256": "f200ae6b036fb5f95117d99f5cfe3a5bab4690567b4053f7e65a0f0eef51f126"
+      },
+      {
+        "file": "r03/qa/e38-middle-11942.jpg",
+        "sha256": "9b077238807497355a3a269d8b0dc8aa6af1aa46285dc1182f2f23e872422df4"
+      },
+      {
+        "file": "r03/qa/e39-early-12200.jpg",
+        "sha256": "71dcbe5ca66378171aa96d34065e796e64bf9686771916edf411cc0a223ac5e4"
+      },
+      {
+        "file": "r03/qa/e39-late-12479.jpg",
+        "sha256": "546572f6ca882d092fb8cdaf51735218ca5e0e9f040580d7e39b3c2d7e615df4"
+      },
+      {
+        "file": "r03/qa/e39-middle-12341.jpg",
+        "sha256": "a7ae96757a066a27a898b304f40f70efa25e6cf23e3150b5e019daf4c3cb7761"
+      },
+      {
+        "file": "r03/qa/e40-early-12591.jpg",
+        "sha256": "e7c123aa2e66c5a3278a6ff6024847b177c9e062b2de42a604bad3b3de88bd77"
+      },
+      {
+        "file": "r03/qa/e40-late-12863.jpg",
+        "sha256": "54010ebe5e99d4938aa025ac0b96802d66e67a11418a96aad7d948f32fbb39d6"
+      },
+      {
+        "file": "r03/qa/e40-middle-12729.jpg",
+        "sha256": "7120d70146b87363410b8666bb86c9ef304c107e8a036f579db7ab6a5cb4ca67"
+      },
+      {
+        "file": "r03/qa/e41-early-12976.jpg",
+        "sha256": "3f218b3972f451f38d593b058ed2d3c61c1f5d1709047d1f8d9df4a279fd28c6"
+      },
+      {
+        "file": "r03/qa/e41-late-13260.jpg",
+        "sha256": "986b22b5bfb2d250e6f8f217d59b56198b53fcdb4d6701c3fd85d185d707f547"
+      },
+      {
+        "file": "r03/qa/e41-middle-13120.jpg",
+        "sha256": "955b1f991f47c084f77bdaf23fd11e8ad0056ba32d75a4bb374f3807e5782c72"
+      },
+      {
+        "file": "r03/qa/e42-early-13380.jpg",
+        "sha256": "ebb2d5122c0166351fbf851440dfbc65c101ecb739d0424c568b3ef8934d2aa9"
+      },
+      {
+        "file": "r03/qa/e42-late-13688.jpg",
+        "sha256": "68965718c057c5f6fb9cddd60a42372ae77826349ba8a4d66e165f6a8a88630e"
+      },
+      {
+        "file": "r03/qa/e42-middle-13537.jpg",
+        "sha256": "f18cace1b750bcc026b9716ea1bdbfccc7b6f8311d8301414dd81d1a5c68b725"
+      },
+      {
+        "file": "r03/qa/e43-early-13804.jpg",
+        "sha256": "efa6e0147b3bf309bb34b99435f6ac4148671687789d0c61b574ca7937bfb588"
+      },
+      {
+        "file": "r03/qa/e43-late-14059.jpg",
+        "sha256": "d4024a8e6a411e696067c45cab31c11836c602aa387116f427de80eabc85dabf"
+      },
+      {
+        "file": "r03/qa/e43-middle-13933.jpg",
+        "sha256": "0f67a6a156df8e2bd42b3acb8737498a29b89d1c92ad1e7186f9e051589926d0"
+      },
+      {
+        "file": "r03/qa/e44-early-14165.jpg",
+        "sha256": "c3c6be91238863fb39ea70a6e206aa579472a379672b13c74cfaa4555c95206b"
+      },
+      {
+        "file": "r03/qa/e44-late-14431.jpg",
+        "sha256": "eb55c33dfba3f9ca2e74a36c2f7b1841d12cac6a87c24ea34c0f862d643b1738"
+      },
+      {
+        "file": "r03/qa/e44-middle-14300.jpg",
+        "sha256": "b08941641afeb20742be6d9d90052ce833897d66804d3536c571bb95ce682523"
+      },
+      {
+        "file": "r03/qa/e45-early-14543.jpg",
+        "sha256": "e7a70e08ecbd2b7a99d704b76587f030a55b72b08754ab14a1fae9715c880749"
+      },
+      {
+        "file": "r03/qa/e45-late-14822.jpg",
+        "sha256": "e953f2ebef198096abf1ead9a3fb1b72969594f04e1b5b11e07b526f0a20d504"
+      },
+      {
+        "file": "r03/qa/e45-middle-14685.jpg",
+        "sha256": "8423e908af8f015f8ae191943761b562c51d2b27778be12c0b54f00dbc2e1c72"
+      },
+      {
+        "file": "r03/qa/e46-early-14934.jpg",
+        "sha256": "f0cb4eae7efbd310f674a1255193f8242da2098be94bedd14e47b9e755276873"
+      },
+      {
+        "file": "r03/qa/e46-late-15203.jpg",
+        "sha256": "27eb472b0220258f7d3f0add690a497ce0efe1a0a0899d58a35e911646b86296"
+      },
+      {
+        "file": "r03/qa/e46-middle-15071.jpg",
+        "sha256": "22a736a7a3af46237a84ec408498835729dd3ee1d1f72ab6f3d15518d37ad2cb"
+      },
+      {
+        "file": "r03/qa/e47-early-15318.jpg",
+        "sha256": "3c76b94ad3460e719503c56656d39d1bbad2a6795d85d497dd08e936c11a6eaf"
+      },
+      {
+        "file": "r03/qa/e47-late-15612.jpg",
+        "sha256": "a5d26773b3954a82b3d187bbf9d22b290784ea7b93f4cfc31799859ef15d135d"
+      },
+      {
+        "file": "r03/qa/e47-middle-15467.jpg",
+        "sha256": "31908a9fd3cd204c9326502d2ce17cecffcc5acd0108568090f8b6f50142539c"
+      },
+      {
+        "file": "r03/qa/e49-early-15729.jpg",
+        "sha256": "23bbf6f7def9d57b7adea8882afb9a927ef5e697b2f6781a7bcce50a08721d0e"
+      },
+      {
+        "file": "r03/qa/e49-late-16005.jpg",
+        "sha256": "fb49822c8112ebe65b8db51691eaf8943f990471a33e163655a3496b8a9e6cc7"
+      },
+      {
+        "file": "r03/qa/e49-middle-15869.jpg",
+        "sha256": "a89bb86c86dbee08a9cb51a2b8053621d41260147baca897bc566108db6c97b1"
+      },
+      {
+        "file": "r03/qa/e50-early-16118.jpg",
+        "sha256": "7b5f2ed350c8de9bee64386f23f49032f3a713a6886c8f5d26608bf783d39f63"
+      },
+      {
+        "file": "r03/qa/e50-late-16393.jpg",
+        "sha256": "ac9d54114d1125d1a3aeb7cae8966f8efe8792f1643092d023323e7efd2d24cf"
+      },
+      {
+        "file": "r03/qa/e50-middle-16258.jpg",
+        "sha256": "3b8e06fd2531b302fc4f442cf47b8f685412e94024ffa5bfe291bad10dc641d6"
+      },
+      {
+        "file": "r03/qa/e51-early-16503.jpg",
+        "sha256": "9f899187dd6afbec72c18eef6255cb8d9dbbe8589ec9d5a7cdbbcfa2f9a2ba26"
+      },
+      {
+        "file": "r03/qa/e51-late-16764.jpg",
+        "sha256": "98cc748f96fa7d4d27dcffabfa96cdeb15197e94faa9f4911f5d66c9414cd464"
+      },
+      {
+        "file": "r03/qa/e51-middle-16636.jpg",
+        "sha256": "d48e270aade695fb472a09d5a4b4a433fa5fea67b10fb0990dba69f727ad9107"
+      },
+      {
+        "file": "r03/qa/e52-early-16866.jpg",
+        "sha256": "1f628c218cbb1c021438a498603244b639fcda748216ad1a503c320cb112d25c"
+      },
+      {
+        "file": "r03/qa/e52-late-17101.jpg",
+        "sha256": "1652f7feed137a74b799408e7d43ea9c8a9c94b31044fe0823f6c5326f04fe70"
+      },
+      {
+        "file": "r03/qa/e52-middle-16985.jpg",
+        "sha256": "e2c3d0aaddb181987b8f896415af52e10622c335e68417c9c0e6a70772799dec"
+      },
+      {
+        "file": "r03/qa/e53-early-17197.jpg",
+        "sha256": "a7062b4021ff0a8ae4998324526ed33df0f40fb77fdf6aaf96f740534827d87a"
+      },
+      {
+        "file": "r03/qa/e53-late-17432.jpg",
+        "sha256": "d7425412d285f4044d55b5bbc0105128350696913f41df5c65743a00dac3de97"
+      },
+      {
+        "file": "r03/qa/e53-middle-17316.jpg",
+        "sha256": "78bbac1f2ffdab01da399b46396ccfacf57b9989a2d29adfb72882b6e4f9076c"
+      },
+      {
+        "file": "r03/qa/e54-early-17534.jpg",
+        "sha256": "b5437a1db382a9e1ad090df625ae02352e98e2d1362cd2a91ba5eb7a4fb8b13c"
+      },
+      {
+        "file": "r03/qa/e54-late-17802.jpg",
+        "sha256": "e3f39c8be6b64c5c668d8ed863ad4040fbd2b6f4ec5b72d7c7de17d2911a9a42"
+      },
+      {
+        "file": "r03/qa/e54-middle-17670.jpg",
+        "sha256": "3abc629efceacaee17cb70e3b8e189afc61d419612de35c4883b70dc5415b104"
+      },
+      {
+        "file": "r03/qa/e55-early-17915.jpg",
+        "sha256": "5d7b802177b0ebbf1c01ad5893c3e2d6737affed7f0e825e9819745d31c654e9"
+      },
+      {
+        "file": "r03/qa/e55-late-18200.jpg",
+        "sha256": "07c6bfff2bc789080c776f0d0fac59def0bae86a442006fe46477083b5873e5a"
+      },
+      {
+        "file": "r03/qa/e55-middle-18060.jpg",
+        "sha256": "7fb11f5b71e326db4b635c29ad387ad6443bba9759d781a74d4d69e39abc1623"
+      },
+      {
+        "file": "r03/qa/e56-early-18318.jpg",
+        "sha256": "93212c95d4efc072321cd59c02ddc7cf201efb814564ade5852ff8119e024b89"
+      },
+      {
+        "file": "r03/qa/e56-late-18609.jpg",
+        "sha256": "875e20fe2382952e7ad949edeea5557a183e980f2d9b59702ac531618d0c9de5"
+      },
+      {
+        "file": "r03/qa/e56-middle-18466.jpg",
+        "sha256": "e30a9674f5957a7ad28a6f55b9032a65836fdc70108dbb5ea3385c341988c30d"
+      }
+    ],
+    "additionalNativeFramesOpened": [
+      {
+        "file": "r03/qa/e41-middle-13120.jpg",
+        "sha256": "955b1f991f47c084f77bdaf23fd11e8ad0056ba32d75a4bb374f3807e5782c72"
+      },
+      {
+        "file": "r03/qa/e42-middle-13537.jpg",
+        "sha256": "f18cace1b750bcc026b9716ea1bdbfccc7b6f8311d8301414dd81d1a5c68b725"
+      },
+      {
+        "file": "review/r03-final-last-frame-18670.jpg",
+        "sha256": "ead8140247a2be5f2cf369241cc3328c39182d75433fb51a091dd1c694c275f9"
+      }
+    ]
+  },
+  "observations": [
+    {
+      "area": "photos",
+      "finding": "Opened late-half contact sheets show recognizable sharp source subjects: flour/butter mound, bread display, market exchange, shopping trolley, receipt, currency, cargo ship, kneading hands and filled bánh mì. Decorative blurred backing stays behind contained foreground; no stretched or missing primary subject visible in these samples."
+    },
+    {
+      "area": "layout",
+      "finding": "Headlines remain separate from main photographs, small fictional cast and lower caption band. Two-image galleries keep separate photo frames. No sampled title/caption overlap or text cut off by frame edges."
+    },
+    {
+      "area": "font",
+      "finding": "Vietnamese diacritics and headline forms look intact in the opened frames. Native1920x1080 e41/e42 graphics show readable labels, values, units and illustrative-source note; no missing-glyph box or unexpected fallback seen."
+    },
+    {
+      "area": "math graphics",
+      "finding": "Opened native e41 shows nominal+5%, basket+8%, purchasingpower−2.78% with105÷108−1. Opened e42 shows100g to90g at same20000đ and+11.11% price-per-gram. Complete labels and numbers visible, marked illustrative."
+    },
+    {
+      "area": "character",
+      "finding": "Cast retains stable standing pose and remains secondary to content in early/middle/late samples. These still samples do not independently establish cue-turn smoothness; representative temporal proofs are separately reviewed."
+    },
+    {
+      "area": "ending",
+      "finding": "Decoded final encoded frame18670 opened at native resolution. Closing question, complete portrait food photograph, fictional cast label and photo attribution remain visible; caption has cleared after the measured last spoken word. No premature visual blackout or missing end subject."
+    },
+    {
+      "area": "semantic limits",
+      "finding": "Stock market/shop/receipt/freight images provide context, not proof of the fictional shop’s prices, contracts, profits or monetarypolicy causality. The illustrative labels are visible. Photo repetition in late half is apparent (shopper/receipt callbacks); the requested trial now prioritizes content."
+    }
+  ],
+  "blockers": [],
+  "result": "No blocking visual issue observed within these sampled encoded frames.",
+  "nonblockingNotes": [
+    "Some supporting source/illustrative labels are smaller than headlines; this was not a mobile-device readability test.",
+    "Very short caption tails and recurring grocery/receipt imagery remain visible; no claim of user aesthetic approval or fully novel image per clause."
+  ],
+  "continuousWatching": false,
+  "audioListened": false,
+  "userApproval": "pending",
+  "limitations": "Opened75 encoded frame samples in contact06..10 plus3 native-size frames. This does not equal full-duration continuous watching/listening, does not establish every transition frame, and is not an aesthetic acceptance by the user."
+}

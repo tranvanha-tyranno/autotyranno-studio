@@ -1,0 +1,18 @@
+# Source links/transcripts/analysis are published; downloaded AV and image samples stay local.
+**/*.aac
+**/*.avi
+**/*.flac
+**/*.gif
+**/*.jpeg
+**/*.jpg
+**/*.m4a
+**/*.mkv
+**/*.mov
+**/*.mp3
+**/*.mp4
+**/*.ogg
+**/*.pcm
+**/*.png
+**/*.wav
+**/*.webm
+**/*.webp

@@ -1,0 +1,160 @@
+[
+  {
+    "direction": "long",
+    "frameTime": 1.0,
+    "shotStart": 0.0,
+    "shotEnd": 2.466666666666667,
+    "spoken": "Bạn giao cho AI viết một email chào hàng.",
+    "anchor": "Bạn giao cho AI",
+    "images": [
+      "directions/long/typing-photo.jpg"
+    ],
+    "file": "rejected/long-001.00.jpg"
+  },
+  {
+    "direction": "long",
+    "frameTime": 3.8,
+    "shotStart": 2.466666666666667,
+    "shotEnd": 5.0,
+    "spoken": "Vài giây sau, bản nháp đã nằm trên màn hình.",
+    "anchor": "Vài giây sau",
+    "images": [
+      "directions/long/notes.jpg"
+    ],
+    "file": "rejected/long-003.80.jpg"
+  },
+  {
+    "direction": "long",
+    "frameTime": 19.8,
+    "shotStart": 18.633333333333333,
+    "shotEnd": 21.433333333333334,
+    "spoken": "Cứ nhìn một email tưởng như rất đơn giản.",
+    "anchor": "Cứ nhìn một email",
+    "images": [
+      "directions/long/headset.jpg"
+    ],
+    "file": "rejected/long-019.80.jpg"
+  },
+  {
+    "direction": "long",
+    "frameTime": 31.3,
+    "shotStart": 30.366666666666667,
+    "shotEnd": 32.766666666666666,
+    "spoken": "sửa giọng điệu, rồi theo dõi phản hồi.",
+    "anchor": "sửa giọng điệu",
+    "images": [
+      "directions/long/review-team-detail.jpg",
+      "directions/long/support-team.jpg"
+    ],
+    "file": "rejected/long-031.30.jpg"
+  },
+  {
+    "direction": "long",
+    "frameTime": 49.5,
+    "shotStart": 48.86666666666667,
+    "shotEnd": 50.93333333333333,
+    "spoken": "Đừng gom cả ba vào một nút gửi.",
+    "anchor": "Đừng gom cả ba",
+    "images": [
+      "directions/long/team-decision.jpg"
+    ],
+    "file": "rejected/long-049.50.jpg"
+  },
+  {
+    "direction": "long",
+    "frameTime": 61.2,
+    "shotStart": 59.733333333333334,
+    "shotEnd": 63.266666666666666,
+    "spoken": "Ghi lại thời gian viết, thời gian sửa và lỗi còn sót.",
+    "anchor": "Ghi lại thời gian",
+    "images": [
+      "directions/long/notes.jpg",
+      "directions/long/asian-notes.jpg"
+    ],
+    "file": "rejected/long-061.20.jpg"
+  },
+  {
+    "direction": "long",
+    "frameTime": 75.5,
+    "shotStart": 74.9,
+    "shotEnd": 76.86666666666666,
+    "spoken": "Bình luận một công việc cụ thể.",
+    "anchor": "Bình luận một công việc",
+    "images": [
+      "directions/long/sticky-board.jpg"
+    ],
+    "file": "rejected/long-075.50.jpg"
+  },
+  {
+    "direction": "hidden",
+    "frameTime": 0.8,
+    "shotStart": 0.0,
+    "shotEnd": 2.966666666666667,
+    "spoken": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn.",
+    "anchor": "Một nghề không biến mất",
+    "images": [
+      "directions/hidden/candidate.jpg"
+    ],
+    "file": "rejected/hidden-000.80.jpg"
+  },
+  {
+    "direction": "hidden",
+    "frameTime": 40.5,
+    "shotStart": 39.43333333333333,
+    "shotEnd": 42.0,
+    "spoken": "Bạn có thể nhờ công cụ gợi ý cấu trúc.",
+    "anchor": "Bạn có thể nhờ",
+    "images": [
+      "directions/hidden/sticky-board.jpg"
+    ],
+    "file": "rejected/hidden-040.50.jpg"
+  },
+  {
+    "direction": "hidden",
+    "frameTime": 43.5,
+    "shotStart": 42.0,
+    "shotEnd": 45.43333333333333,
+    "spoken": "Nhưng khi một con số không khớp, bạn cần quay về nguồn.",
+    "anchor": "Nhưng khi một con số",
+    "images": [
+      "directions/hidden/calculator.jpg"
+    ],
+    "file": "rejected/hidden-043.50.jpg"
+  },
+  {
+    "direction": "hidden",
+    "frameTime": 48.5,
+    "shotStart": 47.733333333333334,
+    "shotEnd": 50.733333333333334,
+    "spoken": "một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề.",
+    "anchor": "một câu trả lời lịch sự",
+    "images": [
+      "directions/hidden/support-team.jpg"
+    ],
+    "file": "rejected/hidden-048.50.jpg"
+  },
+  {
+    "direction": "hidden",
+    "frameTime": 69.8,
+    "shotStart": 69.23333333333333,
+    "shotEnd": 70.76666666666667,
+    "spoken": "Đo cả thời gian sửa.",
+    "anchor": "Đo cả thời gian sửa",
+    "images": [
+      "directions/hidden/notes.jpg"
+    ],
+    "file": "rejected/hidden-069.80.jpg"
+  },
+  {
+    "direction": "hidden",
+    "frameTime": 77.0,
+    "shotStart": 76.16666666666667,
+    "shotEnd": 78.6,
+    "spoken": "Hãy để lại một ví dụ dưới bình luận,",
+    "anchor": "Hãy để lại",
+    "images": [
+      "directions/hidden/interview.jpg"
+    ],
+    "file": "rejected/hidden-077.00.jpg"
+  }
+]

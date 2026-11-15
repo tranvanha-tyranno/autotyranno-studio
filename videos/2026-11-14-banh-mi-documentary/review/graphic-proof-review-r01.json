@@ -1,0 +1,68 @@
+{
+  "schema": "bread-graphic-proof-review/1",
+  "revision": "r01",
+  "date": "2026-11-15 Asia/Saigon",
+  "method": "actual_rendered_MP4_selected_frames_opened",
+  "continuousAvReview": false,
+  "audioListened": false,
+  "userApproval": false,
+  "scope": "Four actual composited MP4 frames from complete proof shots b06-02 and b18-02. Does not establish full motion, audiovisual pacing or whole-video acceptance.",
+  "reviews": [
+    {
+      "shotId": "b06-02",
+      "render": "videos/2026-11-14-banh-mi-documentary/r01/shots/b06-02.mp4",
+      "renderSHA256": "8856325f669c17a58d7d8f122f18b64fa9524b2cadd16d392694e01f4c62a5de",
+      "framesOpened": [
+        {
+          "localFrame": 180,
+          "path": "videos/2026-11-14-banh-mi-documentary/review/graphic-proof-r01/b06-02-180.jpg",
+          "sha256": "3c3016d5d287471a05ce402587cdfdcb7181c54f4cd47a2205306d93a606104f"
+        },
+        {
+          "localFrame": 222,
+          "path": "videos/2026-11-14-banh-mi-documentary/review/graphic-proof-r01/b06-02-222.jpg",
+          "sha256": "21fa5f6e2a2e401466db6642dc57c24dad49df4fe37fe78fe9df3ec3f4b30259"
+        }
+      ],
+      "numbers": "3.000 → 2.500 đ; khách +2.000 đ; đầu vào +2.500 đ",
+      "observations": [
+        "All numbers, units, inequality takeaway and net-profit caveat visible, without edge crop in selected saved MP4 frames.",
+        "Warm oven/bread footage remains visible on left; right gradient protects math. Selected states show conclusion appears later than comparison."
+      ],
+      "decision": "selected_graphic_frames_acceptable"
+    },
+    {
+      "shotId": "b18-02",
+      "render": "videos/2026-11-14-banh-mi-documentary/r01/shots/b18-02.mp4",
+      "renderSHA256": "b7cb2873d477dd0b3b29c964f3ac153566df162a8cfff77c79d5c02efec7f6fb",
+      "framesOpened": [
+        {
+          "localFrame": 198,
+          "path": "videos/2026-11-14-banh-mi-documentary/review/graphic-proof-r01/b18-02-198.jpg",
+          "sha256": "d84d67b8f182e40f34272156e785ed250e2e148ecb9679d2c6fb66b7f83a5585"
+        },
+        {
+          "localFrame": 322,
+          "path": "videos/2026-11-14-banh-mi-documentary/review/graphic-proof-r01/b18-02-322.jpg",
+          "sha256": "23c6fe3e3f3a9ad29413ae4463b864ec2cb8fe64665dcb4517594cc5945061b4"
+        }
+      ],
+      "numbers": "500 → 477 ổ; sức mua tính riêng bằng bánh approximately −4,5%",
+      "observations": [
+        "Both quantities, unit ổ, approximate result, and two-line caveat visible; no cropped digits or subtitle track.",
+        "Label says Hai mức lương, cùng chiếc bánh ấy, preserving different-wage comparison.",
+        "Bread/hand stays mostly behind the right math at sampled late states; left gray region is empty and the secondary bread piece has exited. This is a visual balance limitation, not a numerical/cropping defect."
+      ],
+      "decision": "selected_graphic_frames_acceptable_with_backplate_balance_limit"
+    }
+  ],
+  "next": "Root must revalidate r02 concatenated proof after timebase normalization and reopen complete moving scenes before full render. No new audiovisual acceptance is implied.",
+  "supersedingTechnicalFinding": {
+    "reportedBy": "parent agent /root",
+    "status": "r01_proof_timing_invalid",
+    "finding": "Root measured mixed video timebases: Remotion90,000 ticks/sec versus FFmpeg15,360 ticks/sec concatenated with stream copy; a nominal15s proof played around5.23fps, stretching initial1.5s to8.6s and causing later numbers to disappear from expected times.",
+    "impact": "The four individual-shot MP4 stills remain observations of visible pixels, not valid proof of concatenated audiovisual timing or motion. Prior r01 proof timing must not be accepted from them.",
+    "rootRepair": "Retain raw Remotion.mp4, remux video track to15,360 with stream copy, add full decoded frame-count check, rebuild r02 proof and inspect actual timing again.",
+    "verifiedByThisReview": false
+  }
+}

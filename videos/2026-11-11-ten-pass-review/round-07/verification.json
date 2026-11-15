@@ -1,0 +1,42 @@
+{
+  "full_decode": "passed",
+  "container_seconds": 50.0,
+  "sampled_frames_1fps": 50,
+  "decoded_video_frames": 1500,
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Cảng kết hợp sổ tài khoản hợp câu hỏi giữ giá trị hơn cận mắt/keyboard. Đã xem thêm khung 37s: người vận hành thiết bị khớp phần công nghệ tốt hơn spreadsheet, tay/máy còn thấy rõ cạnh panel. Các đoạn cảng nay lấy khoảng nguồn khác nhau, giảm lặp hình."
+  },
+  "audio_review": "timing measured; listening review not claimed",
+  "footage": "licensed illustrative moving stock; no reference footage reused",
+  "notes": "Word captions use provider timestamps; verify important names/numbers by listening.",
+  "render_profile": {
+    "name": "Lăng Kính / Tyranno",
+    "styles": [
+      "hero",
+      "full_bleed",
+      "editorial",
+      "split",
+      "inset",
+      "closing"
+    ],
+    "mic": false,
+    "waveform": false,
+    "frames": 1500,
+    "sound_cues": 10,
+    "version": 2
+  },
+  "audio_levels": {
+    "input_i": "-16.35",
+    "input_tp": "-2.09",
+    "input_lra": "1.40",
+    "input_thresh": "-26.77",
+    "output_i": "-16.00",
+    "output_tp": "-1.73",
+    "output_lra": "1.20",
+    "output_thresh": "-26.38",
+    "normalization_type": "dynamic",
+    "target_offset": "0.00"
+  },
+  "user_acceptance": "pending"
+}

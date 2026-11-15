@@ -1,0 +1,445 @@
+{
+  "schema": "reference-video-guidance/1",
+  "generated_at_utc": "2026-11-13T04:12:36.774679+00:00",
+  "ledger_head_sha256": "bf1149ae3624dacc48ecbb8a1a2dfc3c9f45604a0f5af6ecb50a5003e761b55e",
+  "source_ledger": "workflows/reference-video/learning-data",
+  "scope": "Editorial guidance only; no runtime visual or voice preset overrides.",
+  "lessons": [
+    {
+      "action": "For a difference, use explicit wording such as chi thêm or tăng thêm; retain both comparison totals, unit/count labels and hypothetical scope, then recheck arithmetic before rendering.",
+      "applies_to": [
+        "original price-comparison graphics",
+        "Vietnamese photo explainers"
+      ],
+      "category": "script",
+      "rationale": "The r01 label TỔNG CHI:+20.000đ could make the increase look like a final total, although the underlying comparison arithmetic was correct.",
+      "rule": "A comparison graphic must label final total, unit price and increase as distinct quantities matching the narration.",
+      "source_feedback_ids": [
+        "evt-000001-79f6edc0b070"
+      ],
+      "title": "Name a price difference separately from the final total",
+      "id": "evt-000002-31ff7b0972b3",
+      "status": "verified",
+      "application_id": "evt-000003-50943e197e58",
+      "verification_id": "evt-000005-75e933b6fe66",
+      "verified_by": {
+        "kind": "agent",
+        "name": "Codex learning_loop"
+      },
+      "acceptance_basis": "script_review",
+      "verification_from_user_feedback": false,
+      "source_reviews": [
+        {
+          "id": "evt-000001-79f6edc0b070",
+          "action": "Rename the difference CHI THÊM 20.000đ (or TỔNG CHI TĂNG 20.000đ), retain both totals, unit prices, quantities and hypothetical header, then independently recheck wording/arithmetic.",
+          "batch": "videos/2026-11-13-di-sieu-thi",
+          "decision": "revision_needed",
+          "dimension": "script",
+          "evidence": [
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r01.json",
+              "role": "script",
+              "sha256": "04dd81359f3c0fcbfd9bd9c7e6d75970cf7ef3561d6f212cab1f64dee5e7e109"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/total-example-r01.jpg",
+              "role": "asset",
+              "sha256": "cae247d728ebcde154ef943237f8811d881f18b639521f07dbf79610bb066655"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/independent-pre-render-review-r01.md",
+              "role": "report",
+              "sha256": "1f355165b47a9e86468f8077025c62923d56f17fbd89437d6019127f678e301b"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-label-review.md",
+              "role": "report",
+              "sha256": "72d8076fbe966541ac1d2be1cae3e32e07fb7929f2fed93d64ecd91c8491af3a"
+            }
+          ],
+          "method": "script_review",
+          "observation": "Source graphic labels the difference +20.000đ as TỔNG CHI. The final totals shown are 30.000đ and 50.000đ, so 20.000đ is the increase, not the final total. This is source-label/script clarity review only; no final-video visual acceptance.",
+          "reviewer": {
+            "kind": "agent",
+            "name": "Codex learning_loop"
+          },
+          "revision": "r01",
+          "target": {
+            "clause_id": "c11-price-difference-label",
+            "end": 124.73333333333333,
+            "narration": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.",
+            "start": 116.46666666666667
+          }
+        }
+      ],
+      "evidence": [
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r03.json",
+          "role": "script",
+          "sha256": "28a5b8784311eeb12e745b0cd10e6de2aab4bd5d698da74530d5501ec1df37fd"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/total-change-r03.jpg",
+          "role": "asset",
+          "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-r03.txt",
+          "role": "script",
+          "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r03.json",
+          "role": "script",
+          "sha256": "28a5b8784311eeb12e745b0cd10e6de2aab4bd5d698da74530d5501ec1df37fd"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-r03.txt",
+          "role": "script",
+          "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/total-change-r03.jpg",
+          "role": "asset",
+          "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-label-review.md",
+          "role": "report",
+          "sha256": "72d8076fbe966541ac1d2be1cae3e32e07fb7929f2fed93d64ecd91c8491af3a"
+        }
+      ]
+    },
+    {
+      "action": "Use contain or a purpose-made panel derivative for data/list graphics; remove competing overlay text and inspect the actual rendered frame beside its narration clause.",
+      "applies_to": [
+        "text and data graphics inside photo/gallery explainers",
+        "split-panel crop and typography review"
+      ],
+      "category": "visual_relevance",
+      "rationale": "Two r03 frames used correct original sources but lost comparison labels through cover crop or checklist text through headline overlap.",
+      "rule": "A meaningful text or data graphic must fit the rendered panel with its necessary labels visible, and decorative headlines must not cover its content.",
+      "source_feedback_ids": [
+        "evt-000006-f8129580db62",
+        "evt-000007-8944a8f9b1dc"
+      ],
+      "title": "Preserve meaningful graphic content inside the final panel",
+      "id": "evt-000008-159aee115b4d",
+      "status": "verified",
+      "application_id": "evt-000009-41991cb7f477",
+      "verification_id": "evt-000013-24f010ae4e74",
+      "verified_by": {
+        "kind": "agent",
+        "name": "Codex learning_loop"
+      },
+      "acceptance_basis": "rendered_frame_comparison",
+      "verification_from_user_feedback": false,
+      "source_reviews": [
+        {
+          "id": "evt-000006-f8129580db62",
+          "action": "Use contain for the meaningful price graphic so both alternatives, quantities, unit prices and hypothetical scope remain visible; inspect the actual new render again.",
+          "batch": "videos/2026-11-13-di-sieu-thi",
+          "decision": "revision_needed",
+          "dimension": "visual_relevance",
+          "evidence": [
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/r03/long/final.mp4",
+              "role": "render",
+              "sha256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-c12-r03.jpg",
+              "role": "frame",
+              "sha256": "f2889d7037a9d72f25f4524d29493561f09303b9b36be8f1ed1ee60a33de1352"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+              "role": "asset",
+              "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/independent-r03-visual-review.md",
+              "role": "report",
+              "sha256": "51c997465d9f60a78545aee25db83de8e8f234e6b4e3e0e859ef5197b0eaffef"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-loss-r03-review.md",
+              "role": "report",
+              "sha256": "2352cb2d8e3565f60a66cd23a3d0e3ba55061f11c5928213a9b4145f5545bd52"
+            }
+          ],
+          "method": "rendered_frame_comparison",
+          "observation": "The actual r03 frame clips the left heading, one-carton comparison,30.000đ and part of the hypothetical header because a wide graphic is covered into the narrow left panel. Correct source bytes did not preserve the comparison after layout.",
+          "reviewer": {
+            "kind": "agent",
+            "name": "Codex learning_loop"
+          },
+          "revision": "r03",
+          "target": {
+            "clause_id": "c12-graphic-visibility",
+            "end": 135.13333333333333,
+            "narration": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.",
+            "start": 124.73333333333333
+          }
+        },
+        {
+          "id": "evt-000007-8944a8f9b1dc",
+          "action": "Remove the competing headline and use contain for the complete checklist; inspect the actual new render again.",
+          "batch": "videos/2026-11-13-di-sieu-thi",
+          "decision": "revision_needed",
+          "dimension": "visual_relevance",
+          "evidence": [
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/r03/long/final.mp4",
+              "role": "render",
+              "sha256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-a1-r03.jpg",
+              "role": "frame",
+              "sha256": "96fbf2d8e4db656a1105630e58fa541865b9b0fc1f44fe22387f192de953186c"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+              "role": "asset",
+              "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/independent-r03-visual-review.md",
+              "role": "report",
+              "sha256": "51c997465d9f60a78545aee25db83de8e8f234e6b4e3e0e859ef5197b0eaffef"
+            },
+            {
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-loss-r03-review.md",
+              "role": "report",
+              "sha256": "2352cb2d8e3565f60a66cd23a3d0e3ba55061f11c5928213a9b4145f5545bd52"
+            }
+          ],
+          "method": "rendered_frame_comparison",
+          "observation": "The actual r03 frame places the white headline over the black third checklist row Đồ ở nhà còn lại. Added type obscures the original prompt needed by the narrated comparison.",
+          "reviewer": {
+            "kind": "agent",
+            "name": "Codex learning_loop"
+          },
+          "revision": "r03",
+          "target": {
+            "clause_id": "a1-graphic-visibility",
+            "end": 185.56666666666666,
+            "narration": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.",
+            "start": 176.43333333333334
+          }
+        }
+      ],
+      "evidence": [
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r04.json",
+          "role": "script",
+          "sha256": "a6915544624ddf5c3334635de884f5f2520fc084ff3b5bec372495a0c9367ac7"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/timeline-r04.json",
+          "role": "script",
+          "sha256": "19ff1e3f488ed7ed8e6196db1ab113aec17a3bd05a3edb9785c286d07cf57b72"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+          "role": "asset",
+          "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+          "role": "asset",
+          "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/r04/long/final.mp4",
+          "role": "render",
+          "sha256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-c12-r04.jpg",
+          "role": "frame",
+          "sha256": "94ee4299120fe048074026d5fac5b998b7fb1ec04c803145fb317a7f4973e35c"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-a1-r04.jpg",
+          "role": "frame",
+          "sha256": "5ed13a674fde74daf4b133a65689c570a0f11c20e987639eead3fb919a95fe4f"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+          "role": "asset",
+          "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+          "role": "asset",
+          "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+        },
+        {
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-visibility-r04-review.md",
+          "role": "report",
+          "sha256": "68e546c24ed33a3a0de958afa72895a5e0d1d9ea84a98872d3dd04bac8f6cf9c"
+        }
+      ]
+    },
+    {
+      "action": "Inspect the actual source and rendered crop beside the discount phrase; retain readable promotion/old-new labels and historical date, keep captions clear, and separate archival shelf offers from current prices or later hypothetical arithmetic.",
+      "applies_to": [
+        "Discount and price-reduction clauses in original photo-led grocery/life explainers",
+        "Source selection and rendered-crop review for archival promotion images; not verification of current offers or customer behavior"
+      ],
+      "category": "visual_relevance",
+      "rationale": "Actual r06/c9 frame3121 had contextually relevant Vietnamese shelf-price photos but no visible reduction while the caption explicitly referred to a discount. r07 supplies an archival promotion label with crossed-out19.600 and15.400, whose date and limits remain visible.",
+      "rule": "When a narrated clause says discount or price reduction, its visible asset must show an actual discount marker or an unambiguous old/new price relationship. Ordinary shelf prices, different products or different pack sizes alone do not establish a reduction.",
+      "source_feedback_ids": [
+        "evt-000018-4504a133a712"
+      ],
+      "title": "Discount narration requires a visible discount rather than ordinary shelf prices",
+      "id": "evt-000019-170d792d7e97",
+      "status": "verified",
+      "application_id": "evt-000020-28cfd8fb47d8",
+      "verification_id": "evt-000022-9197824c4faa",
+      "verified_by": {
+        "kind": "agent",
+        "name": "Codex motion_pipeline — actual rendered-frame comparison"
+      },
+      "acceptance_basis": "rendered_frame_comparison",
+      "verification_from_user_feedback": false,
+      "source_reviews": [
+        {
+          "id": "evt-000018-4504a133a712",
+          "action": "Replace one panel with an inspected archival promotion crop that visibly shows a promotion label and old/new price while keeping its historical date and source limits readable above the caption. Keep ordinary shelf-price imagery only as price/quantity context.",
+          "batch": "videos/2026-11-13-di-sieu-thi",
+          "decision": "revision_needed",
+          "dimension": "visual_relevance",
+          "evidence": [
+            {
+              "description": "Actual r06 final; SHA matches its full-duration QA receipt.",
+              "path": "videos/2026-11-13-di-sieu-thi/r06/long/final.mp4",
+              "role": "render",
+              "sha256": "8c8f3ea159fba96585499ea442bc6194e75ed530d7151ea7043c57f3b4527ca5"
+            },
+            {
+              "description": "Opened actual r06/c9 frame at104.033s.",
+              "path": "videos/2026-11-13-di-sieu-thi/r06/long/qa/frame-03121.jpg",
+              "role": "frame",
+              "sha256": "4af4fba155e8a961e4c9b54e63392c05d8a691cb3c86ab3665c9c6188382cdd0"
+            },
+            {
+              "description": "Actual rendered ordinary-price source derivative.",
+              "path": "videos/2026-11-13-di-sieu-thi/r06/production-public/directions/long/vn-sauce-prices.jpg",
+              "role": "asset",
+              "sha256": "b71ace95d181cecf1bd1a218941912381259fe98dc4ed2e23ef2deec1600ea94"
+            },
+            {
+              "description": "Actual rendered ordinary-price source derivative.",
+              "path": "videos/2026-11-13-di-sieu-thi/r06/production-public/directions/long/vn-seed-prices.jpg",
+              "role": "asset",
+              "sha256": "c3c23b237175388685ca88071f82c7cfd814bdde4c9d253658614d2d69d73370"
+            },
+            {
+              "description": "Actual observations and narrow scope of comparison.",
+              "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/r07-c9-discount-render-review.md",
+              "role": "report",
+              "sha256": "cd166a60e2130cde854f75f2bef8e477cf4afbd715422cb09c779a313fa9ba5e"
+            }
+          ],
+          "method": "rendered_frame_comparison",
+          "observation": "Opened r06 frame3121 (104.033s). Caption says Nhìn một mức giảm, but both panels show ordinary sauce/mayonnaise and seed/snack shelf prices. No visible discount marker, crossed-out old price or old/new pair establishes a price reduction; different products or package sizes are not evidence of a discount. Scope is only c9 discount-phrase visual relevance, not the whole video.",
+          "reviewer": {
+            "kind": "agent",
+            "name": "Codex motion_pipeline — actual rendered-frame comparison"
+          },
+          "revision": "r06",
+          "target": {
+            "clause_id": "c9",
+            "end": 104.4,
+            "narration": "Nhìn một mức giảm, ta rất dễ chỉ hỏi",
+            "start": 101.68
+          }
+        }
+      ],
+      "evidence": [
+        {
+          "description": "Retained immutable r07 manifest; c9 selects promotion crop with contain placement.",
+          "path": "videos/2026-11-13-di-sieu-thi/r07/long/production-manifest.json",
+          "role": "script",
+          "sha256": "f1c0830ddcc0cefb27da8710fa8b2b921b5efe8b594deae4a93626a64d3050ff"
+        },
+        {
+          "description": "Frozen crop actually served by the r07 bundle.",
+          "path": "videos/2026-11-13-di-sieu-thi/r07/repair-attempts/20261113T022611.232211Z-repair-6dd2d2/bundle/public/directions/long/vn-promotion-close.jpg",
+          "role": "asset",
+          "sha256": "63d00833dcd7517dfc93ec064bc6c9c20e9bb67795d85a581ce84b62ae788e68"
+        },
+        {
+          "description": "Immutable profile snapshot containing the discount-specific editing lesson before r07 bundle.",
+          "path": "videos/2026-11-13-di-sieu-thi/r07/repair-attempts/20261113T022611.232211Z-repair-6dd2d2/source-snapshot/reference-learning.profile.json",
+          "role": "code",
+          "sha256": "f554208f424e11de46fde4034a31fb8ed52ea8a1dbe73668e4927ea9398d7971"
+        },
+        {
+          "description": "Actual r07 final; SHA matches full-duration QA receipt.",
+          "path": "videos/2026-11-13-di-sieu-thi/r07/long/final.mp4",
+          "role": "render",
+          "sha256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861"
+        },
+        {
+          "description": "Opened actual r07/c9 frame with discount label/date above caption.",
+          "path": "videos/2026-11-13-di-sieu-thi/r07/long/qa/frame-03121.jpg",
+          "role": "frame",
+          "sha256": "e60d52dcd59eb86bb911e35308be64f6cf9710257fe08a9382864fc75a61ea6a"
+        },
+        {
+          "description": "Opened promotion crop; discount and historical date visible.",
+          "path": "videos/2026-11-13-di-sieu-thi/r07/production-public/directions/long/vn-promotion-close.jpg",
+          "role": "asset",
+          "sha256": "63d00833dcd7517dfc93ec064bc6c9c20e9bb67795d85a581ce84b62ae788e68"
+        },
+        {
+          "description": "Direct side-by-side frame observations with explicit scope limits.",
+          "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/r07-c9-discount-render-review.md",
+          "role": "report",
+          "sha256": "cd166a60e2130cde854f75f2bef8e477cf4afbd715422cb09c779a313fa9ba5e"
+        }
+      ]
+    }
+  ],
+  "excluded_lessons": [
+    {
+      "id": "evt-000016-2c7ad0af4f8b",
+      "reason": "not_verified"
+    },
+    {
+      "id": "evt-000026-113fcfea2f87",
+      "reason": "not_verified"
+    }
+  ],
+  "user_acceptance_by_batch": [
+    {
+      "batch": "videos/2026-11-13-di-sieu-thi",
+      "revision": "r04",
+      "decision": "revision_needed",
+      "feedback_id": "evt-000015-15e1b8b7915f",
+      "exact_quote": "bạn có thấy hình ảnh chưa được sống động chèn 3D hoạt ảnh vào không, và nên lấy ảnh ở Việt Nam hơn đó và thêm có 1 phần là miễn trừ trách nhiệm nữa Nâng cấp thêm nữa đi",
+      "evidence_integrity": true,
+      "user_approved": false
+    },
+    {
+      "batch": "videos/2026-11-13-di-sieu-thi",
+      "revision": "r07",
+      "decision": "accepted",
+      "feedback_id": "evt-000024-57fe35591138",
+      "exact_quote": "tôi thấy khá ổn đỉnh rồi",
+      "evidence_integrity": true,
+      "user_approved": true
+    }
+  ],
+  "limitations": [
+    "Local evidence-backed process improvements, not model-weight training.",
+    "Technical checks do not establish visual quality, auditory quality or user approval.",
+    "Agent verification is labeled separately from explicit human-user approval.",
+    "No publishing, messages, paid generation or scheduled tasks are triggered by this export."
+  ]
+}

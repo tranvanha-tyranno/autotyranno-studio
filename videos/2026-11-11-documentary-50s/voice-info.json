@@ -1,0 +1,9 @@
+{
+  "provider": "Microsoft Edge online TTS",
+  "voice": "vi-VN-NamMinhNeural",
+  "original_seconds": 53.81,
+  "atempo": 1.0981632653061224,
+  "narration_ends_by_seconds": 49,
+  "synthetic_voice": true,
+  "note": "OpenAI credential returned 401; Adam quota insufficient in previous batch. No voice cloning."
+}

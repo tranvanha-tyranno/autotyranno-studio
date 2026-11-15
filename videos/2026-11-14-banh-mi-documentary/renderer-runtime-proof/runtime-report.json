@@ -1,0 +1,29 @@
+{
+  "schema": "bread-renderer-runtime-proof/1",
+  "source": "locally generated FFmpeg testsrc2, not a content asset",
+  "renderedFrames": 60,
+  "durationSeconds": 2,
+  "uniqueDecodedFrames": 60,
+  "verified": [
+    "Video component runtime with local MP4",
+    "bundled Vietnamese fonts visible in opened rendered samples",
+    "all seven graphic data stages rendered in 49 preflight images",
+    "globalFrame1125 equals croppedFrame0 PNG SHA256"
+  ],
+  "visuallyInspected": [
+    "before-000158.jpg",
+    "after-000338.jpg",
+    "prices-000698.jpg",
+    "result-001238.jpg"
+  ],
+  "observations": [
+    "Before cost20,000-12,000-5,000=3,000; after22,000-14,500-5,000=2,500,delta-500 visible.",
+    "Price path20,000→22,000→22,440 and +10%/+2% visible.",
+    "500→477 and approx-4.5% visible; not old basket-2.8% calculation.",
+    "Selected samples show Vietnamese diacritics and no obvious crop/overflow of graphic content."
+  ],
+  "limits": [
+    "Synthetic moving background only, not final bread footage/crop relevance.",
+    "No continuous listening or aesthetic approval; real moving proof still required."
+  ]
+}

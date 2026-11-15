@@ -1,0 +1,305 @@
+{
+  "scope": "Descriptive measurements, not an aesthetic score. Source scene changes affect luma.",
+  "frames": [
+    {
+      "seconds": 0,
+      "mean_luma": 98.39,
+      "near_black_fraction": 0.0436,
+      "near_white_fraction": 0.0142
+    },
+    {
+      "seconds": 1,
+      "mean_luma": 99.18,
+      "near_black_fraction": 0.0404,
+      "near_white_fraction": 0.0143
+    },
+    {
+      "seconds": 2,
+      "mean_luma": 100.21,
+      "near_black_fraction": 0.0387,
+      "near_white_fraction": 0.0154
+    },
+    {
+      "seconds": 3,
+      "mean_luma": 100.51,
+      "near_black_fraction": 0.0365,
+      "near_white_fraction": 0.0153
+    },
+    {
+      "seconds": 4,
+      "mean_luma": 100.38,
+      "near_black_fraction": 0.0399,
+      "near_white_fraction": 0.0149
+    },
+    {
+      "seconds": 5,
+      "mean_luma": 103.17,
+      "near_black_fraction": 0.0509,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 6,
+      "mean_luma": 102.43,
+      "near_black_fraction": 0.0491,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 7,
+      "mean_luma": 101.3,
+      "near_black_fraction": 0.0477,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 8,
+      "mean_luma": 69.12,
+      "near_black_fraction": 0.2168,
+      "near_white_fraction": 0.0022
+    },
+    {
+      "seconds": 9,
+      "mean_luma": 69.98,
+      "near_black_fraction": 0.1998,
+      "near_white_fraction": 0.0022
+    },
+    {
+      "seconds": 10,
+      "mean_luma": 70.42,
+      "near_black_fraction": 0.1684,
+      "near_white_fraction": 0.0022
+    },
+    {
+      "seconds": 11,
+      "mean_luma": 71.94,
+      "near_black_fraction": 0.1382,
+      "near_white_fraction": 0.0022
+    },
+    {
+      "seconds": 12,
+      "mean_luma": 72.07,
+      "near_black_fraction": 0.1472,
+      "near_white_fraction": 0.0022
+    },
+    {
+      "seconds": 13,
+      "mean_luma": 104.56,
+      "near_black_fraction": 0.0566,
+      "near_white_fraction": 0.0001
+    },
+    {
+      "seconds": 14,
+      "mean_luma": 104.34,
+      "near_black_fraction": 0.0547,
+      "near_white_fraction": 0.0001
+    },
+    {
+      "seconds": 15,
+      "mean_luma": 104.81,
+      "near_black_fraction": 0.0518,
+      "near_white_fraction": 0.0001
+    },
+    {
+      "seconds": 16,
+      "mean_luma": 119.5,
+      "near_black_fraction": 0.0026,
+      "near_white_fraction": 0.0005
+    },
+    {
+      "seconds": 17,
+      "mean_luma": 114.0,
+      "near_black_fraction": 0.0013,
+      "near_white_fraction": 0.0007
+    },
+    {
+      "seconds": 18,
+      "mean_luma": 106.57,
+      "near_black_fraction": 0.002,
+      "near_white_fraction": 0.0005
+    },
+    {
+      "seconds": 19,
+      "mean_luma": 99.0,
+      "near_black_fraction": 0.0009,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 20,
+      "mean_luma": 90.06,
+      "near_black_fraction": 0.0005,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 21,
+      "mean_luma": 89.92,
+      "near_black_fraction": 0.0012,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 22,
+      "mean_luma": 89.7,
+      "near_black_fraction": 0.0007,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 23,
+      "mean_luma": 88.14,
+      "near_black_fraction": 0.0006,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 24,
+      "mean_luma": 86.0,
+      "near_black_fraction": 0.0011,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 25,
+      "mean_luma": 84.75,
+      "near_black_fraction": 0.0006,
+      "near_white_fraction": 0.0
+    },
+    {
+      "seconds": 26,
+      "mean_luma": 99.05,
+      "near_black_fraction": 0.067,
+      "near_white_fraction": 0.0027
+    },
+    {
+      "seconds": 27,
+      "mean_luma": 96.84,
+      "near_black_fraction": 0.0622,
+      "near_white_fraction": 0.003
+    },
+    {
+      "seconds": 28,
+      "mean_luma": 71.03,
+      "near_black_fraction": 0.0602,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 29,
+      "mean_luma": 70.95,
+      "near_black_fraction": 0.068,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 30,
+      "mean_luma": 70.63,
+      "near_black_fraction": 0.0698,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 31,
+      "mean_luma": 70.71,
+      "near_black_fraction": 0.0684,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 32,
+      "mean_luma": 71.92,
+      "near_black_fraction": 0.0527,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 33,
+      "mean_luma": 73.54,
+      "near_black_fraction": 0.0558,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 34,
+      "mean_luma": 73.51,
+      "near_black_fraction": 0.0677,
+      "near_white_fraction": 0.0025
+    },
+    {
+      "seconds": 35,
+      "mean_luma": 133.14,
+      "near_black_fraction": 0.0938,
+      "near_white_fraction": 0.0041
+    },
+    {
+      "seconds": 36,
+      "mean_luma": 133.28,
+      "near_black_fraction": 0.089,
+      "near_white_fraction": 0.0042
+    },
+    {
+      "seconds": 37,
+      "mean_luma": 132.54,
+      "near_black_fraction": 0.0899,
+      "near_white_fraction": 0.0041
+    },
+    {
+      "seconds": 38,
+      "mean_luma": 132.32,
+      "near_black_fraction": 0.0847,
+      "near_white_fraction": 0.0041
+    },
+    {
+      "seconds": 39,
+      "mean_luma": 132.12,
+      "near_black_fraction": 0.0835,
+      "near_white_fraction": 0.0041
+    },
+    {
+      "seconds": 40,
+      "mean_luma": 104.57,
+      "near_black_fraction": 0.0594,
+      "near_white_fraction": 0.001
+    },
+    {
+      "seconds": 41,
+      "mean_luma": 104.75,
+      "near_black_fraction": 0.0586,
+      "near_white_fraction": 0.0011
+    },
+    {
+      "seconds": 42,
+      "mean_luma": 105.35,
+      "near_black_fraction": 0.0576,
+      "near_white_fraction": 0.0011
+    },
+    {
+      "seconds": 43,
+      "mean_luma": 105.36,
+      "near_black_fraction": 0.0586,
+      "near_white_fraction": 0.0011
+    },
+    {
+      "seconds": 44,
+      "mean_luma": 105.24,
+      "near_black_fraction": 0.0606,
+      "near_white_fraction": 0.0011
+    },
+    {
+      "seconds": 45,
+      "mean_luma": 80.1,
+      "near_black_fraction": 0.0013,
+      "near_white_fraction": 0.0073
+    },
+    {
+      "seconds": 46,
+      "mean_luma": 79.89,
+      "near_black_fraction": 0.0017,
+      "near_white_fraction": 0.0074
+    },
+    {
+      "seconds": 47,
+      "mean_luma": 79.38,
+      "near_black_fraction": 0.0011,
+      "near_white_fraction": 0.0075
+    },
+    {
+      "seconds": 48,
+      "mean_luma": 78.64,
+      "near_black_fraction": 0.0014,
+      "near_white_fraction": 0.0076
+    },
+    {
+      "seconds": 49,
+      "mean_luma": 78.45,
+      "near_black_fraction": 0.0009,
+      "near_white_fraction": 0.0075
+    }
+  ]
+}

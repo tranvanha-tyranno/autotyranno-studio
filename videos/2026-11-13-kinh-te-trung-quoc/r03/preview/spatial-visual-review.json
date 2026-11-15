@@ -1,0 +1,90 @@
+{
+  "schema": "china-variety-spatial-preview-review/1",
+  "recordedUTC": "2026-11-13T06:38:44.685943+00:00",
+  "moduleSHA256": "d3441bb2ef6fb6b67527c619139240e6dac122fd5c0c2f64f5d58c29d0097567",
+  "actualViewed": [
+    "spatial-contact-1.jpg",
+    "spatial-contact-2.jpg"
+  ],
+  "reviewedActualMidpoints": 10,
+  "items": [
+    {
+      "id": "o01",
+      "file": "o01.jpg",
+      "sha256": "851bc28a7daabe928bffa87660f0091538139711e6bb2acda67a37f4ad11b3fe",
+      "observed": "Actualupdatednative1080ppreview: house/family clearlyvisibleatmidpoint, separatedfromport/trainset; labels fit withoutcaptionoverlap.",
+      "previousPreviewSHA256": "f82413ca8bc65c57a596689d5faf53d3c56c49cf45b6f8adf5e894fda80b7af6"
+    },
+    {
+      "id": "f01",
+      "file": "f01.jpg",
+      "sha256": "ff60107d6625a96b69b219d6d05315a5f2d553dd909cf1f0ab96ae5b79d46785",
+      "observed": "Actualupdatednativepreview: realNaturalEarthCHNoutlineinset visible besidecity/factory/logistics/port; sourcecredit andnot-to-scalephysicalillustrationnote readable. NoChineseannotation remains.",
+      "previousPreviewSHA256": "990773bf4e31dad85084dc3c80137986c2d8726359be3ee40867a540d4220965"
+    },
+    {
+      "id": "f02",
+      "file": "f02.jpg",
+      "sha256": "352977d601d403025d2e5907f8d46b52f4b96192dd21423910a02fea0b564fb4",
+      "observed": "Actualupdatednativepreview: Vỏ/Linh kiện/Lắp ráp labels nowreadable atmidpoint; explodedlayeredgepartsandtablefit; noheader/captioncollision.",
+      "previousPreviewSHA256": "df3d151bd583f154a08c47d293012e9f456d55fc76171b5a49dcfb62e501de2a"
+    },
+    {
+      "id": "f03",
+      "file": "f03.jpg",
+      "sha256": "5083ba681f9c818fc2c6fdc61c2ea26317a2f824ac452dfff5e0b1e52b4767b8",
+      "observed": "Separate supplier/assembly/training/repair buildings arranged aroundroads; provider labels remain clear and do not overlap title/caption."
+    },
+    {
+      "id": "f04",
+      "file": "f04.jpg",
+      "sha256": "68d5e551ba27fdb59727ea8c516efc131891e1331d1aff78f4a0600b0ef8f85d",
+      "observed": "Eight storage slots and orderclipboard are readable; five accentboxes vs3muted clearly show hypothetical capacity/demand difference."
+    },
+    {
+      "id": "r01",
+      "file": "r01.jpg",
+      "sha256": "78bb9252624a4369bcdc15c1feeff51220400221ea0e7c71b531d61e71a71b2c",
+      "observed": "Apartment cutaway surrounded by household, municipality, bank and contractor/truck instead of generic nodecards; role labels fit below actors."
+    },
+    {
+      "id": "r02",
+      "file": "r02.jpg",
+      "sha256": "331b3a1abeaa9db59c3ebc070a237947facd061201ba4d6d2aac36df1f52fa74",
+      "observed": "Buyer, escrow safe, building skeleton and delayedinvoice/calendar occupy separated zones; no repeated propertyhouses or placeholder1."
+    },
+    {
+      "id": "r03",
+      "file": "r03.jpg",
+      "sha256": "d0dfdd256269c082502253126305e290aaef4661cedd27aa4402897950208ed5",
+      "observed": "Building floors, crane and waitinghousehold are distinct fromescrowshot. Buyerlabel/craneannotation fit insidecontentarea."
+    },
+    {
+      "id": "d04",
+      "file": "d04.jpg",
+      "sha256": "49c28c315a7c5c6f1978703d54482dbbb1f670ec7c8ab5def192fb5a6af8dab1",
+      "observed": "Human, open skillsbook, toolarm and processboard occupy workbench, with productboxes; demonstrates skills/tool/process rather than more machines onconveyor."
+    },
+    {
+      "id": "p04",
+      "file": "p04.jpg",
+      "sha256": "6c44f75ad6f1d0baadb85efbca844085c3244390a0c709f21ad8ff6e6ee70be7",
+      "observed": "Physicalfactory comparison shows truck/buyers onleft and emptysite/idlefactory onright; labels readable withoutdonut/ribbon."
+    }
+  ],
+  "pendingRecapture": [],
+  "sourceFixes": "Recapturedandactuallyviewedallthreefixes. Sourcefrozen; nofurtherchanges.",
+  "scope": "Actualmidpointstills only, notcontinuousmotion/audio oruserapproval.",
+  "status": "sampled-preview-observations-recorded-no-blocker",
+  "updatedUTC": "2026-11-13T06:41:35.463942+00:00",
+  "actualViewedUpdatedNative": [
+    "o01.jpg",
+    "f01.jpg",
+    "f02.jpg"
+  ],
+  "limitations": [
+    "Midpointstillinspectiondoesnotestablishsmoothmotionoverentire10minoraudioquality.",
+    "Figuresinwarehouseandconstructionareillustrative, notmeasuredeconomydata.",
+    "DrawnspatialobjectsareSVG2.5D, notrealfootageorThree.js."
+  ]
+}

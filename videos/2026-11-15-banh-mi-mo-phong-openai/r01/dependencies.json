@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "workflows/reference-video/cinematic/src/bread-lab-entry.tsx": "d0d16a0d9089331388696778085a5a9211a27c6fd856cd227f1a03b17ef92382",
+    "workflows/reference-video/bread_lab.py": "9a2b8777c0f403ad9820219abf1b1a99f84b2b7f3b2eb25a8b03504d1eba56b9",
+    "workflows/reference-video/cinematic/package-lock.json": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c",
+    "workflows/reference-video/cinematic/src/bread-lab/BasketScope.tsx": "6b3a2fa677777931408f85bb4aad936f413413a20184491f33220511096721b6",
+    "workflows/reference-video/cinematic/src/bread-lab/BreadPower.tsx": "ed05fa89d48d3ddb91cbb9bcbe029e515ddd09e09bb8a9123343e3798c303aa0",
+    "workflows/reference-video/cinematic/src/bread-lab/common.tsx": "2569810cceea23576d5fc4f75e057250e4a307261aa38fec7c8882815ae12df1",
+    "workflows/reference-video/cinematic/src/bread-lab/Competition.tsx": "f1d3b161416c72b668124388b5dea7fb77f4deba2e9695a05038906f2d468bde",
+    "workflows/reference-video/cinematic/src/bread-lab/CostLedger.tsx": "8d0cf54e801ef81fb1272af760559035316ca6ee29e1789aa5eb7d7a76cb56d6",
+    "workflows/reference-video/cinematic/src/bread-lab/fonts.css": "3c9e94bf0564ce54f7b918904aeaa04ebdce25ac82270407db0e2c233a143400",
+    "workflows/reference-video/cinematic/src/bread-lab/index.tsx": "3d25e531cdb2b74cec597da7c564bf03d52866b1b95f7ab85d4f0bf342de29af",
+    "workflows/reference-video/cinematic/src/bread-lab/Inventory.tsx": "b1f5351fbb813aa5188d21f47724929f4456f51d0b2f48ae4387c746db395356",
+    "workflows/reference-video/cinematic/src/bread-lab/MoneySplit.tsx": "bb6dcadea9f850e87784e1f9970db2127dd4863c9d9c4133a52bde961f59a92b",
+    "workflows/reference-video/cinematic/src/bread-lab/PriceLevel.tsx": "a6506bad734ac7d5c1a6d50c28748c52694749208aca0e5c16eb237d73b7b4ab",
+    "workflows/reference-video/cinematic/src/bread-lab/Synthesis.tsx": "0b7b6cd8640776a15946d3c6e34d25d947e087e1b65d04ebf4ca7bf472a6906d",
+    "workflows/reference-video/cinematic/src/bread-lab/types.ts": "b39bb55c751699e9d41bb5ccd09f71622aa27803be8965cf03bff3fbd8d44550"
+  },
+  "planSHA256": "3ad5c0237c2ba0aaf3c9e072b0f9b29d985af357243ece996f454b544891bcdf",
+  "mixSHA256": "9b406467897032f2b10eaca830fa65316c42949cf1fbaf0e33afb450f668c116"
+}

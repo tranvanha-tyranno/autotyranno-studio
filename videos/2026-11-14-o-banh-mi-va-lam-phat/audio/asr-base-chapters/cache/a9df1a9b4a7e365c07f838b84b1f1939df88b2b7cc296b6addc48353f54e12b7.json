@@ -1,0 +1,166 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "a9df1a9b4a7e365c07f838b84b1f1939df88b2b7cc296b6addc48353f54e12b7",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "75ebeece175becb5b9f71ab52cd3748dc19fedd5970c125e0f9dc85e89bde739",
+    "startFrame": 0,
+    "endFrameExclusive": 1749,
+    "expectedSHA256": "b33a769a33cd3dac5e9af384747c9818c2d48280d6b0122cdeae4aacdbf1b67d",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "to-bang-gia",
+  "expected": "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu? Chị Hạnh và tiệm bánh là hư cấu. Giá, chi phí, lương và tỷ lệ đều để minh họa, không phải số liệu thị trường hiện tại. Video giải thích kinh tế phổ thông, không phải tư vấn tài chính cá nhân. Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh. Nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê. Bảng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình. Hai câu hỏi dễ bị trộn: hàng hóa đắt đến đâu, và giá đang tăng nhanh đến mức nào? Một câu nói về mặt bằng giá. Câu còn lại nói về tốc độ thay đổi của mặt bằng ấy. Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát. Tiệm có thể đổi nhân, kích cỡ hoặc vị trí. Lạm phát nói đến mức tăng giá rộng hơn của nhiều hàng hóa và dịch vụ.",
+  "recognized": "ổ bánh mì tăng từ 20 lên 22.000. Nghe tin lạng phát giảm, khách quay lại, giá vẫn cao. Chỉ hạnh bản bánh cũng chẳng phải mình dâu hơn, và ý tiền năng mắt ở đâu. Chỉ hạnh và tiện bánh là hư cấu, giá, chí phí, lương và tỉ lệ đều để minh hoạ, không phải số liệu tị trường hiện tại. Video giải thích kinh tế phổ thông, không phải từ vấn tại trình cá nhân. Hát chỉ nhìn thấy tiền phải trả cho một ổ bánh, nhưng phía sau quay còn có bột, nhân, điện, vận chuyển và tiền thuyền, bằng giá nằm ở quấy một chối quyết định chỉ không tự xuất hiện một mình. Hãy co hỏi dế bị chốt, hàng hóa đất đến đâu và giá đăng tăng ngành đến mức nào. Một cơ nói về mặt bằng giá, câu còn lại nói về tốc độ thay đổi của mặt bằng ấy. Giá một ổ bánh tăng chưa đủ để cái luận cả nên kinh tế lạm phát, Tiệm có thể đổi nhân, kích cơ, hoặc vị trí, lạp phát nói đến mức tăng giá dọng hơn của nhiều hàng hóa và dịch bụng.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": " ổ bánh mì tăng từ 20 lên 22.000.",
+      "globalStart": 0.0,
+      "globalEnd": 2.88
+    },
+    {
+      "start": 3.48,
+      "end": 6.8,
+      "text": " Nghe tin lạng phát giảm, khách quay lại, giá vẫn cao.",
+      "globalStart": 3.48,
+      "globalEnd": 6.8
+    },
+    {
+      "start": 6.8,
+      "end": 9.46,
+      "text": " Chỉ hạnh bản bánh cũng chẳng phải mình dâu hơn,",
+      "globalStart": 6.8,
+      "globalEnd": 9.46
+    },
+    {
+      "start": 9.46,
+      "end": 11.14,
+      "text": " và ý tiền năng mắt ở đâu.",
+      "globalStart": 9.46,
+      "globalEnd": 11.14
+    },
+    {
+      "start": 11.14,
+      "end": 17.42,
+      "text": " Chỉ hạnh và tiện bánh là hư cấu, giá, chí phí, lương và tỉ lệ đều để minh hoạ,",
+      "globalStart": 11.14,
+      "globalEnd": 17.42
+    },
+    {
+      "start": 17.42,
+      "end": 19.54,
+      "text": " không phải số liệu tị trường hiện tại.",
+      "globalStart": 17.42,
+      "globalEnd": 19.54
+    },
+    {
+      "start": 19.54,
+      "end": 23.68,
+      "text": " Video giải thích kinh tế phổ thông, không phải từ vấn tại trình cá nhân.",
+      "globalStart": 19.54,
+      "globalEnd": 23.68
+    },
+    {
+      "start": 23.68,
+      "end": 26.38,
+      "text": " Hát chỉ nhìn thấy tiền phải trả cho một ổ bánh,",
+      "globalStart": 23.68,
+      "globalEnd": 26.38
+    },
+    {
+      "start": 26.38,
+      "end": 31.64,
+      "text": " nhưng phía sau quay còn có bột, nhân, điện, vận chuyển và tiền thuyền,",
+      "globalStart": 26.38,
+      "globalEnd": 31.64
+    },
+    {
+      "start": 31.64,
+      "end": 35.76,
+      "text": " bằng giá nằm ở quấy một chối quyết định chỉ không tự xuất hiện một mình.",
+      "globalStart": 31.64,
+      "globalEnd": 35.76
+    },
+    {
+      "start": 35.76,
+      "end": 41.66,
+      "text": " Hãy co hỏi dế bị chốt, hàng hóa đất đến đâu và giá đăng tăng ngành đến mức nào.",
+      "globalStart": 35.76,
+      "globalEnd": 41.66
+    },
+    {
+      "start": 41.66,
+      "end": 46.8,
+      "text": " Một cơ nói về mặt bằng giá, câu còn lại nói về tốc độ thay đổi của mặt bằng ấy.",
+      "globalStart": 41.66,
+      "globalEnd": 46.8
+    },
+    {
+      "start": 46.8,
+      "end": 50.84,
+      "text": " Giá một ổ bánh tăng chưa đủ để cái luận cả nên kinh tế lạm phát,",
+      "globalStart": 46.8,
+      "globalEnd": 50.84
+    },
+    {
+      "start": 50.84,
+      "end": 58.24,
+      "text": " Tiệm có thể đổi nhân, kích cơ, hoặc vị trí, lạp phát nói đến mức tăng giá dọng hơn của nhiều hàng hóa và dịch bụng.",
+      "globalStart": 50.84,
+      "globalEnd": 58.24
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 13.858,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\01-to-bang-gia-4eaccca90ad5f2a5.wav",
+  "chunk": {
+    "chunkKey": "4eaccca90ad5f2a5d5db55ad0168abe47b0ec9cdb82ec36c3aae980a759d1425",
+    "sha256": "75ebeece175becb5b9f71ab52cd3748dc19fedd5970c125e0f9dc85e89bde739",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 932800,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 0,
+    "sourceEndSampleExclusive": 2798400,
+    "sourceSampleRate": 48000,
+    "seconds": 58.3,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8108,
+    "expectedTokenCoverage": 0.8128,
+    "expectedTailTokenCoverage": 0.84,
+    "expectedTokens": 203,
+    "observedTokens": 204,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

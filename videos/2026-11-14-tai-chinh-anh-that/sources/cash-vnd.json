@@ -1,0 +1,30 @@
+{
+  "id": "cash-vnd",
+  "pexelsID": 34944540,
+  "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+  "creator": "Nguyễn Tiến Thịnh",
+  "theme": "cash",
+  "documentedLocation": "Vietnam",
+  "locationEvidence": "Pexels primary photo page location field",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/cash-vnd.jpg",
+  "downloadURL": "https://images.pexels.com/photos/34944540/pexels-photo-34944540.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "7e57a63b3565c24543918ed295a5e667c5de2cc0e9c0a3b5bf0694be0364a8a0",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

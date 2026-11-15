@@ -1,0 +1,7 @@
+Bạn giao cho AI viết một email chào hàng. Vài giây sau, bản nháp đã nằm trên màn hình. Nhưng nếu nó hứa sai một tính năng, ai là người phải trả lời khách? Nhanh thì có nhanh. Nhưng công việc đã xong, hay mới chuyển sang một người khác ngồi sửa?
+
+Đây là tình huống minh họa để bàn về công việc, không phải dự báo nghề nghiệp của từng người.
+
+Cứ nhìn một email tưởng như rất đơn giản. Trước khi viết, bạn phải hiểu sản phẩm, biết người đọc đang cần gì và chọn điều có thể cam kết. Sau khi viết, bạn còn phải kiểm tra số liệu, sửa giọng điệu, rồi theo dõi phản hồi. AI có thể hỗ trợ bản nháp. Nhưng bản nháp chưa phải kết quả cuối cùng. Một câu nghe trơn tru vẫn có thể thiếu bối cảnh. Một bảng nhìn rất gọn vẫn cần đối chiếu với tài liệu gốc. Thử tách công việc thành ba phần: tạo bản đầu, kiểm tra, và quyết định. Đừng gom cả ba vào một nút gửi. Chỗ đáng nâng cấp không chỉ là viết nhanh hơn, mà là phát hiện sai sớm hơn. Ngày mai, chọn một việc nhỏ, như nháp email bằng dữ liệu giả định. Ghi lại thời gian viết, thời gian sửa và lỗi còn sót. Nếu tổng thời gian không giảm, hoặc bạn không kiểm tra nổi, hãy đổi cách giao việc. Đừng gọi một thao tác nhanh hơn là năng suất cao hơn.
+
+Bạn sẽ giao phần nào cho AI, và giữ phần nào tự kiểm tra? Bình luận một công việc cụ thể. Đăng ký TYRANNO để cùng bóc tách thử nghiệm tiếp theo.

@@ -1,0 +1,22 @@
+{
+  "duration_seconds": 10.01,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 300,
+  "audio": "AAC, new Vietnamese Adam narration",
+  "full_decode": "passed",
+  "sampled_times": [
+    0.5,
+    1.8,
+    3.5,
+    4.6,
+    5.7,
+    7.0,
+    8.6,
+    9.6
+  ],
+  "file_bytes": 9425446,
+  "subtitle_timing": "Whisper word timestamps, exact script text, six phrase groups",
+  "limitations": "General economic mechanism; illustrative stock scenes are not asserted to show China or a particular market event. No copied channel branding, footage, or original narration."
+}

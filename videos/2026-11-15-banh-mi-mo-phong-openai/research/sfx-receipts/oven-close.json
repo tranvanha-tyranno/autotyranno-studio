@@ -1,0 +1,44 @@
+{
+  "id": "oven-close",
+  "file": "audio/sfx/downloaded/oven-close.mp3",
+  "sha256": "f752776b3b33265f7ac884db41d97fa4402c60272b778be3f86fa8620bdc2d84",
+  "bytes": 12288,
+  "durationSeconds": 0.48,
+  "sourceURL": "https://freesound.org/people/TiesWijnen/sounds/455538/",
+  "downloadURL": "https://cdn.freesound.org/previews/455/455538_1511977-hq.mp3",
+  "creator": "TiesWijnen",
+  "sourceTitle": "Oven door",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Small oven door slammed shut",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "oven",
+    "hit"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b02",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b12",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/oven-close.html",
+    "htmlSHA256": "e52e434fd41f941230362ffcdf50592de9ae37e065e2e43b9a212977afaf9ec6",
+    "text": "research/sfx-source-pages/oven-close.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Small oven door slammed shut by TiesWijnen, Freesound #455538, CC0 1.0: https://freesound.org/people/TiesWijnen/sounds/455538/"
+}

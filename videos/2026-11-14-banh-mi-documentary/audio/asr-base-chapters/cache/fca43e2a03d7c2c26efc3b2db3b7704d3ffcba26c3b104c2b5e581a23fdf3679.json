@@ -1,0 +1,239 @@
+{
+  "schema": "bread-documentary-chapter-asr/1",
+  "requestHash": "fca43e2a03d7c2c26efc3b2db3b7704d3ffcba26c3b104c2b5e581a23fdf3679",
+  "request": {
+    "sourceSHA256": "6714b8b2cee745ae9b7b5bfe3254af315d5f4730297dad42051a3729c72af2bd",
+    "audioSHA256": "a17b169a263cba493d8077e0d775b0fd9fb3c3bb351d755d1c89a43f8269e1e6",
+    "scriptSHA256": "acf8630a26017e6ae9b6abb16dcade7b2162f4dcbb207c60d7aff77060fcaa45",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1",
+      "source": "exact individual narration takes; no music",
+      "numberCheck": "explicit illustrative number phrases within each chapter; not exact local alignment"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "hai-nghin-di-dau",
+  "expected": "Ổ bánh tăng hai nghìn. Nhưng người bán lại giữ được ít hơn năm trăm đồng. Khách thấy đắt, chủ tiệm cũng thấy hụt. Trong khi đó, bản tin bảo lạm phát đã giảm. Vì sao cả hai vẫn thấy khó hơn?\n\nThử theo một ngày ở tiệm bánh giả định của chị Hạnh. Ta đặt các con số đơn giản vào tiệm này để lần theo số tiền vừa tăng. Chìa khóa nằm ở ba thứ thường bị nhìn riêng: bảng giá, hóa đơn đầu vào, và tiền người mua kiếm được.\n\nTrước lần đổi bảng, một ổ bán hai mươi nghìn. Nguyên liệu và những khoản thay đổi theo lượng bánh hết mười hai nghìn. Tiền thuê cùng chi phí cố định được chia ra năm nghìn một ổ, ở lượng bán đang giả định. Còn ba nghìn.\n\nKhoan gọi ba nghìn ấy là tiền bỏ túi. Mô hình còn chưa tính đủ thuế, khấu hao và công của chủ tiệm. Cứ giữ cách tính ấy để so trước với sau, rồi nhìn hóa đơn mới chị Hạnh vừa nhận.\n\nCùng một ổ bánh, phần chi phí biến đổi giờ thành mười bốn nghìn năm trăm. Nếu giữ giá cũ, khoảng còn lại chỉ còn năm trăm đồng. Chị Hạnh đổi bảng lên hai mươi hai nghìn. Khách trả thêm hai nghìn; nhưng đầu vào đã tăng hai nghìn năm trăm.\n\nKết quả: từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm trên một ổ. Hai nghìn tăng thêm không biến mất. Nó chưa bù hết phần chi phí tăng. Giá bán đi lên mà khoảng dư vẫn co lại. Chỉ nhìn tấm bảng, khách không thể biết điều đó.\n\nĐấy là chuyện của tiệm trong ví dụ. Tiệm khác có thể giữ giá, giảm phần dư, hoặc tăng được lãi; muốn kết luận phải có sổ thật. Nhưng người khách vẫn có lý do để hỏi chị Hạnh: nếu lạm phát đang giảm, tại sao bảng giá không quay về hai mươi nghìn?",
+  "recognized": "Ở bánh tăng 2.000, nhưng người bán lại giữ được ít hơn 500 đồng. Khách thấy đắc, chủ tiền cũng thấy hục. Trong khi đó, bản tin bảo làm phát đã giảm. Vì sau cả 2 vận thấy khó hơn, thứ theo 1 ngày ở tiền bánh giả định của chi hành. Ta đặt các con số đơn giản vào tiền này để lần theo số tiền vừa tăng. Chì khoá nằm ở 3 thứ thường bị nhìn riêng, bản giá, hóa đơn đầu vào, và tiền người mua kiếm được. Trước lần đổi bản, một ổ bán 20.000. Nguyên liệu và những khoảng thay đổi theo lượng bán hết 12.000. Tuyện thuê cùng chi phí cố định được chia ra 5.000 mục ổ, ở lượng bán đang giả định. Còn 3.000. Hoang gọi 3.000 ấy là tiền bỏ tui. Mô hình còn chưa tính đủ thuế, khổ hào và công của chủ tiệm. Cứ dự cách tính ấy để xò trước với sau, đồ nhìn hoá đơn mới chỉ hành vừa nhận. Cùng một ổ bánh phần chi phí biến đổi giờ thành 14.500. Nếu dự giác cụ khoảng còn lại chỉ còn 500 đồng. Chì hành đổi bản lên 22.000. Khách trả thêm 2.000, nhưng đầu vào đã tăng 2.500. Cách quá từ 3.000, tìm chỉ còn 2.500 trên 1 ổ 2.000 tăng thêm không biến mức. Nói chưa buồn hết phần chi phí tăng. Giả bản đi lên mà khoảng dư vẫn có lại. Chỉ nhiên tấm bản, khách không thể biết điều đó. Đấy là chuyện của tìm trong ví dụ. Tìm khác có thể giữ giá, giảm phần dư, hoặc tăng được lấy, muốn kết lượng phải có số thật. Nhưng người khách vẫn có lý do để hỏi chỉ hành, nếu làm phát đang giảm tại sao bản giá không quay về 20.000.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.14,
+      "text": " Ở bánh tăng 2.000, nhưng người bán lại giữ được ít hơn 500 đồng."
+    },
+    {
+      "start": 5.14,
+      "end": 7.94,
+      "text": " Khách thấy đắc, chủ tiền cũng thấy hục."
+    },
+    {
+      "start": 7.94,
+      "end": 11.24,
+      "text": " Trong khi đó, bản tin bảo làm phát đã giảm."
+    },
+    {
+      "start": 11.24,
+      "end": 13.72,
+      "text": " Vì sau cả 2 vận thấy khó hơn,"
+    },
+    {
+      "start": 13.72,
+      "end": 17.0,
+      "text": " thứ theo 1 ngày ở tiền bánh giả định của chi hành."
+    },
+    {
+      "start": 17.0,
+      "end": 21.06,
+      "text": " Ta đặt các con số đơn giản vào tiền này để lần theo số tiền vừa tăng."
+    },
+    {
+      "start": 21.06,
+      "end": 27.26,
+      "text": " Chì khoá nằm ở 3 thứ thường bị nhìn riêng, bản giá, hóa đơn đầu vào, và tiền người mua kiếm được."
+    },
+    {
+      "start": 27.26,
+      "end": 30.3,
+      "text": " Trước lần đổi bản, một ổ bán 20.000."
+    },
+    {
+      "start": 30.3,
+      "end": 34.0,
+      "text": " Nguyên liệu và những khoảng thay đổi theo lượng bán hết 12.000."
+    },
+    {
+      "start": 34.0,
+      "end": 37.24,
+      "text": " Tuyện thuê cùng chi phí cố định được chia ra 5.000 mục ổ,"
+    },
+    {
+      "start": 37.24,
+      "end": 39.04,
+      "text": " ở lượng bán đang giả định."
+    },
+    {
+      "start": 39.04,
+      "end": 40.800000000000004,
+      "text": " Còn 3.000."
+    },
+    {
+      "start": 40.800000000000004,
+      "end": 43.620000000000005,
+      "text": " Hoang gọi 3.000 ấy là tiền bỏ tui."
+    },
+    {
+      "start": 43.620000000000005,
+      "end": 47.68000000000001,
+      "text": " Mô hình còn chưa tính đủ thuế, khổ hào và công của chủ tiệm."
+    },
+    {
+      "start": 47.68000000000001,
+      "end": 50.040000000000006,
+      "text": " Cứ dự cách tính ấy để xò trước với sau,"
+    },
+    {
+      "start": 50.040000000000006,
+      "end": 52.52,
+      "text": " đồ nhìn hoá đơn mới chỉ hành vừa nhận."
+    },
+    {
+      "start": 52.52,
+      "end": 56.68000000000001,
+      "text": " Cùng một ổ bánh phần chi phí biến đổi giờ thành 14.500."
+    },
+    {
+      "start": 56.68000000000001,
+      "end": 60.540000000000006,
+      "text": " Nếu dự giác cụ khoảng còn lại chỉ còn 500 đồng."
+    },
+    {
+      "start": 60.540000000000006,
+      "end": 63.260000000000005,
+      "text": " Chì hành đổi bản lên 22.000."
+    },
+    {
+      "start": 63.260000000000005,
+      "end": 67.26,
+      "text": " Khách trả thêm 2.000, nhưng đầu vào đã tăng 2.500."
+    },
+    {
+      "start": 67.26,
+      "end": 73.2,
+      "text": " Cách quá từ 3.000, tìm chỉ còn 2.500 trên 1 ổ 2.000 tăng thêm không biến mức."
+    },
+    {
+      "start": 73.2,
+      "end": 75.92,
+      "text": " Nói chưa buồn hết phần chi phí tăng."
+    },
+    {
+      "start": 75.92,
+      "end": 78.98,
+      "text": " Giả bản đi lên mà khoảng dư vẫn có lại."
+    },
+    {
+      "start": 78.98,
+      "end": 82.28,
+      "text": " Chỉ nhiên tấm bản, khách không thể biết điều đó."
+    },
+    {
+      "start": 82.28,
+      "end": 84.8,
+      "text": " Đấy là chuyện của tìm trong ví dụ."
+    },
+    {
+      "start": 84.8,
+      "end": 90.56,
+      "text": " Tìm khác có thể giữ giá, giảm phần dư, hoặc tăng được lấy, muốn kết lượng phải có số thật."
+    },
+    {
+      "start": 90.56,
+      "end": 96.84,
+      "text": " Nhưng người khách vẫn có lý do để hỏi chỉ hành, nếu làm phát đang giảm tại sao bản giá không quay về 20.000."
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 9.185,
+  "chapterAudio": "audio/asr-base-chapters/chunks/01-hai-nghin-di-dau-d954a4a2a734472e.wav",
+  "audio": {
+    "sourceSHA256": "6714b8b2cee745ae9b7b5bfe3254af315d5f4730297dad42051a3729c72af2bd",
+    "sha256": "a17b169a263cba493d8077e0d775b0fd9fb3c3bb351d755d1c89a43f8269e1e6",
+    "seconds": 97.152,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "scope": "Complete individual take resampled, no time stretching or mix."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8338,
+    "expectedTokenCoverage": 0.8338,
+    "expectedTailTokenCoverage": 0.84,
+    "expectedTokens": 337,
+    "observedTokens": 337,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission.",
+    "numberPhrases": [
+      {
+        "expectedPhrase": "hai mươi nghìn",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "mười hai nghìn",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "năm nghìn",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "ba nghìn",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "mười bốn nghìn năm trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "hai mươi hai nghìn",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "hai nghìn năm trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "năm trăm",
+        "foundSomewhereInChapter": true
+      }
+    ],
+    "numberPhrasesNotFound": [],
+    "expectedFinalSentence": "Nhưng người khách vẫn có lý do để hỏi chị Hạnh: nếu lạm phát đang giảm, tại sao bảng giá không quay về hai mươi nghìn?",
+    "finalSentenceExactNormalizedMatch": false,
+    "requiresReview": true,
+    "lexicalLimits": "Number checks search the chapter, not the corresponding speech location. A match cannot prove every number was spoken in its intended order; a missing phrase can be an ASR mistake. Final-sentence normalization can also fail on harmless recognition differences. This is not prosody assessment."
+  },
+  "cacheHit": false,
+  "continuousListening": false,
+  "aestheticApproval": false
+}

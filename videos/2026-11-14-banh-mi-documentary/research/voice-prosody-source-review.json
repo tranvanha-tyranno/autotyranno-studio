@@ -1,0 +1,45 @@
+{
+  "schema": "voice-prosody-source-review/1",
+  "checkedDate": "2026-11-15",
+  "purpose": "Improve delivery of the same approved Nhật Phong voice before generating the new documentary take.",
+  "sources": [
+    {
+      "url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+      "publisher": "ElevenLabs",
+      "observations": [
+        "The guide applies its voice selection, audio-tag and punctuation advice to Eleven v3.",
+        "Eleven v3 does not support SSML break tags. Standard punctuation, text structure and audio tags can influence pacing.",
+        "Ellipses can add pauses; capitals can increase emphasis. Tags should suit the chosen voice and require representative testing."
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech",
+      "publisher": "ElevenLabs",
+      "observations": [
+        "The source recommends writing numbers as words to reduce multilingual reading ambiguity and using correct formatting.",
+        "Voice/model and source-language fit matter. Higher stability can sound monotonous, while lower stability can yield unstable delivery. A value around 50 is presented as a common starting point, not a quality guarantee.",
+        "The page says v3 speed and similarity are unavailable in their individual sections, but a later speed FAQ makes a broader claim. Treat this as a documentation inconsistency, not evidence that a particular API/backend setting changed performance."
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elevenlabs/skills/main/text-to-speech/references/voice-settings.md",
+      "publisher": "ElevenLabs official GitHub repository",
+      "observations": [
+        "The settings reference describes stability variation, normal speed at 1.0, incremental changes, and representative tests.",
+        "It says style and speed work with v2/v3, which differs from the playground page's v3-specific speed statement."
+      ]
+    }
+  ],
+  "appliedEditorialChoices": [
+    "Keep voice 6adFm46eyy74snVn6YrT, eleven_v3, language vi and the pinned project settings stability 0.5, similarity_boost 0.8, speed 1.0.",
+    "Use plain Vietnamese with numbers written out, complete short contrast sentences, real questions and paragraph breaks. Avoid SSML or untested emotional tags in every line.",
+    "Freeze the exact spoken text before request/alignment. Do not speed up the resulting voice or video to change delivery.",
+    "Punctuation guidance is a production choice, not a claim that this particular output is expressive. Actual speech still needs listening feedback."
+  ],
+  "verificationLimits": [
+    "No paid generation was made by this reviewer.",
+    "No Vietnamese-specific prosody guarantee or current primary-source mapping of 0.5 to a named Natural mode was established in the pages inspected.",
+    "No listening/input audio analysis tool was exposed in this reviewer's callable tool inventory. Playback in a UI or Markdown does not establish agent listening.",
+    "Local faster-whisper base and small caches and the faster_whisper package are present. ASR can diagnose word/number/tail coverage, but cannot establish natural expression, emphasis or voice quality."
+  ]
+}

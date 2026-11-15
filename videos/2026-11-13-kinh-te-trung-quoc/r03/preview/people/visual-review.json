@@ -1,0 +1,181 @@
+{
+  "schema": "china-variety-people-preview-review/1",
+  "recordedUTC": "2026-11-13T06:37:35.152897+00:00",
+  "reviewer": "variety_people",
+  "scope": "Actual14midpointstillsgeneratedthroughisolatedPeoplePreviewmatchingrootheaderandpalette;2contactsheetsviewedall14,criticalnativeframesandcorrectiondeltasviewed. Notcontinuousmotion/audioreview oruserapproval.",
+  "shotIds": [
+    "r05",
+    "r07",
+    "h01",
+    "h02",
+    "h03",
+    "h05",
+    "h06",
+    "h07",
+    "h08",
+    "d01",
+    "d02",
+    "d03",
+    "d06",
+    "p05"
+  ],
+  "contactSheetsViewed": [
+    "contact-1.jpg",
+    "contact-2.jpg"
+  ],
+  "nativeViewed": [
+    "h03.jpg",
+    "h06.jpg",
+    "r05.jpg",
+    "d01.jpg",
+    "h03-corrected.jpg",
+    "d02-corrected.jpg",
+    "d06-corrected.jpg",
+    "d03-corrected.jpg",
+    "r05-final-50.jpg",
+    "h02-final-50.jpg",
+    "d03-final-20.jpg",
+    "d03-final-65.jpg",
+    "h03-freeze.jpg",
+    "r05-freeze.jpg",
+    "h02-freeze.jpg"
+  ],
+  "resolvedBeforeFreeze": [
+    "h03categorylabelsintersectedtableedge;placedinsidephysicaljarstickerwithopaquebackplate,verifiedfreezeimage.",
+    "d06personandcubeshadwrongstairheight;attachedfeetandcubeoriginstophysicalsteps,verifiedcorrectedimage.",
+    "d02age65labelappearedlaterthanmidpointphrase;both60+and65+nowvisibleatmidpoint,verifiedcorrectedimage.",
+    "r05/h02/d03seatedhumanpose/tabledepthcorrectedwithchairsandforegroundtable.",
+    "d03parkphotohadcarelabelunderit;whilephotoappearslabelnowreadsĐờisốngngườicaotuổi,thenseparateillustratedcareafterfade. ActualJingshancontextphotodisplaysat20%,verifiedactualpixels."
+  ],
+  "observations": [
+    "14compositionsdifferinobjects/action:decisiondesk,apartmentcompletion,store/payrolltown,householdconditions,allocationjars,differingbaskets,nestedscopelayers,safetynetbridge,warehousebottleneck,populationgrid,ageruler,lifecourseroom,trainingstairs,incometoshop.",
+    "100partallocationexplicitlyhypothetical;50/25/25numbersnotascribedtoChina.",
+    "d01shows100pictogramswith23oldergroupand77others;60+andend2025explicit.",
+    "Longheadlinesfit;noheader/captioncollisioninreviewedmidpoints.",
+    "Mainillustrationgeometryinside250..844withcaptionreservedbelow."
+  ],
+  "blockingIssuesRemaining": [],
+  "limitations": [
+    "Sharedhuman/shop/houseprimitivespreservestyle;theyarenot14unrelatedvisualartstyles.",
+    "Previewentryclonesrootheader;centralfullcompositionmuststillbereviewedafterrender.",
+    "Earliercontactimagesretainpre-correctionstate;corrected/freezeimagesareseparatelynamed."
+  ],
+  "sourceHashes": [
+    {
+      "file": "workflows/reference-video/cinematic/src/china-v2/PeopleScenes.tsx",
+      "sha256": "1e2e3101fdafeb1076e79d8d5e0f5e91fb5307601ce199b74deaa179d0395cc8"
+    },
+    {
+      "file": "workflows/reference-video/cinematic/src/china-v2/PeoplePrimitives.tsx",
+      "sha256": "1a45373ee0cd70530ce1c62a9581afa83f67a00f5e6ee6f599d060cd567131e7"
+    },
+    {
+      "file": "workflows/reference-video/cinematic/src/china-v2/PeoplePreview.tsx",
+      "sha256": "21dee1c04686c7de1a23bfb38f5265a4b6bdf1bf6c5d94df1f3afc22f4d5f0af"
+    }
+  ],
+  "imageHashes": [
+    {
+      "file": "r05.jpg",
+      "sha256": "af3dcb2a3411aadf33e1eb7d9cbdbbfcf1f5b03f786abc0ae536d13ba7cc3151"
+    },
+    {
+      "file": "r07.jpg",
+      "sha256": "c7fda4b4e9744765691e5dffe950e144751b911d6bde7365b8961c0ab1834c64"
+    },
+    {
+      "file": "h01.jpg",
+      "sha256": "aa572bc5fa895abc1db4b697853d47b67511e0330ce92878009c323d61945d8e"
+    },
+    {
+      "file": "h02.jpg",
+      "sha256": "4e6473fc846d94efdd6c42470a5914d11b5a6c6723eb778a990e0ceb87a9f01f"
+    },
+    {
+      "file": "h03.jpg",
+      "sha256": "fe648940e9223427c688c177690ecb958edd92d22813f9c2103d58ebdf2af807"
+    },
+    {
+      "file": "h05.jpg",
+      "sha256": "6dfcbe4237744c55fc628d488060a14b92cb963d3446c0058665fe192892babd"
+    },
+    {
+      "file": "h06.jpg",
+      "sha256": "a9cc0237e60e05da6b56d0136a6f914f7eb2a8da700d693491181a7efa477f28"
+    },
+    {
+      "file": "h07.jpg",
+      "sha256": "34987f80485da8f3e0a50ed8e6b281bad8dbc26128c9a90509e6e40d646391a7"
+    },
+    {
+      "file": "h08.jpg",
+      "sha256": "6223866e8d3ff38f447fbef2c10e7e1f0da4a65f8b47e04213ed7608449fb07d"
+    },
+    {
+      "file": "d01.jpg",
+      "sha256": "ae22305911225aca33ac5086a2e7531da72b3037afbba8b9b5adf1cf4037955b"
+    },
+    {
+      "file": "d02.jpg",
+      "sha256": "a887bb435337d0691d3f0524afa4c0a026315aad5e1ae202888d4b9d0237d491"
+    },
+    {
+      "file": "d03.jpg",
+      "sha256": "a80c8af1f0398ba8c4f72c3dd9d404990d8f2831f39b584efed99424ad6cac97"
+    },
+    {
+      "file": "d06.jpg",
+      "sha256": "694bf560701e5a12f527da804eeced237a46c40b2f29261e2695bb9600e9f9d9"
+    },
+    {
+      "file": "p05.jpg",
+      "sha256": "7171a6a71b3308b452e8fcd50a47ad1f7161249831fded5454bb0435d26d666e"
+    },
+    {
+      "file": "h03-corrected.jpg",
+      "sha256": "c01721e62749305c8bfdfc9acf1c1f2a2d70340b0b4379dbb4b29463da46c20e"
+    },
+    {
+      "file": "d02-corrected.jpg",
+      "sha256": "777eb2690fe77c92d94be60ad17ec5b3699d795b31967ccb8cb090bc0339307c"
+    },
+    {
+      "file": "d06-corrected.jpg",
+      "sha256": "261b69c49d3b30e60d0d0a723defddea3f1e8d9bcebb89a81311c1d1706e5f28"
+    },
+    {
+      "file": "d03-corrected.jpg",
+      "sha256": "47495d8cfe73ab8cc980335a271a32cd7258d17747781c3aecf8fe2c7d85879e"
+    },
+    {
+      "file": "r05-final-50.jpg",
+      "sha256": "54c5a3b15d15075b41044d1527d653450af82672597aa4f0e2c780f7cf031d7e"
+    },
+    {
+      "file": "h02-final-50.jpg",
+      "sha256": "ed8e32bb116962282e657c504905d2ddee08a8a631695e0cab0b2a9708371634"
+    },
+    {
+      "file": "d03-final-20.jpg",
+      "sha256": "59fc05c0fe39df9aed75a72c56b767d3ebdab6e0f41e96ae66eb365ab1c3a452"
+    },
+    {
+      "file": "d03-final-65.jpg",
+      "sha256": "1cb16c317f06617028cf2a11df8e4bc87af54254c2f918ffac7b1c4e67fc6be6"
+    },
+    {
+      "file": "h03-freeze.jpg",
+      "sha256": "456e0f36dd862543fdcaf260a599e076e8d114130ba9bdc681375ffc233a1718"
+    },
+    {
+      "file": "r05-freeze.jpg",
+      "sha256": "d4d36d4a9279fc2f466deeed415f683cc46239e5d053e1e6ce4d2e5387fc1c7e"
+    },
+    {
+      "file": "h02-freeze.jpg",
+      "sha256": "a8d4297b3592b59da4c34d25102ffd896ef5ad00988b3f630d36e70edd6c8a4a"
+    }
+  ],
+  "typescript": "FullprojectTSCpassedafterlatestchanges",
+  "userAcceptance": "pending"
+}

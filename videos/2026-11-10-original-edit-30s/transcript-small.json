@@ -1,0 +1,318 @@
+[
+  {
+    "start": 0.7400000000000018,
+    "end": 7.2,
+    "text": " Và sau đây, em xin kể về một câu chuyện, một trải nghiệm đã thể đổi em rất nhiều bằng nhộn trầm mặt.",
+    "words": [
+      {
+        "word": " Và",
+        "start": 0.7400000000000018,
+        "end": 1.24
+      },
+      {
+        "word": " sau",
+        "start": 1.24,
+        "end": 1.44
+      },
+      {
+        "word": " đây,",
+        "start": 1.44,
+        "end": 1.74
+      },
+      {
+        "word": " em",
+        "start": 1.96,
+        "end": 2.16
+      },
+      {
+        "word": " xin",
+        "start": 2.16,
+        "end": 2.32
+      },
+      {
+        "word": " kể",
+        "start": 2.32,
+        "end": 2.58
+      },
+      {
+        "word": " về",
+        "start": 2.58,
+        "end": 2.7
+      },
+      {
+        "word": " một",
+        "start": 2.7,
+        "end": 2.84
+      },
+      {
+        "word": " câu",
+        "start": 2.84,
+        "end": 3.08
+      },
+      {
+        "word": " chuyện,",
+        "start": 3.08,
+        "end": 3.36
+      },
+      {
+        "word": " một",
+        "start": 3.52,
+        "end": 3.58
+      },
+      {
+        "word": " trải",
+        "start": 3.58,
+        "end": 3.86
+      },
+      {
+        "word": " nghiệm",
+        "start": 3.86,
+        "end": 4.46
+      },
+      {
+        "word": " đã",
+        "start": 4.46,
+        "end": 4.86
+      },
+      {
+        "word": " thể",
+        "start": 4.86,
+        "end": 5.04
+      },
+      {
+        "word": " đổi",
+        "start": 5.04,
+        "end": 5.16
+      },
+      {
+        "word": " em",
+        "start": 5.16,
+        "end": 5.34
+      },
+      {
+        "word": " rất",
+        "start": 5.34,
+        "end": 5.48
+      },
+      {
+        "word": " nhiều",
+        "start": 5.48,
+        "end": 5.82
+      },
+      {
+        "word": " bằng",
+        "start": 5.82,
+        "end": 6.46
+      },
+      {
+        "word": " nhộn",
+        "start": 6.46,
+        "end": 6.76
+      },
+      {
+        "word": " trầm",
+        "start": 6.76,
+        "end": 6.96
+      },
+      {
+        "word": " mặt.",
+        "start": 6.96,
+        "end": 7.2
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 23.8,
+    "text": " Tôi từng có dịp cùng thầy tôi tham gia một chuyến thiện nguyện tại Bệnh viện Nhi Đồng 2.",
+    "words": [
+      {
+        "word": " Tôi",
+        "start": 18.0,
+        "end": 18.5
+      },
+      {
+        "word": " từng",
+        "start": 18.5,
+        "end": 18.78
+      },
+      {
+        "word": " có",
+        "start": 18.78,
+        "end": 18.96
+      },
+      {
+        "word": " dịp",
+        "start": 18.96,
+        "end": 19.22
+      },
+      {
+        "word": " cùng",
+        "start": 19.22,
+        "end": 19.42
+      },
+      {
+        "word": " thầy",
+        "start": 19.42,
+        "end": 19.72
+      },
+      {
+        "word": " tôi",
+        "start": 19.72,
+        "end": 19.84
+      },
+      {
+        "word": " tham",
+        "start": 19.84,
+        "end": 20.06
+      },
+      {
+        "word": " gia",
+        "start": 20.06,
+        "end": 20.4
+      },
+      {
+        "word": " một",
+        "start": 20.4,
+        "end": 21.0
+      },
+      {
+        "word": " chuyến",
+        "start": 21.0,
+        "end": 21.4
+      },
+      {
+        "word": " thiện",
+        "start": 21.4,
+        "end": 21.66
+      },
+      {
+        "word": " nguyện",
+        "start": 21.66,
+        "end": 22.02
+      },
+      {
+        "word": " tại",
+        "start": 22.02,
+        "end": 22.48
+      },
+      {
+        "word": " Bệnh",
+        "start": 22.48,
+        "end": 22.72
+      },
+      {
+        "word": " viện",
+        "start": 22.72,
+        "end": 23.0
+      },
+      {
+        "word": " Nhi",
+        "start": 23.0,
+        "end": 23.24
+      },
+      {
+        "word": " Đồng",
+        "start": 23.24,
+        "end": 23.44
+      },
+      {
+        "word": " 2.",
+        "start": 23.44,
+        "end": 23.8
+      }
+    ]
+  },
+  {
+    "start": 23.8,
+    "end": 29.92,
+    "text": " Nơi chúng tôi chuẩn bị và trao qua cho hơn 100 em nhỏ đang điều trị vệnh.",
+    "words": [
+      {
+        "word": " Nơi",
+        "start": 23.8,
+        "end": 24.86
+      },
+      {
+        "word": " chúng",
+        "start": 24.86,
+        "end": 25.12
+      },
+      {
+        "word": " tôi",
+        "start": 25.12,
+        "end": 25.38
+      },
+      {
+        "word": " chuẩn",
+        "start": 25.38,
+        "end": 25.66
+      },
+      {
+        "word": " bị",
+        "start": 25.66,
+        "end": 25.88
+      },
+      {
+        "word": " và",
+        "start": 25.88,
+        "end": 26.44
+      },
+      {
+        "word": " trao",
+        "start": 26.44,
+        "end": 26.78
+      },
+      {
+        "word": " qua",
+        "start": 26.78,
+        "end": 27.02
+      },
+      {
+        "word": " cho",
+        "start": 27.02,
+        "end": 27.48
+      },
+      {
+        "word": " hơn",
+        "start": 27.48,
+        "end": 27.68
+      },
+      {
+        "word": " 100",
+        "start": 27.68,
+        "end": 28.12
+      },
+      {
+        "word": " em",
+        "start": 28.12,
+        "end": 28.4
+      },
+      {
+        "word": " nhỏ",
+        "start": 28.4,
+        "end": 28.82
+      },
+      {
+        "word": " đang",
+        "start": 28.82,
+        "end": 29.22
+      },
+      {
+        "word": " điều",
+        "start": 29.22,
+        "end": 29.42
+      },
+      {
+        "word": " trị",
+        "start": 29.42,
+        "end": 29.7
+      },
+      {
+        "word": " vệnh.",
+        "start": 29.7,
+        "end": 29.92
+      }
+    ]
+  }
+]

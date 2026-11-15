@@ -1,0 +1,22 @@
+{
+  "previousFinal": {
+    "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\long\\final.mp4",
+    "sha256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee"
+  },
+  "previousData": {
+    "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\long\\data.json",
+    "sha256": "37b5dd44c87e9588ad13a98ac8acf07c864a54c66997e2aa45d6cc7c90f4f816"
+  },
+  "newManifest": {
+    "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\production-v4.json",
+    "sha256": "a6915544624ddf5c3334635de884f5f2520fc084ff3b5bec372495a0c9367ac7"
+  },
+  "newData": {
+    "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r04\\long\\data.json",
+    "sha256": "19ff1e3f488ed7ed8e6196db1ab113aec17a3bd05a3edb9785c286d07cf57b72"
+  },
+  "exactMix": {
+    "file": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r04\\long\\audio\\final-mix.wav",
+    "sha256": "535115a6a2adc17b56a0eccb68af43af9f775cac98e10b0979e649ac6e2d2bb6"
+  }
+}

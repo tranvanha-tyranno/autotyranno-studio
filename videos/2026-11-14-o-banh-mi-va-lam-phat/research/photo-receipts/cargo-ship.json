@@ -1,0 +1,48 @@
+{
+  "id": "cargo-ship",
+  "file": "assets/cargo-ship.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 7128920,
+  "sourceURL": "https://www.pexels.com/photo/stacks-of-shipping-containers-on-a-cargo-ship-7128920/",
+  "downloadURL": "https://images.pexels.com/photos/7128920/pexels-photo-7128920.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Wolf Achim Wiegand",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "bbc23c809371cceb9e0294816794e9e938cfcf097101544f16a6d8bb76e1e0e3",
+  "width": 2400,
+  "height": 1800,
+  "tags": [
+    "logistics"
+  ],
+  "credit": "Wolf Achim Wiegand / Pexels",
+  "expectedFromSource": "Container ship",
+  "observed": "Front view of large blue container ship with stacked multicolor containers and bridge. Full image keeps entire vessel profile; center landscape crop clips bridge.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "bbc23c809371cceb9e0294816794e9e938cfcf097101544f16a6d8bb76e1e0e3"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Hamburg port per source. Illustrates international freight; no freight price, route, shortage or connection to fictional shop established.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "DE",
+    "place": "Hamburg, Germany",
+    "sourceURL": "https://www.pexels.com/photo/stacks-of-shipping-containers-on-a-cargo-ship-7128920/",
+    "evidence": "Primary photo page location field says Hamburg, Germany."
+  }
+}

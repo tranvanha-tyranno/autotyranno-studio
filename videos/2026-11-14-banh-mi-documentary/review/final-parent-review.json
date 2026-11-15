@@ -1,0 +1,33 @@
+{
+  "schema": "bread-documentary-final-parent-review/1",
+  "revision": "r02",
+  "renderSHA256": "8e5274d1d63be683b6189e37885fba4f819692f0f822110cd1d9715acf8763ff",
+  "method": "Complete decode plus actual sampled rendered images from every shot; exact script read; local ASR diagnostics. No continuous AV or auditory assessment.",
+  "openedContactSheets": [
+    "r02/qa/contact-01.jpg",
+    "r02/qa/contact-02.jpg",
+    "r02/qa/contact-03.jpg",
+    "r02/qa/contact-04.jpg",
+    "r02/qa/contact-05.jpg",
+    "r02/qa/contact-06.jpg",
+    "r02/qa/contact-07.jpg",
+    "r02/qa/contact-08.jpg"
+  ],
+  "otherReview": "Agent long_content_a opened contact08–15 and separate selected cost/price frames.",
+  "observations": [
+    "Opening returns to actual Vietnamese sandwich assembly and baguette cabinet.",
+    "Cost sequence retains20k/12k/5k baseline,14.5kinput,22ksellingprice and500/2500 remainders; model labels/footer present.",
+    "Price path20k->22k->22440 shows slower positive rise rather than falling prices.",
+    "Flour scooping/weighing, paper/calculator/receipt and shop/checkout contexts match broad narrated roles; source people are not identified as fictional Hanh.",
+    "Selected frames have no obvious black frames, portrait side bars, cartoon cast, subtitle track or clipped main numerals.",
+    "The final exported file has10733decodedframes and speech ending355.867s before357.767s video end."
+  ],
+  "materialLimits": [
+    "Repeated dough/oven sets remain visible even though source intervals do not overlap;28sources does not by itself establish aesthetic variety.",
+    "Wage passages rely on bakery context and the bread-equivalent explanation rather than a documented wage slip.",
+    "Supporting model-limit notes are intentionally smaller than the principal figures.",
+    "No claim that the new synthetic voice has been manually listened to or aesthetically approved; ASR and loudness do not measure natural emphasis."
+  ],
+  "userApproval": "pending",
+  "newFilmCompleted": true
+}

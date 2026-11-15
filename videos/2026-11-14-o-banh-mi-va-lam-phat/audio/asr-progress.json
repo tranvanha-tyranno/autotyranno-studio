@@ -1,0 +1,2886 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.54,
+      "text": " Ủa bánh mì tăng từ 20 lên 22.000, nghe tin lạm phát giảm, khách quay lại, giá vẫn cao.",
+      "words": [
+        {
+          "text": " Ủa",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.5033771892388662
+        },
+        {
+          "text": " bánh",
+          "start": 0.22,
+          "end": 0.3,
+          "probability": 0.913260817527771
+        },
+        {
+          "text": " mì",
+          "start": 0.3,
+          "end": 0.56,
+          "probability": 0.8646363019943237
+        },
+        {
+          "text": " tăng",
+          "start": 0.56,
+          "end": 0.8,
+          "probability": 0.975629597902298
+        },
+        {
+          "text": " từ",
+          "start": 0.8,
+          "end": 1.0,
+          "probability": 0.9844628572463989
+        },
+        {
+          "text": " 20",
+          "start": 1.0,
+          "end": 1.42,
+          "probability": 0.9846308827400208
+        },
+        {
+          "text": " lên",
+          "start": 1.42,
+          "end": 1.74,
+          "probability": 0.29856568574905396
+        },
+        {
+          "text": " 22",
+          "start": 1.74,
+          "end": 2.26,
+          "probability": 0.9917722344398499
+        },
+        {
+          "text": ".000,",
+          "start": 2.26,
+          "end": 2.6,
+          "probability": 0.6919032782316208
+        },
+        {
+          "text": " nghe",
+          "start": 3.08,
+          "end": 3.7,
+          "probability": 0.7245257198810577
+        },
+        {
+          "text": " tin",
+          "start": 3.7,
+          "end": 3.88,
+          "probability": 0.927911639213562
+        },
+        {
+          "text": " lạm",
+          "start": 3.88,
+          "end": 4.14,
+          "probability": 0.6240445971488953
+        },
+        {
+          "text": " phát",
+          "start": 4.14,
+          "end": 4.26,
+          "probability": 0.9861000180244446
+        },
+        {
+          "text": " giảm,",
+          "start": 4.26,
+          "end": 4.74,
+          "probability": 0.9859164754549662
+        },
+        {
+          "text": " khách",
+          "start": 4.9,
+          "end": 5.0,
+          "probability": 0.9920783936977386
+        },
+        {
+          "text": " quay",
+          "start": 5.0,
+          "end": 5.2,
+          "probability": 0.9889656007289886
+        },
+        {
+          "text": " lại,",
+          "start": 5.2,
+          "end": 5.4,
+          "probability": 0.9977365732192993
+        },
+        {
+          "text": " giá",
+          "start": 5.9,
+          "end": 6.0,
+          "probability": 0.973692774772644
+        },
+        {
+          "text": " vẫn",
+          "start": 6.0,
+          "end": 6.16,
+          "probability": 0.8929389715194702
+        },
+        {
+          "text": " cao.",
+          "start": 6.16,
+          "end": 6.54,
+          "probability": 0.9949220418930054
+        }
+      ]
+    },
+    {
+      "start": 7.14,
+      "end": 10.8,
+      "text": " Chị hạnh bán bánh cũng chẳng thấy mình rau hơn, vậy tiền đang bắt ở đâu?",
+      "words": [
+        {
+          "text": " Chị",
+          "start": 7.14,
+          "end": 7.26,
+          "probability": 0.9011543095111847
+        },
+        {
+          "text": " hạnh",
+          "start": 7.26,
+          "end": 7.42,
+          "probability": 0.9591737985610962
+        },
+        {
+          "text": " bán",
+          "start": 7.42,
+          "end": 7.64,
+          "probability": 0.9109961092472076
+        },
+        {
+          "text": " bánh",
+          "start": 7.64,
+          "end": 7.82,
+          "probability": 0.9731264412403107
+        },
+        {
+          "text": " cũng",
+          "start": 7.82,
+          "end": 8.12,
+          "probability": 0.9713926315307617
+        },
+        {
+          "text": " chẳng",
+          "start": 8.12,
+          "end": 8.42,
+          "probability": 0.989411324262619
+        },
+        {
+          "text": " thấy",
+          "start": 8.42,
+          "end": 8.56,
+          "probability": 0.7694292068481445
+        },
+        {
+          "text": " mình",
+          "start": 8.56,
+          "end": 8.7,
+          "probability": 0.9857951402664185
+        },
+        {
+          "text": " rau",
+          "start": 8.7,
+          "end": 8.94,
+          "probability": 0.8111974895000458
+        },
+        {
+          "text": " hơn,",
+          "start": 8.94,
+          "end": 9.2,
+          "probability": 0.9995622038841248
+        },
+        {
+          "text": " vậy",
+          "start": 9.52,
+          "end": 9.84,
+          "probability": 0.8897253274917603
+        },
+        {
+          "text": " tiền",
+          "start": 9.84,
+          "end": 10.16,
+          "probability": 0.9656484723091125
+        },
+        {
+          "text": " đang",
+          "start": 10.16,
+          "end": 10.3,
+          "probability": 0.6632809638977051
+        },
+        {
+          "text": " bắt",
+          "start": 10.3,
+          "end": 10.46,
+          "probability": 0.676266223192215
+        },
+        {
+          "text": " ở",
+          "start": 10.46,
+          "end": 10.62,
+          "probability": 0.994922935962677
+        },
+        {
+          "text": " đâu?",
+          "start": 10.62,
+          "end": 10.8,
+          "probability": 0.9908074736595154
+        }
+      ]
+    },
+    {
+      "start": 11.46,
+      "end": 17.24,
+      "text": " Chị hạnh và tiệm bánh là hư cấu, giá, chi phí, lương và tỷ lệ đều để minh hoạ,",
+      "words": [
+        {
+          "text": " Chị",
+          "start": 11.46,
+          "end": 11.62,
+          "probability": 0.9880972504615784
+        },
+        {
+          "text": " hạnh",
+          "start": 11.62,
+          "end": 11.84,
+          "probability": 0.992662787437439
+        },
+        {
+          "text": " và",
+          "start": 11.84,
+          "end": 12.06,
+          "probability": 0.9681565761566162
+        },
+        {
+          "text": " tiệm",
+          "start": 12.06,
+          "end": 12.28,
+          "probability": 0.8281269073486328
+        },
+        {
+          "text": " bánh",
+          "start": 12.28,
+          "end": 12.46,
+          "probability": 0.9933575391769409
+        },
+        {
+          "text": " là",
+          "start": 12.46,
+          "end": 12.7,
+          "probability": 0.9903361797332764
+        },
+        {
+          "text": " hư",
+          "start": 12.7,
+          "end": 12.9,
+          "probability": 0.9024912118911743
+        },
+        {
+          "text": " cấu,",
+          "start": 12.9,
+          "end": 13.14,
+          "probability": 0.8524361550807953
+        },
+        {
+          "text": " giá,",
+          "start": 13.54,
+          "end": 13.92,
+          "probability": 0.9969580769538879
+        },
+        {
+          "text": " chi",
+          "start": 14.22,
+          "end": 14.3,
+          "probability": 0.7902137637138367
+        },
+        {
+          "text": " phí,",
+          "start": 14.3,
+          "end": 14.64,
+          "probability": 0.9745478630065918
+        },
+        {
+          "text": " lương",
+          "start": 15.06,
+          "end": 15.24,
+          "probability": 0.944219559431076
+        },
+        {
+          "text": " và",
+          "start": 15.24,
+          "end": 15.78,
+          "probability": 0.8763410449028015
+        },
+        {
+          "text": " tỷ",
+          "start": 15.78,
+          "end": 16.04,
+          "probability": 0.833907941977183
+        },
+        {
+          "text": " lệ",
+          "start": 16.04,
+          "end": 16.26,
+          "probability": 0.9587782025337219
+        },
+        {
+          "text": " đều",
+          "start": 16.26,
+          "end": 16.64,
+          "probability": 0.9384449124336243
+        },
+        {
+          "text": " để",
+          "start": 16.64,
+          "end": 16.78,
+          "probability": 0.8954381942749023
+        },
+        {
+          "text": " minh",
+          "start": 16.78,
+          "end": 17.0,
+          "probability": 0.8653091788291931
+        },
+        {
+          "text": " hoạ,",
+          "start": 17.0,
+          "end": 17.24,
+          "probability": 0.683044970035553
+        }
+      ]
+    },
+    {
+      "start": 17.64,
+      "end": 19.14,
+      "text": " không phải số liệu thị trường hiện tại.",
+      "words": [
+        {
+          "text": " không",
+          "start": 17.64,
+          "end": 17.82,
+          "probability": 0.9937713742256165
+        },
+        {
+          "text": " phải",
+          "start": 17.82,
+          "end": 18.04,
+          "probability": 0.9986228942871094
+        },
+        {
+          "text": " số",
+          "start": 18.04,
+          "end": 18.2,
+          "probability": 0.9923937320709229
+        },
+        {
+          "text": " liệu",
+          "start": 18.2,
+          "end": 18.4,
+          "probability": 0.9883401691913605
+        },
+        {
+          "text": " thị",
+          "start": 18.4,
+          "end": 18.54,
+          "probability": 0.956174224615097
+        },
+        {
+          "text": " trường",
+          "start": 18.54,
+          "end": 18.78,
+          "probability": 0.92332723736763
+        },
+        {
+          "text": " hiện",
+          "start": 18.78,
+          "end": 18.92,
+          "probability": 0.9935064315795898
+        },
+        {
+          "text": " tại.",
+          "start": 18.92,
+          "end": 19.14,
+          "probability": 0.9856153726577759
+        }
+      ]
+    },
+    {
+      "start": 19.88,
+      "end": 23.26,
+      "text": " Video giải thích kinh tế phổ thông không phải từ vấn tài trình cá nhân.",
+      "words": [
+        {
+          "text": " Video",
+          "start": 19.88,
+          "end": 20.26,
+          "probability": 0.8795124888420105
+        },
+        {
+          "text": " giải",
+          "start": 20.26,
+          "end": 20.5,
+          "probability": 0.9863397777080536
+        },
+        {
+          "text": " thích",
+          "start": 20.5,
+          "end": 20.64,
+          "probability": 0.9683845937252045
+        },
+        {
+          "text": " kinh",
+          "start": 20.64,
+          "end": 20.82,
+          "probability": 0.972714900970459
+        },
+        {
+          "text": " tế",
+          "start": 20.82,
+          "end": 21.0,
+          "probability": 0.9930211007595062
+        },
+        {
+          "text": " phổ",
+          "start": 21.0,
+          "end": 21.22,
+          "probability": 0.975768119096756
+        },
+        {
+          "text": " thông",
+          "start": 21.22,
+          "end": 21.44,
+          "probability": 0.9945730268955231
+        },
+        {
+          "text": " không",
+          "start": 21.44,
+          "end": 22.04,
+          "probability": 0.7636463046073914
+        },
+        {
+          "text": " phải",
+          "start": 22.04,
+          "end": 22.24,
+          "probability": 0.9967478513717651
+        },
+        {
+          "text": " từ",
+          "start": 22.24,
+          "end": 22.42,
+          "probability": 0.6713917255401611
+        },
+        {
+          "text": " vấn",
+          "start": 22.42,
+          "end": 22.6,
+          "probability": 0.9792033731937408
+        },
+        {
+          "text": " tài",
+          "start": 22.6,
+          "end": 22.78,
+          "probability": 0.9205175340175629
+        },
+        {
+          "text": " trình",
+          "start": 22.78,
+          "end": 22.98,
+          "probability": 0.7461593151092529
+        },
+        {
+          "text": " cá",
+          "start": 22.98,
+          "end": 23.12,
+          "probability": 0.6546227931976318
+        },
+        {
+          "text": " nhân.",
+          "start": 23.12,
+          "end": 23.26,
+          "probability": 0.9985812902450562
+        }
+      ]
+    },
+    {
+      "start": 23.94,
+      "end": 26.1,
+      "text": " Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh,",
+      "words": [
+        {
+          "text": " Khách",
+          "start": 23.94,
+          "end": 24.12,
+          "probability": 0.9630654454231262
+        },
+        {
+          "text": " chỉ",
+          "start": 24.12,
+          "end": 24.34,
+          "probability": 0.9835581183433533
+        },
+        {
+          "text": " nhìn",
+          "start": 24.34,
+          "end": 24.52,
+          "probability": 0.9972488582134247
+        },
+        {
+          "text": " thấy",
+          "start": 24.52,
+          "end": 24.7,
+          "probability": 0.9990228414535522
+        },
+        {
+          "text": " tiền",
+          "start": 24.7,
+          "end": 24.98,
+          "probability": 0.9984955787658691
+        },
+        {
+          "text": " phải",
+          "start": 24.98,
+          "end": 25.12,
+          "probability": 0.9879107475280762
+        },
+        {
+          "text": " trả",
+          "start": 25.12,
+          "end": 25.38,
+          "probability": 0.9674558937549591
+        },
+        {
+          "text": " cho",
+          "start": 25.38,
+          "end": 25.56,
+          "probability": 0.968302845954895
+        },
+        {
+          "text": " một",
+          "start": 25.56,
+          "end": 25.72,
+          "probability": 0.5879898071289062
+        },
+        {
+          "text": " ổ",
+          "start": 25.72,
+          "end": 25.9,
+          "probability": 0.9444334506988525
+        },
+        {
+          "text": " bánh,",
+          "start": 25.9,
+          "end": 26.1,
+          "probability": 0.9970835447311401
+        }
+      ]
+    },
+    {
+      "start": 26.1,
+      "end": 31.36,
+      "text": " nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê.",
+      "words": [
+        {
+          "text": " nhưng",
+          "start": 26.1,
+          "end": 26.68,
+          "probability": 0.7190666794776917
+        },
+        {
+          "text": " phía",
+          "start": 26.68,
+          "end": 26.98,
+          "probability": 0.9835255444049835
+        },
+        {
+          "text": " sau",
+          "start": 26.98,
+          "end": 27.14,
+          "probability": 0.9889271259307861
+        },
+        {
+          "text": " quầy",
+          "start": 27.14,
+          "end": 27.48,
+          "probability": 0.8337056239446005
+        },
+        {
+          "text": " còn",
+          "start": 27.48,
+          "end": 27.74,
+          "probability": 0.9688611626625061
+        },
+        {
+          "text": " có",
+          "start": 27.74,
+          "end": 27.98,
+          "probability": 0.9920324087142944
+        },
+        {
+          "text": " bột,",
+          "start": 27.98,
+          "end": 28.26,
+          "probability": 0.8224455416202545
+        },
+        {
+          "text": " nhân,",
+          "start": 28.62,
+          "end": 28.74,
+          "probability": 0.8953695297241211
+        },
+        {
+          "text": " điện,",
+          "start": 29.24,
+          "end": 29.46,
+          "probability": 0.9636544585227966
+        },
+        {
+          "text": " vận",
+          "start": 29.84,
+          "end": 29.94,
+          "probability": 0.9801920354366302
+        },
+        {
+          "text": " chuyển",
+          "start": 29.94,
+          "end": 30.28,
+          "probability": 0.9380780458450317
+        },
+        {
+          "text": " và",
+          "start": 30.28,
+          "end": 30.78,
+          "probability": 0.8955942988395691
+        },
+        {
+          "text": " tiền",
+          "start": 30.78,
+          "end": 31.04,
+          "probability": 0.9829576015472412
+        },
+        {
+          "text": " thuê.",
+          "start": 31.04,
+          "end": 31.36,
+          "probability": 0.9175884425640106
+        }
+      ]
+    },
+    {
+      "start": 31.96,
+      "end": 35.3,
+      "text": " Bằng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình.",
+      "words": [
+        {
+          "text": " Bằng",
+          "start": 31.96,
+          "end": 32.08,
+          "probability": 0.7913189232349396
+        },
+        {
+          "text": " giá",
+          "start": 32.08,
+          "end": 32.32,
+          "probability": 0.9558453261852264
+        },
+        {
+          "text": " nằm",
+          "start": 32.32,
+          "end": 32.52,
+          "probability": 0.8716588417689005
+        },
+        {
+          "text": " ở",
+          "start": 32.52,
+          "end": 32.62,
+          "probability": 0.9763683080673218
+        },
+        {
+          "text": " cuối",
+          "start": 32.62,
+          "end": 32.9,
+          "probability": 0.974517434835434
+        },
+        {
+          "text": " một",
+          "start": 32.9,
+          "end": 33.08,
+          "probability": 0.5218552947044373
+        },
+        {
+          "text": " chuỗi",
+          "start": 33.08,
+          "end": 33.34,
+          "probability": 0.49114368855953217
+        },
+        {
+          "text": " quyết",
+          "start": 33.34,
+          "end": 33.52,
+          "probability": 0.9939669072628021
+        },
+        {
+          "text": " định,",
+          "start": 33.52,
+          "end": 33.72,
+          "probability": 0.9992181360721588
+        },
+        {
+          "text": " chứ",
+          "start": 34.02,
+          "end": 34.2,
+          "probability": 0.8590916097164154
+        },
+        {
+          "text": " không",
+          "start": 34.2,
+          "end": 34.38,
+          "probability": 0.997848391532898
+        },
+        {
+          "text": " tự",
+          "start": 34.38,
+          "end": 34.54,
+          "probability": 0.9208109974861145
+        },
+        {
+          "text": " xuất",
+          "start": 34.54,
+          "end": 34.74,
+          "probability": 0.9456389546394348
+        },
+        {
+          "text": " hiện",
+          "start": 34.74,
+          "end": 34.88,
+          "probability": 0.9995003938674927
+        },
+        {
+          "text": " một",
+          "start": 34.88,
+          "end": 35.08,
+          "probability": 0.9446672201156616
+        },
+        {
+          "text": " mình.",
+          "start": 35.08,
+          "end": 35.3,
+          "probability": 0.9984092116355896
+        }
+      ]
+    },
+    {
+      "start": 36.36,
+      "end": 41.24,
+      "text": " Hai câu hỏi dễ bị trộn, hàng hóa đắt đến đâu, và giá đang tăng nhanh đến mức nào?",
+      "words": [
+        {
+          "text": " Hai",
+          "start": 36.36,
+          "end": 36.64,
+          "probability": 0.627967894077301
+        },
+        {
+          "text": " câu",
+          "start": 36.64,
+          "end": 36.8,
+          "probability": 0.9663278758525848
+        },
+        {
+          "text": " hỏi",
+          "start": 36.8,
+          "end": 37.02,
+          "probability": 0.9927718937397003
+        },
+        {
+          "text": " dễ",
+          "start": 37.02,
+          "end": 37.28,
+          "probability": 0.9588788747787476
+        },
+        {
+          "text": " bị",
+          "start": 37.28,
+          "end": 37.4,
+          "probability": 0.9890689253807068
+        },
+        {
+          "text": " trộn,",
+          "start": 37.4,
+          "end": 37.86,
+          "probability": 0.9365050792694092
+        },
+        {
+          "text": " hàng",
+          "start": 38.16,
+          "end": 38.3,
+          "probability": 0.8904603123664856
+        },
+        {
+          "text": " hóa",
+          "start": 38.3,
+          "end": 38.56,
+          "probability": 0.9539680083592733
+        },
+        {
+          "text": " đắt",
+          "start": 38.56,
+          "end": 38.76,
+          "probability": 0.9809011816978455
+        },
+        {
+          "text": " đến",
+          "start": 38.76,
+          "end": 38.9,
+          "probability": 0.9921464323997498
+        },
+        {
+          "text": " đâu,",
+          "start": 38.9,
+          "end": 39.14,
+          "probability": 0.8745446801185608
+        },
+        {
+          "text": " và",
+          "start": 39.7,
+          "end": 39.8,
+          "probability": 0.9797118306159973
+        },
+        {
+          "text": " giá",
+          "start": 39.8,
+          "end": 40.1,
+          "probability": 0.996434211730957
+        },
+        {
+          "text": " đang",
+          "start": 40.1,
+          "end": 40.3,
+          "probability": 0.9703439474105835
+        },
+        {
+          "text": " tăng",
+          "start": 40.3,
+          "end": 40.48,
+          "probability": 0.9373594522476196
+        },
+        {
+          "text": " nhanh",
+          "start": 40.48,
+          "end": 40.7,
+          "probability": 0.8297632137934366
+        },
+        {
+          "text": " đến",
+          "start": 40.7,
+          "end": 40.82,
+          "probability": 0.9866081476211548
+        },
+        {
+          "text": " mức",
+          "start": 40.82,
+          "end": 41.0,
+          "probability": 0.9928652942180634
+        },
+        {
+          "text": " nào?",
+          "start": 41.0,
+          "end": 41.24,
+          "probability": 0.9922224879264832
+        }
+      ]
+    },
+    {
+      "start": 41.96,
+      "end": 46.36,
+      "text": " Một câu nói về mặt bằng giá, câu còn lại nói về tốc độ thay đổi của mặt bằng ấy.",
+      "words": [
+        {
+          "text": " Một",
+          "start": 41.96,
+          "end": 42.12,
+          "probability": 0.953614354133606
+        },
+        {
+          "text": " câu",
+          "start": 42.12,
+          "end": 42.32,
+          "probability": 0.9733924567699432
+        },
+        {
+          "text": " nói",
+          "start": 42.32,
+          "end": 42.44,
+          "probability": 0.9938598871231079
+        },
+        {
+          "text": " về",
+          "start": 42.44,
+          "end": 42.68,
+          "probability": 0.9948669672012329
+        },
+        {
+          "text": " mặt",
+          "start": 42.68,
+          "end": 42.9,
+          "probability": 0.9863482415676117
+        },
+        {
+          "text": " bằng",
+          "start": 42.9,
+          "end": 43.04,
+          "probability": 0.9948408007621765
+        },
+        {
+          "text": " giá,",
+          "start": 43.04,
+          "end": 43.38,
+          "probability": 0.9982810914516449
+        },
+        {
+          "text": " câu",
+          "start": 43.72,
+          "end": 43.98,
+          "probability": 0.9464586675167084
+        },
+        {
+          "text": " còn",
+          "start": 43.98,
+          "end": 44.08,
+          "probability": 0.8629759550094604
+        },
+        {
+          "text": " lại",
+          "start": 44.08,
+          "end": 44.32,
+          "probability": 0.9975883960723877
+        },
+        {
+          "text": " nói",
+          "start": 44.32,
+          "end": 44.58,
+          "probability": 0.9551254510879517
+        },
+        {
+          "text": " về",
+          "start": 44.58,
+          "end": 44.78,
+          "probability": 0.9882756471633911
+        },
+        {
+          "text": " tốc",
+          "start": 44.78,
+          "end": 44.98,
+          "probability": 0.9470298588275909
+        },
+        {
+          "text": " độ",
+          "start": 44.98,
+          "end": 45.14,
+          "probability": 0.9971780776977539
+        },
+        {
+          "text": " thay",
+          "start": 45.14,
+          "end": 45.38,
+          "probability": 0.9501533508300781
+        },
+        {
+          "text": " đổi",
+          "start": 45.38,
+          "end": 45.56,
+          "probability": 0.996105432510376
+        },
+        {
+          "text": " của",
+          "start": 45.56,
+          "end": 45.76,
+          "probability": 0.9945775270462036
+        },
+        {
+          "text": " mặt",
+          "start": 45.76,
+          "end": 46.0,
+          "probability": 0.9964332282543182
+        },
+        {
+          "text": " bằng",
+          "start": 46.0,
+          "end": 46.16,
+          "probability": 0.9867697954177856
+        },
+        {
+          "text": " ấy.",
+          "start": 46.16,
+          "end": 46.36,
+          "probability": 0.9102116823196411
+        }
+      ]
+    },
+    {
+      "start": 47.04,
+      "end": 50.6,
+      "text": " Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát,",
+      "words": [
+        {
+          "text": " Giá",
+          "start": 47.04,
+          "end": 47.34,
+          "probability": 0.9741005599498749
+        },
+        {
+          "text": " một",
+          "start": 47.34,
+          "end": 47.5,
+          "probability": 0.5878896713256836
+        },
+        {
+          "text": " ổ",
+          "start": 47.5,
+          "end": 47.7,
+          "probability": 0.9450463950634003
+        },
+        {
+          "text": " bánh",
+          "start": 47.7,
+          "end": 47.84,
+          "probability": 0.9859575927257538
+        },
+        {
+          "text": " tăng",
+          "start": 47.84,
+          "end": 48.12,
+          "probability": 0.9178377687931061
+        },
+        {
+          "text": " chưa",
+          "start": 48.12,
+          "end": 48.56,
+          "probability": 0.7099835872650146
+        },
+        {
+          "text": " đủ",
+          "start": 48.56,
+          "end": 48.8,
+          "probability": 0.9895434379577637
+        },
+        {
+          "text": " để",
+          "start": 48.8,
+          "end": 48.96,
+          "probability": 0.9824531078338623
+        },
+        {
+          "text": " kết",
+          "start": 48.96,
+          "end": 49.1,
+          "probability": 0.9705475270748138
+        },
+        {
+          "text": " luận",
+          "start": 49.1,
+          "end": 49.32,
+          "probability": 0.9770916700363159
+        },
+        {
+          "text": " cả",
+          "start": 49.32,
+          "end": 49.56,
+          "probability": 0.9891517162322998
+        },
+        {
+          "text": " nền",
+          "start": 49.56,
+          "end": 49.74,
+          "probability": 0.7527537047863007
+        },
+        {
+          "text": " kinh",
+          "start": 49.74,
+          "end": 49.92,
+          "probability": 0.9937275350093842
+        },
+        {
+          "text": " tế",
+          "start": 49.92,
+          "end": 50.14,
+          "probability": 0.9785933196544647
+        },
+        {
+          "text": " lạm",
+          "start": 50.14,
+          "end": 50.4,
+          "probability": 0.8252582748730978
+        },
+        {
+          "text": " phát,",
+          "start": 50.4,
+          "end": 50.6,
+          "probability": 0.8799605071544647
+        }
+      ]
+    },
+    {
+      "start": 51.1,
+      "end": 53.58,
+      "text": " tiệm có thể đổi nhân, kích cỡ hoặc vị trí.",
+      "words": [
+        {
+          "text": " tiệm",
+          "start": 51.1,
+          "end": 51.32,
+          "probability": 0.9570297797520956
+        },
+        {
+          "text": " có",
+          "start": 51.32,
+          "end": 51.46,
+          "probability": 0.9954612851142883
+        },
+        {
+          "text": " thể",
+          "start": 51.46,
+          "end": 51.62,
+          "probability": 0.9993026256561279
+        },
+        {
+          "text": " đổi",
+          "start": 51.62,
+          "end": 51.8,
+          "probability": 0.9800530672073364
+        },
+        {
+          "text": " nhân,",
+          "start": 51.8,
+          "end": 52.04,
+          "probability": 0.9922730326652527
+        },
+        {
+          "text": " kích",
+          "start": 52.38,
+          "end": 52.48,
+          "probability": 0.7921701371669769
+        },
+        {
+          "text": " cỡ",
+          "start": 52.48,
+          "end": 52.72,
+          "probability": 0.9730533063411713
+        },
+        {
+          "text": " hoặc",
+          "start": 52.72,
+          "end": 53.1,
+          "probability": 0.8979689180850983
+        },
+        {
+          "text": " vị",
+          "start": 53.1,
+          "end": 53.3,
+          "probability": 0.9850571751594543
+        },
+        {
+          "text": " trí.",
+          "start": 53.3,
+          "end": 53.58,
+          "probability": 0.9970684051513672
+        }
+      ]
+    },
+    {
+      "start": 53.58,
+      "end": 59.8,
+      "text": " Lạm phát nói đến mức tăng giá dộng hơn của nhiều hàng hóa và dịch bụng, dự nguyên chất lượng và kích cỡ.",
+      "words": [
+        {
+          "text": " Lạm",
+          "start": 53.58,
+          "end": 54.38,
+          "probability": 0.41711775461832684
+        },
+        {
+          "text": " phát",
+          "start": 54.38,
+          "end": 54.52,
+          "probability": 0.9603465795516968
+        },
+        {
+          "text": " nói",
+          "start": 54.52,
+          "end": 54.74,
+          "probability": 0.9244637489318848
+        },
+        {
+          "text": " đến",
+          "start": 54.74,
+          "end": 54.94,
+          "probability": 0.9952940344810486
+        },
+        {
+          "text": " mức",
+          "start": 54.94,
+          "end": 55.16,
+          "probability": 0.9860541522502899
+        },
+        {
+          "text": " tăng",
+          "start": 55.16,
+          "end": 55.34,
+          "probability": 0.9846749305725098
+        },
+        {
+          "text": " giá",
+          "start": 55.34,
+          "end": 55.58,
+          "probability": 0.9821873605251312
+        },
+        {
+          "text": " dộng",
+          "start": 55.58,
+          "end": 55.82,
+          "probability": 0.6371592233578364
+        },
+        {
+          "text": " hơn",
+          "start": 55.82,
+          "end": 56.04,
+          "probability": 0.9980059266090393
+        },
+        {
+          "text": " của",
+          "start": 56.04,
+          "end": 56.34,
+          "probability": 0.960407555103302
+        },
+        {
+          "text": " nhiều",
+          "start": 56.34,
+          "end": 56.6,
+          "probability": 0.9889569878578186
+        },
+        {
+          "text": " hàng",
+          "start": 56.6,
+          "end": 56.8,
+          "probability": 0.9258025288581848
+        },
+        {
+          "text": " hóa",
+          "start": 56.8,
+          "end": 57.12,
+          "probability": 0.9705909689267477
+        },
+        {
+          "text": " và",
+          "start": 57.12,
+          "end": 57.36,
+          "probability": 0.9874792695045471
+        },
+        {
+          "text": " dịch",
+          "start": 57.36,
+          "end": 57.54,
+          "probability": 0.9458243250846863
+        },
+        {
+          "text": " bụng,",
+          "start": 57.54,
+          "end": 58.3,
+          "probability": 0.7907282809416453
+        },
+        {
+          "text": " dự",
+          "start": 58.3,
+          "end": 58.5,
+          "probability": 0.8185947835445404
+        },
+        {
+          "text": " nguyên",
+          "start": 58.5,
+          "end": 58.76,
+          "probability": 0.8499778111775717
+        },
+        {
+          "text": " chất",
+          "start": 58.76,
+          "end": 58.92,
+          "probability": 0.9508953094482422
+        },
+        {
+          "text": " lượng",
+          "start": 58.92,
+          "end": 59.16,
+          "probability": 0.9955281317234039
+        },
+        {
+          "text": " và",
+          "start": 59.16,
+          "end": 59.38,
+          "probability": 0.9883284568786621
+        },
+        {
+          "text": " kích",
+          "start": 59.38,
+          "end": 59.56,
+          "probability": 0.931845635175705
+        },
+        {
+          "text": " cỡ.",
+          "start": 59.56,
+          "end": 59.8,
+          "probability": 0.9352326989173889
+        }
+      ]
+    },
+    {
+      "start": 60.52,
+      "end": 64.34,
+      "text": " Năm đầu, bánh từ 20 lên 22.000 tăng 10%.",
+      "words": [
+        {
+          "text": " Năm",
+          "start": 60.52,
+          "end": 60.72,
+          "probability": 0.9144148230552673
+        },
+        {
+          "text": " đầu,",
+          "start": 60.72,
+          "end": 60.98,
+          "probability": 0.9981961846351624
+        },
+        {
+          "text": " bánh",
+          "start": 61.36,
+          "end": 61.46,
+          "probability": 0.9658952951431274
+        },
+        {
+          "text": " từ",
+          "start": 61.46,
+          "end": 61.66,
+          "probability": 0.9834372997283936
+        },
+        {
+          "text": " 20",
+          "start": 61.66,
+          "end": 62.08,
+          "probability": 0.9782010316848755
+        },
+        {
+          "text": " lên",
+          "start": 62.08,
+          "end": 62.46,
+          "probability": 0.7221026420593262
+        },
+        {
+          "text": " 22",
+          "start": 62.46,
+          "end": 62.92,
+          "probability": 0.9950937032699585
+        },
+        {
+          "text": ".000",
+          "start": 62.92,
+          "end": 63.52,
+          "probability": 0.7717079222202301
+        },
+        {
+          "text": " tăng",
+          "start": 63.52,
+          "end": 63.78,
+          "probability": 0.9244339466094971
+        },
+        {
+          "text": " 10%.",
+          "start": 63.78,
+          "end": 64.34,
+          "probability": 0.6869467347860336
+        }
+      ]
+    },
+    {
+      "start": 64.34,
+      "end": 69.2,
+      "text": " Đây là phép tính cho một mặt hàng minh họa, chưa phải chỉ số giá tiêu dùng của quốc gia.",
+      "words": [
+        {
+          "text": " Đây",
+          "start": 64.34,
+          "end": 65.24,
+          "probability": 0.9889541864395142
+        },
+        {
+          "text": " là",
+          "start": 65.24,
+          "end": 65.4,
+          "probability": 0.9962745904922485
+        },
+        {
+          "text": " phép",
+          "start": 65.4,
+          "end": 65.54,
+          "probability": 0.9599681198596954
+        },
+        {
+          "text": " tính",
+          "start": 65.54,
+          "end": 65.78,
+          "probability": 0.9911207258701324
+        },
+        {
+          "text": " cho",
+          "start": 65.78,
+          "end": 66.0,
+          "probability": 0.6157565116882324
+        },
+        {
+          "text": " một",
+          "start": 66.0,
+          "end": 66.16,
+          "probability": 0.901614248752594
+        },
+        {
+          "text": " mặt",
+          "start": 66.16,
+          "end": 66.32,
+          "probability": 0.7868809998035431
+        },
+        {
+          "text": " hàng",
+          "start": 66.32,
+          "end": 66.5,
+          "probability": 0.997400164604187
+        },
+        {
+          "text": " minh",
+          "start": 66.5,
+          "end": 66.74,
+          "probability": 0.792653501033783
+        },
+        {
+          "text": " họa,",
+          "start": 66.74,
+          "end": 67.3,
+          "probability": 0.8197883069515228
+        },
+        {
+          "text": " chưa",
+          "start": 67.3,
+          "end": 67.4,
+          "probability": 0.900619626045227
+        },
+        {
+          "text": " phải",
+          "start": 67.4,
+          "end": 67.64,
+          "probability": 0.9971247315406799
+        },
+        {
+          "text": " chỉ",
+          "start": 67.64,
+          "end": 67.82,
+          "probability": 0.9744359254837036
+        },
+        {
+          "text": " số",
+          "start": 67.82,
+          "end": 68.02,
+          "probability": 0.9831069707870483
+        },
+        {
+          "text": " giá",
+          "start": 68.02,
+          "end": 68.22,
+          "probability": 0.955338329076767
+        },
+        {
+          "text": " tiêu",
+          "start": 68.22,
+          "end": 68.38,
+          "probability": 0.8676952719688416
+        },
+        {
+          "text": " dùng",
+          "start": 68.38,
+          "end": 68.56,
+          "probability": 0.7391531020402908
+        },
+        {
+          "text": " của",
+          "start": 68.56,
+          "end": 68.78,
+          "probability": 0.9976254105567932
+        },
+        {
+          "text": " quốc",
+          "start": 68.78,
+          "end": 69.0,
+          "probability": 0.9537833631038666
+        },
+        {
+          "text": " gia.",
+          "start": 69.0,
+          "end": 69.2,
+          "probability": 0.9977399110794067
+        }
+      ]
+    },
+    {
+      "start": 70.04,
+      "end": 72.04,
+      "text": " Năm sau, giá chỉ tăng 2%.",
+      "words": [
+        {
+          "text": " Năm",
+          "start": 70.04,
+          "end": 70.26,
+          "probability": 0.9303535223007202
+        },
+        {
+          "text": " sau,",
+          "start": 70.26,
+          "end": 70.54,
+          "probability": 0.9959965944290161
+        },
+        {
+          "text": " giá",
+          "start": 70.98,
+          "end": 71.1,
+          "probability": 0.995953768491745
+        },
+        {
+          "text": " chỉ",
+          "start": 71.1,
+          "end": 71.28,
+          "probability": 0.980553388595581
+        },
+        {
+          "text": " tăng",
+          "start": 71.28,
+          "end": 71.44,
+          "probability": 0.9969550669193268
+        },
+        {
+          "text": " 2%.",
+          "start": 71.44,
+          "end": 72.04,
+          "probability": 0.8693534135818481
+        }
+      ]
+    },
+    {
+      "start": 72.72000000000003,
+      "end": 77.04,
+      "text": " 22.000 nhân 1.02 được 22.440 đồng.",
+      "words": [
+        {
+          "text": " 22",
+          "start": 72.72000000000003,
+          "end": 73.20000000000002,
+          "probability": 0.9737973809242249
+        },
+        {
+          "text": ".000",
+          "start": 73.20000000000002,
+          "end": 73.68,
+          "probability": 0.9473694562911987
+        },
+        {
+          "text": " nhân",
+          "start": 73.68,
+          "end": 73.78,
+          "probability": 0.14376558363437653
+        },
+        {
+          "text": " 1",
+          "start": 73.78,
+          "end": 74.02,
+          "probability": 0.9486863017082214
+        },
+        {
+          "text": ".02",
+          "start": 74.02,
+          "end": 74.54,
+          "probability": 0.7395159751176834
+        },
+        {
+          "text": " được",
+          "start": 74.54,
+          "end": 75.18,
+          "probability": 0.9462208151817322
+        },
+        {
+          "text": " 22",
+          "start": 75.18,
+          "end": 75.68,
+          "probability": 0.9900175929069519
+        },
+        {
+          "text": ".440",
+          "start": 75.68,
+          "end": 76.8,
+          "probability": 0.9626103838284811
+        },
+        {
+          "text": " đồng.",
+          "start": 76.8,
+          "end": 77.04,
+          "probability": 0.9465090930461884
+        }
+      ]
+    },
+    {
+      "start": 77.76,
+      "end": 81.46,
+      "text": " Dự số lẻ để thấy phép tính chưa làm tròn thành gia bán ngoài tiệm.",
+      "words": [
+        {
+          "text": " Dự",
+          "start": 77.76,
+          "end": 78.04,
+          "probability": 0.6620689183473587
+        },
+        {
+          "text": " số",
+          "start": 78.04,
+          "end": 78.2,
+          "probability": 0.9355847239494324
+        },
+        {
+          "text": " lẻ",
+          "start": 78.2,
+          "end": 78.44,
+          "probability": 0.9422645568847656
+        },
+        {
+          "text": " để",
+          "start": 78.44,
+          "end": 78.74,
+          "probability": 0.8989591002464294
+        },
+        {
+          "text": " thấy",
+          "start": 78.74,
+          "end": 78.9,
+          "probability": 0.9945430755615234
+        },
+        {
+          "text": " phép",
+          "start": 78.9,
+          "end": 79.08,
+          "probability": 0.9655134975910187
+        },
+        {
+          "text": " tính",
+          "start": 79.08,
+          "end": 79.32,
+          "probability": 0.9969200491905212
+        },
+        {
+          "text": " chưa",
+          "start": 79.32,
+          "end": 79.92,
+          "probability": 0.36029088497161865
+        },
+        {
+          "text": " làm",
+          "start": 79.92,
+          "end": 80.12,
+          "probability": 0.9843405485153198
+        },
+        {
+          "text": " tròn",
+          "start": 80.12,
+          "end": 80.36,
+          "probability": 0.8707692325115204
+        },
+        {
+          "text": " thành",
+          "start": 80.36,
+          "end": 80.56,
+          "probability": 0.9974873065948486
+        },
+        {
+          "text": " gia",
+          "start": 80.56,
+          "end": 80.78,
+          "probability": 0.8295152187347412
+        },
+        {
+          "text": " bán",
+          "start": 80.78,
+          "end": 80.98,
+          "probability": 0.9936372935771942
+        },
+        {
+          "text": " ngoài",
+          "start": 80.98,
+          "end": 81.16,
+          "probability": 0.7925060391426086
+        },
+        {
+          "text": " tiệm.",
+          "start": 81.16,
+          "end": 81.46,
+          "probability": 0.9819441040356954
+        }
+      ]
+    },
+    {
+      "start": 82.22000000000001,
+      "end": 84.54,
+      "text": " Tốc độ tăng giảm từ 10 xuống 2%.",
+      "words": [
+        {
+          "text": " Tốc",
+          "start": 82.16000000000001,
+          "end": 82.4,
+          "probability": 0.8268111050128937
+        },
+        {
+          "text": " độ",
+          "start": 82.4,
+          "end": 82.58,
+          "probability": 0.9968287348747253
+        },
+        {
+          "text": " tăng",
+          "start": 82.58,
+          "end": 82.8,
+          "probability": 0.9889134168624878
+        },
+        {
+          "text": " giảm",
+          "start": 82.8,
+          "end": 83.14,
+          "probability": 0.984131375948588
+        },
+        {
+          "text": " từ",
+          "start": 83.14,
+          "end": 83.38,
+          "probability": 0.9782670736312866
+        },
+        {
+          "text": " 10",
+          "start": 83.38,
+          "end": 83.66,
+          "probability": 0.9642823934555054
+        },
+        {
+          "text": " xuống",
+          "start": 83.66,
+          "end": 84.02,
+          "probability": 0.7464264035224915
+        },
+        {
+          "text": " 2%.",
+          "start": 84.02,
+          "end": 84.54,
+          "probability": 0.5323497578501701
+        }
+      ]
+    },
+    {
+      "start": 85.36000000000001,
+      "end": 86.9,
+      "text": " Nhưng giá vẫn cao hơn trước.",
+      "words": [
+        {
+          "text": " Nhưng",
+          "start": 85.36000000000001,
+          "end": 85.84,
+          "probability": 0.9824620187282562
+        },
+        {
+          "text": " giá",
+          "start": 85.84,
+          "end": 86.1,
+          "probability": 0.9706226289272308
+        },
+        {
+          "text": " vẫn",
+          "start": 86.1,
+          "end": 86.26,
+          "probability": 0.9270517826080322
+        },
+        {
+          "text": " cao",
+          "start": 86.26,
+          "end": 86.56,
+          "probability": 0.9922608435153961
+        },
+        {
+          "text": " hơn",
+          "start": 86.56,
+          "end": 86.68,
+          "probability": 0.9981971383094788
+        },
+        {
+          "text": " trước.",
+          "start": 86.68,
+          "end": 86.9,
+          "probability": 0.9817056655883789
+        }
+      ]
+    },
+    {
+      "start": 87.54,
+      "end": 93.34,
+      "text": " Nếu cả giò hàng vận động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về cho cũ.",
+      "words": [
+        {
+          "text": " Nếu",
+          "start": 87.54,
+          "end": 87.76,
+          "probability": 0.9895996749401093
+        },
+        {
+          "text": " cả",
+          "start": 87.76,
+          "end": 87.94,
+          "probability": 0.9583250284194946
+        },
+        {
+          "text": " giò",
+          "start": 87.94,
+          "end": 88.14,
+          "probability": 0.7220338582992554
+        },
+        {
+          "text": " hàng",
+          "start": 88.14,
+          "end": 88.32,
+          "probability": 0.9886779189109802
+        },
+        {
+          "text": " vận",
+          "start": 88.32,
+          "end": 88.5,
+          "probability": 0.7627314031124115
+        },
+        {
+          "text": " động",
+          "start": 88.5,
+          "end": 88.68,
+          "probability": 0.9990178346633911
+        },
+        {
+          "text": " tương",
+          "start": 88.68,
+          "end": 88.92,
+          "probability": 0.9787195920944214
+        },
+        {
+          "text": " tự,",
+          "start": 88.92,
+          "end": 89.14,
+          "probability": 0.9901230335235596
+        },
+        {
+          "text": " đó",
+          "start": 89.54,
+          "end": 89.74,
+          "probability": 0.9770591855049133
+        },
+        {
+          "text": " là",
+          "start": 89.74,
+          "end": 89.9,
+          "probability": 0.9958178400993347
+        },
+        {
+          "text": " tình",
+          "start": 89.9,
+          "end": 90.06,
+          "probability": 0.9755029082298279
+        },
+        {
+          "text": " huống",
+          "start": 90.06,
+          "end": 90.3,
+          "probability": 0.9732948243618011
+        },
+        {
+          "text": " lạm",
+          "start": 90.3,
+          "end": 90.54,
+          "probability": 0.9396557609240214
+        },
+        {
+          "text": " phát",
+          "start": 90.54,
+          "end": 90.68,
+          "probability": 0.9847401976585388
+        },
+        {
+          "text": " hạ",
+          "start": 90.68,
+          "end": 90.84,
+          "probability": 0.93153977394104
+        },
+        {
+          "text": " nhiệt",
+          "start": 90.84,
+          "end": 91.14,
+          "probability": 0.8283050060272217
+        },
+        {
+          "text": " mà",
+          "start": 91.14,
+          "end": 91.66,
+          "probability": 0.8434566259384155
+        },
+        {
+          "text": " mặt",
+          "start": 91.66,
+          "end": 91.84,
+          "probability": 0.9755546152591705
+        },
+        {
+          "text": " bằng",
+          "start": 91.84,
+          "end": 91.98,
+          "probability": 0.972045361995697
+        },
+        {
+          "text": " giá",
+          "start": 91.98,
+          "end": 92.28,
+          "probability": 0.989415168762207
+        },
+        {
+          "text": " chưa",
+          "start": 92.28,
+          "end": 92.5,
+          "probability": 0.9811046719551086
+        },
+        {
+          "text": " quay",
+          "start": 92.5,
+          "end": 92.7,
+          "probability": 0.9854949712753296
+        },
+        {
+          "text": " về",
+          "start": 92.7,
+          "end": 92.88,
+          "probability": 0.7081807851791382
+        },
+        {
+          "text": " cho",
+          "start": 92.88,
+          "end": 93.04,
+          "probability": 0.9847695827484131
+        },
+        {
+          "text": " cũ.",
+          "start": 93.04,
+          "end": 93.34,
+          "probability": 0.9279740452766418
+        }
+      ]
+    },
+    {
+      "start": 94.26,
+      "end": 96.46,
+      "text": " Chức xe đi chậm hơn nhưng chưa chạy lùi.",
+      "words": [
+        {
+          "text": " Chức",
+          "start": 94.26,
+          "end": 94.54,
+          "probability": 0.6533983796834946
+        },
+        {
+          "text": " xe",
+          "start": 94.54,
+          "end": 94.76,
+          "probability": 0.9501977562904358
+        },
+        {
+          "text": " đi",
+          "start": 94.76,
+          "end": 94.92,
+          "probability": 0.9909088015556335
+        },
+        {
+          "text": " chậm",
+          "start": 94.92,
+          "end": 95.16,
+          "probability": 0.9640129804611206
+        },
+        {
+          "text": " hơn",
+          "start": 95.16,
+          "end": 95.38,
+          "probability": 0.9981478452682495
+        },
+        {
+          "text": " nhưng",
+          "start": 95.38,
+          "end": 95.72,
+          "probability": 0.8589584231376648
+        },
+        {
+          "text": " chưa",
+          "start": 95.72,
+          "end": 95.96,
+          "probability": 0.9851158261299133
+        },
+        {
+          "text": " chạy",
+          "start": 95.96,
+          "end": 96.18,
+          "probability": 0.9941971699396769
+        },
+        {
+          "text": " lùi.",
+          "start": 96.18,
+          "end": 96.46,
+          "probability": 0.9367264707883199
+        }
+      ]
+    },
+    {
+      "start": 97.06,
+      "end": 100.0,
+      "text": " Giá cũng vậy, tăng chậm hơn khác với giảm xuống.",
+      "words": [
+        {
+          "text": " Giá",
+          "start": 97.06,
+          "end": 97.34,
+          "probability": 0.9697082042694092
+        },
+        {
+          "text": " cũng",
+          "start": 97.34,
+          "end": 97.52,
+          "probability": 0.9917752742767334
+        },
+        {
+          "text": " vậy,",
+          "start": 97.52,
+          "end": 97.76,
+          "probability": 0.9814993739128113
+        },
+        {
+          "text": " tăng",
+          "start": 98.18,
+          "end": 98.3,
+          "probability": 0.950271487236023
+        },
+        {
+          "text": " chậm",
+          "start": 98.3,
+          "end": 98.56,
+          "probability": 0.9977500240008036
+        },
+        {
+          "text": " hơn",
+          "start": 98.56,
+          "end": 98.8,
+          "probability": 0.9987837672233582
+        },
+        {
+          "text": " khác",
+          "start": 98.8,
+          "end": 99.22,
+          "probability": 0.7560877799987793
+        },
+        {
+          "text": " với",
+          "start": 99.22,
+          "end": 99.46,
+          "probability": 0.9831609129905701
+        },
+        {
+          "text": " giảm",
+          "start": 99.46,
+          "end": 99.72,
+          "probability": 0.9940105477968851
+        },
+        {
+          "text": " xuống.",
+          "start": 99.72,
+          "end": 100.0,
+          "probability": 0.9982509911060333
+        }
+      ]
+    },
+    {
+      "start": 100.72,
+      "end": 105.74,
+      "text": " Muốn mặt bằng giá giảm, mức thay đổi chung phải âm chứ không chỉ nhỏ hơn con số dường trước đó.",
+      "words": [
+        {
+          "text": " Muốn",
+          "start": 100.72,
+          "end": 100.92,
+          "probability": 0.9595794081687927
+        },
+        {
+          "text": " mặt",
+          "start": 100.92,
+          "end": 101.1,
+          "probability": 0.9604974985122681
+        },
+        {
+          "text": " bằng",
+          "start": 101.1,
+          "end": 101.28,
+          "probability": 0.9966895580291748
+        },
+        {
+          "text": " giá",
+          "start": 101.28,
+          "end": 101.5,
+          "probability": 0.9932592809200287
+        },
+        {
+          "text": " giảm,",
+          "start": 101.5,
+          "end": 101.9,
+          "probability": 0.9984763463338217
+        },
+        {
+          "text": " mức",
+          "start": 102.24,
+          "end": 102.36,
+          "probability": 0.9763899147510529
+        },
+        {
+          "text": " thay",
+          "start": 102.36,
+          "end": 102.54,
+          "probability": 0.9769863784313202
+        },
+        {
+          "text": " đổi",
+          "start": 102.54,
+          "end": 102.68,
+          "probability": 0.9132170081138611
+        },
+        {
+          "text": " chung",
+          "start": 102.68,
+          "end": 102.9,
+          "probability": 0.8083545565605164
+        },
+        {
+          "text": " phải",
+          "start": 102.9,
+          "end": 103.12,
+          "probability": 0.9605121612548828
+        },
+        {
+          "text": " âm",
+          "start": 103.12,
+          "end": 103.42,
+          "probability": 0.9493373334407806
+        },
+        {
+          "text": " chứ",
+          "start": 103.42,
+          "end": 103.82,
+          "probability": 0.6715506017208099
+        },
+        {
+          "text": " không",
+          "start": 103.82,
+          "end": 103.96,
+          "probability": 0.995244562625885
+        },
+        {
+          "text": " chỉ",
+          "start": 103.96,
+          "end": 104.18,
+          "probability": 0.9960944056510925
+        },
+        {
+          "text": " nhỏ",
+          "start": 104.18,
+          "end": 104.38,
+          "probability": 0.9898731410503387
+        },
+        {
+          "text": " hơn",
+          "start": 104.38,
+          "end": 104.64,
+          "probability": 0.9991808533668518
+        },
+        {
+          "text": " con",
+          "start": 104.64,
+          "end": 104.84,
+          "probability": 0.8426927924156189
+        },
+        {
+          "text": " số",
+          "start": 104.84,
+          "end": 105.04,
+          "probability": 0.9992407560348511
+        },
+        {
+          "text": " dường",
+          "start": 105.04,
+          "end": 105.28,
+          "probability": 0.7218350768089294
+        },
+        {
+          "text": " trước",
+          "start": 105.28,
+          "end": 105.46,
+          "probability": 0.9610165953636169
+        },
+        {
+          "text": " đó.",
+          "start": 105.46,
+          "end": 105.74,
+          "probability": 0.99284428358078
+        }
+      ]
+    },
+    {
+      "start": 106.8,
+      "end": 109.86,
+      "text": " Người như giá năm ngoái, người như giá vài năm trước,",
+      "words": [
+        {
+          "text": " Người",
+          "start": 106.8,
+          "end": 107.1,
+          "probability": 0.9848085045814514
+        },
+        {
+          "text": " như",
+          "start": 107.1,
+          "end": 107.26,
+          "probability": 0.9254623055458069
+        },
+        {
+          "text": " giá",
+          "start": 107.26,
+          "end": 107.54,
+          "probability": 0.9927944839000702
+        },
+        {
+          "text": " năm",
+          "start": 107.54,
+          "end": 107.66,
+          "probability": 0.9700781106948853
+        },
+        {
+          "text": " ngoái,",
+          "start": 107.66,
+          "end": 108.02,
+          "probability": 0.9950535595417023
+        },
+        {
+          "text": " người",
+          "start": 108.72,
+          "end": 108.84,
+          "probability": 0.94277423620224
+        },
+        {
+          "text": " như",
+          "start": 108.84,
+          "end": 109.0,
+          "probability": 0.9975099563598633
+        },
+        {
+          "text": " giá",
+          "start": 109.0,
+          "end": 109.26,
+          "probability": 0.9966845810413361
+        },
+        {
+          "text": " vài",
+          "start": 109.26,
+          "end": 109.5,
+          "probability": 0.9340486526489258
+        },
+        {
+          "text": " năm",
+          "start": 109.5,
+          "end": 109.6,
+          "probability": 0.9958900809288025
+        },
+        {
+          "text": " trước,",
+          "start": 109.6,
+          "end": 109.86,
+          "probability": 0.9995912909507751
+        }
+      ]
+    },
+    {
+      "start": 110.32000000000001,
+      "end": 113.92,
+      "text": " họ nghe cùng tỷ lệ lạm phát mà hình dung 2 khoảng cách khác nhau.",
+      "words": [
+        {
+          "text": " họ",
+          "start": 110.32000000000001,
+          "end": 110.76,
+          "probability": 0.08359703421592712
+        },
+        {
+          "text": " nghe",
+          "start": 110.76,
+          "end": 111.02,
+          "probability": 0.9926364123821259
+        },
+        {
+          "text": " cùng",
+          "start": 111.02,
+          "end": 111.24,
+          "probability": 0.9578827023506165
+        },
+        {
+          "text": " tỷ",
+          "start": 111.24,
+          "end": 111.44,
+          "probability": 0.8700595299402872
+        },
+        {
+          "text": " lệ",
+          "start": 111.44,
+          "end": 111.58,
+          "probability": 0.953683078289032
+        },
+        {
+          "text": " lạm",
+          "start": 111.58,
+          "end": 111.84,
+          "probability": 0.8526882926623026
+        },
+        {
+          "text": " phát",
+          "start": 111.84,
+          "end": 112.1,
+          "probability": 0.8481318950653076
+        },
+        {
+          "text": " mà",
+          "start": 112.1,
+          "end": 112.44,
+          "probability": 0.9516597986221313
+        },
+        {
+          "text": " hình",
+          "start": 112.44,
+          "end": 112.62,
+          "probability": 0.9919900894165039
+        },
+        {
+          "text": " dung",
+          "start": 112.62,
+          "end": 112.82,
+          "probability": 0.9711710214614868
+        },
+        {
+          "text": " 2",
+          "start": 112.82,
+          "end": 113.08,
+          "probability": 0.5859581828117371
+        },
+        {
+          "text": " khoảng",
+          "start": 113.08,
+          "end": 113.3,
+          "probability": 0.9354295134544373
+        },
+        {
+          "text": " cách",
+          "start": 113.3,
+          "end": 113.46,
+          "probability": 0.994963526725769
+        },
+        {
+          "text": " khác",
+          "start": 113.46,
+          "end": 113.62,
+          "probability": 0.9992838501930237
+        },
+        {
+          "text": " nhau.",
+          "start": 113.62,
+          "end": 113.92,
+          "probability": 0.9936614632606506
+        }
+      ]
+    },
+    {
+      "start": 114.54,
+      "end": 116.82,
+      "text": " Khi đọc tin, hãy tìm rõ kỳ so sánh.",
+      "words": [
+        {
+          "text": " Khi",
+          "start": 114.54,
+          "end": 114.88,
+          "probability": 0.9493895173072815
+        },
+        {
+          "text": " đọc",
+          "start": 114.88,
+          "end": 115.08,
+          "probability": 0.7921144962310791
+        },
+        {
+          "text": " tin,",
+          "start": 115.08,
+          "end": 115.24,
+          "probability": 0.9911681413650513
+        },
+        {
+          "text": " hãy",
+          "start": 115.66,
+          "end": 115.76,
+          "probability": 0.9529757797718048
+        },
+        {
+          "text": " tìm",
+          "start": 115.76,
+          "end": 116.0,
+          "probability": 0.9939227302869161
+        },
+        {
+          "text": " rõ",
+          "start": 116.0,
+          "end": 116.18,
+          "probability": 0.8121266067028046
+        },
+        {
+          "text": " kỳ",
+          "start": 116.18,
+          "end": 116.42,
+          "probability": 0.8071771860122681
+        },
+        {
+          "text": " so",
+          "start": 116.42,
+          "end": 116.58,
+          "probability": 0.6683250069618225
+        },
+        {
+          "text": " sánh.",
+          "start": 116.58,
+          "end": 116.82,
+          "probability": 0.9550468623638153
+        }
+      ]
+    },
+    {
+      "start": 117.56,
+      "end": 119.68,
+      "text": " Tháng trước cùng kỳ, hay một mốc xa hơn.",
+      "words": [
+        {
+          "text": " Tháng",
+          "start": 117.56,
+          "end": 117.68,
+          "probability": 0.9422862529754639
+        },
+        {
+          "text": " trước",
+          "start": 117.68,
+          "end": 117.88,
+          "probability": 0.98544842004776
+        },
+        {
+          "text": " cùng",
+          "start": 117.88,
+          "end": 118.1,
+          "probability": 0.650019645690918
+        },
+        {
+          "text": " kỳ,",
+          "start": 118.1,
+          "end": 118.54,
+          "probability": 0.9645573695500692
+        },
+        {
+          "text": " hay",
+          "start": 118.68,
+          "end": 118.82,
+          "probability": 0.8046966791152954
+        },
+        {
+          "text": " một",
+          "start": 118.82,
+          "end": 119.02,
+          "probability": 0.5506852865219116
+        },
+        {
+          "text": " mốc",
+          "start": 119.02,
+          "end": 119.2,
+          "probability": 0.6985192596912384
+        },
+        {
+          "text": " xa",
+          "start": 119.2,
+          "end": 119.44,
+          "probability": 0.9017007648944855
+        },
+        {
+          "text": " hơn.",
+          "start": 119.44,
+          "end": 119.68,
+          "probability": 0.9985124468803406
+        }
+      ]
+    },
+    {
+      "start": 120.42,
+      "end": 123.04,
+      "text": " Phép nhân chưa giải thích tại sao chỉ hạnh thay bằng giá.",
+      "words": [
+        {
+          "text": " Phép",
+          "start": 120.42,
+          "end": 120.68,
+          "probability": 0.9842372834682465
+        },
+        {
+          "text": " nhân",
+          "start": 120.68,
+          "end": 120.88,
+          "probability": 0.9080517888069153
+        },
+        {
+          "text": " chưa",
+          "start": 120.88,
+          "end": 121.14,
+          "probability": 0.992174506187439
+        },
+        {
+          "text": " giải",
+          "start": 121.14,
+          "end": 121.32,
+          "probability": 0.9772321283817291
+        },
+        {
+          "text": " thích",
+          "start": 121.32,
+          "end": 121.5,
+          "probability": 0.9942431747913361
+        },
+        {
+          "text": " tại",
+          "start": 121.5,
+          "end": 121.66,
+          "probability": 0.9887935519218445
+        },
+        {
+          "text": " sao",
+          "start": 121.66,
+          "end": 121.94,
+          "probability": 0.9992775321006775
+        },
+        {
+          "text": " chỉ",
+          "start": 121.94,
+          "end": 122.12,
+          "probability": 0.3752421736717224
+        },
+        {
+          "text": " hạnh",
+          "start": 122.12,
+          "end": 122.34,
+          "probability": 0.978166401386261
+        },
+        {
+          "text": " thay",
+          "start": 122.34,
+          "end": 122.56,
+          "probability": 0.9800821244716644
+        },
+        {
+          "text": " bằng",
+          "start": 122.56,
+          "end": 122.74,
+          "probability": 0.9593816995620728
+        },
+        {
+          "text": " giá.",
+          "start": 122.74,
+          "end": 123.04,
+          "probability": 0.973819762468338
+        }
+      ]
+    },
+    {
+      "start": 123.6,
+      "end": 125.8,
+      "text": " Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ.",
+      "words": [
+        {
+          "text": " Nó",
+          "start": 123.6,
+          "end": 123.76,
+          "probability": 0.9865364134311676
+        },
+        {
+          "text": " chỉ",
+          "start": 123.76,
+          "end": 123.96,
+          "probability": 0.9984707236289978
+        },
+        {
+          "text": " gỡ",
+          "start": 123.96,
+          "end": 124.18,
+          "probability": 0.967902421951294
+        },
+        {
+          "text": " nhầm",
+          "start": 124.18,
+          "end": 124.4,
+          "probability": 0.878444234530131
+        },
+        {
+          "text": " lẫn",
+          "start": 124.4,
+          "end": 124.58,
+          "probability": 0.9906477332115173
+        },
+        {
+          "text": " giữa",
+          "start": 124.58,
+          "end": 124.86,
+          "probability": 0.9661779999732971
+        },
+        {
+          "text": " mức",
+          "start": 124.86,
+          "end": 125.04,
+          "probability": 0.987164318561554
+        },
+        {
+          "text": " và",
+          "start": 125.04,
+          "end": 125.38,
+          "probability": 0.9913771152496338
+        },
+        {
+          "text": " tốc",
+          "start": 125.38,
+          "end": 125.56,
+          "probability": 0.6323138624429703
+        },
+        {
+          "text": " độ.",
+          "start": 125.56,
+          "end": 125.8,
+          "probability": 0.9963535070419312
+        }
+      ]
+    },
+    {
+      "start": 126.16,
+      "end": 131.16,
+      "text": " Để hiểu nguyên nhân, phải quay lại chất lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.",
+      "words": [
+        {
+          "text": " Để",
+          "start": 126.16,
+          "end": 126.48,
+          "probability": 0.9788424670696259
+        },
+        {
+          "text": " hiểu",
+          "start": 126.48,
+          "end": 126.7,
+          "probability": 0.9946579337120056
+        },
+        {
+          "text": " nguyên",
+          "start": 126.7,
+          "end": 126.92,
+          "probability": 0.9929814338684082
+        },
+        {
+          "text": " nhân,",
+          "start": 126.92,
+          "end": 127.08,
+          "probability": 0.9974363446235657
+        },
+        {
+          "text": " phải",
+          "start": 127.38,
+          "end": 127.6,
+          "probability": 0.9888277053833008
+        },
+        {
+          "text": " quay",
+          "start": 127.6,
+          "end": 127.8,
+          "probability": 0.9930859506130219
+        },
+        {
+          "text": " lại",
+          "start": 127.8,
+          "end": 128.02,
+          "probability": 0.99901282787323
+        },
+        {
+          "text": " chất",
+          "start": 128.02,
+          "end": 128.24,
+          "probability": 0.9114281833171844
+        },
+        {
+          "text": " lúc",
+          "start": 128.24,
+          "end": 128.4,
+          "probability": 0.9566006660461426
+        },
+        {
+          "text": " cửa",
+          "start": 128.4,
+          "end": 128.62,
+          "probability": 0.9874591628710429
+        },
+        {
+          "text": " hàng",
+          "start": 128.62,
+          "end": 128.74,
+          "probability": 0.9950326681137085
+        },
+        {
+          "text": " mở",
+          "start": 128.74,
+          "end": 128.98,
+          "probability": 0.9001976251602173
+        },
+        {
+          "text": " cửa,",
+          "start": 128.98,
+          "end": 129.66,
+          "probability": 0.9978097875912985
+        },
+        {
+          "text": " nơi",
+          "start": 129.66,
+          "end": 129.92,
+          "probability": 0.9919611215591431
+        },
+        {
+          "text": " hóa",
+          "start": 129.92,
+          "end": 130.14,
+          "probability": 0.9549009203910828
+        },
+        {
+          "text": " đơn",
+          "start": 130.14,
+          "end": 130.28,
+          "probability": 0.9947632253170013
+        },
+        {
+          "text": " đầu",
+          "start": 130.28,
+          "end": 130.48,
+          "probability": 0.9877452254295349
+        },
+        {
+          "text": " vào",
+          "start": 130.48,
+          "end": 130.7,
+          "probability": 0.9734488725662231
+        },
+        {
+          "text": " được",
+          "start": 130.7,
+          "end": 130.92,
+          "probability": 0.987162172794342
+        },
+        {
+          "text": " chốt.",
+          "start": 130.92,
+          "end": 131.16,
+          "probability": 0.6723519265651703
+        }
+      ]
+    },
+    {
+      "start": 131.74,
+      "end": 134.28,
+      "text": " Trong bầu hình đơn giản, một ổ bánh bán 20.000,",
+      "words": [
+        {
+          "text": " Trong",
+          "start": 131.74,
+          "end": 131.88,
+          "probability": 0.9795413613319397
+        },
+        {
+          "text": " bầu",
+          "start": 131.88,
+          "end": 132.06,
+          "probability": 0.6262426227331161
+        },
+        {
+          "text": " hình",
+          "start": 132.06,
+          "end": 132.18,
+          "probability": 0.961472362279892
+        },
+        {
+          "text": " đơn",
+          "start": 132.18,
+          "end": 132.36,
+          "probability": 0.9644450545310974
+        },
+        {
+          "text": " giản,",
+          "start": 132.36,
+          "end": 132.6,
+          "probability": 0.9862516224384308
+        },
+        {
+          "text": " một",
+          "start": 133.06,
+          "end": 133.14,
+          "probability": 0.341464638710022
+        },
+        {
+          "text": " ổ",
+          "start": 133.14,
+          "end": 133.3,
+          "probability": 0.9779697954654694
+        },
+        {
+          "text": " bánh",
+          "start": 133.3,
+          "end": 133.48,
+          "probability": 0.9932797253131866
+        },
+        {
+          "text": " bán",
+          "start": 133.48,
+          "end": 133.72,
+          "probability": 0.9881959557533264
+        },
+        {
+          "text": " 20",
+          "start": 133.72,
+          "end": 134.08,
+          "probability": 0.9720553159713745
+        },
+        {
+          "text": ".000,",
+          "start": 134.08,
+          "end": 134.28,
+          "probability": 0.771779865026474
+        }
+      ]
+    }
+  ]
+}

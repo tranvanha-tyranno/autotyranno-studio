@@ -1,0 +1,50 @@
+{
+  "staticGates": {
+    "shotTimelinePass": true,
+    "phases": [
+      "hook",
+      "disclaimer",
+      "content",
+      "cta"
+    ],
+    "shots": 58,
+    "brandingPass": true,
+    "brandingScope": "Visible render text and spoken script only; paths and usernames excluded.",
+    "captionWidthPass": true,
+    "captionFont": "Arial34",
+    "maximumCaptionTextWidth": 1580,
+    "captions": 294,
+    "widestCaption": {
+      "index": 166,
+      "text": "Và đừng so ngày khuyến mại với một ngày vắng",
+      "widthPixels": 729.0
+    },
+    "visualCueWarnings": [
+      {
+        "shot": "h02",
+        "layout": "b-split",
+        "explicitCues": 2,
+        "visibleElements": 3,
+        "risk": "A later element falls back to a generic reveal frame and can appear before an earlier exact-take cue."
+      },
+      {
+        "shot": "p04",
+        "layout": "b-chart",
+        "explicitCues": 1,
+        "visibleElements": 2,
+        "risk": "A later element falls back to a generic reveal frame and can appear before an earlier exact-take cue."
+      }
+    ],
+    "visualCueScope": "Warnings need actual temporal review; equal cue count does not prove semantic alignment."
+  },
+  "plannedEvidence": {
+    "midframes": 58,
+    "everyThreeSeconds": 199,
+    "temporalShots": 10,
+    "nativeLastFrame": {
+      "frame": 17847,
+      "file": "last-frame.jpg"
+    }
+  },
+  "actualFinalDecode": "not yet run; waiting for complete final MP4"
+}

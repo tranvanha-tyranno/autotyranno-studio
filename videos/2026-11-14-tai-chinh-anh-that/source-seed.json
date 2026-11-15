@@ -1,0 +1,664 @@
+{
+  "assets": [
+    {
+      "id": "cash-vnd",
+      "pexelsID": 34944540,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-vietnamese-dong-currency-in-hand-34944540/",
+      "creator": "Nguyễn Tiến Thịnh",
+      "theme": "cash",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Pexels primary photo page location field",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "cash-vnd-halong",
+      "pexelsID": 8089862,
+      "sourceURL": "https://www.pexels.com/photo/person-holding-a-vietnamese-dong-8089862/",
+      "creator": "My Tran",
+      "theme": "cash",
+      "documentedLocation": "Quảng Ninh, Vietnam",
+      "locationEvidence": "Pexels primary photo page location field",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "wallet-hands",
+      "pexelsID": 7085769,
+      "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-a-person-holding-a-brown-wallet-7085769/",
+      "creator": "Emil Kalibradov",
+      "theme": "wallet",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "wallet-open",
+      "pexelsID": 4452504,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-hands-holding-wallet-4452504/",
+      "creator": "Vlada Karpovich",
+      "theme": "wallet",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "receipt-hands",
+      "pexelsID": 4959926,
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-woman-hands-holding-bill-4959926/",
+      "creator": "Kaboompics",
+      "theme": "receipt",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "cash-receipt",
+      "pexelsID": 4968499,
+      "sourceURL": "https://www.pexels.com/photo/person-getting-money-out-of-a-wallet-4968499/",
+      "creator": "Kaboompics",
+      "theme": "receipt",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "budget-calculator",
+      "pexelsID": 4386373,
+      "sourceURL": "https://www.pexels.com/photo/calculator-and-notepad-placed-over-stack-of-paper-bills-4386373/",
+      "creator": "Kaboompics",
+      "theme": "budget",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "budget-writing",
+      "pexelsID": 6962993,
+      "sourceURL": "https://www.pexels.com/photo/person-calculating-on-a-notebook-6962993/",
+      "creator": "Mikhail Nilov",
+      "theme": "budget",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "budget-couple",
+      "pexelsID": 6964105,
+      "sourceURL": "https://www.pexels.com/photo/couple-looking-at-their-bills-6964105/",
+      "creator": "Mikhail Nilov",
+      "theme": "budget",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "planner-writing",
+      "pexelsID": 6172482,
+      "sourceURL": "https://www.pexels.com/photo/a-person-writing-on-calendar-6172482/",
+      "creator": "RDNE Stock project",
+      "theme": "planning",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "calendar-open",
+      "pexelsID": 28353121,
+      "sourceURL": "https://www.pexels.com/photo/a-black-and-white-calendar-with-a-pen-on-top-28353121/",
+      "creator": "Natalia S",
+      "theme": "planning",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "grocery-cart",
+      "pexelsID": 4971925,
+      "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+      "creator": "Gustavo Fring",
+      "theme": "grocery",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "grocery-produce",
+      "pexelsID": 27175531,
+      "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-produce-aisle-27175531/",
+      "creator": "Helena Lopes",
+      "theme": "grocery",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "grocery-basket",
+      "pexelsID": 8422705,
+      "sourceURL": "https://www.pexels.com/photo/elderly-woman-buying-groceries-8422705/",
+      "creator": "Kampus Production",
+      "theme": "grocery",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "grocery-counter",
+      "pexelsID": 7990767,
+      "sourceURL": "https://www.pexels.com/photo/pregnant-woman-holding-basket-while-sitting-beside-counter-7990767/",
+      "creator": "Ivan S",
+      "theme": "grocery",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "vn-market-dalat",
+      "pexelsID": 35723468,
+      "sourceURL": "https://www.pexels.com/photo/local-market-scene-in-vietnam-with-vendors-and-shoppers-35723468/",
+      "creator": "Kushie In Vietnam",
+      "theme": "market",
+      "documentedLocation": "Dalat, Vietnam",
+      "locationEvidence": "Pexels primary photo page location field",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "vn-market-crowd",
+      "pexelsID": 30426347,
+      "sourceURL": "https://www.pexels.com/photo/bustling-street-market-in-urban-asia-30426347/",
+      "creator": "Pew Nguyen",
+      "theme": "market",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Pexels primary photo page location field",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "vn-market-scooters",
+      "pexelsID": 28463355,
+      "sourceURL": "https://www.pexels.com/photo/bustling-street-market-scene-in-vietnam-28463355/",
+      "creator": "Sam Tan",
+      "theme": "market",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Pexels primary photo page location field",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "coffee-friends",
+      "pexelsID": 5047019,
+      "sourceURL": "https://www.pexels.com/photo/beautiful-women-friends-drinking-coffee-together-5047019/",
+      "creator": "Ketut Subiyanto",
+      "theme": "coffee",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "coffee-camera",
+      "pexelsID": 5047022,
+      "sourceURL": "https://www.pexels.com/photo/woman-taking-a-picture-of-her-friend-while-sitting-in-a-cafe-and-drinking-coffee-5047022/",
+      "creator": "Ketut Subiyanto",
+      "theme": "coffee",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "coffee-group",
+      "pexelsID": 36729758,
+      "sourceURL": "https://www.pexels.com/photo/friends-enjoying-coffee-and-conversing-at-a-cafe-36729758/",
+      "creator": "Vitaly Gariev",
+      "theme": "coffee",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "dinner-friends",
+      "pexelsID": 8921578,
+      "sourceURL": "https://www.pexels.com/photo/a-group-of-friends-dinning-at-a-restaurant-8921578/",
+      "creator": "Ron Lach",
+      "theme": "meal",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "dinner-table",
+      "pexelsID": 6327606,
+      "sourceURL": "https://www.pexels.com/photo/friends-in-a-restaurant-eating-together-6327606/",
+      "creator": "Tima Miroshnichenko",
+      "theme": "meal",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "dinner-overhead",
+      "pexelsID": 5791670,
+      "sourceURL": "https://www.pexels.com/photo/a-high-angle-shot-of-people-sitting-near-the-table-while-having-dinner-5791670/",
+      "creator": "cottonbro studio",
+      "theme": "meal",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "phone-card-home",
+      "pexelsID": 7190949,
+      "sourceURL": "https://www.pexels.com/photo/woman-in-white-sweater-using-black-mobile-phone-7190949/",
+      "creator": "Pavel Danilyuk",
+      "theme": "phone",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "shopping-bags",
+      "pexelsID": 7007188,
+      "sourceURL": "https://www.pexels.com/photo/a-woman-holding-smartphone-and-credit-card-7007188/",
+      "creator": "Kindel Media",
+      "theme": "shopping",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "phone-card",
+      "pexelsID": 6237888,
+      "sourceURL": "https://www.pexels.com/photo/woman-holding-cellphone-and-a-credit-card-6237888/",
+      "creator": "Thirdman",
+      "theme": "phone",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "discount-shopping",
+      "pexelsID": 16097558,
+      "sourceURL": "https://www.pexels.com/photo/young-woman-browsing-clothes-on-sale-16097558/",
+      "creator": "Vladimir Srajber",
+      "theme": "discount",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "discount-tag",
+      "pexelsID": 5872184,
+      "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-a-hanger-with-a-discount-tag-5872184/",
+      "creator": "Max Fischer",
+      "theme": "discount",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "bill-due",
+      "pexelsID": 7926666,
+      "sourceURL": "https://www.pexels.com/photo/hand-of-a-man-holding-a-bill-with-past-due-stamp-7926666/",
+      "creator": "Nicola Barts",
+      "theme": "bills",
+      "documentedLocation": null,
+      "locationEvidence": "Not established",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "vn-family-home",
+      "pexelsID": 6871802,
+      "sourceURL": "https://www.pexels.com/photo/vietnamese-women-and-kids-sitting-in-front-of-a-house-6871802/",
+      "creator": "Quang Nguyen Vinh",
+      "theme": "family",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "Women and children in patterned traditional clothing sit outside a rustic home.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-family-rural",
+      "pexelsID": 33849670,
+      "sourceURL": "https://www.pexels.com/photo/family-bonding-in-rural-lao-cai-vietnam-33849670/",
+      "creator": "Son Hoa Nguyen",
+      "theme": "family",
+      "documentedLocation": "Lào Cai, Việt Nam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "Family group spends time together outdoors in a rural setting.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-family-gathering",
+      "pexelsID": 34617735,
+      "sourceURL": "https://www.pexels.com/fr-fr/photo/reunion-amicale-devant-une-maison-vietnamienne-34617735/",
+      "creator": "Thái Trường Giang",
+      "theme": "family",
+      "documentedLocation": "Kon Tum, Kon Tum, Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A group gathers in front of a house.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-family-portrait",
+      "pexelsID": 35986836,
+      "sourceURL": "https://www.pexels.com/photo/family-portrait-in-traditional-vietnamese-attire-35986836/",
+      "creator": "Xuân Quỳnh Đào",
+      "theme": "family",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A family poses at an entrance in formal and traditional clothing.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-bicycle-repair",
+      "pexelsID": 14684121,
+      "sourceURL": "https://www.pexels.com/photo/women-and-man-fixing-bicycles-14684121/",
+      "creator": "Tran Le Tuan",
+      "theme": "repair",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A person works on a bicycle beside two other people wearing conical hats.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-motorbike-repair",
+      "pexelsID": 26576908,
+      "sourceURL": "https://www.pexels.com/photo/mechanic-sitting-in-mask-and-working-26576908/",
+      "creator": "Thiện Võ Gia",
+      "theme": "repair",
+      "documentedLocation": "Thành phố Hồ Chí Minh, Hồ Chí Minh, Việt Nam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A seated mechanic wearing a face mask works on a motorbike.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-workshop",
+      "pexelsID": 30383020,
+      "sourceURL": "https://www.pexels.com/photo/mechanic-repairs-machinery-in-outdoor-shop-setting-30383020/",
+      "creator": "Pew Nguyen",
+      "theme": "repair",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A mechanic works among equipment, tools and machine parts in an outdoor workshop.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-commute-street",
+      "pexelsID": 28515992,
+      "sourceURL": "https://www.pexels.com/photo/busy-street-scene-in-ho-chi-minh-city-vietnam-28515992/",
+      "creator": "Luan Nguyen Luca",
+      "theme": "commuting",
+      "documentedLocation": "Thành phố Hồ Chí Minh, Hồ Chí Minh, Việt Nam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "Motorbikes occupy a busy city intersection.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-commute-traffic",
+      "pexelsID": 32123175,
+      "sourceURL": "https://www.pexels.com/photo/busy-urban-street-with-motorbike-traffic-32123175/",
+      "creator": "Pew Nguyen",
+      "theme": "commuting",
+      "documentedLocation": "Ho Chi Minh City, Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "An urban street contains motorbike traffic and pedestrians.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-commute-bikes",
+      "pexelsID": 33470126,
+      "sourceURL": "https://www.pexels.com/photo/motorbike-traffic-in-ho-chi-minh-city-street-33470126/",
+      "creator": "Kushie In Vietnam",
+      "theme": "commuting",
+      "documentedLocation": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "Two riders travel on motorbikes in a city street.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "health-consult",
+      "pexelsID": 5214997,
+      "sourceURL": "https://www.pexels.com/photo/a-patient-having-a-consultation-with-her-doctor-5214997/",
+      "creator": "Antoni Shkraba",
+      "theme": "health",
+      "documentedLocation": null,
+      "locationEvidence": "No country field found; do not label Vietnam",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A clinician checks a patient’s blood pressure during a consultation.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "health-doctor",
+      "pexelsID": 4266936,
+      "sourceURL": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266936/",
+      "creator": "Cedric Fauntleroy",
+      "theme": "health",
+      "documentedLocation": null,
+      "locationEvidence": "No country field found; do not label Vietnam",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A clinician and patient talk in a clinic; the clinician holds a tablet.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "vn-house",
+      "pexelsID": 36564122,
+      "sourceURL": "https://www.pexels.com/photo/traditional-vietnamese-house-in-rural-setting-36564122/",
+      "creator": "Jolenne Trieu",
+      "theme": "home",
+      "documentedLocation": "Vietnam",
+      "locationEvidence": "Explicit location field on primary photo page",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A traditional house stands in a rural landscape in daylight.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "home-keys-agent",
+      "pexelsID": 31015267,
+      "sourceURL": "https://www.pexels.com/photo/real-estate-agent-holding-new-home-keys-31015267/",
+      "creator": "Jakub Zerdzicki",
+      "theme": "home",
+      "documentedLocation": null,
+      "locationEvidence": "No country field found; do not label Vietnam",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "A hand holds house keys with a modern apartment interior behind it.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    },
+    {
+      "id": "home-keys-door",
+      "pexelsID": 31989061,
+      "sourceURL": "https://www.pexels.com/photo/hand-holding-keys-at-doorway-in-new-home-31989061/",
+      "creator": "Jakub Zerdzicki",
+      "theme": "home",
+      "documentedLocation": null,
+      "locationEvidence": "No country field found; do not label Vietnam",
+      "fit": "contain",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sourceDescription": "Close view of a hand holding keys near a doorway.",
+      "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels"
+    }
+  ]
+}

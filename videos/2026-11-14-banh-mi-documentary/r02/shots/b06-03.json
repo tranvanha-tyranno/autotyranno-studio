@@ -1,0 +1,9 @@
+{
+  "id": "b06-03",
+  "sha256": "f2db69107f6478c1ca043bd4db48d91213f8815dd437f8af0299d84b7b619292",
+  "decodedFrames": 102,
+  "wallSeconds": 0,
+  "reuseFrom": "r01/shots/b06-03.mp4",
+  "sourceSHA256": "f2db69107f6478c1ca043bd4db48d91213f8815dd437f8af0299d84b7b619292",
+  "repair": "remux video timebase to15360 preserving encoded frames"
+}

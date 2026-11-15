@@ -1,0 +1,2025 @@
+[
+  {
+    "text": "Lương tăng hai triệu.",
+    "startMs": 0,
+    "endMs": 960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cuối tháng, tiền dư vẫn hai triệu.",
+    "startMs": 1147,
+    "endMs": 3200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh nhìn ví, rồi nhìn thông báo tăng lương:",
+    "startMs": 3344,
+    "endMs": 6080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "tiền vừa vào đã biết đường trốn?",
+    "startMs": 6192,
+    "endMs": 7920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đặt hai tháng cạnh nhau, xem từng đồng đã nhận",
+    "startMs": 8240,
+    "endMs": 10800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "công việc gì.",
+    "startMs": 10832,
+    "endMs": 11440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh, Lan và toàn bộ số tiền là ví dụ",
+    "startMs": 11696,
+    "endMs": 14880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "giả định.",
+    "startMs": 14920,
+    "endMs": 15360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Video giúp hiểu cách lập kế hoạch chi tiêu, không",
+    "startMs": 15467,
+    "endMs": 18000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "phải tư vấn tài chính cá nhân.",
+    "startMs": 18032,
+    "endMs": 19360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hãy điều chỉnh theo hoàn cảnh thực tế.",
+    "startMs": 19460,
+    "endMs": 21280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh quả quyết không mua điện thoại, cũng chẳng đi",
+    "startMs": 21536,
+    "endMs": 24320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "du lịch.",
+    "startMs": 24373,
+    "endMs": 24720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan mở lịch sử chi tiêu, kéo những tờ hóa",
+    "startMs": 24900,
+    "endMs": 27520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đơn nhỏ ra bàn.",
+    "startMs": 27580,
+    "endMs": 28560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Từng khoản khó giải thích cả tháng, nhưng cộng lại",
+    "startMs": 28800,
+    "endMs": 31440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thì khác.",
+    "startMs": 31480,
+    "endMs": 31920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tăng lương rồi sống thoải mái hơn không có gì",
+    "startMs": 32220,
+    "endMs": 34320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "sai.",
+    "startMs": 34400,
+    "endMs": 34800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhưng Minh muốn có khoảng thở lúc xe hỏng, trong",
+    "startMs": 34880,
+    "endMs": 37600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "khi phần tăng thu nhập chưa từng được dành cho",
+    "startMs": 37640,
+    "endMs": 39680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "việc đó.",
+    "startMs": 39712,
+    "endMs": 40160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mọi khoản tăng đã trở thành thói quen.",
+    "startMs": 40480,
+    "endMs": 42600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Sửa thế nào để không biến cuộc sống thành cuộc",
+    "startMs": 42960,
+    "endMs": 45120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thi chịu khổ?",
+    "startMs": 45180,
+    "endMs": 45920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đi từ hai chiếc phong bì tới một tháng hóa",
+    "startMs": 46080,
+    "endMs": 48240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đơn, rồi làm kế hoạch ba mươi ngày.",
+    "startMs": 48300,
+    "endMs": 50160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhìn rõ lựa chọn, trước khi quyết định giữ hay",
+    "startMs": 50293,
+    "endMs": 52720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đổi.",
+    "startMs": 52800,
+    "endMs": 53120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tháng đầu, Minh có thu nhập mười hai triệu, tổng",
+    "startMs": 53570,
+    "endMs": 56130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chi mười triệu.",
+    "startMs": 56210,
+    "endMs": 57010,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lấy mười hai trừ mười, còn hai triệu.",
+    "startMs": 57290,
+    "endMs": 59730,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Ta gọi đây là khoản dư của phép so sánh,",
+    "startMs": 59863,
+    "endMs": 62450,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chưa mặc định toàn bộ đều có thể đem tiêu.",
+    "startMs": 62482,
+    "endMs": 64450,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tháng mới, lương mười bốn triệu, tổng chi mười hai",
+    "startMs": 64823,
+    "endMs": 68290,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "triệu.",
+    "startMs": 68343,
+    "endMs": 68690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lấy mười bốn trừ mười hai, vẫn còn hai triệu.",
+    "startMs": 68970,
+    "endMs": 71890,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hai chiếc phong bì đều phình ra, riêng phần dư",
+    "startMs": 72090,
+    "endMs": 75090,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ở giữa vẫn nguyên kích thước.",
+    "startMs": 75170,
+    "endMs": 76490,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Không có tiền bí ẩn biến mất.",
+    "startMs": 76623,
+    "endMs": 78370,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Phần tăng lương đã chuyển sang phần chi thêm.",
+    "startMs": 78514,
+    "endMs": 81170,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhìn con số lương, Minh thấy mình khá hơn.",
+    "startMs": 81570,
+    "endMs": 84530,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhìn cả hai phía phép trừ, cậu hiểu vì sao",
+    "startMs": 84717,
+    "endMs": 87490,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cuối tháng vẫn như cũ.",
+    "startMs": 87522,
+    "endMs": 88610,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhưng đừng vội dán nhãn hoang phí.",
+    "startMs": 88983,
+    "endMs": 90930,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tiền nhà có thể tăng, người thân cần hỗ trợ,",
+    "startMs": 91037,
+    "endMs": 93890,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "công việc mới tốn thêm đi lại.",
+    "startMs": 93922,
+    "endMs": 95650,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Những việc đó khác với mua thêm vì thấy tài",
+    "startMs": 95703,
+    "endMs": 98130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "khoản nhiều tiền.",
+    "startMs": 98157,
+    "endMs": 98850,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cách sửa phụ thuộc nguyên nhân thật.",
+    "startMs": 99010,
+    "endMs": 101090,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan đặt hai nhãn:",
+    "startMs": 101690,
+    "endMs": 102770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cần thiết và có thể lựa chọn.",
+    "startMs": 102890,
+    "endMs": 105250,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh kéo từng hóa đơn vào chỗ phù hợp, để",
+    "startMs": 105346,
+    "endMs": 107890,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nhóm chưa rõ kiểm sau.",
+    "startMs": 107954,
+    "endMs": 109250,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Họ phân biệt phần buộc phải gánh với phần có",
+    "startMs": 109490,
+    "endMs": 112050,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thể thương lượng.",
+    "startMs": 112090,
+    "endMs": 112770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Trong ví dụ này, Minh chi thêm sáu mươi nghìn",
+    "startMs": 113220,
+    "endMs": 115580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "mỗi ngày so với trước.",
+    "startMs": 115610,
+    "endMs": 116660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đó là tổng phần nâng cấp nhỏ, không phải giá",
+    "startMs": 116847,
+    "endMs": 119380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "một món cụ thể.",
+    "startMs": 119420,
+    "endMs": 120260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tờ hóa đơn mỏng đến mức cậu gần như không",
+    "startMs": 120620,
+    "endMs": 123060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "coi nó là quyết định.",
+    "startMs": 123120,
+    "endMs": 124021,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan đưa hóa đơn qua ba mươi ô lịch.",
+    "startMs": 124260,
+    "endMs": 126340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Sáu mươi nghìn nhân ba mươi bằng một triệu tám.",
+    "startMs": 126620,
+    "endMs": 129300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Phép tính không kết tội ly nước nào.",
+    "startMs": 129567,
+    "endMs": 131620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nó đổi góc nhìn:",
+    "startMs": 131807,
+    "endMs": 133180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "lựa chọn lặp lại cần được đánh giá bằng tổng",
+    "startMs": 133250,
+    "endMs": 135380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "tháng.",
+    "startMs": 135433,
+    "endMs": 135780,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Thêm một bữa ăn hai trăm nghìn ngoài mức chi",
+    "startMs": 136073,
+    "endMs": 138340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cũ.",
+    "startMs": 138420,
+    "endMs": 138740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Một triệu tám cộng hai trăm nghìn, vừa hết hai",
+    "startMs": 138880,
+    "endMs": 141620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "triệu tăng lương.",
+    "startMs": 141673,
+    "endMs": 142420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh im một nhịp.",
+    "startMs": 142564,
+    "endMs": 144140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Không có món đồ khổng lồ, nhưng chuỗi quyết định",
+    "startMs": 144187,
+    "endMs": 146660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đứng cạnh nhau đã đủ lớn.",
+    "startMs": 146708,
+    "endMs": 148140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh có thể giữ khoản đáng tiền, hoặc đổi tần",
+    "startMs": 148324,
+    "endMs": 151140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "suất và mức nâng cấp.",
+    "startMs": 151188,
+    "endMs": 152260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Một bữa gặp bạn có thể quan trọng hơn nhiều",
+    "startMs": 152440,
+    "endMs": 154740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "lần đặt thêm vì tiện.",
+    "startMs": 154800,
+    "endMs": 155940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Không cần cắt đều mọi thứ.",
+    "startMs": 156007,
+    "endMs": 157540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Thử bớt hai mươi nghìn mỗi ngày.",
+    "startMs": 157807,
+    "endMs": 159820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hai mươi nghìn nhân ba mươi bằng sáu trăm nghìn.",
+    "startMs": 159910,
+    "endMs": 162500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khoản khác giữ nguyên thì tổng chi còn mười một",
+    "startMs": 162660,
+    "endMs": 165620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "triệu tư, dư hai triệu sáu.",
+    "startMs": 165660,
+    "endMs": 167700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là kịch bản, không phải mức tiết kiệm bắt",
+    "startMs": 167880,
+    "endMs": 170420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "buộc.",
+    "startMs": 170484,
+    "endMs": 170740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mở lịch sử giao dịch và ghi thêm tiền mặt",
+    "startMs": 171190,
+    "endMs": 173030,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "dễ quên.",
+    "startMs": 173083,
+    "endMs": 173590,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mỗi dòng cần ngày, khoản chi, số tiền và ghi",
+    "startMs": 173990,
+    "endMs": 177350,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chú ngắn.",
+    "startMs": 177410,
+    "endMs": 177910,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh dùng dữ liệu đang có, không chờ tìm ứng",
+    "startMs": 178070,
+    "endMs": 180710,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "dụng hoàn hảo.",
+    "startMs": 180742,
+    "endMs": 181390,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chuyển tiền giữa hai tài khoản của mình chưa phải",
+    "startMs": 181617,
+    "endMs": 184150,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chi mua hàng.",
+    "startMs": 184190,
+    "endMs": 184950,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Rút tiền mặt cũng chưa cho biết đã mua gì.",
+    "startMs": 185190,
+    "endMs": 187590,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Vừa tính lần rút, vừa tính lần dùng tiền mặt,",
+    "startMs": 187830,
+    "endMs": 190550,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "một khoản có thể bị đếm hai lần.",
+    "startMs": 190590,
+    "endMs": 192150,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khoản bạn trả lại tiền ăn chung không tự thành",
+    "startMs": 192800,
+    "endMs": 195190,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thu nhập mới.",
+    "startMs": 195230,
+    "endMs": 195910,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan ghép khoản trả trước với khoản được hoàn lại.",
+    "startMs": 196110,
+    "endMs": 198790,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hai dòng đứng cạnh nhau giúp Minh thấy phần nào",
+    "startMs": 198950,
+    "endMs": 201430,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thực sự thuộc chi tiêu của cậu.",
+    "startMs": 201478,
+    "endMs": 203030,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh đánh dấu:",
+    "startMs": 203894,
+    "endMs": 205230,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cần giữ, chưa chắc, và muốn đổi.",
+    "startMs": 205300,
+    "endMs": 207910,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khoản nhỏ dùng mỗi ngày có thể hữu ích;",
+    "startMs": 208050,
+    "endMs": 210230,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "món lớn mua rẻ lại nằm im.",
+    "startMs": 210370,
+    "endMs": 212230,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Họ đánh giá công dụng cùng tần suất, không chỉ",
+    "startMs": 212470,
+    "endMs": 215030,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nhìn giá.",
+    "startMs": 215062,
+    "endMs": 215630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh chọn một khoản để thử trong tuần tới:",
+    "startMs": 215894,
+    "endMs": 218630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "bớt một lần đặt thêm, hoặc kiểm dịch vụ đang",
+    "startMs": 218910,
+    "endMs": 221510,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "trả tiền.",
+    "startMs": 221550,
+    "endMs": 222070,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lời hứa sẽ tiết kiệm hơn khó đo.",
+    "startMs": 222430,
+    "endMs": 224470,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Một việc cụ thể có mốc kiểm lại thì dễ",
+    "startMs": 224590,
+    "endMs": 227110,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "theo dõi.",
+    "startMs": 227142,
+    "endMs": 227670,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Dịch vụ tự trừ tiền, dù Minh chẳng nhớ lần",
+    "startMs": 228120,
+    "endMs": 230680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cuối sử dụng.",
+    "startMs": 230712,
+    "endMs": 231320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan đặt biểu tượng gia hạn lên lịch:",
+    "startMs": 231520,
+    "endMs": 233800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "tháng tới mình có chủ động mua lại không?",
+    "startMs": 233853,
+    "endMs": 235800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Quyết định cũ vẫn chạy mà ít được xem lại.",
+    "startMs": 235920,
+    "endMs": 238680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Dịch vụ giả định giá một trăm hai mươi nghìn",
+    "startMs": 239280,
+    "endMs": 241320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "mỗi tháng.",
+    "startMs": 241380,
+    "endMs": 241960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhân mười hai tháng là một triệu bốn trăm bốn",
+    "startMs": 242072,
+    "endMs": 244680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "mươi nghìn.",
+    "startMs": 244720,
+    "endMs": 245160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu không cần, kiểm điều kiện hủy.",
+    "startMs": 245320,
+    "endMs": 247400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đừng coi tổng năm là tiền tiết kiệm ngay, khi",
+    "startMs": 247680,
+    "endMs": 250440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "khoản đã trả không được hoàn.",
+    "startMs": 250493,
+    "endMs": 251880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Có khoản ít xuất hiện nên bị quên:",
+    "startMs": 252147,
+    "endMs": 254120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "bảo dưỡng, thay đồ dùng, nghĩa vụ định kỳ.",
+    "startMs": 254260,
+    "endMs": 257080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chưa tới hạn không nghĩa là bất ngờ.",
+    "startMs": 257213,
+    "endMs": 259320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh đưa việc dự kiến lên một lịch riêng, tách",
+    "startMs": 259448,
+    "endMs": 261960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "khỏi sự cố chưa biết.",
+    "startMs": 262008,
+    "endMs": 263080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khoản dự kiến một triệu hai cho cả năm tương",
+    "startMs": 263480,
+    "endMs": 265960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đương một trăm nghìn mỗi tháng.",
+    "startMs": 265987,
+    "endMs": 267320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là ví dụ độc lập.",
+    "startMs": 267440,
+    "endMs": 268760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhưng nếu hạn đã gần, chưa để dành gì, không",
+    "startMs": 268827,
+    "endMs": 271480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thể chia mười hai rồi coi như chuẩn bị đủ.",
+    "startMs": 271520,
+    "endMs": 273800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tiền nằm trong tài khoản có thể đã có việc",
+    "startMs": 274387,
+    "endMs": 276600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cho tháng sau.",
+    "startMs": 276640,
+    "endMs": 277320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh tách khoản dự trù vào phong bì có nhãn.",
+    "startMs": 277448,
+    "endMs": 280120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chuyển chỗ không làm cậu giàu thêm;",
+    "startMs": 280333,
+    "endMs": 282600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nó giúp tránh tiêu nhầm tiền đã có nhiệm vụ.",
+    "startMs": 282760,
+    "endMs": 285000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cả tháng vẫn dư nhưng giữa tháng thiếu.",
+    "startMs": 285450,
+    "endMs": 287770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Ví dụ mới:",
+    "startMs": 288063,
+    "endMs": 289130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "tiền nhà đến hạn trước ngày lương về.",
+    "startMs": 289258,
+    "endMs": 291370,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan trải lịch, đặt tiền đúng ngày nhận, hóa đơn",
+    "startMs": 291530,
+    "endMs": 294490,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đúng ngày trả.",
+    "startMs": 294538,
+    "endMs": 295290,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tổng tháng không tự dời được hạn.",
+    "startMs": 295418,
+    "endMs": 297450,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh đi qua từng ngày, mang số dư hôm trước",
+    "startMs": 298026,
+    "endMs": 300570,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "sang hôm sau.",
+    "startMs": 300618,
+    "endMs": 301370,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khi hóa đơn xuất hiện trước tiền vào, đường tiền",
+    "startMs": 301510,
+    "endMs": 304330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chạm đáy.",
+    "startMs": 304383,
+    "endMs": 304970,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là vấn đề thời điểm.",
+    "startMs": 305170,
+    "endMs": 307090,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Muốn hiểu chỗ thiếu, phải xem diễn biến trên lịch.",
+    "startMs": 307210,
+    "endMs": 309770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Một hướng là khoảng đệm tiền mặt phù hợp, để",
+    "startMs": 310270,
+    "endMs": 312810,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nghĩa vụ gần tới bớt phụ thuộc lần tiền vào",
+    "startMs": 312837,
+    "endMs": 315210,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "kế tiếp.",
+    "startMs": 315263,
+    "endMs": 315770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu chưa tạo được, nhận diện ngày dễ thiếu, xem",
+    "startMs": 315930,
+    "endMs": 319050,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "có thể thương lượng lịch trả không.",
+    "startMs": 319103,
+    "endMs": 320490,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh đặt nhắc việc trước hạn trả và gia hạn",
+    "startMs": 321162,
+    "endMs": 323770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "dịch vụ.",
+    "startMs": 323818,
+    "endMs": 324250,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Thông báo không tạo ra tiền, nhưng cho thời gian",
+    "startMs": 324383,
+    "endMs": 327290,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "kiểm.",
+    "startMs": 327338,
+    "endMs": 327610,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Dùng chuyển tự động thì cần đủ số dư và",
+    "startMs": 327970,
+    "endMs": 330650,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "hiểu điều kiện.",
+    "startMs": 330698,
+    "endMs": 331450,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chiếc nút vẫn cần kế hoạch phía sau.",
+    "startMs": 331610,
+    "endMs": 333810,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan viết hai câu hỏi cạnh nhau:",
+    "startMs": 334110,
+    "endMs": 336170,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cả tháng có đủ không?",
+    "startMs": 336383,
+    "endMs": 337850,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tới ngày trả, có sẵn tiền không?",
+    "startMs": 338090,
+    "endMs": 340010,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Câu đầu kiểm cân đối, câu sau kiểm lịch dòng",
+    "startMs": 340410,
+    "endMs": 343370,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "tiền.",
+    "startMs": 343434,
+    "endMs": 343770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tách chúng ra, Minh mới chọn cách sửa đúng chỗ.",
+    "startMs": 344050,
+    "endMs": 346890,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhà ở, ăn uống, đi lại, trách nhiệm gia đình",
+    "startMs": 347340,
+    "endMs": 350300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "có thể chiếm gần hết thu nhập.",
+    "startMs": 350407,
+    "endMs": 351900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Trước khi tự trách, hãy nhìn phần chi buộc phải",
+    "startMs": 352087,
+    "endMs": 354620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "giữ.",
+    "startMs": 354680,
+    "endMs": 355020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bớt món nhỏ không giải quyết mọi trường hợp.",
+    "startMs": 355220,
+    "endMs": 357260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Ngân sách phải có chỗ cho sức khỏe và nghĩa",
+    "startMs": 358316,
+    "endMs": 361100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "vụ đã cam kết.",
+    "startMs": 361180,
+    "endMs": 362060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan kéo hóa đơn quan trọng ra khỏi chiếc kéo.",
+    "startMs": 362220,
+    "endMs": 364700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cắt khoản cần thiết chỉ để số tiết kiệm đẹp",
+    "startMs": 364900,
+    "endMs": 367260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "có thể khiến vấn đề quay lại lớn hơn.",
+    "startMs": 367340,
+    "endMs": 369260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu phần thiết yếu đã vượt thu nhập, bài toán",
+    "startMs": 370460,
+    "endMs": 373420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "không chỉ là kỷ luật.",
+    "startMs": 373447,
+    "endMs": 374460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Có thể phải xem phương án nhà ở, công việc",
+    "startMs": 374567,
+    "endMs": 377020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "hoặc sắp xếp nghĩa vụ.",
+    "startMs": 377116,
+    "endMs": 378380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mỗi lựa chọn có điều kiện;",
+    "startMs": 378700,
+    "endMs": 380220,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "video không quyết định thay bạn.",
+    "startMs": 380313,
+    "endMs": 382140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Dư hai triệu sáu chỉ đúng nếu chi khác không",
+    "startMs": 382500,
+    "endMs": 384860,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đổi.",
+    "startMs": 384920,
+    "endMs": 385180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhà tăng giá thì kết quả phải tính lại.",
+    "startMs": 385340,
+    "endMs": 387661,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đừng ép đời sống khớp phép tính đẹp.",
+    "startMs": 387860,
+    "endMs": 389660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Ngân sách là bản nháp cần cập nhật, không phải",
+    "startMs": 389788,
+    "endMs": 392540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "lời hứa.",
+    "startMs": 392580,
+    "endMs": 393100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đừng lấy mức dư người khác chấm điểm mình.",
+    "startMs": 393460,
+    "endMs": 395660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh so với dữ liệu của chính cậu:",
+    "startMs": 395724,
+    "endMs": 397580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "khoản nào rõ hơn, lần quên nào giảm, có bớt",
+    "startMs": 397647,
+    "endMs": 400540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thiếu trước hạn không?",
+    "startMs": 400580,
+    "endMs": 401500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tiến bộ có thể bắt đầu bằng lịch thanh toán",
+    "startMs": 401713,
+    "endMs": 404060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "rõ ràng.",
+    "startMs": 404140,
+    "endMs": 404700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Biết nghĩa vụ và khoản dự trù rồi, Minh mới",
+    "startMs": 405150,
+    "endMs": 407710,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chọn phần dành cho khoảng đệm.",
+    "startMs": 407742,
+    "endMs": 409070,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mục đích rõ giúp cậu hiểu vì sao giữ tiền",
+    "startMs": 409350,
+    "endMs": 411950,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "hôm nay:",
+    "startMs": 411990,
+    "endMs": 412430,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "để xử lý một việc cần thiết mà ít phải",
+    "startMs": 412643,
+    "endMs": 414990,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đảo lộn cả tháng.",
+    "startMs": 415030,
+    "endMs": 415870,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh bắt đầu bằng ba trăm nghìn.",
+    "startMs": 416078,
+    "endMs": 417790,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Không phải chuẩn chung:",
+    "startMs": 417883,
+    "endMs": 419150,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "quá sức thì điều chỉnh, thuận lợi hơn có thể",
+    "startMs": 419270,
+    "endMs": 422110,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chọn khác.",
+    "startMs": 422158,
+    "endMs": 422670,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cần kiểm khoản dành ra có làm thiếu tiền cho",
+    "startMs": 422830,
+    "endMs": 425630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nghĩa vụ gần tới không.",
+    "startMs": 425657,
+    "endMs": 426710,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh lên lịch chuyển sau ngày thu nhập về, cùng",
+    "startMs": 426926,
+    "endMs": 429870,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "số tiền đã cân nhắc với hóa đơn.",
+    "startMs": 429923,
+    "endMs": 431630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cậu kiểm lần đầu.",
+    "startMs": 431870,
+    "endMs": 432910,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tự động phù hợp giúp bớt phải nhớ;",
+    "startMs": 433110,
+    "endMs": 435070,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nếu lịch lương hoặc nghĩa vụ đổi, lịch chuyển cũng",
+    "startMs": 435210,
+    "endMs": 437950,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "cần xem lại.",
+    "startMs": 438010,
+    "endMs": 438671,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lúc xe cần sửa, Minh dùng phần đã chuẩn bị.",
+    "startMs": 439270,
+    "endMs": 441950,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Phong bì mỏng đi không nghĩa là thất bại:",
+    "startMs": 442083,
+    "endMs": 444670,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nó đang làm việc được giao.",
+    "startMs": 444830,
+    "endMs": 446630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Sau đó, xem khả năng bổ sung từng bước, thay",
+    "startMs": 446740,
+    "endMs": 449470,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "vì bỏ quên nghĩa vụ.",
+    "startMs": 449523,
+    "endMs": 450590,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chuyển tiền giữa hai túi không tự tạo lợi nhuận.",
+    "startMs": 451123,
+    "endMs": 453710,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Giá trị là nhận diện tiền có nhiệm vụ và",
+    "startMs": 453870,
+    "endMs": 456750,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "tránh tiêu nhầm.",
+    "startMs": 456790,
+    "endMs": 457550,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nhìn chiếc ví đầu video, Minh chưa thành người",
+    "startMs": 457790,
+    "endMs": 460590,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "giàu, nhưng hiểu đồng nào đang được dành cho việc",
+    "startMs": 460638,
+    "endMs": 463310,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "gì.",
+    "startMs": 463390,
+    "endMs": 463630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Trước khi mua, Minh đừng chỉ nhìn giá trên nhãn.",
+    "startMs": 464080,
+    "endMs": 466480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lan kéo thêm những mảnh còn thiếu:",
+    "startMs": 466660,
+    "endMs": 468800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "phụ kiện cần mua, phí giao nếu có, chi phí",
+    "startMs": 468880,
+    "endMs": 471920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "sử dụng dự kiến.",
+    "startMs": 471973,
+    "endMs": 473120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tổng tiền phải bỏ ra giúp so lựa chọn công",
+    "startMs": 473184,
+    "endMs": 475600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "bằng hơn.",
+    "startMs": 475632,
+    "endMs": 476160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Giảm giá vẫn là chi tiền nếu mua.",
+    "startMs": 476960,
+    "endMs": 479040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khoảng chênh trên nhãn không tự thành tiền dư thật.",
+    "startMs": 479180,
+    "endMs": 481680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh đặt món đồ xuống:",
+    "startMs": 481824,
+    "endMs": 483560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "không thấy khuyến mại, mình có cần không?",
+    "startMs": 483607,
+    "endMs": 485600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu có, so tổng chi phí và điều kiện.",
+    "startMs": 485800,
+    "endMs": 488560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu không, có thể chờ.",
+    "startMs": 488680,
+    "endMs": 490320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chia nhiều lần trả không làm tổng giá nhỏ đi.",
+    "startMs": 490773,
+    "endMs": 493760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Kiểm tổng tiền, phí nếu có, ngày đến hạn.",
+    "startMs": 493904,
+    "endMs": 497280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh xếp các lần thanh toán lên lịch, cạnh nghĩa",
+    "startMs": 497456,
+    "endMs": 500160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "vụ cũ.",
+    "startMs": 500213,
+    "endMs": 500800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Số nhỏ hôm nay đi cùng lời hẹn phía sau.",
+    "startMs": 501013,
+    "endMs": 503640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Món chưa cần ngay, Minh thử lưu lại rồi xem",
+    "startMs": 504000,
+    "endMs": 506640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "sau.",
+    "startMs": 506700,
+    "endMs": 506960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Khoảng dừng cho cậu cơ hội đối chiếu kế hoạch,",
+    "startMs": 507180,
+    "endMs": 510240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "không bảo đảm luôn chọn đúng.",
+    "startMs": 510267,
+    "endMs": 511600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu vẫn cần và đủ khả năng, quyết định mua",
+    "startMs": 511740,
+    "endMs": 514320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "có thể rất hợp lý.",
+    "startMs": 514373,
+    "endMs": 515360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mua ít hơn chưa chắc tốt hơn.",
+    "startMs": 516040,
+    "endMs": 518080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đồ dùng lâu, giải quyết nhu cầu thật có thể",
+    "startMs": 518400,
+    "endMs": 521120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đáng tiền hơn món ngẫu hứng.",
+    "startMs": 521152,
+    "endMs": 522560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh giữ một lựa chọn cần thiết, bỏ món không",
+    "startMs": 522720,
+    "endMs": 525520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "còn muốn.",
+    "startMs": 525580,
+    "endMs": 526080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cậu đang chọn ưu tiên.",
+    "startMs": 526280,
+    "endMs": 527520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Làm kế hoạch ba mươi ngày.",
+    "startMs": 527970,
+    "endMs": 529170,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tuần đầu, ghi chi tiêu và hạn trả, sửa dòng",
+    "startMs": 529410,
+    "endMs": 532690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đếm hai lần.",
+    "startMs": 532770,
+    "endMs": 533610,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chưa đổi tất cả.",
+    "startMs": 533677,
+    "endMs": 534530,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Cần bức tranh đủ thật để tuần sau không phải",
+    "startMs": 534690,
+    "endMs": 537090,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "quyết định bằng cảm giác.",
+    "startMs": 537117,
+    "endMs": 538370,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tuần hai, kiểm một khoản lặp lại:",
+    "startMs": 538797,
+    "endMs": 540770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "còn cần không, tổng tháng bao nhiêu?",
+    "startMs": 540890,
+    "endMs": 542930,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Nếu đổi, ghi rõ cách đổi và mốc kiểm.",
+    "startMs": 543090,
+    "endMs": 545730,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Minh thử mức chi thêm thấp hơn, giữ bữa gặp",
+    "startMs": 545842,
+    "endMs": 548370,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "bạn.",
+    "startMs": 548430,
+    "endMs": 548690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Một lựa chọn cụ thể thay cho danh sách cấm",
+    "startMs": 548810,
+    "endMs": 551090,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "đoán dài.",
+    "startMs": 551122,
+    "endMs": 551650,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tuần ba, đặt nhắc việc và tách khoản dự trù",
+    "startMs": 552610,
+    "endMs": 555650,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "phù hợp.",
+    "startMs": 555690,
+    "endMs": 556210,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Dùng chuyển tự động thì kiểm số dư cùng ngày",
+    "startMs": 556410,
+    "endMs": 558850,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "lương thực tế.",
+    "startMs": 558877,
+    "endMs": 559650,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bắt đầu bằng mức có thể giữ.",
+    "startMs": 559810,
+    "endMs": 561330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chuyển giữa hai túi của mình không thành khoản chi",
+    "startMs": 561517,
+    "endMs": 563810,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "mới.",
+    "startMs": 563870,
+    "endMs": 564130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tuần bốn, so thực tế với kế hoạch:",
+    "startMs": 564637,
+    "endMs": 567570,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "thu, chi, dự trù, ngày thiếu tiền.",
+    "startMs": 567730,
+    "endMs": 570690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chênh thì tìm nguyên nhân, sửa giả định.",
+    "startMs": 570877,
+    "endMs": 573170,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Tuần bận hay hóa đơn mới là dữ liệu điều",
+    "startMs": 573330,
+    "endMs": 575730,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "chỉnh, không phải lý do xé sổ.",
+    "startMs": 575770,
+    "endMs": 577490,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Lương tăng mà dư đứng yên vì chi tăng cùng",
+    "startMs": 577910,
+    "endMs": 580290,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "nhịp.",
+    "startMs": 580343,
+    "endMs": 580890,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hôm nay, chọn một khoản, cộng đủ cả tháng, rồi",
+    "startMs": 581030,
+    "endMs": 584130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "quyết định giữ hay đổi.",
+    "startMs": 584157,
+    "endMs": 585570,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Ghi ngày kiểm lại.",
+    "startMs": 585730,
+    "endMs": 586970,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Từng đồng có việc rõ giúp bạn chọn cuộc sống",
+    "startMs": 587070,
+    "endMs": 589410,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "mình muốn hơn.",
+    "startMs": 589442,
+    "endMs": 590210,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

@@ -1,0 +1,791 @@
+{
+  "purpose": "Bound decoded texture RAM for Remotion/Three.js; source originals are immutable",
+  "direction": "long",
+  "assets": [
+    {
+      "id": "asian-notes",
+      "originalFile": "assets/asian-notes.jpg",
+      "publicFile": "directions/long/asian-notes.jpg",
+      "originalSHA256": "fd1320d7e3b965e62c679da1d6b3171ca922c97d9533bf3613733c72ecbbf328",
+      "publicSHA256": "17899c94e70e11410f75b0d89941f12b06fde39136d33a95434a5062c43d1b40",
+      "originalStoredDimensions": [
+        2400,
+        3600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        3600
+      ],
+      "publicDimensions": [
+        853,
+        1280
+      ],
+      "originalBytes": 488542,
+      "publicBytes": 179777,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "board-team",
+      "originalFile": "assets/board-team.jpg",
+      "publicFile": "directions/long/board-team.jpg",
+      "originalSHA256": "8700fbcf38de4565472f6c257e2b86e9d60c787a875c7b330fbd55fcef378a54",
+      "publicSHA256": "817ba2f0e37aac5b10b5c7e98c34fc52e62ede0e2623463f35adc1051313365c",
+      "originalStoredDimensions": [
+        2400,
+        1350
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1350
+      ],
+      "publicDimensions": [
+        2048,
+        1152
+      ],
+      "originalBytes": 199943,
+      "publicBytes": 347877,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "calculator",
+      "originalFile": "assets/calculator.jpg",
+      "publicFile": "directions/long/calculator.jpg",
+      "originalSHA256": "c9bdd889915ab1bf71dbae661ab2d8fb25f31d6da8f4a251fece787c10ea76e6",
+      "publicSHA256": "266584e260aa86ab1eaef16f307ffc3c010705ae1be324af69ba21b816d8f460",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 409605,
+      "publicBytes": 585531,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "client-meeting",
+      "originalFile": "assets/client-meeting.jpg",
+      "publicFile": "directions/long/client-meeting.jpg",
+      "originalSHA256": "fafe7b57a818e620ccfc1b5a105519cfee3d37f01480c4fdbc68833872a4628e",
+      "publicSHA256": "e43440ecdcf95a4940feb2b315593f96e2056582748a9a3a561dad7a6c407a32",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 165449,
+      "publicBytes": 266181,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "clipboard-check",
+      "originalFile": "assets/clipboard-check.jpg",
+      "publicFile": "directions/long/clipboard-check.jpg",
+      "originalSHA256": "971a4713df01d9767cffd8c810bd72c26594856213c86059cd57c037aaa48ede",
+      "publicSHA256": "24de73310bad34156881857a9cbe4ceba31c1a4df7a6ece98ddd0bf8f6451f4b",
+      "originalStoredDimensions": [
+        2400,
+        2401
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        2401
+      ],
+      "publicDimensions": [
+        1279,
+        1280
+      ],
+      "originalBytes": 303381,
+      "publicBytes": 259790,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "colleagues",
+      "originalFile": "assets/colleagues.jpg",
+      "publicFile": "directions/long/colleagues.jpg",
+      "originalSHA256": "493e0d799ae0bfc56f5235a066af668a56c360df1416f6d24b0181e829663031",
+      "publicSHA256": "6cdd5b18618529057cc00743299f984be76a5bc98923efb81b0893d354c7f7ee",
+      "originalStoredDimensions": [
+        2400,
+        1597
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1597
+      ],
+      "publicDimensions": [
+        1924,
+        1280
+      ],
+      "originalBytes": 520321,
+      "publicBytes": 701378,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "discussion",
+      "originalFile": "assets/discussion.jpg",
+      "publicFile": "directions/long/discussion.jpg",
+      "originalSHA256": "7d2ac69d53470519ed6628698cfe49a4a265ef12f4f7bc1b586a68e18118ead8",
+      "publicSHA256": "7c30f2e7990c65970734ad97d9eecc27890963e3cdc36434a97e04d69266ae65",
+      "originalStoredDimensions": [
+        2400,
+        1602
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1602
+      ],
+      "publicDimensions": [
+        1918,
+        1280
+      ],
+      "originalBytes": 283969,
+      "publicBytes": 408244,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "folders",
+      "originalFile": "assets/folders.jpg",
+      "publicFile": "directions/long/folders.jpg",
+      "originalSHA256": "19ce584ba37dea2112b45e97e96edd6df91563481ea4198db41d9f14ce28813e",
+      "publicSHA256": "99b6a17e8a8ca93f1a9e15a3a2736d192cc7bb38540bae9f3fbd6223e3d3b293",
+      "originalStoredDimensions": [
+        2400,
+        1601
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1601
+      ],
+      "publicDimensions": [
+        1919,
+        1280
+      ],
+      "originalBytes": 186839,
+      "publicBytes": 302830,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "headset",
+      "originalFile": "assets/headset.jpg",
+      "publicFile": "directions/long/headset.jpg",
+      "originalSHA256": "37e7ca79fa8960f85a607a98733dec3993ea9180352862806c3cdea49ce2760f",
+      "publicSHA256": "c4911a09a06bf59fd5334e996e3fe077a37d302b12b1b0e700bc66782a8a52ff",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 296012,
+      "publicBytes": 450723,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "held-docs",
+      "originalFile": "assets/held-docs.jpg",
+      "publicFile": "directions/long/held-docs.jpg",
+      "originalSHA256": "eb9805b1de298d6fae6ed964e05a2b10a293553cfec94fb19518422cdbb0e47f",
+      "publicSHA256": "ed8edbc7c8b9800cdee7a618c900a8cb7e7ea6c7b5726f1bc2e310f00fb4704f",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 282638,
+      "publicBytes": 410557,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "home-learning",
+      "originalFile": "assets/home-learning.jpg",
+      "publicFile": "directions/long/home-learning.jpg",
+      "originalSHA256": "04ff6e1387b0949e7a1d8e6f48cf580c0d10993ff0e7ff5f01af434b2a7c8e30",
+      "publicSHA256": "1439134174c8126c7b48749724d53b99a26485539242ec1499b68eaef5b16b6d",
+      "originalStoredDimensions": [
+        2400,
+        3600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        3600
+      ],
+      "publicDimensions": [
+        853,
+        1280
+      ],
+      "originalBytes": 818275,
+      "publicBytes": 253534,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "learning",
+      "originalFile": "assets/learning.jpg",
+      "publicFile": "directions/long/learning.jpg",
+      "originalSHA256": "78628bcef9fbae15af5e162e8b8c75f4403f13ca30fe03b5c2c7fb963148a1ff",
+      "publicSHA256": "18c4d7d0fa6502e7cb0f9e95c83e0422687e62f244518f5b1add8cbcf23328a8",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 243349,
+      "publicBytes": 368514,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "notes",
+      "originalFile": "assets/notes.jpg",
+      "publicFile": "directions/long/notes.jpg",
+      "originalSHA256": "3a7601b156d9934de03449397e1b40975c75112f2a75a2d2d383377c7f491712",
+      "publicSHA256": "12d6b3b7b47bd2690f71ffb67e84a2ff2596bcbc7b9ab36daa550c3d917792c4",
+      "originalStoredDimensions": [
+        2400,
+        1602
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1602
+      ],
+      "publicDimensions": [
+        1918,
+        1280
+      ],
+      "originalBytes": 271440,
+      "publicBytes": 417244,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "paperwork",
+      "originalFile": "assets/paperwork.jpg",
+      "publicFile": "directions/long/paperwork.jpg",
+      "originalSHA256": "01e1391947892b98259f4a98009182b2847b7dda96c9ce8e00b3fe3c85ba5bbf",
+      "publicSHA256": "8af37f33d9245a7d03dd1aafaa406e3e5c812da7e8ecb81f10a1c438ce31f688",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 290658,
+      "publicBytes": 438043,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "pens-proof",
+      "originalFile": "assets/pens-proof.jpg",
+      "publicFile": "directions/long/pens-proof.jpg",
+      "originalSHA256": "332018000c515e47f717bec919c92ddedbaff49d74567e01fefa59f95e889c84",
+      "publicSHA256": "f90900e858fdd461a6e4e01fbfabaf812ae176e21fa501f16f1f95cee956fd62",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 410295,
+      "publicBytes": 572845,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "review-docs",
+      "originalFile": "assets/review-docs.jpg",
+      "publicFile": "directions/long/review-docs.jpg",
+      "originalSHA256": "4888bc2d1e39a68cb2091d20a2cc7e808bb8a698e01300a7cd31ee96a9784499",
+      "publicSHA256": "bffb929cf82935e05979956f177c746077dc5e3664a645e48915e58ccbf04491",
+      "originalStoredDimensions": [
+        2400,
+        3234
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        3234
+      ],
+      "publicDimensions": [
+        950,
+        1280
+      ],
+      "originalBytes": 507813,
+      "publicBytes": 259955,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "review-team-detail",
+      "originalFile": "assets/review-team-detail.jpg",
+      "publicFile": "directions/long/review-team-detail.jpg",
+      "originalSHA256": "532e49cbc6289d86b9024ce01456650e34d450420da85a6503055682f7542a5f",
+      "publicSHA256": "21ee42fbcff03855c090c76d756c017a5532f4bc6abba4a179ef91749b903d20",
+      "originalStoredDimensions": [
+        2400,
+        2250
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        2250
+      ],
+      "publicDimensions": [
+        1365,
+        1280
+      ],
+      "originalBytes": 1251165,
+      "publicBytes": 357591,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "sticky-board",
+      "originalFile": "assets/sticky-board.jpg",
+      "publicFile": "directions/long/sticky-board.jpg",
+      "originalSHA256": "dbd6367980ef40952802b2f5e1420e8b194a66d3b4b677d26cb9543bfb07b363",
+      "publicSHA256": "df2bca9d9d3107ad07b68bb573ebeecf9581d143962a10ddbaad2c1adcb0b417",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 185144,
+      "publicBytes": 328708,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "support-agent",
+      "originalFile": "assets/support-agent.jpg",
+      "publicFile": "directions/long/support-agent.jpg",
+      "originalSHA256": "3569e049564e17d94cbd0582d607790b81782333ffbd73d754dd806fbc6bfb40",
+      "publicSHA256": "d115dd62e921085b2b09f4669b6f27d1d5bc47c1e00f3f1d802c0ad70fb302aa",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 275834,
+      "publicBytes": 422453,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "support-team",
+      "originalFile": "assets/support-team.jpg",
+      "publicFile": "directions/long/support-team.jpg",
+      "originalSHA256": "608b8f3d06488905a8b9f7751e20343e120c64e9b0d9340bb5e75c5d3829e44f",
+      "publicSHA256": "eaaefb7dc4a83fcee19c96f5c2dfd2f69f91b2a09372e70ddffdc0ab66a1baef",
+      "originalStoredDimensions": [
+        2400,
+        2105
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        2105
+      ],
+      "publicDimensions": [
+        1459,
+        1280
+      ],
+      "originalBytes": 577774,
+      "publicBytes": 500717,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "team-charts",
+      "originalFile": "assets/team-charts.jpg",
+      "publicFile": "directions/long/team-charts.jpg",
+      "originalSHA256": "79ef7d303c007201833a0b4df4ee0476970cfd09b9920f9b072aff916040ec38",
+      "publicSHA256": "df56ab563cd69ad18e53ef8773ba763c5516cbdd2a38a7afb05dd6e89c498a6a",
+      "originalStoredDimensions": [
+        2400,
+        3600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        3600
+      ],
+      "publicDimensions": [
+        853,
+        1280
+      ],
+      "originalBytes": 1401161,
+      "publicBytes": 331804,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "team-decision",
+      "originalFile": "assets/team-decision.jpg",
+      "publicFile": "directions/long/team-decision.jpg",
+      "originalSHA256": "961cee94198c466ec1a474cd089b68441292b8f91fdce1cc691901783d26f352",
+      "publicSHA256": "70c0449354338698336f723dfe18d6a8d712997028b5c5ce46257bf1d09d4b59",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 200137,
+      "publicBytes": 303990,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    },
+    {
+      "id": "typing-photo",
+      "originalFile": "assets/typing-photo.jpg",
+      "publicFile": "directions/long/typing-photo.jpg",
+      "originalSHA256": "92d9f5acda052c7beed3d6de1678d1b7ec43599634ad00deac5e9bc2434937ed",
+      "publicSHA256": "6178098323218dbdb9cea4894f78a367ba7855037d40998f91e312c0e83e6ae1",
+      "originalStoredDimensions": [
+        2400,
+        1600
+      ],
+      "exifOrientationBefore": 1,
+      "orientedDimensions": [
+        2400,
+        1600
+      ],
+      "publicDimensions": [
+        1920,
+        1280
+      ],
+      "originalBytes": 516580,
+      "publicBytes": 712256,
+      "method": {
+        "exifTranspose": true,
+        "thumbnailBounds": [
+          2048,
+          1280
+        ],
+        "resampling": "Lanczos",
+        "format": "JPEG",
+        "quality": 94,
+        "crop": null
+      },
+      "preservation": "Original bytes retained unchanged in batch/assets"
+    }
+  ],
+  "aspectCorrections": [],
+  "originalDecodedPixels": 110740800,
+  "publicDecodedPixels": 48965376
+}

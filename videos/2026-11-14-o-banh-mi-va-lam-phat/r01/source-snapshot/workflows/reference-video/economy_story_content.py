@@ -1,0 +1,166 @@
+"""Original economics narration, fictional bakery and illustrative arithmetic only.
+
+Primary conceptual sources and claim limits live in the batch research/sources.json.
+No current inflation, wage, commodity or Vietnamese retail-price statistics are claimed.
+"""
+
+
+def beat(number, headline, text, visual="photo", asset="bread", kind=None, data=None, sources=()):
+    row = {"id": f"e{number:02}", "headline": headline, "text": text,
+           "visual": visual, "assetTag": asset, "sourceIds": list(sources)}
+    if kind:
+        row["kind"] = kind
+        row["data"] = data or {}
+    return row
+
+
+PRICE_PATH = {"values": [20000, 22000, 22440], "rates": [10, 2],
+              "labels": ["Gốc", "Năm 1", "Năm 2"], "unit": "đồng/ổ", "illustrative": True}
+COST_BEFORE = {"price": 20000, "variable": 12000, "fixed": 5000, "remaining": 3000}
+COST_AFTER = {"price": 22000, "variable": 14500, "fixed": 5000, "remaining": 2500}
+BASKET = {"items": ["Ăn uống", "Nhà ở", "Đi lại", "Khác"], "weights": [40, 30, 20, 10],
+          "rates": [10, 0, 0, 0], "total": 4, "illustrative": True}
+WAGE = {"incomeBefore": 10000000, "incomeAfter": 10500000, "priceIndexBefore": 100,
+        "priceIndexAfter": 108, "realChangePercent": -2.7777777778, "illustrative": True}
+
+CONTENT = {
+    "title": "Một ổ bánh mì kể chuyện lạm phát",
+    "subtitle": "Vì sao lạm phát giảm mà giá vẫn cao?",
+    "editorialAngle": "Theo một tiệm bánh mì hư cấu để phân biệt mức giá, tốc độ tăng giá và sức mua.",
+    "chapters": [
+        {"id": "to-bang-gia", "title": "Tờ bảng giá buổi sáng", "beats": [
+            beat(1, "Lạm phát giảm. Sao bánh chưa rẻ?",
+                 "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu?", asset="bread"),
+            beat(2, "Một tiệm hư cấu, một câu hỏi thật",
+                 "Chị Hạnh và tiệm bánh là hư cấu. Giá, chi phí, lương và tỷ lệ đều để minh họa, không phải số liệu thị trường hiện tại. Video giải thích kinh tế phổ thông, không phải tư vấn tài chính cá nhân.",
+                 visual="graphic", kind="takeaway", data={"items": ["Nhân vật hư cấu", "Số liệu minh họa", "Giải thích kinh tế"]}),
+            beat(3, "Bảng giá chỉ kể nửa câu chuyện",
+                 "Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh. Nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê. Bảng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình.", asset="bakery"),
+            beat(5, "Đắt hơn và tăng nhanh hơn",
+                 "Hai câu hỏi dễ bị trộn: hàng hóa đắt đến đâu, và giá đang tăng nhanh đến mức nào? Một câu nói về mặt bằng giá. Câu còn lại nói về tốc độ thay đổi của mặt bằng ấy.",
+                 visual="graphic", kind="takeaway", data={"items": ["Mức giá: đắt đến đâu?", "Lạm phát: tăng nhanh thế nào?"]}, sources=["ecb-definition"]),
+            beat(7, "Một mặt hàng chưa phải cả nền kinh tế",
+                 "Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát. Tiệm có thể đổi nhân, kích cỡ hoặc vị trí. Lạm phát nói đến mức tăng giá rộng hơn của nhiều hàng hóa và dịch vụ.", asset="market", sources=["ecb-definition"]),
+        ]},
+        {"id": "muc-va-toc-do", "title": "Giá cao và giá tăng nhanh", "beats": [
+            beat(8, "20.000 → 22.000",
+                 "Giữ nguyên chất lượng và kích cỡ. Năm đầu, bánh từ hai mươi lên hai mươi hai nghìn, tăng mười phần trăm. Đây là phép tính cho một mặt hàng minh họa, chưa phải chỉ số giá tiêu dùng của quốc gia.",
+                 visual="graphic", kind="price_path", data={**PRICE_PATH, "stage": 1}),
+            beat(9, "Tăng chậm lại vẫn là tăng",
+                 "Năm sau, giá chỉ tăng hai phần trăm. Hai mươi hai nghìn nhân một phẩy không hai, được hai mươi hai nghìn bốn trăm bốn mươi đồng. Giữ số lẻ để thấy phép tính, chưa làm tròn thành giá bán ngoài tiệm.",
+                 visual="graphic", kind="price_path", data={**PRICE_PATH, "stage": 2}),
+            beat(10, "10% xuống 2%, giá vẫn cao hơn",
+                 "Tốc độ tăng giảm từ mười xuống hai phần trăm. Nhưng giá vẫn cao hơn trước. Nếu cả giỏ hàng vận động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về chỗ cũ.",
+                 visual="graphic", kind="price_path", data={**PRICE_PATH, "stage": 3}, sources=["boe-inflation"]),
+            beat(11, "Giảm tốc không phải quay đầu",
+                 "Chiếc xe đi chậm hơn nhưng chưa chạy lùi. Giá cũng vậy: tăng chậm hơn khác với giảm xuống. Muốn mặt bằng giá giảm, mức thay đổi chung phải âm, chứ không chỉ nhỏ hơn con số dương trước đó.",
+                 visual="graphic", kind="flow", data={"labels": ["Tăng nhanh", "Tăng chậm", "Giá vẫn tăng"]}, sources=["boe-inflation"]),
+            beat(13, "So với thời điểm nào?",
+                 "Người nhớ giá năm ngoái. Người nhớ giá vài năm trước. Họ nghe cùng tỷ lệ lạm phát mà hình dung hai khoảng cách khác nhau. Khi đọc tin, hãy tìm rõ kỳ so sánh: tháng trước, cùng kỳ, hay một mốc xa hơn.", asset="money", sources=["ecb-definition"]),
+            beat(14, "Vậy vì sao giá tăng từ đầu?",
+                 "Phép nhân chưa giải thích tại sao chị Hạnh thay bảng giá. Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ. Để hiểu nguyên nhân, phải quay lại trước lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.", asset="bakery"),
+        ]},
+        {"id": "sau-quay-banh", "title": "Sau quầy bánh có gì?", "beats": [
+            beat(15, "Một ổ bánh chia thành nhiều phần",
+                 "Trong mô hình đơn giản, một ổ bánh bán hai mươi nghìn. Chi phí biến đổi là mười hai nghìn; tiền thuê và chi phí cố định được phân bổ năm nghìn ở sản lượng giả định. Còn ba nghìn, trước các khoản chưa đưa vào mô hình.",
+                 visual="graphic", kind="cost_stack", data={**COST_BEFORE, "illustrative": True}),
+            beat(16, "Ba nghìn chưa phải tiền bỏ túi",
+                 "Ba nghìn chưa là lợi nhuận ròng: còn thuế, khấu hao và công chủ tiệm chưa tính đủ. Tiền thuê trên mỗi ổ cũng thay đổi nếu số bánh bán khác đi. Đây là kính lúp giải thích, không phải sổ kế toán hoàn chỉnh.",
+                 visual="graphic", kind="cost_stack", data={**COST_BEFORE, "illustrative": True}),
+            beat(17, "Đầu vào tăng, khoảng còn lại co",
+                 "Nguyên liệu, bao bì và năng lượng làm chi phí biến đổi tăng lên mười bốn nghìn năm trăm. Tiệm nâng giá lên hai mươi hai nghìn. Giữ cách phân bổ cũ, phần còn lại chỉ còn hai nghìn năm trăm, thấp hơn trước.",
+                 visual="graphic", kind="cost_compare", data={"before": COST_BEFORE, "after": COST_AFTER, "illustrative": True}),
+            beat(18, "Doanh thu tăng không bảo đảm lãi tăng",
+                 "Khách trả thêm hai nghìn, nhưng chi phí biến đổi tăng hai nghìn năm trăm. Vậy giá bán tăng mà phần dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bảng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này.",
+                 visual="graphic", kind="cost_compare", data={"before": COST_BEFORE, "after": COST_AFTER, "illustrative": True}),
+            beat(19, "Bột và dầu đi vào bữa sáng",
+                 "Bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hụt có thể làm người bán trả nhiều hơn. Nếu nhiều doanh nghiệp gặp sức ép tương tự, chi phí có thể lan sang giá hàng tiêu dùng.", asset="flour", sources=["imf-basics", "rba-causes"]),
+            beat(20, "Nhiên liệu không chỉ ở cây xăng",
+                 "Nhiên liệu đắt hơn có thể đi vào cước giao hàng, vận hành máy móc và phân phối. Khách không mua dầu thô cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chuỗi cung ứng trước khi hàng tới quầy.", asset="logistics", sources=["rba-causes"]),
+            beat(21, "Không phải chi phí nào cũng chuyển hết",
+                 "Đầu vào tăng không có nghĩa giá bán luôn tăng đúng bấy nhiêu. Chủ tiệm còn chịu cạnh tranh và sức mua của khách. Có nơi chấp nhận giảm phần dư, có nơi đổi cách vận hành, có nơi mới tăng giá.", asset="shop", sources=["rba-causes"]),
+        ]},
+        {"id": "khach-va-cong-suat", "title": "Khi người mua đông hơn", "beats": [
+            beat(22, "Một nguyên nhân khác: khách tăng",
+                 "Đổi tình huống: nguyên liệu chưa tăng giá, nhưng quanh tiệm có thêm người làm việc. Lượng khách muốn mua nhiều hơn trong khi lò nướng, quầy và thời gian phục vụ vẫn như cũ. Sức ép lúc này đến từ nhu cầu.", asset="bakery"),
+            beat(23, "Nhu cầu vượt khả năng đáp ứng",
+                 "Chị Hạnh có thể tăng ca, mua thiết bị hoặc thuê người, nhưng cần thời gian. Khi cung ứng chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện rộng có thể tạo áp lực lạm phát.", asset="shop", sources=["rba-causes"]),
+            beat(25, "Lời đồn ngày mai cũng ảnh hưởng hôm nay",
+                 "Còn mắt xích kỳ vọng. Nếu tin nguyên liệu sắp đắt hơn, chủ tiệm có thể cân nhắc giá sớm. Nếu lo sức mua giảm, người lao động có thể đề nghị tăng lương. Những dự tính ấy ảnh hưởng quyết định hiện tại.", asset="money", sources=["imf-basics", "cleveland-causes"]),
+            beat(26, "Kỳ vọng không phải định mệnh",
+                 "Không có nghĩa cứ tăng lương là gây lạm phát, hay dự báo đều tự thành thật. Năng suất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn chen vào. Kỳ vọng là một kênh tác động, không phải nút duy nhất điều khiển giá.", asset="wages", sources=["cleveland-causes"]),
+            beat(27, "Một tiệm không đại diện mọi doanh nghiệp",
+                 "Đừng từ chị Hạnh mà kết luận mọi người bán chịu thiệt. Có doanh nghiệp tăng được biên lợi nhuận khi nhu cầu mạnh hoặc cạnh tranh yếu. Có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh doanh để phân biệt.", asset="market", sources=["rba-causes"]),
+            beat(28, "Từ chuyện tăng giá tới chuyện giữ giá",
+                 "Ta có ba lối vào: chi phí, nhu cầu và kỳ vọng. Nhưng khách vẫn hỏi: nếu vận chuyển bớt căng, nguyên liệu bớt đắt, tại sao bảng giá chưa hạ? Câu trả lời nằm ở cấu trúc chi phí và cạnh tranh.", asset="logistics"),
+        ]},
+        {"id": "bang-gia-chua-ha", "title": "Vì sao bảng giá chưa hạ?", "beats": [
+            beat(29, "Một khoản giảm chưa kéo cả giá xuống",
+                 "Cước giao hàng giảm, nhưng tiền thuê vẫn theo hợp đồng, lương đã thỏa thuận chưa đổi, vài nguyên liệu khác còn tăng. Tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cũ. Không thể nhìn một hóa đơn để đoán tất cả.", asset="shop"),
+            beat(30, "Hợp đồng và tồn kho có độ trễ",
+                 "Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá.", asset="flour"),
+            beat(31, "Giá bán còn tùy khách có lựa chọn nào",
+                 "Chi phí giảm bền vững và cạnh tranh mạnh tạo động lực hạ giá giữ khách. Nếu khách khó chuyển nơi mua, sức ép ấy có thể yếu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh.", asset="market"),
+            beat(32, "Giảm giá có thể xảy ra ở từng món",
+                 "Một vài mặt hàng có thể rẻ đi trong khi mức giá chung tăng: nhóm này giảm nhưng nhóm khác tăng nhiều hơn. Vì thế, lạm phát còn dương không đồng nghĩa mọi món ở chợ đều tăng giá như nhau.", asset="market", sources=["ecb-definition"]),
+            beat(33, "Quay lại mức cũ là một yêu cầu khác",
+                 "Muốn bánh từ hai mươi hai nghìn về hai mươi nghìn, giá phải giảm khoảng chín phẩy một phần trăm trên nền hiện tại. Nó khác hẳn chuyện tốc độ tăng từ mười xuống hai phần trăm ta tính ban đầu.",
+                 visual="graphic", kind="price_path", data={"values": [22000, 20000], "rates": [-9.090909], "labels": ["Hiện tại", "Về mức cũ"], "unit": "đồng/ổ", "illustrative": True}),
+            beat(35, "Sống dễ hơn còn cần thu nhập",
+                 "Điều người mua quan tâm là thu nhập mua được bao nhiêu hàng hóa và dịch vụ. Giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thu nhập tăng nhanh hơn chi phí sinh hoạt phù hợp với họ.", asset="wages", sources=["imf-basics"]),
+        ]},
+        {"id": "gio-hang-va-tien-luong", "title": "Giỏ hàng của ai?", "beats": [
+            beat(36, "Một con số chung, nhiều cuộc sống",
+                 "Hãy nhìn cả giỏ chi tiêu. Chỉ số giá tiêu dùng dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng nay. Khoản chiếm tỷ trọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả chung.", asset="household", sources=["ecb-definition"]),
+            beat(37, "Mô hình giỏ hàng 100 phần",
+                 "Giỏ giả định có một trăm phần chi tiêu: bốn mươi cho ăn uống, ba mươi cho nhà ở, hai mươi cho đi lại, mười cho phần khác. Tỷ trọng này chỉ để tính dễ, không mô tả hộ gia đình Việt Nam trung bình.",
+                 visual="graphic", kind="basket", data={**BASKET, "stage": "weights"}),
+            beat(38, "Một nhóm tăng 10%, giỏ tăng 4%",
+                 "Ăn uống tăng mười phần trăm, ba nhóm còn lại đứng giá, giỏ tăng bốn phần trăm nếu giữ nguyên lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm một phần giỏ.",
+                 visual="graphic", kind="basket", data={**BASKET, "stage": "rates"}),
+            beat(39, "Giỏ cá nhân có thể khác giỏ trung bình",
+                 "Nhà có con nhỏ, người thuê trọ và người đi làm xa chi tiêu khác nhau. Nếu khoản bạn mua nhiều tăng mạnh, áp lực thực tế có thể cao hơn bình quân. Cảm giác khó khăn không vì thế mà tự động thành sai.", asset="household", sources=["ecb-definition"]),
+            beat(40, "Lương tăng vẫn có thể mua ít hơn",
+                 "Thu nhập giả định từ mười lên mười triệu rưỡi, tăng năm phần trăm. Cùng lúc, giỏ hàng phù hợp tăng tám phần trăm. Tiền nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng cũ.",
+                 visual="graphic", kind="real_wage", data=WAGE),
+            beat(41, "Sức mua giảm khoảng 2,8%",
+                 "Một phẩy không năm chia một phẩy không tám, trừ một, sức mua giảm khoảng hai phẩy tám phần trăm. Trừ năm với tám chỉ là ước lượng gần. Lương danh nghĩa tăng chưa đủ để kết luận đời sống khá lên.",
+                 visual="graphic", kind="real_wage", data=WAGE),
+            beat(42, "Giữ giá nhưng bớt lượng hàng",
+                 "Giá niêm yết không đổi mà lượng hàng giảm: hai mươi nghìn mua một trăm gram, rồi chỉ mua chín mươi gram. Giá mỗi gram tăng khoảng mười một phẩy một phần trăm. So sánh đúng cần nhìn cả lượng và chất lượng.",
+                 visual="graphic", kind="unit_price", data={"weightBefore": 100, "weightAfter": 90, "priceBefore": 20000, "priceAfter": 20000, "increasePercent": 11.111111, "illustrative": True}, sources=["bls-shrinkflation"]),
+        ]},
+        {"id": "cach-ha-nhiet", "title": "Làm sao để bớt nóng?", "beats": [
+            beat(43, "Chữa đúng nguyên nhân",
+                 "Làm gì để giá tăng bớt nhanh? Nếu vướng nguồn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đầu vào hiệu quả hơn. Nếu cầu quá nóng, chỉ sửa đường vận chuyển có thể chưa đủ.", asset="logistics", sources=["imf-basics"]),
+            beat(44, "Lãi suất tác động qua quyết định chi tiêu",
+                 "Một công cụ là lãi suất. Khi chi phí vay tăng, một số gia đình và doanh nghiệp có thể hoãn mua sắm hoặc đầu tư. Nhu cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều.", asset="money", sources=["ecb-transmission"]),
+            beat(45, "Công cụ ấy cũng có cái giá",
+                 "Khách bớt mua thì tăng giá khó hơn, nhưng doanh thu và việc làm có thể chịu áp lực. Lãi suất không tự tạo thêm bột hay xăng. Người điều hành phải cân nhắc nguyên nhân, độ trễ và những đánh đổi trong thực tế.", asset="shop", sources=["ecb-transmission", "imf-basics"]),
+            beat(46, "Năng suất mở một con đường khác",
+                 "Giảm bánh hỏng, sắp xếp ca làm và dùng thiết bị hiệu quả có thể tạo cùng lượng hàng với ít nguồn lực hơn. Năng suất cải thiện tạo khoảng trống cho lương và giá, dù không bảo đảm mọi lợi ích chuyển ngay tới khách.", asset="bakery"),
+            beat(47, "Cạnh tranh và thông tin cũng quan trọng",
+                 "Người mua dễ so sánh khi khối lượng, chất lượng và giá được trình bày rõ. Tiệm làm tốt có cơ hội giữ khách bằng giá trị thật. Nhìn giá trên cùng đơn vị hữu ích hơn chỉ nhìn số tiền trên bao bì.", asset="bread", sources=["bls-shrinkflation"]),
+            beat(49, "Tin tốt cần thời gian thành trải nghiệm tốt",
+                 "Lạm phát hạ có ý nghĩa: áp lực tăng giá đang bớt theo thước đo báo cáo. Nhưng để gia đình thấy dễ thở hơn, còn cần nhìn mặt bằng giá đã tích lũy, thu nhập, việc làm và giỏ chi tiêu của họ.", asset="household", sources=["boe-inflation", "imf-basics"]),
+        ]},
+        {"id": "tro-lai-bua-sang", "title": "Trở lại bữa sáng", "beats": [
+            beat(50, "Ba câu hỏi khi đọc bản tin",
+                 "Nghe lạm phát giảm, hãy hỏi: giá tăng chậm hơn hay thực sự giảm; con số so với thời điểm nào; giỏ được đo có gần những khoản mình phải trả không? Ba câu ấy giúp đọc đúng ý nghĩa bản tin.",
+                 visual="graphic", kind="takeaway", data={"items": ["Chậm tăng hay giảm giá?", "So với thời điểm nào?", "Giỏ hàng gồm những gì?"]}),
+            beat(51, "Một phép so sánh nhỏ cho tuần này",
+                 "Giữ hóa đơn vài khoản mua thường xuyên, ghi khối lượng và chất lượng tương đương, rồi so theo thời gian. Đây là cách quan sát giỏ cá nhân, không phải cách tính lạm phát chính thức từ vài món quen thuộc.", asset="money"),
+            beat(52, "Đối chiếu cả phía thu nhập",
+                 "Đặt thay đổi của giỏ cạnh thu nhập thực nhận và khoản bắt buộc khác. Mục đích là biết sức mua đổi ra sao để điều chỉnh kế hoạch, không phải tự trách bản thân vì mức giá mình không quyết định được.", asset="wages"),
+            beat(53, "Chị Hạnh vẫn ở giữa hai sức ép",
+                 "Chị Hạnh không thể chỉ nhìn hóa đơn đầu vào rồi quên khách. Khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn bao nhiêu. Cả hai cần bức tranh đầy đủ hơn tấm bảng trước cửa.", asset="shop"),
+            beat(54, "Câu trả lời nằm ở chữ tốc độ",
+                 "Vì sao lạm phát giảm mà bánh vẫn đắt? Vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn. Và vì sức mua còn phụ thuộc thu nhập, chứ không chỉ phụ thuộc tốc độ đổi giá một năm riêng lẻ.",
+                 visual="graphic", kind="price_path", data={**PRICE_PATH, "stage": 3}),
+            beat(55, "Một bữa sáng, nhiều mối liên hệ",
+                 "Ổ bánh nối đồng ruộng, nhiên liệu, chuyến xe, người làm và túi tiền người mua. Hiểu mối nối ấy giúp ta bớt vội kết luận, hỏi đúng điều cần kiểm chứng. Kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày.", asset="bread"),
+            beat(56, "Bạn thấy khoản nào tăng rõ nhất?",
+                 "Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.", asset="bread"),
+        ]},
+    ],
+}

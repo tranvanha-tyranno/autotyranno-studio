@@ -1,0 +1,26 @@
+{
+  "lesson_id": "evt-000019-170d792d7e97",
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r07",
+  "change": "r07/c9 replaces the seed-price panel with a contain crop of an actual promotion tag, preserving KHUYẾN MẠI, crossed-out19.600, new15.400 and2022 timestamp. Sauce-price imagery remains contextual in the other panel. Manifest retains archival/not-current source text and exact narration. The reusable editing rule is present in the frozen reference-learning.profile.json snapshot used by r07; final rendered comparison is recorded separately after this application event.",
+  "evidence": [
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/production-manifest.json",
+      "sha256": "f1c0830ddcc0cefb27da8710fa8b2b921b5efe8b594deae4a93626a64d3050ff",
+      "description": "Retained immutable r07 manifest; c9 selects promotion crop with contain placement."
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/repair-attempts/20261113T022611.232211Z-repair-6dd2d2/bundle/public/directions/long/vn-promotion-close.jpg",
+      "sha256": "63d00833dcd7517dfc93ec064bc6c9c20e9bb67795d85a581ce84b62ae788e68",
+      "description": "Frozen crop actually served by the r07 bundle."
+    },
+    {
+      "role": "code",
+      "path": "videos/2026-11-13-di-sieu-thi/r07/repair-attempts/20261113T022611.232211Z-repair-6dd2d2/source-snapshot/reference-learning.profile.json",
+      "sha256": "f554208f424e11de46fde4034a31fb8ed52ea8a1dbe73668e4927ea9398d7971",
+      "description": "Immutable profile snapshot containing the discount-specific editing lesson before r07 bundle."
+    }
+  ]
+}

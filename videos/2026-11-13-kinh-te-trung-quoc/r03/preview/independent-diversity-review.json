@@ -1,0 +1,348 @@
+{
+  "schema": "china-variety-independent-sequence-review/1",
+  "recordedUTC": "2026-11-13T06:47:25.220192+00:00",
+  "reviewer": "variety_people",
+  "scope": "Actualviewof3centralcontactsheetsshowing51shotmidpointpreviews,plusnative1080pstillsr02,t04,f05,e03andpreviousisolatedPeoplecomponentreview. ThisisnotcontinuousAVwatching/listening,notfinalMP4reviewandnotuserapproval.",
+  "filesViewed": [
+    {
+      "file": "preview/contact-1.jpg",
+      "sha256": "feb2fcc5548f008d70dd58f5a94cf3e740ffed30671cf8377e967b7cd24010ef"
+    },
+    {
+      "file": "preview/contact-2.jpg",
+      "sha256": "f8a65a0bab4725e1888ffb36f173e1c2633d91f94e350c9e66e0cd443faa42b4"
+    },
+    {
+      "file": "preview/contact-3.jpg",
+      "sha256": "f4266b7ac4101fa5be8e56e6157b9b9f4093eb3bc68fa9f9836ef72eb73d624e"
+    },
+    {
+      "file": "preview/r02.jpg",
+      "sha256": "331b3a1abeaa9db59c3ebc070a237947facd061201ba4d6d2aac36df1f52fa74"
+    },
+    {
+      "file": "preview/t04.jpg",
+      "sha256": "fd03c67257ede6c2deb1d29812a5e5425fb404df592b5904fbe1aca85db89913"
+    },
+    {
+      "file": "preview/f05.jpg",
+      "sha256": "b4a9c2950401c3499835d07f86d92e8e85fa096b3402bc9153c53219ad45c739"
+    },
+    {
+      "file": "preview/e03.jpg",
+      "sha256": "e4eae31561f4bb82accf2392eff4f4f30aefa843241411e356ad5cbc24e4d4ea"
+    }
+  ],
+  "shotCountInContactSheets": 51,
+  "sceneMechanics": [
+    {
+      "id": "o01",
+      "module": "spatial",
+      "mechanic": "port, rail and domestic-life spatial juxtaposition"
+    },
+    {
+      "id": "o02",
+      "module": "story",
+      "mechanic": "two engines and a balance of production and demand"
+    },
+    {
+      "id": "o03",
+      "module": "story",
+      "mechanic": "folded chapter atlas"
+    },
+    {
+      "id": "o04",
+      "module": "story",
+      "mechanic": "brief educational scope disclaimer"
+    },
+    {
+      "id": "f01",
+      "module": "spatial",
+      "mechanic": "industrial city with infrastructure and districts"
+    },
+    {
+      "id": "f02",
+      "module": "spatial",
+      "mechanic": "exploded product parts assembling and inspection"
+    },
+    {
+      "id": "f03",
+      "module": "spatial",
+      "mechanic": "supplier cluster neighborhood"
+    },
+    {
+      "id": "f04",
+      "module": "spatial",
+      "mechanic": "warehouse inventory and order tickets"
+    },
+    {
+      "id": "f05",
+      "module": "data",
+      "mechanic": "statistical ruler and manufacturing source extract"
+    },
+    {
+      "id": "f06",
+      "module": "data",
+      "mechanic": "diverging sector markers"
+    },
+    {
+      "id": "f07",
+      "module": "story",
+      "mechanic": "two different industrial contexts with limits of inference"
+    },
+    {
+      "id": "f08",
+      "module": "story",
+      "mechanic": "pulling and braking economic engines"
+    },
+    {
+      "id": "r01",
+      "module": "spatial",
+      "mechanic": "sectional housing project with stakeholder places"
+    },
+    {
+      "id": "r02",
+      "module": "spatial",
+      "mechanic": "escrow, payment calendar and waiting contractor"
+    },
+    {
+      "id": "r03",
+      "module": "spatial",
+      "mechanic": "construction floors and materials response"
+    },
+    {
+      "id": "r04",
+      "module": "data",
+      "mechanic": "investment comparison index, not house price"
+    },
+    {
+      "id": "r05",
+      "module": "people",
+      "mechanic": "family postponing a purchase at a decision desk"
+    },
+    {
+      "id": "r06",
+      "module": "story",
+      "mechanic": "source documents and unfinished-obligations board"
+    },
+    {
+      "id": "r07",
+      "module": "people",
+      "mechanic": "complete old apartment versus new empty foundation"
+    },
+    {
+      "id": "h01",
+      "module": "people",
+      "mechanic": "payroll and purchases in an actual store vignette"
+    },
+    {
+      "id": "h02",
+      "module": "people",
+      "mechanic": "family calendar and financial protection objects"
+    },
+    {
+      "id": "h03",
+      "module": "people",
+      "mechanic": "100 illustrative coins allocated to three physical jars"
+    },
+    {
+      "id": "h04",
+      "module": "data",
+      "mechanic": "nominal-to-real price-adjustment lens"
+    },
+    {
+      "id": "h05",
+      "module": "people",
+      "mechanic": "different household baskets behind an average"
+    },
+    {
+      "id": "h06",
+      "module": "people",
+      "mechanic": "nested goods and service measurement scopes"
+    },
+    {
+      "id": "h07",
+      "module": "people",
+      "mechanic": "income and safety-net bridge towards a store"
+    },
+    {
+      "id": "h08",
+      "module": "people",
+      "mechanic": "warehouse and shopping demand bottleneck"
+    },
+    {
+      "id": "t01",
+      "module": "story",
+      "mechanic": "geographic trade atlas and actual port photograph"
+    },
+    {
+      "id": "t02",
+      "module": "data",
+      "mechanic": "imports, local assembly, export and domestic sale"
+    },
+    {
+      "id": "t03",
+      "module": "data",
+      "mechanic": "domestic-value ledger excluding foreign input"
+    },
+    {
+      "id": "t04",
+      "module": "data",
+      "mechanic": "hypothetical unit blocks, ten minus seven"
+    },
+    {
+      "id": "t05",
+      "module": "data",
+      "mechanic": "trade obstacles acting on a container"
+    },
+    {
+      "id": "t06",
+      "module": "data",
+      "mechanic": "partial supply-chain relocation with parts remaining"
+    },
+    {
+      "id": "t07",
+      "module": "data",
+      "mechanic": "gross receipts, costs, profits and household income ledger"
+    },
+    {
+      "id": "d01",
+      "module": "people",
+      "mechanic": "100 people with 23 aged-60-plus pictograms"
+    },
+    {
+      "id": "d02",
+      "module": "people",
+      "mechanic": "age ruler with distinct 60 and 65 thresholds"
+    },
+    {
+      "id": "d03",
+      "module": "people",
+      "mechanic": "life-course care, work and family spaces"
+    },
+    {
+      "id": "d04",
+      "module": "spatial",
+      "mechanic": "human skills, tools and process at a workbench"
+    },
+    {
+      "id": "d05",
+      "module": "story",
+      "mechanic": "automation and worker contexts in a moving photographic aperture"
+    },
+    {
+      "id": "d06",
+      "module": "people",
+      "mechanic": "multi-year education and training staircase"
+    },
+    {
+      "id": "p01",
+      "module": "data",
+      "mechanic": "nine-month GDP statistical book and growth scale"
+    },
+    {
+      "id": "p02",
+      "module": "data",
+      "mechanic": "three quarterly year-on-year calendar markers"
+    },
+    {
+      "id": "p03",
+      "module": "story",
+      "mechanic": "policy plumbing with three different destinations"
+    },
+    {
+      "id": "p04",
+      "module": "spatial",
+      "mechanic": "effective productive project versus empty construction"
+    },
+    {
+      "id": "p05",
+      "module": "people",
+      "mechanic": "household income security and store orders"
+    },
+    {
+      "id": "p06",
+      "module": "data",
+      "mechanic": "moving a liability versus actually settling it"
+    },
+    {
+      "id": "p07",
+      "module": "story",
+      "mechanic": "reading a claim through a moving scope lens"
+    },
+    {
+      "id": "e01",
+      "module": "story",
+      "mechanic": "a layered economic landscape showing simultaneous pressures"
+    },
+    {
+      "id": "e02",
+      "module": "story",
+      "mechanic": "meaningful callback to a town income-demand cycle"
+    },
+    {
+      "id": "e03",
+      "module": "story",
+      "mechanic": "four-question source inspection with a page magnifier"
+    },
+    {
+      "id": "e04",
+      "module": "story",
+      "mechanic": "moving China context and an actionable three-topic closing"
+    }
+  ],
+  "oldFailureAssessment": {
+    "oldDominantMechanics": "Repeateddonuts/threeidenticalconveyormachines/ribbonflowcharts",
+    "observedNow": "Theseoldmechanicsnolongerrepeatthroughout;thecentralframesnowshowports,rail,balances,atlases,explodedassembly,warehouses,escrow,construction,cohortgrids,jars,measurementlens,ledgers,agerulers,trainingstairsanddocumentchecklists.",
+    "majorOldTemplateRepetitionSeen": false
+  },
+  "remainingVisualUniformity": [
+    {
+      "level": "limitation",
+      "finding": "Mostshotsstillusealargeupper-lefttitleandacentralflatoutlined2D/2.5Dillustrationoncream/slate/rust/sagepaper. Thisisasinglecoherentillustrationartdirection,not51unrelatedartstyles. Itcouldstillfeelgraphicheavycomparedwithphoto-ledreferences."
+    },
+    {
+      "level": "limitation",
+      "finding": "Thefactorysectionhasseveraladjacentindustrialbuildings/roads/shelves. Actualobjectactionchanges,butoutlinepaletteandfrontalorobliqueviewremainrelated."
+    },
+    {
+      "level": "meaningfulRecurringProps",
+      "finding": "Houses,shops,people,cratesandshipsrecurasreusablepropsinh01/h07/h08/p05/e02andt02/t04/t05/t06. Thesearecontextualcallbacks,notduplicatedvideo,thoughrepeatedpropscannotbeclaimednovelarteveryshot."
+    },
+    {
+      "level": "minor",
+      "finding": "o01ando02repeatthecentralquestionintheheadlineconsecutively;theport/homeandbalancescalecompositionsaredifferent."
+    }
+  ],
+  "semanticAndReadabilityObservations": [
+    {
+      "shot": "f05",
+      "finding": "Nativeframeclearlyshows1–9/2026,manufacturingvalueadded,YoYandconstantprices;5.6%markerpointsbeyond5asexpected."
+    },
+    {
+      "shot": "r02",
+      "finding": "Buyer,projectaccountandconstructioncalendararedistincttangibleobjects;contractorarrivallaterrequiresmotionreview,notfullyshownatmidpoint."
+    },
+    {
+      "shot": "t04",
+      "finding": "Nativeframehasall10cratesvisible:7movedtowardimports,3remainingatleft;captionisatsubtractionpayoff. Fixed10/7/3columnlabelswhile3cratesremainleftcouldbrieflyneedmotioncontext. Thisisaclaritywatchpointforfinaltemporalsamples,notanincorrecttotal."
+    },
+    {
+      "shot": "e03",
+      "finding": "All4questionsarevisibleinthecardandreadablewithnoheadline/captioncollision;thepreviousfour-versus-threeproblemdoesnotrecur."
+    },
+    {
+      "shot": "d03",
+      "finding": "LatestPeoplepreview20%/65%actualpixelsseparateBeijingparkcontextfromillustratedcare;doNOTtreatparkphotoasevidenceofcareprovided."
+    }
+  ],
+  "blockingIssuesFoundInViewedPreviewEvidence": [],
+  "temporalFollowUp": [
+    "Checkt04start/mid/endsoall10become7subtracted+3remainingwithunambiguousfinalgroup.",
+    "Checkphotographicaperturesandcontextwindowstransitioncleanlyinthefinal.",
+    "Checksameheadline/cartoonframeisnotheldstaticfortoolong;midpointsalonecannotestablishsmoothnessorretention."
+  ],
+  "evidenceVersionLimit": "Contactsheetsprecededsomeminorfixes;rootrefreshed12individualcapturesafterwards. IsolatedPeoplereviewhasitsowncorrected/freezeevidence. Thisreportdoesnotpretendallcontactpixelsarethelatestfinalrender.",
+  "sourceEditsDuringRender": false,
+  "userAcceptance": "pending"
+}

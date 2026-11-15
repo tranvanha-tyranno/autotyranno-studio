@@ -1,0 +1,30 @@
+[
+  {
+    "shot": "b06",
+    "frame": 5347,
+    "seconds": 178.23333333333332,
+    "file": "independent-extra/b06-f05347.jpg",
+    "sha256": "37e68d8c338d588ae4de7b33aa3b8712dcb32b8d2ae128cb0f454e405935ee9a"
+  },
+  {
+    "shot": "p01",
+    "frame": 8116,
+    "seconds": 270.53333333333336,
+    "file": "independent-extra/p01-f08116.jpg",
+    "sha256": "f76cf4c9454e79a77dcb0c906fb71baa57572adf907136e567c9e0523a64626e"
+  },
+  {
+    "shot": "p03",
+    "frame": 8726,
+    "seconds": 290.8666666666667,
+    "file": "independent-extra/p03-f08726.jpg",
+    "sha256": "b3473cd51afd5cd9ab0db9c92b09b3a541458a12c736eb5effe58c5c4e79a9c3"
+  },
+  {
+    "shot": "p05",
+    "frame": 9289,
+    "seconds": 309.6333333333333,
+    "file": "independent-extra/p05-f09289.jpg",
+    "sha256": "8c7f65ac2d1134cdb085a3d88bd62689bcbd8629de3a71a05a13294d279f438d"
+  }
+]

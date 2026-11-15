@@ -1,0 +1,8 @@
+{
+  "provider": "ElevenLabs",
+  "request_receipts": 9,
+  "reported_character_cost_total": 521,
+  "includes": "two short voice samples, one exact narration take, six sound assets",
+  "price_note": "Provider billing units from response headers, not a currency estimate",
+  "new_calls_for_visual_revisions": 0
+}

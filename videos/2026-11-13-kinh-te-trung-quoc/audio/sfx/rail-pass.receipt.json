@@ -1,0 +1,10 @@
+{
+  "provider": "ElevenLabs",
+  "model": "eleven_text_to_sound_v3",
+  "request_hash": "aa9af5a7e56acfb5ad95081d15331de9b314f1d8a6f303a18a3fbd5d308eb246",
+  "endpoint": "/v1/sound-generation",
+  "character_cost": "60",
+  "request_id": null,
+  "sha256": "44ad7aec3b92602ba6283baf7525f1fb7c7245d33af7d1b7b1fcf9e1c072a88e",
+  "bytes": 97009
+}

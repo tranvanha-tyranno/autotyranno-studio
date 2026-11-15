@@ -1,0 +1,89 @@
+{
+  "chapterTakes": [
+    {
+      "id": "opening",
+      "text": "Quán kín bàn, máy pha chạy liên tục, đơn hàng cứ nối nhau. Nhưng cuối tháng, chủ quán vẫn phải lấy tiền tiết kiệm để trả tiền thuê. Tiền đã đi đâu? Có thể quán chưa bán đủ. Cũng có thể mỗi đơn bán thêm để lại quá ít, hoặc tiền phải chi đã tới trước tiền thu. Ba chuyện này nhìn ngoài cửa rất giống nhau. Hôm nay, thử mở một quán cà phê giả định. Ta sẽ lần theo một ly ba mươi lăm nghìn, đi qua tiền thuê, khuyến mại, rồi đến ngày phải trả hóa đơn. Đây là ví dụ giáo dục về kinh doanh, không phải tư vấn tài chính cho một quán cụ thể. Toàn bộ giá và chi phí đều giả định; thuế, lãi vay và khấu hao chưa được đưa vào mô hình.",
+      "file": "audio/01-opening.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "one-cup",
+      "text": "Bắt đầu ở quầy. Một khách trả ba mươi lăm nghìn cho một ly. Số tiền đó là doanh thu, chưa phải phần chủ quán có thể mang về. Để làm thêm một ly, quán cần nguyên liệu, cốc hoặc nắp dùng một lần, và những khoản thay đổi theo đơn bán. Trong ví dụ này, gom chúng thành mười lăm nghìn. Lấy ba mươi lăm trừ mười lăm, còn hai mươi nghìn. Khoản còn lại này góp vào việc trả chi phí cố định và, nếu đủ, tạo ra kết quả dương. Hai mươi nghìn ấy chưa phải lợi nhuận ròng của ly cà phê. Tiền thuê nhà, nhân sự và nhiều khoản vận hành vẫn đang chờ được trả từ phần đóng góp của cả tháng. Phân loại chi phí cũng cần theo thực tế. Nhân viên có thể nhận lương tháng, nhưng làm thêm giờ lại tăng theo lượng việc. Điện nước có phần nền và phần tăng theo sử dụng. Vì vậy, đừng bê một bảng mẫu sang mọi quán. Ở đây, ta tạm giữ mười lăm nghìn mỗi ly và một mức chi phí cố định, trong phạm vi công suất hiện có. Một ly tại chỗ và một ly qua kênh giao hàng cũng có thể để lại số tiền khác nhau. Nếu có phí nền tảng, bao bì hoặc trợ giá, phải tính theo phần quán thực chịu. Điều cần hỏi không chỉ là món nào bán chạy. Còn phải hỏi sau những chi phí đi cùng nó, món đó để lại bao nhiêu tiền để nuôi phần còn lại của quán. Một món bán nhiều vẫn có thể góp rất tốt. Nhưng hình ảnh đơn hàng chạy liên tục không tự nói cho ta biết phần đóng góp ấy; cần nhìn vào giá bán thực thu và chi phí.",
+      "file": "audio/02-one-cup.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "breakeven",
+      "text": "Bây giờ đến các khoản theo tháng. Giả sử tiền thuê là mười tám triệu, nhân sự là hai mươi hai triệu, và nhóm chi phí nền khác là tám triệu. Tổng cộng bốn mươi tám triệu. Đây là giả định để tính, không phải mức chi phí chuẩn của ngành cà phê. Một quán thật có thể khác rất xa. Mỗi ly đóng góp hai mươi nghìn, vậy cần bao nhiêu ly mới bù được bốn mươi tám triệu? Chia ra, ta được hai nghìn bốn trăm ly trong tháng. Nếu mở đủ ba mươi ngày, đó là bình quân tám mươi ly mỗi ngày. Mốc này mới bù các chi phí đã đưa vào mô hình, chưa bảo đảm chủ quán đạt thu nhập mong muốn. Dưới mốc đó, phần đóng góp chưa đủ. Trên mốc đó, mô hình bắt đầu có dư. Đường hòa vốn giúp biến câu hỏi có vẻ cảm tính thành một giả thuyết có thể kiểm. Giả sử quán bán một trăm ly mỗi ngày. Ba nghìn ly trong tháng tạo một trăm lẻ năm triệu doanh thu. Trừ bốn mươi lăm triệu biến phí, phần đóng góp là sáu mươi triệu. Trả tiếp bốn mươi tám triệu chi phí cố định, còn mười hai triệu. Cần gọi đúng: đây là phần dư của mô hình trước thuế, lãi vay và khấu hao, không phải lợi nhuận ròng đã chốt. Còn nếu người chủ chưa tính công của chính mình, bức tranh về thu nhập lại khác. Một mô hình hữu ích phải nói rõ đã tính những khoản nào, thay vì đặt nhãn có lãi cho đẹp.",
+      "file": "audio/03-breakeven.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "busy-hours",
+      "text": "Quay lại cảnh đầu: nhìn qua cửa, bạn thấy kín bàn. Nhưng đó có thể là lúc đông nhất. Phép tính tháng cần tổng đơn của cả ngày, kể cả những giờ yên ắng. Trong quán giả định, sáu mươi ly bán buổi sáng nhưng chỉ thêm mười ly cả phần ngày còn lại, tổng vẫn là bảy mươi. Dưới mốc tám mươi, dù sáng trông rất nhộn nhịp. Ngược lại, một quán không kín chỗ vẫn có thể bán đều qua nhiều khung giờ hoặc nhiều kênh. Không thể đọc toàn bộ sức khỏe kinh doanh chỉ bằng số ghế đang có người ngồi. Bởi vậy, hãy tách điều nhìn thấy khỏi điều cần đo. Khách đông là một quan sát. Số đơn, giá thực thu và phần đóng góp trong cả ngày mới đưa quan sát ấy vào phép tính. Thêm khách cũng có giới hạn công suất. Khi phải tăng ca, thêm thiết bị hoặc chờ lâu hơn, giả định chi phí cũ có thể không còn đúng. Tăng sản lượng cần được tính cùng chi phí mới. Nhưng trước khi quán kịp tăng công suất, một cách kéo khách quen thuộc đã xuất hiện: giảm giá. Trên màn hình, số đơn tăng rất đẹp. Trong phép tính, chuyện gì xảy ra?",
+      "file": "audio/04-busy-hours.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "discount",
+      "text": "Giữ nguyên ly cũ, hạ giá từ ba mươi lăm xuống hai mươi chín nghìn. Nếu biến phí vẫn mười lăm nghìn, mỗi ly giờ chỉ còn đóng góp mười bốn nghìn. Giá bán giảm sáu nghìn, nhưng phần đóng góp giảm từ hai mươi xuống mười bốn nghìn, tức ba mươi phần trăm. Hai tỷ lệ khác nhau vì chúng có mẫu số khác nhau. Muốn giữ phần đóng góp sáu mươi triệu như tháng bán ba nghìn ly giá cũ, quán phải bán hơn bốn nghìn hai trăm tám mươi lăm ly ở giá mới. Làm tròn lên là bốn nghìn hai trăm tám mươi sáu. Tức cần tăng khoảng bốn mươi ba phần trăm sản lượng, chỉ để giữ nguyên mức đóng góp cũ. Chưa tính thêm nhân lực, nguyên liệu thất thoát hoặc những khoản khuyến mại quán phải gánh khác. Ngay cả mốc hòa vốn cũng đổi. Bốn mươi tám triệu chia mười bốn nghìn cần làm tròn lên ba nghìn bốn trăm hai mươi chín ly mỗi tháng, xấp xỉ một trăm mười lăm ly mỗi ngày. Điều đó không có nghĩa khuyến mại luôn sai. Một chương trình có thể thu hút khách thử hoặc phục vụ mục tiêu khác. Nhưng mục tiêu, chi phí và cách kiểm tra phải được nói rõ từ đầu. Nếu muốn biết khách có quay lại hay không, cần theo dõi hành vi quay lại. Nếu muốn tăng phần đóng góp, cần đo phần đóng góp. Lượt xem, số đơn và tiền còn lại là những thước đo khác nhau. Và đừng so ngày khuyến mại với một ngày vắng bất thường rồi kết luận thành công. Thời tiết, ngày trong tuần và sự kiện quanh quán có thể thay đổi lượng khách. Mẫu so cần đủ bối cảnh. Cái bẫy ở đây là một con số đẹp che một con số quan trọng hơn. Quán bán thêm không tự bảo đảm quán khỏe thêm. Còn một lớp dễ bị bỏ quên: lịch tiền mặt.",
+      "file": "audio/05-discount.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "cash",
+      "text": "Giả sử quán thật sự có phần dư mười hai triệu theo mô hình. Vậy tài khoản cuối tháng phải tăng đúng mười hai triệu sao? Không nhất thiết, vì kết quả kinh doanh và tiền mặt không cùng một câu hỏi. Một bên hỏi doanh thu và chi phí thuộc kỳ này là bao nhiêu. Bên kia hỏi trong kỳ, tiền thực đã đi vào và đi ra lúc nào. Khoảng cách về thời điểm có thể làm quán hụt hơi. Chẳng hạn, mua nguyên liệu đủ dùng nhiều tuần khiến tiền ra ngay, trong khi một phần hàng vẫn còn trong kho. Không thể cứ nhìn khoản chuyển tiền mua hàng rồi gọi toàn bộ là chi phí của số ly đã bán. Đặt cọc mặt bằng cũng cần được tách riêng. Đó là tiền đã rời tài khoản và bị giữ theo thỏa thuận, nhưng không đơn giản là tiền thuê đã tiêu hết của tháng này. Tương tự, mua một máy pha là khoản chi tiền cho tài sản. Cách ghi nhận chi phí theo thời gian khác việc trả tiền ngay; mô hình đơn giản ban đầu của ta chưa xử lý khấu hao ấy. Ngay cả tiền bán hàng cũng có lịch. Khách có thể trả tại quầy, hoặc một kênh bán đối soát và chuyển về sau. Lịch thực tế tùy thỏa thuận, không nên tự coi mọi doanh thu là tiền sẵn dùng. Thử một tình huống riêng: đầu tuần có hai mươi triệu, trong tuần thu mười lăm triệu, nhưng các khoản đến hạn cần bốn mươi triệu. Thiếu năm triệu trước khi bàn tới mục tiêu tăng trưởng. Đây là ví dụ về lịch thu chi, không phải phần tiếp của phép tính tháng trước. Một quán có thể cần giải quyết cả mức đóng góp lẫn thời điểm tiền về; sửa mỗi lượng khách chưa chắc sửa được hai việc đó. Một tờ lịch tiền mặt có thể rất ngắn: số dư đầu kỳ, tiền dự kiến thu, khoản phải chi và ngày đến hạn. Ghi thêm điều kiện nào chưa chắc chắn, để không biến dự báo thành lời hứa.",
+      "file": "audio/06-cash.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "one-week",
+      "text": "Nếu đang kinh doanh, không nhất thiết bắt đầu bằng một bảng tính hàng trăm dòng. Có thể bắt đầu bằng một tuần quan sát có chủ đích, rồi đối chiếu với sổ sách và người phụ trách kế toán. Ngày đầu, chọn vài món và kênh bán chính. Ghi giá thực thu, chi phí trực tiếp mỗi đơn và những khoản quán tự trợ. Đừng lấy giá trên thực đơn thay cho số tiền thực giữ lại. Ngày tiếp theo, liệt kê các khoản theo tháng và chỉ ra khoản nào thay đổi khi bán nhiều hơn. Nhớ tách công của người chủ, khoản đầu tư ban đầu và tiền cọc khỏi những con số dễ nhầm. Trong những ngày sau, ghi lượng đơn theo khung giờ. Một vài buổi đông không thay được dữ liệu cả tuần, và một tuần cũng chưa đủ đại diện cho cả năm. Khi thử một thay đổi, hãy chọn câu hỏi cụ thể. Chẳng hạn, sửa cách giới thiệu một món để xem phần đóng góp thay đổi thế nào, đồng thời theo dõi chất lượng phục vụ và phản hồi của khách. Tránh đổi giá, quảng cáo, lịch nhân sự và thực đơn cùng một lúc rồi khó biết điều gì tạo ra khác biệt. Dữ liệu nhỏ vẫn hữu ích nếu ta giữ được cách so sánh và ghi nhận giới hạn. Cuối tuần, xem ba thứ cạnh nhau: phần đóng góp mỗi đơn, lượng đơn theo thời gian, và lịch tiền mặt sắp tới. Khi chúng lệch nhau, ta mới biết cần đào sâu vào đâu. Nếu chi phí tăng theo công suất hoặc quán bán nhiều loại món, mô hình một ly cần được mở rộng. Dùng số liệu thực và người có chuyên môn để xem lại, thay vì cố nhét mọi thứ vào ví dụ này.",
+      "file": "audio/07-one-week.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    },
+    {
+      "id": "ending",
+      "text": "Giờ nhìn lại quán kín bàn lúc đầu. Ta không còn vội kết luận quán ấy đang rất có lãi, cũng không vội bảo họ kinh doanh kém nếu đang thiếu tiền. Ta hỏi mỗi đơn góp bao nhiêu, cần bán bao nhiêu để nuôi bộ máy, và tiền có kịp về trước ngày phải trả. Ba câu hỏi bình thường, nhưng mở ra ba cách chẩn đoán khác nhau. Một quán bền vững cần cả khách hàng lẫn một mô hình kinh tế phù hợp. Chất lượng đồ uống, trải nghiệm và con người vẫn quan trọng; phép tính giúp nhìn rõ điều kiện để duy trì chúng. Nếu nhớ một điều, hãy nhớ: doanh thu cho biết tiền bán được, phần đóng góp giúp trả chi phí, còn dòng tiền cho biết khả năng xoay xở theo lịch. Chúng liên quan, nhưng không thể dùng thay nhau. Bạn muốn thử bóc tách mô hình của tiệm bánh, cửa hàng nhỏ hay một dịch vụ khác? Chia sẻ ở bình luận và theo dõi để cùng nhìn kỹ hơn cách những doanh nghiệp quanh ta vận hành.",
+      "file": "audio/08-ending.mp3",
+      "voiceId": "6adFm46eyy74snVn6YrT",
+      "model": "eleven_v3",
+      "language": "vi",
+      "speed": 1.0
+    }
+  ],
+  "validation": {
+    "beats": 58,
+    "words": 2136,
+    "exampleChecks": {
+      "unit": 20000,
+      "discountUnit": 14000,
+      "monthlyBaseUnits": 2400,
+      "monthlyDiscountUnitsCeil": 3429,
+      "preserve60MillionUnitsCeil": 4286,
+      "cashShortfall": -5000000
+    }
+  },
+  "policy": "Natural speech; cached exact takes, no time stretching. No channel branding."
+}

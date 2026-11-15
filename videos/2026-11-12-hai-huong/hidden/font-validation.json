@@ -1,0 +1,113 @@
+{
+  "reason": "Actual 1080p first render showed detached Vietnamese marks in Quay về nguồn and Nhiệm vụ nào tiếp theo?",
+  "normalization": "NFC",
+  "headlineCount": 11,
+  "actualRenderGlyphVerification": {
+    "status": "Corrected glyphs verified in two 1920x1080 still renders and again in regenerated frames decoded from the final corrected MP4",
+    "stills": [
+      {
+        "file": "font-proof-source.png",
+        "headline": "Quay về nguồn",
+        "observation": "Vietnamese marks joined correctly to letters; no extra intra-word gap; headline fits text rail",
+        "sha256": "1997315d9def5399e025869b800e9101c4a7905038d4a297cfda7f0aab5194d6"
+      },
+      {
+        "file": "font-proof-cta.png",
+        "headline": "Nhiệm vụ nào tiếp theo?",
+        "observation": "Vietnamese marks joined correctly to letters; no extra intra-word gap; headline fits text rail",
+        "sha256": "65bcccd930f13d2ed49d201da193985c6b8b971d80860781898e5ed50674bd50"
+      }
+    ]
+  },
+  "fontFiles": [
+    {
+      "file": "C:/Windows/Fonts/georgia.ttf",
+      "sha256": "38dffcaf1fac89492f7c56c600a14daf36ae42f7c21985cd4134ae113124a58f",
+      "uniqueHeadlineCodepoints": 63,
+      "missingCharacters": [
+        "ơ",
+        "ư",
+        "ạ",
+        "ả",
+        "ậ",
+        "ế",
+        "ề",
+        "ể",
+        "ệ",
+        "ỉ",
+        "ị",
+        "ố",
+        "ồ",
+        "ộ",
+        "ờ",
+        "ợ",
+        "ụ",
+        "ử",
+        "ự",
+        "ỹ",
+        "→"
+      ],
+      "missingCodepoints": [
+        "U+01A1",
+        "U+01B0",
+        "U+1EA1",
+        "U+1EA3",
+        "U+1EAD",
+        "U+1EBF",
+        "U+1EC1",
+        "U+1EC3",
+        "U+1EC7",
+        "U+1EC9",
+        "U+1ECB",
+        "U+1ED1",
+        "U+1ED3",
+        "U+1ED9",
+        "U+1EDD",
+        "U+1EE3",
+        "U+1EE5",
+        "U+1EED",
+        "U+1EF1",
+        "U+1EF9",
+        "U+2192"
+      ],
+      "vietnameseGlyphProof": {
+        "ề": null,
+        "ồ": null,
+        "ệ": null,
+        "ụ": null,
+        "ế": null,
+        "ộ": null,
+        "ự": null
+      }
+    },
+    {
+      "file": "C:/Windows/Fonts/times.ttf",
+      "sha256": "931c5de5c70401d9324d5014c123802b4fb753000360ceb2f56c589403cd58c5",
+      "uniqueHeadlineCodepoints": 63,
+      "missingCharacters": [],
+      "missingCodepoints": [],
+      "vietnameseGlyphProof": {
+        "ề": "uni1EC1",
+        "ồ": "uni1ED3",
+        "ệ": "uni1EC7",
+        "ụ": "uni1EE5",
+        "ế": "uni1EBF",
+        "ộ": "uni1ED9",
+        "ự": "uni1EF1"
+      }
+    }
+  ],
+  "finalMp4Verification": {
+    "sha256": "213f57342363e61eb081b45284d230cf4f4ed7f08466edf915a5d39fe7a10e5b",
+    "decodedFrames": 2490,
+    "expectedFrames": 2490,
+    "reviewedFiles": [
+      "qa/frame-01311.jpg",
+      "qa/frame-02253.jpg",
+      "qa/keyframes-02.jpg",
+      "qa/keyframes-03.jpg",
+      "qa/last-frame.jpg"
+    ],
+    "observations": "Previously detached Vietnamese marks now joined correctly; headings fit rails; last caption remains visible in final frame. Manual audio listening not performed."
+  }
+}

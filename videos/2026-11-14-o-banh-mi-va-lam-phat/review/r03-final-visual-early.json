@@ -1,0 +1,35 @@
+{
+  "reviewer": "Codex parent",
+  "revision": "r03",
+  "method": "Opened five contact sheets from final encoded MP4, 75 early/middle/late samples across first25beats",
+  "decision": "No blocking visual defect in these sampled frames",
+  "observations": [
+    "Vietnamese headings/captions remain legible without visible clipped marks",
+    "Portrait foreground images remain sharp and contained; flour/fuel/bakery subjects visible",
+    "Illustrative price and cost figures match narration; character pose remains fixed in samples"
+  ],
+  "evidence": [
+    {
+      "file": "r03/qa/contact-01.jpg",
+      "sha256": "ca59023df1df023da2c87d538405e4a31e5fe31b9032ca0d3a77619962a80562"
+    },
+    {
+      "file": "r03/qa/contact-02.jpg",
+      "sha256": "f426312cd8bb6a8ab02ecab3aa5397b64ee966f7acaf1137ace4a439eca30b08"
+    },
+    {
+      "file": "r03/qa/contact-03.jpg",
+      "sha256": "6fbcdd0995dc991c1f3795d61adddf0cfabe141e52978c64c7fbc0e1a36bbf9a"
+    },
+    {
+      "file": "r03/qa/contact-04.jpg",
+      "sha256": "6ebed89c6809fff25c0a68c3dee5420b5c916b29873f0640fbc5b0702009c9bb"
+    },
+    {
+      "file": "r03/qa/contact-05.jpg",
+      "sha256": "d6719934fd15443f81c1a6c09496d3f3e7690c4895438c5de8a45b50c04f0632"
+    }
+  ],
+  "continuousAVReview": false,
+  "userApproval": "pending"
+}

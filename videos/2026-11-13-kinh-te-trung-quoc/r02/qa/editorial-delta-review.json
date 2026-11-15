@@ -1,0 +1,16 @@
+{
+  "schema": "china-editorial-delta-review/1",
+  "recordedUTC": "2026-11-13T06:08:06.436451+00:00",
+  "reviewer": "root",
+  "finalSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+  "baseReview": "../qa/editorial-review.json",
+  "baseIndependentReview": "../qa/independent-visual-review.json",
+  "changedShot": "o03",
+  "actualViewed": "r02/qa/midframes/03-o03.jpg",
+  "viewedSHA256": "a28f35d9aa6126ef471a6d7c7b3060e146f60679f3a99385e14e01c94a13389c",
+  "observed": "Native1080pframe shows Ba góc nhìn để đọc Trung Quốc over exactly3thematiccards; captions below do not overlap cards.",
+  "blockingCorrectionResolved": true,
+  "unselectedSampleComparison": "../unselected-sample-check.json",
+  "scope": "Actual changed-scene still viewed; other shot observations belong to retained original review, with50point pixel comparison for the re-encode. Not continuous listening or user approval.",
+  "userAcceptance": "pending"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "vn-commute-traffic",
+  "pexelsID": 32123175,
+  "sourceURL": "https://www.pexels.com/photo/busy-urban-street-with-motorbike-traffic-32123175/",
+  "creator": "Pew Nguyen",
+  "theme": "commuting",
+  "documentedLocation": "Ho Chi Minh City, Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "An urban street contains motorbike traffic and pedestrians.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-commute-traffic.jpg",
+  "downloadURL": "https://images.pexels.com/photos/32123175/pexels-photo-32123175.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "3fabb37d2234d4e0c773b14f380d445ae4c0711fd0ca791256ec0a3f22259489",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

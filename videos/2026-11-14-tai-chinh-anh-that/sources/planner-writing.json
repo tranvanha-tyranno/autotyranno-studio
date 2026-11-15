@@ -1,0 +1,30 @@
+{
+  "id": "planner-writing",
+  "pexelsID": 6172482,
+  "sourceURL": "https://www.pexels.com/photo/a-person-writing-on-calendar-6172482/",
+  "creator": "RDNE Stock project",
+  "theme": "planning",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/planner-writing.jpg",
+  "downloadURL": "https://images.pexels.com/photos/6172482/pexels-photo-6172482.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "52ffefcd497eba2ac377522c73ba9371a197e5e32ec14e1545efddcc3348adf7",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

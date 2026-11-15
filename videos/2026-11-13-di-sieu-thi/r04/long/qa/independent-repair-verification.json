@@ -1,0 +1,60 @@
+{
+  "schema": "independent-render-repair-review/1",
+  "reviewDate": "2026-11-13",
+  "reviewer": "pilot_research agent",
+  "render": "r04/long/final.mp4",
+  "renderSHA256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128",
+  "baselineReview": "r03/long/qa/independent-visual-review.json",
+  "method": {
+    "nativeFramesOpened": [
+      "r04/long/qa/frame-03898.jpg",
+      "r04/long/qa/frame-05430.jpg",
+      "r04/long/c12-review.jpg",
+      "r04/long/a1-review.jpg"
+    ],
+    "timelineSheetsOpened": [
+      "r04/long/qa/full-duration-05.jpg",
+      "r04/long/qa/full-duration-06.jpg",
+      "r04/long/qa/full-duration-07.jpg"
+    ],
+    "timelineSampleScope": "One-second samples from 120.5 to 204.5 seconds, including the two repaired scenes and their adjacent scene transitions.",
+    "continuousAVPlayback": false,
+    "audioListened": false,
+    "unchangedSceneReview": "All 24 keyframes and all seven one-second timeline sheets were previously inspected for r03. This report verifies the two selected r04 repairs and the later sampled timeline; it does not assert pixel equivalence for all other frames."
+  },
+  "repairs": [
+    {
+      "shotId": "c12",
+      "status": "observed defect resolved",
+      "frame": 3898,
+      "frameSHA256": "bcea2237831fdc7d29182f080f4d44edfb9e4013693e82baaf32239aa888b78d",
+      "observation": "The entire original comparison is contained in the left pane. The hypothetical-price header, one and two boxes, 30,000 and 50,000 dong totals, and 30,000 and 25,000 dong unit prices are visible. The right pane shows groceries. The narration's conditional comparison can be understood without cropped quantities or numbers.",
+      "scope": "This is a clearly labeled original hypothetical calculation, not evidence of actual store prices. The grocery photograph illustrates using purchased food; it does not show two matching boxes being consumed."
+    },
+    {
+      "shotId": "a1",
+      "status": "observed defect resolved",
+      "frame": 5430,
+      "frameSHA256": "e6ce063a05f55abc3d49ec9a9307d09d6e63ab2b5c5999b2bcdf808dae5d3d97",
+      "observation": "The list graphic is contained in the left pane. All three checklist prompts and the illustrative footer are visible. The former overlaid headline no longer covers the third row. The right pane shows home groceries, with separate original-graphic and stock-image credit.",
+      "scope": "The card demonstrates what to record. It does not show a person actually writing a list or prove that the pictured groceries were checked against one."
+    }
+  ],
+  "laterTimelineObservations": [
+    "The c12 comparison remains fully visible in the one-second samples throughout the repaired scene. Its neighboring scene cuts show no sampled blank or unrelated frame.",
+    "The a1 checklist remains visible in the one-second samples. A brief transition at about 176.5 seconds blends the previous portrait with the entering list; this is an intentional transition, not a persistent obstruction.",
+    "The c14 gallery retains a partly occluded right comparison card, but the 50,000 dong total and extra-spend label remain visible. This is acceptable as a callback to the earlier full comparison; it should not serve as the initial arithmetic explanation.",
+    "The checkout samples show unloading and handling products at a checkout, not a completed card or cash payment. They support the narrated pause before paying.",
+    "The final CTA and closing caption remain visible in the later sheet samples, including the final spoken word. This is a visual observation, not an auditory verification."
+  ],
+  "aestheticNotes": [
+    "Containing the two original graphics creates dark horizontal letterboxing in their left panes while the right photos fill the frame. This is a plain but legible presentation, not a new semantic blocker. A future template may use the graphic's paper color as the unused pane background."
+  ],
+  "result": "The two material r03 visual defects are resolved in actual r04 frames. No additional material semantic blocker was found in the r04 frames and later timeline sheets inspected here.",
+  "remainingLimits": [
+    "No continuous full audiovisual playback or manual listening was performed by this reviewer.",
+    "One-second samples cannot establish that every frame or transition is defect-free.",
+    "Technical decode results come from the separate production QA report and do not establish aesthetic quality.",
+    "User acceptance of this new video remains pending."
+  ]
+}

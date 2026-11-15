@@ -1,0 +1,178 @@
+{
+  "schema": "reference-content-analysis/1",
+  "source": {
+    "id": "JlfAd_OaFek",
+    "url": "https://www.youtube.com/watch?v=JlfAd_OaFek",
+    "title": "Liệu AI có thực sự cướp mất việc của chúng ta?",
+    "channel": "Lóng",
+    "declared_duration": 1077.0,
+    "metadata_source": "docs/video-references/2026-11-12-two-directions/catalog.json",
+    "metadata_source_sha256": "3ec2db0eea33a4d95e4d4410df436e6d5f9315e61773a78403706592b44a86c1",
+    "transcript_path": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/transcript.json",
+    "transcript_sha256": "7b8abbd292ddb17bf152b9fe3a6ce6b4b2ab66c919cc86348b178b2a9d851ff8",
+    "media_path": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+    "media_sha256": "0176dcaae7695cd6ff20184f224aaf926a72afeef78a7245e8ec9961e6895920"
+  },
+  "coverage": {
+    "method": "full_caption_read",
+    "reviewed_start": 0.0,
+    "reviewed_end": 1075.702,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listening": false,
+    "visual_method": "no new visual review"
+  },
+  "chapter_source": "agent-inferred semantic sections from caption; not official chapters or frame-accurate cuts",
+  "central_question": "AI giúp hay làm phụ thuộc: khả năng của công cụ, thay đổi nhiệm vụ, năng suất và điều kiện sử dụng; cuối video chuyển rõ sang phần cứng tài trợ.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 34.52,
+      "title": "Tôi dùng AI rồi sẽ còn gì để đi làm?",
+      "question": "Dùng nhiều có làm mình mất năng lực không?",
+      "claim": "Người kể mở từ quán ăn/menu/học tập rồi đặt nỗi lo gần nhóm người trẻ.",
+      "evidence_example": "12,4–20,84 tự hỏi chưa kịp đi làm đã thất nghiệp.",
+      "mechanism": "Tình huống cá nhân → câu hỏi người xem có liên quan.",
+      "transition": "34,52 lưu ý phạm vi.",
+      "payoff": "Lời hứa về cách dùng, không chỉ tổng quan công nghệ.",
+      "emphasis": "Chốt một mâu thuẫn cụ thể.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 34.52,
+      "end": 47.8,
+      "title": "Lưu ý và công bố tài trợ",
+      "question": "Độ chắc của thông tin và tài trợ là gì?",
+      "claim": "Nguồn tổng hợp/nhận định cá nhân, mời đính chính; công bố ASUS.",
+      "evidence_example": "34,52–43,68; 43,68–45,36 tài trợ.",
+      "mechanism": "Tách phạm vi và tài trợ khỏi thân giải thích.",
+      "transition": "47,8 bước vào lao động Gen Z.",
+      "payoff": "Disclaimer có thật trong lời nguồn; không suy cho kênh khác.",
+      "emphasis": "Một phần ngắn có chức năng rõ.",
+      "kind": "disclaimer_sponsor",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 47.8,
+      "end": 136.33,
+      "title": "Vừa sợ AI vừa dùng AI",
+      "question": "Nỗi lo việc làm xuất phát từ hoàn cảnh nào?",
+      "claim": "Người kể đặt khó khăn tài chính và mức sử dụng vào thế đối lập.",
+      "evidence_example": "98,52 nêu khảo sát lo thay thế; 121,33–134,29 nêu mức dùng và nghịch lý.",
+      "mechanism": "Nhu cầu việc làm ổn định + công cụ được dùng thường xuyên → động cơ tìm hiểu.",
+      "transition": "136,33 hỏi AI thực sự làm được gì.",
+      "payoff": "Đưa người xem vào thế khó trước khi định nghĩa.",
+      "emphasis": "Số khảo sát cần kiểm nguồn, không dùng như facts đã xác nhận.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 136.33,
+      "end": 307.09,
+      "title": "AI làm được gì, người giao việc làm gì?",
+      "question": "Phân biệt nhận diện/tạo sinh/agent để làm gì?",
+      "claim": "Người kể tăng mức tự chủ từng bậc rồi dừng ở xác định mục tiêu/đánh giá kết quả.",
+      "evidence_example": "262,09–280,41 trò rắn săn mồi cần mô tả luật và kết quả.",
+      "mechanism": "Khả năng tăng không xóa nhu cầu định nghĩa sản phẩm.",
+      "transition": "307,09 quay lại câu hỏi thất nghiệp.",
+      "payoff": "Phần định nghĩa phục vụ câu hỏi việc làm, không mở rộng vô tận lịch sử AI.",
+      "emphasis": "Ví dụ phải có kết quả đúng/sai thấy được; không nói agent luôn tự hoàn thành.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 307.09,
+      "end": 516.14,
+      "title": "Thay việc hay thay một phần nhiệm vụ?",
+      "question": "Tự động hóa một phần có đồng nghĩa mất nghề?",
+      "claim": "Người kể phân biệt đổi nhiệm vụ và xóa công việc, cần kỹ năng chuyển đổi/kiểm lỗi.",
+      "evidence_example": "394,54–418,33 báo cáo cần người kiểm; 447,25–466,3 xe đua/code lỗi; 474,57–514,14 thợ ống nước.",
+      "mechanism": "Công cụ xử lý được thao tác nhưng chẩn đoán/tiêu chuẩn đầu ra vẫn cần chuyên môn.",
+      "transition": "516,14 chuyển sang vì sao doanh nghiệp đầu tư.",
+      "payoff": "Bác một suy luận quá nhanh từ khả năng công cụ tới mất nghề.",
+      "emphasis": "Các dự báo WEF đa yếu tố không phải AI gây số mất việc ấy; caption ghi nhầm năm có thể xảy ra.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 516.14,
+      "end": 664.38,
+      "title": "Năng suất tăng ở đâu, có giới hạn gì?",
+      "question": "Giảm thời gian công việc cụ thể có lợi ích nào?",
+      "claim": "Người kể lần lượt lập trình, viết, chăm sóc khách hàng, rồi tổng hợp tác động.",
+      "evidence_example": "556,02–560,42 nhiều code không đồng nghĩa sản phẩm tốt; 629,82–636,46 người mới không tự thành chuyên gia.",
+      "mechanism": "Tác vụ cụ thể → phần tiết kiệm → điều kiện kiểm tra → kết quả tổng.",
+      "transition": "664,38 thông báo phần rủi ro.",
+      "payoff": "Tăng quy mô từ cá nhân sang doanh nghiệp rồi mô hình kinh tế.",
+      "emphasis": "Không cộng trộn % nghiên cứu khác tác vụ/đối tượng thành một mức năng suất chung.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 664.38,
+      "end": 834.74,
+      "title": "Ba điều kiện của Cloud AI",
+      "question": "Tính tiện có đổi lấy gì?",
+      "claim": "Người kể đặt ba nhãn rõ: dữ liệu, chi phí, kết nối/độ trễ.",
+      "evidence_example": "704,26 tài liệu công ty; 751,98 token ở quy mô doanh nghiệp; 808,9 dịch hội thoại.",
+      "mechanism": "Mỗi nhãn có tình huống làm rõ tác hại khác nhau.",
+      "transition": "834,74 chuyển giải pháp phần cứng local.",
+      "payoff": "Người xem biết đang ở mục nào và vì sao ví dụ thuộc mục đó.",
+      "emphasis": "Đây là bài học phân đoạn mạnh nhất: 3 nhánh ít giao thoa.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 834.74,
+      "end": 1052.02,
+      "title": "Cầu nối tới sản phẩm tài trợ",
+      "question": "Từ vấn đề tới lời chào hàng chuyển ở đâu?",
+      "claim": "Giới thiệu local AI/NPU rồi chuyển hệ sản phẩm ASUS và nơi mua.",
+      "evidence_example": "935,54 gọi ASUS; 1031,34 đại lý và danh mục mua.",
+      "mechanism": "Ba rủi ro trước được dùng làm nhu cầu cho giải pháp tài trợ.",
+      "transition": "1052,02 quay lại lời kết chung về AI.",
+      "payoff": "Có cấu trúc problem→product, nhưng đây là phần thương mại.",
+      "emphasis": "Không học lời tuyệt đối giải quyết toàn bộ/bảo mật tuyệt đối như kết luận kỹ thuật.",
+      "kind": "sponsor_integration",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 1052.02,
+      "end": 1075.7,
+      "title": "Khép lại và CTA",
+      "question": "Nên giữ thái độ/hành vi gì?",
+      "claim": "Người kể quay về học dùng công cụ rồi xin đăng ký.",
+      "evidence_example": "1063,86–1072,14 học tận dụng công cụ và đăng ký.",
+      "mechanism": "Callback nỗi lo ban đầu.",
+      "transition": "Chào kết.",
+      "payoff": "Lời cuối hơi tuyệt đối so với các giới hạn thân bài; bản mới phải giữ điều kiện.",
+      "emphasis": "Không kết rằng AI không bao giờ thay việc sau khi thân bài đã nêu việc có thể biến mất.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    }
+  ],
+  "observations": [
+    "Đã đọc toàn transcript; không mở thêm sheet hay nghe AV trong lượt này.",
+    "Đây là Lóng, không phải THE HIDDEN SELF. Không gán lẫn kết luận giữa kênh.",
+    "Mục 834,74–1052,02 là giải pháp dẫn sang tài trợ, không phải bằng chứng độc lập. Các số khảo sát/benchmark cần nguồn gốc và phạm vi trước khi dùng mới."
+  ],
+  "transferable_rules": [
+    {
+      "reference_interval": "697.14–702.54",
+      "rule": "Nói trước có ba vấn đề, rồi mỗi nhánh chỉ giải thích một vấn đề với một tình huống.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "394.54–418.33",
+      "rule": "Chèn phân biệt khái niệm đúng ngay chỗ người xem dễ suy luận quá mức.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "834.74–1052.02",
+      "rule": "Gắn nhãn tài trợ riêng để không học câu bán hàng như bằng chứng khách quan.",
+      "status": "editorial observation; not user-approved production lesson"
+    }
+  ],
+  "factual_validation": "not performed; all claims/examples describe what source narrator says, not verified facts"
+}

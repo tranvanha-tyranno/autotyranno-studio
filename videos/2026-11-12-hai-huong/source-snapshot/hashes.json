@@ -1,0 +1,86 @@
+[
+  {
+    "file": "directions.py",
+    "sha256": "afc1b7a3dccf45feea490e503d3a41d4666ae86f70ea90a24ecc81b1b6dc6ab6"
+  },
+  {
+    "file": "render_directions.py",
+    "sha256": "c5b69394e32f5855b9826c46389e43fd1ee440a6ea00156057bb771824e5c6eb"
+  },
+  {
+    "file": "direction_qa.py",
+    "sha256": "ab5ade7d0be93004ce0833f00fb28ee81245e651059daf36d37c9d2b4193c378"
+  },
+  {
+    "file": "directions_review.py",
+    "sha256": "4dfad86568ef9112f7a9417f00c5a7d96587eaa019628aaa0826494c0b0fd88b"
+  },
+  {
+    "file": "TWO_DIRECTIONS.md",
+    "sha256": "28d8f07258f7dd4dd7f2912c17a2270af50aa737dfe6c7708304defee1aea8e8"
+  },
+  {
+    "file": "cinematic.profile.json",
+    "sha256": "8f7c5a0a1a6fcbb3c6fa5b2c847a5983a352049bb00d3c5de26c6db66f567d79"
+  },
+  {
+    "file": "eleven_audio.py",
+    "sha256": "66d23c113d72b70d96ea01d79f2055e250ec7578aab62b4be3dd96a863bd8db3"
+  },
+  {
+    "file": "documentary.py",
+    "sha256": "36ab4ad7091be367a33c73169e93b55ec120959d393562fa38a20738bac31d44"
+  },
+  {
+    "file": "cinematic/src/Root.tsx",
+    "sha256": "aee54a79c4ffe126eb2344bcf2e0879122cc37c0eb959b382c9518f45ad64beb"
+  },
+  {
+    "file": "cinematic/src/directions-entry.tsx",
+    "sha256": "8c25e784d2acb830bc1dfec97ce47a20e28bc4eb8febc21b23502a0b15ba60d7"
+  },
+  {
+    "file": "cinematic/package.json",
+    "sha256": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f"
+  },
+  {
+    "file": "cinematic/package-lock.json",
+    "sha256": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c"
+  },
+  {
+    "file": "cinematic/remotion.config.ts",
+    "sha256": "af5ce97f98b2c91a7891f2bef4801f7dc700843f010fd81e1566d9eebf6f5ad1"
+  },
+  {
+    "file": "cinematic/tsconfig.json",
+    "sha256": "f2ce7d4149af71fd058aed6467668585849415547542ad0fa6d3dba3b336ae6a"
+  },
+  {
+    "file": "direction-profiles/hidden.json",
+    "sha256": "8ca4e79a0ec5888c72304c0f519218713e90b5494fc5f2ca283477cba207e09a"
+  },
+  {
+    "file": "direction-profiles/long.json",
+    "sha256": "0c65726314f09d849eadfdcd041c7d737db80ef85e1647393f98d6c11de8862f"
+  },
+  {
+    "file": "direction-profiles/README.md",
+    "sha256": "a83128e2a7c68814bee83d03df771cba19b5cf2d24fdb5ee8fa5ed31ae994086"
+  },
+  {
+    "file": "cinematic/src/directions/Film.tsx",
+    "sha256": "077cc2e8eadc8e743e17263a0db62b93adb18833992de5a3b77e6a93a7808a24"
+  },
+  {
+    "file": "cinematic/src/directions/Gallery3D.tsx",
+    "sha256": "230bf2978c71df7031b647f68fbb285a09578a968e5c5a2ad1f23b61dcbba46b"
+  },
+  {
+    "file": "cinematic/src/directions/index.ts",
+    "sha256": "48d5d3c2cca9afd2c10116910e18191a482a897aee8940385867f3b06a08f9a2"
+  },
+  {
+    "file": "cinematic/src/directions/types.ts",
+    "sha256": "cac9e2db1b31afb6cbb629cd7e2f779238c0f09ebfbc79a167f978ca33a23083"
+  }
+]

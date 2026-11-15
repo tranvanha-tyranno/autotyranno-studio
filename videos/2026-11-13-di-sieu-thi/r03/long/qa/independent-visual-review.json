@@ -1,0 +1,227 @@
+{
+  "schema": "independent-render-review/1",
+  "reviewDate": "2026-11-13",
+  "reviewer": "pilot_research agent",
+  "render": "r03/long/final.mp4",
+  "renderSHA256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee",
+  "method": {
+    "keyframes": "All 24 keyframes inspected via three contact sheets.",
+    "entireTimeline": "All seven full-duration sheet pages opened, with one-second samples from 0 to 204.5 seconds.",
+    "nativeFramesOpened": [
+      "frame-00943.jpg",
+      "frame-01738.jpg",
+      "frame-02556.jpg",
+      "frame-03383.jpg",
+      "frame-04518.jpg",
+      "frame-05131.jpg",
+      "frame-06014.jpg"
+    ],
+    "continuousAVPlayback": false,
+    "audioListened": false,
+    "motion": "Compared actual positions and actions across one-second samples for three moving clips; this is not continuous playback or a frame-by-frame review."
+  },
+  "overall": "Two observed visual issues require selected-shot repair; no further material semantic blockers found in the opened frames.",
+  "pendingRepairs": [
+    "c12",
+    "a1"
+  ],
+  "reviews": [
+    {
+      "shotId": "h1a",
+      "frame": 38,
+      "start": 0.0,
+      "end": 2.533333333333333,
+      "status": "observed",
+      "observation": "Filled cart and hook question are visible. The scene supplies shopping context without claiming the subject bought outside a plan."
+    },
+    {
+      "shotId": "h1b",
+      "frame": 122,
+      "start": 2.533333333333333,
+      "end": 5.633333333333334,
+      "status": "observed",
+      "observation": "The price-board sentence now shows the sale shelf directly, correcting the prior semantic delay."
+    },
+    {
+      "shotId": "h2",
+      "frame": 261,
+      "start": 5.633333333333334,
+      "end": 11.766666666666667,
+      "status": "observed-with-limit",
+      "observation": "Actual offer labels remain clear beside checkout context. The headline previews unit price versus total; the later original graphic supplies the explicit comparison."
+    },
+    {
+      "shotId": "h3",
+      "frame": 454,
+      "start": 11.766666666666667,
+      "end": 18.533333333333335,
+      "status": "observed",
+      "observation": "People walk and browse in the real clip across samples. It remains illustrative trip context, not evidence of a particular local store."
+    },
+    {
+      "shotId": "d1",
+      "frame": 685,
+      "start": 18.533333333333335,
+      "end": 27.166666666666668,
+      "status": "observed",
+      "observation": "The caveat is readable in a clean split, with the shopper face and basket visible. It attributes no negative behavior to this subject."
+    },
+    {
+      "shotId": "c1",
+      "frame": 943,
+      "start": 27.166666666666668,
+      "end": 35.733333333333334,
+      "status": "observed-with-limit",
+      "observation": "The kitchen source is dark and the lower gradient adds darkness. The open fridge, raised hand and contents remain recognizable. Brightness could be tuned in a future aesthetic pass."
+    },
+    {
+      "shotId": "c2",
+      "frame": 1202,
+      "start": 35.733333333333334,
+      "end": 44.43333333333333,
+      "status": "observed",
+      "observation": "The whole original prompt graphic is readable; its footer says it is illustrative. Captions leave the important rows clear."
+    },
+    {
+      "shotId": "c3",
+      "frame": 1464,
+      "start": 44.43333333333333,
+      "end": 53.166666666666664,
+      "status": "observed",
+      "observation": "The phone and shopper are visible. Narration does not misidentify the unreadable phone content."
+    },
+    {
+      "shotId": "c4",
+      "frame": 1738,
+      "start": 53.166666666666664,
+      "end": 62.733333333333334,
+      "status": "observed",
+      "observation": "The diptych retains carton variety and the yellow offer label. Headline and captions do not cover the key label."
+    },
+    {
+      "shotId": "c5",
+      "frame": 2012,
+      "start": 62.733333333333334,
+      "end": 71.43333333333334,
+      "status": "observed-with-limit",
+      "observation": "The hand reaches and handles products across the 63.5–70.5 second samples. This illustrates a product encounter; it does not establish the actor’s private intention."
+    },
+    {
+      "shotId": "c6",
+      "frame": 2289,
+      "start": 71.43333333333334,
+      "end": 81.2,
+      "status": "observed-with-limit",
+      "observation": "The fridge portrait and cart remain readable with the question overlay. Private intention is not proven; the spoken text offers alternative interpretations."
+    },
+    {
+      "shotId": "c7",
+      "frame": 2556,
+      "start": 81.2,
+      "end": 89.2,
+      "status": "observed",
+      "observation": "The native 1080p label now separates stock illustration and Inman 2009 research. It does not imply this stock image depicts the study."
+    },
+    {
+      "shotId": "c8",
+      "frame": 2823,
+      "start": 89.2,
+      "end": 99.03333333333333,
+      "status": "observed",
+      "observation": "The plum display and bright price card are visible. The caveat attributes no specific behavior to a depicted person."
+    },
+    {
+      "shotId": "c9",
+      "frame": 3121,
+      "start": 99.03333333333333,
+      "end": 109.06666666666666,
+      "status": "observed",
+      "observation": "The actual multiple-unit offer is visible before the original hypothetical comparison. No local price claim is made."
+    },
+    {
+      "shotId": "c10",
+      "frame": 3383,
+      "start": 109.06666666666666,
+      "end": 116.46666666666667,
+      "status": "observed",
+      "observation": "The full graphic preserves one versus two boxes, 30k versus 50k total, 30k versus 25k unit price and the hypothetical header. Captions do not cover the main numbers."
+    },
+    {
+      "shotId": "c11",
+      "frame": 3618,
+      "start": 116.46666666666667,
+      "end": 124.73333333333333,
+      "status": "observed",
+      "observation": "The full graphic now says additional spending 20k and preserves the 30k/50k comparison. Arithmetic is visible."
+    },
+    {
+      "shotId": "c12",
+      "frame": 3898,
+      "start": 124.73333333333333,
+      "end": 135.13333333333333,
+      "status": "revision-needed",
+      "observation": "Cover crop removes the one-box 30k side and part of the hypothetical header in the left pane, so the comparison is incomplete. Root is preparing explicit contain behavior."
+    },
+    {
+      "shotId": "c13",
+      "frame": 4207,
+      "start": 135.13333333333333,
+      "end": 145.36666666666667,
+      "status": "observed",
+      "observation": "A filled basket is depicted while narration correctly says the basket alone cannot establish waste."
+    },
+    {
+      "shotId": "c14",
+      "frame": 4518,
+      "start": 145.36666666666667,
+      "end": 155.83333333333334,
+      "status": "observed-with-limit",
+      "observation": "The gallery right card shows 50k and the additional 20k at native 1080p. The left comparison is partly occluded by the central card, so it functions as a callback rather than the first full explanation."
+    },
+    {
+      "shotId": "c15",
+      "frame": 4822,
+      "start": 155.83333333333334,
+      "end": 165.66666666666666,
+      "status": "observed-with-limit",
+      "observation": "Actual unloading and cashier handling progress across 156.5–165.5 second samples. Advice uses questions about a possible decision; no claim that payment is visible."
+    },
+    {
+      "shotId": "c16",
+      "frame": 5131,
+      "start": 165.66666666666666,
+      "end": 176.43333333333334,
+      "status": "observed-with-limit",
+      "observation": "The portrait retains both faces and checkout equipment with blurred side fill. The static reflective beat lasts about 11 seconds; it is context, not proof of intention."
+    },
+    {
+      "shotId": "a1",
+      "frame": 5430,
+      "start": 176.43333333333334,
+      "end": 185.56666666666666,
+      "status": "revision-needed",
+      "observation": "The large headline overlaps the third checklist row. Root is preparing explicit contain behavior and removing this headline."
+    },
+    {
+      "shotId": "a2",
+      "frame": 5723,
+      "start": 185.56666666666666,
+      "end": 195.96666666666667,
+      "status": "observed-with-limit",
+      "observation": "Home groceries supply context without a false before/after claim. Caption and narration offer possible interpretations."
+    },
+    {
+      "shotId": "a3",
+      "frame": 6014,
+      "start": 195.96666666666667,
+      "end": 205.0,
+      "status": "observed",
+      "observation": "CTA headline and short body are clear. Face and basket remain visible, although the top of the head is cropped. The final spoken caption remains through the ending."
+    }
+  ],
+  "limits": [
+    "This is not aesthetic acceptance on behalf of the user.",
+    "A successful decode was not used as visual-quality proof.",
+    "The unchanged research claim remains scoped to the study abstract; no new primary fact verification was performed in this render review."
+  ]
+}

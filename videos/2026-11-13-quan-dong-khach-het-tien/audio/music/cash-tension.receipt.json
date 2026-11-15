@@ -1,0 +1,10 @@
+{
+  "provider": "ElevenLabs",
+  "model": "music_v1",
+  "request_hash": "28c0166a730160f226664fc5bec0af8e7c7752ff3bd3b9442b3887c07c91b784",
+  "endpoint": "/v1/music",
+  "character_cost": null,
+  "request_id": null,
+  "sha256": "3625a05819765d346c4bc8d0f054ff26d8c9a01bcf8fed1f4ded82485e862ec7",
+  "bytes": 1920566
+}

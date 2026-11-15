@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ilo-2025",
+    "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+    "published": "2025-05-20",
+    "scope": "One in four workers globally in an occupation with some GenAI exposure. Exposure is not observed job losses; transformation more likely than full replacement.",
+    "retrieval": "Read via web tool. Direct requests returned HTTP 403; do not call an error page a source snapshot.",
+    "verifiedExcerpt": "Globally, one in four workers are in an occupation with some GenAI exposure.",
+    "checked": "2026-11-11"
+  },
+  {
+    "id": "wef-2025",
+    "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+    "title": "The Future of Jobs Report 2025",
+    "published": "2025-01-07",
+    "scope": "Employer-survey projections for 2025–2030: 170m creation, 92m displacement from several structural trends, not AI alone; analytical thinking, technology literacy and learning. Not observed results.",
+    "retrieval": "Read official report page via web tool",
+    "verifiedExcerpt": "resulting in net growth of 7% of total employment, or 78 million jobs.",
+    "checked": "2026-11-11"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "title": "Một ổ bánh mì kể chuyện lạm phát",
+  "wordUnits": 2166,
+  "audience": "Người xem muốn hiểu giá cả qua một câu chuyện đời thường",
+  "structure": [
+    "hook",
+    "brief relevant disclaimer",
+    "causal economic story",
+    "practical CTA"
+  ],
+  "visualPolicy": "Real photographs for context; original graphics for causal relationships and illustrative arithmetic",
+  "characterPolicy": "Fixed placement and pose; gentle cue-based turns only. No bobbing, lip motion or acted gestures.",
+  "latestUserOverride": "2026-11-14: content-first, adjust font, characters may remain still and turn with dialogue",
+  "fiction": "Hạnh and every shop/price/cost example are fictional; stock photographs do not identify her",
+  "branding": false,
+  "userApproval": "pending",
+  "voiceSpeed": 1.0
+}

@@ -1,0 +1,1305 @@
+{
+  "schema": "china-independent-final-visual-review/1",
+  "reviewer": "animated_shopping agent",
+  "reviewedUTC": "2026-11-13T06:05:55.971362+00:00",
+  "revision": "initial-full-render",
+  "videoFile": "final.mp4",
+  "videoSHA256": "936252a9f28282d3853d9dbc341cea7347177d0853508305d10d266ed10bdcbd",
+  "dataSHA256": "5780a919b1f6ae5c0d1ad7b2f501e18ef90f9ed43e945de957a6d0cdbadcae6c",
+  "scope": "Actual sampled images decoded from the initial finalMP4. This is not continuous video watching/listening or a verdict on every frame.",
+  "threeSecondSheets": [
+    {
+      "file": "three-second-01.jpg",
+      "sha256": "d0a3e75cfba5e1defc871bab7f7396cad51fdd214453e95fc211503918ea7d64",
+      "frames": [
+        0,
+        90,
+        180,
+        270,
+        360,
+        450,
+        540,
+        630,
+        720
+      ],
+      "seconds": [
+        0.0,
+        3.0,
+        6.0,
+        9.0,
+        12.0,
+        15.0,
+        18.0,
+        21.0,
+        24.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-02.jpg",
+      "sha256": "1b338bce91d081259c9c162d9ebef47e530065db873869ff97c7c68b316cfc15",
+      "frames": [
+        810,
+        900,
+        990,
+        1080,
+        1170,
+        1260,
+        1350,
+        1440,
+        1530
+      ],
+      "seconds": [
+        27.0,
+        30.0,
+        33.0,
+        36.0,
+        39.0,
+        42.0,
+        45.0,
+        48.0,
+        51.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-03.jpg",
+      "sha256": "c33e0254d50b03ea06a8ae9870d0dd099d302c3771267aa37ecda069c2595469",
+      "frames": [
+        1620,
+        1710,
+        1800,
+        1890,
+        1980,
+        2070,
+        2160,
+        2250,
+        2340
+      ],
+      "seconds": [
+        54.0,
+        57.0,
+        60.0,
+        63.0,
+        66.0,
+        69.0,
+        72.0,
+        75.0,
+        78.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-04.jpg",
+      "sha256": "686a8dea628272bee32332f0df1d9f3dadb7e222759fe48931fe1040491df203",
+      "frames": [
+        2430,
+        2520,
+        2610,
+        2700,
+        2790,
+        2880,
+        2970,
+        3060,
+        3150
+      ],
+      "seconds": [
+        81.0,
+        84.0,
+        87.0,
+        90.0,
+        93.0,
+        96.0,
+        99.0,
+        102.0,
+        105.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-05.jpg",
+      "sha256": "b07270e06866ba2ad9696c572c339879202692255235cef27d2ff9b0d70a03bf",
+      "frames": [
+        3240,
+        3330,
+        3420,
+        3510,
+        3600,
+        3690,
+        3780,
+        3870,
+        3960
+      ],
+      "seconds": [
+        108.0,
+        111.0,
+        114.0,
+        117.0,
+        120.0,
+        123.0,
+        126.0,
+        129.0,
+        132.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-06.jpg",
+      "sha256": "b6a775e5be909dbc5e23f35190311148bb5fd047894fdd378e5895ba980a0a78",
+      "frames": [
+        4050,
+        4140,
+        4230,
+        4320,
+        4410,
+        4500,
+        4590,
+        4680,
+        4770
+      ],
+      "seconds": [
+        135.0,
+        138.0,
+        141.0,
+        144.0,
+        147.0,
+        150.0,
+        153.0,
+        156.0,
+        159.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-07.jpg",
+      "sha256": "2a6827274de05968260d765802f1bb9c8191d232c8e10f8202b6cd58709c5637",
+      "frames": [
+        4860,
+        4950,
+        5040,
+        5130,
+        5220,
+        5310,
+        5400,
+        5490,
+        5580
+      ],
+      "seconds": [
+        162.0,
+        165.0,
+        168.0,
+        171.0,
+        174.0,
+        177.0,
+        180.0,
+        183.0,
+        186.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-08.jpg",
+      "sha256": "5a17ad60d89710e87755997b65e120fc675ec53444ea7f23f591b574ea5331d5",
+      "frames": [
+        5670,
+        5760,
+        5850,
+        5940,
+        6030,
+        6120,
+        6210,
+        6300,
+        6390
+      ],
+      "seconds": [
+        189.0,
+        192.0,
+        195.0,
+        198.0,
+        201.0,
+        204.0,
+        207.0,
+        210.0,
+        213.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-09.jpg",
+      "sha256": "517df0f3b1d786b4381ea1651794634b1e2a6dabc3b9f472086157ec995ab0c9",
+      "frames": [
+        6480,
+        6570,
+        6660,
+        6750,
+        6840,
+        6930,
+        7020,
+        7110,
+        7200
+      ],
+      "seconds": [
+        216.0,
+        219.0,
+        222.0,
+        225.0,
+        228.0,
+        231.0,
+        234.0,
+        237.0,
+        240.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-10.jpg",
+      "sha256": "da0960b0d4bf3bc93ef68e01c8b3ed85b91583029fd64114bce7a305f3e4a3e0",
+      "frames": [
+        7290,
+        7380,
+        7470,
+        7560,
+        7650,
+        7740,
+        7830,
+        7920,
+        8010
+      ],
+      "seconds": [
+        243.0,
+        246.0,
+        249.0,
+        252.0,
+        255.0,
+        258.0,
+        261.0,
+        264.0,
+        267.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-11.jpg",
+      "sha256": "648a6a1347c34d1d949c0096bc5e7bc1b7f82ad050b3be6eac32b7e75df1c24c",
+      "frames": [
+        8100,
+        8190,
+        8280,
+        8370,
+        8460,
+        8550,
+        8640,
+        8730,
+        8820
+      ],
+      "seconds": [
+        270.0,
+        273.0,
+        276.0,
+        279.0,
+        282.0,
+        285.0,
+        288.0,
+        291.0,
+        294.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-12.jpg",
+      "sha256": "816b2e0bbf808a04d074ef06c346f740f2135e9035feff59290e8f6d2d19614f",
+      "frames": [
+        8910,
+        9000,
+        9090,
+        9180,
+        9270,
+        9360,
+        9450,
+        9540,
+        9630
+      ],
+      "seconds": [
+        297.0,
+        300.0,
+        303.0,
+        306.0,
+        309.0,
+        312.0,
+        315.0,
+        318.0,
+        321.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-13.jpg",
+      "sha256": "9f53f1b27699e3cf7a7b3701247da751550707c8952b927c1129abcfee5d1a4b",
+      "frames": [
+        9720,
+        9810,
+        9900,
+        9990,
+        10080,
+        10170,
+        10260,
+        10350,
+        10440
+      ],
+      "seconds": [
+        324.0,
+        327.0,
+        330.0,
+        333.0,
+        336.0,
+        339.0,
+        342.0,
+        345.0,
+        348.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-14.jpg",
+      "sha256": "27383683862fff36727748c6f3fceb23dc7beac90e6fd54c7c37d64e902d4230",
+      "frames": [
+        10530,
+        10620,
+        10710,
+        10800,
+        10890,
+        10980,
+        11070,
+        11160,
+        11250
+      ],
+      "seconds": [
+        351.0,
+        354.0,
+        357.0,
+        360.0,
+        363.0,
+        366.0,
+        369.0,
+        372.0,
+        375.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-15.jpg",
+      "sha256": "2f46b5fe8a87cbc60373db472ce176d104fdc72ee364f67c71986b74907c4ecc",
+      "frames": [
+        11340,
+        11430,
+        11520,
+        11610,
+        11700,
+        11790,
+        11880,
+        11970,
+        12060
+      ],
+      "seconds": [
+        378.0,
+        381.0,
+        384.0,
+        387.0,
+        390.0,
+        393.0,
+        396.0,
+        399.0,
+        402.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-16.jpg",
+      "sha256": "0e43ebfe612156df2d8742a42c1e548dd37d9bbacc241197d8ac2499bc63fbd4",
+      "frames": [
+        12150,
+        12240,
+        12330,
+        12420,
+        12510,
+        12600,
+        12690,
+        12780,
+        12870
+      ],
+      "seconds": [
+        405.0,
+        408.0,
+        411.0,
+        414.0,
+        417.0,
+        420.0,
+        423.0,
+        426.0,
+        429.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-17.jpg",
+      "sha256": "51eed433544d8cfb81ab9c9f03e986be42e268345c450a8aa9a47b94aca0a21d",
+      "frames": [
+        12960,
+        13050,
+        13140,
+        13230,
+        13320,
+        13410,
+        13500,
+        13590,
+        13680
+      ],
+      "seconds": [
+        432.0,
+        435.0,
+        438.0,
+        441.0,
+        444.0,
+        447.0,
+        450.0,
+        453.0,
+        456.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-18.jpg",
+      "sha256": "84a20b8fd308a93f07dbe78597aabd6e4618ed6937d81cff84ecd26946cf2327",
+      "frames": [
+        13770,
+        13860,
+        13950,
+        14040,
+        14130,
+        14220,
+        14310,
+        14400,
+        14490
+      ],
+      "seconds": [
+        459.0,
+        462.0,
+        465.0,
+        468.0,
+        471.0,
+        474.0,
+        477.0,
+        480.0,
+        483.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-19.jpg",
+      "sha256": "2bdb16d208b9d2b8570c20530526d2896ca08c75c970e0aa6f03398793745b5b",
+      "frames": [
+        14580,
+        14670,
+        14760,
+        14850,
+        14940,
+        15030,
+        15120,
+        15210,
+        15300
+      ],
+      "seconds": [
+        486.0,
+        489.0,
+        492.0,
+        495.0,
+        498.0,
+        501.0,
+        504.0,
+        507.0,
+        510.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-20.jpg",
+      "sha256": "e5408d6310b8880253c7a34df187ed7557de8ec6dfdc0a80bcdf63d0fc1225e2",
+      "frames": [
+        15390,
+        15480,
+        15570,
+        15660,
+        15750,
+        15840,
+        15930,
+        16020,
+        16110
+      ],
+      "seconds": [
+        513.0,
+        516.0,
+        519.0,
+        522.0,
+        525.0,
+        528.0,
+        531.0,
+        534.0,
+        537.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-21.jpg",
+      "sha256": "e1bad4f2d2bee4691635b21b4b93b1acc7d9aec0b7a684742657fc174765988b",
+      "frames": [
+        16200,
+        16290,
+        16380,
+        16470,
+        16560,
+        16650,
+        16740,
+        16830,
+        16920
+      ],
+      "seconds": [
+        540.0,
+        543.0,
+        546.0,
+        549.0,
+        552.0,
+        555.0,
+        558.0,
+        561.0,
+        564.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-22.jpg",
+      "sha256": "8043e847c86a073eae0e1070c3f1ea7f2a391f01bf67ce710ed373cccf244cc3",
+      "frames": [
+        17010,
+        17100,
+        17190,
+        17280,
+        17370,
+        17460,
+        17550,
+        17640,
+        17730
+      ],
+      "seconds": [
+        567.0,
+        570.0,
+        573.0,
+        576.0,
+        579.0,
+        582.0,
+        585.0,
+        588.0,
+        591.0
+      ],
+      "samples": 9,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    },
+    {
+      "file": "three-second-23.jpg",
+      "sha256": "225d7c525e23ce392356eb288d12e17a2675777b5b3bb13956a46004a63b6928",
+      "frames": [
+        17820,
+        17910
+      ],
+      "seconds": [
+        594.0,
+        597.0
+      ],
+      "samples": 2,
+      "method": "Actual image opened with view_image; all tiles visually sampled"
+    }
+  ],
+  "sampledTimelineFrames": 200,
+  "timelineCoverageSeconds": [
+    0.0,
+    597.0
+  ],
+  "temporalStrips": [
+    {
+      "shot": "o01",
+      "layout": "c-map",
+      "frames": [
+        26,
+        95,
+        164,
+        232,
+        301
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/o01-1.jpg",
+          "sha256": "d83e6b478e56ceb4fcdfd6ad45fa12925d98100d90883c179dc368b3d662d294"
+        },
+        {
+          "file": "temporal/o01-2.jpg",
+          "sha256": "5e30becc39c6c5ac25bfecfcb7194102b31330cd732e13b340b61a0511532022"
+        },
+        {
+          "file": "temporal/o01-3.jpg",
+          "sha256": "fddbe1e20ba09a17414f0abc815d6ede36e1e0ebfa16c6f6fd3ae40809d69d40"
+        },
+        {
+          "file": "temporal/o01-4.jpg",
+          "sha256": "a17ce9e430f9e3d2ece994fa800b2960d9d6983d41a2f4b826a3ec3e1d69f831"
+        },
+        {
+          "file": "temporal/o01-5.jpg",
+          "sha256": "7c34a6606244353f218f94152592f0d6421027651ce02af509b650f0913b79aa"
+        }
+      ],
+      "fiveSampleStrip": "temporal/o01-strip.jpg",
+      "stripSHA256": "3d53ec565accbfc61d9b3f18e52b36d5255b4511b2b3c53be3af9464ec799f04",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "o02",
+      "layout": "c-flow",
+      "frames": [
+        351,
+        411,
+        470,
+        530,
+        590
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/o02-1.jpg",
+          "sha256": "268157890c109ccabb5c0d3c9b2579b864c11e07ada8955c6b312975dc38d3c1"
+        },
+        {
+          "file": "temporal/o02-2.jpg",
+          "sha256": "bbd71bf93f4a00e694243b7326ad341906f1b82d53e9ae3591114a65e74604e9"
+        },
+        {
+          "file": "temporal/o02-3.jpg",
+          "sha256": "f248fd27c666e360f65d55e7bd87714b7e7e10ccad3886ae89051acca3b72bc4"
+        },
+        {
+          "file": "temporal/o02-4.jpg",
+          "sha256": "33ab4481d0ddff440fe055bca4229a7ebb2600b1daf9f252683cbcc4a4df13e7"
+        },
+        {
+          "file": "temporal/o02-5.jpg",
+          "sha256": "cd788c3e7ab1138e0dc68b78f56187eb41ef3eabbe3286ab74c3ad6da35343f1"
+        }
+      ],
+      "fiveSampleStrip": "temporal/o02-strip.jpg",
+      "stripSHA256": "4b566b7c69d1d7f73827a24bdc1f1ed5f3ef44e8eb0273cdc360e654c00eed90",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "o03",
+      "layout": "c-compare",
+      "frames": [
+        643,
+        718,
+        793,
+        868,
+        943
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/o03-1.jpg",
+          "sha256": "2cd5d918cbbf6d5041b8ac7ba0cd5107670993cf3680242d1702ebbca9bf1f2c"
+        },
+        {
+          "file": "temporal/o03-2.jpg",
+          "sha256": "6184c68e11928684c5bd3b49bf3f33e2bd9b03109a5b54dce072b158eccc2756"
+        },
+        {
+          "file": "temporal/o03-3.jpg",
+          "sha256": "3ef961558136b21a44bc97cc6f18c1ccb213de3f26239104477855c6baf772c3"
+        },
+        {
+          "file": "temporal/o03-4.jpg",
+          "sha256": "5383e056dfbc1251493393cc55a4d401cae919badef5991a38a3d21bbb4a57da"
+        },
+        {
+          "file": "temporal/o03-5.jpg",
+          "sha256": "083f10315f5c6c209d1d61662821bcaad238d9dc25b82de239e12a9c8aecb62c"
+        }
+      ],
+      "fiveSampleStrip": "temporal/o03-strip.jpg",
+      "stripSHA256": "fc94cf58cad6e61812ebf281dbd20274d458cb4aae84289252c0ee70f53d1ee1",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "f02",
+      "layout": "c-sim",
+      "frames": [
+        1730,
+        1800,
+        1871,
+        1941,
+        2011
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/f02-1.jpg",
+          "sha256": "31705f51038f2a6b963027fedb93ec3667b6d5584d4a040325ba043c421d371d"
+        },
+        {
+          "file": "temporal/f02-2.jpg",
+          "sha256": "ac9d2cd8d5e760e2399b7c83f2487297af3c50373662e640a9c893ac90a63b66"
+        },
+        {
+          "file": "temporal/f02-3.jpg",
+          "sha256": "d1c63362ca6e23d2be8d9569a2f57b004929934c7cf2ec8101bb01244cb69405"
+        },
+        {
+          "file": "temporal/f02-4.jpg",
+          "sha256": "48913dcbf19a1820cd0457e0d5a480fbad882e58a1dff9192d214119e07b1056"
+        },
+        {
+          "file": "temporal/f02-5.jpg",
+          "sha256": "0b63f5785c6e67382f7616e2cdb87aac8460629497ffa999ade8c8d779894f0a"
+        }
+      ],
+      "fiveSampleStrip": "temporal/f02-strip.jpg",
+      "stripSHA256": "b576e5bb2d0caa7f91192335ea3739e74a172dbd67db340242baf26a0858199a",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "f04",
+      "layout": "c-sim",
+      "frames": [
+        2411,
+        2475,
+        2539,
+        2604,
+        2668
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/f04-1.jpg",
+          "sha256": "05158b854109ef8560d9752be752fe71b453bef91b05cda150ad1e54f4edd380"
+        },
+        {
+          "file": "temporal/f04-2.jpg",
+          "sha256": "2d5eb814844f7cd70051dfef25f7a273658217c27138e6d406f1b090d38cfa89"
+        },
+        {
+          "file": "temporal/f04-3.jpg",
+          "sha256": "69e3cd5e179b12bca0049e308b0643ca52520de604ff24ed6ed5fb7d67269bf5"
+        },
+        {
+          "file": "temporal/f04-4.jpg",
+          "sha256": "23470ebc03624df779c9238a49b3f9947ae16002c6d93154d45d897d1186f7f0"
+        },
+        {
+          "file": "temporal/f04-5.jpg",
+          "sha256": "dedcee03c9870adadc0fc9182c7a0075d02ccefec61617bd6114771768cb3889"
+        }
+      ],
+      "fiveSampleStrip": "temporal/f04-strip.jpg",
+      "stripSHA256": "342bb7f2bac6633b4e9bdf8c6086e4dd33c076720f186534341fc33d9549b652",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "r02",
+      "layout": "c-sim",
+      "frames": [
+        4399,
+        4473,
+        4547,
+        4621,
+        4695
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/r02-1.jpg",
+          "sha256": "b650e8fde062c2554b97cc769a33cb2fac35a4d1805702ec20142f577ef1bd15"
+        },
+        {
+          "file": "temporal/r02-2.jpg",
+          "sha256": "f81f6a3eb0152ce2a1788719e28446bee82cf98a97b0b0643cdf1610165d338b"
+        },
+        {
+          "file": "temporal/r02-3.jpg",
+          "sha256": "ebf4e02fc86e733b731b0f5622acee5b61f7f7a11f75bcfd087a70fc7411b75a"
+        },
+        {
+          "file": "temporal/r02-4.jpg",
+          "sha256": "1597a3ee50c63640601c10d8b93222dd20010424209de09289a8103df32cbcf9"
+        },
+        {
+          "file": "temporal/r02-5.jpg",
+          "sha256": "927ca4a177d1a19527decd3c42b14c41a510e4f84919fd3352fdc41a80db05f9"
+        }
+      ],
+      "fiveSampleStrip": "temporal/r02-strip.jpg",
+      "stripSHA256": "708a222308431909226d678ef09adcf97486b32861d1ed3f03d59f47b6c13e8f",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "h03",
+      "layout": "c-sim",
+      "frames": [
+        7350,
+        7423,
+        7496,
+        7570,
+        7643
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/h03-1.jpg",
+          "sha256": "40ae2ba3900e6f6b7faa99967002b919453bbec11d0d064f849b8bebeaee89ee"
+        },
+        {
+          "file": "temporal/h03-2.jpg",
+          "sha256": "db0b2d496ae97c476c681a6fbffe11f3e577a658120f4507208f3eb20d777337"
+        },
+        {
+          "file": "temporal/h03-3.jpg",
+          "sha256": "048b3a6b40238ec12600cf44dfbb83be2425d9a967ed537ed81d84340b87fb53"
+        },
+        {
+          "file": "temporal/h03-4.jpg",
+          "sha256": "a2e0c393e3c2aae3546a585cae6e5b686f7a84e19bf2da0bcee1206ee8926f89"
+        },
+        {
+          "file": "temporal/h03-5.jpg",
+          "sha256": "05d100ce7659b07dea5b11f40c2027c66d10d3c0cb738440a9de138cd001bb54"
+        }
+      ],
+      "fiveSampleStrip": "temporal/h03-strip.jpg",
+      "stripSHA256": "6fde3e94ad8c4fcd6c13dafbb009097af2bbef7ef6ae278901a067d72cbc89b9",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "h08",
+      "layout": "c-sim",
+      "frames": [
+        9136,
+        9201,
+        9266,
+        9331,
+        9396
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/h08-1.jpg",
+          "sha256": "dc7ef40c4b09a84216ad7de6e7cd563a5e984f018b78ba65f29522762fafdc09"
+        },
+        {
+          "file": "temporal/h08-2.jpg",
+          "sha256": "abc4b95c68ebcf7ee9e0cd027f63fa5dd0dee59a8acc2670395d0e4a33ac8fc9"
+        },
+        {
+          "file": "temporal/h08-3.jpg",
+          "sha256": "0696be03e94ab6ff10e8112c790a9e7fb9f8b4ca8706d09ceb08d8872a1520ab"
+        },
+        {
+          "file": "temporal/h08-4.jpg",
+          "sha256": "24cf414d1ea039dbbb44a2724c26f884dde20a8bf217a3a3c6148f554e456862"
+        },
+        {
+          "file": "temporal/h08-5.jpg",
+          "sha256": "613017809b42c55c4fc163f20ff70969e6210f64e8acee05b5f0eb2d5863257a"
+        }
+      ],
+      "fiveSampleStrip": "temporal/h08-strip.jpg",
+      "stripSHA256": "21c5df82efa5e576c1718e02e181e0636f0cc579c076bb1ecdb28ae8848bb4cb",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "t01",
+      "layout": "c-map",
+      "frames": [
+        9450,
+        9525,
+        9599,
+        9673,
+        9748
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/t01-1.jpg",
+          "sha256": "fd4ae219f261827caeaffc0d72790815e42fa7a7ca58108e2870e5b0956b41f7"
+        },
+        {
+          "file": "temporal/t01-2.jpg",
+          "sha256": "0be315826b5a15457ecd53cbe9090a6a7ecdf9bce99e5b1310684ca30143f322"
+        },
+        {
+          "file": "temporal/t01-3.jpg",
+          "sha256": "02d4e9efff253fa77ef9b7f76314ec71e00d3a1ed55e8fbe478c86f685f836c1"
+        },
+        {
+          "file": "temporal/t01-4.jpg",
+          "sha256": "7144f9b8595cb306dc3564c429197f0354b0032609dc7f14dc182ccdd8374b83"
+        },
+        {
+          "file": "temporal/t01-5.jpg",
+          "sha256": "724368487d5bb490321339de6db969851ef18f39475cf483d14c6c0c2db41994"
+        }
+      ],
+      "fiveSampleStrip": "temporal/t01-strip.jpg",
+      "stripSHA256": "ac1bdac3faf1e2f450defe5091b06a033f0c35e300a475ca184dd2e01dac5717",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "d01",
+      "layout": "c-sim",
+      "frames": [
+        11787,
+        11856,
+        11924,
+        11992,
+        12061
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/d01-1.jpg",
+          "sha256": "61d00a03188c6a29fb8c0e5d246ea2a31eece33e0b28206c2086c09694e61c1c"
+        },
+        {
+          "file": "temporal/d01-2.jpg",
+          "sha256": "a0879bdec701dda8cd82ef1fad15d27887d4cfbcf99e630a29b271be3c063d12"
+        },
+        {
+          "file": "temporal/d01-3.jpg",
+          "sha256": "eb3cf2d6e1c48f1691ac578e2d50f809b0664df3e777efaf2825c96fec3f6801"
+        },
+        {
+          "file": "temporal/d01-4.jpg",
+          "sha256": "56d6644f79a10002936e1abeba3af32720af2c805ef3ae628d7974da1ed97403"
+        },
+        {
+          "file": "temporal/d01-5.jpg",
+          "sha256": "f65a5184b8eaf1c72829c0248616d6a8f2399eb59a6f298b896b60d6450a4aaa"
+        }
+      ],
+      "fiveSampleStrip": "temporal/d01-strip.jpg",
+      "stripSHA256": "6d3e994569369c6f84ccbca2af00e9558da3b89f82373c9ddf86b6b186c26a1b",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "p02",
+      "layout": "c-chart",
+      "frames": [
+        14158,
+        14232,
+        14306,
+        14380,
+        14454
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/p02-1.jpg",
+          "sha256": "9ffd3418eeec6820c3cd0c33c4402ddc3f34f930269fa27f27112c1c42b31dee"
+        },
+        {
+          "file": "temporal/p02-2.jpg",
+          "sha256": "fad509d86056d2ca3363316ba3c69aea4474c2691009e28ed01136f3aa147c45"
+        },
+        {
+          "file": "temporal/p02-3.jpg",
+          "sha256": "4f095e6ae81a64027b467e66218bd2cf0f02bf45babccd60e34735dcff6e68e9"
+        },
+        {
+          "file": "temporal/p02-4.jpg",
+          "sha256": "60235b73a6bdcb5116bebd0e119b9f02e6b8a857f6a29112d553a73d9747bf71"
+        },
+        {
+          "file": "temporal/p02-5.jpg",
+          "sha256": "24a2f33dbd9833abadfb8512bc0d717e0ac0a55db1f3f684be3437a259396575"
+        }
+      ],
+      "fiveSampleStrip": "temporal/p02-strip.jpg",
+      "stripSHA256": "5e3e606cdaf6e993935aa6412d245e31dea86cd14a03612f12d280629cc6d7fb",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "p04",
+      "layout": "c-sim",
+      "frames": [
+        14905,
+        14981,
+        15056,
+        15132,
+        15208
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/p04-1.jpg",
+          "sha256": "7f3b10838d5d5a8bc56dccc1e856078e93be761257f56746072de47d9452f68a"
+        },
+        {
+          "file": "temporal/p04-2.jpg",
+          "sha256": "7f97e5a5ac59989ac10fb9b2a6c112fb727c8a72b49852469219d66c6b386452"
+        },
+        {
+          "file": "temporal/p04-3.jpg",
+          "sha256": "c99b5f3fbcc1f66b615242764afe79aa12525c4bf3e362f6697b56169bd0bfc8"
+        },
+        {
+          "file": "temporal/p04-4.jpg",
+          "sha256": "ca707f45b576c6a11151bfae15025e9f1e335486e57c20880c11046afcca8863"
+        },
+        {
+          "file": "temporal/p04-5.jpg",
+          "sha256": "41809a79e9aef02772301251fd71dccc526bd9d624a469033fa755ecf97ccf9a"
+        }
+      ],
+      "fiveSampleStrip": "temporal/p04-strip.jpg",
+      "stripSHA256": "f97187a4646e49adc879efdd77776fd0a5bff794534c83b57d1393ffcc93f66f",
+      "viewing": "o01/o02/o03/f02/f04/r02/h03/h08/t01/d01/p02/p04 viewed as four bounded3-row contact images; f06/t03/r04 standard5-frame strips opened individually"
+    },
+    {
+      "shot": "f06",
+      "layout": "c-chart",
+      "frames": [
+        3060,
+        3128,
+        3196,
+        3264,
+        3332
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/f06-1.jpg",
+          "sha256": "f5efe5b14f97d221b73d47d8965f4f3ba02b0a0cccb4b9e2b67224c42855d554"
+        },
+        {
+          "file": "temporal/f06-2.jpg",
+          "sha256": "32ca51ed9073ce73601f04f01a0f88da79a48ada971c6f3f3fae4232f63c1435"
+        },
+        {
+          "file": "temporal/f06-3.jpg",
+          "sha256": "46178ade39520e422d97f1d0461575d210f5c872cf170429726dee902d98b9fa"
+        },
+        {
+          "file": "temporal/f06-4.jpg",
+          "sha256": "9d65674c894495bb187c75d1149bc59071cd638a1d88f758e697b71ba804e9e8"
+        },
+        {
+          "file": "temporal/f06-5.jpg",
+          "sha256": "9a2f36e33a2dd86c2da3b49af3db49eeb0e7e22aff602535862db0093ad02fcb"
+        }
+      ],
+      "fiveSampleStrip": "temporal/f06-strip.jpg",
+      "stripSHA256": "647823c626d708dffe666d8c082bf2453a75c9f8441b74230aeed8ef3d8f0459",
+      "viewing": "Standard5-frame strip opened individually"
+    },
+    {
+      "shot": "t03",
+      "layout": "c-chart",
+      "frames": [
+        10148,
+        10221,
+        10294,
+        10366,
+        10439
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/t03-1.jpg",
+          "sha256": "982741660d70acfb531736f9783bbcccd4a9f2b22dc9ab86eb8b23e6f716ba27"
+        },
+        {
+          "file": "temporal/t03-2.jpg",
+          "sha256": "d2d4b00e1c644a77697d0e3b6ec629b87d306473d64906801d077eabacdc07be"
+        },
+        {
+          "file": "temporal/t03-3.jpg",
+          "sha256": "0eef9c7d686415a1104415a8a59aa5695ddeb3a28d74c5a0b8752c107adb6d3d"
+        },
+        {
+          "file": "temporal/t03-4.jpg",
+          "sha256": "c4d6984206e83b8e9476d02523296467f18338a89395ac6a4b28203cd0b2c141"
+        },
+        {
+          "file": "temporal/t03-5.jpg",
+          "sha256": "356fd0a2cd2d738d542539f920f54bd9e95e0a974a6448f6a97fc870322a597a"
+        }
+      ],
+      "fiveSampleStrip": "temporal/t03-strip.jpg",
+      "stripSHA256": "3aa72ad20db274e3e258877a5d10fe31b8acd7390fc55ffe5d694ff8d09dad36",
+      "viewing": "Standard5-frame strip opened individually"
+    },
+    {
+      "shot": "r04",
+      "layout": "c-chart",
+      "frames": [
+        5165,
+        5247,
+        5328,
+        5409,
+        5491
+      ],
+      "sourceSamples": [
+        {
+          "file": "temporal/r04-1.jpg",
+          "sha256": "f4e66abdfea8a6cbef3b98baeaf536be2ff53f70bb07597cd43d1315b585d0f2"
+        },
+        {
+          "file": "temporal/r04-2.jpg",
+          "sha256": "3771d7aad590ff99f0e8a86f8bcd547a2113ccd3d3845e757a649632947f458f"
+        },
+        {
+          "file": "temporal/r04-3.jpg",
+          "sha256": "e390248969556bf46825bc1d6e586bab699b486781e318ca0ed830cea5bd550e"
+        },
+        {
+          "file": "temporal/r04-4.jpg",
+          "sha256": "a9635a1e4e3f6e5f92334bb6f21825b22ff056547f0fb8bff4c06b29d31a8cf6"
+        },
+        {
+          "file": "temporal/r04-5.jpg",
+          "sha256": "5dedcc33a1b461f5ee51f20863c0d469e1689a86af4cbbc8e5ced173846b51c4"
+        }
+      ],
+      "fiveSampleStrip": "temporal/r04-strip.jpg",
+      "stripSHA256": "28d2d67702e20baa93c7264826a6f99ec5388b0c2e2cea3dc4848697137cc6db",
+      "viewing": "Standard5-frame strip opened individually"
+    }
+  ],
+  "additionalNativeImages": [
+    {
+      "file": "midframes/33-t06.jpg",
+      "sha256": "70749b6f841788bf7b79ce810d52b674340c9b4e726f08a3cff8acc14c2bbe30",
+      "observation": "Shanghai/Shenzhen/SoutheastAsia labels form separate readable lines; no clipping at native size. The nearby labels are compact but not colliding in this frame."
+    },
+    {
+      "file": "last-frame.jpg",
+      "sha256": "646c7f1e667a0dc342129990abf7c9d71fd3110a868a2aff40654322ba18bb37",
+      "observation": "Closing headline, attribution and complete final caption “kinh tế qua số liệu và cơ chế phía sau.” remain visible and inside the frame."
+    }
+  ],
+  "observations": [
+    {
+      "rangeSeconds": [
+        0,
+        54
+      ],
+      "subjects": "Opening city map, production/income/demand, overview cards, disclaimer",
+      "observed": "Map nodes and links reveal between samples and hold readable positions. Flow nodes reveal before settling. Disclaimer remains a separate clear section. Overview card count/title mismatch at o03 is recorded below."
+    },
+    {
+      "rangeSeconds": [
+        57,
+        132
+      ],
+      "subjects": "Factory, capacity, growth charts and industrial context",
+      "observed": "Part positions change along the conveyor in f02/f04; checked outputs change positions. f04 includes faded packages/empty capacity slots unlike simple assembly. Diverging construction bar grows below zero without crossing its axis labels. Industrial context switches from car assembly to a worker table, with readable type."
+    },
+    {
+      "rangeSeconds": [
+        135,
+        222
+      ],
+      "subjects": "Property transmission and investment",
+      "observed": "Transmission nodes and paths reveal in stages; project icon is deliberately darker and no numeric1placeholders appear. Property-investment chart keeps−20.6belowzero and the headline sign visible. Household45/30/25allocation fills before holding, with hypothetical notes."
+    },
+    {
+      "rangeSeconds": [
+        225,
+        312
+      ],
+      "subjects": "Household choices, nominal versus real, scope and bottleneck",
+      "observed": "Household50/30/20and50/25/25rings show different allocations; labels remain readable and notes distinguish the hypothetical from economic data. Nominal3.6/real2.7bars remain separate. Real retail context transitions to abstract scope diagrams. h08has a visibly marked order gate and fewer downstream packages."
+    },
+    {
+      "rangeSeconds": [
+        315,
+        390
+      ],
+      "subjects": "World connections, trade subtraction and supply-chain scenario",
+      "observed": "Connection arcs and traveling marker positions differ between samples; maps keep labels readable. Waterfall10−7=3reveals the negative component and finalpositivebalance without a sign reversal. t06compact China/coastal labels are readable in the additional native frame. Arcs are visibly labeled schematic rather than actual shipping routes."
+    },
+    {
+      "rangeSeconds": [
+        393,
+        459
+      ],
+      "subjects": "Age cohorts, threshold comparison and productivity",
+      "observed": "77/23cohort bars fill and hold, with60+not65+explicit. Demographic mechanism arrows and skills/tools/process factory illustration remain legible. Context stills change to industrial plant/textile material without added project branding seen."
+    },
+    {
+      "rangeSeconds": [
+        462,
+        543
+      ],
+      "subjects": "GDP periods and policy channels",
+      "observed": "GDP4.6bar and Q1/Q2/Q3line5/4.3/4.5have clear values and year-on-year period labels. Policy flow nodes reveal in stages. p04utilization slots are distinct from h08gate; p05hypothetical55/25/20ring differs in values. Comparison columns remain within safe areas."
+    },
+    {
+      "rangeSeconds": [
+        546,
+        597.067
+      ],
+      "subjects": "Callback, reading checklist and closing",
+      "observed": "Callback reuses conceptual flow/household motifs with a dark theme and changed information; this is repeated original graphic language, not repeated source-video footage. Closing changes between two skyline contexts. Last-frame caption preserves the complete final sentence."
+    }
+  ],
+  "blockingIssues": [
+    {
+      "shot": "o03",
+      "issue": "Original heading says “Bốn câu hỏi để đọc Trung Quốc” while the actual frame has three themed cards.",
+      "evidenceFrames": [
+        643,
+        718,
+        793,
+        868,
+        943
+      ],
+      "action": "Root/motion_pipeline reported an isolatedr02visual-title correction to “Ba góc nhìn để đọc Trung Quốc”; do not declare this original frame corrected until the separate corrected output has been inspected.",
+      "status": "Known targeted repair in progress, outside this initial-output evidence scope"
+    }
+  ],
+  "nonBlockingObservations": [
+    {
+      "shot": "h03 and other household rings",
+      "issue": "Small ring explanatory text sits very close to the lower ring edge; core allocation labels, hypothetical note and captions remain readable in inspected samples."
+    },
+    {
+      "shot": "r04",
+      "issue": "Tan numeric annotation on warm red is subdued, while cream headline displays the same full negative value clearly."
+    },
+    {
+      "scope": "Original visual motifs",
+      "issue": "Flow/conveyor/household designs recur across the narrative with different values/labels and some distinct factory behavior. Sampled visual variety is evident, but this review does not establish retention or user satisfaction."
+    }
+  ],
+  "limits": [
+    "200three-second samples across597.1s plus15sets of5temporal samples do not cover every intervening frame.",
+    "Sample strips show changed positions/reveals and apparent holds, but cannot establish continuous smoothness or exact audio-to-motion synchronization.",
+    "No audio playback/listening was performed by this independent review.",
+    "Economic facts and source accuracy were not independently re-researched during this image review.",
+    "No new aesthetic acceptance, whole-video approval or verified learning lesson is assigned."
+  ],
+  "userAcceptance": "pending",
+  "sourceOrVideoMutations": false
+}

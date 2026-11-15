@@ -1,0 +1,32 @@
+{
+  "id": "home-keys-door",
+  "pexelsID": 31989061,
+  "sourceURL": "https://www.pexels.com/photo/hand-holding-keys-at-doorway-in-new-home-31989061/",
+  "creator": "Jakub Zerdzicki",
+  "theme": "home",
+  "documentedLocation": null,
+  "locationEvidence": "No country field found; do not label Vietnam",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "Close view of a hand holding keys near a doorway.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/home-keys-door.jpg",
+  "downloadURL": "https://images.pexels.com/photos/31989061/pexels-photo-31989061.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1601,
+  "sha256": "7efdaebb114d7c0ae48b9e3d970379103acaa8c4deae056805c84bd38e2030c5",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

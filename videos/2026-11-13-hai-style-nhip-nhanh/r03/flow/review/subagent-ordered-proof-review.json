@@ -1,0 +1,109 @@
+{
+  "scope": "Ordered rendered-frame sequence inspection only, not continuous audiovisual watching or user acceptance. Source left unchanged after frozen r03.",
+  "method": "ordered_temporal_frame_review",
+  "samplesPerSecondApprox": "2.5 to3.75",
+  "clips": [
+    {
+      "beat": "b01",
+      "from": 0,
+      "duration": 351,
+      "decodedFrames": 351,
+      "file": "r03\\flow\\proof\\b01.mp4",
+      "sha256": "f7a27e33a6d15343d8730e8d6c41fec104fe4cd507445041b973e65783615d2e",
+      "wallSeconds": 16.843,
+      "observed": "Cash no longer covers maintitle. Shot sequence evolves wallet/extraexpense/allocation/jobs without replayed paper pair."
+    },
+    {
+      "beat": "b15",
+      "from": 4734,
+      "duration": 402,
+      "decodedFrames": 402,
+      "file": "r03\\flow\\proof\\b15.mp4",
+      "sha256": "7870c620145695d9399d906d643a3e3c05dc5d124fec995c35a453f0d581ddb5",
+      "wallSeconds": 18.335,
+      "observed": "20kday counter reaches600k, conditional11.4m/2.6m calculation changes to caveat withnewexpense thenexplicitnonmandatory stamp."
+    },
+    {
+      "beat": "b26",
+      "from": 8564,
+      "duration": 377,
+      "decodedFrames": 377,
+      "file": "r03\\flow\\proof\\b26.mp4",
+      "sha256": "ca666368192a8a72fb26c36b42897daa02f35d2824aa9f22534f8bfdcc590f22",
+      "wallSeconds": 16.439,
+      "observed": "Four stages differ: midmonthwallet gap,duebeforeincome,calendarplacement,deadlinepreserved; oldfour-calendarreset removed."
+    },
+    {
+      "beat": "b42",
+      "from": 14309,
+      "duration": 414,
+      "decodedFrames": 414,
+      "file": "r03\\flow\\proof\\b42.mp4",
+      "sha256": "225ac3a0b2a997eb06af92c6ff2dc93a9c12c80b2c2826c9cd4a01d35d4c36f7",
+      "wallSeconds": 18.36,
+      "observed": "Five stages differ:actualpayment,discountnotcash,itemputdown,comparisoncheck,saveandwait; no repeatedfiveputdowns."
+    },
+    {
+      "beat": "subscribe",
+      "from": 17743,
+      "duration": 327,
+      "decodedFrames": 327,
+      "file": "r03\\flow\\proof\\subscribe.mp4",
+      "sha256": "2e2058fb70aff978a4e47d8643f07c5a21e9db17cdee8d809fe2fce43351bd5c",
+      "wallSeconds": 15.417,
+      "observed": "Subscribebuttonlargerandchangesstate; bellaction; writecommentthenfinalsendconfirmation."
+    }
+  ],
+  "orderedSheets": [
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b01-1.jpg",
+      "sha256": "5355ac06a991b19387d80e57ec846aa9c10725a2dd47588ae36d881574148319"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b01-2.jpg",
+      "sha256": "01dce4079c222e5692bb7dc8c03a430b51342451bcf84e4b78ba94d208e768f3"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b15-1.jpg",
+      "sha256": "9a13d0914178d95b10db6ffcdbe8e9fe2ab8b408fe700d8cb8de3379878494dc"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b15-2.jpg",
+      "sha256": "130831ee807a17173ceaee3e493475db894db9735e0dbf386b560d4d51579835"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b15-3.jpg",
+      "sha256": "22802cdb95e3b4e2136bb74466a5964ea9f01bd60ec5708d3d3053ebca58c258"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b26-1.jpg",
+      "sha256": "a095dfbc90f4ad5fbdeaac3daa345e68cbffe1dca41e157f1f0165608ce0d688"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b26-2.jpg",
+      "sha256": "ccd5d3ee2b66e684d11f9a2da61e6d7b88882fa7cb95a73a8c73b1041a6f8b11"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b42-1.jpg",
+      "sha256": "8133eb2fa03a6d491b5b42e21bb051a553e61b836196d1506aa189a3f89eaec0"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\b42-2.jpg",
+      "sha256": "a5433e445232f2e3c0d4781fd98e6c1c801b421a21ff681484b98f31571e3bc5"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\subscribe-1.jpg",
+      "sha256": "0468f0a80c8fd30fa5e87d232b1d6e544c8661a4912683523015c57f4a0d6c6c"
+    },
+    {
+      "file": "r03\\flow\\proof\\ordered-review\\subscribe-2.jpg",
+      "sha256": "ab831d8a917531dda2a4006d57d127e9c04d47102248c2728c9a7fc8bc65382c"
+    }
+  ],
+  "remainingMinorObservations": [
+    "Some redundant lower labels sitclose to phone orcalendar edges. Main financial values, questionbuttons and external subtitles remainclear in representative orderedframes.",
+    "Minimal vector artwork remains simpler thancomic; no claim of aesthetic acceptance or photoreal animation."
+  ],
+  "userApproval": "pending",
+  "continuousAVReview": false
+}

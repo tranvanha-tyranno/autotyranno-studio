@@ -1,0 +1,15 @@
+{
+  "title": "Preserve meaningful graphic content inside the final panel",
+  "category": "visual_relevance",
+  "rule": "A meaningful text or data graphic must fit the rendered panel with its necessary labels visible, and decorative headlines must not cover its content.",
+  "action": "Use contain or a purpose-made panel derivative for data/list graphics; remove competing overlay text and inspect the actual rendered frame beside its narration clause.",
+  "rationale": "Two r03 frames used correct original sources but lost comparison labels through cover crop or checklist text through headline overlap.",
+  "applies_to": [
+    "text and data graphics inside photo/gallery explainers",
+    "split-panel crop and typography review"
+  ],
+  "source_feedback_ids": [
+    "evt-000006-f8129580db62",
+    "evt-000007-8944a8f9b1dc"
+  ]
+}

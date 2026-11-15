@@ -1,0 +1,72 @@
+{
+  "attempt": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r04\\repair-attempts\\20261112T205953.790405Z-repair-759b9b",
+  "plan": {
+    "schema": "reference-video-repair-plan/1",
+    "previous": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\long",
+    "current": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r04\\long",
+    "fps": 30,
+    "frames": 6150,
+    "changedShots": [
+      "a1",
+      "c12"
+    ],
+    "intervals": [
+      {
+        "start": 3742,
+        "endExclusive": 4061,
+        "remotionFrames": "3742-4060",
+        "frames": 319
+      },
+      {
+        "start": 5293,
+        "endExclusive": 5574,
+        "remotionFrames": "5293-5573",
+        "frames": 281
+      }
+    ],
+    "segments": [
+      {
+        "kind": "previous",
+        "start": 0,
+        "end": 3742,
+        "frames": 3742
+      },
+      {
+        "kind": "patch",
+        "patch": 0,
+        "start": 3742,
+        "end": 4061,
+        "frames": 319
+      },
+      {
+        "kind": "previous",
+        "start": 4061,
+        "end": 5293,
+        "frames": 1232
+      },
+      {
+        "kind": "patch",
+        "patch": 1,
+        "start": 5293,
+        "end": 5574,
+        "frames": 281
+      },
+      {
+        "kind": "previous",
+        "start": 5574,
+        "end": 6150,
+        "frames": 576
+      }
+    ],
+    "oldFinalSHA256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee",
+    "exactMixSHA256": "535115a6a2adc17b56a0eccb68af43af9f775cac98e10b0979e649ac6e2d2bb6",
+    "captionsUnchanged": true,
+    "timingUnchanged": true,
+    "userAcceptance": "pending",
+    "limitation": "Splice normalizes and re-encodes the entire video once; unchanged H264 pixels are not asserted byte-identical."
+  },
+  "finalSHA256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128",
+  "technicalQA": "passed",
+  "visualAcceptance": "pending",
+  "audioListening": "not established by this script"
+}

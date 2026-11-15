@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cn-clip-shenzhen-night",
+    "providerVideoId": 35987653,
+    "creator": "LayG Traveller",
+    "page": "https://www.pexels.com/video/spectacular-shenzhen-skyline-at-night-35987653/",
+    "highestURLObserved": "https://videos.pexels.com/video-files/35987653/15259550_3840_2160_60fps.mp4",
+    "file": "videos\\2026-11-13-kinh-te-trung-quoc\\sources\\videos\\cn-clip-shenzhen-night.mp4",
+    "bytes": 1611281,
+    "download": "https://videos.pexels.com/video-files/35987653/15259550_3840_2160_60fps.mp4",
+    "transformation": "Streamed official source through FFmpeg: first9seconds only, native-time playback, source audio removed, scaled/padded1280x720, normalized30fps, H264CRF24. Raw4K rendition not retained on disk; originalURL+bounded derivative/hash retained.",
+    "rawSourceRetained": false,
+    "sha256": "134e19cb5fd361a245a9b190889c866b2905187a89976a1a038fbc2d0d5dc119",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "frames": 270,
+    "duration": 9.0,
+    "sampledTimes": [
+      0.433,
+      2.233,
+      4.5,
+      6.733,
+      8.533
+    ]
+  },
+  {
+    "id": "cn-clip-shenzhen-train",
+    "providerVideoId": 35715444,
+    "creator": "LayG Traveller",
+    "page": "https://www.pexels.com/video/shenzhen-high-speed-train-interior-journey-35715444/",
+    "highestURLObserved": "https://videos.pexels.com/video-files/35715444/15136790_3840_2160_50fps.mp4",
+    "file": "videos\\2026-11-13-kinh-te-trung-quoc\\sources\\videos\\cn-clip-shenzhen-train.mp4",
+    "bytes": 742193,
+    "download": "https://videos.pexels.com/video-files/35715444/15136790_3840_2160_50fps.mp4",
+    "transformation": "Streamed official source through FFmpeg: first9seconds only, native-time playback, source audio removed, scaled/padded1280x720, normalized30fps, H264CRF24. Raw4K rendition not retained on disk; originalURL+bounded derivative/hash retained.",
+    "rawSourceRetained": false,
+    "sha256": "6e6c163ee4888f103a2264e2d4a7fab0b49d90ad5089d1075d1104b17b00a139",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "frames": 270,
+    "duration": 9.0,
+    "sampledTimes": [
+      0.433,
+      2.233,
+      4.5,
+      6.733,
+      8.533
+    ]
+  },
+  {
+    "id": "cn-clip-guangzhou-retail",
+    "providerVideoId": 36692153,
+    "creator": "LayG Traveller",
+    "page": "https://www.pexels.com/video/busy-guangzhou-shopping-center-lifestyle-scene-36692153/",
+    "highestURLObserved": "https://videos.pexels.com/video-files/36692153/15555023_3840_2160_50fps.mp4",
+    "file": "videos\\2026-11-13-kinh-te-trung-quoc\\sources\\videos\\cn-clip-guangzhou-retail.mp4",
+    "bytes": 3205887,
+    "download": "https://videos.pexels.com/video-files/36692153/15555023_3840_2160_50fps.mp4",
+    "transformation": "Streamed official source through FFmpeg: first9seconds only, native-time playback, source audio removed, scaled/padded1280x720, normalized30fps, H264CRF24. Raw4K rendition not retained on disk; originalURL+bounded derivative/hash retained.",
+    "rawSourceRetained": false,
+    "sha256": "d60261eaee96ff4c50a33c50e0e6d9a83a37d20bb5d47f67cc56bde413b17a89",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "frames": 270,
+    "duration": 9.0,
+    "sampledTimes": [
+      0.433,
+      2.233,
+      4.5,
+      6.733,
+      8.533
+    ]
+  },
+  {
+    "id": "cn-clip-china-market",
+    "providerVideoId": 36451723,
+    "creator": "Cfq938888 Chen",
+    "page": "https://www.pexels.com/video/busy-street-scene-in-chinese-market-36451723/",
+    "highestURLObserved": "https://videos.pexels.com/video-files/36451723/15457367_1920_1080_30fps.mp4",
+    "file": "videos\\2026-11-13-kinh-te-trung-quoc\\sources\\videos\\cn-clip-china-market.mp4",
+    "bytes": 4249064,
+    "download": "https://videos.pexels.com/video-files/36451723/15457367_1920_1080_30fps.mp4",
+    "transformation": "Streamed official source through FFmpeg: first9seconds only, native-time playback, source audio removed, scaled/padded1280x720, normalized30fps, H264CRF24. Raw4K rendition not retained on disk; originalURL+bounded derivative/hash retained.",
+    "rawSourceRetained": false,
+    "sha256": "e05622ca4c0de71c172e53191d7aea0d64c0951ecaa6cc6e19d7645acaca99e9",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "frames": 270,
+    "duration": 9.0,
+    "sampledTimes": [
+      0.433,
+      2.233,
+      4.5,
+      6.733,
+      8.533
+    ]
+  }
+]

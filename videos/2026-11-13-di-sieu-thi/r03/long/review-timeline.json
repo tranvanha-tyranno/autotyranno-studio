@@ -1,0 +1,249 @@
+[
+  {
+    "id": "h1a",
+    "start": 0.0,
+    "end": 2.53,
+    "layout": "full",
+    "assets": [
+      "cart-full.jpg"
+    ],
+    "clause": "Một món cần mua, cả giỏ mang về."
+  },
+  {
+    "id": "h1b",
+    "start": 2.53,
+    "end": 5.63,
+    "layout": "full",
+    "assets": [
+      "sale-shelf.jpg"
+    ],
+    "clause": "Chuyện có thể bắt đầu từ một bảng giá rất hấp dẫn."
+  },
+  {
+    "id": "h2",
+    "start": 5.63,
+    "end": 11.77,
+    "layout": "diptych",
+    "assets": [
+      "sale-shelf.jpg",
+      "checkout-wide.jpg"
+    ],
+    "clause": "Bạn thấy mua thêm thì mỗi hộp rẻ hơn. Nhưng đến quầy, tổng tiền vẫn lớn hơn số tiền định chi."
+  },
+  {
+    "id": "h3",
+    "start": 11.77,
+    "end": 18.53,
+    "layout": "full",
+    "assets": [
+      "clip-aisle.mp4"
+    ],
+    "clause": "Vậy điều gì đã xảy ra từ lúc bước vào cửa hàng đến lúc thanh toán? Có ba điểm đáng nhìn lại."
+  },
+  {
+    "id": "d1",
+    "start": 18.53,
+    "end": 27.17,
+    "layout": "full",
+    "assets": [
+      "basket-full.jpg"
+    ],
+    "clause": "Đây là phân tích hành vi mua sắm và ví dụ minh họa. Không phải ai mua thêm cũng lãng phí, hay cửa hàng nào cũng bố trí giống nhau."
+  },
+  {
+    "id": "c1",
+    "start": 27.17,
+    "end": 35.73,
+    "layout": "full",
+    "assets": [
+      "fridge-kitchen.jpg"
+    ],
+    "clause": "Điểm đầu tiên xuất hiện trước khi bạn tới siêu thị: mình thực sự cần gì? Mở tủ lạnh và nhìn lại đồ đang có là một bước rất cụ thể."
+  },
+  {
+    "id": "c2",
+    "start": 35.73,
+    "end": 44.43,
+    "layout": "graphic",
+    "assets": [
+      "shopping-list.jpg"
+    ],
+    "clause": "Nếu kế hoạch chỉ là mua ít đồ ăn, gần như món nào cũng có thể hợp lý. Một danh sách có món và số lượng cho bạn thứ để đối chiếu."
+  },
+  {
+    "id": "c3",
+    "start": 44.43,
+    "end": 53.17,
+    "layout": "full",
+    "assets": [
+      "phone-list.jpg"
+    ],
+    "clause": "Điện thoại có thể giữ danh sách đó. Nhưng điều quan trọng là nội dung đã chốt từ trước, chứ không phải cứ cầm điện thoại là sẽ mua đúng kế hoạch."
+  },
+  {
+    "id": "c4",
+    "start": 53.17,
+    "end": 62.73,
+    "layout": "diptych",
+    "assets": [
+      "milk-shelf.jpg",
+      "sale-shelf.jpg"
+    ],
+    "clause": "Điểm thứ hai nằm ngay trước mắt: những thứ được nhìn thấy trong cửa hàng. Một kệ hàng có nhiều lựa chọn; một bảng màu nổi khiến một ưu đãi dễ được chú ý."
+  },
+  {
+    "id": "c5",
+    "start": 62.73,
+    "end": 71.43,
+    "layout": "full",
+    "assets": [
+      "clip-choose.mp4"
+    ],
+    "clause": "Thấy một món rồi nhớ ra nhà đang thiếu, đó có thể là lời nhắc hữu ích. Cũng có lúc bạn chỉ vừa nảy ra mong muốn khi đứng trước kệ."
+  },
+  {
+    "id": "c6",
+    "start": 71.43,
+    "end": 81.2,
+    "layout": "diptych",
+    "assets": [
+      "fridge-check.jpg",
+      "cart-full.jpg"
+    ],
+    "clause": "Hai trường hợp ấy đều là mua ngoài dự tính, nhưng ý nghĩa khác nhau. Một bên bổ sung nhu cầu có thật; một bên cần thêm một câu hỏi trước khi bỏ vào giỏ."
+  },
+  {
+    "id": "c7",
+    "start": 81.2,
+    "end": 89.2,
+    "layout": "full",
+    "assets": [
+      "cart-browse.jpg"
+    ],
+    "clause": "Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm."
+  },
+  {
+    "id": "c8",
+    "start": 89.2,
+    "end": 99.03,
+    "layout": "full",
+    "assets": [
+      "plum-price.jpg"
+    ],
+    "clause": "Điều đó không có nghĩa một bảng khuyến mại tự động điều khiển mọi người. Nó chỉ cho ta lý do để quan sát hoàn cảnh của quyết định, thay vì vội trách mình thiếu ý chí."
+  },
+  {
+    "id": "c9",
+    "start": 99.03,
+    "end": 109.07,
+    "layout": "full",
+    "assets": [
+      "sale-shelf.jpg"
+    ],
+    "clause": "Điểm thứ ba là cách so giá. Nhìn một mức giảm, ta rất dễ chỉ hỏi mỗi món rẻ hơn bao nhiêu, rồi quên hỏi mình đang trả tổng cộng bao nhiêu."
+  },
+  {
+    "id": "c10",
+    "start": 109.07,
+    "end": 116.47,
+    "layout": "graphic",
+    "assets": [
+      "price-example.jpg"
+    ],
+    "clause": "Lấy một ví dụ giả định: một hộp ba mươi nghìn, hai hộp năm mươi nghìn. Mua hai thì mỗi hộp còn hai mươi lăm nghìn."
+  },
+  {
+    "id": "c11",
+    "start": 116.47,
+    "end": 124.73,
+    "layout": "graphic",
+    "assets": [
+      "total-change.jpg"
+    ],
+    "clause": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy."
+  },
+  {
+    "id": "c12",
+    "start": 124.73,
+    "end": 135.13,
+    "layout": "diptych",
+    "assets": [
+      "price-example.jpg",
+      "vegetables-home.jpg"
+    ],
+    "clause": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá."
+  },
+  {
+    "id": "c13",
+    "start": 135.13,
+    "end": 145.37,
+    "layout": "full",
+    "assets": [
+      "basket-full.jpg"
+    ],
+    "clause": "Đó cũng là lý do một giỏ đầy chưa nói lên người mua có lãng phí hay không. Cần biết họ định mua gì, đồ sẽ dùng thế nào và món nào thực sự phát sinh."
+  },
+  {
+    "id": "c14",
+    "start": 145.37,
+    "end": 155.83,
+    "layout": "gallery3d",
+    "assets": [
+      "fridge-kitchen.jpg",
+      "sale-shelf.jpg",
+      "total-change.jpg"
+    ],
+    "clause": "Thử nhìn lại hành trình: đồ đang có ở nhà, lựa chọn gặp trên kệ, rồi tổng tiền khi thanh toán. Ba điểm này nối với nhau, chứ không chỉ có phút cuối ở quầy."
+  },
+  {
+    "id": "c15",
+    "start": 155.83,
+    "end": 165.67,
+    "layout": "full",
+    "assets": [
+      "clip-checkout.mp4"
+    ],
+    "clause": "Trước khi trả tiền, dừng một nhịp và nhìn các món vừa thêm. Nếu hôm nay không có ưu đãi này, mình có còn cần nó không? Mình sẽ dùng hết bằng cách nào?"
+  },
+  {
+    "id": "c16",
+    "start": 165.67,
+    "end": 176.43,
+    "layout": "full",
+    "assets": [
+      "checkout-couple.jpg"
+    ],
+    "clause": "Bạn không cần biến mỗi chuyến mua đồ thành một cuộc thi kiềm chế. Mục tiêu là nhận ra lúc nào mình đang giải quyết nhu cầu, và lúc nào chỉ đang phản ứng với một lời mời."
+  },
+  {
+    "id": "a1",
+    "start": 176.43,
+    "end": 185.57,
+    "layout": "diptych",
+    "assets": [
+      "shopping-list.jpg",
+      "groceries-home.jpg"
+    ],
+    "clause": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện."
+  },
+  {
+    "id": "a2",
+    "start": 185.57,
+    "end": 195.97,
+    "layout": "full",
+    "assets": [
+      "groceries-home.jpg"
+    ],
+    "clause": "Có thể bạn nhớ ra thứ đang thiếu. Cũng có thể một ưu đãi đã đổi kế hoạch. Biết được lý do ấy mới là phần hữu ích, không phải chỉ nhìn số tiền rồi tự trách."
+  },
+  {
+    "id": "a3",
+    "start": 195.97,
+    "end": 205.0,
+    "layout": "closing",
+    "assets": [
+      "basket-full.jpg"
+    ],
+    "clause": "Món nào bạn hay mua thêm nhất? Kể ở bình luận, và đăng ký nếu muốn cùng nhìn kỹ hơn những quyết định nhỏ trong đời sống."
+  }
+]

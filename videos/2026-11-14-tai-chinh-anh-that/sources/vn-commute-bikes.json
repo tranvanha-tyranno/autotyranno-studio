@@ -1,0 +1,32 @@
+{
+  "id": "vn-commute-bikes",
+  "pexelsID": 33470126,
+  "sourceURL": "https://www.pexels.com/photo/motorbike-traffic-in-ho-chi-minh-city-street-33470126/",
+  "creator": "Kushie In Vietnam",
+  "theme": "commuting",
+  "documentedLocation": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "Two riders travel on motorbikes in a city street.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-commute-bikes.jpg",
+  "downloadURL": "https://images.pexels.com/photos/33470126/pexels-photo-33470126.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "efc2944b9f41e917bc71dabd80cd461a6bfa1ff4565e4bbc7a0c87f70cc7ee42",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

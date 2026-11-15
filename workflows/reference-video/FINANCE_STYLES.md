@@ -1,5 +1,15 @@
 # Hai lựa chọn video đơn giản — 13/11/2026
 
+> **ƯU TIÊN MỚI NHẤT 14/11:** ảnh thật phải là minh họa chính; chỉ dùng mô phỏng khi cần giải thích. Đọc [FINANCE_PHOTO_DIRECTION.md](FINANCE_PHOTO_DIRECTION.md). Cả hai bản dài được sửa theo yêu cầu này, giữ exact voice/mix và outro đăng ký. Bản nhịp nhanh chỉ có SVG không được coi là đã giải quyết phản hồi.
+
+> **YÊU CẦU SỬA MỚI: nhịp nhanh và CTA đăng ký.** Người dùng đã yêu cầu chuyển động/chuyển cảnh nhanh hơn và thêm đăng ký kênh ở cuối. Nhánh sửa mới ở [FINANCE_PACING.md](FINANCE_PACING.md), `finance-pace-comic/`, `finance-pace-flow/`, batch `videos/2026-11-13-hai-style-nhip-nhanh/`. Phần chính giữ exact mix cũ; chỉ outro cùng giọng được thêm. 186 cảnh khoảng3,24giây/cảnh và chuyển tiếp6frame là nhịp dựng đo được, chưa phải người dùng duyệt thẩm mỹ. Các bản dài cũ bên dưới vẫn bị bác và được giữ nguyên.
+
+> **BÁC BỎ MỚI NHẤT — CẢ HAI BẢN DÀI r03:** Người dùng nói: “sao lại làm thành video kiểu slide nữa vậy?, tôi đâu có cần kiểu video slide đầu ghi vô rule sao cứ làm theo kiểu slide mãi thế”. Hai video trong `videos/2026-11-13-hai-style-10-phut/r03/` đã bị bác vì vẫn giống slide. Không dùng `finance-long-comic/` hoặc `finance-long-flow/` nguyên trạng làm mẫu sản xuất. Chọn comic/tối giản trước đây không phải đồng ý với cách dựng này.
+
+**Quy tắc bắt buộc cho cả hai hướng:** tối giản là giảm độ phức tạp hình vẽ và chi phí; cảnh vẫn phải có diễn biến. Khung chữ/hình cố định, vật thể bay vào, đếm số, nhân vật nhấp nháy/đung đưa, zoom nhẹ rồi giữ hình theo lời đều chưa sửa được lỗi slide. Cần hành động có mục đích, thay đổi trạng thái và tương tác phát triển theo nội dung. Không tự ép mọi cảnh phải chạy camera; chuyển động chủ thể và diễn biến mới là điều cần kiểm.
+
+Trước một bản dài tiếp theo, kiểm **cảnh chuyển động trọn vẹn** đại diện đầu/giữa/cuối để xem hành động có tiếp diễn, có giải thích lời và có lặp bố cục hay không. Contact sheet, số lượng cảnh, phép tính đúng, ASR và decode đầy đủ chỉ hỗ trợ các kiểm tra riêng. Không dùng chúng để kết luận đã hết slide. Đây là việc kiểm nội bộ, không tạo thêm vòng xin phép. Chưa có bản sửa chuyển động nào được xác minh sau phản hồi mới này.
+
 > **Phản hồi mới nhất:** người dùng chê bản tối giản r02 giống slide và thấy nhân vật r03 chưa ưa mắt. Hai bản cần sửa, không phải baseline được duyệt. Người dùng đã chọn **“Comic biểu cảm mạnh, hơi hài hước”**. Dùng `cinematic/src/finance-flow/` cho chuyển động vật thể có nguyên nhân/kết quả và `finance-cast-v2/`, `finance-comic/` cho hai nhân vật comic mới. Giữ thư viện cũ; kiểm vài nhân vật trước khi nhân rộng30. Batch `videos/2026-11-13-hai-style-tiet-kiem-v2/` là proof18s của hai cảnh daily+dinner, dùng exact take/mix cũ; không phải phim đầy đủ hoặc phê duyệt tạo hình. Runner `finance_style_reset.py` snapshot trước bundle, preflight hình rồi render và QA. “Ít chi phí” vẫn phải có hành động diễn tiến theo lời, chuyển cảnh liên tục và bố cục phục vụ hành động; chỉ cho chữ xuất hiện rồi đứng yên không giải quyết góp ý.
 
 Người dùng yêu cầu thêm **hai phong cách tùy chọn**, làm thử để xem trước: (1) nhân vật hoạt hình thiết kế riêng tương tác, tạo cảm xúc, nội dung tài chính, có thư viện khoảng 30 nhân vật dùng lại; (2) video tối giản, ưu tiên nội dung và chi phí. Đây là nhánh mới, không thay mặc định các explainer trước khi người dùng chọn.
@@ -54,3 +64,7 @@ python -X utf8 -B workflows/reference-video/finance_demo_render.py qa --revision
 ```
 
 Không thay script/plan sau khi đã xuất rồi dùng lại silent.mp4 cũ. Thay nội dung hoặc sửa hình phải tạo revision mới và bundle lại; runner mới lưu dependency hash và chặn dùng bundle cũ khi source/plan/mix đổi. Bản nhân vật r01 có mũi tên đè số thu nhập trong hai cảnh ngân sách; r03 sửa vị trí và chỉ render lại khoảng frame 351–889, giữ take/mix. Bản tối giản r02 thêm lưu ý chi phí thiết yếu và cho đồng tiền tới đúng đích. Các bản cũ giữ nguyên. Hai bản giao xem thử là nhân vật r03 và tối giản r02, chưa có phản hồi duyệt của người dùng.
+
+## Hai bản dài theo yêu cầu mới
+
+Quy trình và hồ sơ hai phim khoảng 10 phút nằm trong [FINANCE_LONGFORM.md](FINANCE_LONGFORM.md). Batch `videos/2026-11-13-hai-style-10-phut/` có timeline đo 17.743 frame / 30fps, khoảng 9 phút 51 giây; cả hai bản r03 **đã bị người dùng bác bỏ vì giống slide**. Giữ file và take Nhật Phong để tra cứu, không dùng kết quả kiểm kỹ thuật làm căn cứ tiếp tục phong cách bị bác.

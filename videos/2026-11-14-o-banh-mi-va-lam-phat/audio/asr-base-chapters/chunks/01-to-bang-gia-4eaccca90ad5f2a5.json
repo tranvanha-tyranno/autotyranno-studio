@@ -1,0 +1,14 @@
+{
+  "chunkKey": "4eaccca90ad5f2a5d5db55ad0168abe47b0ec9cdb82ec36c3aae980a759d1425",
+  "sha256": "75ebeece175becb5b9f71ab52cd3748dc19fedd5970c125e0f9dc85e89bde739",
+  "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+  "samples": 932800,
+  "sampleRate": 16000,
+  "channels": 1,
+  "sampleWidthBytes": 2,
+  "sourceStartSample": 0,
+  "sourceEndSampleExclusive": 2798400,
+  "sourceSampleRate": 48000,
+  "seconds": 58.3,
+  "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+}

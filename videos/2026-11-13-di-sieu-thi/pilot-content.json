@@ -1,0 +1,52 @@
+{
+  "title": "Vì sao mua một món lại mang về cả giỏ?",
+  "editorialAngle": "Tách nhu cầu trước khi vào cửa hàng, tín hiệu gặp trong lúc mua và phép so sánh giá để giải thích vì sao giỏ hàng có thể lớn hơn kế hoạch.",
+  "audience": "Người đi chợ hoặc siêu thị muốn hiểu các quyết định mua thêm thường ngày; đây là giả thuyết nhu cầu, không phải phân tích nhân khẩu học của kênh.",
+  "hookPromise": "Giải thích ba điểm khiến giỏ hàng lệch khỏi kế hoạch và một cách thử đơn giản cho lần mua tiếp theo.",
+  "payoff": "Mua có chủ đích là so món thêm với nhu cầu và tổng tiền, không chỉ so giá đơn vị với giá gạch đi.",
+  "sections": [
+    {
+      "phase": "hook",
+      "clauses": [
+        {"id":"h1","text":"Một món cần mua, cả giỏ mang về. Chuyện có thể bắt đầu từ một bảng giá rất hấp dẫn.","images":["cart-full"],"headline":"Đi mua một món. Về với cả giỏ?"},
+        {"id":"h2","text":"Bạn thấy mua thêm thì mỗi hộp rẻ hơn. Nhưng đến quầy, tổng tiền vẫn lớn hơn số tiền định chi.","images":["sale-shelf","checkout-wide"],"layout":"diptych","headline":"Rẻ mỗi món. Tăng tổng tiền."},
+        {"id":"h3","text":"Vậy điều gì đã xảy ra từ lúc bước vào cửa hàng đến lúc thanh toán? Có ba điểm đáng nhìn lại.","images":["cart-browse"],"headline":"Ba quyết định trước quầy tính tiền"}
+      ]
+    },
+    {
+      "phase":"disclaimer",
+      "clauses":[
+        {"id":"d1","text":"Đây là phân tích hành vi mua sắm và ví dụ minh họa. Không phải ai mua thêm cũng lãng phí, hay cửa hàng nào cũng bố trí giống nhau.","images":["basket-full"],"headline":"Mua thêm chưa chắc là mua thừa.","body":"Tình huống minh họa. Hành vi và cửa hàng có thể khác nhau."}
+      ]
+    },
+    {
+      "phase":"content",
+      "clauses":[
+        {"id":"c1","text":"Điểm đầu tiên xuất hiện trước khi bạn tới siêu thị: mình thực sự cần gì? Mở tủ lạnh và nhìn lại đồ đang có là một bước rất cụ thể.","images":["fridge-kitchen"],"headline":"01 / Cần gì trước khi đi?"},
+        {"id":"c2","text":"Nếu kế hoạch chỉ là mua ít đồ ăn, gần như món nào cũng có thể hợp lý. Một danh sách có món và số lượng cho bạn thứ để đối chiếu.","images":["shopping-list"],"headline":"Ghi món. Ghi lượng."},
+        {"id":"c3","text":"Điện thoại có thể giữ danh sách đó. Nhưng điều quan trọng là nội dung đã chốt từ trước, chứ không phải cứ cầm điện thoại là sẽ mua đúng kế hoạch.","images":["phone-list"]},
+        {"id":"c4","text":"Điểm thứ hai nằm ngay trước mắt: những thứ được nhìn thấy trong cửa hàng. Một kệ hàng có nhiều lựa chọn; một bảng màu nổi khiến một ưu đãi dễ được chú ý.","images":["milk-shelf","sale-shelf"],"layout":"diptych","headline":"02 / Nhìn thấy rồi mới nghĩ tới"},
+        {"id":"c5","text":"Thấy một món rồi nhớ ra nhà đang thiếu, đó có thể là lời nhắc hữu ích. Cũng có lúc bạn chỉ vừa nảy ra mong muốn khi đứng trước kệ.","images":["phone-plan-couple"]},
+        {"id":"c6","text":"Hai trường hợp ấy đều là mua ngoài dự tính, nhưng ý nghĩa khác nhau. Một bên bổ sung nhu cầu có thật; một bên cần thêm một câu hỏi trước khi bỏ vào giỏ.","images":["fridge-check","cart-full"],"layout":"diptych","headline":"Nhớ ra đang thiếu — hay vừa muốn có?"},
+        {"id":"c7","text":"Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm.","images":["cart-browse"],"sourceNote":"Inman, Winer & Ferraro, 2009 · Journal of Marketing"},
+        {"id":"c8","text":"Điều đó không có nghĩa một bảng khuyến mại tự động điều khiển mọi người. Nó chỉ cho ta lý do để quan sát hoàn cảnh của quyết định, thay vì vội trách mình thiếu ý chí.","images":["plum-price"]},
+        {"id":"c9","text":"Điểm thứ ba là cách so giá. Nhìn một mức giảm, ta rất dễ chỉ hỏi mỗi món rẻ hơn bao nhiêu, rồi quên hỏi mình đang trả tổng cộng bao nhiêu.","images":["sale-shelf"],"headline":"03 / So giá nào với giá nào?"},
+        {"id":"c10","text":"Lấy một ví dụ giả định: một hộp ba mươi nghìn, hai hộp năm mươi nghìn. Mua hai thì mỗi hộp còn hai mươi lăm nghìn.","images":["price-example"],"headline":"Ví dụ giả định"},
+        {"id":"c11","text":"Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.","images":["total-example"],"headline":"Tổng chi: thêm 20.000đ"},
+        {"id":"c12","text":"Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.","images":["vegetables-home"]},
+        {"id":"c13","text":"Đó cũng là lý do một giỏ đầy chưa nói lên người mua có lãng phí hay không. Cần biết họ định mua gì, đồ sẽ dùng thế nào và món nào thực sự phát sinh.","images":["basket-full"]},
+        {"id":"c14","text":"Thử nhìn lại hành trình: đồ đang có ở nhà, lựa chọn gặp trên kệ, rồi tổng tiền khi thanh toán. Ba điểm này nối với nhau, chứ không chỉ có phút cuối ở quầy.","images":["fridge-kitchen","sale-shelf","choose-produce"],"layout":"gallery3d","headline":"Ở nhà → Trên kệ → Tại quầy"},
+        {"id":"c15","text":"Trước khi trả tiền, dừng một nhịp và nhìn các món vừa thêm. Nếu hôm nay không có ưu đãi này, mình có còn cần nó không? Mình sẽ dùng hết bằng cách nào?","images":["phone-basket"]},
+        {"id":"c16","text":"Bạn không cần biến mỗi chuyến mua đồ thành một cuộc thi kiềm chế. Mục tiêu là nhận ra lúc nào mình đang giải quyết nhu cầu, và lúc nào chỉ đang phản ứng với một lời mời.","images":["checkout-couple"]}
+      ]
+    },
+    {
+      "phase":"cta",
+      "clauses":[
+        {"id":"a1","text":"Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.","images":["shopping-list","groceries-home"],"layout":"diptych","headline":"Thử ở chuyến mua tiếp theo"},
+        {"id":"a2","text":"Có thể bạn nhớ ra thứ đang thiếu. Cũng có thể một ưu đãi đã đổi kế hoạch. Biết được lý do ấy mới là phần hữu ích, không phải chỉ nhìn số tiền rồi tự trách.","images":["groceries-home"]},
+        {"id":"a3","text":"Món nào bạn hay mua thêm nhất? Kể ở bình luận, và đăng ký nếu muốn cùng nhìn kỹ hơn những quyết định nhỏ trong đời sống.","images":["basket-full"],"layout":"closing","headline":"Bạn thường mua thêm món gì?","body":"Chia sẻ ở bình luận · Đăng ký để xem bài tiếp theo"}
+      ]
+    }
+  ]
+}

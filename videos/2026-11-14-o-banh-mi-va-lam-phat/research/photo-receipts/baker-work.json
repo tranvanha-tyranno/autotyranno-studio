@@ -1,0 +1,43 @@
+{
+  "id": "baker-work",
+  "file": "assets/baker-work.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 36445104,
+  "sourceURL": "https://www.pexels.com/photo/artisan-baker-preparing-fresh-bread-in-bakery-36445104/",
+  "downloadURL": "https://images.pexels.com/photos/36445104/pexels-photo-36445104.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Yasin Onuş",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "82386e5896c65651aafaf00e94a9e7997b3d6159b85453a7bfa0b937d7a04fbb",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "bakery",
+    "wages"
+  ],
+  "credit": "Yasin Onuş / Pexels",
+  "expectedFromSource": "Baker at work",
+  "observed": "Adult baker in hairnet smiling behind counter with broad flat golden breads and a masonry oven. Shows bakery labor; the bread is flatbread, not a Vietnamese baguette.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "82386e5896c65651aafaf00e94a9e7997b3d6159b85453a7bfa0b937d7a04fbb"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Use only for general bakery work or labor context. Flatbread is visibly different from bánh mì. Pictured adult is not fictional Hạnh; no claims about wages or finances.",
+  "reusedSource": null
+}

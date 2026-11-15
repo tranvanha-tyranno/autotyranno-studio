@@ -1,0 +1,506 @@
+[
+  {
+    "id": "hook",
+    "startSeconds": 0.0,
+    "endSeconds": 16.933333333333334,
+    "visualFamily": "chip",
+    "theme": "dark",
+    "label": "CÂU HỎI CỦA THỜI ĐẠI AI",
+    "beats": [
+      {
+        "phrase": "Một bản nháp",
+        "title": "MỘT CÂU LỆNH.",
+        "sub": "MỘT BẢN NHÁP.",
+        "at": 0
+      },
+      {
+        "phrase": "phần nào còn lại",
+        "title": "PHẦN NÀO CÒN LẠI?",
+        "sub": "CHO CON NGƯỜI",
+        "at": 258
+      },
+      {
+        "phrase": "một công việc thực ra",
+        "title": "CÔNG VIỆC",
+        "sub": "ĐƯỢC GHÉP TỪ NHỮNG GÌ?",
+        "at": 424
+      }
+    ]
+  },
+  {
+    "id": "bundle",
+    "startSeconds": 16.933333333333334,
+    "endSeconds": 33.833333333333336,
+    "visualFamily": "tasks",
+    "theme": "cream",
+    "label": "01 / TÁCH NHỎ CÔNG VIỆC",
+    "beats": [
+      {
+        "phrase": "một bó nhiệm vụ",
+        "title": "MỘT NGHỀ.",
+        "sub": "NHIỀU NHIỆM VỤ.",
+        "at": 44
+      },
+      {
+        "phrase": "kiểm tra, trao đổi",
+        "title": "KIỂM TRA. TRAO ĐỔI.",
+        "sub": "CHỊU TRÁCH NHIỆM.",
+        "at": 166
+      },
+      {
+        "phrase": "làm nhanh một phần",
+        "title": "MỘT PHẦN",
+        "sub": "CHƯA PHẢI CẢ NGHỀ",
+        "at": 408
+      }
+    ]
+  },
+  {
+    "id": "example",
+    "startSeconds": 33.833333333333336,
+    "endSeconds": 49.733333333333334,
+    "visualFamily": "documents",
+    "theme": "dark",
+    "label": "MỘT VÍ DỤ GIẢ ĐỊNH",
+    "beats": [
+      {
+        "phrase": "đề xuất tiêu đề",
+        "title": "TIÊU ĐỀ. KỊCH BẢN.",
+        "sub": "AI HỖ TRỢ BẢN ĐẦU",
+        "at": 82
+      },
+      {
+        "phrase": "hứa quá mức",
+        "title": "LỜI HỨA ĐÚNG?",
+        "sub": "CẦN NGƯỜI KIỂM TRA",
+        "at": 261
+      },
+      {
+        "phrase": "Bản nháp là đầu vào",
+        "title": "BẢN NHÁP ≠ KẾT QUẢ",
+        "sub": "VÍ DỤ MINH HỌA",
+        "at": 355
+      }
+    ]
+  },
+  {
+    "id": "exposure",
+    "startSeconds": 49.733333333333334,
+    "endSeconds": 63.8,
+    "visualFamily": "people",
+    "theme": "dark",
+    "label": "ILO / NGHIÊN CỨU NĂM 2025",
+    "beats": [
+      {
+        "phrase": "cứ bốn người lao động",
+        "title": "1 / 4",
+        "sub": "LAO ĐỘNG TOÀN CẦU",
+        "at": 132
+      },
+      {
+        "phrase": "mức tiếp xúc",
+        "title": "CÓ MỨC TIẾP XÚC",
+        "sub": "VỚI AI TẠO SINH",
+        "at": 238
+      },
+      {
+        "phrase": "không phải chắc chắn",
+        "title": "TIẾP XÚC ≠ MẤT VIỆC",
+        "sub": "ƯỚC TÍNH NGHIÊN CỨU 2025",
+        "at": 362
+      }
+    ]
+  },
+  {
+    "id": "meaning",
+    "startSeconds": 63.8,
+    "endSeconds": 78.4,
+    "visualFamily": "gate",
+    "theme": "cream",
+    "label": "ĐỌC ĐÚNG Ý NGHĨA CON SỐ",
+    "beats": [
+      {
+        "phrase": "không đếm số người",
+        "title": "ĐO KHẢ NĂNG TÁC ĐỘNG",
+        "sub": "KHÔNG ĐẾM NGƯỜI BỊ SA THẢI",
+        "at": 103
+      },
+      {
+        "phrase": "biến đổi công việc",
+        "title": "CÔNG VIỆC BIẾN ĐỔI",
+        "sub": "NHIỀU NHIỆM VỤ VẪN CẦN NGƯỜI",
+        "at": 191
+      },
+      {
+        "phrase": "không bảo đảm",
+        "title": "KHÔNG CÓ BẢO ĐẢM",
+        "sub": "CHO MỌI VỊ TRÍ",
+        "at": 374
+      }
+    ]
+  },
+  {
+    "id": "physical",
+    "startSeconds": 78.4,
+    "endSeconds": 94.63333333333334,
+    "visualFamily": "network",
+    "theme": "dark",
+    "label": "KHẢ NĂNG CỦA MÁY / THỰC TẾ CÔNG VIỆC",
+    "beats": [
+      {
+        "phrase": "trên màn hình",
+        "title": "TRÊN MÀN HÌNH",
+        "sub": "CHỈ LÀ MỘT PHẦN",
+        "at": 23
+      },
+      {
+        "phrase": "dữ liệu thiếu",
+        "title": "THIẾU DỮ LIỆU.",
+        "sub": "YÊU CẦU THAY ĐỔI.",
+        "at": 109
+      },
+      {
+        "phrase": "quyết định cách giải quyết",
+        "title": "HIỂU HOÀN CẢNH",
+        "sub": "QUYẾT ĐỊNH CÁCH GIẢI QUYẾT",
+        "at": 410
+      }
+    ]
+  },
+  {
+    "id": "economics",
+    "startSeconds": 94.63333333333334,
+    "endSeconds": 110.1,
+    "visualFamily": "clock",
+    "theme": "cream",
+    "label": "KHẢ NĂNG KỸ THUẬT CHƯA ĐỦ",
+    "beats": [
+      {
+        "phrase": "tổng thời gian",
+        "title": "TÍNH TỔNG THỜI GIAN",
+        "sub": "KHÔNG CHỈ THỜI GIAN GÕ",
+        "at": 46
+      },
+      {
+        "phrase": "sửa sai lâu hơn",
+        "title": "NHANH HƠN?",
+        "sub": "HAY SỬA LÂU HƠN?",
+        "at": 158
+      },
+      {
+        "phrase": "một quy trình chạy được",
+        "title": "MỘT QUY TRÌNH",
+        "sub": "CÓ NGƯỜI CHỊU TRÁCH NHIỆM",
+        "at": 374
+      }
+    ]
+  },
+  {
+    "id": "forecast",
+    "startSeconds": 110.1,
+    "endSeconds": 125.6,
+    "visualFamily": "bars",
+    "theme": "dark",
+    "label": "WEF / DỰ BÁO ĐẾN NĂM 2030",
+    "beats": [
+      {
+        "phrase": "một trăm bảy mươi",
+        "title": "170 TRIỆU",
+        "sub": "VIỆC LÀM CÓ THỂ ĐƯỢC TẠO RA",
+        "at": 163
+      },
+      {
+        "phrase": "chín mươi hai triệu",
+        "title": "92 TRIỆU",
+        "sub": "VIỆC LÀM CÓ THỂ BỊ DỊCH CHUYỂN",
+        "at": 248
+      },
+      {
+        "phrase": "không chỉ do AI",
+        "title": "KHÔNG CHỈ DO AI",
+        "sub": "DỰ BÁO ĐẾN 2030 / KHÔNG PHẢI KẾT QUẢ",
+        "at": 424
+      }
+    ]
+  },
+  {
+    "id": "context",
+    "startSeconds": 125.6,
+    "endSeconds": 142.86666666666667,
+    "visualFamily": "bridge",
+    "theme": "dark",
+    "label": "TỔNG THỂ TĂNG / TỪNG NGƯỜI VẪN KHÓ",
+    "beats": [
+      {
+        "phrase": "kinh tế, dân số",
+        "title": "KINH TẾ. DÂN SỐ.",
+        "sub": "CHUYỂN ĐỔI XANH.",
+        "at": 41
+      },
+      {
+        "phrase": "không tự động bước sang",
+        "title": "VIỆC MỚI",
+        "sub": "KHÔNG TỰ ĐỘNG ĐẾN VỚI MỌI NGƯỜI",
+        "at": 213
+      },
+      {
+        "phrase": "Khác kỹ năng",
+        "title": "KỸ NĂNG. ĐỊA ĐIỂM.",
+        "sub": "THỜI ĐIỂM.",
+        "at": 266
+      }
+    ]
+  },
+  {
+    "id": "review",
+    "startSeconds": 142.86666666666667,
+    "endSeconds": 158.96666666666667,
+    "visualFamily": "gate",
+    "theme": "cream",
+    "label": "02 / GIÁ TRỊ CỦA NGƯỜI KIỂM TRA",
+    "beats": [
+      {
+        "phrase": "đặt yêu cầu rõ",
+        "title": "YÊU CẦU RÕ",
+        "sub": "BIẾT THẾ NÀO LÀ TỐT",
+        "at": 106
+      },
+      {
+        "phrase": "bản nháp sai ở đâu",
+        "title": "NHẬN RA SAI Ở ĐÂU",
+        "sub": "KHẢ NĂNG KIỂM TRA",
+        "at": 317
+      },
+      {
+        "phrase": "đúng mục tiêu",
+        "title": "NHANH + ĐÚNG",
+        "sub": "ĐÚNG MỤC TIÊU MỚI CÓ GIÁ TRỊ",
+        "at": 454
+      }
+    ]
+  },
+  {
+    "id": "hallucination",
+    "startSeconds": 158.96666666666667,
+    "endSeconds": 175.1,
+    "visualFamily": "documents",
+    "theme": "dark",
+    "label": "MỘT BÀI TẬP KIỂM TRA NHỎ",
+    "beats": [
+      {
+        "phrase": "doanh thu với lợi nhuận",
+        "title": "DOANH THU ≠ LỢI NHUẬN",
+        "sub": "VÍ DỤ GIẢ ĐỊNH / KHÔNG PHẢI SỐ LIỆU THỰC",
+        "at": 111
+      },
+      {
+        "phrase": "một lỗi đi xa hơn",
+        "title": "TRÔI CHẢY ≠ CHÍNH XÁC",
+        "sub": "ĐỪNG CHỈ ĐỌC THẤY HAY",
+        "at": 232
+      },
+      {
+        "phrase": "đối chiếu số với bảng gốc",
+        "title": "ĐỐI CHIẾU NGUỒN GỐC",
+        "sub": "SỐ LIỆU → ĐỊNH NGHĨA → KẾT LUẬN",
+        "at": 288
+      }
+    ]
+  },
+  {
+    "id": "map",
+    "startSeconds": 175.1,
+    "endSeconds": 194.26666666666668,
+    "visualFamily": "tasks",
+    "theme": "cream",
+    "label": "03 / VẼ LẠI CÔNG VIỆC CỦA MÌNH",
+    "beats": [
+      {
+        "phrase": "ba nhóm",
+        "title": "BA NHÓM NHIỆM VỤ",
+        "sub": "TỰ RÀ SOÁT / KHÔNG XẾP HẠNG NGHỀ",
+        "at": 27
+      },
+      {
+        "phrase": "Nhóm đầu",
+        "title": "LẶP LẠI → HỖ TRỢ",
+        "sub": "→ PHÁN ĐOÁN VÀ TRÁCH NHIỆM",
+        "at": 49
+      },
+      {
+        "phrase": "thay đổi trước",
+        "title": "ĐIỂM NÀO ĐỔI TRƯỚC?",
+        "sub": "BẮT ĐẦU TỪ NHIỆM VỤ",
+        "at": 543
+      }
+    ]
+  },
+  {
+    "id": "experiment",
+    "startSeconds": 194.26666666666668,
+    "endSeconds": 211.1,
+    "visualFamily": "conveyor",
+    "theme": "dark",
+    "label": "THỬ NHỎ / CÓ THỂ KIỂM TRA",
+    "beats": [
+      {
+        "phrase": "một việc nhỏ",
+        "title": "CHỌN MỘT VIỆC NHỎ",
+        "sub": "DÙNG THÔNG TIN GIẢ ĐỊNH",
+        "at": 10
+      },
+      {
+        "phrase": "mục tiêu, người đọc",
+        "title": "MỤC TIÊU. NGƯỜI ĐỌC.",
+        "sub": "RÀNG BUỘC RÕ RÀNG.",
+        "at": 177
+      },
+      {
+        "phrase": "phát hiện và sửa",
+        "title": "THẤY ĐƯỢC LỖI",
+        "sub": "SỬA ĐƯỢC LỖI",
+        "at": 462
+      }
+    ]
+  },
+  {
+    "id": "measure",
+    "startSeconds": 211.1,
+    "endSeconds": 229.13333333333333,
+    "visualFamily": "clock",
+    "theme": "cream",
+    "label": "ĐO LỢI ÍCH THỰC",
+    "beats": [
+      {
+        "phrase": "ra lệnh, chờ kết quả",
+        "title": "GIAO VIỆC + CHỜ",
+        "sub": "+ KIỂM TRA + SỬA",
+        "at": 27
+      },
+      {
+        "phrase": "chất lượng đạt yêu cầu",
+        "title": "THỜI GIAN + CHẤT LƯỢNG",
+        "sub": "ĐO CẢ HAI",
+        "at": 221
+      },
+      {
+        "phrase": "lặp lại đáng tin cậy",
+        "title": "LẶP LẠI ĐƯỢC",
+        "sub": "ĐÁNG TIN CẬY",
+        "at": 436
+      }
+    ]
+  },
+  {
+    "id": "skills",
+    "startSeconds": 229.13333333333333,
+    "endSeconds": 246.36666666666667,
+    "visualFamily": "steps",
+    "theme": "dark",
+    "label": "KỸ NĂNG CẦN NUÔI DƯỠNG",
+    "beats": [
+      {
+        "phrase": "không nhất thiết",
+        "title": "KHÔNG PHẢI AI CŨNG",
+        "sub": "CẦN THÀNH KỸ SƯ AI",
+        "at": 10
+      },
+      {
+        "phrase": "tư duy phân tích",
+        "title": "PHÂN TÍCH. CÔNG NGHỆ.",
+        "sub": "KHẢ NĂNG HỌC HỎI.",
+        "at": 166
+      },
+      {
+        "phrase": "hiểu nghề, biết kiểm tra",
+        "title": "HIỂU NGHỀ. KIỂM TRA.",
+        "sub": "DIỄN ĐẠT RÕ VẤN ĐỀ.",
+        "at": 347
+      }
+    ]
+  },
+  {
+    "id": "portfolio",
+    "startSeconds": 246.36666666666667,
+    "endSeconds": 263.6333333333333,
+    "visualFamily": "documents",
+    "theme": "cream",
+    "label": "GIỮ LẠI BẰNG CHỨNG TIẾN BỘ",
+    "beats": [
+      {
+        "phrase": "trước và sau",
+        "title": "TRƯỚC → SAU",
+        "sub": "GIỮ LẠI BẰNG CHỨNG",
+        "at": 84
+      },
+      {
+        "phrase": "phần bạn sửa",
+        "title": "PHẦN BẠN ĐÓNG GÓP",
+        "sub": "KIỂM TRA. SỬA. QUYẾT ĐỊNH.",
+        "at": 206
+      },
+      {
+        "phrase": "khi nào dùng thì có ích",
+        "title": "DÙNG ĐÚNG CHỖ",
+        "sub": "KHÔNG PHẢI DÙNG MỌI CHỖ",
+        "at": 465
+      }
+    ]
+  },
+  {
+    "id": "company",
+    "startSeconds": 263.6333333333333,
+    "endSeconds": 280.93333333333334,
+    "visualFamily": "network",
+    "theme": "dark",
+    "label": "TRÁCH NHIỆM KHÔNG CHỈ Ở CÁ NHÂN",
+    "beats": [
+      {
+        "phrase": "không thể chỉ đặt lên vai",
+        "title": "KHÔNG CHỈ CÁ NHÂN",
+        "sub": "TỔ CHỨC CŨNG CÓ TRÁCH NHIỆM",
+        "at": 20
+      },
+      {
+        "phrase": "thời gian đào tạo",
+        "title": "ĐÀO TẠO. TIÊU CHUẨN.",
+        "sub": "NGƯỜI XỬ LÝ KHI SAI.",
+        "at": 126
+      },
+      {
+        "phrase": "tổ chức công việc ấy",
+        "title": "ĐỔI CÔNG CỤ",
+        "sub": "CŨNG CẦN ĐỔI CÁCH LÀM",
+        "at": 478
+      }
+    ]
+  },
+  {
+    "id": "closing",
+    "startSeconds": 280.93333333333334,
+    "endSeconds": 300.0,
+    "visualFamily": "chip",
+    "theme": "dark",
+    "label": "CÂU HỎI MANG THEO",
+    "beats": [
+      {
+        "phrase": "Không có một câu trả lời chung",
+        "title": "KHÔNG MỘT ĐÁP ÁN",
+        "sub": "CHO TẤT CẢ MỌI NGƯỜI",
+        "at": 82
+      },
+      {
+        "phrase": "sự hiểu biết và trách nhiệm",
+        "title": "HIỂU BIẾT + TRÁCH NHIỆM",
+        "sub": "GIÁ TRỊ BẠN ĐÓNG GÓP",
+        "at": 312
+      },
+      {
+        "phrase": "Ngày mai",
+        "title": "NGÀY MAI,",
+        "sub": "BẠN SẼ BẮT ĐẦU TỪ VIỆC NÀO?",
+        "at": 418
+      }
+    ]
+  }
+]

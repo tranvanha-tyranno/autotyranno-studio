@@ -1,0 +1,44 @@
+{
+  "id": "oven-door",
+  "file": "audio/sfx/downloaded/oven-door.mp3",
+  "sha256": "7ea1aea865ea6d94220487ea1a8d087edcf67085d50f7abf27568ac6adacce80",
+  "bytes": 89232,
+  "durationSeconds": 3.79,
+  "sourceURL": "https://freesound.org/people/bolkmar/sounds/503477/",
+  "downloadURL": "https://cdn.freesound.org/previews/503/503477_2927958-hq.mp3",
+  "creator": "bolkmar",
+  "sourceTitle": "Oven door - open and close",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Oven door opening and closing",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "oven",
+    "door"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b02",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b12",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/oven-door.html",
+    "htmlSHA256": "5468641fa96f1b88dfbd47b1309dc4ee406b576d94986fd5e2c497adcdccfe6e",
+    "text": "research/sfx-source-pages/oven-door.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Oven door opening and closing by bolkmar, Freesound #503477, CC0 1.0: https://freesound.org/people/bolkmar/sounds/503477/"
+}

@@ -1,0 +1,313 @@
+{
+  "narrationSHA256": "f1be96d27706d246d1b17c4446a956b90aaa78f63cfe8c6d91212b90a814ed08",
+  "mixSHA256": "429329edeab6ffa7db4171b90c45c2fc6c55a8fabefbbf8ab5972a621219eeb7",
+  "music": [
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\coffee-opening.mp3",
+      "sha256": "0a077952a3c8df5f42510ab5b97e13ac648e6aa858a3dece88d3b1db12ac23de",
+      "receiptSHA256": "a61bc4fb74f6fcefff9acaaa2b0d99a22bbcfff086d50863b136be1b535ad48d"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\precise-unit-math.mp3",
+      "sha256": "d5b5fbba86486be356298b9b1e89c8ad60c182989483a10d11ca035f0863a94b",
+      "receiptSHA256": "c6bdbaac2ff54b81319085295e94ec5b70af000d96235e7a9f9ec5896d92971d"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\cash-tension.mp3",
+      "sha256": "3625a05819765d346c4bc8d0f054ff26d8c9a01bcf8fed1f4ded82485e862ec7",
+      "receiptSHA256": "b5fce313d48dbbee1e88eee9a0759563ecf31a3ae366a7cf817d524ca96eb3fd"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\operating-pulse.mp3",
+      "sha256": "3a13ebd5aca1d21221ad0544f04666619c90ab3e00b0eea9e7607de365c8c119",
+      "receiptSHA256": "f108cac137a063378a222550e2a6967f8ea735a56f22f1783fb63814fa3a3ce6"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\agency-bridge.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a",
+      "receiptSHA256": "0b5e629e2a714328ff247ae799dca884a738c01ea158936835cf9fe940d28e00"
+    },
+    {
+      "source": "videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\hopeful-outro.mp3",
+      "sha256": "2db06d855d0730224bcbfd9eb8c53f0622f143fadd63218df29a6d64e7c40055",
+      "receiptSHA256": "644968420a68c204bd98f2cd72c10f29689efb8e1efc2b07daf357b18ee7153a"
+    }
+  ],
+  "crossfadeSeconds": 3,
+  "newMusicProviderCalls": 0,
+  "speechSpeed": 1,
+  "sharedAcrossStyles": true,
+  "cues": [
+    {
+      "beat": "b03",
+      "at": 27.066666666666666,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b04",
+      "at": 36.36666666666667,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b05",
+      "at": 46.6,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b06",
+      "at": 57.3,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b07",
+      "at": 68.96666666666667,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b08",
+      "at": 79.83333333333333,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b10",
+      "at": 105.8,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b11",
+      "at": 114.56666666666666,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b12",
+      "at": 125.33333333333333,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b13",
+      "at": 138.86666666666667,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b14",
+      "at": 150.76666666666668,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b15",
+      "at": 159.9,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b16",
+      "at": 175.06666666666666,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b17",
+      "at": 191.46666666666667,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b18",
+      "at": 196.73333333333332,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b19",
+      "at": 205.3,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b20",
+      "at": 216.83333333333334,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b21",
+      "at": 232.3,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b22",
+      "at": 242.06666666666666,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b23",
+      "at": 260.73333333333335,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b24",
+      "at": 266.1666666666667,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b25",
+      "at": 279.1333333333333,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b26",
+      "at": 289.26666666666665,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b27",
+      "at": 301.96666666666664,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b28",
+      "at": 311.1,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b29",
+      "at": 321.6666666666667,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b30",
+      "at": 335.1333333333333,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b33",
+      "at": 371.2,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b34",
+      "at": 386.6,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b35",
+      "at": 396.46666666666664,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b36",
+      "at": 408.1333333333333,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b37",
+      "at": 417.1666666666667,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b38",
+      "at": 428.26666666666665,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b39",
+      "at": 439.6666666666667,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b40",
+      "at": 452.56666666666666,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b41",
+      "at": 467.7,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b42",
+      "at": 482.43333333333334,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b43",
+      "at": 498.23333333333335,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b44",
+      "at": 505.8,
+      "role": "light coin or receipt landing emphasizes modeled arithmetic",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b45",
+      "at": 523.4,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b46",
+      "at": 529.4,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b47",
+      "at": 538.8,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b48",
+      "at": 552.6,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b49",
+      "at": 564.6333333333333,
+      "role": "short paper movement at inspection / calendar / review cue",
+      "source": "original deterministic local synthesis"
+    },
+    {
+      "beat": "b50",
+      "at": 581.6666666666666,
+      "role": "soft button / date selection cue",
+      "source": "original deterministic local synthesis"
+    }
+  ],
+  "listening": "Measurement and frame inspection do not establish continuous listening"
+}

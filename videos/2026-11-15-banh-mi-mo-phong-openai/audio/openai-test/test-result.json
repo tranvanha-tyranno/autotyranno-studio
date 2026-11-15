@@ -1,0 +1,7 @@
+{
+  "httpStatus": 401,
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "code": "invalid_api_key",
+  "type": "invalid_request_error"
+}

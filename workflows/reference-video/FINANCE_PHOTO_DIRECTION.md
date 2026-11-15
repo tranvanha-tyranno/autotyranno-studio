@@ -1,0 +1,9 @@
+# Tài chính: ảnh thật là phần minh họa chính — 14/11/2026
+
+Người dùng tiếp tục sửa: **“video vừa nhanh mà chả có ảnh thật để minh họa, nên để nhiều ảnh vô khi nào mô phỏng thì mới bắt đầu làm”**. Tăng tốc và thay hoạt ảnh chưa giải quyết yêu cầu dùng ảnh thật đã có. Hai hướng tài chính phải chuyển sang ảnh đời sống được chọn theo từng mệnh đề; chỉ mở mô phỏng ở đoạn cần giải thích phép tính, chia khoản tiền hoặc thời điểm thu–chi. Không mặc định toàn bộ video là SVG/comic. Không ép đổi ảnh thật quá nhanh chỉ để đạt số shot.
+
+Batch sửa riêng: `videos/2026-11-14-tai-chinh-anh-that/`. Giữ nguyên hai batch cũ và file đã render. Phần hình nhịp nhanh không có ảnh được giữ làm bằng chứng sửa, không phải mẫu đã được duyệt. Tiếp tục đúng yêu cầu hai bản khoảng 10 phút; bản comic và bản gọn đều lấy ảnh thật làm nền minh họa chính, khác nhau ở đoạn mô phỏng phù hợp.
+
+Giữ nguyên exact take Nhật Phong, toàn bộ mix 602,333 giây và lời đăng ký/bật chuông/bình luận đã thêm. Sửa hình không tạo lại voice, nhạc hoặc ảnh AI. Ảnh tải từ nguồn thật phải có trang nguồn, tác giả, giấy phép, hash và quan sát pixel/crop. Stock chỉ minh họa hành động/đồ vật nhìn thấy, không chứng minh người trong ảnh có hành vi tài chính trong câu chuyện hư cấu. Không suy ra Việt Nam từ khuôn mặt; không gọi pan/zoom ảnh tĩnh là footage chuyển động.
+
+`finance_photo_assets.py` lưu ảnh và hồ sơ nguồn; `finance_photo_plan.py` phủ timeline theo lời, ghi nhu cầu nhìn thấy và giới hạn mỗi shot. `cinematic/src/finance-photo/` và `finance-photo-entry.tsx` dựng ảnh full-frame/split/gallery, chỉ gọi renderer mô phỏng ở những khoảng được chọn. `finance_photo_render.py` khóa plan/source/asset/mix, kiểm crop thực tế, cảnh chuyển động đại diện rồi xuất đầy đủ. Kiểm kỹ thuật, quan sát hình và phản hồi người dùng được ghi riêng; không suy ra duyệt thẩm mỹ từ số ảnh, tỷ lệ runtime, decode hay contact sheet.

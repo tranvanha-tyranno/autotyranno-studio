@@ -1,0 +1,41 @@
+{
+  "narration": {
+    "file": "audio/narration-original.mp3",
+    "sha256": "f131f90083d54bc9db5a7011c66923d192b68ebb330eb61924cf63d7a79936ff",
+    "alignment": "audio/narration-original.alignment.json",
+    "speed": 1.0
+  },
+  "music": [
+    {
+      "file": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96"
+    },
+    {
+      "file": "videos/2026-11-11-ai-va-cong-viec-5phut/audio/agency-score.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a"
+    }
+  ],
+  "mix": {
+    "file": "audio/final-mix.wav",
+    "sha256": "1c9591861500b2511c864695b934af352c5f374fc795dec8b939bdabd79a60f9",
+    "seconds": 82.94
+  },
+  "contextualFoley": [
+    {
+      "file": "paper.mp3",
+      "time": 42.15,
+      "phrase": "Nhưng khi một con số"
+    },
+    {
+      "file": "typing.mp3",
+      "time": 62.38333333333333,
+      "phrase": "Hôm nay"
+    },
+    {
+      "file": "confirm.mp3",
+      "time": 70.91666666666667,
+      "phrase": "Chỉ giữ cách làm"
+    }
+  ],
+  "humanListening": "Not claimed; exact take alignment and measurements only"
+}

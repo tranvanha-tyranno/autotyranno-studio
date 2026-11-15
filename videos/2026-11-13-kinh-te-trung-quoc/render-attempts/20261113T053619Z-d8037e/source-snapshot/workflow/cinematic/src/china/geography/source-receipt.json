@@ -1,0 +1,14 @@
+{
+  "provider": "Natural Earth",
+  "dataset": "Admin0 countries110m",
+  "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+  "license": "Public domain",
+  "licenseURL": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "retrievedUTC": "2026-11-13T04:58:35.521733+00:00",
+  "downloadSHA256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+  "renderFile": "natural-earth-110m.json",
+  "renderSHA256": "2ce99e35cb4a9f7e595e6abe8eec1b5a9de33d1c6518f45ef780f1a786b9b499",
+  "modifications": "Retained only ADM0_A3/Admin names and geometry; rounded coordinate precision to4decimaldegrees for smaller bundled vector data. No statistical population/GDP attributes are used.",
+  "boundaryNote": "Generalized geographic reference from Natural Earth; boundaries/names are illustrative and do not express a position on territorial claims.",
+  "projection": "China view uses Albers equal-area conic, centralmeridian105E, standardparallels25N/47N; world routes use equirectangular with schematic connections, not measured shipping paths."
+}

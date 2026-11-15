@@ -1,0 +1,14 @@
+{
+  "round": 7,
+  "focus": "Chọn hình cho giá trị giữ lại",
+  "problem": "Cận mắt kính và bàn phím chung chung trong đoạn câu hỏi về giá trị.",
+  "change": "Đổi sang hoạt động thương mại và tài khoản tài chính; giữ inset để đa dạng.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-06",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Cảng kết hợp sổ tài khoản hợp câu hỏi giữ giá trị hơn cận mắt/keyboard. Đã xem thêm khung 37s: người vận hành thiết bị khớp phần công nghệ tốt hơn spreadsheet, tay/máy còn thấy rõ cạnh panel. Các đoạn cảng nay lấy khoảng nguồn khác nhau, giảm lặp hình."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

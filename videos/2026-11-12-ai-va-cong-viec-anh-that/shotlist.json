@@ -1,0 +1,1586 @@
+[
+  {
+    "asset": "v-typing",
+    "type": "video",
+    "file": "typing.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Writing starts with an actual keyboard",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 117,
+    "globalStart": 0,
+    "globalEnd": 117,
+    "chapter": "hook"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 117,
+    "phrase": "Rất tiện",
+    "purpose": "Draft/notes as tangible work",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 145,
+    "globalStart": 117,
+    "globalEnd": 145,
+    "chapter": "hook"
+  },
+  {
+    "asset": "paperwork",
+    "type": "photo",
+    "file": "paperwork.jpg",
+    "start": 145,
+    "phrase": "Cũng rất đáng lo",
+    "purpose": "Existing staged workload photo, illustrative",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 258,
+    "globalStart": 145,
+    "globalEnd": 258,
+    "chapter": "hook"
+  },
+  {
+    "asset": "v-worker",
+    "type": "video",
+    "file": "worker.mp4",
+    "start": 258,
+    "phrase": "phần nào còn lại",
+    "purpose": "A person at work instead of abstract AI chip",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 424,
+    "globalStart": 258,
+    "globalEnd": 424,
+    "chapter": "hook"
+  },
+  {
+    "asset": "team-decision",
+    "type": "photo",
+    "file": "team-decision.jpg",
+    "start": 424,
+    "phrase": "một công việc thực ra",
+    "purpose": "Work involves decisions and people",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 508,
+    "globalStart": 424,
+    "globalEnd": 508,
+    "chapter": "hook"
+  },
+  {
+    "asset": "sticky-board",
+    "type": "photo",
+    "file": "sticky-board.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Task board makes the bundle of tasks concrete",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 76,
+    "globalStart": 508,
+    "globalEnd": 584,
+    "chapter": "bundle"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 76,
+    "phrase": "Thu thập thông tin",
+    "purpose": "Collecting information and writing notes",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 153,
+    "globalStart": 584,
+    "globalEnd": 661,
+    "chapter": "bundle"
+  },
+  {
+    "asset": "review-docs",
+    "type": "photo",
+    "file": "review-docs.jpg",
+    "start": 153,
+    "phrase": "Rồi kiểm tra",
+    "purpose": "Physical document checking",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.7421150278293135,
+    "end": 186,
+    "globalStart": 661,
+    "globalEnd": 694,
+    "chapter": "bundle"
+  },
+  {
+    "asset": "client-meeting",
+    "type": "photo",
+    "file": "client-meeting.jpg",
+    "start": 186,
+    "phrase": "trao đổi với khách hàng",
+    "purpose": "Person-to-person client conversation",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 340,
+    "globalStart": 694,
+    "globalEnd": 848,
+    "chapter": "bundle"
+  },
+  {
+    "asset": "board-team",
+    "type": "photo",
+    "file": "board-team.jpg",
+    "start": 340,
+    "phrase": "vài mắt xích",
+    "purpose": "People and real task board",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 507,
+    "globalStart": 848,
+    "globalEnd": 1015,
+    "chapter": "bundle"
+  },
+  {
+    "asset": "v-typing",
+    "type": "video",
+    "file": "typing.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Real typing for content draft",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 82,
+    "globalStart": 1015,
+    "globalEnd": 1097,
+    "chapter": "example"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 82,
+    "phrase": "đề xuất tiêu đề",
+    "purpose": "Notebook and writing draft",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 174,
+    "globalStart": 1097,
+    "globalEnd": 1189,
+    "chapter": "example"
+  },
+  {
+    "asset": "team-charts",
+    "type": "photo",
+    "file": "team-charts.jpg",
+    "start": 174,
+    "phrase": "sản phẩm thật sự",
+    "purpose": "Team examining actual materials",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 261,
+    "globalStart": 1189,
+    "globalEnd": 1276,
+    "chapter": "example"
+  },
+  {
+    "asset": "close-review",
+    "type": "photo",
+    "file": "close-review.jpg",
+    "start": 261,
+    "phrase": "hứa quá mức",
+    "purpose": "Checking the claims on paper, illustrative",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 283,
+    "globalStart": 1276,
+    "globalEnd": 1298,
+    "chapter": "example"
+  },
+  {
+    "asset": "support-agent",
+    "type": "photo",
+    "file": "support-agent.jpg",
+    "start": 283,
+    "phrase": "Ai nhận phản hồi",
+    "purpose": "Headset worker for customer feedback",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 477,
+    "globalStart": 1298,
+    "globalEnd": 1492,
+    "chapter": "example"
+  },
+  {
+    "asset": "v-office",
+    "type": "video",
+    "file": "office.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "A workplace establishes the workforce context",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 132,
+    "globalStart": 1492,
+    "globalEnd": 1624,
+    "chapter": "exposure"
+  },
+  {
+    "asset": "support-team",
+    "type": "photo",
+    "file": "support-team.jpg",
+    "start": 132,
+    "phrase": "cứ bốn người lao động",
+    "purpose": "Four actual workers for one-in-four exposure graphic",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.1401425178147269,
+    "end": 308,
+    "globalStart": 1624,
+    "globalEnd": 1800,
+    "chapter": "exposure"
+  },
+  {
+    "asset": "colleagues",
+    "type": "photo",
+    "file": "colleagues.jpg",
+    "start": 308,
+    "phrase": "Từ quan trọng",
+    "purpose": "People still working together, no fake layoffs",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5028177833437695,
+    "end": 422,
+    "globalStart": 1800,
+    "globalEnd": 1914,
+    "chapter": "exposure"
+  },
+  {
+    "asset": "review-docs",
+    "type": "photo",
+    "file": "review-docs.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Research needs careful reading",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.7421150278293135,
+    "end": 103,
+    "globalStart": 1914,
+    "globalEnd": 2017,
+    "chapter": "meaning"
+  },
+  {
+    "asset": "folders",
+    "type": "photo",
+    "file": "folders.jpg",
+    "start": 103,
+    "phrase": "không đếm số người",
+    "purpose": "Documents, not identifiable layoffs",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.499063085571518,
+    "end": 191,
+    "globalStart": 2017,
+    "globalEnd": 2105,
+    "chapter": "meaning"
+  },
+  {
+    "asset": "discussion",
+    "type": "photo",
+    "file": "discussion.jpg",
+    "start": 191,
+    "phrase": "biến đổi công việc",
+    "purpose": "People adapting a work discussion",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 391,
+    "globalStart": 2105,
+    "globalEnd": 2305,
+    "chapter": "meaning"
+  },
+  {
+    "asset": "review-team",
+    "type": "photo",
+    "file": "review-team-detail.jpg",
+    "start": 391,
+    "phrase": "mọi vị trí",
+    "purpose": "Two people checking their work",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.0666666666666667,
+    "end": 438,
+    "globalStart": 2305,
+    "globalEnd": 2352,
+    "chapter": "meaning"
+  },
+  {
+    "asset": "v-worker",
+    "type": "video",
+    "file": "worker.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Actual laptop work",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 109,
+    "globalStart": 2352,
+    "globalEnd": 2461,
+    "chapter": "physical"
+  },
+  {
+    "asset": "close-review",
+    "type": "photo",
+    "file": "close-review.jpg",
+    "start": 109,
+    "phrase": "dữ liệu thiếu",
+    "purpose": "Incomplete context illustrated by people checking documents",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 248,
+    "globalStart": 2461,
+    "globalEnd": 2600,
+    "chapter": "physical"
+  },
+  {
+    "asset": "support-agent",
+    "type": "photo",
+    "file": "support-agent.jpg",
+    "start": 248,
+    "phrase": "khách hàng tức giận",
+    "purpose": "Service worker shown neutrally; no claim about the model person",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 316,
+    "globalStart": 2600,
+    "globalEnd": 2668,
+    "chapter": "physical"
+  },
+  {
+    "asset": "headset",
+    "type": "photo",
+    "file": "headset.jpg",
+    "start": 316,
+    "phrase": "câu trả lời lịch sự",
+    "purpose": "Specific tool used to communicate",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 378,
+    "globalStart": 2668,
+    "globalEnd": 2730,
+    "chapter": "physical"
+  },
+  {
+    "asset": "client-meeting",
+    "type": "photo",
+    "file": "client-meeting.jpg",
+    "start": 378,
+    "phrase": "Hiểu hoàn cảnh",
+    "purpose": "Face-to-face listening and judgment",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 487,
+    "globalStart": 2730,
+    "globalEnd": 2839,
+    "chapter": "physical"
+  },
+  {
+    "asset": "calculator",
+    "type": "photo",
+    "file": "calculator.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Real calculation for cost/time",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 133,
+    "globalStart": 2839,
+    "globalEnd": 2972,
+    "chapter": "economics"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 133,
+    "phrase": "viết nhanh",
+    "purpose": "Writing a first version",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 158,
+    "globalStart": 2972,
+    "globalEnd": 2997,
+    "chapter": "economics"
+  },
+  {
+    "asset": "review-docs",
+    "type": "photo",
+    "file": "review-docs.jpg",
+    "start": 158,
+    "phrase": "sửa sai lâu hơn",
+    "purpose": "Checking takes time",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.7421150278293135,
+    "end": 253,
+    "globalStart": 2997,
+    "globalEnd": 3092,
+    "chapter": "economics"
+  },
+  {
+    "asset": "folders",
+    "type": "photo",
+    "file": "folders.jpg",
+    "start": 253,
+    "phrase": "dữ liệu không được phép",
+    "purpose": "Documents and data handling",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.499063085571518,
+    "end": 380,
+    "globalStart": 3092,
+    "globalEnd": 3219,
+    "chapter": "economics"
+  },
+  {
+    "asset": "team-decision",
+    "type": "photo",
+    "file": "team-decision.jpg",
+    "start": 380,
+    "phrase": "quy trình chạy được",
+    "purpose": "Coordinating a real work process",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 464,
+    "globalStart": 3219,
+    "globalEnd": 3303,
+    "chapter": "economics"
+  },
+  {
+    "asset": "v-office",
+    "type": "video",
+    "file": "office.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Employment context",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 163,
+    "globalStart": 3303,
+    "globalEnd": 3466,
+    "chapter": "forecast"
+  },
+  {
+    "asset": "g-forecast",
+    "type": "graphic",
+    "file": "",
+    "start": 163,
+    "phrase": "một trăm bảy mươi",
+    "purpose": "Only this short measured chart uses 3D",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 295,
+    "globalStart": 3466,
+    "globalEnd": 3598,
+    "chapter": "forecast"
+  },
+  {
+    "asset": "interview",
+    "type": "photo",
+    "file": "interview.jpg",
+    "start": 295,
+    "phrase": "Đây là kỳ vọng",
+    "purpose": "Recruiter expectations, not already observed jobs",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 465,
+    "globalStart": 3598,
+    "globalEnd": 3768,
+    "chapter": "forecast"
+  },
+  {
+    "asset": "team-charts",
+    "type": "photo",
+    "file": "team-charts.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Multiple structural changes",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 94,
+    "globalStart": 3768,
+    "globalEnd": 3862,
+    "chapter": "context"
+  },
+  {
+    "asset": "solar",
+    "type": "photo",
+    "file": "solar.jpg",
+    "start": 94,
+    "phrase": "chuyển đổi xanh",
+    "purpose": "Solar engineer specifically matches green transition",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.499063085571518,
+    "end": 181,
+    "globalStart": 3862,
+    "globalEnd": 3949,
+    "chapter": "context"
+  },
+  {
+    "asset": "resume",
+    "type": "photo",
+    "file": "resume.jpg",
+    "start": 181,
+    "phrase": "người mất một vị trí",
+    "purpose": "Resume: search for another role; not a claim the pictured person was fired",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6679654884497634,
+    "end": 266,
+    "globalStart": 3949,
+    "globalEnd": 4034,
+    "chapter": "context"
+  },
+  {
+    "asset": "candidate",
+    "type": "photo",
+    "file": "candidate.jpg",
+    "start": 266,
+    "phrase": "Khác kỹ năng",
+    "purpose": "Interview illustrates a transition barrier",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 479,
+    "globalStart": 4034,
+    "globalEnd": 4247,
+    "chapter": "context"
+  },
+  {
+    "asset": "home-learning",
+    "type": "photo",
+    "file": "home-learning.jpg",
+    "start": 479,
+    "phrase": "khó khăn cá nhân",
+    "purpose": "Learning and preparing as an individual",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 518,
+    "globalStart": 4247,
+    "globalEnd": 4286,
+    "chapter": "context"
+  },
+  {
+    "asset": "v-reviewer",
+    "type": "video",
+    "file": "reviewer.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Human looking closely at a screen",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 106,
+    "globalStart": 4286,
+    "globalEnd": 4392,
+    "chapter": "review"
+  },
+  {
+    "asset": "board-team",
+    "type": "photo",
+    "file": "board-team.jpg",
+    "start": 106,
+    "phrase": "đặt yêu cầu rõ",
+    "purpose": "Explaining the work goal to someone else",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 203,
+    "globalStart": 4392,
+    "globalEnd": 4489,
+    "chapter": "review"
+  },
+  {
+    "asset": "review-team",
+    "type": "photo",
+    "file": "review-team-detail.jpg",
+    "start": 203,
+    "phrase": "kiểm tra được",
+    "purpose": "Actual joint document review",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.0666666666666667,
+    "end": 317,
+    "globalStart": 4489,
+    "globalEnd": 4603,
+    "chapter": "review"
+  },
+  {
+    "asset": "close-review",
+    "type": "photo",
+    "file": "close-review.jpg",
+    "start": 317,
+    "phrase": "bản nháp sai ở đâu",
+    "purpose": "Attention to details in a draft",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 454,
+    "globalStart": 4603,
+    "globalEnd": 4740,
+    "chapter": "review"
+  },
+  {
+    "asset": "calculator",
+    "type": "photo",
+    "file": "calculator.jpg",
+    "start": 454,
+    "phrase": "đúng mục tiêu",
+    "purpose": "Check the output instead of generic shapes",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 483,
+    "globalStart": 4740,
+    "globalEnd": 4769,
+    "chapter": "review"
+  },
+  {
+    "asset": "calculator",
+    "type": "photo",
+    "file": "calculator.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Real financial paperwork for the hypothetical summary",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 111,
+    "globalStart": 4769,
+    "globalEnd": 4880,
+    "chapter": "hallucination"
+  },
+  {
+    "asset": "review-docs",
+    "type": "photo",
+    "file": "review-docs.jpg",
+    "start": 111,
+    "phrase": "doanh thu với lợi nhuận",
+    "purpose": "Document detail; no fake data over stock",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.7421150278293135,
+    "end": 189,
+    "globalStart": 4880,
+    "globalEnd": 4958,
+    "chapter": "hallucination"
+  },
+  {
+    "asset": "v-typing",
+    "type": "video",
+    "file": "typing.mp4",
+    "start": 189,
+    "phrase": "gửi đi",
+    "purpose": "Typing/dispatch context",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 288,
+    "globalStart": 4958,
+    "globalEnd": 5057,
+    "chapter": "hallucination"
+  },
+  {
+    "asset": "close-review",
+    "type": "photo",
+    "file": "close-review.jpg",
+    "start": 288,
+    "phrase": "đối chiếu số với bảng gốc",
+    "purpose": "A finger/pencil points to source documents",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 348,
+    "globalStart": 5057,
+    "globalEnd": 5117,
+    "chapter": "hallucination"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 348,
+    "phrase": "định nghĩa từng cột",
+    "purpose": "Writing down definitions and checking",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 484,
+    "globalStart": 5117,
+    "globalEnd": 5253,
+    "chapter": "hallucination"
+  },
+  {
+    "asset": "board-team",
+    "type": "photo",
+    "file": "board-team.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Real board introduces self review",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 27,
+    "globalStart": 5253,
+    "globalEnd": 5280,
+    "chapter": "map"
+  },
+  {
+    "asset": "sticky-board",
+    "type": "photo",
+    "file": "sticky-board.jpg",
+    "start": 27,
+    "phrase": "ba nhóm",
+    "purpose": "Three task labels placed over an actual planning board",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 162,
+    "globalStart": 5280,
+    "globalEnd": 5415,
+    "chapter": "map"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 162,
+    "phrase": "Nhóm hai",
+    "purpose": "Record what needs human review",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 274,
+    "globalStart": 5415,
+    "globalEnd": 5527,
+    "chapter": "map"
+  },
+  {
+    "asset": "client-meeting",
+    "type": "photo",
+    "file": "client-meeting.jpg",
+    "start": 274,
+    "phrase": "Nhóm ba",
+    "purpose": "Human relationships and direct responsibility",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 522,
+    "globalStart": 5527,
+    "globalEnd": 5775,
+    "chapter": "map"
+  },
+  {
+    "asset": "colleagues",
+    "type": "photo",
+    "file": "colleagues.jpg",
+    "start": 522,
+    "phrase": "nhiệm vụ nào",
+    "purpose": "Discuss the specific task to change",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5028177833437695,
+    "end": 575,
+    "globalStart": 5775,
+    "globalEnd": 5828,
+    "chapter": "map"
+  },
+  {
+    "asset": "home-learning",
+    "type": "photo",
+    "file": "home-learning.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Small personal trial",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 87,
+    "globalStart": 5828,
+    "globalEnd": 5915,
+    "chapter": "experiment"
+  },
+  {
+    "asset": "v-typing",
+    "type": "video",
+    "file": "typing.mp4",
+    "start": 87,
+    "phrase": "nháp email",
+    "purpose": "A keyboard for writing the draft email",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 177,
+    "globalStart": 5915,
+    "globalEnd": 6005,
+    "chapter": "experiment"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 177,
+    "phrase": "mục tiêu, người đọc",
+    "purpose": "Written instructions and constraints",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 308,
+    "globalStart": 6005,
+    "globalEnd": 6136,
+    "chapter": "experiment"
+  },
+  {
+    "asset": "review-docs",
+    "type": "photo",
+    "file": "review-docs.jpg",
+    "start": 308,
+    "phrase": "để so sánh",
+    "purpose": "Actual documents represent before/after review",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.7421150278293135,
+    "end": 373,
+    "globalStart": 6136,
+    "globalEnd": 6201,
+    "chapter": "experiment"
+  },
+  {
+    "asset": "folders",
+    "type": "photo",
+    "file": "folders.jpg",
+    "start": 373,
+    "phrase": "dữ liệu nhạy cảm",
+    "purpose": "Folders/data rather than a decorative AI object",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.499063085571518,
+    "end": 462,
+    "globalStart": 6201,
+    "globalEnd": 6290,
+    "chapter": "experiment"
+  },
+  {
+    "asset": "review-team",
+    "type": "photo",
+    "file": "review-team-detail.jpg",
+    "start": 462,
+    "phrase": "phát hiện và sửa",
+    "purpose": "People review and correct together",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.0666666666666667,
+    "end": 505,
+    "globalStart": 6290,
+    "globalEnd": 6333,
+    "chapter": "experiment"
+  },
+  {
+    "asset": "v-worker",
+    "type": "video",
+    "file": "worker.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Doing the task at a computer",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 116,
+    "globalStart": 6333,
+    "globalEnd": 6449,
+    "chapter": "measure"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 116,
+    "phrase": "Ghi những lỗi",
+    "purpose": "Write down the errors",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 189,
+    "globalStart": 6449,
+    "globalEnd": 6522,
+    "chapter": "measure"
+  },
+  {
+    "asset": "calculator",
+    "type": "photo",
+    "file": "calculator.jpg",
+    "start": 189,
+    "phrase": "tiết kiệm thời gian",
+    "purpose": "Evaluate time and benefit",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 329,
+    "globalStart": 6522,
+    "globalEnd": 6662,
+    "chapter": "measure"
+  },
+  {
+    "asset": "board-team",
+    "type": "photo",
+    "file": "board-team.jpg",
+    "start": 329,
+    "phrase": "sửa cách giao việc",
+    "purpose": "Refine the instructions on a board",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 436,
+    "globalStart": 6662,
+    "globalEnd": 6769,
+    "chapter": "measure"
+  },
+  {
+    "asset": "colleagues",
+    "type": "photo",
+    "file": "colleagues.jpg",
+    "start": 436,
+    "phrase": "lặp lại đáng tin cậy",
+    "purpose": "Repeatable collaboration",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5028177833437695,
+    "end": 541,
+    "globalStart": 6769,
+    "globalEnd": 6874,
+    "chapter": "measure"
+  },
+  {
+    "asset": "home-learning",
+    "type": "photo",
+    "file": "home-learning.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Learning without needing to become an AI engineer",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 166,
+    "globalStart": 6874,
+    "globalEnd": 7040,
+    "chapter": "skills"
+  },
+  {
+    "asset": "learning",
+    "type": "photo",
+    "file": "learning.jpg",
+    "start": 166,
+    "phrase": "tư duy phân tích",
+    "purpose": "Adult learner coached by another person",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 195,
+    "globalStart": 7040,
+    "globalEnd": 7069,
+    "chapter": "skills"
+  },
+  {
+    "asset": "solar",
+    "type": "photo",
+    "file": "solar.jpg",
+    "start": 195,
+    "phrase": "kỹ năng công nghệ",
+    "purpose": "Technology skill in physical engineering work",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.499063085571518,
+    "end": 347,
+    "globalStart": 7069,
+    "globalEnd": 7221,
+    "chapter": "skills"
+  },
+  {
+    "asset": "review-team",
+    "type": "photo",
+    "file": "review-team-detail.jpg",
+    "start": 347,
+    "phrase": "hiểu nghề, biết kiểm tra",
+    "purpose": "Human expertise and checking",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.0666666666666667,
+    "end": 492,
+    "globalStart": 7221,
+    "globalEnd": 7366,
+    "chapter": "skills"
+  },
+  {
+    "asset": "asian-notes",
+    "type": "photo",
+    "file": "asian-notes.jpg",
+    "start": 492,
+    "phrase": "ngay hôm nay",
+    "purpose": "Taking notes and practising today",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 517,
+    "globalStart": 7366,
+    "globalEnd": 7391,
+    "chapter": "skills"
+  },
+  {
+    "asset": "folders",
+    "type": "photo",
+    "file": "folders.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Keeping work samples",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.499063085571518,
+    "end": 84,
+    "globalStart": 7391,
+    "globalEnd": 7475,
+    "chapter": "portfolio"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 84,
+    "phrase": "trước và sau",
+    "purpose": "Record the original request",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 168,
+    "globalStart": 7475,
+    "globalEnd": 7559,
+    "chapter": "portfolio"
+  },
+  {
+    "asset": "v-typing",
+    "type": "video",
+    "file": "typing.mp4",
+    "start": 168,
+    "phrase": "bản nháp của máy",
+    "purpose": "Writing and editing a draft",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 206,
+    "globalStart": 7559,
+    "globalEnd": 7597,
+    "chapter": "portfolio"
+  },
+  {
+    "asset": "review-docs",
+    "type": "photo",
+    "file": "review-docs.jpg",
+    "start": 206,
+    "phrase": "phần bạn sửa",
+    "purpose": "Annotated/checked material as contribution",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.7421150278293135,
+    "end": 337,
+    "globalStart": 7597,
+    "globalEnd": 7728,
+    "chapter": "portfolio"
+  },
+  {
+    "asset": "team-decision",
+    "type": "photo",
+    "file": "team-decision.jpg",
+    "start": 337,
+    "phrase": "đóng góp thật",
+    "purpose": "Show the work in a real discussion",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 465,
+    "globalStart": 7728,
+    "globalEnd": 7856,
+    "chapter": "portfolio"
+  },
+  {
+    "asset": "home-learning",
+    "type": "photo",
+    "file": "home-learning.jpg",
+    "start": 465,
+    "phrase": "khi nào dùng",
+    "purpose": "Choose when the tool helps",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 518,
+    "globalStart": 7856,
+    "globalEnd": 7909,
+    "chapter": "portfolio"
+  },
+  {
+    "asset": "v-office",
+    "type": "video",
+    "file": "office.mp4",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Responsibility at organization level",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 83,
+    "globalStart": 7909,
+    "globalEnd": 7992,
+    "chapter": "company"
+  },
+  {
+    "asset": "team-decision",
+    "type": "photo",
+    "file": "team-decision.jpg",
+    "start": 83,
+    "phrase": "Tổ chức cần",
+    "purpose": "A team plans the process",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 126,
+    "globalStart": 7992,
+    "globalEnd": 8035,
+    "chapter": "company"
+  },
+  {
+    "asset": "learning",
+    "type": "photo",
+    "file": "learning.jpg",
+    "start": 126,
+    "phrase": "thời gian đào tạo",
+    "purpose": "Real one-to-one training",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 170,
+    "globalStart": 8035,
+    "globalEnd": 8079,
+    "chapter": "company"
+  },
+  {
+    "asset": "review-team",
+    "type": "photo",
+    "file": "review-team-detail.jpg",
+    "start": 170,
+    "phrase": "tiêu chuẩn chất lượng",
+    "purpose": "Joint review for quality",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.0666666666666667,
+    "end": 388,
+    "globalStart": 8079,
+    "globalEnd": 8297,
+    "chapter": "company"
+  },
+  {
+    "asset": "file-stack",
+    "type": "photo",
+    "file": "file-stack.jpg",
+    "start": 388,
+    "phrase": "tạo thêm áp lực",
+    "purpose": "Staged paperwork load, no claim about the pictured worker",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 467,
+    "globalStart": 8297,
+    "globalEnd": 8376,
+    "chapter": "company"
+  },
+  {
+    "asset": "board-team",
+    "type": "photo",
+    "file": "board-team.jpg",
+    "start": 467,
+    "phrase": "đổi cách tổ chức",
+    "purpose": "People reorganize a task board",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.7777777777777777,
+    "end": 519,
+    "globalStart": 8376,
+    "globalEnd": 8428,
+    "chapter": "company"
+  },
+  {
+    "asset": "colleagues",
+    "type": "photo",
+    "file": "colleagues.jpg",
+    "start": 0,
+    "phrase": "",
+    "purpose": "Human collaboration",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5028177833437695,
+    "end": 82,
+    "globalStart": 8428,
+    "globalEnd": 8510,
+    "chapter": "closing"
+  },
+  {
+    "asset": "candidate",
+    "type": "photo",
+    "file": "candidate.jpg",
+    "start": 82,
+    "phrase": "Không có một câu trả lời chung",
+    "purpose": "Different people have different needs",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.5,
+    "end": 149,
+    "globalStart": 8510,
+    "globalEnd": 8577,
+    "chapter": "closing"
+  },
+  {
+    "asset": "notes",
+    "type": "photo",
+    "file": "notes.jpg",
+    "start": 149,
+    "phrase": "từng nhiệm vụ",
+    "purpose": "Focus on one written task",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.4981273408239701,
+    "end": 312,
+    "globalStart": 8577,
+    "globalEnd": 8740,
+    "chapter": "closing"
+  },
+  {
+    "asset": "review-team",
+    "type": "photo",
+    "file": "review-team-detail.jpg",
+    "start": 312,
+    "phrase": "sự hiểu biết và trách nhiệm",
+    "purpose": "Knowledge plus careful review",
+    "pan": 1,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 1.0666666666666667,
+    "end": 418,
+    "globalStart": 8740,
+    "globalEnd": 8846,
+    "chapter": "closing"
+  },
+  {
+    "asset": "home-learning",
+    "type": "photo",
+    "file": "home-learning.jpg",
+    "start": 418,
+    "phrase": "Ngày mai",
+    "purpose": "Close on an actual person learning and preparing",
+    "pan": 0,
+    "focus": [
+      50,
+      42
+    ],
+    "aspect": 0.6666666666666666,
+    "end": 572,
+    "globalStart": 8846,
+    "globalEnd": 9000,
+    "chapter": "closing"
+  }
+]

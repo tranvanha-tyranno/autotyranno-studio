@@ -1,0 +1,26 @@
+{
+  "source": {
+    "workflows\\reference-video\\cinematic\\src\\finance-reset-entry.tsx": "8a88df42f66ff5c5218c7e3621a661f9a92d69003c3f88066f54de7a0ff9a320",
+    "workflows\\reference-video\\finance_style_reset.py": "3072956ad323bb7864f9a2b4a58c8ff48605a9bcafb4a5c008c5b0e3c5f8c86d",
+    "workflows\\reference-video\\cinematic\\package.json": "817ef38ffce3cb49ca845c790fd9b0a7a75a73b75b2fdc9999a50e4ebc338d7f",
+    "workflows\\reference-video\\cinematic\\package-lock.json": "64af008d58c8b902cc63485a76ccdcd82a14f81d169b296bb5baa8730723f99c",
+    "workflows\\reference-video\\cinematic\\src\\finance-flow\\FlowFilm.tsx": "4b2779230a1121522ddd7087d88a1a83784bbceed173ee76809ded33c9ad92c8",
+    "workflows\\reference-video\\cinematic\\src\\finance-flow\\index.ts": "f3f1705b60646e19843130b1d76c21e5dca81bb59c73eb6f2121fbc73577b20e",
+    "workflows\\reference-video\\cinematic\\src\\finance-flow\\Objects.tsx": "f4c0a23fb333e94090763c837f19ca5338ff758a7a888c16ff06957f8577ca40",
+    "workflows\\reference-video\\cinematic\\src\\finance-flow\\README.md": "618b10b344ff2ebb378bd64d20248df2690eeaf4ec42e9a96f9a423143c47195",
+    "workflows\\reference-video\\cinematic\\src\\finance-flow\\timing.ts": "cb689cb8fb4f24e53fce33652d0e271d1010e5165c4cafb3183e83c25a4693b2",
+    "workflows\\reference-video\\cinematic\\src\\finance-comic\\ComicProof.tsx": "01a33c68d056e6460746d60dc6ae26492f01cef59f501ae0beddb483ed767a95",
+    "workflows\\reference-video\\cinematic\\src\\finance-cast-v2\\CandidateSheet.tsx": "c6cb501468f16210e9b5d2463195c32dc954a063dec7424dbc3c5acb15d679d4",
+    "workflows\\reference-video\\cinematic\\src\\finance-cast-v2\\CharacterV2.tsx": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59",
+    "workflows\\reference-video\\cinematic\\src\\finance-cast-v2\\index.ts": "f03ce0096514163b3d957a40af389b03af48a612f5a97da75f116911e5cfb110",
+    "workflows\\reference-video\\cinematic\\src\\finance-cast-v2\\README.md": "754f5779c9664ac678edf76336e61d9b5571f04d96c68152273c847066114c1b",
+    "workflows\\reference-video\\cinematic\\src\\finance-demo\\BudgetScene.tsx": "c35160c369e9e2f7445fc5f1d07ef58bb5ade839e3edf8366aa90958a790323d",
+    "workflows\\reference-video\\cinematic\\src\\finance-demo\\CastFilm.tsx": "389bd999714954ce118e6e94072e97b8b3e29247a85599dc9ac0a86b9c2c4f10",
+    "workflows\\reference-video\\cinematic\\src\\finance-demo\\DailyScene.tsx": "c1d03c38600db5ed0f1177906b43f03b35e9a6d17a4676092b9cc46862bb858c",
+    "workflows\\reference-video\\cinematic\\src\\finance-demo\\DecisionScene.tsx": "1a0c130cc62cb0b26c375f43972d7f06294b069e3841f506b2809cdcafeb32ce",
+    "workflows\\reference-video\\cinematic\\src\\finance-demo\\Stage.tsx": "ec6fbc13998715a9cd80c4797b678a1c428bb39fa47bc6e99106331ae3658f71",
+    "workflows\\reference-video\\cinematic\\src\\finance-demo\\types.ts": "cf6f04c76a7c76d03c75ab4a1a372c42d9b417d639f367008b7b256a54d4abeb"
+  },
+  "props": "2865d5d7c5288fa1ba80c7e4a0e2478ef2db72c23d9c587ae81b3d2b1aef866b",
+  "audio": "86398375492391a58406cdca22d8f7eca2f756d9ffb93ff384c792734d1bab28"
+}

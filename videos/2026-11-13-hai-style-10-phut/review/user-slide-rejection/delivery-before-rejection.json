@@ -1,0 +1,31 @@
+{
+  "title": "Lương tăng mà vẫn hết tiền: sửa dòng tiền trong 30 ngày",
+  "revision": "r03",
+  "durationSeconds": 591.4333333333333,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "videos": [
+    {
+      "style": "comic",
+      "file": "videos\\2026-11-13-hai-style-10-phut\\r03\\comic\\final.mp4",
+      "sha256": "56323734f34e88d86b5b2986ad92758163fcb5889f771b3e1712a38c68aad248",
+      "decodedFrames": 17743
+    },
+    {
+      "style": "flow",
+      "file": "videos\\2026-11-13-hai-style-10-phut\\r03\\flow\\final.mp4",
+      "sha256": "3f3199567060f922505af0609c96f58011679df3d9ad48a8664f1efcf3db24a4",
+      "decodedFrames": 17743
+    }
+  ],
+  "viewer": "http://127.0.0.1:8879/",
+  "technicalQA": "passed",
+  "sameDecodedAudio": true,
+  "userApproval": "pending",
+  "continuousAVReview": false,
+  "sources": "sources.json",
+  "benchmark": "r03/benchmark.json"
+}

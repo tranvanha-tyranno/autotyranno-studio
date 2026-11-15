@@ -1,0 +1,39 @@
+{
+  "schema": "china-variety-final-editorial-review/1",
+  "recordedUTC": "2026-11-13T07:01:54.724276+00:00",
+  "reviewer": "root",
+  "finalSHA256": "dbbb016a2a57107d4bc943059fa8e3eb41ff0f087f67604e399c370cab59620e",
+  "actualViewed": {
+    "midpoints": 51,
+    "contactFiles": [
+      "root-contact-1.jpg",
+      "root-contact-2.jpg",
+      "root-contact-3.jpg"
+    ],
+    "fiveSampleTemporalStrips": [
+      "t04",
+      "r02",
+      "f02",
+      "h03",
+      "d03",
+      "p06"
+    ]
+  },
+  "observations": [
+    "All51midpoints preserve authoredvisualtreatments seen inpreview; no blank/cutoffframe inviewedsamples.",
+    "Temporalassembly progresses fromexplodedparts→fit→inspection; escrowshowsbuyerpaymentthencontractorwaiting.",
+    "Ten tradeblocks separateinto7grey+3accentendresult, allunitsremainvisible.",
+    "Physicaljarcoins progress50/25/25 and explicitillustrativelabelstaysvisible.",
+    "Beijingparkcontext transitions toillustratedcare/workscopewithoutcallingparkahospital.",
+    "Liability movesAbeforeB, thenhandledratherthansimplyrelabeled.",
+    "Olddominantdonut/conveyor/ribbontemplatesarenotused; recurringhouse/factory/shopandsharedtitle/fontpaletteareintentionalcontinuity."
+  ],
+  "blockingIssuesInViewedSamples": [],
+  "limits": [
+    "Notcontinuousvideoorlisteningreview.",
+    "Sharedillustrativeartstyleandmanyupper-lefttitlesremain; no claimof51differentartstyles.",
+    "Noaestheticorretentionacceptancebyuserisassumed."
+  ],
+  "independentReview": "independent-diversity-review.json",
+  "userAcceptance": "pending"
+}

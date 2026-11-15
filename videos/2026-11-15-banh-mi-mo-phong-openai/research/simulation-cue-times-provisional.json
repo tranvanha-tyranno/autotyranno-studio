@@ -1,0 +1,1030 @@
+{
+  "schema": "bread-simulation-cue-timing/1",
+  "status": "provisional_NamMinh_existing_take_NOT_OpenAI",
+  "sourceTimeline": "videos/2026-11-14-banh-mi-documentary/timeline.json",
+  "sourceTimelineSHA256": "afef99d1ec3208317667e20ba72a687d0abca8a2339d97125d805b4cc019a7fb",
+  "fps": 30,
+  "durationFrames": 10733,
+  "voice": "vi-VN-NamMinhNeural",
+  "timingScope": "Existing provider word-boundary based character interpolation; exact source-script phrase matched to corresponding wordTimes. Whole-word boundaries, not acoustic forced alignment.",
+  "mustRecomputeAfterOpenAIAudio": true,
+  "units": [
+    {
+      "unitId": "b01",
+      "family": "money_split",
+      "unitStartFrame": 0,
+      "unitDurationFrames": 415,
+      "events": [
+        {
+          "spokenPhrase": "Ổ bánh tăng hai nghìn.",
+          "action": "The price tag changes20,000→22,000 and the extra2,000 travels out of the buyer side.",
+          "changedState": "Customer outlay rises2,000.",
+          "startSeconds": 0.1,
+          "endSeconds": 1.292125,
+          "localStartSeconds": 0.1,
+          "localEndSeconds": 1.292125,
+          "startFrame": 3,
+          "endFrameExclusive": 39
+        },
+        {
+          "spokenPhrase": "người bán lại giữ được ít hơn năm trăm đồng",
+          "action": "The seller remainder changes3,000→2,500 and a500 difference leaves the remainder.",
+          "changedState": "Customer outlay and seller retained amount move in opposite directions.",
+          "startSeconds": 2.341666,
+          "endSeconds": 4.517582,
+          "localStartSeconds": 2.341666,
+          "localEndSeconds": 4.517582,
+          "startFrame": 70,
+          "endFrameExclusive": 136
+        },
+        {
+          "spokenPhrase": "Vì sao cả hai vẫn thấy khó hơn?",
+          "action": "Keep only the two conflicting outcomes and the same bread, opening the unanswered route between them.",
+          "changedState": "A concrete unresolved relation, not a title card.",
+          "startSeconds": 11.311583,
+          "endSeconds": 13.047707,
+          "localStartSeconds": 11.311583,
+          "localEndSeconds": 13.047707,
+          "startFrame": 339,
+          "endFrameExclusive": 392
+        }
+      ]
+    },
+    {
+      "unitId": "b02",
+      "family": null,
+      "unitStartFrame": 415,
+      "unitDurationFrames": 404,
+      "events": [
+        {
+          "spokenPhrase": "tiệm bánh giả định của chị Hạnh",
+          "action": "Use a short in-scene hypothetical label without a disclaimer screen.",
+          "changedState": "Scope established inside the story.",
+          "startSeconds": 14.725916,
+          "endSeconds": 16.276832,
+          "localStartSeconds": 0.8925826666666659,
+          "localEndSeconds": 2.443498666666665,
+          "startFrame": 442,
+          "endFrameExclusive": 489
+        },
+        {
+          "spokenPhrase": "bảng giá, hóa đơn đầu vào, và tiền người mua kiếm được",
+          "action": "Briefly show the corresponding three objects in that spoken order.",
+          "changedState": "Three concrete objects, not three abstract dashboard cards.",
+          "startSeconds": 23.452791,
+          "endSeconds": 26.531499,
+          "localStartSeconds": 9.619457666666667,
+          "localEndSeconds": 12.698165666666666,
+          "startFrame": 704,
+          "endFrameExclusive": 796
+        }
+      ]
+    },
+    {
+      "unitId": "b03",
+      "family": "money_split",
+      "unitStartFrame": 819,
+      "unitDurationFrames": 410,
+      "events": [
+        {
+          "spokenPhrase": "một ổ bán hai mươi nghìn",
+          "action": "Show the whole20,000 payment before splitting.",
+          "changedState": "The viewer knows the total and unit.",
+          "startSeconds": 28.475916,
+          "endSeconds": 29.830083,
+          "localStartSeconds": 1.1759160000000008,
+          "localEndSeconds": 2.5300829999999976,
+          "startFrame": 854,
+          "endFrameExclusive": 895
+        },
+        {
+          "spokenPhrase": "hết mười hai nghìn",
+          "action": "Route12,000 into ingredients/variable costs.",
+          "changedState": "8,000 still unallocated.",
+          "startSeconds": 32.596291,
+          "endSeconds": 33.441207,
+          "localStartSeconds": 5.296291,
+          "localEndSeconds": 6.141206999999998,
+          "startFrame": 978,
+          "endFrameExclusive": 1004
+        },
+        {
+          "spokenPhrase": "được chia ra năm nghìn một ổ",
+          "action": "Take5,000 into fixed allocation; the quantity/sales assumption stays pinned.",
+          "changedState": "3,000 remains after the modeled costs.",
+          "startSeconds": 35.594,
+          "endSeconds": 37.098624,
+          "localStartSeconds": 8.294,
+          "localEndSeconds": 9.798624,
+          "startFrame": 1068,
+          "endFrameExclusive": 1113
+        },
+        {
+          "spokenPhrase": "Còn ba nghìn.",
+          "action": "Isolate the physical3,000 remainder without a profit label.",
+          "changedState": "Arithmetic has unfolded, not appeared as a completed table.",
+          "startSeconds": 39.332416,
+          "endSeconds": 40.177291,
+          "localStartSeconds": 12.032416000000001,
+          "localEndSeconds": 12.877290999999996,
+          "startFrame": 1180,
+          "endFrameExclusive": 1206
+        }
+      ]
+    },
+    {
+      "unitId": "b04",
+      "family": "cost_ledger",
+      "unitStartFrame": 1229,
+      "unitDurationFrames": 353,
+      "events": [
+        {
+          "spokenPhrase": "Khoan gọi ba nghìn ấy là tiền bỏ túi.",
+          "action": "Stop the3,000 moving toward an owner pocket; reopen it as an unfinished subtotal.",
+          "changedState": "The remainder is explicitly provisional.",
+          "startSeconds": 40.952791,
+          "endSeconds": 43.012957,
+          "localStartSeconds": -0.013875666666670838,
+          "localEndSeconds": 2.0462903333333315,
+          "startFrame": 1229,
+          "endFrameExclusive": 1291
+        },
+        {
+          "spokenPhrase": "thuế, khấu hao và công của chủ tiệm",
+          "action": "Add three unpriced/unfilled ledger lines, not invented costs.",
+          "changedState": "Viewer sees what the model excludes.",
+          "startSeconds": 45.073166,
+          "endSeconds": 47.110207,
+          "localStartSeconds": 4.106499333333332,
+          "localEndSeconds": 6.143540333333334,
+          "startFrame": 1352,
+          "endFrameExclusive": 1414
+        },
+        {
+          "spokenPhrase": "so trước với sau",
+          "action": "Pin the same scope to both before/after states.",
+          "changedState": "Comparison remains valid only within this limited model.",
+          "startSeconds": 49.043041,
+          "endSeconds": 49.876374,
+          "localStartSeconds": 8.076374333333334,
+          "localEndSeconds": 8.90970733333333,
+          "startFrame": 1471,
+          "endFrameExclusive": 1497
+        }
+      ]
+    },
+    {
+      "unitId": "b05",
+      "family": "money_split",
+      "unitStartFrame": 1582,
+      "unitDurationFrames": 449,
+      "events": [
+        {
+          "spokenPhrase": "thành mười bốn nghìn năm trăm",
+          "action": "Variable cost grows12,000→14,500 while sale is still20,000.",
+          "changedState": "Remainder shrinks3,000→500.",
+          "startSeconds": 55.038416,
+          "endSeconds": 56.346291,
+          "localStartSeconds": 2.3050826666666637,
+          "localEndSeconds": 3.6129576666666665,
+          "startFrame": 1651,
+          "endFrameExclusive": 1691
+        },
+        {
+          "spokenPhrase": "Nếu giữ giá cũ",
+          "action": "Pause on the20,000 sale/500 remainder result.",
+          "changedState": "The counterfactual is legible before the decision.",
+          "startSeconds": 57.12175,
+          "endSeconds": 58.337041,
+          "localStartSeconds": 4.388416666666664,
+          "localEndSeconds": 5.603707666666665,
+          "startFrame": 1714,
+          "endFrameExclusive": 1751
+        },
+        {
+          "spokenPhrase": "đổi bảng lên hai mươi hai nghìn",
+          "action": "Sale changes20,000→22,000;2,000 refills part of the lost remainder.",
+          "changedState": "Remainder recovers500→2,500 but remains below3,000.",
+          "startSeconds": 61.450458,
+          "endSeconds": 62.931958,
+          "localStartSeconds": 8.717124666666663,
+          "localEndSeconds": 10.198624666666667,
+          "startFrame": 1844,
+          "endFrameExclusive": 1888
+        },
+        {
+          "spokenPhrase": "đầu vào đã tăng hai nghìn năm trăm",
+          "action": "Lay +2,000 received against +2,500 costs.",
+          "changedState": "500 gap explains the paradox.",
+          "startSeconds": 65.304625,
+          "endSeconds": 66.936582,
+          "localStartSeconds": 12.571291666666667,
+          "localEndSeconds": 14.203248666666667,
+          "startFrame": 1959,
+          "endFrameExclusive": 2009
+        }
+      ]
+    },
+    {
+      "unitId": "b06",
+      "family": "money_split",
+      "unitStartFrame": 2031,
+      "unitDurationFrames": 447,
+      "events": [
+        {
+          "spokenPhrase": "từ ba nghìn, tiệm chỉ còn hai nghìn năm trăm",
+          "action": "Before/after remainders align to the same baseline.",
+          "changedState": "A500 shortfall is seen directly.",
+          "startSeconds": 68.406458,
+          "endSeconds": 70.709707,
+          "localStartSeconds": 0.7064579999999978,
+          "localEndSeconds": 3.0097069999999917,
+          "startFrame": 2052,
+          "endFrameExclusive": 2122
+        },
+        {
+          "spokenPhrase": "Hai nghìn tăng thêm không biến mất.",
+          "action": "The highlighted2,000 travels visibly into the2,500 extra-cost requirement.",
+          "changedState": "The money has an explained destination.",
+          "startSeconds": 71.311583,
+          "endSeconds": 72.816166,
+          "localStartSeconds": 3.611582999999996,
+          "localEndSeconds": 5.116165999999993,
+          "startFrame": 2139,
+          "endFrameExclusive": 2185
+        },
+        {
+          "spokenPhrase": "Nó chưa bù hết phần chi phí tăng.",
+          "action": "Leave the500 uncovered notch in the extra-cost route.",
+          "changedState": "The explanatory result appears as a physical gap, not a slogan.",
+          "startSeconds": 73.591666,
+          "endSeconds": 75.570833,
+          "localStartSeconds": 5.891666000000001,
+          "localEndSeconds": 7.87083299999999,
+          "startFrame": 2208,
+          "endFrameExclusive": 2268
+        }
+      ]
+    },
+    {
+      "unitId": "b07",
+      "family": null,
+      "unitStartFrame": 2478,
+      "unitDurationFrames": 444,
+      "events": [
+        {
+          "spokenPhrase": "muốn kết luận phải có sổ thật",
+          "action": "The illustrative ledger withdraws; real-world context is shown without asserting a particular shop outcome.",
+          "changedState": "Scope of inference is clear.",
+          "startSeconds": 88.788416,
+          "endSeconds": 90.154166,
+          "localStartSeconds": 6.188416000000004,
+          "localEndSeconds": 7.554166000000009,
+          "startFrame": 2664,
+          "endFrameExclusive": 2705
+        },
+        {
+          "spokenPhrase": "tại sao bảng giá không quay về hai mươi nghìn?",
+          "action": "A20,000 reference mark appears beside the present22,000 label without resetting it.",
+          "changedState": "The new question is rate versus level.",
+          "startSeconds": 94.517583,
+          "endSeconds": 96.381,
+          "localStartSeconds": 11.917583000000008,
+          "localEndSeconds": 13.781000000000006,
+          "startFrame": 2836,
+          "endFrameExclusive": 2892
+        }
+      ]
+    },
+    {
+      "unitId": "b08",
+      "family": "price_level",
+      "unitStartFrame": 2922,
+      "unitDurationFrames": 457,
+      "events": [
+        {
+          "spokenPhrase": "Từ hai mươi lên hai mươi hai nghìn",
+          "action": "Move the loaf/price marker up from20,000 to22,000; label +10%.",
+          "changedState": "First increase is complete.",
+          "startSeconds": 101.100416,
+          "endSeconds": 102.767083,
+          "localStartSeconds": 3.70041599999999,
+          "localEndSeconds": 5.367082999999994,
+          "startFrame": 3033,
+          "endFrameExclusive": 3084
+        },
+        {
+          "spokenPhrase": "Nếu kỳ sau chỉ tăng hai phần trăm",
+          "action": "Continue a smaller positive rise; change the rate, not the baseline.",
+          "changedState": "Second increment is applied to22,000.",
+          "startSeconds": 104.61895799999999,
+          "endSeconds": 106.49395799999999,
+          "localStartSeconds": 7.218957999999986,
+          "localEndSeconds": 9.093957999999986,
+          "startFrame": 3139,
+          "endFrameExclusive": 3195
+        },
+        {
+          "spokenPhrase": "hai mươi hai nghìn bốn trăm bốn mươi",
+          "action": "Land exactly on22,440, leaving20,000 as reference.",
+          "changedState": "A smaller positive rate produces a still-higher level.",
+          "startSeconds": 109.503208,
+          "endSeconds": 110.92683199999999,
+          "localStartSeconds": 12.103207999999995,
+          "localEndSeconds": 13.526831999999985,
+          "startFrame": 3285,
+          "endFrameExclusive": 3328
+        }
+      ]
+    },
+    {
+      "unitId": "b09",
+      "family": "price_level",
+      "unitStartFrame": 3379,
+      "unitDurationFrames": 400,
+      "events": [
+        {
+          "spokenPhrase": "Tỷ lệ đã hạ từ mười xuống hai.",
+          "action": "Rate indicator shrinks10→2.",
+          "changedState": "A slower pace is seen.",
+          "startSeconds": 112.628208,
+          "endSeconds": 114.318,
+          "localStartSeconds": -0.005125333333339199,
+          "localEndSeconds": 1.6846666666666579,
+          "startFrame": 3379,
+          "endFrameExclusive": 3430
+        },
+        {
+          "spokenPhrase": "Số tiền phải trả vẫn tăng.",
+          "action": "Follow the price marker upward to22,440.",
+          "changedState": "The price level keeps rising.",
+          "startSeconds": 115.0935,
+          "endSeconds": 116.551791,
+          "localStartSeconds": 2.460166666666666,
+          "localEndSeconds": 3.9184576666666544,
+          "startFrame": 3453,
+          "endFrameExclusive": 3497
+        },
+        {
+          "spokenPhrase": "Hai việc ấy khác nhau.",
+          "action": "Contrast a smaller upward step with an actual downward step drawn only as a rejected expectation.",
+          "changedState": "Viewer can distinguish disinflation from a price fall.",
+          "startSeconds": 123.947666,
+          "endSeconds": 125.186082,
+          "localStartSeconds": 11.314332666666658,
+          "localEndSeconds": 12.552748666666659,
+          "startFrame": 3718,
+          "endFrameExclusive": 3756
+        }
+      ]
+    },
+    {
+      "unitId": "b10",
+      "family": "basket_scope",
+      "unitStartFrame": 3779,
+      "unitDurationFrames": 385,
+      "events": [
+        {
+          "spokenPhrase": "Một ổ bánh không đại diện cho lạm phát cả nước.",
+          "action": "Camera pulls back to show bread among rent/transport/food/service objects.",
+          "changedState": "Bread-only example is visibly a subset.",
+          "startSeconds": 125.961541,
+          "endSeconds": 128.357375,
+          "localStartSeconds": -0.005125666666671691,
+          "localEndSeconds": 2.390708333333322,
+          "startFrame": 3779,
+          "endFrameExclusive": 3851
+        },
+        {
+          "spokenPhrase": "một rổ nhiều hàng hóa và dịch vụ",
+          "action": "Objects occupy qualitative positions with no pie percentages.",
+          "changedState": "Scope broadens without creating a new numerical model.",
+          "startSeconds": 129.966166,
+          "endSeconds": 131.609708,
+          "localStartSeconds": 3.9994993333333184,
+          "localEndSeconds": 5.643041333333343,
+          "startFrame": 3899,
+          "endFrameExclusive": 3949
+        },
+        {
+          "spokenPhrase": "nó cộng lên phần giá đã tăng từ trước",
+          "action": "Return to the original bread track and add the new increment on its previous endpoint.",
+          "changedState": "The conceptual scope note reinforces the same spine.",
+          "startSeconds": 136.26245799999998,
+          "endSeconds": 138.021749,
+          "localStartSeconds": 10.295791333333312,
+          "localEndSeconds": 12.055082333333331,
+          "startFrame": 4088,
+          "endFrameExclusive": 4141
+        }
+      ]
+    },
+    {
+      "unitId": "b11",
+      "family": "inventory",
+      "unitStartFrame": 4164,
+      "unitDurationFrames": 500,
+      "events": [
+        {
+          "spokenPhrase": "tự suy ra bao bột, tiền thuê và tiền điện của mình đã về giá cũ",
+          "action": "A generic smaller-rate marker moves past dated documents without changing their amounts.",
+          "changedState": "Macro rate does not automatically rewrite individual costs.",
+          "startSeconds": 142.003208,
+          "endSeconds": 145.232374,
+          "localStartSeconds": 3.2032079999999894,
+          "localEndSeconds": 6.432373999999982,
+          "startFrame": 4260,
+          "endFrameExclusive": 4357
+        },
+        {
+          "spokenPhrase": "một hóa đơn thực sự giảm",
+          "action": "A new flour invoice is visibly replaced by a lower qualitative cost state.",
+          "changedState": "Now the input really has changed.",
+          "startSeconds": 146.632833,
+          "endSeconds": 147.882833,
+          "localStartSeconds": 7.832832999999994,
+          "localEndSeconds": 9.082832999999994,
+          "startFrame": 4399,
+          "endFrameExclusive": 4437
+        },
+        {
+          "spokenPhrase": "khách có được chờ bánh rẻ lại không?",
+          "action": "Follow the invoice toward the same bread price, stopping before changing it.",
+          "changedState": "Cause and possible pass-through remain to be explained.",
+          "startSeconds": 152.87125,
+          "endSeconds": 154.410583,
+          "localStartSeconds": 14.071249999999992,
+          "localEndSeconds": 15.610582999999991,
+          "startFrame": 4586,
+          "endFrameExclusive": 4633
+        }
+      ]
+    },
+    {
+      "unitId": "b12",
+      "family": "inventory",
+      "unitStartFrame": 4664,
+      "unitDurationFrames": 402,
+      "events": [
+        {
+          "spokenPhrase": "lô mua trước, giá cao",
+          "action": "Highlight old dated sack and its invoice; route flour into the current batch.",
+          "changedState": "Today’s cost follows the actual lot being used.",
+          "startSeconds": 158.616,
+          "endSeconds": 160.14379100000002,
+          "localStartSeconds": 3.1493333333333453,
+          "localEndSeconds": 4.677124333333353,
+          "startFrame": 4758,
+          "endFrameExclusive": 4805
+        },
+        {
+          "spokenPhrase": "Hóa đơn mới thấp hơn",
+          "action": "Place the new cheaper sack in the receiving area, keeping it out of today’s batch.",
+          "changedState": "A newer invoice exists without changing the current input lot.",
+          "startSeconds": 160.91925,
+          "endSeconds": 161.98408300000003,
+          "localStartSeconds": 5.452583333333337,
+          "localEndSeconds": 6.517416333333358,
+          "startFrame": 4828,
+          "endFrameExclusive": 4860
+        },
+        {
+          "spokenPhrase": "một độ trễ có thể có",
+          "action": "Advance the new sack only into a later batch, with a possible marker.",
+          "changedState": "The lag is a conditional process, not a permanent excuse.",
+          "startSeconds": 164.993333,
+          "endSeconds": 166.173874,
+          "localStartSeconds": 9.526666333333338,
+          "localEndSeconds": 10.707207333333344,
+          "startFrame": 4950,
+          "endFrameExclusive": 4986
+        }
+      ]
+    },
+    {
+      "unitId": "b13",
+      "family": "cost_ledger",
+      "unitStartFrame": 5066,
+      "unitDurationFrames": 458,
+      "events": [
+        {
+          "spokenPhrase": "Tiền thuê vẫn theo hợp đồng.",
+          "action": "The rent document stays locked in place while flour shrinks.",
+          "changedState": "Some costs do not move with the newest flour invoice.",
+          "startSeconds": 171.845166,
+          "endSeconds": 173.129916,
+          "localStartSeconds": 2.978499333333332,
+          "localEndSeconds": 4.263249333333334,
+          "startFrame": 5155,
+          "endFrameExclusive": 5194
+        },
+        {
+          "spokenPhrase": "Lương người phụ bán đã thỏa thuận.",
+          "action": "Wage commitment remains, distinct from the later hypothetical wage comparison.",
+          "changedState": "Another retained cost component is visible.",
+          "startSeconds": 173.90537500000002,
+          "endSeconds": 175.49104100000002,
+          "localStartSeconds": 5.0387083333333464,
+          "localEndSeconds": 6.62437433333335,
+          "startFrame": 5217,
+          "endFrameExclusive": 5265
+        },
+        {
+          "spokenPhrase": "Một dòng giảm chưa có nghĩa tổng chi phí",
+          "action": "Route all expense lines into a total bracket while changing only the flour line.",
+          "changedState": "The sign of the total cannot be inferred from a single line.",
+          "startSeconds": 179.81970800000002,
+          "endSeconds": 181.787291,
+          "localStartSeconds": 10.953041333333346,
+          "localEndSeconds": 12.920624333333336,
+          "startFrame": 5395,
+          "endFrameExclusive": 5454
+        }
+      ]
+    },
+    {
+      "unitId": "b14",
+      "family": "cost_ledger",
+      "unitStartFrame": 5524,
+      "unitDurationFrames": 461,
+      "events": [
+        {
+          "spokenPhrase": "nếu tổng chi phí đã giảm thật",
+          "action": "Shrink the whole cost requirement, not just the flour piece.",
+          "changedState": "This counterfactual differs from b13.",
+          "startSeconds": 188.77804100000003,
+          "endSeconds": 190.19012500000002,
+          "localStartSeconds": 4.644707666666704,
+          "localEndSeconds": 6.056791666666697,
+          "startFrame": 5663,
+          "endFrameExclusive": 5706
+        },
+        {
+          "spokenPhrase": "lượng bán vẫn như cũ",
+          "action": "Keep the number of breads/payments unchanged.",
+          "changedState": "Volume is held constant.",
+          "startSeconds": 190.36370800000003,
+          "endSeconds": 191.555833,
+          "localStartSeconds": 6.230374666666705,
+          "localEndSeconds": 7.422499666666681,
+          "startFrame": 5711,
+          "endFrameExclusive": 5747
+        },
+        {
+          "spokenPhrase": "chị Hạnh giữ giá",
+          "action": "The selling-price marker stays fixed.",
+          "changedState": "Revenue per bread stays fixed.",
+          "startSeconds": 191.8915,
+          "endSeconds": 192.817416,
+          "localStartSeconds": 7.758166666666682,
+          "localEndSeconds": 8.684082666666683,
+          "startFrame": 5757,
+          "endFrameExclusive": 5785
+        },
+        {
+          "spokenPhrase": "Khoảng dư có thể tăng.",
+          "action": "Release the space previously occupied by cost into the remainder.",
+          "changedState": "A conditional larger remainder is the outcome.",
+          "startSeconds": 194.20629100000002,
+          "endSeconds": 195.352124,
+          "localStartSeconds": 10.072957666666696,
+          "localEndSeconds": 11.218790666666678,
+          "startFrame": 5826,
+          "endFrameExclusive": 5861
+        }
+      ]
+    },
+    {
+      "unitId": "b15",
+      "family": "competition",
+      "unitStartFrame": 5985,
+      "unitDurationFrames": 494,
+      "events": [
+        {
+          "spokenPhrase": "bánh tương đương, rẻ hơn và dễ mua",
+          "action": "Open a route to comparable bread with a lower relative tag, no invented new numeric price.",
+          "changedState": "Switching is feasible.",
+          "startSeconds": 202.747958,
+          "endSeconds": 204.73870800000003,
+          "localStartSeconds": 3.2479580000000112,
+          "localEndSeconds": 5.238708000000031,
+          "startFrame": 6082,
+          "endFrameExclusive": 6143
+        },
+        {
+          "spokenPhrase": "cân nhắc mất khách",
+          "action": "Order tokens turn toward the alternative; original shop has fewer arriving orders.",
+          "changedState": "Competition changes the shop’s incentive.",
+          "startSeconds": 205.50258300000002,
+          "endSeconds": 206.254916,
+          "localStartSeconds": 6.0025830000000155,
+          "localEndSeconds": 6.754916000000009,
+          "startFrame": 6165,
+          "endFrameExclusive": 6188
+        },
+        {
+          "spokenPhrase": "khách khó chuyển chỗ mua",
+          "action": "Show the same route as obstructed/inconvenient in a second conditional state.",
+          "changedState": "Switching pressure becomes weaker.",
+          "startSeconds": 207.458625,
+          "endSeconds": 208.662291,
+          "localStartSeconds": 7.958625000000012,
+          "localEndSeconds": 9.16229100000001,
+          "startFrame": 6224,
+          "endFrameExclusive": 6260
+        },
+        {
+          "spokenPhrase": "không chỉ phép cộng trên hóa đơn",
+          "action": "Rejoin the invoice decision with the customer-choice route.",
+          "changedState": "Price-setting has both cost and demand conditions.",
+          "startSeconds": 213.673875,
+          "endSeconds": 215.17849900000002,
+          "localStartSeconds": 14.17387500000001,
+          "localEndSeconds": 15.678499000000016,
+          "startFrame": 6410,
+          "endFrameExclusive": 6456
+        }
+      ]
+    },
+    {
+      "unitId": "b16",
+      "family": null,
+      "unitStartFrame": 6479,
+      "unitDurationFrames": 432,
+      "events": [
+        {
+          "spokenPhrase": "tổng chi phí đã đổi bao nhiêu",
+          "action": "Receipt side remains in view long enough to recall the cost question.",
+          "changedState": "Question one is anchored.",
+          "startSeconds": 221.08129100000002,
+          "endSeconds": 222.516499,
+          "localStartSeconds": 5.114624333333353,
+          "localEndSeconds": 6.549832333333342,
+          "startFrame": 6632,
+          "endFrameExclusive": 6676
+        },
+        {
+          "spokenPhrase": "khách có lựa chọn nào?",
+          "action": "Reveal nearby shop/customer decision context.",
+          "changedState": "Question two has an object.",
+          "startSeconds": 222.88683300000002,
+          "endSeconds": 223.84749900000003,
+          "localStartSeconds": 6.920166333333356,
+          "localEndSeconds": 7.880832333333359,
+          "startFrame": 6687,
+          "endFrameExclusive": 6716
+        },
+        {
+          "spokenPhrase": "chiếc ví của người mua",
+          "action": "A hand opens wallet/pay envelope, leading into income.",
+          "changedState": "Camera follows the reasoning to the next viewpoint.",
+          "startSeconds": 228.164625,
+          "endSeconds": 229.321999,
+          "localStartSeconds": 12.197958333333332,
+          "localEndSeconds": 13.355332333333337,
+          "startFrame": 6845,
+          "endFrameExclusive": 6880
+        }
+      ]
+    },
+    {
+      "unitId": "b17",
+      "family": "bread_power",
+      "unitStartFrame": 6911,
+      "unitDurationFrames": 418,
+      "events": [
+        {
+          "spokenPhrase": "đúng kỳ chiếc bánh tăng từ hai mươi lên hai mươi hai nghìn",
+          "action": "Select only the original price period.",
+          "changedState": "No accidental use of the later22,440 price.",
+          "startSeconds": 230.772666,
+          "endSeconds": 233.365249,
+          "localStartSeconds": 0.4059993333333125,
+          "localEndSeconds": 2.9985823333333315,
+          "startFrame": 6923,
+          "endFrameExclusive": 7001
+        },
+        {
+          "spokenPhrase": "từ mười triệu lên mười triệu rưỡi",
+          "action": "A pay envelope grows10m→10.5m.",
+          "changedState": "Nominal income rises5%.",
+          "startSeconds": 236.937958,
+          "endSeconds": 238.442583,
+          "localStartSeconds": 6.571291333333335,
+          "localEndSeconds": 8.075916333333339,
+          "startFrame": 7108,
+          "endFrameExclusive": 7154
+        },
+        {
+          "spokenPhrase": "giá bữa sáng đã tăng nhanh hơn lương",
+          "action": "Compare the +10% price increment to the +5% income increment, with units explicit.",
+          "changedState": "The mismatch is seen before dividing quantities.",
+          "startSeconds": 241.833791,
+          "endSeconds": 243.523583,
+          "localStartSeconds": 11.467124333333317,
+          "localEndSeconds": 13.156916333333328,
+          "startFrame": 7255,
+          "endFrameExclusive": 7306
+        }
+      ]
+    },
+    {
+      "unitId": "b18",
+      "family": "bread_power",
+      "unitStartFrame": 7329,
+      "unitDurationFrames": 517,
+      "events": [
+        {
+          "spokenPhrase": "Mười triệu tương đương năm trăm ổ giá cũ.",
+          "action": "The old income fills the capacity grid to500 at20k/unit.",
+          "changedState": "Baseline quantity is established.",
+          "startSeconds": 247.215708,
+          "endSeconds": 249.414791,
+          "localStartSeconds": 2.915707999999995,
+          "localEndSeconds": 5.114790999999997,
+          "startFrame": 7416,
+          "endFrameExclusive": 7483
+        },
+        {
+          "spokenPhrase": "khoảng bốn trăm bảy mươi bảy ổ giá mới",
+          "action": "Apply10.5m/22k and withdraw22.7 bread-equivalent capacity.",
+          "changedState": "Higher income buys fewer same-type units.",
+          "startSeconds": 251.544416,
+          "endSeconds": 253.44258200000002,
+          "localStartSeconds": 7.244416000000001,
+          "localEndSeconds": 9.142582000000004,
+          "startFrame": 7546,
+          "endFrameExclusive": 7604
+        },
+        {
+          "spokenPhrase": "Không ai cần đem toàn bộ lương đi mua bánh.",
+          "action": "The rack becomes an explicit measuring scale rather than a literal shopping cart or monthly diet.",
+          "changedState": "Viewer sees a ratio, not an assumed household budget.",
+          "startSeconds": 254.218041,
+          "endSeconds": 256.463416,
+          "localStartSeconds": 9.918040999999988,
+          "localEndSeconds": 12.163415999999984,
+          "startFrame": 7627,
+          "endFrameExclusive": 7694
+        },
+        {
+          "spokenPhrase": "thu nhập mỗi kỳ đổi được bao nhiêu",
+          "action": "Pin both divisions in compact sequential notation.",
+          "changedState": "The changed capacity has a transparent calculation.",
+          "startSeconds": 258.326833,
+          "endSeconds": 259.796707,
+          "localStartSeconds": 14.02683300000001,
+          "localEndSeconds": 15.496707000000015,
+          "startFrame": 7750,
+          "endFrameExclusive": 7794
+        }
+      ]
+    },
+    {
+      "unitId": "b19",
+      "family": "bread_power",
+      "unitStartFrame": 7846,
+      "unitDurationFrames": 470,
+      "events": [
+        {
+          "spokenPhrase": "giảm khoảng bốn phẩy năm phần trăm",
+          "action": "Show (477.27/500−1)×100≈−4.5% attached only to bread purchasing power.",
+          "changedState": "Correct relative change is explicit.",
+          "startSeconds": 263.847666,
+          "endSeconds": 265.39858300000003,
+          "localStartSeconds": 2.314332666666644,
+          "localEndSeconds": 3.8652496666666707,
+          "startFrame": 7915,
+          "endFrameExclusive": 7962
+        },
+        {
+          "spokenPhrase": "Nhìn từ quầy bán",
+          "action": "Restore3,000→2,500 with its own label/unit.",
+          "changedState": "Seller result is recalled without mixing percentages.",
+          "startSeconds": 269.333791,
+          "endSeconds": 270.329124,
+          "localStartSeconds": 7.800457666666659,
+          "localEndSeconds": 8.795790666666619,
+          "startFrame": 8080,
+          "endFrameExclusive": 8110
+        },
+        {
+          "spokenPhrase": "Nhìn từ người làm công",
+          "action": "Return to500→477.3 capacity on the opposite side.",
+          "changedState": "Two pressures coexist around one bread and one price change.",
+          "startSeconds": 272.817583,
+          "endSeconds": 273.99816599999997,
+          "localStartSeconds": 11.284249666666653,
+          "localEndSeconds": 12.46483266666661,
+          "startFrame": 8185,
+          "endFrameExclusive": 8220
+        }
+      ]
+    },
+    {
+      "unitId": "b20",
+      "family": "basket_scope",
+      "unitStartFrame": 8316,
+      "unitDurationFrames": 491,
+      "events": [
+        {
+          "spokenPhrase": "Đời sống thật không chỉ có bánh mì.",
+          "action": "Pull back to show other spending objects.",
+          "changedState": "The bread-only limitation is immediately visible.",
+          "startSeconds": 277.204166,
+          "endSeconds": 278.951833,
+          "localStartSeconds": 0.004165999999997894,
+          "localEndSeconds": 1.7518330000000333,
+          "startFrame": 8316,
+          "endFrameExclusive": 8369
+        },
+        {
+          "spokenPhrase": "cùng một giỏ chi tiêu với lượng và chất lượng tương đương",
+          "action": "Pair before/after baskets with identical objects and quantities; leave all prices blank.",
+          "changedState": "Fair comparison requires a consistent basket.",
+          "startSeconds": 285.745833,
+          "endSeconds": 288.106916,
+          "localStartSeconds": 8.545833000000016,
+          "localEndSeconds": 10.906916000000024,
+          "startFrame": 8572,
+          "endFrameExclusive": 8644
+        },
+        {
+          "spokenPhrase": "không phải chiếc máy đo toàn bộ đời sống",
+          "action": "Keep the bread measure as a labeled subset.",
+          "changedState": "No new CPI or household inflation number has been invented.",
+          "startSeconds": 290.884708,
+          "endSeconds": 292.782832,
+          "localStartSeconds": 13.684708,
+          "localEndSeconds": 15.582831999999996,
+          "startFrame": 8727,
+          "endFrameExclusive": 8784
+        }
+      ]
+    },
+    {
+      "unitId": "b21",
+      "family": "basket_scope",
+      "unitStartFrame": 8807,
+      "unitDurationFrames": 463,
+      "events": [
+        {
+          "spokenPhrase": "những khoản anh mua nhiều tăng nhanh",
+          "action": "Highlight the frequently bought category and a relative cost pressure marker.",
+          "changedState": "Exposure depends on what the person buys.",
+          "startSeconds": 293.974958,
+          "endSeconds": 295.491166,
+          "localStartSeconds": 0.4082913333333522,
+          "localEndSeconds": 1.9244993333333582,
+          "startFrame": 8819,
+          "endFrameExclusive": 8865
+        },
+        {
+          "spokenPhrase": "Nhà khác chi tiêu khác",
+          "action": "Shift attention to another qualitative basket with a different emphasized item.",
+          "changedState": "Different experiences need not contradict a common aggregate.",
+          "startSeconds": 298.558291,
+          "endSeconds": 299.704124,
+          "localStartSeconds": 4.991624333333334,
+          "localEndSeconds": 6.137457333333316,
+          "startFrame": 8957,
+          "endFrameExclusive": 8992
+        },
+        {
+          "spokenPhrase": "không tự chứng minh bản tin sai",
+          "action": "Bring the average concept and personal basket into distinct labeled scopes.",
+          "changedState": "The film avoids declaring either subjective or aggregate experience invalid.",
+          "startSeconds": 303.037458,
+          "endSeconds": 304.518958,
+          "localStartSeconds": 9.470791333333352,
+          "localEndSeconds": 10.952291333333335,
+          "startFrame": 9091,
+          "endFrameExclusive": 9136
+        }
+      ]
+    },
+    {
+      "unitId": "b22",
+      "family": "synthesis",
+      "unitStartFrame": 9270,
+      "unitDurationFrames": 488,
+      "events": [
+        {
+          "spokenPhrase": "Khách trả thêm hai nghìn không có nghĩa chị giữ thêm hai nghìn.",
+          "action": "Follow2,000 toward the larger2,500 extra cost.",
+          "changedState": "Seller outcome recalls its causal proof.",
+          "startSeconds": 311.365,
+          "endSeconds": 314.084874,
+          "localStartSeconds": 2.365000000000009,
+          "localEndSeconds": 5.084874000000013,
+          "startFrame": 9341,
+          "endFrameExclusive": 9423
+        },
+        {
+          "spokenPhrase": "Tin lạm phát giảm không có nghĩa giá trở lại mốc cũ.",
+          "action": "Transform the route into the rising price track with smaller second step.",
+          "changedState": "Rate/level distinction returns.",
+          "startSeconds": 314.860333,
+          "endSeconds": 317.476083,
+          "localStartSeconds": 5.8603330000000255,
+          "localEndSeconds": 8.476083000000017,
+          "startFrame": 9446,
+          "endFrameExclusive": 9525
+        },
+        {
+          "spokenPhrase": "lương tăng không tự bảo đảm mua được nhiều hơn",
+          "action": "Transform to10m/20k versus10.5m/22k capacity.",
+          "changedState": "Purchasing-power result returns.",
+          "startSeconds": 318.5525,
+          "endSeconds": 320.75154100000003,
+          "localStartSeconds": 9.552500000000009,
+          "localEndSeconds": 11.751541000000032,
+          "startFrame": 9557,
+          "endFrameExclusive": 9623
+        },
+        {
+          "spokenPhrase": "Ba điều ấy có thể cùng đúng",
+          "action": "Bring the three end states into one connected scene, not three equal-size paragraph cards.",
+          "changedState": "The opening paradox is resolved.",
+          "startSeconds": 321.52700000000004,
+          "endSeconds": 322.89274900000004,
+          "localStartSeconds": 12.527000000000044,
+          "localEndSeconds": 13.892749000000038,
+          "startFrame": 9646,
+          "endFrameExclusive": 9687
+        }
+      ]
+    },
+    {
+      "unitId": "b23",
+      "family": null,
+      "unitStartFrame": 9758,
+      "unitDurationFrames": 529,
+      "events": [
+        {
+          "spokenPhrase": "đang tăng chậm hơn hay giảm giá thật?",
+          "action": "Briefly activate the rate/level distinction next to the receipt.",
+          "changedState": "First check is concrete.",
+          "startSeconds": 327.522375,
+          "endSeconds": 329.21220800000003,
+          "localStartSeconds": 2.2557083333333594,
+          "localEndSeconds": 3.945541333333381,
+          "startFrame": 9826,
+          "endFrameExclusive": 9877
+        },
+        {
+          "spokenPhrase": "So với mốc nào?",
+          "action": "Point to date/baseline, not a giant question card.",
+          "changedState": "Second check is a comparison anchor.",
+          "startSeconds": 329.987666,
+          "endSeconds": 330.959916,
+          "localStartSeconds": 4.720999333333339,
+          "localEndSeconds": 5.69324933333337,
+          "startFrame": 9900,
+          "endFrameExclusive": 9929
+        },
+        {
+          "spokenPhrase": "cùng lượng, cùng chất lượng",
+          "action": "Align comparable bread portions before returning clean footage.",
+          "changedState": "Third check is comparability, not merely a numerical headline.",
+          "startSeconds": 337.64970800000003,
+          "endSeconds": 339.096499,
+          "localStartSeconds": 12.38304133333338,
+          "localEndSeconds": 13.829832333333343,
+          "startFrame": 10129,
+          "endFrameExclusive": 10173
+        }
+      ]
+    },
+    {
+      "unitId": "b24",
+      "family": null,
+      "unitStartFrame": 10287,
+      "unitDurationFrames": 446,
+      "events": [
+        {
+          "spokenPhrase": "bạn đang so với năm nào?",
+          "action": "Show a small comparison-year prompt next to the same bread.",
+          "changedState": "Comment request carries the baseline habit.",
+          "startSeconds": 345.925166,
+          "endSeconds": 347.07099900000003,
+          "localStartSeconds": 3.025166000000013,
+          "localEndSeconds": 4.170999000000052,
+          "startFrame": 10378,
+          "endFrameExclusive": 10413
+        },
+        {
+          "spokenPhrase": "hãy đăng ký kênh và bật chuông",
+          "action": "One restrained subscribe/bell action, then return to finished bread.",
+          "changedState": "The film ends on its subject, not a page of interface text.",
+          "startSeconds": 354.45525000000004,
+          "endSeconds": 355.867291,
+          "localStartSeconds": 11.555250000000058,
+          "localEndSeconds": 12.967291000000046,
+          "startFrame": 10634,
+          "endFrameExclusive": 10677
+        }
+      ]
+    }
+  ]
+}

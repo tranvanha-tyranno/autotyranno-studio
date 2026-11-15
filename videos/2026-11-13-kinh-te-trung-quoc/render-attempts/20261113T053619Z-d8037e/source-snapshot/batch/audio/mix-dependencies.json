@@ -1,0 +1,1693 @@
+{
+  "audioDependencies": {
+    "schema": "china-audio-dependencies/1",
+    "timing": {
+      "fps": 30,
+      "frames": 17913,
+      "captions": [
+        {
+          "start": 0.0,
+          "end": 2.56,
+          "text": "Một bên là cảng biển, dây chuyền và những"
+        },
+        {
+          "start": 2.592,
+          "end": 3.52,
+          "text": "đoàn tàu chở hàng."
+        },
+        {
+          "start": 3.68,
+          "end": 6.32,
+          "text": "Một bên là người mua nhà và các gia đình"
+        },
+        {
+          "start": 6.38,
+          "end": 7.76,
+          "text": "vẫn cân nhắc từng khoản chi."
+        },
+        {
+          "start": 7.98,
+          "end": 10.24,
+          "text": "Hai cảnh ấy có thể cùng đúng về Trung"
+        },
+        {
+          "start": 10.304,
+          "end": 10.84,
+          "text": "Quốc."
+        },
+        {
+          "start": 10.933,
+          "end": 13.36,
+          "text": "Vì sao một nền kinh tế sản xuất rất mạnh vẫn"
+        },
+        {
+          "start": 13.408,
+          "end": 14.8,
+          "text": "phải lo kích thích nhu cầu?"
+        },
+        {
+          "start": 14.987,
+          "end": 17.68,
+          "text": "Muốn hiểu, cần tách cỗ máy làm ra hàng hóa"
+        },
+        {
+          "start": 17.76,
+          "end": 19.92,
+          "text": "khỏi vòng tuần hoàn đưa thu nhập trở lại thị"
+        },
+        {
+          "start": 19.966,
+          "end": 20.32,
+          "text": "trường."
+        },
+        {
+          "start": 20.453,
+          "end": 22.88,
+          "text": "Video này nhìn vào các động cơ tăng trưởng,"
+        },
+        {
+          "start": 22.98,
+          "end": 25.52,
+          "text": "bất động sản, tiêu dùng và già hóa."
+        },
+        {
+          "start": 25.893,
+          "end": 28.48,
+          "text": "Số liệu được chốt theo các công bố đã"
+        },
+        {
+          "start": 28.544,
+          "end": 30.56,
+          "text": "kiểm tra đến ngày mười ba tháng mười một,"
+        },
+        {
+          "start": 30.62,
+          "end": 32.24,
+          "text": "năm hai nghìn không trăm hai mươi sáu."
+        },
+        {
+          "start": 32.42,
+          "end": 34.72,
+          "text": "Đây là phân tích giáo dục, không phải khuyến"
+        },
+        {
+          "start": 34.752,
+          "end": 35.44,
+          "text": "nghị đầu tư."
+        },
+        {
+          "start": 35.813,
+          "end": 38.32,
+          "text": "Biểu đồ số liệu có kỳ đo và nguồn"
+        },
+        {
+          "start": 38.36,
+          "end": 40.96,
+          "text": "riêng; mô phỏng chỉ giải thích cơ chế, không"
+        },
+        {
+          "start": 41.008,
+          "end": 43.12,
+          "text": "phải dự báo hay bản sao hoạt động của doanh"
+        },
+        {
+          "start": 43.143,
+          "end": 43.84,
+          "text": "nghiệp cụ thể."
+        },
+        {
+          "start": 44.34,
+          "end": 46.34,
+          "text": "Trước hết, Trung Quốc không phải một nhà máy"
+        },
+        {
+          "start": 46.38,
+          "end": 46.74,
+          "text": "duy nhất."
+        },
+        {
+          "start": 46.953,
+          "end": 49.620000000000005,
+          "text": "Trên bản đồ là các thành phố, vùng công"
+        },
+        {
+          "start": 49.643,
+          "end": 52.18000000000001,
+          "text": "nghiệp, cảng và thị trường lao động kết nối"
+        },
+        {
+          "start": 52.2,
+          "end": 52.580000000000005,
+          "text": "với nhau."
+        },
+        {
+          "start": 52.78,
+          "end": 55.38,
+          "text": "Khoảng cách và hạ tầng góp phần quyết định"
+        },
+        {
+          "start": 55.428000000000004,
+          "end": 56.580000000000005,
+          "text": "cách hàng hóa di chuyển."
+        },
+        {
+          "start": 56.760000000000005,
+          "end": 58.660000000000004,
+          "text": "Hãy lấy một dây chuyền minh họa."
+        },
+        {
+          "start": 58.82000000000001,
+          "end": 61.46000000000001,
+          "text": "Nhà cung cấp đưa linh kiện tới, công nhân"
+        },
+        {
+          "start": 61.540000000000006,
+          "end": 64.02000000000001,
+          "text": "và thiết bị lắp ráp, rồi sản phẩm được kiểm"
+        },
+        {
+          "start": 64.08,
+          "end": 65.14,
+          "text": "tra trước khi xuất xưởng."
+        },
+        {
+          "start": 65.34,
+          "end": 67.86,
+          "text": "Giá trị nằm trong cả chuỗi phối hợp ấy."
+        },
+        {
+          "start": 67.98,
+          "end": 70.58,
+          "text": "Khi nhiều nhà cung cấp, kỹ năng và dịch vụ ở"
+        },
+        {
+          "start": 70.62,
+          "end": 73.14,
+          "text": "gần nhau, việc tìm đầu vào hay xử lý trục"
+        },
+        {
+          "start": 73.167,
+          "end": 74.58,
+          "text": "trặc có thể thuận tiện hơn."
+        },
+        {
+          "start": 74.82000000000001,
+          "end": 77.54,
+          "text": "Đó là một lợi thế của cụm sản xuất, không"
+        },
+        {
+          "start": 77.6,
+          "end": 79.5,
+          "text": "chỉ là câu chuyện tiền công thấp."
+        },
+        {
+          "start": 79.57300000000001,
+          "end": 81.86000000000001,
+          "text": "Nhưng năng lực làm ra sản phẩm chưa tự bảo"
+        },
+        {
+          "start": 81.92,
+          "end": 83.38,
+          "text": "đảm mọi nhà máy có lợi nhuận."
+        },
+        {
+          "start": 83.62,
+          "end": 86.02000000000001,
+          "text": "Còn cần đơn hàng, mức giá đủ bù chi"
+        },
+        {
+          "start": 86.08000000000001,
+          "end": 88.66,
+          "text": "phí, chất lượng, công suất sử dụng và khả"
+        },
+        {
+          "start": 88.708,
+          "end": 89.62,
+          "text": "năng thu hồi tiền."
+        },
+        {
+          "start": 89.76400000000001,
+          "end": 92.26,
+          "text": "Theo bảng hạch toán sơ bộ của cơ quan thống"
+        },
+        {
+          "start": 92.313,
+          "end": 94.42,
+          "text": "kê Trung Quốc, giá trị tăng thêm ngành chế"
+        },
+        {
+          "start": 94.48,
+          "end": 96.26,
+          "text": "tạo trong chín tháng đầu năm hai nghìn không"
+        },
+        {
+          "start": 96.292,
+          "end": 98.42,
+          "text": "trăm hai mươi sáu tăng năm phẩy sáu phần"
+        },
+        {
+          "start": 98.452,
+          "end": 101.06,
+          "text": "trăm so với cùng kỳ, theo giá so sánh."
+        },
+        {
+          "start": 101.12700000000001,
+          "end": 103.7,
+          "text": "Trong cùng bảng và cùng kỳ, xây dựng giảm"
+        },
+        {
+          "start": 103.74000000000001,
+          "end": 106.02000000000001,
+          "text": "bốn phẩy một phần trăm, còn khu vực dịch vụ"
+        },
+        {
+          "start": 106.1,
+          "end": 107.46000000000001,
+          "text": "tăng năm phẩy hai phần trăm."
+        },
+        {
+          "start": 107.68,
+          "end": 110.42,
+          "text": "Các bộ phận có thể đi khác nhịp, dù đều"
+        },
+        {
+          "start": 110.48,
+          "end": 111.86,
+          "text": "nằm trong một nền kinh tế."
+        },
+        {
+          "start": 111.956,
+          "end": 114.42,
+          "text": "Điều này giúp tránh hai kết luận cực đoan:"
+        },
+        {
+          "start": 114.48400000000001,
+          "end": 116.82000000000001,
+          "text": "thấy một ngành tốt rồi cho rằng mọi gia đình"
+        },
+        {
+          "start": 116.88000000000001,
+          "end": 119.14,
+          "text": "đều khá lên, hoặc thấy một ngành khó khăn"
+        },
+        {
+          "start": 119.3,
+          "end": 121.62,
+          "text": "rồi cho rằng toàn bộ năng lực sản xuất đã"
+        },
+        {
+          "start": 121.668,
+          "end": 122.10000000000001,
+          "text": "biến mất."
+        },
+        {
+          "start": 122.5,
+          "end": 125.14,
+          "text": "Câu hỏi khó hơn là động cơ nào đang"
+        },
+        {
+          "start": 125.22,
+          "end": 127.94,
+          "text": "kéo, động cơ nào đang ghìm, và sức kéo"
+        },
+        {
+          "start": 127.99300000000001,
+          "end": 129.94,
+          "text": "có chuyển thành thu nhập cùng nhu cầu bền"
+        },
+        {
+          "start": 129.988,
+          "end": 130.74,
+          "text": "vững hay không."
+        },
+        {
+          "start": 130.953,
+          "end": 133.38,
+          "text": "Để thấy phần ghìm, hãy nhìn sang bất động"
+        },
+        {
+          "start": 133.46,
+          "end": 133.78,
+          "text": "sản."
+        },
+        {
+          "start": 134.28,
+          "end": 136.36,
+          "text": "Một dự án nhà ở có nhiều bên tham gia:"
+        },
+        {
+          "start": 136.453,
+          "end": 139.24,
+          "text": "người mua, chủ đầu tư, nhà thầu,"
+        },
+        {
+          "start": 139.272,
+          "end": 141.24,
+          "text": "ngân hàng và chính quyền địa phương."
+        },
+        {
+          "start": 141.427,
+          "end": 144.12,
+          "text": "Vì vậy, khó khăn ở dự án có thể truyền"
+        },
+        {
+          "start": 144.16,
+          "end": 145.56,
+          "text": "tới những bảng cân đối khác nhau."
+        },
+        {
+          "start": 145.707,
+          "end": 148.36,
+          "text": "Trong mô phỏng này, một hộ gia đình mua"
+        },
+        {
+          "start": 148.48,
+          "end": 150.76,
+          "text": "nhà và một doanh nghiệp triển khai dự án."
+        },
+        {
+          "start": 151.02,
+          "end": 153.72,
+          "text": "Khi tiền thu chậm lại, doanh nghiệp phải"
+        },
+        {
+          "start": 153.76,
+          "end": 156.12,
+          "text": "xem lại lịch thanh toán cho nhà thầu và khả"
+        },
+        {
+          "start": 156.168,
+          "end": 157.24,
+          "text": "năng hoàn thành công trình."
+        },
+        {
+          "start": 157.46,
+          "end": 160.12,
+          "text": "Nếu công trình chậm, người mua có thể lo"
+        },
+        {
+          "start": 160.173,
+          "end": 161.08,
+          "text": "về việc nhận nhà."
+        },
+        {
+          "start": 161.28,
+          "end": 163.8,
+          "text": "Nếu doanh nghiệp giảm đầu tư, nhu cầu vật"
+        },
+        {
+          "start": 163.864,
+          "end": 165.88,
+          "text": "liệu và việc làm liên quan cũng chịu ảnh"
+        },
+        {
+          "start": 165.92000000000002,
+          "end": 166.2,
+          "text": "hưởng."
+        },
+        {
+          "start": 166.42000000000002,
+          "end": 168.92000000000002,
+          "text": "Đây là các kênh truyền dẫn, không phải một"
+        },
+        {
+          "start": 168.973,
+          "end": 170.84,
+          "text": "tỷ lệ cố định cho mọi dự án."
+        },
+        {
+          "start": 171.133,
+          "end": 173.48000000000002,
+          "text": "Số liệu chính thức cho biết đầu tư phát"
+        },
+        {
+          "start": 173.53300000000002,
+          "end": 175.4,
+          "text": "triển bất động sản trong chín tháng đầu năm"
+        },
+        {
+          "start": 175.44,
+          "end": 177.56,
+          "text": "hai nghìn không trăm hai mươi sáu giảm hai"
+        },
+        {
+          "start": 177.64,
+          "end": 179.8,
+          "text": "mươi phẩy sáu phần trăm so với cùng kỳ."
+        },
+        {
+          "start": 179.96,
+          "end": 182.76,
+          "text": "Đây là chỉ tiêu đầu tư, không phải mức giảm"
+        },
+        {
+          "start": 182.8,
+          "end": 183.96,
+          "text": "của giá mọi căn nhà."
+        },
+        {
+          "start": 184.1,
+          "end": 186.2,
+          "text": "Một gia đình cũng có thể thay đổi hành vi"
+        },
+        {
+          "start": 186.32,
+          "end": 188.92000000000002,
+          "text": "khi giá trị tài sản hoặc triển vọng thu nhập"
+        },
+        {
+          "start": 188.973,
+          "end": 190.04,
+          "text": "khiến họ bất an."
+        },
+        {
+          "start": 190.30700000000002,
+          "end": 193.07999999999998,
+          "text": "Họ có thể hoãn một món mua lớn hay muốn"
+        },
+        {
+          "start": 193.12,
+          "end": 195.48000000000002,
+          "text": "giữ dự phòng nhiều hơn, ngay cả khi vẫn đang"
+        },
+        {
+          "start": 195.53300000000002,
+          "end": 196.04,
+          "text": "có việc."
+        },
+        {
+          "start": 196.227,
+          "end": 198.92000000000002,
+          "text": "World Bank và IMF đều xem"
+        },
+        {
+          "start": 198.952,
+          "end": 201.0,
+          "text": "điều chỉnh bất động sản là một phần quan"
+        },
+        {
+          "start": 201.04000000000002,
+          "end": 202.76,
+          "text": "trọng của bài toán tái cân bằng."
+        },
+        {
+          "start": 202.90699999999998,
+          "end": 205.56,
+          "text": "Nhưng giải quyết dự án dở dang, tổn"
+        },
+        {
+          "start": 205.624,
+          "end": 207.96,
+          "text": "thất và nghĩa vụ tài chính không đơn giản"
+        },
+        {
+          "start": 208.01999999999998,
+          "end": 210.04000000000002,
+          "text": "như bật lại một công tắc xây dựng."
+        },
+        {
+          "start": 210.24,
+          "end": 212.6,
+          "text": "Xây thêm có thể tạo hoạt động trước mắt,"
+        },
+        {
+          "start": 212.64,
+          "end": 214.84,
+          "text": "nhưng nếu nhu cầu hoặc hiệu quả không phù"
+        },
+        {
+          "start": 214.92000000000002,
+          "end": 217.32,
+          "text": "hợp thì rủi ro vẫn ở đó."
+        },
+        {
+          "start": 217.416,
+          "end": 219.96,
+          "text": "Điều cần phân biệt là hoàn thành nghĩa vụ cũ"
+        },
+        {
+          "start": 220.06,
+          "end": 221.8,
+          "text": "với mở rộng những cam kết mới."
+        },
+        {
+          "start": 222.3,
+          "end": 224.38000000000002,
+          "text": "Bây giờ chuyển từ công trường sang hộ gia"
+        },
+        {
+          "start": 224.428,
+          "end": 224.9,
+          "text": "đình."
+        },
+        {
+          "start": 224.97,
+          "end": 227.26000000000002,
+          "text": "Một vòng tuần hoàn đơn giản là doanh nghiệp"
+        },
+        {
+          "start": 227.3,
+          "end": 229.58,
+          "text": "trả thu nhập, người dân chi tiêu, doanh"
+        },
+        {
+          "start": 229.614,
+          "end": 231.74,
+          "text": "nghiệp có doanh thu rồi tiếp tục tuyển dụng"
+        },
+        {
+          "start": 231.82000000000002,
+          "end": 232.54000000000002,
+          "text": "và đầu tư."
+        },
+        {
+          "start": 232.82000000000002,
+          "end": 235.34,
+          "text": "Vòng ấy không chạy chỉ nhờ lời kêu gọi mua"
+        },
+        {
+          "start": 235.42000000000002,
+          "end": 235.74,
+          "text": "sắm."
+        },
+        {
+          "start": 235.847,
+          "end": 238.14000000000001,
+          "text": "Quyết định chi còn phụ thuộc thu nhập kỳ"
+        },
+        {
+          "start": 238.18800000000002,
+          "end": 240.62,
+          "text": "vọng, độ ổn định công việc, nghĩa vụ nợ"
+        },
+        {
+          "start": 240.78,
+          "end": 242.86,
+          "text": "và nhu cầu dự phòng cho những việc quan"
+        },
+        {
+          "start": 242.9,
+          "end": 243.82000000000002,
+          "text": "trọng của gia đình."
+        },
+        {
+          "start": 244.06,
+          "end": 246.78,
+          "text": "Để nhìn rõ cơ chế, tạm chia một khoản thu"
+        },
+        {
+          "start": 246.828,
+          "end": 249.42000000000002,
+          "text": "nhập minh họa thành tiêu dùng, trả nghĩa vụ"
+        },
+        {
+          "start": 249.553,
+          "end": 250.66000000000003,
+          "text": "và dự phòng."
+        },
+        {
+          "start": 250.73000000000002,
+          "end": 253.02,
+          "text": "Các khối chuyển động chỉ thể hiện lựa chọn;"
+        },
+        {
+          "start": 253.073,
+          "end": 254.86,
+          "text": "chúng không phải cơ cấu tiết kiệm thực tế"
+        },
+        {
+          "start": 254.92000000000002,
+          "end": 255.58,
+          "text": "của Trung Quốc."
+        },
+        {
+          "start": 255.72400000000002,
+          "end": 258.14,
+          "text": "Theo khảo sát hộ gia đình, chi tiêu tiêu"
+        },
+        {
+          "start": 258.188,
+          "end": 260.06,
+          "text": "dùng bình quân đầu người trong chín tháng"
+        },
+        {
+          "start": 260.1,
+          "end": 261.98,
+          "text": "đầu năm hai nghìn không trăm hai mươi sáu"
+        },
+        {
+          "start": 262.06,
+          "end": 264.14,
+          "text": "tăng ba phẩy sáu phần trăm theo giá hiện"
+        },
+        {
+          "start": 264.188,
+          "end": 266.54,
+          "text": "hành, và hai phẩy bảy phần trăm sau điều"
+        },
+        {
+          "start": 266.58000000000004,
+          "end": 267.18,
+          "text": "chỉnh giá."
+        },
+        {
+          "start": 267.3,
+          "end": 269.90000000000003,
+          "text": "Hai con số khác nhau vì một bên chưa loại"
+        },
+        {
+          "start": 269.94,
+          "end": 270.86,
+          "text": "tác động của giá."
+        },
+        {
+          "start": 271.047,
+          "end": 273.58000000000004,
+          "text": "Và chỉ tiêu bình quân này không có nghĩa mỗi"
+        },
+        {
+          "start": 273.62,
+          "end": 275.26,
+          "text": "gia đình tăng chi đúng từng ấy."
+        },
+        {
+          "start": 275.372,
+          "end": 277.5,
+          "text": "Bình quân có thể che những khác biệt rất"
+        },
+        {
+          "start": 277.58000000000004,
+          "end": 277.90000000000003,
+          "text": "lớn."
+        },
+        {
+          "start": 278.1,
+          "end": 280.46000000000004,
+          "text": "Cũng đừng dùng doanh số bán lẻ hàng hóa thay"
+        },
+        {
+          "start": 280.52,
+          "end": 282.46000000000004,
+          "text": "cho toàn bộ tiêu dùng trong GDP."
+        },
+        {
+          "start": 282.572,
+          "end": 285.18,
+          "text": "Phạm vi dịch vụ, đối tượng đo và phương"
+        },
+        {
+          "start": 285.228,
+          "end": 287.9,
+          "text": "pháp thống kê khác nhau; biểu đồ đẹp vẫn sai"
+        },
+        {
+          "start": 287.98,
+          "end": 289.9,
+          "text": "nếu đặt nhầm hai đại lượng cạnh nhau."
+        },
+        {
+          "start": 290.04,
+          "end": 292.62,
+          "text": "Một phần tranh luận chính sách vì thế hướng"
+        },
+        {
+          "start": 292.68,
+          "end": 295.18,
+          "text": "tới thu nhập hộ gia đình, an sinh và niềm"
+        },
+        {
+          "start": 295.26,
+          "end": 297.66,
+          "text": "tin, thay vì chỉ thêm năng lực làm hàng."
+        },
+        {
+          "start": 297.84000000000003,
+          "end": 300.14,
+          "text": "Đây là chuyện điều kiện để người dân muốn"
+        },
+        {
+          "start": 300.22,
+          "end": 302.62,
+          "text": "chi, không phải kết luận rằng tiết kiệm tự"
+        },
+        {
+          "start": 302.70000000000005,
+          "end": 303.5,
+          "text": "nó là xấu."
+        },
+        {
+          "start": 303.713,
+          "end": 306.22,
+          "text": "Doanh nghiệp cần người mua, còn người mua"
+        },
+        {
+          "start": 306.32,
+          "end": 308.3,
+          "text": "cần nguồn thu nhập và sự an tâm."
+        },
+        {
+          "start": 308.44,
+          "end": 310.94,
+          "text": "Khi một mắt xích yếu đi, tăng công suất ở"
+        },
+        {
+          "start": 310.98,
+          "end": 312.94,
+          "text": "mắt xích khác có thể chưa giải quyết được"
+        },
+        {
+          "start": 312.988,
+          "end": 313.58000000000004,
+          "text": "điểm nghẽn."
+        },
+        {
+          "start": 314.08000000000004,
+          "end": 316.16,
+          "text": "Hàng hóa không chỉ tìm người mua trong nước."
+        },
+        {
+          "start": 316.37300000000005,
+          "end": 318.96000000000004,
+          "text": "Từ các cụm công nghiệp và cảng, chúng đi vào"
+        },
+        {
+          "start": 319.00000000000006,
+          "end": 319.84000000000003,
+          "text": "nhiều thị trường."
+        },
+        {
+          "start": 319.96000000000004,
+          "end": 322.40000000000003,
+          "text": "Bản đồ ở đây là sơ đồ kết nối thương"
+        },
+        {
+          "start": 322.44000000000005,
+          "end": 324.96000000000004,
+          "text": "mại, không mô tả tuyến tàu thực hay khối"
+        },
+        {
+          "start": 324.987,
+          "end": 325.68000000000006,
+          "text": "lượng vận chuyển."
+        },
+        {
+          "start": 325.89300000000003,
+          "end": 328.32000000000005,
+          "text": "Xuất khẩu tạo đơn hàng cho doanh nghiệp và"
+        },
+        {
+          "start": 328.36800000000005,
+          "end": 329.36,
+          "text": "việc làm liên quan."
+        },
+        {
+          "start": 329.57300000000004,
+          "end": 332.16,
+          "text": "Nhập khẩu mang vào nguyên liệu, thiết bị và"
+        },
+        {
+          "start": 332.22,
+          "end": 333.00000000000006,
+          "text": "sản phẩm."
+        },
+        {
+          "start": 333.18000000000006,
+          "end": 335.36,
+          "text": "Cả hai cùng nằm trong chuỗi cung ứng, chứ"
+        },
+        {
+          "start": 335.38700000000006,
+          "end": 337.20000000000005,
+          "text": "không chỉ có một mũi tên hàng đi ra."
+        },
+        {
+          "start": 337.333,
+          "end": 340.00000000000006,
+          "text": "Trong tính GDP theo chi tiêu, xuất"
+        },
+        {
+          "start": 340.03200000000004,
+          "end": 342.00000000000006,
+          "text": "khẩu ròng là xuất khẩu trừ nhập khẩu."
+        },
+        {
+          "start": 342.112,
+          "end": 344.64000000000004,
+          "text": "Điều này không có nghĩa nhập khẩu là xấu;"
+        },
+        {
+          "start": 344.68800000000005,
+          "end": 346.80000000000007,
+          "text": "phép trừ giúp tránh tính phần giá trị được"
+        },
+        {
+          "start": 346.84000000000003,
+          "end": 348.72100000000006,
+          "text": "tạo ở nước ngoài vào sản lượng trong nước."
+        },
+        {
+          "start": 348.9200000000001,
+          "end": 350.96000000000004,
+          "text": "Hãy dùng một phép tính giả định:"
+        },
+        {
+          "start": 351.02400000000006,
+          "end": 353.20000000000005,
+          "text": "xuất khẩu tăng mười đơn vị, nhập khẩu tăng"
+        },
+        {
+          "start": 353.28000000000003,
+          "end": 354.96000000000004,
+          "text": "bảy, thì phần chênh tăng ba."
+        },
+        {
+          "start": 355.1,
+          "end": 357.52000000000004,
+          "text": "Đây chỉ là minh họa số học, không phải đóng"
+        },
+        {
+          "start": 357.56000000000006,
+          "end": 359.28000000000003,
+          "text": "góp tăng trưởng thực tế của Trung Quốc."
+        },
+        {
+          "start": 359.547,
+          "end": 361.9200000000001,
+          "text": "Xuất khẩu mạnh có thể bù một phần nhu cầu"
+        },
+        {
+          "start": 362.00000000000006,
+          "end": 364.16,
+          "text": "yếu ở nơi khác, nhưng không vô hạn."
+        },
+        {
+          "start": 364.34700000000004,
+          "end": 366.48,
+          "text": "Doanh nghiệp còn đối mặt thị hiếu, cạnh"
+        },
+        {
+          "start": 366.52000000000004,
+          "end": 368.80000000000007,
+          "text": "tranh, chi phí vận chuyển và chính sách"
+        },
+        {
+          "start": 368.82300000000004,
+          "end": 370.00000000000006,
+          "text": "thương mại của đối tác."
+        },
+        {
+          "start": 370.16,
+          "end": 372.32000000000005,
+          "text": "Một thay đổi thuế quan có thể khiến người"
+        },
+        {
+          "start": 372.38000000000005,
+          "end": 374.96000000000004,
+          "text": "mua, nhà cung cấp và địa điểm hoàn thiện sản"
+        },
+        {
+          "start": 374.992,
+          "end": 375.68000000000006,
+          "text": "phẩm điều chỉnh."
+        },
+        {
+          "start": 375.84000000000003,
+          "end": 378.32000000000005,
+          "text": "Tuy vậy, một tuyến nối mới trên bản đồ"
+        },
+        {
+          "start": 378.38700000000006,
+          "end": 380.32000000000005,
+          "text": "không chứng minh toàn bộ chuỗi giá trị đã"
+        },
+        {
+          "start": 380.35400000000004,
+          "end": 380.88000000000005,
+          "text": "chuyển đi."
+        },
+        {
+          "start": 381.12000000000006,
+          "end": 383.68000000000006,
+          "text": "Bởi vậy, đọc sức mạnh xuất khẩu cần đi cùng"
+        },
+        {
+          "start": 383.74,
+          "end": 386.32000000000005,
+          "text": "khả năng tạo giá trị, thu nhập và đa dạng"
+        },
+        {
+          "start": 386.36,
+          "end": 386.96000000000004,
+          "text": "thị trường."
+        },
+        {
+          "start": 387.067,
+          "end": 389.28000000000003,
+          "text": "Không nên lấy kim ngạch gộp để suy thẳng"
+        },
+        {
+          "start": 389.32000000000005,
+          "end": 391.52000000000004,
+          "text": "thành lợi nhuận hay mức sống của từng người."
+        },
+        {
+          "start": 392.02000000000004,
+          "end": 393.86,
+          "text": "Có một chuyển động chậm hơn tàu hàng nhưng"
+        },
+        {
+          "start": 393.90000000000003,
+          "end": 394.50000000000006,
+          "text": "rất quan trọng:"
+        },
+        {
+          "start": 394.66,
+          "end": 396.18000000000006,
+          "text": "cơ cấu dân số."
+        },
+        {
+          "start": 396.27600000000007,
+          "end": 398.18000000000006,
+          "text": "Theo công bố thống kê cuối năm hai nghìn"
+        },
+        {
+          "start": 398.20700000000005,
+          "end": 400.18000000000006,
+          "text": "không trăm hai mươi lăm, người từ sáu mươi"
+        },
+        {
+          "start": 400.22800000000007,
+          "end": 402.18000000000006,
+          "text": "tuổi trở lên chiếm hai mươi ba phần trăm dân"
+        },
+        {
+          "start": 402.28700000000003,
+          "end": 402.66,
+          "text": "số."
+        },
+        {
+          "start": 402.94000000000005,
+          "end": 404.50000000000006,
+          "text": "Mốc tuổi phải được giữ rõ."
+        },
+        {
+          "start": 404.62000000000006,
+          "end": 407.1,
+          "text": "Hai mươi ba phần trăm ở đây là nhóm sáu mươi"
+        },
+        {
+          "start": 407.13000000000005,
+          "end": 409.14000000000004,
+          "text": "trở lên, không phải sáu mươi lăm trở lên."
+        },
+        {
+          "start": 409.50000000000006,
+          "end": 412.1,
+          "text": "Đổi mốc tuổi mà giữ nguyên con số sẽ làm"
+        },
+        {
+          "start": 412.13200000000006,
+          "end": 413.06000000000006,
+          "text": "biểu đồ sai nghĩa."
+        },
+        {
+          "start": 413.38000000000005,
+          "end": 416.1,
+          "text": "Già hóa tác động tới nhu cầu chăm sóc, chi"
+        },
+        {
+          "start": 416.148,
+          "end": 418.42,
+          "text": "tiêu công, thị trường lao động và kế hoạch"
+        },
+        {
+          "start": 418.46000000000004,
+          "end": 419.06000000000006,
+          "text": "của gia đình."
+        },
+        {
+          "start": 419.18000000000006,
+          "end": 421.62000000000006,
+          "text": "Nhưng tỷ lệ tuổi không tự quyết định một kết"
+        },
+        {
+          "start": 421.66,
+          "end": 424.42,
+          "text": "cục kinh tế duy nhất; năng suất và cách tổ"
+        },
+        {
+          "start": 424.45200000000006,
+          "end": 426.22,
+          "text": "chức xã hội vẫn quan trọng."
+        },
+        {
+          "start": 426.307,
+          "end": 428.58000000000004,
+          "text": "Trong mô phỏng nhà máy này, cùng một nhóm"
+        },
+        {
+          "start": 428.62000000000006,
+          "end": 431.22,
+          "text": "người có thể làm ra nhiều giá trị hơn nếu kỹ"
+        },
+        {
+          "start": 431.25200000000007,
+          "end": 433.62000000000006,
+          "text": "năng, công cụ và quy trình tốt lên."
+        },
+        {
+          "start": 433.75300000000004,
+          "end": 436.34000000000003,
+          "text": "Không phải chỉ đếm có bao nhiêu robot,"
+        },
+        {
+          "start": 436.42,
+          "end": 438.74,
+          "text": "mà phải hỏi hiệu quả thực sự tăng thế nào."
+        },
+        {
+          "start": 438.90000000000003,
+          "end": 441.54,
+          "text": "Đầu tư công nghệ có thể mở cơ hội, đồng"
+        },
+        {
+          "start": 441.588,
+          "end": 444.1,
+          "text": "thời đòi hỏi vốn và chuyển đổi kỹ năng."
+        },
+        {
+          "start": 444.18000000000006,
+          "end": 446.26000000000005,
+          "text": "Việc làm ở từng ngành có thể thay đổi khác"
+        },
+        {
+          "start": 446.30800000000005,
+          "end": 448.74,
+          "text": "nhau; một cảnh tự động hóa không chứng minh"
+        },
+        {
+          "start": 448.788,
+          "end": 450.82000000000005,
+          "text": "toàn bộ người lao động đều được lợi hoặc mất"
+        },
+        {
+          "start": 450.884,
+          "end": 451.50000000000006,
+          "text": "việc."
+        },
+        {
+          "start": 451.62000000000006,
+          "end": 454.18000000000006,
+          "text": "Vì thế, thách thức dài hạn là phối hợp năng"
+        },
+        {
+          "start": 454.22800000000007,
+          "end": 456.82000000000005,
+          "text": "suất, đào tạo và mạng lưới hỗ trợ."
+        },
+        {
+          "start": 456.95300000000003,
+          "end": 459.46000000000004,
+          "text": "Đó là một bài toán nhiều năm, không thể kiểm"
+        },
+        {
+          "start": 459.492,
+          "end": 461.30000000000007,
+          "text": "bằng số bán hàng của riêng một tháng."
+        },
+        {
+          "start": 461.80000000000007,
+          "end": 462.76000000000005,
+          "text": "Quay lại con số tổng."
+        },
+        {
+          "start": 462.9800000000001,
+          "end": 465.1600000000001,
+          "text": "GDP trong chín tháng đầu năm hai nghìn không"
+        },
+        {
+          "start": 465.2080000000001,
+          "end": 467.24000000000007,
+          "text": "trăm hai mươi sáu tăng bốn phẩy sáu phần"
+        },
+        {
+          "start": 467.27200000000005,
+          "end": 469.88000000000005,
+          "text": "trăm so với cùng kỳ, theo ước tính sơ bộ của"
+        },
+        {
+          "start": 469.93300000000005,
+          "end": 470.8400000000001,
+          "text": "cơ quan thống kê."
+        },
+        {
+          "start": 471.0160000000001,
+          "end": 473.7200000000001,
+          "text": "Theo quý so với cùng kỳ, lần lượt"
+        },
+        {
+          "start": 473.80000000000007,
+          "end": 476.4410000000001,
+          "text": "là năm phẩy không, bốn phẩy ba và bốn phẩy"
+        },
+        {
+          "start": 476.4800000000001,
+          "end": 477.1600000000001,
+          "text": "năm phần trăm."
+        },
+        {
+          "start": 477.4800000000001,
+          "end": 479.9600000000001,
+          "text": "Đó không phải tăng trưởng so với quý liền"
+        },
+        {
+          "start": 480.0130000000001,
+          "end": 482.64000000000004,
+          "text": "trước, và cũng chưa phải kết quả cả năm."
+        },
+        {
+          "start": 482.75000000000006,
+          "end": 485.08000000000004,
+          "text": "Một chính sách có thể nâng cầu trước mắt,"
+        },
+        {
+          "start": 485.1070000000001,
+          "end": 487.80000000000007,
+          "text": "nhưng cần hỏi tiền tới đâu, ai thực sự chi,"
+        },
+        {
+          "start": 487.9870000000001,
+          "end": 489.80000000000007,
+          "text": "và nghĩa vụ nào được tạo thêm."
+        },
+        {
+          "start": 490.20000000000005,
+          "end": 492.8400000000001,
+          "text": "Hỗ trợ đầu tư, hỗ trợ hộ gia đình"
+        },
+        {
+          "start": 492.94700000000006,
+          "end": 495.1600000000001,
+          "text": "và xử lý nghĩa vụ cũ có đường truyền khác"
+        },
+        {
+          "start": 495.22400000000005,
+          "end": 495.56000000000006,
+          "text": "nhau."
+        },
+        {
+          "start": 495.88000000000005,
+          "end": 497.5200000000001,
+          "text": "Phép thử thứ nhất:"
+        },
+        {
+          "start": 497.5760000000001,
+          "end": 499.88000000000005,
+          "text": "hoạt động mới có tạo hiệu quả và dòng thu"
+        },
+        {
+          "start": 499.92800000000005,
+          "end": 501.24000000000007,
+          "text": "nhập lâu dài không?"
+        },
+        {
+          "start": 501.36000000000007,
+          "end": 503.7200000000001,
+          "text": "Nếu chỉ tăng số dự án mà bỏ qua nhu"
+        },
+        {
+          "start": 503.7800000000001,
+          "end": 506.2800000000001,
+          "text": "cầu, tăng trưởng hiện tại có thể đi cùng áp"
+        },
+        {
+          "start": 506.32000000000005,
+          "end": 507.56000000000006,
+          "text": "lực xử lý trong tương lai."
+        },
+        {
+          "start": 507.93300000000005,
+          "end": 509.56000000000006,
+          "text": "Phép thử thứ hai:"
+        },
+        {
+          "start": 509.68000000000006,
+          "end": 512.3600000000001,
+          "text": "thu nhập và sự an tâm của hộ gia đình có"
+        },
+        {
+          "start": 512.4200000000001,
+          "end": 513.1600000000001,
+          "text": "cải thiện không?"
+        },
+        {
+          "start": 513.4000000000001,
+          "end": 516.0400000000001,
+          "text": "Một nền kinh tế muốn cân bằng hơn cần"
+        },
+        {
+          "start": 516.0880000000001,
+          "end": 518.3600000000001,
+          "text": "nhìn cả bên sản xuất lẫn điều kiện để thị"
+        },
+        {
+          "start": 518.3940000000001,
+          "end": 520.6,
+          "text": "trường trong nước hấp thụ hàng hóa, dịch vụ."
+        },
+        {
+          "start": 521.0000000000001,
+          "end": 522.6,
+          "text": "Phép thử thứ ba:"
+        },
+        {
+          "start": 522.7800000000001,
+          "end": 525.5600000000001,
+          "text": "rủi ro được giải quyết hay chỉ chuyển từ nơi"
+        },
+        {
+          "start": 525.6200000000001,
+          "end": 527.1200000000001,
+          "text": "này sang nơi khác?"
+        },
+        {
+          "start": 527.34,
+          "end": 530.1200000000001,
+          "text": "Tái cơ cấu nghĩa vụ và hoàn thiện dự án cần"
+        },
+        {
+          "start": 530.152,
+          "end": 532.3600000000001,
+          "text": "được phân biệt với việc đẩy cam kết sang một"
+        },
+        {
+          "start": 532.4080000000001,
+          "end": 533.32,
+          "text": "bảng cân đối mới."
+        },
+        {
+          "start": 533.5600000000001,
+          "end": 536.2,
+          "text": "Các phép thử này không đưa ra một dự báo"
+        },
+        {
+          "start": 536.248,
+          "end": 536.84,
+          "text": "chắc chắn."
+        },
+        {
+          "start": 536.9330000000001,
+          "end": 539.32,
+          "text": "Chúng giúp đọc tin mới mà không bị một con"
+        },
+        {
+          "start": 539.427,
+          "end": 542.1200000000001,
+          "text": "số hoặc một hình ảnh dẫn đi quá xa, nhất"
+        },
+        {
+          "start": 542.1730000000001,
+          "end": 544.1200000000001,
+          "text": "là khi các ngành và địa phương đang khác"
+        },
+        {
+          "start": 544.1730000000001,
+          "end": 544.44,
+          "text": "nhịp."
+        },
+        {
+          "start": 544.94,
+          "end": 547.5,
+          "text": "Trung Quốc vì thế có thể đồng thời sở hữu"
+        },
+        {
+          "start": 547.532,
+          "end": 549.98,
+          "text": "năng lực sản xuất lớn và gặp áp lực từ bất"
+        },
+        {
+          "start": 549.9960000000001,
+          "end": 551.98,
+          "text": "động sản, sức mua, dân số."
+        },
+        {
+          "start": 552.0730000000001,
+          "end": 554.7800000000001,
+          "text": "Những điều ấy không tự loại trừ nhau; chúng"
+        },
+        {
+          "start": 554.82,
+          "end": 557.2600000000001,
+          "text": "tương tác qua thu nhập, tài sản, đơn hàng"
+        },
+        {
+          "start": 557.393,
+          "end": 558.3800000000001,
+          "text": "và niềm tin."
+        },
+        {
+          "start": 558.5400000000001,
+          "end": 561.34,
+          "text": "Nếu nhớ một sơ đồ, hãy nhớ vòng kết nối:"
+        },
+        {
+          "start": 561.5,
+          "end": 564.0600000000001,
+          "text": "sản xuất tạo thu nhập, thu nhập hỗ trợ"
+        },
+        {
+          "start": 564.12,
+          "end": 566.7,
+          "text": "nhu cầu, nhu cầu nuôi doanh nghiệp; nhà"
+        },
+        {
+          "start": 566.7800000000001,
+          "end": 569.1,
+          "text": "ở, nghĩa vụ tài chính và chính sách có thể"
+        },
+        {
+          "start": 569.1600000000001,
+          "end": 571.4200000000001,
+          "text": "làm từng đường nối mạnh lên hoặc yếu đi."
+        },
+        {
+          "start": 571.58,
+          "end": 574.3000000000001,
+          "text": "Khi gặp một số liệu mới, hãy hỏi nó đo"
+        },
+        {
+          "start": 574.3530000000001,
+          "end": 577.0200000000001,
+          "text": "kỳ nào, theo giá nào, là mức hay"
+        },
+        {
+          "start": 577.0600000000001,
+          "end": 579.5,
+          "text": "tốc độ tăng, và có đại diện cho điều đang"
+        },
+        {
+          "start": 579.532,
+          "end": 580.3000000000001,
+          "text": "được kết luận không."
+        },
+        {
+          "start": 580.62,
+          "end": 583.1,
+          "text": "Bốn câu hỏi nhỏ giúp nhìn một nền kinh tế"
+        },
+        {
+          "start": 583.1800000000001,
+          "end": 583.98,
+          "text": "lớn rõ hơn."
+        },
+        {
+          "start": 584.1400000000001,
+          "end": 586.7800000000001,
+          "text": "Bạn muốn đi sâu vào bất động sản, xe điện"
+        },
+        {
+          "start": 586.8800000000001,
+          "end": 588.22,
+          "text": "hay thương mại Trung Quốc?"
+        },
+        {
+          "start": 588.3530000000001,
+          "end": 590.86,
+          "text": "Chia sẻ phần bạn quan tâm ở bình luận, và"
+        },
+        {
+          "start": 590.9240000000001,
+          "end": 593.0200000000001,
+          "text": "theo dõi để cùng kiểm tra những câu chuyện"
+        },
+        {
+          "start": 593.0680000000001,
+          "end": 595.58,
+          "text": "kinh tế qua số liệu và cơ chế phía sau."
+        }
+      ],
+      "shots": [
+        {
+          "id": "o01",
+          "start": 0,
+          "end": 328
+        },
+        {
+          "id": "o02",
+          "start": 328,
+          "end": 614
+        },
+        {
+          "id": "o03",
+          "start": 614,
+          "end": 973
+        },
+        {
+          "id": "o04",
+          "start": 973,
+          "end": 1330
+        },
+        {
+          "id": "f01",
+          "start": 1330,
+          "end": 1703
+        },
+        {
+          "id": "f02",
+          "start": 1703,
+          "end": 2039
+        },
+        {
+          "id": "f03",
+          "start": 2039,
+          "end": 2387
+        },
+        {
+          "id": "f04",
+          "start": 2387,
+          "end": 2693
+        },
+        {
+          "id": "f05",
+          "start": 2693,
+          "end": 3034
+        },
+        {
+          "id": "f06",
+          "start": 3034,
+          "end": 3359
+        },
+        {
+          "id": "f07",
+          "start": 3359,
+          "end": 3675
+        },
+        {
+          "id": "f08",
+          "start": 3675,
+          "end": 4028
+        },
+        {
+          "id": "r01",
+          "start": 4028,
+          "end": 4371
+        },
+        {
+          "id": "r02",
+          "start": 4371,
+          "end": 4724
+        },
+        {
+          "id": "r03",
+          "start": 4724,
+          "end": 5134
+        },
+        {
+          "id": "r04",
+          "start": 5134,
+          "end": 5523
+        },
+        {
+          "id": "r05",
+          "start": 5523,
+          "end": 5887
+        },
+        {
+          "id": "r06",
+          "start": 5887,
+          "end": 6307
+        },
+        {
+          "id": "r07",
+          "start": 6307,
+          "end": 6669
+        },
+        {
+          "id": "h01",
+          "start": 6669,
+          "end": 6985
+        },
+        {
+          "id": "h02",
+          "start": 6985,
+          "end": 7322
+        },
+        {
+          "id": "h03",
+          "start": 7322,
+          "end": 7672
+        },
+        {
+          "id": "h04",
+          "start": 7672,
+          "end": 8019
+        },
+        {
+          "id": "h05",
+          "start": 8019,
+          "end": 8343
+        },
+        {
+          "id": "h06",
+          "start": 8343,
+          "end": 8701
+        },
+        {
+          "id": "h07",
+          "start": 8701,
+          "end": 9111
+        },
+        {
+          "id": "h08",
+          "start": 9111,
+          "end": 9422
+        },
+        {
+          "id": "t01",
+          "start": 9422,
+          "end": 9777
+        },
+        {
+          "id": "t02",
+          "start": 9777,
+          "end": 10120
+        },
+        {
+          "id": "t03",
+          "start": 10120,
+          "end": 10468
+        },
+        {
+          "id": "t04",
+          "start": 10468,
+          "end": 10786
+        },
+        {
+          "id": "t05",
+          "start": 10786,
+          "end": 11105
+        },
+        {
+          "id": "t06",
+          "start": 11105,
+          "end": 11434
+        },
+        {
+          "id": "t07",
+          "start": 11434,
+          "end": 11761
+        },
+        {
+          "id": "d01",
+          "start": 11761,
+          "end": 12088
+        },
+        {
+          "id": "d02",
+          "start": 12088,
+          "end": 12401
+        },
+        {
+          "id": "d03",
+          "start": 12401,
+          "end": 12789
+        },
+        {
+          "id": "d04",
+          "start": 12789,
+          "end": 13167
+        },
+        {
+          "id": "d05",
+          "start": 13167,
+          "end": 13549
+        },
+        {
+          "id": "d06",
+          "start": 13549,
+          "end": 13854
+        },
+        {
+          "id": "p01",
+          "start": 13854,
+          "end": 14130
+        },
+        {
+          "id": "p02",
+          "start": 14130,
+          "end": 14483
+        },
+        {
+          "id": "p03",
+          "start": 14483,
+          "end": 14876
+        },
+        {
+          "id": "p04",
+          "start": 14876,
+          "end": 15238
+        },
+        {
+          "id": "p05",
+          "start": 15238,
+          "end": 15630
+        },
+        {
+          "id": "p06",
+          "start": 15630,
+          "end": 16007
+        },
+        {
+          "id": "p07",
+          "start": 16007,
+          "end": 16348
+        },
+        {
+          "id": "e01",
+          "start": 16348,
+          "end": 16756
+        },
+        {
+          "id": "e02",
+          "start": 16756,
+          "end": 17147
+        },
+        {
+          "id": "e03",
+          "start": 17147,
+          "end": 17524
+        },
+        {
+          "id": "e04",
+          "start": 17524,
+          "end": 17913
+        }
+      ]
+    },
+    "narrationSHA256": "76a73bc373bc6442eb4fc8d0d016fa06c1d0de5307649b5af864d1e0835e34d5",
+    "generationReceiptSHA256": "7c75ee56e9ebdc462e00c0263f5432657523315997d7cc04db8ac3d825c231bc",
+    "cuePlanSHA256": "0191076a7a03b7b446ca7c4626321d975afe1fa19bd0bcba14995629696bb933"
+  },
+  "firstDataSHA256": "74f0d383c54624221d208dc4f7b4bf2f20db9e36f5eaaf3d3dc9f71f08d5462d",
+  "capturedUTC": "2026-11-13T05:18:04.585340+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "flour-sifting",
+  "file": "assets/flour-sifting.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 7669733,
+  "sourceURL": "https://www.pexels.com/photo/person-sifting-flour-7669733/",
+  "downloadURL": "https://images.pexels.com/photos/7669733/pexels-photo-7669733.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Polina Tankilevitch",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "55bc0d35bf8bec62cda59cd6bb7dc6d6049dc421ba2b5c38e36249eb082aab0d",
+  "width": 2258,
+  "height": 3000,
+  "tags": [
+    "flour"
+  ],
+  "credit": "Polina Tankilevitch / Pexels",
+  "expectedFromSource": "Person sifting flour into bowl",
+  "observed": "Adult in white shirt tapping a metal sieve; falling flour visible under sieve. Portrait contain retains sieve, flour and hands.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "55bc0d35bf8bec62cda59cd6bb7dc6d6049dc421ba2b5c38e36249eb082aab0d"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Illustration of flour preparation only; real adult not fictional Hạnh and no claim about income, employment or recipe.",
+  "reusedSource": null
+}

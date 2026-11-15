@@ -1,0 +1,15 @@
+{
+  "schema": "content-first-economy-story/1",
+  "status": "motion-rewrite-r06-pending-user-feedback",
+  "requestedOn": "2026-11-14",
+  "entry": "cinematic/src/economy-story-entry.tsx",
+  "composition": "EconomyStory",
+  "runner": "economy_story.py",
+  "priority": "Coherent economic content explained through a concrete original story",
+  "typography": {"family": "Be Vietnam Pro", "weights": [400, 600, 700], "delivery": "bundled-local-OFL", "waitForFonts": true},
+  "cast": {"feetAnchored": true, "fixedPosition": true, "poseTransitions": true, "propInteraction": true, "bob": "restrained CharacterV2 frame motion", "blink": "allowed as incidental frame motion", "mouthAnimation": false, "gestures": "content-specific receive/give/point/count", "movement": "opening -> action -> changed state, driven by local narration cues", "artworkApproval": "pending"},
+  "visuals": {"primary": "source-documented contextual photographs", "graphics": "illustrative calculations and causal relationships", "branding": false},
+  "voice": {"name": "Nhật Phong", "id": "6adFm46eyy74snVn6YrT", "model": "eleven_v3", "language": "vi", "speed": 1.0, "stability": 0.5, "similarity_boost": 0.8},
+  "structure": ["hook", "brief relevant disclaimer", "main causal story", "practical CTA and subscribe/bell/comment"],
+  "history": "r03 was rejected by the user as a slide/static cast. r06 is a reusable Remotion motion rewrite with no new paid audio/image/music calls; earlier rejected source/batches remain retained and do not become aesthetically approved."
+}

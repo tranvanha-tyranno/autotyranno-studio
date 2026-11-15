@@ -1,0 +1,235 @@
+{
+  "id": "e56",
+  "sourceFile": "r03/proof/e56-av.mp4",
+  "sourceSHA256": "3b7bc08f02b9b71303fb810bec0e9e14232d7c68014be85f95cd608b06c062af",
+  "decodedFrames": 410,
+  "fps": 30.0,
+  "seconds": 13.666666666666666,
+  "sampleFPS": 3,
+  "samples": [
+    {
+      "frame": 0,
+      "seconds": 0.0,
+      "file": "review/r03-proof-temporal/e56/frame-0000.jpg"
+    },
+    {
+      "frame": 10,
+      "seconds": 0.3333333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0010.jpg"
+    },
+    {
+      "frame": 20,
+      "seconds": 0.6666666666666666,
+      "file": "review/r03-proof-temporal/e56/frame-0020.jpg"
+    },
+    {
+      "frame": 30,
+      "seconds": 1.0,
+      "file": "review/r03-proof-temporal/e56/frame-0030.jpg"
+    },
+    {
+      "frame": 40,
+      "seconds": 1.3333333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0040.jpg"
+    },
+    {
+      "frame": 50,
+      "seconds": 1.6666666666666667,
+      "file": "review/r03-proof-temporal/e56/frame-0050.jpg"
+    },
+    {
+      "frame": 60,
+      "seconds": 2.0,
+      "file": "review/r03-proof-temporal/e56/frame-0060.jpg"
+    },
+    {
+      "frame": 70,
+      "seconds": 2.3333333333333335,
+      "file": "review/r03-proof-temporal/e56/frame-0070.jpg"
+    },
+    {
+      "frame": 80,
+      "seconds": 2.6666666666666665,
+      "file": "review/r03-proof-temporal/e56/frame-0080.jpg"
+    },
+    {
+      "frame": 90,
+      "seconds": 3.0,
+      "file": "review/r03-proof-temporal/e56/frame-0090.jpg"
+    },
+    {
+      "frame": 100,
+      "seconds": 3.3333333333333335,
+      "file": "review/r03-proof-temporal/e56/frame-0100.jpg"
+    },
+    {
+      "frame": 110,
+      "seconds": 3.6666666666666665,
+      "file": "review/r03-proof-temporal/e56/frame-0110.jpg"
+    },
+    {
+      "frame": 120,
+      "seconds": 4.0,
+      "file": "review/r03-proof-temporal/e56/frame-0120.jpg"
+    },
+    {
+      "frame": 130,
+      "seconds": 4.333333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0130.jpg"
+    },
+    {
+      "frame": 140,
+      "seconds": 4.666666666666667,
+      "file": "review/r03-proof-temporal/e56/frame-0140.jpg"
+    },
+    {
+      "frame": 150,
+      "seconds": 5.0,
+      "file": "review/r03-proof-temporal/e56/frame-0150.jpg"
+    },
+    {
+      "frame": 160,
+      "seconds": 5.333333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0160.jpg"
+    },
+    {
+      "frame": 170,
+      "seconds": 5.666666666666667,
+      "file": "review/r03-proof-temporal/e56/frame-0170.jpg"
+    },
+    {
+      "frame": 180,
+      "seconds": 6.0,
+      "file": "review/r03-proof-temporal/e56/frame-0180.jpg"
+    },
+    {
+      "frame": 190,
+      "seconds": 6.333333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0190.jpg"
+    },
+    {
+      "frame": 200,
+      "seconds": 6.666666666666667,
+      "file": "review/r03-proof-temporal/e56/frame-0200.jpg"
+    },
+    {
+      "frame": 210,
+      "seconds": 7.0,
+      "file": "review/r03-proof-temporal/e56/frame-0210.jpg"
+    },
+    {
+      "frame": 220,
+      "seconds": 7.333333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0220.jpg"
+    },
+    {
+      "frame": 230,
+      "seconds": 7.666666666666667,
+      "file": "review/r03-proof-temporal/e56/frame-0230.jpg"
+    },
+    {
+      "frame": 240,
+      "seconds": 8.0,
+      "file": "review/r03-proof-temporal/e56/frame-0240.jpg"
+    },
+    {
+      "frame": 250,
+      "seconds": 8.333333333333334,
+      "file": "review/r03-proof-temporal/e56/frame-0250.jpg"
+    },
+    {
+      "frame": 260,
+      "seconds": 8.666666666666666,
+      "file": "review/r03-proof-temporal/e56/frame-0260.jpg"
+    },
+    {
+      "frame": 270,
+      "seconds": 9.0,
+      "file": "review/r03-proof-temporal/e56/frame-0270.jpg"
+    },
+    {
+      "frame": 280,
+      "seconds": 9.333333333333334,
+      "file": "review/r03-proof-temporal/e56/frame-0280.jpg"
+    },
+    {
+      "frame": 290,
+      "seconds": 9.666666666666666,
+      "file": "review/r03-proof-temporal/e56/frame-0290.jpg"
+    },
+    {
+      "frame": 300,
+      "seconds": 10.0,
+      "file": "review/r03-proof-temporal/e56/frame-0300.jpg"
+    },
+    {
+      "frame": 310,
+      "seconds": 10.333333333333334,
+      "file": "review/r03-proof-temporal/e56/frame-0310.jpg"
+    },
+    {
+      "frame": 320,
+      "seconds": 10.666666666666666,
+      "file": "review/r03-proof-temporal/e56/frame-0320.jpg"
+    },
+    {
+      "frame": 330,
+      "seconds": 11.0,
+      "file": "review/r03-proof-temporal/e56/frame-0330.jpg"
+    },
+    {
+      "frame": 340,
+      "seconds": 11.333333333333334,
+      "file": "review/r03-proof-temporal/e56/frame-0340.jpg"
+    },
+    {
+      "frame": 350,
+      "seconds": 11.666666666666666,
+      "file": "review/r03-proof-temporal/e56/frame-0350.jpg"
+    },
+    {
+      "frame": 360,
+      "seconds": 12.0,
+      "file": "review/r03-proof-temporal/e56/frame-0360.jpg"
+    },
+    {
+      "frame": 370,
+      "seconds": 12.333333333333334,
+      "file": "review/r03-proof-temporal/e56/frame-0370.jpg"
+    },
+    {
+      "frame": 380,
+      "seconds": 12.666666666666666,
+      "file": "review/r03-proof-temporal/e56/frame-0380.jpg"
+    },
+    {
+      "frame": 390,
+      "seconds": 13.0,
+      "file": "review/r03-proof-temporal/e56/frame-0390.jpg"
+    },
+    {
+      "frame": 400,
+      "seconds": 13.333333333333334,
+      "file": "review/r03-proof-temporal/e56/frame-0400.jpg"
+    },
+    {
+      "frame": 409,
+      "seconds": 13.633333333333333,
+      "file": "review/r03-proof-temporal/e56/frame-0409.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "review/r03-proof-temporal/e56-sequence-01.jpg",
+      "sha256": "86068e1e8606edb744308c7d3876d66b43c74091c974d0fb065843e5ed70839a"
+    },
+    {
+      "file": "review/r03-proof-temporal/e56-sequence-02.jpg",
+      "sha256": "53a887ea79287d92d0c17f356bea62ab77d6c292fc89eefc91c15def7bb05021"
+    },
+    {
+      "file": "review/r03-proof-temporal/e56-sequence-03.jpg",
+      "sha256": "d9360ba2ef72107ec3cae7c11a2ee15fb85f1a1d0e1186b0c10afecd53ae079a"
+    }
+  ]
+}

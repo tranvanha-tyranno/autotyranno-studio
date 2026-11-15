@@ -1,0 +1,247 @@
+{
+  "schema": "china-editorial-sampled-review/1",
+  "recordedUTC": "2026-11-13T06:01:12.952752+00:00",
+  "reviewer": "root",
+  "finalSHA256": "936252a9f28282d3853d9dbc341cea7347177d0853508305d10d266ed10bdcbd",
+  "actualViewed": {
+    "all51Midframes": true,
+    "contactSheets": [
+      "qa/root-contacts-1.jpg",
+      "qa/root-contacts-2.jpg",
+      "qa/root-contacts-3.jpg"
+    ],
+    "extraNative": [
+      "qa/midframes/03-o03.jpg",
+      "qa/midframes/33-t06.jpg",
+      "qa/midframes/35-d01.jpg",
+      "qa/midframes/36-d02.jpg"
+    ],
+    "previews": "14scene contact and native o01/r04 before full render"
+  },
+  "observations": [
+    "All51midpoints show intended shot layout, palette and caption strip without blank frames.",
+    "Factory assembly/capacity/gate/skill scenes have different labels and visible states; source photos are factory workers, retail, silk machinery, city skyline contexts as described.",
+    "Negative property/sector bars point below zero; real/nominal consumption andGDPperiod labels remain visible.",
+    "World map city labels at t06 are separated at native1080p; illustration disclaimer is visible.",
+    "60+ vs65+ labeling is explicit;23and77cohort values readable.",
+    "Closing CTA fits abovecaption."
+  ],
+  "blockingCorrection": [
+    {
+      "shot": "o03",
+      "issue": "Four-question headline above three thematic cards.",
+      "required": "Ba góc nhìn để đọc Trung Quốc; isolatedvisualrepairpending."
+    }
+  ],
+  "minorReadability": [
+    "Warm property−20.6annotation lower contrast than cream headline; value also clearly appears inheadline.",
+    "Some authoring note strings join words/numbers tightly; not a change of numericmeaning."
+  ],
+  "scope": "Sampled still inspection, not continuous audiovisual watching or listening; user aestheticacceptance pending.",
+  "viewedMidframeHashes": [
+    {
+      "file": "qa/midframes/01-o01.jpg",
+      "sha256": "143936f010d41ff4f528d420ec1c8a19ebac7c36467406b41236e1f34e937e29"
+    },
+    {
+      "file": "qa/midframes/02-o02.jpg",
+      "sha256": "af61605380922a6fbc8a121feb9165603e391a1f6e440b50dde5ce163abba1dd"
+    },
+    {
+      "file": "qa/midframes/03-o03.jpg",
+      "sha256": "96cc1e78d9f72d4226a292c5aeed1513cb06301a895f363fbf1e53d5ff970b66"
+    },
+    {
+      "file": "qa/midframes/04-o04.jpg",
+      "sha256": "a5e995639e0980a9da77076b26c4f87f5cf0bd0e2c2249a8f28520bc0da8c6e1"
+    },
+    {
+      "file": "qa/midframes/05-f01.jpg",
+      "sha256": "c6e43b36a4c4da4d7f24e5e4f26eb7cb8689d4c1bb6b404b37486bc938508409"
+    },
+    {
+      "file": "qa/midframes/06-f02.jpg",
+      "sha256": "1a29fb33d5dda01225dcdb3b8266db13af6d2aeceb2df968e5ccbe43927d4569"
+    },
+    {
+      "file": "qa/midframes/07-f03.jpg",
+      "sha256": "ae5df07e5927ecf4f2bffb11e352e218c20a7aa904eea0e7c916f77fbc2b0659"
+    },
+    {
+      "file": "qa/midframes/08-f04.jpg",
+      "sha256": "d8ed903b5bbef473674571c365994a0e4e07d17992d16ad4f85b1472a039e5a2"
+    },
+    {
+      "file": "qa/midframes/09-f05.jpg",
+      "sha256": "f37269f950496e8e8999fa983e71fcc0ce9887b4031d301d3a6ad49a85dceb98"
+    },
+    {
+      "file": "qa/midframes/10-f06.jpg",
+      "sha256": "cefd37a25e9bebe8295755000559ea34babbb7e0812aa10db91bf5c84c566338"
+    },
+    {
+      "file": "qa/midframes/11-f07.jpg",
+      "sha256": "6cd0fbec5f04be319858860bdc92a13394a275f8ea57a0e0781e57d9d742d242"
+    },
+    {
+      "file": "qa/midframes/12-f08.jpg",
+      "sha256": "4df4badcab17ed1f07c8236918a43ed6088bd5d24146341a1e50d2179df0cfd6"
+    },
+    {
+      "file": "qa/midframes/13-r01.jpg",
+      "sha256": "8797c2d3df313134bf8e4900a4ca575792dfed2405fd5fae28b673af97ed4f3c"
+    },
+    {
+      "file": "qa/midframes/14-r02.jpg",
+      "sha256": "b12e38a17ca47773c6f7d34fcd4685199868324b8921d2df6c2a4ed8f969ed29"
+    },
+    {
+      "file": "qa/midframes/15-r03.jpg",
+      "sha256": "86ae897657d7a487c5fb532ab3e050da46dbb19f3fddb4e4333f2aab5ce2876c"
+    },
+    {
+      "file": "qa/midframes/16-r04.jpg",
+      "sha256": "cb729b21cc5ac7a446f95447848ac26d99e6c868826e128998c6e7ab71ddd928"
+    },
+    {
+      "file": "qa/midframes/17-r05.jpg",
+      "sha256": "74bcf53ada7a557237570d1893e32e9f8467f7f4dd3575fe6230d17f958e4c81"
+    },
+    {
+      "file": "qa/midframes/18-r06.jpg",
+      "sha256": "57dad8024ab98cc8b29ecd6063278592498a66965c8ae7fd30725f17dcf0bc9f"
+    },
+    {
+      "file": "qa/midframes/19-r07.jpg",
+      "sha256": "b527eadca3570160a4fadba15477eebdd319dd7a9930b3551818e6cea6c34159"
+    },
+    {
+      "file": "qa/midframes/20-h01.jpg",
+      "sha256": "0adb8ff04076c497a4837229c94fc8e7b1a62e042b1a91be8b4a924bcd63fded"
+    },
+    {
+      "file": "qa/midframes/21-h02.jpg",
+      "sha256": "c2b15dd0db52ae8d9012b12d7e2916035c1820b7efc2d4431bceccac6ec329b1"
+    },
+    {
+      "file": "qa/midframes/22-h03.jpg",
+      "sha256": "d623b6efc492bd60604fda4c3b6d12f15746974e08ebf26b0aa4eaa0aabfd8d3"
+    },
+    {
+      "file": "qa/midframes/23-h04.jpg",
+      "sha256": "ae2e90b1e2a707458b101cd3f2091569f46cb93eecceb0db38099df8ecb6d67a"
+    },
+    {
+      "file": "qa/midframes/24-h05.jpg",
+      "sha256": "4523d35c5808176f8a6f5018dc1b32f557dcd32a6008ef27af7fb95f8f09f75c"
+    },
+    {
+      "file": "qa/midframes/25-h06.jpg",
+      "sha256": "8603c6a0245025119d6f6f36b599eae8a62ca3253fe1f1a13bd88bd77f49457d"
+    },
+    {
+      "file": "qa/midframes/26-h07.jpg",
+      "sha256": "3f3ac609514321ef7efc7447c3f246a037bd3712a526a14cfdfb46c49b89fa9e"
+    },
+    {
+      "file": "qa/midframes/27-h08.jpg",
+      "sha256": "b502965163c3811aae30dd7bcd505760c6fcdba2059dcd2a37d429773ef0176f"
+    },
+    {
+      "file": "qa/midframes/28-t01.jpg",
+      "sha256": "61e40a1246ceebb6cf02caf6edf355d86ce96dd544334c83aca0bff23675a03a"
+    },
+    {
+      "file": "qa/midframes/29-t02.jpg",
+      "sha256": "4218bfbacc9114f650800a139a0965ea2d46e8c9f46505aad8ae9b751f982afc"
+    },
+    {
+      "file": "qa/midframes/30-t03.jpg",
+      "sha256": "5105ea3b4b1b4c30ecd1516c3a59b24a75d6c56c09cb033bab4df7c0409ba224"
+    },
+    {
+      "file": "qa/midframes/31-t04.jpg",
+      "sha256": "580596eaff66d3110a20296f156b35eab53d66dc491edf5e1c233a7484405068"
+    },
+    {
+      "file": "qa/midframes/32-t05.jpg",
+      "sha256": "29109baafd68f8f79cd50085d2e9d142196c20baaafbb54c04baca19763a24ef"
+    },
+    {
+      "file": "qa/midframes/33-t06.jpg",
+      "sha256": "70749b6f841788bf7b79ce810d52b674340c9b4e726f08a3cff8acc14c2bbe30"
+    },
+    {
+      "file": "qa/midframes/34-t07.jpg",
+      "sha256": "59a64bb41b8145e9613bfe2284c8b2f4b5e30fd469ef77cbfb7c58e80621c067"
+    },
+    {
+      "file": "qa/midframes/35-d01.jpg",
+      "sha256": "c4bd401dd1b64084f5b023be4c19f5c11f36275f57c072a0fe79dc32add60678"
+    },
+    {
+      "file": "qa/midframes/36-d02.jpg",
+      "sha256": "b43907be3af004eb1ea03fc70e33de029cc0c64d4bda7c63ac2b972166dc6c27"
+    },
+    {
+      "file": "qa/midframes/37-d03.jpg",
+      "sha256": "24df071bf194a267446579e38c5e179237c5e1274e06cf4b9b9a01d15c13df26"
+    },
+    {
+      "file": "qa/midframes/38-d04.jpg",
+      "sha256": "f83b1cd90940310bae3d5e5c0ea9dc5bb432a62d77e5a9ad00433ec24b7b4fd5"
+    },
+    {
+      "file": "qa/midframes/39-d05.jpg",
+      "sha256": "0b0af03a029b31e9668741bb534c27919745e6e672080bfa9fa21b6afd48be87"
+    },
+    {
+      "file": "qa/midframes/40-d06.jpg",
+      "sha256": "b6419859b74bb7b694e835f58fc118fc6681b6e65bf6c694ee827703d0ed2558"
+    },
+    {
+      "file": "qa/midframes/41-p01.jpg",
+      "sha256": "20c808494546399d27d7e3259371a8b1bc92efa2c7ad7b84b9c63da062664726"
+    },
+    {
+      "file": "qa/midframes/42-p02.jpg",
+      "sha256": "45108e065f6f228b248576a0fbb5f05d191addf9fc7ee03745ebd934b655fb94"
+    },
+    {
+      "file": "qa/midframes/43-p03.jpg",
+      "sha256": "6c881f5a84454ec85cdd70847b7dc99b5a6361def6bc58e7f1c323875493b199"
+    },
+    {
+      "file": "qa/midframes/44-p04.jpg",
+      "sha256": "948738e1b05930657e2eb93aa42c4b99ceb1d1070d33ead4551bf7fe567fa224"
+    },
+    {
+      "file": "qa/midframes/45-p05.jpg",
+      "sha256": "8927af6ca923b6cd97f42a8b3e50ecfa1c85b5f0a0a1d7dbbe316b010fb9621e"
+    },
+    {
+      "file": "qa/midframes/46-p06.jpg",
+      "sha256": "5c344177aa6eae47d2f7ad2f7fc30ffdd8c994c038aee780e7ef92b80192e797"
+    },
+    {
+      "file": "qa/midframes/47-p07.jpg",
+      "sha256": "8d62bdc2da2407cf689f7f8f6d89ddc289afb01828859811d1e6d07f695c47ae"
+    },
+    {
+      "file": "qa/midframes/48-e01.jpg",
+      "sha256": "288d7a9e4e2b3b98dcb2844755b76d705e80a3e03609411dc42bd3e6d9f69e49"
+    },
+    {
+      "file": "qa/midframes/49-e02.jpg",
+      "sha256": "5e63c11080369adfe377694c47242a95d1a0027f60ab115f17669de969c29b3b"
+    },
+    {
+      "file": "qa/midframes/50-e03.jpg",
+      "sha256": "061613ef11cab1264970ac40115e73cf9e82da66c5c96f97b8f95744c3f648d0"
+    },
+    {
+      "file": "qa/midframes/51-e04.jpg",
+      "sha256": "8d29baae5028f2384c46a8c63ada2233b59bff150d986a657b702e178dd5ada6"
+    }
+  ]
+}

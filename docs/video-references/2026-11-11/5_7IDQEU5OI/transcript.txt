@@ -1,0 +1,696 @@
+[0.44] Mỗi ngày thức dậy thì phần lớn chúng ta
+[2.04] đều tin vào một khế ước ngầm định mà xã
+[4.04] hội đã trao cho mình từ thuở nhỏ.
+[6.08] Đó là cứ học hành chăm chỉ, tìm một công
+[7.96] việc ổn định, tích lũy từng đồng lương,
+[10.08] trả góp một căn nhà, đóng thuế đầy đủ và
+[12.60] tuân thủ luật pháp.
+[14.04] Chúng ta tin rằng hệ thống tài chính là
+[15.36] một chiếc cân công lý vô tư, nơi mà giá
+[17.60] trị bạn nhận lại sẽ tương xứng với giọt
+[19.44] mồ hôi bạn đổ xuống.
+[21.28] Và chúng ta nghĩ rằng luật chơi được
+[22.48] thiết kế để bảo vệ những kẻ lương thiện
+[24.36] và trừng phạt những kẻ liều lĩnh, gian
+[25.92] dối.
+[27.24] Nhưng nếu tất cả những điều đó chỉ là
+[28.84] một tấm màn nhung lộng lẫy để che đậy
+[30.92] một cái sàn diễn tàn nhẫn thì sao?
+[33.40] Sẽ ra sao nếu luật chơi của nền tài
+[34.80] chính hiện đại vốn dĩ không được thiết
+[36.52] kế cho sự công bằng mà được thiết kế như
+[38.84] một cỗ máy hút máu tinh vi
+[40.68] nơi mà lợi nhuận khổng lồ đổ rót vào túi
+[42.68] một nhóm nhỏ tinh hoa còn toàn bộ rủi ro
+[45.12] thảm khốc lại được đổ ập xuống đầu những
+[47.04] người nhỏ bé, cần lao nhất.
+[49.60] Năm 2008, một cơn địa chấn làm rung
+[51.72] chuyển toàn cầu. Cuộc khủng hoảng tài
+[53.48] chính bùng nổ tại nước Mỹ.
+[55.20] Hàng triệu người mất việc. Hàng triệu
+[57.04] gia đình bị đuổi ra khỏi chính căn nhà
+[58.52] của mình.
+[59.48] Những quỹ hưu trí cả đời dành dụm bốc
+[61.68] hơi chỉ sau một đêm.
+[63.24] Người ta nói rất nhiều về những thuật
+[64.56] ngữ kinh tế học phức tạp như là CDO,
+[66.76] MBS,
+[67.84] phái sinh dưới chuẩn, khủng hoảng thanh
+[69.56] khoản, vân vân.
+[71.28] Nhưng mà để thực sự nhìn thấu bản chất
+[72.76] của cuộc khủng hoảng này thì có lẽ bạn
+[74.44] không cần phải là một chuyên gia tài
+[75.72] chính với những phương trình toán học
+[77.32] khó khăn.
+[78.44] Bạn chỉ cần bước vào hai lát cắt đời
+[79.92] thực.
+[80.80] Hai hình ảnh tương phản đến gai người,
+[82.68] trần trụi [âm nhạc] và đầy tính biểu
+[84.08] tượng.
+[85.12] Một câu chuyện đã diễn ra ở góc tối của
+[86.72] một quán bar bình dân ở vùng ngoại ô
+[88.68] Florida.
+[89.84] Và câu chuyện còn lại thì diễn ra trong
+[91.32] những căn phòng khách sạn mạ vàng xa hoa
+[93.72] của giới tài phiệt New York.
+[94.98] >> [âm nhạc]
+[95.56] >> Hãy cùng mình lội ngược dòng thời gian
+[97.56] bước vào tâm bão năm 2008 để giải phẫu
+[100.08] bản chất vận hành của giới tư bản
+[101.92] và giải mã xem biến cố đó đã thay đổi
+[103.92] thế giới của chúng ta mãi mãi thế nào
+[105.56] nhé.
+[106.77] >> [chuông]
+[112.80] >> Câu chuyện thứ nhất. Người phụ nữ ở
+[114.56] Florida và năm căn nhà không cần thu
+[116.96] nhập.
+[118.48] Bây giờ thì hãy hình dung bạn đang có
+[119.93] mặt tại một thị trấn nhỏ ven biển bang
+[122.05] Florida vào giữa năm 2006.
+[124.65] Tức là khoảng 2 năm trước khi một quả
+[126.41] bong bóng tài chính vỡ vụn.
+[128.41] Không khí ở đây thì nó oi ả, mang theo
+[130.41] vị mặn của biển cả và sự ngột ngạt của
+[132.65] một cơn sốt đất đang cuồng loạn.
+[135.37] Một nhóm nhà đầu tư sắc sảo đến từ New
+[136.93] York bắt đầu hoài nghi về những con số
+[138.77] tăng trưởng kỳ diệu mà các ngân hàng
+[140.65] trung ương và phố Wall đang tung hô.
+[143.41] Họ quyết định rời bỏ những chiếc màn
+[144.93] hình máy tính đầy biểu đồ xanh đỏ,
+[147.17] đáp máy bay xuống Florida để tận mắt
+[149.25] chứng kiến thị trường bất động sản thực
+[150.53] tế thế nào.
+[151.85] Họ tìm tới một quán bar bình dân tồi
+[153.49] tàn,
+[154.29] nơi mà những ánh đèn neon nhấp nháy mờ
+[156.13] ảo
+[156.85] và mùi rượu rẻ tiền bốc lên nồng nặc.
+[159.53] Ở đó thì họ có gặp một cô vũ nữ thoát y.
+[162.29] Sau màn biểu diễn mệt mỏi, cô ấy bước
+[164.17] xuống bục nhảy,
+[165.37] mồ hôi vẫn còn nhễu nhại trên trán.
+[167.77] Khi những nhà đầu tư hỏi cô về tình hình
+[169.25] nhà đất xung quanh,
+[170.53] cô gái không ngần ngại mà cười, rồi rút
+[172.57] ra một tập hồ sơ ngân hàng.
+[174.57] Cô thản nhiên khoe rằng với mức thu nhập
+[176.57] bấp bênh hàng đêm, chỉ vài chục đến vài
+[178.81] trăm đô la tiền bo, cô hiện đang đứng
+[180.81] tên sở hữu năm căn nhà phố riêng biệt và
+[183.73] một căn hộ chung cư cao cấp.
+[185.93] Những người nghe chết lặng.
+[187.41] Họ hỏi là,
+[188.61] "Làm sao mà cô có thể vay được cái số
+[190.05] tiền hàng triệu đô la đó với cái nghề
+[191.93] nghiệp này?"
+[193.29] Cô gái trả lời với một sự ngây thơ đến
+[194.77] đau lòng,
+[195.81] "Tôi chả cần phải chứng minh gì cả.
+[197.97] Những người môi giới cho vay tiền tìm
+[199.33] đến tận nơi.
+[200.57] Họ đưa cho tôi một xấp giấy tờ dài cộp,
+[202.57] bảo tôi chỉ cần ký tên vào những cái chỗ
+[204.09] đánh dấu chữ X.
+[205.53] Họ gọi đó là gói vay ninja.
+[207.61] No income, no job, no assets.
+[210.37] Tức là không thu nhập, không việc làm,
+[212.33] không tài sản thế chấp.
+[214.09] Họ bảo tôi rằng cứ ký đi, mua càng nhiều
+[216.41] thì càng tốt.
+[217.65] Giá nhà ở Mỹ chỉ có tăng vọt chứ không
+[219.69] bao giờ giảm.
+[220.81] Vài tháng nữa sang tay cho người khác là
+[222.61] đổi đời luôn.
+[223.73] Không cần phải bỏ ra một đồng vốn nào
+[225.13] cả."
+[226.29] Hãy a dừng lại một nhịp và neo giữ lấy
+[228.25] cái hình ảnh tương phản này trong tâm
+[230.05] trí của bạn. Một cô gái sống bằng nghề
+[231.81] nhảy múa ở một góc khuất của xã hội.
+[234.17] Bàn tay thì còn đang vương bụi,
+[236.01] đang cầm trên tay những cái hợp đồng tín
+[237.41] dụng hàng triệu đô la được đóng dấu đỏ
+[239.53] chót của những định chế tài chính uy tín
+[241.33] bậc nhất thế giới.
+[242.93] Đó không phải là một câu chuyện làm giàu
+[244.53] truyền cảm hứng đâu.
+[245.65] Đó là một vết nứt kỳ dị, nơi mà nền móng
+[248.17] của xã hội, một cái ảo ảnh tập thể, đang
+[250.69] trượt giá trên một cái bờ dốc trơn trượt
+[252.77] của sự tham lam và cả sự vô trách nhiệm.
+[256.33] Câu chuyện thứ hai,
+[257.49] tiệc ăn mừng tiền thưởng giữa tiếng gào
+[259.53] khóc của hàng triệu người.
+[261.65] Bây giờ thì hãy chuyển cảnh đến tháng 9
+[263.45] năm 2008.
+[265.09] Ảo ảnh khi đó đã vỡ vụn rồi.
+[266.97] Những khoản vay rác của cô vũ nữ thoát y
+[269.17] và hàng triệu người nghèo khác đã biến
+[271.13] thành những cái quả bom nổ chậm đồng
+[272.81] loạt kích hoạt.
+[274.21] Người ta nhận ra là giá nhà không thể
+[275.73] tăng mãi.
+[276.89] Lãi suất điều chỉnh tăng vọt. Những
+[278.61] người nợ vay nợ vỡ trận vì không thể trả
+[281.09] nổi lãi hàng tháng.
+[282.65] Hệ thống tài chính sụp đổ như một dây
+[284.41] chuyền domino.
+[286.05] Ngày 15 tháng 9 năm 2008, tượng đài tài
+[288.57] chính 158 tuổi Lehman Brothers đệ đơn
+[291.61] phá sản.
+[293.17] Cơn hoảng loạn đã biến thành một cơn đại
+[294.93] hồng thủy.
+[295.97] Hàng triệu người dân Mỹ rơi vào cảnh địa
+[297.45] ngục.
+[298.25] Họ mất việc làm.
+[299.53] Quỹ hưu trí dành dụm 40 năm bốc hơi sạch
+[301.85] sẽ.
+[302.81] Những con xe bán tải của cảnh sát xuất
+[304.57] hiện khắp các con phố để niêm phong nhà
+[306.61] cửa.
+[307.81] Hình ảnh những người gia đình thuộc tầng
+[309.09] lớp trung lưu đứng chơ vơ bên đường,
+[311.57] đồ đạc của cả một đời bị vứt vào những
+[313.17] chiếc thùng carton rách nát
+[314.93] đã trở thành biểu tượng tang thương nhất
+[316.65] của giấc mơ Mỹ vỡ vụn.
+[319.05] Để ngăn chặn cỗ xe kinh tế toàn cầu lao
+[321.13] thẳng xuống vực thẳm,
+[322.57] chính phủ Mỹ đã đưa ra một quyết định
+[323.73] lịch sử.
+[324.73] Họ tung ra gói cứu trợ khổng lồ trị giá
+[326.81] 700 tỷ đô la,
+[328.29] một khoản tiền khổng lồ được trích thẳng
+[330.21] từ túi tiền thuế của chính những người
+[331.97] đang oằn mình chịu đựng khủng hoảng đấy.
+[334.37] Gói tiền này thì nó được bơm khẩn cấp
+[335.97] vào phố Wall.
+[337.05] Đặc biệt là tập đoàn bảo hiểm khổng lồ
+[338.97] AIG,
+[340.09] kẻ đã bảo lãnh cho các sản phẩm tài
+[341.65] chính độc hại kia.
+[343.65] Thế nhưng cái điều gây chấn động lương
+[345.05] tri công chúng không dừng lại ở đó.
+[347.69] Chỉ vài ngày sau khi nhận được hàng chục
+[349.33] tỷ đô la tiền cứu trợ từ ngân sách của
+[351.57] nhà nước,
+[352.69] các giám đốc điều hành cấp cao của AIG
+[355.01] lập tức kéo nhau đến St. Regis Monarch
+[357.37] Beach, một khu nghỉ dưỡng xa xỉ bậc nhất
+[359.97] tại bờ biển California.
+[361.89] Họ đắm mình trong những dịch vụ spa
+[363.53] thượng lưu, đánh golf, thưởng thức những
+[365.74] cái bữa tiệc tối sang trọng với rượu
+[367.65] vang thượng hạng.
+[369.01] Và cay đắng hơn cả, họ chi trả hàng trăm
+[371.50] triệu đô la tiền thưởng hoàn thành nhiệm
+[373.25] vụ cho chính những chuyên gia tài chính
+[375.38] và những nhà quản lý rủi ro.
+[377.33] Những kẻ đã trực tiếp tạo ra các sản
+[378.86] phẩm phái sinh độc hại, dẫn tới thảm họa
+[380.89] sụp đổ của những công ty.
+[383.62] Hãy cùng đặt hai bức tranh này cạnh
+[384.69] nhau.
+[385.62] Bên ngoài cánh cổng phố Wall là tiếng
+[387.57] khóc xé lòng của một gia đình công nhân
+[389.57] đang nhìn ổ khóa căn nhà của mình bị cắt
+[391.57] đứt.
+[392.69] Còn bên trong thì những cái phòng họp
+[393.98] lót thảm nhung và kính mạ vàng là những
+[396.38] cái ly sâm banh đắt tiền vẫn chạm nhau
+[398.33] leng keng để chúc mừng những khoản tiền
+[400.33] thưởng triệu đô được hợp thức hóa bằng
+[402.62] luật chơi của những kẻ mạnh.
+[405.33] Bóc tách bản chất vận hành của giới tư
+[407.21] bản và cái ma trận tài chính.
+[410.18] Khi nhìn vào hai câu chuyện ở trên ấy,
+[411.89] nếu chỉ dừng lại ở sự phẫn nộ đạo đức
+[413.94] thì chúng ta sẽ mãi mãi là những cái nạn
+[415.77] nhân ngây thơ.
+[416.89] Để không bị dắt mũi, chúng ta phải dùng
+[418.81] lăng kính của người quan sát điềm tĩnh
+[420.74] để giải phẫu cấu trúc ngầm bên dưới.
+[422.98] Điều gì thực sự đã tạo nên cái sự phi lý
+[425.01] tột cùng này?
+[426.62] Bản chất vận hành cốt lõi
+[428.10] tư nhân hóa lợi nhuận, xã hội hóa rủi
+[429.94] ro.
+[431.25] Trong kinh tế học thị trường tự do
+[432.74] nguyên bản
+[433.74] có một cái nguyên tắc nền tảng gọi là
+[435.42] skin in the game.
+[437.06] Kẻ tham gia cuộc chơi phải chấp nhận
+[438.81] đánh cược bằng chính da thịt của mình.
+[441.45] Nếu anh đưa ra quyết định sáng suốt và
+[443.33] tạo ra giá trị anh được hưởng lợi nhuận.
+[445.98] Nếu anh tham lam, bất cẩn và đầu tư sai
+[448.38] lầm, anh phải phá sản và gánh chịu hậu
+[451.06] quả bằng chính tài sản của anh.
+[453.10] Đó là cơ chế tự làm sạch tự nhiên của
+[454.81] thị trường.
+[456.38] Thế nhưng cuộc khủng hoảng năm 2008 đã
+[458.33] bóc trần một cái sự thật trớ trêu.
+[460.45] Giới tinh hoa tài chính đã bẻ gãy hoàn
+[462.01] toàn nguyên tắc đạo đức đó
+[463.65] và thay thế nó bằng một công thức cai
+[465.21] trị kinh tế tinh vi.
+[467.10] Tư nhân hóa lợi nhuận, xã hội hóa rủi
+[469.01] ro.
+[470.42] Và hãy nhìn vào cách thức công thức này
+[471.69] hoạt động nhé.
+[473.06] Ở giai đoạn hưng thịnh khi mà thị trường
+[474.94] bất động sản bùng nổ
+[476.30] các ngân hàng đầu tư và các quỹ đầu cơ
+[478.30] kiếm được hàng tỷ đô la tiền phí môi
+[480.42] giới, hoa hồng và cổ tức.
+[483.01] Họ liên tục chia chác nhau những cái
+[484.42] khoản tiền thưởng ngất ngưởng.
+[486.13] Toàn bộ dòng tiền khổng lồ đó đã chảy
+[487.69] thẳng vào tài khoản cá nhân của một nhóm
+[489.70] thiểu số tinh hoa.
+[491.26] Họ tuyên bố rằng đó là thành quả của trí
+[493.26] tuệ tài chính đỉnh cao
+[494.74] và thị trường tự do tuyệt đối.
+[496.74] Lúc này thì lợi nhuận là tư nhân hóa
+[498.46] đúng không?
+[499.94] Tiếp theo đến giai đoạn sụp đổ.
+[501.70] Nhưng khi một cỗ xe bong bóng lao thẳng
+[503.26] xuống vực, họ không hề phải móc tiền túi
+[505.14] ra đền bù cho ai cả.
+[506.66] Thay vào đó thì họ biến toàn bộ nền kinh
+[508.30] tế và những người dân lao động thành con
+[510.46] tin thông qua khẩu hiệu mang tính tống
+[512.30] tiền
+[513.06] too big to fail.
+[514.42] Quá lớn để sụp đổ.
+[515.86] Họ nói với chính phủ rằng, nếu mà các
+[517.58] ông không cứu chúng tôi, hệ thống thanh
+[519.34] toán sẽ sụp đổ.
+[520.62] Những cây ATM sẽ ngừng nhả tiền. Doanh
+[522.78] nghiệp sẽ không thể trả lương và hàng
+[524.66] chục triệu người dân sẽ chết đói.
+[526.78] Và chính phủ thì không còn lựa chọn nào
+[528.18] khác ngoài việc dùng tiền thuế của những
+[530.02] người dân để giải cứu các ngân hàng, các
+[531.98] các tổ chức tài chính hay các hãng bảo
+[533.78] hiểm.
+[534.70] Và thế là những khoản lỗ hàng nghìn tỷ
+[536.14] đô, những đống nợ rác độc hại đã được
+[538.54] san phẳng bằng cách chia đều lên lưng
+[540.46] của từng người dân lao động thông qua
+[541.90] thuế, lạm phát và cắt giảm các dịch vụ
+[544.50] an sinh xã hội.
+[545.86] Và thế là rủi ro lúc này đã được xã hội
+[547.74] hóa.
+[549.14] Đây chính là cái sự tha hóa cực điểm của
+[551.02] chủ nghĩa tư bản tài chính.
+[552.82] Kẻ tạo ra hiểm họa lại là kẻ không phải
+[554.86] gánh chịu hậu quả.
+[556.22] Trong khi những con người vô tội đứng
+[557.90] bên ngoài cuộc chơi lại phải gánh món nợ
+[559.82] của kẻ khác.
+[561.50] Chất bấy hệ thống, cơ chế truyền bom và
+[563.82] sự triệt tiêu tính chính trực.
+[565.70] Nhiều người thì vội vã chỉ trích cô vũ
+[567.38] nữ thoát y ở Florida là quá tham lam
+[569.90] hay là trách những người nghèo vay nợ là
+[571.50] thiếu hiểu biết về tài chính.
+[573.26] Nhưng mà nếu nhìn ở tầng hệ thống, cô
+[575.02] gái ấy chỉ là một mắt xích tiêu thụ cuối
+[576.70] cùng trong một chuỗi thức ăn tài chính
+[578.90] được thiết kế vô cùng tinh vi.
+[581.30] Tại sao những nhân viên tín dụng đã sẵn
+[583.06] sàng cho một người không có thu nhập cố
+[584.70] định, không có tài sản cầm cố để vay
+[586.90] tiền rồi mua tới năm căn nhà?
+[589.66] Bởi vì nhân viên cho vay nhận hoa hồng
+[591.58] ngay khi mà hồ sơ được ký duyệt.
+[593.66] Họ chẳng cần quan tâm là cô gái có trả
+[594.98] được nợ trong 5 năm tới, 10 năm tới hay
+[597.42] không.
+[598.74] Tại sao ngân hàng địa phương lại dám cấp
+[600.38] những khoản vay rác đó?
+[602.02] Đó là bởi vì ngân hàng không hề có định
+[603.62] ý định giữ những khoản nợ đó trên sổ
+[605.38] sách.
+[606.42] Họ lập tức gom hàng nghìn khoản nợ ninja
+[608.38] đó của những cái người như là cô vũ nữ
+[610.38] lại đóng gói chúng thành một sản phẩm
+[612.18] tài chính mới có tên là CDO.
+[614.54] Rồi thì bán tống bán tháo cho các ngân
+[616.02] hàng đầu tư lớn.
+[618.14] Tại sao các ngân hàng phố Wall lại dám
+[619.94] mua những cái sản phẩm rác rưởi đó?
+[622.02] Là bởi vì họ đã bắt tay với các cái tổ
+[623.66] chức xếp hạng tín nhiệm uy tín như là
+[625.50] Moody, Standard & Poor.
+[627.50] Các tổ chức này vốn được trả tiền bởi
+[629.46] chính các ngân hàng phố Wall
+[631.02] đã nhắm mắt dán nhãn AAA tức là mức độ
+[633.66] an toàn tuyệt đối tương đương với cả
+[635.66] trái phiếu chính phủ
+[636.94] lên những cái gói nợ rác đó.
+[639.02] Và sau khi được dán nhãn an toàn rồi
+[641.22] thì phố Wall lại chia nhỏ và bán những
+[643.06] cái gói nợ độc hại này ra khắp toàn cầu
+[645.62] cho các quỹ hưu trí ở châu Âu, những
+[647.54] công ty bảo hiểm ở châu Á và những nhà
+[649.58] đầu tư cá nhân trên toàn thế giới. Đây
+[651.74] chính là một cái trò chơi theo kiểu
+[653.10] truyền bom tập thể.
+[654.74] Không một mắt xích nào trong chuỗi dây
+[656.02] chuyền này quan tâm tới việc quả bom khi
+[658.10] nào phát nổ.
+[659.46] Mục tiêu duy nhất của mỗi mắt xích đấy
+[660.82] là sang tay quả bom cho kẻ tiếp theo
+[663.30] thật nhanh để kịp đút túi phần tiền hoa
+[665.42] hồng của mình.
+[666.82] Cấu trúc lợi ích ngắn hạn đã triệt tiêu
+[668.62] hoàn toàn sự liêm chính cá nhân.
+[670.74] Khi mà toàn bộ hệ thống đều được khuyến
+[672.30] khích để làm những điều sai trái
+[674.50] thì sự mù quáng không còn là một tai nạn
+[676.66] mà là một sự lựa chọn có chủ đích.
+[679.30] Cuộc khủng hoảng 2008 đã thay đổi thế
+[681.46] giới mãi mãi như thế nào?
+[683.74] Một biến cố thì có thể làm sụp đổ nhiều
+[685.50] tòa nhà.
+[686.50] Thế nhưng mà biến cố năm 2008 đã làm sụp
+[688.90] đổ một thứ tài sản vô hình quan trọng
+[690.82] hơn rất nhiều.
+[692.14] Đó là niềm tin vào sự công bằng của hệ
+[694.14] thống.
+[694.94] Khi mà người dân chứng kiến những kẻ đầu
+[696.34] cơ gây tội ác được nhận tiền thưởng
+[698.22] triệu đô trong khi bố mẹ, vợ con của họ
+[700.34] bị đẩy ra đường
+[701.46] thì một cái vết nứt sâu hoắm đã xé toạc
+[703.06] trật tự xã hội cũ.
+[704.70] Sự kiện này thì
+[707.74] đã trực tiếp khai sinh ra ba sự chuyển
+[709.54] dịch vĩ tiên là sự trỗi dậy của phong
+[710.98] trào phản kháng
+[711.99] >> [âm nhạc]
+[712.26] >> và sự phân cực chính trị sâu sắc. Cơn
+[714.22] giận dữ bị kìm nén trước cảnh kẻ có tội
+[716.22] được cứu, người vô tội thì bị trừng phạt
+[718.54] đã thổi bùng lên phong trào chiếm lấy
+[720.06] phố Wall.
+[721.30] Vào năm 2011 với khẩu hiệu chấn động là
+[723.66] chúng tôi là 99%
+[725.50] các người là 1%.
+[727.02] Người ta bắt đầu nhận ra sự bất bình
+[728.42] đẳng giàu nghèo không chỉ là vấn đề về
+[730.30] năng lực cá nhân
+[731.50] mà còn là sự bất công mang tính cơ chế.
+[733.82] Niềm tin tan vỡ vào giới tinh hoa truyền
+[735.54] thống chính là mảnh đất màu mỡ nuôi
+[737.26] dưỡng chủ nghĩa dân túy,
+[738.66] sự thù ghét thể chế và làn sóng cực đoan
+[740.82] chính trị trên toàn thế giới suốt gần
+[742.74] hai thập kỷ vừa qua.
+[744.54] Sự chia rẽ sâu sắc giữa các tầng lớp xã
+[746.22] hội, sự ngờ vực lẫn nhau giữa người dân
+[748.54] và chính quyền mà chúng ta đang chứng
+[750.18] kiến ngày hôm nay,
+[751.42] từ các cuộc tranh cãi nảy lửa trên mạng
+[752.82] xã hội cho tới các biến động địa chính
+[754.46] trị đều có cội rễ sâu xa bắt nguồn từ
+[757.30] vết nứt đạo đức năm 2008.
+[759.74] Thứ hai,
+[760.66] đó là sự ra đời của một trật tự tiền tệ
+[762.42] thay thế, Bitcoin và kỷ nguyên phi tập
+[764.70] trung. Đúng vào thời điểm đen tối nhất
+[766.54] của cuộc khủng hoảng,
+[767.70] ngày 31 tháng 10 năm 2008,
+[769.90] một nhân vật ẩn danh mang tên là Satoshi
+[771.94] Nakamoto đã công bố một tài liệu kỹ
+[774.06] thuật dài vỏn vẹn chín trang
+[776.14] mang tên là bản cáo bạch của Bitcoin.
+[778.42] Đến ngày mùng 3 tháng 1 năm 2009, khi
+[780.90] khai thác khối mã đầu tiên của mạng lưới
+[782.66] Bitcoin, Genesis Block, Satoshi đã cố
+[785.70] tình nhúng vào đó một dòng văn bản bất
+[787.38] tử, trích nguyên văn dòng tít trang nhất
+[789.70] của tờ The Times,
+[791.34] The Times, mùng 3 tháng 1 năm 2009,
+[794.50] Bộ trưởng tài chính Anh bên bờ vực tung
+[796.22] gói cứu trợ thứ hai cho các ngân hàng.
+[798.98] Đó không đơn thuần là một phát minh công
+[800.74] nghệ,
+[801.46] đó có thể coi là một tuyên ngôn triết
+[802.86] học và chính trị đanh thép chống lại hệ
+[804.74] thống tài chính tập quyền.
+[806.66] Sự ra đời của tiền mã hóa và công nghệ
+[808.66] Blockchain bắt nguồn từ một câu hỏi nhức
+[810.58] nhối,
+[811.66] tại sao chúng ta phải đặt toàn bộ niềm
+[813.10] tin và mồ hôi nước mắt của mình vào tay
+[815.50] một nhóm nhỏ các ngân hàng trung ương và
+[817.42] giới tài phiệt,
+[818.58] những kẻ có quyền lực in thêm tiền tùy
+[820.30] tiện
+[821.10] pha loãng tài sản của người dân và dùng
+[823.06] tiền công quỹ để giải cứu những sai lầm
+[824.70] của chính họ.
+[826.26] Lần đầu tiên trong lịch sử nhân loại,
+[827.86] một loại tiền tệ phi tập trung, không
+[829.54] biên giới và xin mở ngoặc là ở thời điểm
+[831.94] đó, họ cho rằng không thể bị thao túng
+[834.54] bởi một thực thể quyền lực nào đã ra
+[836.46] đời.
+[837.30] Nó đã mở ra một cuộc cách mạng tài chính
+[839.42] vẫn đang tiếp diễn cuồn cuộn cho đến tận
+[841.38] ngày hôm nay.
+[842.90] Thứ ba,
+[843.74] sự sụp đổ của ảo tưởng đồng thuận xã
+[845.50] hội.
+[846.78] Trước năm 2008, đa số người dân phương
+[848.98] Tây vẫn tin vào một trật tự hài hòa,
+[851.22] lợi ích của các tập đoàn lớn
+[852.74] cũng chính là lợi ích của người dân.
+[854.58] Các thể chế quản lý nhà nước sẽ luôn
+[856.30] đóng vai trò là trọng tài công tâm.
+[859.02] Thế nhưng mà sau năm 2008, cái tấm màn
+[861.26] nhung đó nó đã toang.
+[863.06] Người ta nhận ra rằng là trong nền kinh
+[864.66] tế thị trường tài chính hóa,
+[866.38] các tập đoàn tài chính không còn phục vụ
+[868.14] cho sản xuất thực.
+[869.74] Họ tạo ra tiền từ tiền thông qua các trò
+[872.14] chơi phái sinh ảo
+[873.54] và sẵn sàng hy sinh toàn bộ nền tảng xã
+[875.30] hội để bảo vệ lợi ích của nhóm mình.
+[878.02] Nhận thức này thì đã vĩnh viễn thay đổi
+[879.42] tâm thức của các thế hệ tiếp theo.
+[881.58] Từ sự tôn kính thể chế chuyển sang sự
+[883.54] hoài nghi thường trực đối với mọi lời
+[885.38] hứa hẹn vĩ mô.
+[887.30] Trước gương tự vấn,
+[888.78] chúng ta đang đứng ở đâu trong cuộc chơi
+[890.18] này?
+[891.50] Bây giờ thì hãy tạm gác lại nước Mỹ xa
+[893.50] xôi của mười mấy năm về trước.
+[895.90] Hãy đem chiếc kính hiển vi này và soi
+[897.70] thẳng vào cuộc sống, công việc và những
+[899.82] quyết định tài chính của chính bạn ngay
+[901.78] trong hôm nay.
+[903.54] Bạn có thấy hình bóng của cô vũ nữ
+[905.26] Florida
+[906.38] hay là bữa tiệc sâm banh ở AIG đang hiển
+[908.86] hiện quanh mình dưới những cái lớp vỏ
+[910.58] bọc mới không? Đó có thể là những cơn
+[912.38] sốt đất ảo ở khắp các vùng quê.
+[914.58] Nơi mà người ta kháo nhau bỏ tiền cọc,
+[916.66] vay nợ ngân hàng để lướt sóng một mảnh
+[918.62] đất cằn cỗi chỉ vì một lời hứa
+[921.14] cứ mua đi, tháng sau sẽ có người trả giá
+[923.26] cao hơn.
+[924.18] Không cần làm gì cũng giàu.
+[926.18] Đó là những cái hội nhóm đầu tư online
+[927.70] tài chính online,
+[928.82] những sàn giao dịch tiền số rác,
+[930.82] những mô hình đa cấp biến tướng mời gọi
+[932.74] bạn bỏ vốn với cam kết lãi suất 30% 40%
+[936.38] một tháng mà không cần phải có kiến
+[938.10] thức, không cần lao động.
+[940.06] Đó là những cái vị sếp, những đối tác
+[942.06] ngoài miệng thì luôn rao giảng về văn
+[943.74] hóa cống hiến, cùng chung một con
+[945.38] thuyền.
+[946.26] Nhưng mà khi dự án thắng lớn thì họ bỏ
+[948.18] túi toàn bộ lợi nhuận.
+[949.74] Còn khi mà dự án gặp sự cố thì nhân viên
+[951.98] cấp dưới sẽ là những người đầu tiên bị
+[953.54] trừ lương, sa thải để cắt giảm chi phí.
+[956.98] Chúng ta rất dễ nổi giận với những kẻ
+[958.42] lừa đảo hay những cấu trúc bất công.
+[960.78] Thế nhưng hãy dũng cảm nhìn sâu vào nội
+[962.30] tâm và tự hỏi bản thân một câu hỏi hơi
+[964.66] cay.
+[965.70] Đó là tại sao chúng ta lại dễ dàng bước
+[967.34] chân vào những cái bẫy đó?
+[969.62] Câu trả lời đó là bởi vì sâu thẳm bên
+[971.66] trong
+[972.54] bản năng của chúng ta vẫn luôn mang một
+[974.02] khao khát ngây thơ về một bữa trưa miễn
+[976.30] phí.
+[977.54] Chúng ta luôn sợ bị bỏ lại phía sau.
+[979.70] Chúng ta luôn thèm muốn những cái con
+[980.82] đường tắt. Và chúng ta sẵn sàng trao
+[982.98] quyền kiểm soát cuộc đời mình
+[984.50] cho một hệ thống bên ngoài
+[986.30] chỉ để đổi lấy một cảm giác an toàn giả
+[987.94] tạo.
+[989.50] Khi bạn mua một loại tài sản chỉ vì
+[991.58] người ta bảo nó sẽ tăng giá
+[993.38] mà bạn không hiểu giá trị thực của nó ở
+[994.74] đâu
+[995.70] thì bạn à chính là cô vũ nữ Florida mình
+[998.06] có kể trên.
+[999.58] Bạn đang tự nguyện cầm lấy một quả bom
+[1001.10] nổ chậm chỉ vì hy vọng là mình sẽ truyền
+[1003.30] nó kịp thời cho một kẻ ngây thơ hơn mình
+[1005.46] thôi.
+[1007.10] Hệ điều hành tư tưởng của một người tự
+[1008.86] chủ
+[1009.70] hiểu được bản chất tàn nhẫn của thế giới
+[1011.26] tài chính không phải là để chúng ta trở
+[1013.06] nên cay nghiệt, bi quan hay là từ bỏ
+[1015.22] cuộc sống.
+[1016.34] Ngược lại, việc thấu suốt bản chất cuộc
+[1018.26] chơi chính là điều kiện tiên quyết để
+[1020.30] bạn thiết lập nên một hệ điều hành tâm
+[1021.70] thức mới
+[1022.78] giúp bạn bảo vệ chính mình và những
+[1024.62] người thân yêu khỏi những cơn cuồng
+[1026.14] phong của thời đại. Để giành lại chủ
+[1027.82] quyền cá nhân và xây dựng một nền tảng
+[1029.74] tài chính bền vững, bạn cần phải khắc
+[1031.38] ghi lại ba thao tác nhận thức sau đây.
+[1033.70] Thứ nhất, luôn nhìn xuyên qua bề mặt để
+[1035.98] đọc vị dòng chảy lợi ích.
+[1038.34] Từ hôm nay thì đứng trước bất kỳ một cơ
+[1039.90] hội đầu tư nào
+[1041.02] một chính sách mới nào hay một lời đề
+[1042.62] nghị hợp tác hấp dẫn nào
+[1044.38] thì hãy ngừng đặt ra những câu hỏi ngây
+[1045.74] thơ như kiểu là
+[1046.86] cái này có hay không, lãi có cao không?
+[1049.58] Hãy bình thản lùi lại một bước và đặt
+[1051.42] những câu hỏi ở tầng cấu trúc như sau.
+[1054.26] Ai là người thực sự hưởng lợi nhiều nhất
+[1056.06] nếu mà thỏa thuận này thành công?
+[1058.06] Ai sẽ là người gánh chịu toàn bộ thiệt
+[1059.50] hại nếu cỗ xe này nó lao xuống vực?
+[1062.66] Kẻ đang chào mời mình có skin in game
+[1064.78] hay không?
+[1065.98] Nếu họ sai thì họ có mất mát như mình
+[1068.34] hay không?
+[1069.38] Hay là họ chỉ cần nhận tiền hoa hồng rồi
+[1071.42] phủi tay bước đi?
+[1073.22] Nếu bạn nhận thấy rằng mọi rủi ro đều
+[1075.22] dồn hết về phía bạn trong khi lợi nhuận
+[1077.30] lớn thuộc về kẻ khác
+[1078.90] thì bất kể bản kế hoạch đó được trình
+[1080.26] bày lộng lẫy tới đâu hãy cứ mỉm cười và
+[1082.74] lịch sự bước ra khỏi căn phòng đó.
+[1085.30] Thứ hai,
+[1086.22] không bao giờ ủy thác sự an toàn của
+[1087.62] mình cho lòng tốt của hệ thống.
+[1090.14] Hệ thống tài chính, ngân hàng hay các
+[1092.10] tập đoàn lớn là những thực thể vận hành
+[1094.38] bằng logic tối ưu hóa lợi ích của chính
+[1095.94] họ
+[1096.74] chứ không phải là một tổ chức từ thiện.
+[1098.90] Họ sẵn sàng đẩy bạn xuống thuyền để giữ
+[1100.94] cho con tàu của họ không chìm.
+[1102.94] Do đó thì độc lập tài chính không còn là
+[1105.02] một mục tiêu xa xỉ mà là một kỹ năng
+[1107.34] sinh tồn tối thượng.
+[1109.02] Đừng bao giờ dồn toàn bộ tương lai của
+[1110.78] bạn vào một nguồn thu nhập duy nhất.
+[1113.18] Hãy học cách hiểu về tiền thật, hiểu về
+[1115.26] lạm phát, học cách quản trị rủi ro và
+[1117.82] xây dựng một vùng đệm an toàn cho bản
+[1119.42] thân.
+[1120.58] Người có một quỹ dự phòng vững chắc và
+[1122.78] kỹ năng tự thân có giá trị thực tế sẽ là
+[1125.18] người điềm tĩnh nhất khi mà cơn bão tài
+[1126.86] chính quét qua. Thứ ba, chấp nhận quy
+[1130.22] luật.
+[1131.06] Giá trị thực mới là thứ neo đậu duy
+[1132.82] nhất.
+[1134.06] Mọi ảo ảnh về tài chính, dù có được tô
+[1136.18] vẽ bằng những thuật toán phức tạp hay
+[1138.22] những chiêu bài truyền thông hào nhoáng
+[1139.50] thế nào
+[1140.42] thì sớm muộn gì cũng sẽ quy phục trước
+[1142.10] một quy luật tự nhiên bất biến.
+[1143.94] Bạn không thể tạo ra giá trị bền vững từ
+[1146.14] con số 0 được.
+[1147.62] Một căn nhà không thể có giá trị hàng
+[1149.34] triệu đô nếu mà không ai có khả năng chi
+[1151.70] trả tiền thuê để mà sinh sống trong đó.
+[1154.78] Một đồng tiền số cũng không thể tồn tại
+[1156.50] mãi nếu nó không thể giải quyết được bất
+[1158.42] kỳ một bài toán thực tế nào của đời
+[1159.86] sống.
+[1160.94] Và sự nghiệp của một con người không thể
+[1162.90] nào vững chắc được nếu nó chỉ dựa vào
+[1164.86] những mối quan hệ xu nịnh hay là sự may
+[1167.10] mắn chớp nhoáng.
+[1168.98] Và thay vì chạy theo những cái cơn sốt
+[1170.50] ảo và hy vọng rằng mình sẽ là kẻ chuyền
+[1172.62] bom may mắn,
+[1173.86] hãy tập trung toàn bộ năng lượng để tích
+[1175.74] lũy những giá trị có thực.
+[1177.54] Năng lực chuyên môn sâu sắc, sự chính
+[1179.46] trực trong cách làm việc, sức khỏe tinh
+[1181.42] thần bền bỉ và những mối quan hệ chân
+[1183.30] thành.
+[1184.34] Đó là những thứ mà không một cuộc khủng
+[1185.86] hoảng tài chính nào,
+[1187.18] không một ngân hàng đầu tư nào có thể
+[1188.90] tước đoạt hay pha loãng của bạn.
+[1192.06] Nhìn lại câu chuyện của năm 2008, chúng
+[1194.22] ta sẽ thấy một chương đen tối nhưng vô
+[1196.22] cùng đắt giá của lịch sử nhân loại.
+[1198.14] Cô vô nữ ở Florida
+[1199.94] có thể đã quay trở lại với cuộc sống mưu
+[1201.46] sinh nhọc nhằn sau khi năm căn nhà của
+[1203.66] cô ấy bị tịch thu.
+[1205.34] Những tay giám đốc điều hành của AIG có
+[1207.66] thể cũng đã già đi cùng với những cái
+[1209.54] khoản tiền thưởng kếch xù được giấu kỹ
+[1211.70] lưỡng trong các cái thiên đường thuế.
+[1213.82] Những con số trên bản điện tử phố Wall
+[1215.82] sẽ lại tiếp tục nhảy múa
+[1217.50] và những chu kỳ kinh tế mới vẫn đang âm
+[1219.66] thầm tích tụ những quả bong bóng tiếp
+[1221.42] theo.
+[1222.70] Thế nhưng thế giới này thì đã vĩnh viễn
+[1224.18] không còn như trước rồi.
+[1225.90] Vết nứt của năm 2008 đã đánh thức hàng
+[1228.31] triệu con người bước ra khỏi giấc mơ
+[1230.22] ngây thơ.
+[1231.18] Nó dạy chúng ta một bài học cay đắng
+[1232.66] rằng
+[1233.46] trước lồng vô hình lớn nhất giam cầm con
+[1235.42] người chính là sự cả tin mù quáng vào
+[1237.90] một trật tự mà mình không hiểu rõ luật
+[1239.98] chơi.
+[1241.35] Cuộc đời của bạn quá quý giá để bị đem
+[1243.46] ra làm vật thế chấp cho lòng tham của kẻ
+[1245.51] khác.
+[1246.74] Hãy rèn luyện cho mình đôi mắt của một
+[1248.27] người quan sát thấu suốt, một trái tim
+[1250.35] điềm tĩnh, không dao động trước những ảo
+[1252.38] ảnh phù hoa
+[1253.66] và một đôi bàn tay kiên định vun đắp
+[1255.66] những giá trị thực chất.
+[1257.55] Chỉ khi bạn nhìn thấu ma trận của đồng
+[1258.98] tiền,
+[1259.74] bạn mới thực sự chạm tay vào sự tự do
+[1261.87] đích thực.

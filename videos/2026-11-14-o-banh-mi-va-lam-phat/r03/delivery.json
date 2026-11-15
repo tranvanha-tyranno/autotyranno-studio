@@ -1,0 +1,21 @@
+{
+  "title": "Một ổ bánh mì kể chuyện lạm phát",
+  "file": "r03/final.mp4",
+  "sha256": "05c2b38c75c3088b1860d8b3d8ccdf0ba83feefd2790e1a20e538cf5c3a33f3e",
+  "bytes": 88026814,
+  "durationSeconds": 622.3666666666667,
+  "decodedFrames": 18671,
+  "technical": "passed",
+  "asr": "all eight exact-mix chapters, diagnostic only",
+  "visualReview": "sampled frame and temporal proof review; no continuous AV playback claim",
+  "sourceReview": "all150srcfiles accounted",
+  "userApproval": "pending",
+  "reports": {
+    "technical": "r03/qa-report.json",
+    "asr": "audio/asr-base-review.json",
+    "integrity": "review/r03-integrity.json",
+    "earlyVisual": "review/r03-final-visual-early.json",
+    "lateVisual": "review/r03-final-visual-late.json",
+    "source": "r03/source-supplement/workflows/reference-video/SRC_REVIEW_2026-11-14.md"
+  }
+}

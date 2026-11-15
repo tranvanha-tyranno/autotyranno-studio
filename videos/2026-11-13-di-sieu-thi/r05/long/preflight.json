@@ -1,0 +1,287 @@
+{
+  "technicalIntegrity": "passed",
+  "frames": 6150,
+  "seconds": 205,
+  "naturalVoiceSeconds": 203.15,
+  "lastWordEnd": 203.12,
+  "tempo": 1.0,
+  "shots": 24,
+  "uniquePhotos": 17,
+  "allNarrationWordsAligned": true,
+  "publicSource": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r05\\production-public",
+  "sourceInspections": "Recorded actual inspections with matching hashes; machine checks do not establish their semantic truth.",
+  "visualInspection": "Rendered crop, text, timing and motion still require inspection.",
+  "userAcceptance": "pending",
+  "audioListening": "Not established by preparation",
+  "manifestSHA256": "afd5c75088064b5616dabc7d0872c73f217391a94ee46afa9a3aed5d8b5eabaf",
+  "visualCoverage": {
+    "preferredCountry": "VN",
+    "timelineSeconds": 205.0,
+    "documentedCountryPresenceSeconds": {
+      "VN": 117.43333333333334
+    },
+    "preferredCountryPresenceSeconds": 117.43333333333334,
+    "preferredCountryPresenceShare": 0.5728455284552846,
+    "preferredCountryAssetCount": 6,
+    "threeDSeconds": 60.5,
+    "object3DSeconds": 43.5,
+    "basis": "Non-overlapping shot intervals containing catalog assets with source-recorded location evidence. Only used image slots count; geometry-only price has none. A mixed shot counts once per country; animated reveal time and screen area are not measured. This is not full-screen visibility, independent geographic verification or editorial approval.",
+    "shots": [
+      {
+        "shotId": "h1a",
+        "startFrame": 0,
+        "endFrame": 76,
+        "layout": "object3d",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle"
+        ]
+      },
+      {
+        "shotId": "h1b",
+        "startFrame": 76,
+        "endFrame": 169,
+        "layout": "full",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-vinmart-cocacola"
+        ]
+      },
+      {
+        "shotId": "h2",
+        "startFrame": 169,
+        "endFrame": 353,
+        "layout": "object3d",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "h3",
+        "startFrame": 353,
+        "endFrame": 556,
+        "layout": "gallery3d",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-vinmart-times",
+          "vn-noodle-aisle",
+          "vn-bigc-interior"
+        ]
+      },
+      {
+        "shotId": "d1",
+        "startFrame": 556,
+        "endFrame": 815,
+        "layout": "full",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-vinmart-times"
+        ]
+      },
+      {
+        "shotId": "c1",
+        "startFrame": 815,
+        "endFrame": 1072,
+        "layout": "full",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c2",
+        "startFrame": 1072,
+        "endFrame": 1333,
+        "layout": "graphic",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c3",
+        "startFrame": 1333,
+        "endFrame": 1595,
+        "layout": "full",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c4",
+        "startFrame": 1595,
+        "endFrame": 1882,
+        "layout": "diptych",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle",
+          "vn-vinmart-cocacola"
+        ]
+      },
+      {
+        "shotId": "c5",
+        "startFrame": 1882,
+        "endFrame": 2143,
+        "layout": "object3d",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle"
+        ]
+      },
+      {
+        "shotId": "c6",
+        "startFrame": 2143,
+        "endFrame": 2436,
+        "layout": "diptych",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle"
+        ]
+      },
+      {
+        "shotId": "c7",
+        "startFrame": 2436,
+        "endFrame": 2676,
+        "layout": "full",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle"
+        ]
+      },
+      {
+        "shotId": "c8",
+        "startFrame": 2676,
+        "endFrame": 2971,
+        "layout": "full",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-vinmart-cocacola"
+        ]
+      },
+      {
+        "shotId": "c9",
+        "startFrame": 2971,
+        "endFrame": 3272,
+        "layout": "diptych",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-sauce-prices",
+          "vn-seed-prices"
+        ]
+      },
+      {
+        "shotId": "c10",
+        "startFrame": 3272,
+        "endFrame": 3494,
+        "layout": "object3d",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c11",
+        "startFrame": 3494,
+        "endFrame": 3742,
+        "layout": "object3d",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c12",
+        "startFrame": 3742,
+        "endFrame": 4054,
+        "layout": "diptych",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c13",
+        "startFrame": 4054,
+        "endFrame": 4361,
+        "layout": "gallery3d",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle",
+          "vn-vinmart-times",
+          "vn-bigc-interior"
+        ]
+      },
+      {
+        "shotId": "c14",
+        "startFrame": 4361,
+        "endFrame": 4675,
+        "layout": "object3d",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle",
+          "vn-bigc-interior"
+        ]
+      },
+      {
+        "shotId": "c15",
+        "startFrame": 4675,
+        "endFrame": 4970,
+        "layout": "full",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "c16",
+        "startFrame": 4970,
+        "endFrame": 5293,
+        "layout": "full",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-vinmart-times"
+        ]
+      },
+      {
+        "shotId": "a1",
+        "startFrame": 5293,
+        "endFrame": 5567,
+        "layout": "diptych",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "a2",
+        "startFrame": 5567,
+        "endFrame": 5879,
+        "layout": "full",
+        "documentedCountries": [],
+        "preferredCountryAssetIds": []
+      },
+      {
+        "shotId": "a3",
+        "startFrame": 5879,
+        "endFrame": 6150,
+        "layout": "closing",
+        "documentedCountries": [
+          "VN"
+        ],
+        "preferredCountryAssetIds": [
+          "vn-noodle-aisle"
+        ]
+      }
+    ]
+  }
+}

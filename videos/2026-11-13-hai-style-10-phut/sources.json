@@ -1,0 +1,28 @@
+{
+  "consulted": "2026-11-13",
+  "allMoneyExamples": "Original fictional illustrative arithmetic",
+  "sources": [
+    {
+      "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+      "publisher": "Consumer Financial Protection Bureau",
+      "supports": [
+        "Reserve depends on circumstances",
+        "Cash flow is timing of receipts/payments",
+        "Optional automatic saving with balance monitoring"
+      ],
+      "scope": "General education only; no US-specific account/legal rules transferred to Vietnam; original paraphrase"
+    },
+    {
+      "url": "https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/",
+      "publisher": "Consumer Financial Protection Bureau",
+      "supports": [
+        "Spending tracker",
+        "Bill calendar",
+        "Cash flow budget",
+        "Review goals"
+      ],
+      "scope": "Method context, not evidence for fictional salaries or Vietnamese population statistics"
+    }
+  ],
+  "artwork": "Original local SVG animation and previously retained fictional-adult rig; no third-party artwork copied"
+}

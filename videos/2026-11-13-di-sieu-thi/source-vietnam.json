@@ -1,0 +1,674 @@
+[
+  {
+    "id": "vn-noodle-aisle",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 3069470,
+    "file": "vietnam-sources/vn-noodle-aisle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Instant-noodle-isle-2007.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Instant-noodle-isle-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Instant-noodle-isle-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Kham Tran",
+    "sourceDescription": "The instant noodle aisle in a supermarket at the Saigon Tax Trade Center, Ho Chi Minh City,  Vietnam .",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "bytes": 267037,
+    "width": 1024,
+    "height": 768,
+    "sha256": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2007-05-13",
+    "location": {
+      "countryCode": "VN",
+      "place": "Ho Chi Minh City — Saigon Tax Trade Center",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Instant-noodle-isle-2007.jpg",
+      "evidence": "File description explicitly locates this instant-noodle aisle at Saigon Tax Trade Center, Ho Chi Minh City, Vietnam."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Two shoppers inside a narrow aisle lined with instant noodle packets; one holds a red shopping basket while looking toward the right shelf.",
+      "supports": "Browsing grocery aisles, visible shelf density, choosing context; actual basket exists.",
+      "doesNotEstablish": "Not evidence that these people bought unplanned items, overspent, or followed any particular shopping plan.",
+      "focusPercent": [
+        55,
+        53
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+    },
+    "recommendedFocus": [
+      55,
+      53
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Kham Tran — Instant-noodle-isle-2007 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Instant-noodle-isle-2007.jpg — http://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-bigc-interior",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 26913383,
+    "file": "vietnam-sources/vn-bigc-interior.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Big_C_Vietnam_1.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Big_C_Vietnam_1.jpg/1280px-Big_C_Vietnam_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/2/26/Big_C_Vietnam_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Groupe Casino",
+    "sourceDescription": "Intérieur Big C au Vietnâm",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 343469,
+    "width": 1280,
+    "height": 853,
+    "sha256": "ec5514d9e75b0f8731715fd925fef743dec8a7ce0632997342482fba0068f4fc",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2013-06-27 17:58:46",
+    "location": {
+      "countryCode": "VN",
+      "place": "Vietnam — Big C; Commons category identifies Thanglong BigC Supercenter",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Big_C_Vietnam_1.jpg",
+      "evidence": "File description says Intérieur Big C au Vietnâm; source category is Thanglong BigC Supercenter. Country is documented; category supports Big C Thang Long context."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Dense crowd carrying red baskets around checkout stations numbered1A/1B; checkout staff and Vietnamese TÍNH TIỀN NHANH signage are visible.",
+      "supports": "Checkout queue, crowded checkout context, visible shopping baskets.",
+      "doesNotEstablish": "Not evidence of impulsive purchases, basket-size change, current Big C conditions or the behavior of the depicted people.",
+      "focusPercent": [
+        63,
+        47
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "ec5514d9e75b0f8731715fd925fef743dec8a7ce0632997342482fba0068f4fc"
+    },
+    "recommendedFocus": [
+      63,
+      47
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Groupe Casino — Big C Vietnam 1 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Big_C_Vietnam_1.jpg — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-vinmart-times",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 50961539,
+    "file": "vietnam-sources/vn-vinmart-times.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:VinMart_Times_City.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/VinMart_Times_City.jpg/1280px-VinMart_Times_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/4/40/VinMart_Times_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Newone",
+    "sourceDescription": "Vinmart super market at Times City",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 311058,
+    "width": 1280,
+    "height": 960,
+    "sha256": "b9eeaae1fc84c61bd1d9ff0ceac2403391ef7f86d5ad80c05de542b1ed178a17",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2016-08-29 20:45:28",
+    "location": {
+      "countryCode": "VN",
+      "place": "Times City, Hanoi",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:VinMart_Times_City.jpg",
+      "evidence": "File description identifies Vinmart super market at Times City; Commons categories include Times City and Summer in Vietnam. Source identifies this Vietnamese location."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Wide fruit-and-vegetable area inside VinMart, with shoppers, produce tables and hanging Vietnamese shelf-price signs.",
+      "supports": "Vietnam supermarket produce, choosing food and price-display context.",
+      "doesNotEstablish": "Not proof of overspending or shoppers’ intentions; prices are from this2016 photograph, not current offers.",
+      "focusPercent": [
+        57,
+        64
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "b9eeaae1fc84c61bd1d9ff0ceac2403391ef7f86d5ad80c05de542b1ed178a17"
+    },
+    "recommendedFocus": [
+      57,
+      64
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Newone — VinMart Times City — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:VinMart_Times_City.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-vinmart-cocacola",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 117050202,
+    "file": "vietnam-sources/vn-vinmart-cocacola.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg/1280px-Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Phat14082005",
+    "sourceDescription": "Coca-Cola tại siêu thị Vinmart.",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 183163,
+    "width": 724,
+    "height": 1280,
+    "sha256": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2022-04-20 10:29:51",
+    "location": {
+      "countryCode": "VN",
+      "place": "Vietnam — VinMart; exact branch not documented",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg",
+      "evidence": "File title Coca-cola tại Việt Nam and description Coca-Cola tại siêu thị Vinmart establish Vietnam/VinMart, without an exact branch."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Coca-Cola bottles with Vietnamese labels and a yellow KHUYẾN MẠI tag showing15.400; timestamp watermark at bottom.",
+      "supports": "Physical promotion-tag example in a Vietnamese supermarket.",
+      "doesNotEstablish": "Not a current applicable offer, not the hypothetical30k/50k example, and not a claim about this brand encouraging overspending.",
+      "focusPercent": [
+        50,
+        60
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697"
+    },
+    "recommendedFocus": [
+      50,
+      60
+    ],
+    "recommendedFit": "contain",
+    "attribution": "Phat14082005 — Coca-cola tại Việt Nam — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-sauce-prices",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 94837016,
+    "file": "vietnam-sources/vn-sauce-prices.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg/1280px-Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Lcsnes",
+    "sourceDescription": "Tartar sauce and mayonaise on the shelves in the Vietnamese supermarket",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 401725,
+    "width": 1118,
+    "height": 1280,
+    "sha256": "857a0b90d7260d4ae4e421011059e0e8f34b4571790b73e124c1dbe2277784f2",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2020-10-03 17:36:58",
+    "location": {
+      "countryCode": "VN",
+      "place": "Vietnam — supermarket; exact branch not documented",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg",
+      "evidence": "File description says Tartar sauce and mayonaise on the shelves in the Vietnamese supermarket; category Supermarkets in Vietnam reinforces location. No city or branch asserted."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Kewpie sauce and mayonnaise pouches of several weights on supermarket shelves; Vietnamese labels and dong-denominated price tags including22,700 and42,600 are visible.",
+      "supports": "Reading price/weight labels and comparing package-size context.",
+      "doesNotEstablish": "Not evidence for the narrated hypothetical30,000/50,000 pair, no current-price claim, and no inference that products are identical or unit prices equivalent.",
+      "focusPercent": [
+        50,
+        64
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "857a0b90d7260d4ae4e421011059e0e8f34b4571790b73e124c1dbe2277784f2"
+    },
+    "recommendedFocus": [
+      50,
+      64
+    ],
+    "recommendedFit": "contain",
+    "attribution": "Lcsnes — Tartar sauce and mayonaise in the Vietnamese supermarket — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-seed-prices",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 97220037,
+    "file": "vietnam-sources/vn-seed-prices.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roasted_sunflower_seeds_from_Russia.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Roasted_sunflower_seeds_from_Russia.jpg/1280px-Roasted_sunflower_seeds_from_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Roasted_sunflower_seeds_from_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Amikeco (В. Иванов)",
+    "sourceDescription": "Российские семена подсолнечника во вьетнамском супермаркете",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 378534,
+    "width": 958,
+    "height": 1280,
+    "sha256": "317f9e94b2feaceda0771e2693e195cc70d0cf07088ea0ad4dd521883961b059",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2020-02-17 17:42:00",
+    "location": {
+      "countryCode": "VN",
+      "place": "Vietnam — supermarket; exact branch not documented",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Roasted_sunflower_seeds_from_Russia.jpg",
+      "evidence": "Author description says Russian sunflower seeds in a Vietnamese supermarket; source category is Supermarket shelves in Vietnam. Product origin Russia is distinct from photo location Vietnam."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Packets of sunflower seeds and snack nuts, with different packet weights and VinMart shelf labels including51.900 and26.200; milk cartons behind.",
+      "supports": "Vietnam grocery shelf pricing, package variety and a readable shelf-price comparison context.",
+      "doesNotEstablish": "Not the hypothetical30k/50k pair, not a verified current offer or an observed customer decision.",
+      "focusPercent": [
+        55,
+        62
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "317f9e94b2feaceda0771e2693e195cc70d0cf07088ea0ad4dd521883961b059"
+    },
+    "recommendedFocus": [
+      55,
+      62
+    ],
+    "recommendedFit": "contain",
+    "attribution": "Amikeco (В. Иванов) — Roasted sunflower seeds from Russia — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Roasted_sunflower_seeds_from_Russia.jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-hanoi-vegetables",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 196184484,
+    "file": "vietnam-sources/vn-hanoi-vegetables.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hanoi_-_Vegetables_for_sale.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Hanoi_-_Vegetables_for_sale.jpg/1280px-Hanoi_-_Vegetables_for_sale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hanoi_-_Vegetables_for_sale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "P. Hughes",
+    "sourceDescription": "Vegetables for sale, Hanoi, Vietnam",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "bytes": 472654,
+    "width": 1280,
+    "height": 845,
+    "sha256": "ea2b8d53e0b9a963796986a3bbda03bd3cd5d066f58d05d95534e6aef4167fcf",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2014",
+    "location": {
+      "countryCode": "VN",
+      "place": "Hanoi, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Hanoi_-_Vegetables_for_sale.jpg",
+      "evidence": "Source description explicitly states Vegetables for sale, Hanoi, Vietnam; category Markets in Hanoi."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Street-side display of cabbages, tomatoes, cucumbers, roots and greens arranged in baskets; no shopping transaction visible.",
+      "supports": "Everyday Hanoi food ingredients and local-shopping context.",
+      "doesNotEstablish": "Does not show supermarket checkout, a purchase, food waste, household spending, storage or a shopping list.",
+      "focusPercent": [
+        52,
+        60
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "ea2b8d53e0b9a963796986a3bbda03bd3cd5d066f58d05d95534e6aef4167fcf"
+    },
+    "recommendedFocus": [
+      52,
+      60
+    ],
+    "recommendedFit": "cover",
+    "attribution": "P. Hughes — Hanoi - Vegetables for sale — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Hanoi_-_Vegetables_for_sale.jpg — https://creativecommons.org/licenses/by/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-hoian-vendor",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 34228147,
+    "file": "vietnam-sources/vn-hoian-vendor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_vendor_on_H%E1%BB%99i_An_Central_market_(14488377569).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Vegetable_vendor_on_H%E1%BB%99i_An_Central_market_%2814488377569%29.jpg/1280px-Vegetable_vendor_on_H%E1%BB%99i_An_Central_market_%2814488377569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vegetable_vendor_on_H%E1%BB%99i_An_Central_market_%2814488377569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Erwin Verbruggen  from Amsterdam, The Netherlands",
+    "sourceDescription": "Hội An, Vietnam",
+    "license": "CC BY-SA 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "bytes": 356054,
+    "width": 1280,
+    "height": 857,
+    "sha256": "82e8406858122e1dfab60032255f6f21158de2f92b362b8fa1e00380a97fd086",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2014-06-23 03:54",
+    "location": {
+      "countryCode": "VN",
+      "place": "Hội An, Vietnam — Central market",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Vegetable_vendor_on_H%E1%BB%99i_An_Central_market_(14488377569).jpg",
+      "evidence": "Source title identifies Vegetable vendor on Hội An Central market; description states Hội An, Vietnam."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "A vendor sits beside baskets and open sacks of food; another person leans over a basket of greens in the background.",
+      "supports": "Local food market and produce-handling context.",
+      "doesNotEstablish": "No asserted customer endorsement, spending motive, food waste, kitchen storage or supermarket transaction.",
+      "focusPercent": [
+        56,
+        52
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "82e8406858122e1dfab60032255f6f21158de2f92b362b8fa1e00380a97fd086"
+    },
+    "recommendedFocus": [
+      56,
+      52
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Erwin Verbruggen  from Amsterdam, The Netherlands — Vegetable vendor on Hội An Central market (14488377569) — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Vegetable_vendor_on_H%E1%BB%99i_An_Central_market_(14488377569).jpg — https://creativecommons.org/licenses/by-sa/2.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-saigon-market",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 19315639,
+    "file": "vietnam-sources/vn-saigon-market.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saigon_market_vegetables.JPG",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Saigon_market_vegetables.JPG/1280px-Saigon_market_vegetables.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Saigon_market_vegetables.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Takeaway",
+    "sourceDescription": "Vegetable stall in Saigon",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 312641,
+    "width": 1280,
+    "height": 848,
+    "sha256": "d34bd26e0641236dea83299a16325c8c62018092aca70ab71dfa5771e6c342b0",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2011-09-19",
+    "location": {
+      "countryCode": "VN",
+      "place": "Ho Chi Minh City, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Saigon_market_vegetables.JPG",
+      "evidence": "Source description says Vegetable stall in Saigon; categories Markets in Ho Chi Minh City and Vegetable markets in Vietnam; recorded coordinates10.763256,106.695916."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Leafy greens fill baskets and a street market stall; two seated vendors and partial shoppers appear behind.",
+      "supports": "Fresh greens at a Ho Chi Minh City market; local-food context.",
+      "doesNotEstablish": "No visible fridge, shopping list, food-waste event, impulse purchase or spending amount.",
+      "focusPercent": [
+        49,
+        61
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "d34bd26e0641236dea83299a16325c8c62018092aca70ab71dfa5771e6c342b0"
+    },
+    "recommendedFocus": [
+      49,
+      61
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Takeaway — Saigon market vegetables — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Saigon_market_vegetables.JPG — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-cantho-market",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 18009271,
+    "file": "vietnam-sources/vn-cantho-market.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Can_Tho_City_-_Street_Market,_vegetable.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Can_Tho_City_-_Street_Market%2C_vegetable.jpg/1280px-Can_Tho_City_-_Street_Market%2C_vegetable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/8/89/Can_Tho_City_-_Street_Market%2C_vegetable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Franzfoto",
+    "sourceDescription": "Can Tho City-Street Market,vegetable",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 311823,
+    "width": 1280,
+    "height": 747,
+    "sha256": "c47331031f2432ed864bdc0d51100e40a3bf11b657db2fa74ce360244f44a6ea",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2011-11",
+    "location": {
+      "countryCode": "VN",
+      "place": "Cần Thơ, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Can_Tho_City_-_Street_Market,_vegetable.jpg",
+      "evidence": "Source title and description identify Can Tho City street market; categories Economy of Can Tho and Vegetable markets in Vietnam."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Many baskets contain vegetables and herbs on the ground at a street market; no identifiable transaction.",
+      "supports": "Fresh grocery variety and local food context.",
+      "doesNotEstablish": "No evidence of planning, purchased quantities, refrigerator contents, food waste or supermarket checkout.",
+      "focusPercent": [
+        52,
+        58
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "c47331031f2432ed864bdc0d51100e40a3bf11b657db2fa74ce360244f44a6ea"
+    },
+    "recommendedFocus": [
+      52,
+      58
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Franzfoto — Can Tho City - Street Market, vegetable — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Can_Tho_City_-_Street_Market,_vegetable.jpg — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  },
+  {
+    "id": "vn-ecopark-grocery",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 62658797,
+    "file": "vietnam-sources/vn-ecopark-grocery.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Groceries_store_in_the_Pho_Truc_shopping_district_(2017).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Groceries_store_in_the_Pho_Truc_shopping_district_%282017%29.jpg/1280px-Groceries_store_in_the_Pho_Truc_shopping_district_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Groceries_store_in_the_Pho_Truc_shopping_district_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Donald Trung",
+    "sourceDescription": "A small supermarket in the shopping 🏬 district of Ecopark.",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 272184,
+    "width": 1280,
+    "height": 720,
+    "sha256": "044f219ee5dbf6705a2a72b481130a90cf93cd66baacaf1789fb4841b2a74f4f",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2017-08-31 16:51:36",
+    "location": {
+      "countryCode": "VN",
+      "place": "Ecopark, Vietnam — Phố Trúc shopping district",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Groceries_store_in_the_Pho_Truc_shopping_district_(2017).jpg",
+      "evidence": "Source title names Pho Truc shopping district, description small supermarket in Ecopark; category Ecopark (Vietnam), recorded coordinates20.972143,105.923736."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Street-front grocery shop with open entrance, stacked retail goods inside, sign GIÁ TỐT and potted bamboo.",
+      "supports": "External neighborhood-grocery establishing shot only.",
+      "doesNotEstablish": "Does not show someone choosing products, checkout, kitchen or waste; do not use for claims about interior behavior.",
+      "focusPercent": [
+        53,
+        53
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "044f219ee5dbf6705a2a72b481130a90cf93cd66baacaf1789fb4841b2a74f4f"
+    },
+    "recommendedFocus": [
+      53,
+      53
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Donald Trung — Groceries store in the Pho Truc shopping district (2017) — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Groceries_store_in_the_Pho_Truc_shopping_district_(2017).jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "exterior-establishing-only"
+  },
+  {
+    "id": "vn-kmarket",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 66700302,
+    "file": "vietnam-sources/vn-kmarket.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:K-Market,_Ecopark_(2018).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/K-Market%2C_Ecopark_%282018%29.jpg/1280px-K-Market%2C_Ecopark_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/8/82/K-Market%2C_Ecopark_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Donald Trung",
+    "sourceDescription": "A supermarket 🛒 specialised in South-Korean in Ecopark, Viet-Nam.",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 173164,
+    "width": 1280,
+    "height": 720,
+    "sha256": "89e8ba2f38435e56ae91c47835831c913c8ec67e27292b853f803b33d45636af",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2018-02-22 08:48:05",
+    "location": {
+      "countryCode": "VN",
+      "place": "Ecopark, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:K-Market,_Ecopark_(2018).jpg",
+      "evidence": "Source description explicitly states A supermarket specialised in South-Korean in Ecopark, Viet-Nam; location does not mean photographed products were Vietnamese-made."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "K-MARKET sign above a shop entrance with a Fresh food poster and outdoor chairs; no groceries being selected.",
+      "supports": "Exterior store context only.",
+      "doesNotEstablish": "Does not show supermarket aisle, checkout, prices, household spending or a transaction.",
+      "focusPercent": [
+        52,
+        44
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "89e8ba2f38435e56ae91c47835831c913c8ec67e27292b853f803b33d45636af"
+    },
+    "recommendedFocus": [
+      52,
+      44
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Donald Trung — K-Market, Ecopark (2018) — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:K-Market,_Ecopark_(2018).jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "exterior-establishing-only"
+  },
+  {
+    "id": "vn-bbmart",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 66958413,
+    "file": "vietnam-sources/vn-bbmart.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BB_Mart,_Hanoi_(2018).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/BB_Mart%2C_Hanoi_%282018%29.jpg/1280px-BB_Mart%2C_Hanoi_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/BB_Mart%2C_Hanoi_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Donald Trung",
+    "sourceDescription": "A very small supermarket 🛒 in Hanoi.",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "bytes": 258044,
+    "width": 720,
+    "height": 1280,
+    "sha256": "dc5a38e03bce4d0475060251bec64402fe75ef94be2556808caebf99bc49f064",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2018-03-02 09:54:05",
+    "location": {
+      "countryCode": "VN",
+      "place": "Hanoi, Vietnam —214 Trần Quang Khải",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:BB_Mart,_Hanoi_(2018).jpg",
+      "evidence": "File description explicitly states a very small supermarket in Hanoi; category Shops in Hanoi and coordinates21.026375,105.859030."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "Small BB MART shopfront with Vietnamese address214 Trần Quang Khải and retail cartons displayed by the entrance.",
+      "supports": "Hanoi neighborhood-grocery exterior only.",
+      "doesNotEstablish": "No choosing or checkout action, no proof of shopping intent or purchases.",
+      "focusPercent": [
+        50,
+        37
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "dc5a38e03bce4d0475060251bec64402fe75ef94be2556808caebf99bc49f064"
+    },
+    "recommendedFocus": [
+      50,
+      37
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Donald Trung — BB Mart, Hanoi (2018) — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:BB_Mart,_Hanoi_(2018).jpg — https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "exterior-establishing-only"
+  },
+  {
+    "id": "vn-hue-customer",
+    "provider": "Wikimedia Commons",
+    "providerPhotoId": 28965416,
+    "file": "vietnam-sources/vn-hue-customer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crouching_customer_om_market_Hue_Vietnam.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Crouching_customer_om_market_Hue_Vietnam.jpg/960px-Crouching_customer_om_market_Hue_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFileURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Crouching_customer_om_market_Hue_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Peter van der Sluijs",
+    "sourceDescription": "Crouching customer on market Hue Vietnam",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "bytes": 202357,
+    "width": 960,
+    "height": 640,
+    "sha256": "7eb154a167ea3a66860686a4c9c7476fdff07f4ac26f09e6be7e8602a2d8e9c2",
+    "role": "Illustrative archival photograph of documented Vietnam location; people are not asserted to overspend or endorse the video.",
+    "capturedDate": "2013-10-12",
+    "location": {
+      "countryCode": "VN",
+      "place": "Huế, Vietnam",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Crouching_customer_om_market_Hue_Vietnam.jpg",
+      "evidence": "Source description identifies customer on market Hue Vietnam; categories include Markets in Huế and Women at work in Vietnam."
+    },
+    "inspectionStatus": "source-image-inspected",
+    "sourcePageVerifiedVia": "Wikimedia Commons primary imageinfo/extmetadata API retrieved2026-11-13; four core pages also opened with web.run.",
+    "inspection": {
+      "observer": "vietnam_assets agent",
+      "method": "Opened3contact sheets covering first13images; individually opened checkout, VinMart produce, sauce-price, seed-price and Huế-customer images. Actual source pixels inspected; no rendered-crop QA claimed.",
+      "observedSubjectAction": "A crouching woman beside baskets of eggs and vegetables holds paper notes while facing a person at the stall; motorbikes are parked behind.",
+      "supports": "Vietnam local-market shopping and handling-money context.",
+      "doesNotEstablish": "Handing over money is not continuously observed; no asserted spend, overspending, budget or intent; this is a market, not supermarket checkout.",
+      "focusPercent": [
+        56,
+        55
+      ],
+      "checkedDate": "2026-11-13",
+      "sourceSha256": "7eb154a167ea3a66860686a4c9c7476fdff07f4ac26f09e6be7e8602a2d8e9c2"
+    },
+    "recommendedFocus": [
+      56,
+      55
+    ],
+    "recommendedFit": "cover",
+    "attribution": "Peter van der Sluijs — Crouching customer om market Hue Vietnam — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Crouching_customer_om_market_Hue_Vietnam.jpg — https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Downloaded Commons thumbnail, converted/recompressed as JPEG; no subject/object generation. Any crop/animation must be recorded by consuming production batch.",
+    "editorialSuitability": "inspect-rendered-crop-and-clause-before-use"
+  }
+]

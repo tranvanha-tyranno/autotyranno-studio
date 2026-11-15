@@ -1,0 +1,140 @@
+{
+  "lesson_id": "evt-000026-113fcfea2f87",
+  "batch": "videos/2026-11-13-quan-dong-khach-het-tien",
+  "revision": "initial-20261113T035136Z",
+  "change": "Implemented a new isolated BusinessPreview renderer with photo/clip montage, receipt sheets, kinetic questions, charts, choice splits and actual LatheGeometry coffee cup/coins; authored an original58-beat8-chapter business script with exact natural narration (~595s), licensed22-source contextual library and location limits; generated5distinct120s instrumental tracks plus10contextual Foley assets, beat-aligned cues,2quiet pivots and voice-first mix. Initial snapshot and receipts are retained. The full render and plannedr02 corrections remain pending output review and user feedback; this application is NOT verification or approval.",
+  "evidence": [
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/batch/content.json",
+      "role": "script",
+      "sha256": "f3a68810d0b88a38503d89c19c6276a2241ae396a6299a6e9e0c3302d9072053",
+      "description": "Immutable initial render source snapshot: batch/content.json"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/batch/visual-plan.json",
+      "role": "report",
+      "sha256": "82fce62feb4b4666468916b02b0dc9d6bbb1b252cbee5db4d51ffcd496bb5111",
+      "description": "Immutable initial render source snapshot: batch/visual-plan.json"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/batch/source-receipts.json",
+      "role": "report",
+      "sha256": "f3b52d7d9ce0c12d2351a4edbc6acfafca893136a261e6810e611939e3cf2839",
+      "description": "Immutable initial render source snapshot: batch/source-receipts.json"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/batch/audio/mix-report.json",
+      "role": "report",
+      "sha256": "6c20d11dcc567d1eb7655dfb081036fc93b7f996c46cdaa9b3d129c9cab26353",
+      "description": "Immutable initial render source snapshot: batch/audio/mix-report.json"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/batch/audio/narration.receipt.json",
+      "role": "report",
+      "sha256": "0549cb85c2cdc8ba2f630238f928af365858d769474b25a7b7a5da7c6f88d56b",
+      "description": "Immutable initial render source snapshot: batch/audio/narration.receipt.json"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/business.py",
+      "role": "code",
+      "sha256": "a85e605e8dc3422d3ddb10d2067960db0b3592d3449ba97b752b47c02285e9ec",
+      "description": "Immutable initial render source snapshot: workflow/business.py"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/business_audio.py",
+      "role": "code",
+      "sha256": "caab3ff5c2e7d73c835948ac5b796621f3ca5d76abef95ab3a90f012c859fbfa",
+      "description": "Immutable initial render source snapshot: workflow/business_audio.py"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/business_render.py",
+      "role": "code",
+      "sha256": "af8f9812db54c622a0017ee1aa20ae0fccc6ec14181b3c74a6c7f5a98a6b3fb3",
+      "description": "Immutable initial render source snapshot: workflow/business_render.py"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business-entry.tsx",
+      "role": "code",
+      "sha256": "277dfd37cbcc61e364adae0f81f2cf80570fce575f6d2bd4e5406675c2d05985",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business-entry.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/BusinessFilm.tsx",
+      "role": "code",
+      "sha256": "86f473308d9921e3c9eb520542881d439b78cf70656dbe5ae36247add5f085ae",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/BusinessFilm.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/ChartScene.tsx",
+      "role": "code",
+      "sha256": "22861ea733e8240cc599ee12a21b589c704e8c422f2210ed87af7b6bebc62a3b",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/ChartScene.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/CoffeeScene.tsx",
+      "role": "code",
+      "sha256": "3959b435ea51f4b841400b985cadc683106ae15bf73820fd48ea509999a2972c",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/CoffeeScene.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/index.ts",
+      "role": "code",
+      "sha256": "edd051a3e1b464e4af10f93b04ae8a2648b5456b2892b3e400545054cffa63a0",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/index.ts"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/PaperScene.tsx",
+      "role": "code",
+      "sha256": "84ba0e6e53108f5694130b624b56b32a0c91d2d42cf9e674408069722baaa1e4",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/PaperScene.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/PhotoScene.tsx",
+      "role": "code",
+      "sha256": "3068b9bf207ea7fca29bf37796e6e6d0dcd823cf761f283613e9445a0b0d9eb8",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/PhotoScene.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/QuestionScene.tsx",
+      "role": "code",
+      "sha256": "15fbe9cf73ff1c83a5479c789c888b3236ef53a69368346a6a0350073a942427",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/QuestionScene.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/README.md",
+      "role": "code",
+      "sha256": "3afa5c8b08bd3c2321502bfcc2e6fa3d0c7ea253ef37782dd03e89e5ac38bde0",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/README.md"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/Shared.tsx",
+      "role": "code",
+      "sha256": "af8a78b9b493243782098628f043e172ee13dac0292d046fa9511f0f51c49611",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/Shared.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/SplitScene.tsx",
+      "role": "code",
+      "sha256": "5397b0549f78b6f1c3b4d091cad3695703ff7d3534872d883bd626a918c3a517",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/SplitScene.tsx"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/render-attempts/20261113T035136Z/source-snapshot/workflow/cinematic/src/business/types.ts",
+      "role": "code",
+      "sha256": "51dd6583ed3dbad69edc367d2b0de0e3bc9475d3bcc9a7a9fca06ce68755ab70",
+      "description": "Immutable initial render source snapshot: workflow/cinematic/src/business/types.ts"
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/learning/evidence/initial-generation-receipts.json",
+      "role": "report",
+      "sha256": "bee1cc729597af7547cddf7897c57178bb829cdc7db1467955cff86f15fd7c2f",
+      "description": "Immutable initial audio planning/generation receipt snapshot; not listening acceptance."
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/learning/evidence/initial-sound-plan.json",
+      "role": "report",
+      "sha256": "86ac5ff325f587dfe079c66f4fa0cf6ee9e7196e34e51034db16cbea0099db8b",
+      "description": "Immutable initial audio planning/generation receipt snapshot; not listening acceptance."
+    }
+  ]
+}

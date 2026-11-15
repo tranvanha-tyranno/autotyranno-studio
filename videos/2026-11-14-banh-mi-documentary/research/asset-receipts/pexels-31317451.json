@@ -1,0 +1,50 @@
+{
+  "pexelsID": 31317451,
+  "pageURL": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-street-vendor-31317451/",
+  "title": "Authentic Vietnamese Banh Mi street vendor",
+  "creator": "Vietnam Street Food TV",
+  "downloadURL": "https://videos.pexels.com/video-files/31317451/13369416_3840_2160_60fps.mp4",
+  "tags": [
+    "bread",
+    "bakery",
+    "shop",
+    "storage"
+  ],
+  "id": "pexels-31317451",
+  "file": "assets/raw/pexels-31317451.mp4",
+  "sha256": "248434fa66b96d3d056ca85d8cd28be62e6c925cdb86df1289769368ef0728a5",
+  "bytes": 18748112,
+  "durationSeconds": 5.77,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 4.37,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Glass street-food cabinet with short elongated golden baguettes and meat trays; gloved hand lifts a loaf, vendor preparing behind display. Strong finished-bread/shop visual.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-31317451.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.1,
+      "end": 5.55,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 3840,
+  "height": 2160,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-street-vendor-31317451/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

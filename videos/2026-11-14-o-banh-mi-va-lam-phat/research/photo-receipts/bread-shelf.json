@@ -1,0 +1,42 @@
+{
+  "id": "bread-shelf",
+  "file": "assets/bread-shelf.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 11953880,
+  "sourceURL": "https://www.pexels.com/photo/close-up-photo-of-baguettes-11953880/",
+  "downloadURL": "https://images.pexels.com/photos/11953880/pexels-photo-11953880.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Diana Roşca",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "e0ec36c2ddd1d418f0d3b39fb0462e6bd0ae91a110cfce598e7e70485f66ce5d",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "bread"
+  ],
+  "credit": "Diana Roşca / Pexels",
+  "expectedFromSource": "Fresh baguettes on shelf",
+  "observed": "Several browned long baguettes laid diagonally on wooden shelves; foremost loaf sharply visible, background soft. Proposed landscape crop preserves bread and crust detail.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "e0ec36c2ddd1d418f0d3b39fb0462e6bd0ae91a110cfce598e7e70485f66ce5d"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Not the fictional Hạnh or her shop; no claims about the pictured person’s income, pricing, profit, employment, behavior or endorsement. Archival source; not evidence of present-day prices.",
+  "reusedSource": null
+}

@@ -1,0 +1,240 @@
+{
+  "schema": "economy-story-applied-repair-evidence/1",
+  "date": "2026-11-14",
+  "fromRevision": "r01",
+  "toRevision": "r02",
+  "status": "applied-and-observed-at-listed-sampled-frames",
+  "lessons": [
+    {
+      "problem": "Normal-flow blur layer displaced contain foreground below visible image stage.",
+      "appliedCorrection": "Position image layers over each other so complete sharp foreground remains visible.",
+      "scope": "22previouslyflaggedsampledframes"
+    },
+    {
+      "problem": "Stale timeline process snapshot exposed derived result on setup beat.",
+      "appliedCorrection": "Load stage flag in fresh preparation process; hide derived real-wage result until calculation beat.",
+      "scope": "e40sample"
+    }
+  ],
+  "unchangedChecks": {
+    "narrationAndSegmentTimingEqual": true,
+    "captionsEqual": true,
+    "wordsEqual": true,
+    "durationFramesEqual": true,
+    "mixDependencyHashEqual": true,
+    "audioSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "audioHashScope": "Dependency hash equality, not a claim of listening or subjective mix approval."
+  },
+  "frameEvidence": [
+    {
+      "beat": "e13",
+      "before": "r01/preflight/beat-e13-03422.jpg",
+      "beforeSHA256": "ec1970bce76639ce0c4ec574e47be388b785b0327ff5c8554102e773f1183f45",
+      "after": "r02/preflight/beat-e13-03422.jpg",
+      "afterSHA256": "57ca44814e885a519832c22844101eb65022cfde26df97b185bbd0bc6e95bf26",
+      "changed": true,
+      "observed": "Sharp20,000VND note is now visible inside portrait contain; image gives money context only, not evidence for any comparison period."
+    },
+    {
+      "beat": "e19",
+      "before": "r01/preflight/beat-e19-05630.jpg",
+      "beforeSHA256": "a7f3577aaea8868efb7b4b3a4e4669c35cb17394dcc1ffb8c79e2660dcf7755a",
+      "after": "r02/preflight/beat-e19-05630.jpg",
+      "afterSHA256": "6f06c19cc735b560f624337daada77e819037c3e386fcbf6957de30b1d289c4b",
+      "changed": true,
+      "observed": "Sieve, falling flour and hands are clearly visible in complete portrait crop. Supports flour/input work only, not real measured cost changes or fictional identity."
+    },
+    {
+      "beat": "e22",
+      "before": "r01/preflight/beat-e22-06689.jpg",
+      "beforeSHA256": "12476509997428725ecd50b3b115c9207fa390b1cea46ab358c9aade0f798fad",
+      "after": "r02/preflight/beat-e22-06689.jpg",
+      "afterSHA256": "5d09470ce04e2c9feacfccca0c452391213fd8a58f6a325460ccc1b66ebdce1f",
+      "changed": true,
+      "observed": "Both baked-bread/oven panels are now visible. They support bakery/capacity context; no visible queue proves the fictional demand increase."
+    },
+    {
+      "beat": "e23",
+      "before": "r01/preflight/beat-e23-07048.jpg",
+      "beforeSHA256": "0ac4d388f161bfad6b365358082c88856422a2e3337444571ef9389a050c59f3",
+      "after": "r02/preflight/beat-e23-07048.jpg",
+      "afterSHA256": "fd901796dca9366522869cb4ad94eb76161135059e4f0cfd490137e6179885d3",
+      "changed": true,
+      "observed": "Bread and hand at oven now visible; supports equipment/production context, not a measured capacity limit."
+    },
+    {
+      "beat": "e25",
+      "before": "r01/preflight/beat-e25-07404.jpg",
+      "beforeSHA256": "bab221aff3f78f68d8f2171d87286a9940fc736f64c05fe0e0e37fbca42d2a33",
+      "after": "r02/preflight/beat-e25-07404.jpg",
+      "afterSHA256": "049fd848a32bb2cd06ec0163f249914b351e9259d5433496453cfb586fabd507",
+      "changed": true,
+      "observed": "Sharp VND note visible against blurred filler edges. Context for monetary expectations only; cannot photograph beliefs."
+    },
+    {
+      "beat": "e26",
+      "before": "r01/preflight/beat-e26-07779.jpg",
+      "beforeSHA256": "877bc0914d6c89c11572a846f1666169792efb0265cca1e757f66ba2c3e17260",
+      "after": "r02/preflight/beat-e26-07779.jpg",
+      "afterSHA256": "dd6491abf75f553598792da9688bdc16e41cdab74c9ec455368443603cc8659e",
+      "changed": true,
+      "observed": "Sharp VND note visible; no wage or real-person financial behavior is inferred from it."
+    },
+    {
+      "beat": "e27",
+      "before": "r01/preflight/beat-e27-08166.jpg",
+      "beforeSHA256": "0561cb563a6d96410a1ac4cbf88793adbe719b8bc7c1b02742bdadc5f8ebb5df",
+      "after": "r02/preflight/beat-e27-08166.jpg",
+      "afterSHA256": "3379a6fd34e9309471280767eaaaaf54681b31c24ec35cf1ec136557415c99aa",
+      "changed": true,
+      "observed": "Both market interaction and street-commerce photographs visible; contextual commerce illustration, not evidence of actual profit changes."
+    },
+    {
+      "beat": "e29",
+      "before": "r01/preflight/beat-e29-08954.jpg",
+      "beforeSHA256": "37d9876ca4ca0d03ada5cac6201b00efb70bef452ea592e072da9f8ba3cde576",
+      "after": "r02/preflight/beat-e29-08954.jpg",
+      "afterSHA256": "22b061bcbb0a85cc6fbed4bf45ac459062faf8b4ec874a4237eecc7bbbb61a08",
+      "changed": true,
+      "observed": "Hands holding long receipt clearly visible; supports bill/cost context, not measured rent,wages or the specific hypothetical contracts."
+    },
+    {
+      "beat": "e31",
+      "before": "r01/preflight/beat-e31-09700.jpg",
+      "beforeSHA256": "1342b2971a03d968070f817a2c575b598360754b6c1c8df571aca2221a84a558",
+      "after": "r02/preflight/beat-e31-09700.jpg",
+      "afterSHA256": "b619f9510d7f0e1a25c79c3848f3b7d9a3a797e9c2bf0debd4ec965fbf61bee6",
+      "changed": true,
+      "observed": "Clear market interaction beside bread-basket shop display. Supports alternatives/commerce context; no numerical competitive effect asserted."
+    },
+    {
+      "beat": "e32",
+      "before": "r01/preflight/beat-e32-10062.jpg",
+      "beforeSHA256": "c8ea371a60b9aebe5726248329a8c38d554084030202995b64c6b3f084e0c74c",
+      "after": "r02/preflight/beat-e32-10062.jpg",
+      "afterSHA256": "97a23d25602ee65d2b27f3047c7d4c07570c3a3ecaf570e4a317ccd06170ccd8",
+      "changed": true,
+      "observed": "Shopper/cart scene now visible in full. Context for shopping only, not evidence that pictured products decreased in price."
+    },
+    {
+      "beat": "e35",
+      "before": "r01/preflight/beat-e35-10752.jpg",
+      "beforeSHA256": "b237b8ede3e2a7522f6ed5aafb644cfc7ce67c0fee8cb3c95e675bcba6af3afd",
+      "after": "r02/preflight/beat-e35-10752.jpg",
+      "afterSHA256": "1f5034444f3c89872fc2c950ca78ba63c6ba8e09dbdfecbf5929f1a80ebc8346",
+      "changed": true,
+      "observed": "Shopper/cart photograph now sharp within contain area. Household purchasing context only; no claim about that person income."
+    },
+    {
+      "beat": "e36",
+      "before": "r01/preflight/beat-e36-11124.jpg",
+      "beforeSHA256": "d04dfa6d6ad2395295ac65a56535281c72af703f9b46853f97ed10ba4012110a",
+      "after": "r02/preflight/beat-e36-11124.jpg",
+      "afterSHA256": "1be1b49f4517a1cda88850666824d9213d0a298bc4faba0d54a984085e961f17",
+      "changed": true,
+      "observed": "Full shopper/cart scene and long-receipt hands now visible beside basket narration. These are contextual examples, not official basket survey evidence."
+    },
+    {
+      "beat": "e39",
+      "before": "r01/preflight/beat-e39-12361.jpg",
+      "beforeSHA256": "03d14d589a998c2294443ae37deca5a56dc06941e365ee6b06686afdd960c7fd",
+      "after": "r02/preflight/beat-e39-12361.jpg",
+      "afterSHA256": "bc60398c76327a9b51bcb5733c8a2453ab9c8738f2238e861f8edb0affbfe771",
+      "changed": true,
+      "observed": "Shopper visible with cart; different-basket narration remains conceptual, not claimed biographical facts."
+    },
+    {
+      "beat": "e40",
+      "before": "r01/preflight/beat-e40-12748.jpg",
+      "beforeSHA256": "459bbb2bc6001c1491de1463bab8a212af675262bf20fa88e73fba34eaceba37",
+      "after": "r02/preflight/beat-e40-12748.jpg",
+      "afterSHA256": "d929fc133ec4402dfcdc7372d907c36a1c4fff63610d1a21d65923d3123ac0b4",
+      "changed": true,
+      "observed": "Only +5percent income and +8percent basket are shown; premature -2.78percent result removed. Correctly leaves derivation for e41."
+    },
+    {
+      "beat": "e43",
+      "before": "r01/preflight/beat-e43-13951.jpg",
+      "beforeSHA256": "bd9ec8a7a82035bdec2b8534a29dd850e7c6be889212512d5116c6ae425dc429",
+      "after": "r02/preflight/beat-e43-13951.jpg",
+      "afterSHA256": "c97d3232d95bb8f1913c990fd4036cd619dc009b6d71ca140d9209abcd6eae19",
+      "changed": true,
+      "observed": "Container ship and cargo visibly preserved; supports freight/supply-chain context. No claim that this is a Vietnamese port or current shipment."
+    },
+    {
+      "beat": "e44",
+      "before": "r01/preflight/beat-e44-14319.jpg",
+      "beforeSHA256": "761d426b487bcb7331da98be5fea37e589f45f95ec89ce406dd5a7687abf4681",
+      "after": "r02/preflight/beat-e44-14319.jpg",
+      "afterSHA256": "9e4f3d187878183e21ec88e6bd4b88e9164e2a08ec0edf640e555b61f1fcbb12",
+      "changed": true,
+      "observed": "VND note and hands holding receipt both visible. Context for borrowing/household decisions, not actual interest rate figures."
+    },
+    {
+      "beat": "e45",
+      "before": "r01/preflight/beat-e45-14704.jpg",
+      "beforeSHA256": "171b99588612d1206286eb7b4f22964cbe689be7291abc5a41d6569bbbde7a78",
+      "after": "r02/preflight/beat-e45-14704.jpg",
+      "afterSHA256": "5cec5a95b8d593535a2aec078b9ab0a933fb0ec69087935b46a34f753cb92fc9",
+      "changed": true,
+      "observed": "Receipt hands now visible; billing context only. Narration correctly qualifies interest-rate channel and tradeoffs."
+    },
+    {
+      "beat": "e47",
+      "before": "r01/preflight/beat-e47-15488.jpg",
+      "beforeSHA256": "484df834b3fdcced8575995552e1fb67bc0dcb3af768aea841be9a3cd64dd02d",
+      "after": "r02/preflight/beat-e47-15488.jpg",
+      "afterSHA256": "1ba8e78635f87268b75c5e377b42879955b525df006fd3b11aab14af2e39f80a",
+      "changed": true,
+      "observed": "Sharp baguette and sliced crumb visible; bread-quality context only, not evidence of specific package downsizing or comparable weights."
+    },
+    {
+      "beat": "e49",
+      "before": "r01/preflight/beat-e49-15888.jpg",
+      "beforeSHA256": "9a832f59b89b52801d8a6365da532c0d15123ee479b6124b099d2133ac451711",
+      "after": "r02/preflight/beat-e49-15888.jpg",
+      "afterSHA256": "db9cfef20eba38dae660bf54f0b347081a66e6cfdde905195ab51b89ca1bde8e",
+      "changed": true,
+      "observed": "Two people with bills/calculator plus shopper visible; supports domestic budgeting context, no claim about their actual hardship/income."
+    },
+    {
+      "beat": "e51",
+      "before": "r01/preflight/beat-e51-16654.jpg",
+      "beforeSHA256": "89c3dd83cddaec2bc39ce82bd7b424cbcd8ed701709c68de25d7f7f1625ba1c7",
+      "after": "r02/preflight/beat-e51-16654.jpg",
+      "afterSHA256": "d614ad1e9f018d8f164c82296a69a8b61532cf1d4c95bddfa76c73e9d223bd2d",
+      "changed": true,
+      "observed": "Receipt shown sharply; supports keeping/checking bills, without asserting unreadable receipt numbers as factual comparison."
+    },
+    {
+      "beat": "e52",
+      "before": "r01/preflight/beat-e52-17002.jpg",
+      "beforeSHA256": "cf9e0594deebeba6ec7382caa52e2e6045769eff857027ce77dbf91a58a8d7e8",
+      "after": "r02/preflight/beat-e52-17002.jpg",
+      "afterSHA256": "1e043d5c71fc4f8b40a6173a33c927755cd89c70d928fffd982f0199b49684f7",
+      "changed": true,
+      "observed": "Receipt hands now visible; cost-side context only, actual wage comparison remains narrated method."
+    },
+    {
+      "beat": "e53",
+      "before": "r01/preflight/beat-e53-17333.jpg",
+      "beforeSHA256": "f49f924f8039e262e35b1d0f005cf00dc24b3fbabff437dfa3fc90980ac1794e",
+      "after": "r02/preflight/beat-e53-17333.jpg",
+      "afterSHA256": "e254087305b6be135056d285ac89f7cfe0876452ae8b2ccbedd7a163cfad358b",
+      "changed": true,
+      "observed": "Bread-basket display and filled baguette clearly visible. No real person is presented as fictional Hanh."
+    },
+    {
+      "beat": "e56",
+      "before": "r01/preflight/beat-e56-18486.jpg",
+      "beforeSHA256": "2340c4a33bac468651d952f1f5410a87675731197df51c706764c25e1abf07d5",
+      "after": "r02/preflight/beat-e56-18486.jpg",
+      "afterSHA256": "aaab8c028007ca6229def6ebfc211e0ac666e853b8e6acd96bbd26848c92b6d8",
+      "changed": true,
+      "observed": "Whole filled sandwich visible within portrait contain, with blur confined to filler edges. Clear visual callback to bread topic and readable CTA heading."
+    }
+  ],
+  "sourceSHA256Before": "f02d1808780b35b073209b2774397d76b4f679f45e1a46a2ecf9ceddc6e51470",
+  "sourceSHA256After": "fbe6e67ddb1a50ba46bfce66fe84103ab01bbf7a4a2d061d6b4bb1b80fb5b4ff",
+  "limits": "No continuous visual/audio check and no user approval. This receipt records specific implemented repair evidence only."
+}

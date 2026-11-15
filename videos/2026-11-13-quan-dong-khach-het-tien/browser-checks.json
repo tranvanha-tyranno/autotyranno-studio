@@ -1,0 +1,11 @@
+{
+  "pageHTTP": 200,
+  "videoRangeHTTP": 206,
+  "contentRange": "bytes 0-1023/268014380",
+  "revision": "r02",
+  "chapters": 8,
+  "clauses": 58,
+  "visiblePageBrandingPass": true,
+  "finalFrames": 17848,
+  "finalSHA256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e"
+}

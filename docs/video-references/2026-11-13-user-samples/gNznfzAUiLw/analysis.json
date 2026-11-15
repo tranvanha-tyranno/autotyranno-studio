@@ -1,0 +1,1308 @@
+{
+  "schema_version": "reference-study-v1",
+  "id": "gNznfzAUiLw",
+  "title": "Vì sao 1 thẻ bài TCG lại đắt giá đến thế?",
+  "url": "https://www.youtube.com/watch?v=gNznfzAUiLw",
+  "channel": "Lóng",
+  "duration": 1052,
+  "method": {
+    "complete_caption_read": true,
+    "caption_rows": 595,
+    "reviewed_sheets": [
+      "sheets/00-01.jpg",
+      "sheets/00-02.jpg",
+      "sheets/00-03.jpg",
+      "sheets/01-01.jpg",
+      "sheets/01-02.jpg",
+      "sheets/01-03.jpg",
+      "sheets/02-01.jpg",
+      "sheets/02-02.jpg",
+      "sheets/03-01.jpg",
+      "sheets/03-02.jpg",
+      "sheets/03-03.jpg",
+      "sheets/04-01.jpg",
+      "sheets/04-02.jpg",
+      "sheets/05-01.jpg",
+      "sheets/05-02.jpg",
+      "sheets/05-03.jpg",
+      "sheets/06-01.jpg",
+      "sheets/06-02.jpg",
+      "sheets/07-01.jpg",
+      "sheets/07-02.jpg",
+      "sheets/08-01.jpg",
+      "sheets/09-01.jpg",
+      "sheets/09-02.jpg",
+      "sheets/10-01.jpg",
+      "sheets/10-02.jpg",
+      "sheets/10-03.jpg",
+      "sheets/11-01.jpg",
+      "sheets/11-02.jpg",
+      "sheets/12-01.jpg",
+      "sheets/12-02.jpg",
+      "sheets/13-01.jpg",
+      "sheets/13-02.jpg",
+      "sheets/13-03.jpg",
+      "sheets/14-01.jpg",
+      "sheets/14-02.jpg",
+      "sheets/15-01.jpg",
+      "sheets/15-02.jpg",
+      "sheets/15-03.jpg",
+      "sheets/16-01.jpg",
+      "sheets/16-02.jpg",
+      "sheets/16-03.jpg",
+      "sheets/17-01.jpg",
+      "sheets/17-02.jpg"
+    ],
+    "selected_frame_count": 408,
+    "native_detail_frames": [
+      "inspection/0040.png",
+      "inspection/0045.png",
+      "inspection/0650.png",
+      "inspection/0665.png",
+      "inspection/0836.png",
+      "inspection/0840.png",
+      "inspection/1000.png",
+      "inspection/1050.png"
+    ],
+    "continuous_av_playback": false,
+    "auditory_evaluation": false,
+    "coverage": "18 khoảng thời gian liên tiếp đến 1052 giây; đã mở lại đủ 43 trang và 8 khung native trong lượt tiếp tục.",
+    "boundary_precision": "Mốc ý xấp xỉ từ caption ASR và hình chọn mẫu, không phải EDL chính xác theo frame.",
+    "limits": "Lấy mẫu hình không chứng minh đã xem/nghe liên tục, mọi cut nhanh, nguồn/quyền ảnh hoặc chất lượng giọng/nhạc/SFX. Decode chỉ là kiểm tra kỹ thuật."
+  },
+  "angle": "Nghịch lý vật liệu rẻ/giá đắt → động lực mua → hệ sinh thái thị trường → khan hiếm và grading → kỷ lục → mặt trái → so sánh chu kỳ và kết luận có điều kiện.",
+  "audience_inference": {
+    "status": "inference_not_analytics",
+    "primary": "Người Việt tò mò về văn hóa tiêu dùng/giải trí và muốn hiểu giá trị xã hội, chưa cần biết luật TCG.",
+    "secondary": "Người biết Pokémon, One Piece hoặc sưu tầm; họ có thêm chi tiết grading, giao dịch, rủi ro và chu kỳ.",
+    "grounds": [
+      "Định nghĩa TCG từ 47–68 giây.",
+      "Cầu nối Poca, PS5 và Goku.",
+      "Phân biệt mục đích chơi, sưu tầm, đầu tư và giữ caveat rủi ro."
+    ],
+    "not_established": "Không có analytics về tuổi, giới, thu nhập, CTR, retention hoặc ý định tác giả. Nhóm được bàn đến trong nội dung không đồng nghĩa nhóm khán giả đã đo."
+  },
+  "structure": [
+    {
+      "start": 0,
+      "end": 39.48,
+      "function": "hook+promise"
+    },
+    {
+      "start": 39.48,
+      "end": 46.92,
+      "function": "source-disclaimer"
+    },
+    {
+      "start": 46.92,
+      "end": 102.16,
+      "function": "definition+industry"
+    },
+    {
+      "start": 102.16,
+      "end": 161.32,
+      "function": "sponsorbranch"
+    },
+    {
+      "start": 161.32,
+      "end": 1044.76,
+      "function": "main-explanation+conditional-answer"
+    },
+    {
+      "start": 1044.76,
+      "end": 1052,
+      "function": "comment+subscribeCTA"
+    }
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 60,
+      "title": "Hook: ba câu hỏi, disclaimer ngắn và định nghĩa bằng hành vi",
+      "sheets": [
+        "sheets/00-01.jpg",
+        "sheets/00-02.jpg",
+        "sheets/00-03.jpg"
+      ],
+      "frame_times": [
+        0.0,
+        2.5,
+        5.0,
+        6.5,
+        8.5,
+        10.0,
+        13.0,
+        15.0,
+        16.5,
+        19.0,
+        20.0,
+        21.5,
+        23.0,
+        25.0,
+        27.0,
+        29.0,
+        30.0,
+        32.5,
+        34.0,
+        35.0,
+        36.5,
+        38.0,
+        39.5,
+        40.0,
+        45.0,
+        47.0,
+        48.5,
+        50.0,
+        51.5,
+        53.0,
+        54.5,
+        55.0,
+        56.5,
+        58.0,
+        59.5
+      ],
+      "script_function": "00:00–00:13 liên hệ Labubu, đồ hype và các video trước; có lời đùa về người trong cộng đồng. 00:13–00:29 đặt nghịch lý vật liệu rẻ nhưng giao dịch đắt. 00:29–00:39 hứa giải thích giá trị, sức hút và độ bền. 00:39.48–00:46.92 nói rõ tổng hợp nhiều nguồn và mời đính chính. Từ khoảng 00:47 bắt đầu định nghĩa TCG.",
+      "visible_evidence": "00:02.5 có hai thumbnail cũ; 00:08.5–00:13 là nhóm người trong cửa hàng thẻ. 00:15–00:39.5 có cận thẻ, tủ trưng bày và hội chợ. 00:40/00:45 chuyển sang mascot ghi chép/laptop trên nền tím. 00:51.5 hiện tên TRADING CARD GAME và bản dịch trên tư liệu thẻ.",
+      "visual_word_relationship": "Thẻ và thao tác cầm/xem có ngay khi giới thiệu vật phẩm. Disclaimer có không gian hình riêng; phần định nghĩa chỉ thêm thuật ngữ ngắn.",
+      "retention_inference": "Nghịch lý tạo khoảng trống cần giải thích; ba lời hứa mở ba tuyến sẽ được gọi lại. Đây là suy luận cấu trúc, không phải retention đã đo.",
+      "reusable_lesson": "Hook cần mâu thuẫn cụ thể và lời hứa có thể trả được; định nghĩa bằng điều người ta làm với vật đó.",
+      "limits_or_corrections": "Giá và tên riêng trong caption chưa được kiểm chứng. Không biến lời đùa thành cáo buộc; không lấy thumbnail hoặc mascot làm tài sản cho video mới.",
+      "notes_markdown": "**Lời và chức năng:** 00:00–00:13 liên hệ Labubu, đồ hype và các video trước; có lời đùa về người trong cộng đồng. 00:13–00:29 đặt nghịch lý vật liệu rẻ nhưng giao dịch đắt. 00:29–00:39 hứa giải thích giá trị, sức hút và độ bền. 00:39.48–00:46.92 nói rõ tổng hợp nhiều nguồn và mời đính chính. Từ khoảng 00:47 bắt đầu định nghĩa TCG.\n\n**Hình quan sát được:** 00:02.5 có hai thumbnail cũ; 00:08.5–00:13 là nhóm người trong cửa hàng thẻ. 00:15–00:39.5 có cận thẻ, tủ trưng bày và hội chợ. 00:40/00:45 chuyển sang mascot ghi chép/laptop trên nền tím. 00:51.5 hiện tên TRADING CARD GAME và bản dịch trên tư liệu thẻ.\n\n**Quan hệ lời–hình:** Thẻ và thao tác cầm/xem có ngay khi giới thiệu vật phẩm. Disclaimer có không gian hình riêng; phần định nghĩa chỉ thêm thuật ngữ ngắn.\n\n**Giữ chú ý — suy luận:** Nghịch lý tạo khoảng trống cần giải thích; ba lời hứa mở ba tuyến sẽ được gọi lại. Đây là suy luận cấu trúc, không phải retention đã đo.\n\n**Bài học dùng lại:** Hook cần mâu thuẫn cụ thể và lời hứa có thể trả được; định nghĩa bằng điều người ta làm với vật đó.\n\n**Giới hạn/điểm cần sửa:** Giá và tên riêng trong caption chưa được kiểm chứng. Không biến lời đùa thành cáo buộc; không lấy thumbnail hoặc mascot làm tài sản cho video mới."
+    },
+    {
+      "index": 1,
+      "start": 60,
+      "end": 120,
+      "title": "Định nghĩa → cơ chế tạo giá trị → cửa ngõ thương mại",
+      "sheets": [
+        "sheets/01-01.jpg",
+        "sheets/01-02.jpg",
+        "sheets/01-03.jpg"
+      ],
+      "frame_times": [
+        60.0,
+        61.5,
+        63.0,
+        65.0,
+        68.0,
+        70.0,
+        75.0,
+        76.5,
+        80.0,
+        85.0,
+        88.5,
+        90.0,
+        92.0,
+        93.5,
+        95.0,
+        96.5,
+        98.0,
+        99.5,
+        100.0,
+        101.5,
+        103.0,
+        105.0,
+        110.0,
+        115.0,
+        119.5
+      ],
+      "script_function": "01:00–01:08 giải thích mở gói, xếp bộ, đấu bài. 01:08–01:28 tách chi phí vật liệu khỏi giá trị cộng đồng công nhận; nhà phát hành tạo luật, truyện, nhân vật và độ hiếm. 01:28–01:42 mở rộng thành ngành sản xuất, kiểm định, mua bán và đầu tư. 01:42–02:00 đặt giả định mở shop, đơn tăng khiến quản lý phức tạp.",
+      "visible_evidence": "01:00–01:05 có người lựa thẻ; 01:08–01:15 mặt sau Pokémon và hai nhân vật đồng ý. 01:16.5–01:25 thêm tòa nhà cùng icon luật/truyện/nhân vật/độ hiếm. 01:30–01:41.5 trở lại hội chợ. 01:43–01:55 là cửa hàng minh họa, nhân vật sau quầy chuyển sang ôm đầu.",
+      "visual_word_relationship": "Công ty được biểu tượng hóa khi lời nói chuyển sang quyền thiết kế hệ thống. Quầy minh họa là tình huống giả định cho cầu nối tài trợ, không phải bằng chứng về một shop thật.",
+      "retention_inference": "Tuyến ý tăng cấp có lý do: trò chơi → ngành kinh doanh → bài toán vận hành.",
+      "reusable_lesson": "Định nghĩa xong phải chỉ ra ai tạo quy tắc và giá trị. Cầu nối sponsor cần xuất phát từ một vấn đề liên quan đến chủ đề.",
+      "limits_or_corrections": "Icon không chứng minh tài liệu thật. Không suy ra phần mềm dựng từ các layer phẳng.",
+      "notes_markdown": "**Lời và chức năng:** 01:00–01:08 giải thích mở gói, xếp bộ, đấu bài. 01:08–01:28 tách chi phí vật liệu khỏi giá trị cộng đồng công nhận; nhà phát hành tạo luật, truyện, nhân vật và độ hiếm. 01:28–01:42 mở rộng thành ngành sản xuất, kiểm định, mua bán và đầu tư. 01:42–02:00 đặt giả định mở shop, đơn tăng khiến quản lý phức tạp.\n\n**Hình quan sát được:** 01:00–01:05 có người lựa thẻ; 01:08–01:15 mặt sau Pokémon và hai nhân vật đồng ý. 01:16.5–01:25 thêm tòa nhà cùng icon luật/truyện/nhân vật/độ hiếm. 01:30–01:41.5 trở lại hội chợ. 01:43–01:55 là cửa hàng minh họa, nhân vật sau quầy chuyển sang ôm đầu.\n\n**Quan hệ lời–hình:** Công ty được biểu tượng hóa khi lời nói chuyển sang quyền thiết kế hệ thống. Quầy minh họa là tình huống giả định cho cầu nối tài trợ, không phải bằng chứng về một shop thật.\n\n**Giữ chú ý — suy luận:** Tuyến ý tăng cấp có lý do: trò chơi → ngành kinh doanh → bài toán vận hành.\n\n**Bài học dùng lại:** Định nghĩa xong phải chỉ ra ai tạo quy tắc và giá trị. Cầu nối sponsor cần xuất phát từ một vấn đề liên quan đến chủ đề.\n\n**Giới hạn/điểm cần sửa:** Icon không chứng minh tài liệu thật. Không suy ra phần mềm dựng từ các layer phẳng."
+    },
+    {
+      "index": 2,
+      "start": 120,
+      "end": 180,
+      "title": "Sponsor: vấn đề → demo thao tác → lợi ích → CTA → quay lại bài",
+      "sheets": [
+        "sheets/02-01.jpg",
+        "sheets/02-02.jpg"
+      ],
+      "frame_times": [
+        120.0,
+        125.0,
+        130.0,
+        135.0,
+        140.0,
+        143.5,
+        145.0,
+        149.5,
+        150.0,
+        155.0,
+        157.0,
+        160.0,
+        162.0,
+        164.0,
+        165.0,
+        168.0,
+        170.0,
+        171.5,
+        173.0,
+        175.0
+      ],
+      "script_function": "02:00–02:29 giới thiệu Odoo và kết nối TikTok Shop, chuyển đơn và cập nhật tồn. 02:29–02:36 chốt lợi ích giảm sao chép thủ công. 02:36.56–02:41.32 mời dùng thử, báo quay lại thẻ bài. 02:41–02:53 mở ba động lực tâm lý, tài sản, tuổi thơ; cuối phút bắt đầu cảm giác mở gói.",
+      "visible_evidence": "02:00 có logo và nhãn tài trợ. 02:05 là trang đơn/quotation, 02:10 trang shop đồng bộ, 02:20 bảng inventory; 02:23.5–02:25 có TikTok Seller Center. 02:30–02:35 người thao tác trên máy bán hàng; 02:37/02:40 thẻ chữ và logo. 02:42 trở về tủ thẻ; 02:53–02:55 nhân vật cầm hộp trong phòng.",
+      "visual_word_relationship": "Lời nói về đơn/tồn đi với UI thật, cụ thể hơn logo đứng yên. Hình thẻ xuất hiện lại khi quay về nội dung chính.",
+      "retention_inference": "Nhãn tài trợ và câu quay lại giúp nhận biết nhánh thương mại. CTA giữa bài khác chức năng CTA đăng ký cuối video.",
+      "reusable_lesson": "Chỉ dùng UI khi chính câu nói bàn về thao tác trên UI; không kéo dashboard sang mọi đoạn giải thích.",
+      "limits_or_corrections": "UI mẫu chưa chứng minh tất cả claim quảng cáo. Không tái dùng ưu đãi hoặc link của tài trợ; tài trợ không đồng nghĩa disclaimer nguồn.",
+      "notes_markdown": "**Lời và chức năng:** 02:00–02:29 giới thiệu Odoo và kết nối TikTok Shop, chuyển đơn và cập nhật tồn. 02:29–02:36 chốt lợi ích giảm sao chép thủ công. 02:36.56–02:41.32 mời dùng thử, báo quay lại thẻ bài. 02:41–02:53 mở ba động lực tâm lý, tài sản, tuổi thơ; cuối phút bắt đầu cảm giác mở gói.\n\n**Hình quan sát được:** 02:00 có logo và nhãn tài trợ. 02:05 là trang đơn/quotation, 02:10 trang shop đồng bộ, 02:20 bảng inventory; 02:23.5–02:25 có TikTok Seller Center. 02:30–02:35 người thao tác trên máy bán hàng; 02:37/02:40 thẻ chữ và logo. 02:42 trở về tủ thẻ; 02:53–02:55 nhân vật cầm hộp trong phòng.\n\n**Quan hệ lời–hình:** Lời nói về đơn/tồn đi với UI thật, cụ thể hơn logo đứng yên. Hình thẻ xuất hiện lại khi quay về nội dung chính.\n\n**Giữ chú ý — suy luận:** Nhãn tài trợ và câu quay lại giúp nhận biết nhánh thương mại. CTA giữa bài khác chức năng CTA đăng ký cuối video.\n\n**Bài học dùng lại:** Chỉ dùng UI khi chính câu nói bàn về thao tác trên UI; không kéo dashboard sang mọi đoạn giải thích.\n\n**Giới hạn/điểm cần sửa:** UI mẫu chưa chứng minh tất cả claim quảng cáo. Không tái dùng ưu đãi hoặc link của tài trợ; tài trợ không đồng nghĩa disclaimer nguồn."
+    },
+    {
+      "index": 3,
+      "start": 180,
+      "end": 240,
+      "title": "Tâm lý mở gói, hiệu ứng sở hữu và địa vị",
+      "sheets": [
+        "sheets/03-01.jpg",
+        "sheets/03-02.jpg",
+        "sheets/03-03.jpg"
+      ],
+      "frame_times": [
+        180.0,
+        185.0,
+        188.0,
+        190.0,
+        192.5,
+        194.0,
+        195.0,
+        196.5,
+        198.0,
+        199.5,
+        200.0,
+        201.5,
+        203.0,
+        205.0,
+        206.5,
+        208.0,
+        210.0,
+        211.5,
+        213.0,
+        215.0,
+        220.0,
+        225.0,
+        230.0,
+        235.0,
+        239.0
+      ],
+      "script_function": "03:00–03:08 nói cảm xúc khi mở được thẻ hiếm. 03:08–03:22 viện dẫn tâm lý sưu tầm, đồ khó kiếm và hiệu ứng sở hữu. 03:22–03:46 dùng ví dụ thẻ cầu thủ trong bim bim để nói địa vị. 03:46–04:00 mở động cơ mua như tài sản, gắn với áp lực nhà ở và lương.",
+      "visible_evidence": "03:00–03:05 nhân vật cầm hộp rồi thẻ, biểu cảm thay đổi. 03:08–03:10 là bàn giấy có biểu đồ; sau đó trở lại người cầm và chọn thẻ. 03:33–03:45 nhân vật cầm gói Poca rồi thẻ cầu thủ, hai người khác giơ ngón cái. 03:50 có hai nhân vật; 03:55 thêm ngôi nhà.",
+      "visual_word_relationship": "Ví dụ Poca được diễn thành quan hệ dễ nhìn: có món đồ → được chú ý. Bàn biểu đồ chỉ gợi bối cảnh nghiên cứu, chưa hiển thị một nghiên cứu cụ thể.",
+      "retention_inference": "Ký ức quen thuộc của người Việt làm cầu nối cho khái niệm trừu tượng. Câu hỏi về tài sản mở tuyến mới.",
+      "reusable_lesson": "Mỗi cơ chế trừu tượng cần một tình huống gần gũi có hành động và phản ứng nhìn thấy được.",
+      "limits_or_corrections": "Không coi câu dopamine hoặc động cơ thế hệ là kết luận khoa học đã kiểm chứng. Không gán mọi người mua bài vào động cơ khoe của.",
+      "notes_markdown": "**Lời và chức năng:** 03:00–03:08 nói cảm xúc khi mở được thẻ hiếm. 03:08–03:22 viện dẫn tâm lý sưu tầm, đồ khó kiếm và hiệu ứng sở hữu. 03:22–03:46 dùng ví dụ thẻ cầu thủ trong bim bim để nói địa vị. 03:46–04:00 mở động cơ mua như tài sản, gắn với áp lực nhà ở và lương.\n\n**Hình quan sát được:** 03:00–03:05 nhân vật cầm hộp rồi thẻ, biểu cảm thay đổi. 03:08–03:10 là bàn giấy có biểu đồ; sau đó trở lại người cầm và chọn thẻ. 03:33–03:45 nhân vật cầm gói Poca rồi thẻ cầu thủ, hai người khác giơ ngón cái. 03:50 có hai nhân vật; 03:55 thêm ngôi nhà.\n\n**Quan hệ lời–hình:** Ví dụ Poca được diễn thành quan hệ dễ nhìn: có món đồ → được chú ý. Bàn biểu đồ chỉ gợi bối cảnh nghiên cứu, chưa hiển thị một nghiên cứu cụ thể.\n\n**Giữ chú ý — suy luận:** Ký ức quen thuộc của người Việt làm cầu nối cho khái niệm trừu tượng. Câu hỏi về tài sản mở tuyến mới.\n\n**Bài học dùng lại:** Mỗi cơ chế trừu tượng cần một tình huống gần gũi có hành động và phản ứng nhìn thấy được.\n\n**Giới hạn/điểm cần sửa:** Không coi câu dopamine hoặc động cơ thế hệ là kết luận khoa học đã kiểm chứng. Không gán mọi người mua bài vào động cơ khoe của."
+    },
+    {
+      "index": 4,
+      "start": 240,
+      "end": 300,
+      "title": "Tài sản nhỏ hơn, giai thoại lợi nhuận và caveat ngay tại chỗ",
+      "sheets": [
+        "sheets/04-01.jpg",
+        "sheets/04-02.jpg"
+      ],
+      "frame_times": [
+        240.0,
+        245.0,
+        250.0,
+        252.0,
+        255.0,
+        257.5,
+        260.0,
+        264.0,
+        265.0,
+        266.5,
+        270.0,
+        271.5,
+        275.0,
+        278.0,
+        280.0,
+        285.0,
+        290.0,
+        295.0,
+        296.5
+      ],
+      "script_function": "04:00–04:12 nói tài sản lớn khó tiếp cận. 04:12–04:31 chuyển sang đồ sưu tập, giao dịch mạng và theo dõi giá. 04:31–04:41 kể người quen giữ hộp sealed rồi bán lời. 04:41–04:57 ngắt đà hào hứng: không mua theo giai thoại, có rủi ro và khó thanh khoản. Cuối phút mở tuổi thơ.",
+      "visible_evidence": "04:00–04:10 mascot trước nền ngôi nhà bị làm mờ. 04:15–04:26.5 có hội chợ và thẻ gắn giá. 04:30 là điện thoại với đồ thị; 04:31.5–04:35 nhân vật cầm hộp Pokémon trong phòng. 04:38–04:55 mascot nói trước nền phòng mờ.",
+      "visual_word_relationship": "Tem giá/đồ thị phục vụ ý mua bán. Hộp chỉ thể hiện trạng thái giữ kín, không chứng minh lợi nhuận trong giai thoại.",
+      "retention_inference": "Giai thoại tạo gần gũi; caveat ngay sau đó giữ lời kể khỏi thành lời mời mua. Nền thưa giúp tập trung vào lời dẫn.",
+      "reusable_lesson": "Câu chuyện lời cao phải có điều kiện và rủi ro ngay cạnh; không đẩy hết giới hạn xuống cuối bài.",
+      "limits_or_corrections": "Chưa xác minh giai thoại hoặc tính chống lạm phát. Phần này phân tích cách kể, không hướng dẫn đầu tư.",
+      "notes_markdown": "**Lời và chức năng:** 04:00–04:12 nói tài sản lớn khó tiếp cận. 04:12–04:31 chuyển sang đồ sưu tập, giao dịch mạng và theo dõi giá. 04:31–04:41 kể người quen giữ hộp sealed rồi bán lời. 04:41–04:57 ngắt đà hào hứng: không mua theo giai thoại, có rủi ro và khó thanh khoản. Cuối phút mở tuổi thơ.\n\n**Hình quan sát được:** 04:00–04:10 mascot trước nền ngôi nhà bị làm mờ. 04:15–04:26.5 có hội chợ và thẻ gắn giá. 04:30 là điện thoại với đồ thị; 04:31.5–04:35 nhân vật cầm hộp Pokémon trong phòng. 04:38–04:55 mascot nói trước nền phòng mờ.\n\n**Quan hệ lời–hình:** Tem giá/đồ thị phục vụ ý mua bán. Hộp chỉ thể hiện trạng thái giữ kín, không chứng minh lợi nhuận trong giai thoại.\n\n**Giữ chú ý — suy luận:** Giai thoại tạo gần gũi; caveat ngay sau đó giữ lời kể khỏi thành lời mời mua. Nền thưa giúp tập trung vào lời dẫn.\n\n**Bài học dùng lại:** Câu chuyện lời cao phải có điều kiện và rủi ro ngay cạnh; không đẩy hết giới hạn xuống cuối bài.\n\n**Giới hạn/điểm cần sửa:** Chưa xác minh giai thoại hoặc tính chống lạm phát. Phần này phân tích cách kể, không hướng dẫn đầu tư."
+    },
+    {
+      "index": 5,
+      "start": 300,
+      "end": 360,
+      "title": "Hoài niệm phân nhóm người mua; chuyển sang đầu cơ",
+      "sheets": [
+        "sheets/05-01.jpg",
+        "sheets/05-02.jpg",
+        "sheets/05-03.jpg"
+      ],
+      "frame_times": [
+        300.0,
+        302.0,
+        304.0,
+        305.0,
+        306.5,
+        308.0,
+        310.0,
+        311.5,
+        313.0,
+        314.5,
+        315.0,
+        318.0,
+        320.0,
+        324.5,
+        325.0,
+        327.5,
+        330.0,
+        331.5,
+        333.0,
+        334.5,
+        335.0,
+        336.5,
+        338.5,
+        340.0,
+        343.0,
+        345.0,
+        349.0,
+        350.0,
+        351.5,
+        355.0,
+        357.0,
+        358.5
+      ],
+      "script_function": "05:00–05:18 nói người từng chơi lúc nhỏ nay có thu nhập để mua lại ký ức; Goku là ví dụ sở thích. 05:18–05:32 gom ba nhóm: chơi, sưu tầm, kiếm tiền. 05:32–06:00 phân biệt đầu tư và đầu cơ ngắn hạn, yếu tố thích rủi ro, rồi gom thành thị trường lớn.",
+      "visible_evidence": "05:00–05:10 có giao dịch và tủ thẻ cũ. 05:11.5–05:18 là mô hình Goku trong phòng với mascot. 05:30 trao đổi thẻ; 05:35 tay cầm ba lá. 05:36.5 là quầy CGC; 05:40–05:55 có chụp thẻ, giấy nhận và thao tác tại quầy PSA.",
+      "visual_word_relationship": "Goku khớp ví dụ vừa được nhắc. Giao nhận và chấm điểm cho thấy hệ sinh thái vượt khỏi việc mở pack.",
+      "retention_inference": "Ba động cơ tạo tầng bậc, không quy giá vào một lý do. Câu gom ý chuẩn bị đổi từ cá nhân sang ngành.",
+      "reusable_lesson": "Phân nhóm bằng mục đích sử dụng; với mỗi nhóm cần hành vi phù hợp, không chỉ đổi nền.",
+      "limits_or_corrections": "Người trong tư liệu giao dịch không mặc nhiên là nhà đầu cơ. Không xác nhận ảnh mô hình thuộc sở hữu người kể.",
+      "notes_markdown": "**Lời và chức năng:** 05:00–05:18 nói người từng chơi lúc nhỏ nay có thu nhập để mua lại ký ức; Goku là ví dụ sở thích. 05:18–05:32 gom ba nhóm: chơi, sưu tầm, kiếm tiền. 05:32–06:00 phân biệt đầu tư và đầu cơ ngắn hạn, yếu tố thích rủi ro, rồi gom thành thị trường lớn.\n\n**Hình quan sát được:** 05:00–05:10 có giao dịch và tủ thẻ cũ. 05:11.5–05:18 là mô hình Goku trong phòng với mascot. 05:30 trao đổi thẻ; 05:35 tay cầm ba lá. 05:36.5 là quầy CGC; 05:40–05:55 có chụp thẻ, giấy nhận và thao tác tại quầy PSA.\n\n**Quan hệ lời–hình:** Goku khớp ví dụ vừa được nhắc. Giao nhận và chấm điểm cho thấy hệ sinh thái vượt khỏi việc mở pack.\n\n**Giữ chú ý — suy luận:** Ba động cơ tạo tầng bậc, không quy giá vào một lý do. Câu gom ý chuẩn bị đổi từ cá nhân sang ngành.\n\n**Bài học dùng lại:** Phân nhóm bằng mục đích sử dụng; với mỗi nhóm cần hành vi phù hợp, không chỉ đổi nền.\n\n**Giới hạn/điểm cần sửa:** Người trong tư liệu giao dịch không mặc nhiên là nhà đầu cơ. Không xác nhận ảnh mô hình thuộc sở hữu người kể."
+    },
+    {
+      "index": 6,
+      "start": 360,
+      "end": 420,
+      "title": "Quy mô ngành và bất đồng cách đo",
+      "sheets": [
+        "sheets/06-01.jpg",
+        "sheets/06-02.jpg"
+      ],
+      "frame_times": [
+        360.0,
+        364.0,
+        365.0,
+        370.0,
+        375.0,
+        376.5,
+        378.0,
+        380.0,
+        382.0,
+        383.5,
+        385.0,
+        386.5,
+        388.5,
+        390.0,
+        395.0,
+        400.0,
+        405.0,
+        410.0,
+        415.0
+      ],
+      "script_function": "06:00–06:15 nói các tổ chức đưa số khác nhau. 06:15–06:29 giải thích khác biệt phạm vi: thẻ thật, số, doanh số phát hành hoặc mua bán lại. 06:29–07:00 đối chiếu ba bộ ước tính và dự báo, thay vì chốt một số duy nhất.",
+      "visible_evidence": "06:04–06:10 có laptop, biểu đồ và tiền. 06:15–06:28.5 là thẻ và người cầm slab. 06:30 hiện Dataintelo; 06:35 thêm Mordor Intelligence; 06:40 thêm Custom Market Insights. Số cơ sở màu trắng, số dự báo màu vàng và tỷ lệ xanh bổ sung ở 06:50–06:55.",
+      "visual_word_relationship": "Sự khác biệt dữ liệu trở thành đối tượng so sánh. Bố cục ổn định để tích lũy thông tin; logo không thay báo cáo gốc.",
+      "retention_inference": "Trước khi khoe quy mô, nguồn giải thích vì sao các số lệch nhau. Nhịp chậm hơn montage để đọc.",
+      "reusable_lesson": "Dữ liệu cần phạm vi trước số. Phải hiện năm cơ sở và năm đích, nhất là khi các dự báo khác chân trời.",
+      "limits_or_corrections": "Chưa xác minh báo cáo, số liệu hoặc phương pháp gộp. Stock tài chính không phải chứng cứ; dự báo không phải kết quả đã xảy ra.",
+      "notes_markdown": "**Lời và chức năng:** 06:00–06:15 nói các tổ chức đưa số khác nhau. 06:15–06:29 giải thích khác biệt phạm vi: thẻ thật, số, doanh số phát hành hoặc mua bán lại. 06:29–07:00 đối chiếu ba bộ ước tính và dự báo, thay vì chốt một số duy nhất.\n\n**Hình quan sát được:** 06:04–06:10 có laptop, biểu đồ và tiền. 06:15–06:28.5 là thẻ và người cầm slab. 06:30 hiện Dataintelo; 06:35 thêm Mordor Intelligence; 06:40 thêm Custom Market Insights. Số cơ sở màu trắng, số dự báo màu vàng và tỷ lệ xanh bổ sung ở 06:50–06:55.\n\n**Quan hệ lời–hình:** Sự khác biệt dữ liệu trở thành đối tượng so sánh. Bố cục ổn định để tích lũy thông tin; logo không thay báo cáo gốc.\n\n**Giữ chú ý — suy luận:** Trước khi khoe quy mô, nguồn giải thích vì sao các số lệch nhau. Nhịp chậm hơn montage để đọc.\n\n**Bài học dùng lại:** Dữ liệu cần phạm vi trước số. Phải hiện năm cơ sở và năm đích, nhất là khi các dự báo khác chân trời.\n\n**Giới hạn/điểm cần sửa:** Chưa xác minh báo cáo, số liệu hoặc phương pháp gộp. Stock tài chính không phải chứng cứ; dự báo không phải kết quả đã xảy ra."
+    },
+    {
+      "index": 7,
+      "start": 420,
+      "end": 480,
+      "title": "Ước tính thấp hơn, thẻ vật lý/số và cảm giác sở hữu",
+      "sheets": [
+        "sheets/07-01.jpg",
+        "sheets/07-02.jpg"
+      ],
+      "frame_times": [
+        420.0,
+        422.0,
+        425.0,
+        430.0,
+        435.0,
+        440.0,
+        445.0,
+        449.0,
+        450.0,
+        455.0,
+        460.0,
+        463.0,
+        465.0,
+        470.0,
+        473.0,
+        475.0
+      ],
+      "script_function": "07:00–07:24 đưa hai ước tính thấp hơn rồi chỉ gom hướng dự báo. 07:24–07:43 hỏi tiền mua gì: thẻ vật lý và số. 07:43–07:53 dùng ví dụ đĩa game/PS5 giải thích nhu cầu cầm nắm, trưng bày. Cuối phút mở nhóm người mua.",
+      "visible_evidence": "07:02–07:25 là hai cột TechSci Research/Business Research Insights. 07:29–07:35 cặp icon thẻ và điện thoại cùng tỷ lệ. 07:40–07:50 quay về phòng/nhân vật, có bong bóng suy nghĩ. 07:53–07:55 bắt đầu nền giấy trắng chia cột.",
+      "visual_word_relationship": "Không chỉ giữ nguồn có số cao nhất. Cặp vật thể thật/số khớp lời; căn phòng đưa bài trở lại trải nghiệm sau chuỗi logo.",
+      "retention_inference": "Câu hỏi mới đổi từ tổng lượng sang cấu trúc. Giữ bảng lâu để đọc có thể là lựa chọn có ích.",
+      "reusable_lesson": "Sau số tổng có thể lần lượt hỏi mua gì, ai chi, ở đâu, ai kiểm soát; không dồn mọi phân chia lên một màn hình.",
+      "limits_or_corrections": "Caption có cụm dự báo khó hiểu “10 chục tỷ”; hình 07:10 hiện 12,86 tỷ. Giữ raw ASR và kiểm nguồn/audio trước tái dùng, không sửa âm thầm.",
+      "notes_markdown": "**Lời và chức năng:** 07:00–07:24 đưa hai ước tính thấp hơn rồi chỉ gom hướng dự báo. 07:24–07:43 hỏi tiền mua gì: thẻ vật lý và số. 07:43–07:53 dùng ví dụ đĩa game/PS5 giải thích nhu cầu cầm nắm, trưng bày. Cuối phút mở nhóm người mua.\n\n**Hình quan sát được:** 07:02–07:25 là hai cột TechSci Research/Business Research Insights. 07:29–07:35 cặp icon thẻ và điện thoại cùng tỷ lệ. 07:40–07:50 quay về phòng/nhân vật, có bong bóng suy nghĩ. 07:53–07:55 bắt đầu nền giấy trắng chia cột.\n\n**Quan hệ lời–hình:** Không chỉ giữ nguồn có số cao nhất. Cặp vật thể thật/số khớp lời; căn phòng đưa bài trở lại trải nghiệm sau chuỗi logo.\n\n**Giữ chú ý — suy luận:** Câu hỏi mới đổi từ tổng lượng sang cấu trúc. Giữ bảng lâu để đọc có thể là lựa chọn có ích.\n\n**Bài học dùng lại:** Sau số tổng có thể lần lượt hỏi mua gì, ai chi, ở đâu, ai kiểm soát; không dồn mọi phân chia lên một màn hình.\n\n**Giới hạn/điểm cần sửa:** Caption có cụm dự báo khó hiểu “10 chục tỷ”; hình 07:10 hiện 12,86 tỷ. Giữ raw ASR và kiểm nguồn/audio trước tái dùng, không sửa âm thầm."
+    },
+    {
+      "index": 8,
+      "start": 480,
+      "end": 540,
+      "title": "Ai mua, mua để làm gì, thị trường ở đâu và ai giữ IP",
+      "sheets": [
+        "sheets/08-01.jpg"
+      ],
+      "frame_times": [
+        480.0,
+        485.0,
+        490.0,
+        495.0,
+        500.0,
+        505.0,
+        510.0,
+        515.0,
+        520.0,
+        525.0,
+        530.0,
+        535.0
+      ],
+      "script_function": "08:00–08:15 đối chiếu người trưởng thành cất giữ/chấm điểm với người trẻ chơi/cộng đồng/đấu giải. 08:15–08:47 chuyển sang các vùng thị trường. 08:47–09:00 đưa quyền lực về một số công ty nắm IP.",
+      "visible_evidence": "08:00–08:10 hai nhân vật, bullet từng cột thêm dần. 08:15–08:25 là địa cầu/nhãn châu Á–Thái Bình Dương; 08:35–08:40 thêm Bắc Mỹ; 08:45 thêm châu Âu. 08:50–08:55 là tòa nhà biểu tượng và logo The Pokémon Company.",
+      "visual_word_relationship": "Mục đích của hai nhóm nằm đúng hai cột. Địa cầu phân biệt phạm vi; tòa nhà đổi cấp từ vùng thị trường sang công ty.",
+      "retention_inference": "Các câu hỏi nối theo chuỗi giá trị giúp dữ liệu không rời rạc. Người xem có thời gian đọc trước khi thêm ý.",
+      "reusable_lesson": "Dùng một hình thức cho một quan hệ; chỉ đổi layout khi câu hỏi đổi loại.",
+      "limits_or_corrections": "Tỷ lệ người mua trong nội dung không phải nhân khẩu học khán giả. Không suy công cụ 3D từ hình địa cầu đã render.",
+      "notes_markdown": "**Lời và chức năng:** 08:00–08:15 đối chiếu người trưởng thành cất giữ/chấm điểm với người trẻ chơi/cộng đồng/đấu giải. 08:15–08:47 chuyển sang các vùng thị trường. 08:47–09:00 đưa quyền lực về một số công ty nắm IP.\n\n**Hình quan sát được:** 08:00–08:10 hai nhân vật, bullet từng cột thêm dần. 08:15–08:25 là địa cầu/nhãn châu Á–Thái Bình Dương; 08:35–08:40 thêm Bắc Mỹ; 08:45 thêm châu Âu. 08:50–08:55 là tòa nhà biểu tượng và logo The Pokémon Company.\n\n**Quan hệ lời–hình:** Mục đích của hai nhóm nằm đúng hai cột. Địa cầu phân biệt phạm vi; tòa nhà đổi cấp từ vùng thị trường sang công ty.\n\n**Giữ chú ý — suy luận:** Các câu hỏi nối theo chuỗi giá trị giúp dữ liệu không rời rạc. Người xem có thời gian đọc trước khi thêm ý.\n\n**Bài học dùng lại:** Dùng một hình thức cho một quan hệ; chỉ đổi layout khi câu hỏi đổi loại.\n\n**Giới hạn/điểm cần sửa:** Tỷ lệ người mua trong nội dung không phải nhân khẩu học khán giả. Không suy công cụ 3D từ hình địa cầu đã render."
+    },
+    {
+      "index": 9,
+      "start": 540,
+      "end": 600,
+      "title": "Nhà phát hành, IP và callback nghịch lý khan hiếm",
+      "sheets": [
+        "sheets/09-01.jpg",
+        "sheets/09-02.jpg"
+      ],
+      "frame_times": [
+        540.0,
+        545.0,
+        550.0,
+        555.0,
+        560.0,
+        565.0,
+        570.0,
+        574.0,
+        575.0,
+        579.5,
+        580.0,
+        581.5,
+        583.0,
+        584.5,
+        585.0,
+        586.5,
+        588.0,
+        590.0,
+        591.5,
+        593.0,
+        594.5,
+        595.0,
+        598.5
+      ],
+      "script_function": "09:00–09:13 dùng Pokémon làm ví dụ sản lượng/doanh thu/thị phần. 09:13–09:39 nói Bandai và liên kết giải trí–thẻ. 09:39–09:51 nhắc đã biết ai mua/bán, nhưng vì sao in hàng tỷ vẫn có lá cực hiếm? 09:51–10:00 bắt đầu phân tầng độ hiếm.",
+      "visible_evidence": "09:00–09:10 có logo Pokémon và bullet. 09:15–09:30 có Bandai, One Piece, Dragon Ball và số. 09:34–09:35 poster Netflix cạnh thẻ nhân vật. 09:40–09:45 album/máy in; 09:48–09:53 là thẻ/album; 09:55–09:58.5 có dây chuyền.",
+      "visual_word_relationship": "Nhân vật phim gắn trực tiếp thẻ tương ứng. Tới câu in hàng tỷ, hình đổi sang máy và album. Máy chưa rõ nguồn chỉ là minh họa sản xuất.",
+      "retention_inference": "Đây là callback rõ tới hook sau nhánh số liệu dài: gói điều đã biết rồi mở điều còn thiếu.",
+      "reusable_lesson": "Bài dài cần điểm kiểm: đã trả câu nào, còn câu nào. Mỗi chỉ số phải giữ đúng phạm vi.",
+      "limits_or_corrections": "Lời phân biệt mảng hàng hóa One Piece với riêng TCG; logo CARD GAME cạnh số rộng hơn có thể làm người xem hiểu sai. Không dùng ảnh này để nhập các phạm vi thành một.",
+      "notes_markdown": "**Lời và chức năng:** 09:00–09:13 dùng Pokémon làm ví dụ sản lượng/doanh thu/thị phần. 09:13–09:39 nói Bandai và liên kết giải trí–thẻ. 09:39–09:51 nhắc đã biết ai mua/bán, nhưng vì sao in hàng tỷ vẫn có lá cực hiếm? 09:51–10:00 bắt đầu phân tầng độ hiếm.\n\n**Hình quan sát được:** 09:00–09:10 có logo Pokémon và bullet. 09:15–09:30 có Bandai, One Piece, Dragon Ball và số. 09:34–09:35 poster Netflix cạnh thẻ nhân vật. 09:40–09:45 album/máy in; 09:48–09:53 là thẻ/album; 09:55–09:58.5 có dây chuyền.\n\n**Quan hệ lời–hình:** Nhân vật phim gắn trực tiếp thẻ tương ứng. Tới câu in hàng tỷ, hình đổi sang máy và album. Máy chưa rõ nguồn chỉ là minh họa sản xuất.\n\n**Giữ chú ý — suy luận:** Đây là callback rõ tới hook sau nhánh số liệu dài: gói điều đã biết rồi mở điều còn thiếu.\n\n**Bài học dùng lại:** Bài dài cần điểm kiểm: đã trả câu nào, còn câu nào. Mỗi chỉ số phải giữ đúng phạm vi.\n\n**Giới hạn/điểm cần sửa:** Lời phân biệt mảng hàng hóa One Piece với riêng TCG; logo CARD GAME cạnh số rộng hơn có thể làm người xem hiểu sai. Không dùng ảnh này để nhập các phạm vi thành một."
+    },
+    {
+      "index": 10,
+      "start": 600,
+      "end": 660,
+      "title": "Độ hiếm, thị trường bán lại và bước sang card grading",
+      "sheets": [
+        "sheets/10-01.jpg",
+        "sheets/10-02.jpg",
+        "sheets/10-03.jpg"
+      ],
+      "frame_times": [
+        600.0,
+        602.5,
+        604.0,
+        605.0,
+        607.0,
+        608.5,
+        610.0,
+        612.5,
+        615.0,
+        617.0,
+        618.5,
+        620.0,
+        623.5,
+        625.0,
+        626.5,
+        630.0,
+        632.0,
+        633.5,
+        635.0,
+        636.5,
+        638.0,
+        639.5,
+        640.0,
+        641.5,
+        643.0,
+        645.0,
+        647.5,
+        650.0,
+        655.0
+      ],
+      "script_function": "10:00–10:12 đối chiếu thẻ thường/đặc biệt và tỷ lệ mở. 10:12–10:27 giải thích cung cầu. 10:27–10:47 nói hiếm chưa đủ, giới thiệu grading và công ty kiểm định. 10:47–11:00 mở bốn tiêu chí.",
+      "visible_evidence": "10:00–10:10 có máy, thẻ ánh kim và máy in DLICAN. 10:12.5 là eBay, 10:15 TCGplayer, 10:18.5–10:20 Goldin; 10:23.5–10:30 thêm listing. 10:33.5 hiện CARD GRADING; 10:35–10:43 có kính lúp, màn phóng đại và người thao tác. 10:50–10:55 một lá thẻ với callout góc/cạnh.",
+      "visual_word_relationship": "Listing cho thấy hoạt động thị trường, chưa chứng minh giá chốt. Kính lúp và callout cùng vật đang được giải thích.",
+      "retention_inference": "Câu “hiếm chưa đủ” mở tầng mới: tình trạng và chứng nhận làm cùng một lá khác giá.",
+      "reusable_lesson": "Quy trình phải có đối tượng, thao tác, đầu ra; không chỉ ảnh thị trường. Phân biệt giá rao, giá đấu và giao dịch hoàn tất.",
+      "limits_or_corrections": "Không xác nhận máy DLICAN là dây chuyền nhà phát hành đang kể. Các quy trình kiểm định cần kiểm riêng theo từng công ty.",
+      "notes_markdown": "**Lời và chức năng:** 10:00–10:12 đối chiếu thẻ thường/đặc biệt và tỷ lệ mở. 10:12–10:27 giải thích cung cầu. 10:27–10:47 nói hiếm chưa đủ, giới thiệu grading và công ty kiểm định. 10:47–11:00 mở bốn tiêu chí.\n\n**Hình quan sát được:** 10:00–10:10 có máy, thẻ ánh kim và máy in DLICAN. 10:12.5 là eBay, 10:15 TCGplayer, 10:18.5–10:20 Goldin; 10:23.5–10:30 thêm listing. 10:33.5 hiện CARD GRADING; 10:35–10:43 có kính lúp, màn phóng đại và người thao tác. 10:50–10:55 một lá thẻ với callout góc/cạnh.\n\n**Quan hệ lời–hình:** Listing cho thấy hoạt động thị trường, chưa chứng minh giá chốt. Kính lúp và callout cùng vật đang được giải thích.\n\n**Giữ chú ý — suy luận:** Câu “hiếm chưa đủ” mở tầng mới: tình trạng và chứng nhận làm cùng một lá khác giá.\n\n**Bài học dùng lại:** Quy trình phải có đối tượng, thao tác, đầu ra; không chỉ ảnh thị trường. Phân biệt giá rao, giá đấu và giao dịch hoàn tất.\n\n**Giới hạn/điểm cần sửa:** Không xác nhận máy DLICAN là dây chuyền nhà phát hành đang kể. Các quy trình kiểm định cần kiểm riêng theo từng công ty."
+    },
+    {
+      "index": 11,
+      "start": 660,
+      "end": 720,
+      "title": "Bốn điểm kiểm tra → slab/nhãn → chênh lệch giá",
+      "sheets": [
+        "sheets/11-01.jpg",
+        "sheets/11-02.jpg"
+      ],
+      "frame_times": [
+        660.0,
+        665.0,
+        670.0,
+        675.0,
+        680.0,
+        685.0,
+        690.0,
+        695.0,
+        700.0,
+        704.5,
+        705.0,
+        708.0,
+        709.5,
+        710.0,
+        711.5,
+        713.0,
+        714.5,
+        715.0,
+        717.5,
+        719.0
+      ],
+      "script_function": "11:00–11:07 hoàn tất góc/cạnh/bề mặt/căn giữa. 11:07–11:28 giải thích điểm và hộp có nhãn; chưa bóc không chắc điểm hoàn hảo. 11:28–11:41 nguồn nêu một số lợi nhuận. 11:41–11:50 liên hệ trò TCG Simulator; cuối phút hỏi lá vừa hiếm vừa điểm cao đắt thế nào.",
+      "visible_evidence": "11:00–11:05 bốn mũi tên quanh Charizard, đọc được tại native 0665.png. 11:10 là slab; 11:15 chỉ vùng nhãn; 11:35–11:40 thêm 18,3%. 11:45–11:48 có gameplay với điểm/giá. 11:49–11:51.5 có kiểm tra dưới đèn và đặt hộp vào máy.",
+      "visual_word_relationship": "Giữ một lá làm neo để tiêu chí bám đúng vùng. Hình chỉ định vị, chưa cho thấy một vết xước hay độ lệch thật.",
+      "retention_inference": "Gameplay tạo nhịp nghỉ rồi câu hỏi giá kỷ lục nâng tò mò. Không nhầm sức hấp dẫn với lời mời đầu cơ.",
+      "reusable_lesson": "Nói lỗi thì cần ảnh lỗi thật; nói điểm thì cần đúng nhãn. Ghi gameplay là game, không là giao dịch thật.",
+      "limits_or_corrections": "18,3% là claim quá khứ chưa xác minh tập mẫu, không là lời hứa. Hộp/chứng nhận không được mô tả như bảo đảm tuyệt đối.",
+      "notes_markdown": "**Lời và chức năng:** 11:00–11:07 hoàn tất góc/cạnh/bề mặt/căn giữa. 11:07–11:28 giải thích điểm và hộp có nhãn; chưa bóc không chắc điểm hoàn hảo. 11:28–11:41 nguồn nêu một số lợi nhuận. 11:41–11:50 liên hệ trò TCG Simulator; cuối phút hỏi lá vừa hiếm vừa điểm cao đắt thế nào.\n\n**Hình quan sát được:** 11:00–11:05 bốn mũi tên quanh Charizard, đọc được tại native 0665.png. 11:10 là slab; 11:15 chỉ vùng nhãn; 11:35–11:40 thêm 18,3%. 11:45–11:48 có gameplay với điểm/giá. 11:49–11:51.5 có kiểm tra dưới đèn và đặt hộp vào máy.\n\n**Quan hệ lời–hình:** Giữ một lá làm neo để tiêu chí bám đúng vùng. Hình chỉ định vị, chưa cho thấy một vết xước hay độ lệch thật.\n\n**Giữ chú ý — suy luận:** Gameplay tạo nhịp nghỉ rồi câu hỏi giá kỷ lục nâng tò mò. Không nhầm sức hấp dẫn với lời mời đầu cơ.\n\n**Bài học dùng lại:** Nói lỗi thì cần ảnh lỗi thật; nói điểm thì cần đúng nhãn. Ghi gameplay là game, không là giao dịch thật.\n\n**Giới hạn/điểm cần sửa:** 18,3% là claim quá khứ chưa xác minh tập mẫu, không là lời hứa. Hộp/chứng nhận không được mô tả như bảo đảm tuyệt đối."
+    },
+    {
+      "index": 12,
+      "start": 720,
+      "end": 780,
+      "title": "Mini-case: nguồn gốc → độ hiếm/điểm → người mua/giá",
+      "sheets": [
+        "sheets/12-01.jpg",
+        "sheets/12-02.jpg"
+      ],
+      "frame_times": [
+        720.0,
+        724.0,
+        725.0,
+        730.0,
+        735.0,
+        740.0,
+        745.0,
+        749.0,
+        750.0,
+        755.0,
+        758.0,
+        760.0,
+        765.0,
+        770.0,
+        773.5,
+        775.0
+      ],
+      "script_function": "12:00–12:27 kể Pikachu Illustrator, xuất xứ giải thưởng và giao dịch nổi tiếng. 12:27–12:46 kể The One Ring, bản độc nhất/người mở/người mua. 12:46–12:53 nói dùng lá đại diện để giữ lá thật. Cuối phút mở Black Lotus.",
+      "visible_evidence": "12:00 cận Illustrator; 12:04–12:10 tạp chí Nhật; 12:15–12:20 slab PSA 10 cạnh Logan Paul/cert và giá; 12:25 là PSA 9. 12:30–12:35 có The Lord of the Rings/sự kiện/thẻ; 12:38–12:45 ảnh người và slab kèm giá. 12:50 bàn Magic; 12:53.5–12:55 Black Lotus.",
+      "visual_word_relationship": "Giá gắn đúng vật và mức điểm; tạp chí giúp kể nguồn gốc. Ảnh liên quan chưa tự chứng minh điều khoản giao dịch.",
+      "retention_inference": "Các câu chuyện là phần trả thưởng cho hook, có lý do khan hiếm chứ không chỉ con số lớn.",
+      "reusable_lesson": "Ví dụ giá cao cần tên, phiên bản, điểm, thời điểm, loại giao dịch và nguồn; không thay bằng vật gần giống.",
+      "limits_or_corrections": "Tên/niên đại ASR có thể sai. Giá kỷ lục không phải định giá hiện hành hoặc kết quả đại diện của người sưu tập.",
+      "notes_markdown": "**Lời và chức năng:** 12:00–12:27 kể Pikachu Illustrator, xuất xứ giải thưởng và giao dịch nổi tiếng. 12:27–12:46 kể The One Ring, bản độc nhất/người mở/người mua. 12:46–12:53 nói dùng lá đại diện để giữ lá thật. Cuối phút mở Black Lotus.\n\n**Hình quan sát được:** 12:00 cận Illustrator; 12:04–12:10 tạp chí Nhật; 12:15–12:20 slab PSA 10 cạnh Logan Paul/cert và giá; 12:25 là PSA 9. 12:30–12:35 có The Lord of the Rings/sự kiện/thẻ; 12:38–12:45 ảnh người và slab kèm giá. 12:50 bàn Magic; 12:53.5–12:55 Black Lotus.\n\n**Quan hệ lời–hình:** Giá gắn đúng vật và mức điểm; tạp chí giúp kể nguồn gốc. Ảnh liên quan chưa tự chứng minh điều khoản giao dịch.\n\n**Giữ chú ý — suy luận:** Các câu chuyện là phần trả thưởng cho hook, có lý do khan hiếm chứ không chỉ con số lớn.\n\n**Bài học dùng lại:** Ví dụ giá cao cần tên, phiên bản, điểm, thời điểm, loại giao dịch và nguồn; không thay bằng vật gần giống.\n\n**Giới hạn/điểm cần sửa:** Tên/niên đại ASR có thể sai. Giá kỷ lục không phải định giá hiện hành hoặc kết quả đại diện của người sưu tập."
+    },
+    {
+      "index": 13,
+      "start": 780,
+      "end": 840,
+      "title": "Tiền lớn dẫn sang rủi ro giả mạo thẻ, nhãn và hộp",
+      "sheets": [
+        "sheets/13-01.jpg",
+        "sheets/13-02.jpg",
+        "sheets/13-03.jpg"
+      ],
+      "frame_times": [
+        780.0,
+        782.5,
+        784.0,
+        785.0,
+        786.5,
+        788.0,
+        789.5,
+        790.0,
+        791.5,
+        793.5,
+        795.0,
+        796.5,
+        798.0,
+        799.5,
+        800.0,
+        805.0,
+        810.0,
+        812.5,
+        815.0,
+        820.0,
+        821.5,
+        825.0,
+        826.5,
+        828.0,
+        829.5,
+        830.0,
+        832.0,
+        835.0
+      ],
+      "script_function": "13:00–13:10 khép Black Lotus bằng giá nguồn nêu. 13:10–13:19 hứa ba vấn đề rủi ro. 13:19–13:29 mở thẻ/hộp/chứng nhận giả. 13:29–13:49 giải thích vì sao chỉ tra mã chưa đủ; cuối phút mở dấu hiệu kiểm tra.",
+      "visible_evidence": "13:02.5–13:09.5 có ảnh kỷ lục CGC Pristine 10. 13:20–13:25 là slab. 13:30 cặp REAL/FAKE; 13:32.5–13:40 nhãn phóng đại/vòng đỏ. 13:41.5–13:45 ghép thẻ Pokémon với màn ví dụ nhãn LeBron. 13:46.5–13:50 là mép hộp và mũi tên; 13:55 callout UV.",
+      "visual_word_relationship": "Chi tiết được phóng đúng vùng cần nhìn. Hình xác minh ở 13:45 là các đối tượng khác nhau, không phải ca khớp duy nhất.",
+      "retention_inference": "Sau giá cao, mặt trái phát triển từ chính cơ chế chứng nhận và giá; không phải cảnh tiêu cực ngẫu nhiên.",
+      "reusable_lesson": "So sánh phải đủ gần, đủ lớn, cùng đối tượng. Hình ghép khác nguồn phải được trình bày như minh họa.",
+      "limits_or_corrections": "Không gán người trong footage hội chợ là kẻ lừa đảo. Các dấu hiệu xác thực chưa được nghiên cứu này chứng nhận đủ cho mọi đời hộp.",
+      "notes_markdown": "**Lời và chức năng:** 13:00–13:10 khép Black Lotus bằng giá nguồn nêu. 13:10–13:19 hứa ba vấn đề rủi ro. 13:19–13:29 mở thẻ/hộp/chứng nhận giả. 13:29–13:49 giải thích vì sao chỉ tra mã chưa đủ; cuối phút mở dấu hiệu kiểm tra.\n\n**Hình quan sát được:** 13:02.5–13:09.5 có ảnh kỷ lục CGC Pristine 10. 13:20–13:25 là slab. 13:30 cặp REAL/FAKE; 13:32.5–13:40 nhãn phóng đại/vòng đỏ. 13:41.5–13:45 ghép thẻ Pokémon với màn ví dụ nhãn LeBron. 13:46.5–13:50 là mép hộp và mũi tên; 13:55 callout UV.\n\n**Quan hệ lời–hình:** Chi tiết được phóng đúng vùng cần nhìn. Hình xác minh ở 13:45 là các đối tượng khác nhau, không phải ca khớp duy nhất.\n\n**Giữ chú ý — suy luận:** Sau giá cao, mặt trái phát triển từ chính cơ chế chứng nhận và giá; không phải cảnh tiêu cực ngẫu nhiên.\n\n**Bài học dùng lại:** So sánh phải đủ gần, đủ lớn, cùng đối tượng. Hình ghép khác nguồn phải được trình bày như minh họa.\n\n**Giới hạn/điểm cần sửa:** Không gán người trong footage hội chợ là kẻ lừa đảo. Các dấu hiệu xác thực chưa được nghiên cứu này chứng nhận đủ cho mọi đời hộp."
+    },
+    {
+      "index": 14,
+      "start": 840,
+      "end": 900,
+      "title": "Cách nhìn hộp, box break và FOMO",
+      "sheets": [
+        "sheets/14-01.jpg",
+        "sheets/14-02.jpg"
+      ],
+      "frame_times": [
+        840.0,
+        845.0,
+        850.0,
+        853.5,
+        855.0,
+        860.0,
+        865.0,
+        870.0,
+        872.0,
+        875.0,
+        877.5,
+        880.0,
+        885.0,
+        890.0,
+        895.0
+      ],
+      "script_function": "14:00–14:13 tiếp tục UV, đường hàn và hologram theo nguồn. 14:13–14:37 định nghĩa box break bằng cơ chế trả tiền/chờ kết quả. 14:37–14:45 nhắc tranh chấp theo lời nguồn. 14:45–15:00 nói FOMO và lặp mua quá mức.",
+      "visible_evidence": "14:00–14:10 một slab ở nền lưới, các nhãn kiểm tra thêm dần. 14:15–14:20 hộp và chữ BOX BREAKS. 14:25 người xem điện thoại; 14:30 màn livestream/listing slot; 14:35 mở gói ở bàn. 14:40 logo Whatnot/Fanatics Live trên nền giấy/búa; 14:50–14:55 màn điện thoại và nhân vật.",
+      "visual_word_relationship": "Livestream/slot khớp mô hình lựa chọn đang kể. UV mới là callout chữ trên ảnh, chưa thấy thao tác chiếu và phản ứng vật liệu. Búa là ký hiệu pháp lý, không là hồ sơ vụ kiện.",
+      "retention_inference": "Từ giả vật phẩm chuyển sang rủi ro cách bán, vẫn giữ cùng hệ thống. Nhân vật trở lại khi lời nói về tâm lý.",
+      "reusable_lesson": "Phép thử vật lý cần thao tác và kết quả thật. Claim pháp lý phải giữ trạng thái và nguồn, không dùng biểu tượng để tăng vẻ chắc chắn.",
+      "limits_or_corrections": "Không xác nhận vụ kiện, phân loại cờ bạc hoặc hiệu lực các dấu hiệu xác thực. Đây không phải tư vấn kiểm định hay pháp lý.",
+      "notes_markdown": "**Lời và chức năng:** 14:00–14:13 tiếp tục UV, đường hàn và hologram theo nguồn. 14:13–14:37 định nghĩa box break bằng cơ chế trả tiền/chờ kết quả. 14:37–14:45 nhắc tranh chấp theo lời nguồn. 14:45–15:00 nói FOMO và lặp mua quá mức.\n\n**Hình quan sát được:** 14:00–14:10 một slab ở nền lưới, các nhãn kiểm tra thêm dần. 14:15–14:20 hộp và chữ BOX BREAKS. 14:25 người xem điện thoại; 14:30 màn livestream/listing slot; 14:35 mở gói ở bàn. 14:40 logo Whatnot/Fanatics Live trên nền giấy/búa; 14:50–14:55 màn điện thoại và nhân vật.\n\n**Quan hệ lời–hình:** Livestream/slot khớp mô hình lựa chọn đang kể. UV mới là callout chữ trên ảnh, chưa thấy thao tác chiếu và phản ứng vật liệu. Búa là ký hiệu pháp lý, không là hồ sơ vụ kiện.\n\n**Giữ chú ý — suy luận:** Từ giả vật phẩm chuyển sang rủi ro cách bán, vẫn giữ cùng hệ thống. Nhân vật trở lại khi lời nói về tâm lý.\n\n**Bài học dùng lại:** Phép thử vật lý cần thao tác và kết quả thật. Claim pháp lý phải giữ trạng thái và nguồn, không dùng biểu tượng để tăng vẻ chắc chắn.\n\n**Giới hạn/điểm cần sửa:** Không xác nhận vụ kiện, phân loại cờ bạc hoặc hiệu lực các dấu hiệu xác thực. Đây không phải tư vấn kiểm định hay pháp lý."
+    },
+    {
+      "index": 15,
+      "start": 900,
+      "end": 960,
+      "title": "Ôm hàng và callback chu kỳ thẻ thể thao",
+      "sheets": [
+        "sheets/15-01.jpg",
+        "sheets/15-02.jpg",
+        "sheets/15-03.jpg"
+      ],
+      "frame_times": [
+        900.0,
+        905.0,
+        910.0,
+        911.5,
+        915.0,
+        916.5,
+        920.0,
+        921.5,
+        925.0,
+        927.5,
+        930.0,
+        931.5,
+        934.0,
+        935.0,
+        936.5,
+        938.0,
+        939.5,
+        940.0,
+        941.5,
+        943.0,
+        944.5,
+        945.0,
+        946.5,
+        948.0,
+        949.5,
+        950.0,
+        951.5,
+        953.0,
+        955.0,
+        957.0
+      ],
+      "script_function": "15:00–15:06 khép FOMO. 15:06–15:27 nói gom hàng/bot và giá bán lại khiến người muốn chơi khó mua. 15:27–15:39 hỏi vòng mua đắt rồi bán đắt hơn còn bền không. 15:39–16:00 kể Junk Wax để giải thích cung vượt cầu.",
+      "visible_evidence": "15:05–15:10 hàng hộp; 15:15 danh sách sản phẩm/giao dịch; 15:20 kệ trống; 15:21.5–15:25 trang giá/đồ thị tiếng Nhật. 15:30–15:36.5 tư liệu trẻ em chơi/đổi thẻ. 15:40–15:50 album bóng chày; 15:53 hiện JUNK WAX; 15:55 hộp Topps và thẻ.",
+      "visual_word_relationship": "Hình đổi đúng loại thẻ khi chuyển lịch sử thể thao. Kệ trống cho thấy trạng thái thiếu hàng, chưa chứng minh do bot/gom hàng.",
+      "retention_inference": "Câu hỏi độ bền xuất hiện sau rủi ro giá; callback trả lời lời hứa thứ ba thay vì mở đề mới ở cuối.",
+      "reusable_lesson": "So sánh chu kỳ bằng cơ chế giống/khác. Kệ trống và chart cần nguồn/ngày nếu dùng như bằng chứng.",
+      "limits_or_corrections": "Chưa kiểm chứng lịch sử Junk Wax hay nguyên nhân mọi biến động giá. Listing chỉ là ảnh chụp được nguồn sử dụng.",
+      "notes_markdown": "**Lời và chức năng:** 15:00–15:06 khép FOMO. 15:06–15:27 nói gom hàng/bot và giá bán lại khiến người muốn chơi khó mua. 15:27–15:39 hỏi vòng mua đắt rồi bán đắt hơn còn bền không. 15:39–16:00 kể Junk Wax để giải thích cung vượt cầu.\n\n**Hình quan sát được:** 15:05–15:10 hàng hộp; 15:15 danh sách sản phẩm/giao dịch; 15:20 kệ trống; 15:21.5–15:25 trang giá/đồ thị tiếng Nhật. 15:30–15:36.5 tư liệu trẻ em chơi/đổi thẻ. 15:40–15:50 album bóng chày; 15:53 hiện JUNK WAX; 15:55 hộp Topps và thẻ.\n\n**Quan hệ lời–hình:** Hình đổi đúng loại thẻ khi chuyển lịch sử thể thao. Kệ trống cho thấy trạng thái thiếu hàng, chưa chứng minh do bot/gom hàng.\n\n**Giữ chú ý — suy luận:** Câu hỏi độ bền xuất hiện sau rủi ro giá; callback trả lời lời hứa thứ ba thay vì mở đề mới ở cuối.\n\n**Bài học dùng lại:** So sánh chu kỳ bằng cơ chế giống/khác. Kệ trống và chart cần nguồn/ngày nếu dùng như bằng chứng.\n\n**Giới hạn/điểm cần sửa:** Chưa kiểm chứng lịch sử Junk Wax hay nguyên nhân mọi biến động giá. Listing chỉ là ảnh chụp được nguồn sử dụng."
+    },
+    {
+      "index": 16,
+      "start": 960,
+      "end": 1020,
+      "title": "Phản biện hai nấc: khan hiếm chưa đủ, còn nhu cầu sử dụng",
+      "sheets": [
+        "sheets/16-01.jpg",
+        "sheets/16-02.jpg",
+        "sheets/16-03.jpg"
+      ],
+      "frame_times": [
+        960.0,
+        963.0,
+        964.5,
+        965.0,
+        966.5,
+        968.0,
+        969.5,
+        970.0,
+        971.5,
+        973.5,
+        975.0,
+        979.0,
+        980.0,
+        985.0,
+        988.0,
+        990.0,
+        992.5,
+        994.0,
+        995.0,
+        997.5,
+        1000.0,
+        1003.0,
+        1005.0,
+        1007.5,
+        1010.0,
+        1014.5,
+        1015.0
+      ],
+      "script_function": "16:00–16:23 so TCG với thẻ thể thao qua kiểm soát in và grading. 16:23–16:37 tự phản biện: thời trang hype cũng giới hạn nhưng có thể mất giá. 16:37–17:00 đưa khác biệt là người chơi thật, luật, giải đấu và cộng đồng.",
+      "visible_evidence": "16:03–16:08.5 dây chuyền đóng gói; 16:10–16:13.5 thẻ ánh kim; 16:19 tay cầm thẻ. 16:28–16:30 hàng người trước Supreme. 16:34–16:35 listing áo/đường đỏ giảm. 16:38–16:40 người chơi Magic; 16:45–16:50 bàn thi đấu có số; 16:55 xếp thẻ vào album.",
+      "visual_word_relationship": "Phản ví dụ thời trang có đúng vật thể. Khi nói nhu cầu chơi, quay về hành động chơi và giải đấu, không cần icon trang trí.",
+      "retention_inference": "Đưa lý do → thừa nhận phản ví dụ tốt → bổ sung cơ chế phân biệt. Lập luận tiến triển thay vì lặp lớn hơn.",
+      "reusable_lesson": "Giữ phản biện mạnh trong kịch bản rồi giải quyết bằng quan hệ nhìn thấy. Không mặc định mọi vật giới hạn đều bền giá.",
+      "limits_or_corrections": "Nguồn suy luận độ bền ngành, không chứng minh giá từng lá an toàn. Không xác nhận danh tính mọi người hoặc tên giải từ mẫu hình.",
+      "notes_markdown": "**Lời và chức năng:** 16:00–16:23 so TCG với thẻ thể thao qua kiểm soát in và grading. 16:23–16:37 tự phản biện: thời trang hype cũng giới hạn nhưng có thể mất giá. 16:37–17:00 đưa khác biệt là người chơi thật, luật, giải đấu và cộng đồng.\n\n**Hình quan sát được:** 16:03–16:08.5 dây chuyền đóng gói; 16:10–16:13.5 thẻ ánh kim; 16:19 tay cầm thẻ. 16:28–16:30 hàng người trước Supreme. 16:34–16:35 listing áo/đường đỏ giảm. 16:38–16:40 người chơi Magic; 16:45–16:50 bàn thi đấu có số; 16:55 xếp thẻ vào album.\n\n**Quan hệ lời–hình:** Phản ví dụ thời trang có đúng vật thể. Khi nói nhu cầu chơi, quay về hành động chơi và giải đấu, không cần icon trang trí.\n\n**Giữ chú ý — suy luận:** Đưa lý do → thừa nhận phản ví dụ tốt → bổ sung cơ chế phân biệt. Lập luận tiến triển thay vì lặp lớn hơn.\n\n**Bài học dùng lại:** Giữ phản biện mạnh trong kịch bản rồi giải quyết bằng quan hệ nhìn thấy. Không mặc định mọi vật giới hạn đều bền giá.\n\n**Giới hạn/điểm cần sửa:** Nguồn suy luận độ bền ngành, không chứng minh giá từng lá an toàn. Không xác nhận danh tính mọi người hoặc tên giải từ mẫu hình."
+    },
+    {
+      "index": 17,
+      "start": 1020,
+      "end": 1052,
+      "title": "Kết luận có điều kiện, giữ rủi ro giá rồi CTA ngắn",
+      "sheets": [
+        "sheets/17-01.jpg",
+        "sheets/17-02.jpg"
+      ],
+      "frame_times": [
+        1020.0,
+        1021.5,
+        1023.0,
+        1025.0,
+        1027.0,
+        1029.0,
+        1030.0,
+        1032.5,
+        1034.0,
+        1035.0,
+        1036.5,
+        1038.0,
+        1040.0,
+        1041.5,
+        1044.0,
+        1045.0,
+        1050.0
+      ],
+      "script_function": "17:00–17:11 nói IP/ký ức lâu năm tạo sức bền khác trend ngắn. 17:11–17:24 giữ giới hạn: nhu cầu bền không đồng nghĩa giá luôn giữ; có thể bán tháo lấy tiền mặt. 17:24.76 mời bình luận; 17:26.32 xưng tên; 17:27.64–17:29.92 mời đăng ký/chào, đệm hình đến 17:32.",
+      "visible_evidence": "17:00 người sắp thẻ; 17:01.5–17:07 cảnh Pokémon animation. 17:10 hội chợ; 17:12.5–17:16.5 lựa thẻ trong hộp; 17:20–17:24 giao dịch. 17:25 chuyển nền lưới; 17:30 mascot và UI đăng ký Lóng, rõ ở native 1050.png.",
+      "visual_word_relationship": "Nhân vật truyện khớp hoài niệm; giao dịch trở lại khi cảnh báo giá. CTA có UI hành động tương ứng.",
+      "retention_inference": "Trả lời đủ lời hứa và chừa giới hạn để thảo luận. CTA đến sau kết luận, không cắt câu chốt.",
+      "reusable_lesson": "Phân biệt giá trị sử dụng với biến động giá; kết bằng luận điểm chứ không chỉ số tiền kỷ lục. Giữ nguyên câu nói cuối.",
+      "limits_or_corrections": "Không biến kết luận nguồn thành bảo đảm ngành không thể sụp đổ hay đầu tư an toàn. Chưa nghe để chấm giọng, nhạc, SFX hoặc cảm xúc của mix.",
+      "notes_markdown": "**Lời và chức năng:** 17:00–17:11 nói IP/ký ức lâu năm tạo sức bền khác trend ngắn. 17:11–17:24 giữ giới hạn: nhu cầu bền không đồng nghĩa giá luôn giữ; có thể bán tháo lấy tiền mặt. 17:24.76 mời bình luận; 17:26.32 xưng tên; 17:27.64–17:29.92 mời đăng ký/chào, đệm hình đến 17:32.\n\n**Hình quan sát được:** 17:00 người sắp thẻ; 17:01.5–17:07 cảnh Pokémon animation. 17:10 hội chợ; 17:12.5–17:16.5 lựa thẻ trong hộp; 17:20–17:24 giao dịch. 17:25 chuyển nền lưới; 17:30 mascot và UI đăng ký Lóng, rõ ở native 1050.png.\n\n**Quan hệ lời–hình:** Nhân vật truyện khớp hoài niệm; giao dịch trở lại khi cảnh báo giá. CTA có UI hành động tương ứng.\n\n**Giữ chú ý — suy luận:** Trả lời đủ lời hứa và chừa giới hạn để thảo luận. CTA đến sau kết luận, không cắt câu chốt.\n\n**Bài học dùng lại:** Phân biệt giá trị sử dụng với biến động giá; kết bằng luận điểm chứ không chỉ số tiền kỷ lục. Giữ nguyên câu nói cuối.\n\n**Giới hạn/điểm cần sửa:** Không biến kết luận nguồn thành bảo đảm ngành không thể sụp đổ hay đầu tư an toàn. Chưa nghe để chấm giọng, nhạc, SFX hoặc cảm xúc của mix."
+    }
+  ],
+  "semantic_beats": [
+    {
+      "start": 0,
+      "end": 13.76,
+      "function": "hook-bridge",
+      "meaning": "Liên hệ các trào lưu và video trước với cộng đồng quen thuộc",
+      "timing": "approximate"
+    },
+    {
+      "start": 13.76,
+      "end": 29.84,
+      "function": "hook-paradox",
+      "meaning": "Đặt nghịch lý bìa rẻ nhưng giao dịch đắt",
+      "timing": "approximate"
+    },
+    {
+      "start": 29.84,
+      "end": 39.48,
+      "function": "promise",
+      "meaning": "Hứa giải thích giá trị, sức hút và độ bền",
+      "timing": "approximate"
+    },
+    {
+      "start": 39.48,
+      "end": 46.92,
+      "function": "disclaimer",
+      "meaning": "Tổng hợp nhiều nguồn, mời sửa sai",
+      "timing": "approximate"
+    },
+    {
+      "start": 46.92,
+      "end": 68,
+      "function": "definition",
+      "meaning": "Định nghĩa TCG qua mua, mở, xếp bộ và đấu",
+      "timing": "approximate"
+    },
+    {
+      "start": 68,
+      "end": 89.56,
+      "function": "value-mechanism",
+      "meaning": "Vật liệu khác giá trị cộng đồng; nhà phát hành tạo hệ thống",
+      "timing": "approximate"
+    },
+    {
+      "start": 89.56,
+      "end": 102.16,
+      "function": "industry-bridge",
+      "meaning": "Từ trò chơi sang ngành kinh doanh",
+      "timing": "approximate"
+    },
+    {
+      "start": 102.16,
+      "end": 119.64,
+      "function": "sponsor-problem",
+      "meaning": "Giả định mở shop và quản lý đơn, tồn kho",
+      "timing": "approximate"
+    },
+    {
+      "start": 119.64,
+      "end": 143.08,
+      "function": "sponsor-demo",
+      "meaning": "Demo Odoo/TikTok Shop theo lời quảng bá",
+      "timing": "approximate"
+    },
+    {
+      "start": 143.08,
+      "end": 156.56,
+      "function": "sponsor-benefit",
+      "meaning": "Nhiều gian hàng và giảm sao chép thủ công",
+      "timing": "approximate"
+    },
+    {
+      "start": 156.56,
+      "end": 161.32,
+      "function": "sponsor-CTA",
+      "meaning": "CTA dùng thử, báo quay lại nội dung",
+      "timing": "approximate"
+    },
+    {
+      "start": 161.32,
+      "end": 173.8,
+      "function": "roadmap",
+      "meaning": "Mở bản đồ tâm lý, tài sản và ký ức",
+      "timing": "approximate"
+    },
+    {
+      "start": 173.8,
+      "end": 188.16,
+      "function": "psychology-unboxing",
+      "meaning": "Chờ đợi, mở gói và cảm xúc có thẻ hiếm",
+      "timing": "approximate"
+    },
+    {
+      "start": 188.16,
+      "end": 201.84,
+      "function": "psychology-ownership",
+      "meaning": "Đồ khó kiếm và hiệu ứng sở hữu",
+      "timing": "approximate"
+    },
+    {
+      "start": 201.84,
+      "end": 226.04,
+      "function": "status-example",
+      "meaning": "Địa vị cộng đồng và ví dụ thẻ trong Poca",
+      "timing": "approximate"
+    },
+    {
+      "start": 226.04,
+      "end": 252.88,
+      "function": "asset-motive",
+      "meaning": "Áp lực nhà ở và tài sản nhỏ hơn",
+      "timing": "approximate"
+    },
+    {
+      "start": 252.88,
+      "end": 270.88,
+      "function": "market-behavior",
+      "meaning": "Thương hiệu quen, giao dịch và theo dõi giá",
+      "timing": "approximate"
+    },
+    {
+      "start": 270.88,
+      "end": 281.08,
+      "function": "personal-anecdote",
+      "meaning": "Giai thoại hộp sealed bán lời",
+      "timing": "approximate"
+    },
+    {
+      "start": 281.08,
+      "end": 297.28,
+      "function": "risk-caveat",
+      "meaning": "Không mua theo giai thoại; rủi ro thanh khoản",
+      "timing": "approximate"
+    },
+    {
+      "start": 297.28,
+      "end": 327.2,
+      "function": "nostalgia",
+      "meaning": "Tuổi thơ, thu nhập hiện tại và sản phẩm hoài niệm",
+      "timing": "approximate"
+    },
+    {
+      "start": 327.2,
+      "end": 332.8,
+      "function": "buyer-synthesis",
+      "meaning": "Ba mục đích: chơi, sưu tầm, kiếm tiền",
+      "timing": "approximate"
+    },
+    {
+      "start": 332.8,
+      "end": 359.6,
+      "function": "speculation",
+      "meaning": "Đầu cơ ngắn hạn và động cơ thích rủi ro",
+      "timing": "approximate"
+    },
+    {
+      "start": 359.6,
+      "end": 376.68,
+      "function": "market-scale",
+      "meaning": "Quy mô lớn nhưng dự báo khác nhau",
+      "timing": "approximate"
+    },
+    {
+      "start": 376.68,
+      "end": 388.44,
+      "function": "measurement-caveat",
+      "meaning": "Phạm vi thẻ thật, số và mua bán lại khác nhau",
+      "timing": "approximate"
+    },
+    {
+      "start": 388.44,
+      "end": 417.2,
+      "function": "forecast-comparison",
+      "meaning": "Ba bộ ước tính và dự báo cao hơn",
+      "timing": "approximate"
+    },
+    {
+      "start": 417.2,
+      "end": 437.24,
+      "function": "counter-estimates",
+      "meaning": "Hai nguồn ước tính thấp hơn",
+      "timing": "approximate"
+    },
+    {
+      "start": 437.24,
+      "end": 447.88,
+      "function": "synthesis-question",
+      "meaning": "Gom xu hướng rồi hỏi tiền mua gì",
+      "timing": "approximate"
+    },
+    {
+      "start": 447.88,
+      "end": 473.72,
+      "function": "physical-digital",
+      "meaning": "Thẻ giấy, số và ví dụ sở hữu đĩa game",
+      "timing": "approximate"
+    },
+    {
+      "start": 473.72,
+      "end": 495.32,
+      "function": "buyer-segments",
+      "meaning": "Người lớn và người trẻ dùng thẻ khác nhau",
+      "timing": "approximate"
+    },
+    {
+      "start": 495.32,
+      "end": 526.92,
+      "function": "regions",
+      "meaning": "Các vùng châu Á–Thái Bình Dương, Bắc Mỹ, châu Âu",
+      "timing": "approximate"
+    },
+    {
+      "start": 526.92,
+      "end": 552.56,
+      "function": "rights-owner",
+      "meaning": "Pokémon và quyền kiểm soát IP, sản lượng",
+      "timing": "approximate"
+    },
+    {
+      "start": 552.56,
+      "end": 579.88,
+      "function": "franchise-loop",
+      "meaning": "Bandai và liên kết IP giải trí với thẻ",
+      "timing": "approximate"
+    },
+    {
+      "start": 579.88,
+      "end": 595,
+      "function": "promise-callback",
+      "meaning": "Callback: đã biết ai mua/bán, vì sao vẫn có thẻ hiếm?",
+      "timing": "approximate"
+    },
+    {
+      "start": 595,
+      "end": 618.2,
+      "function": "scarcity",
+      "meaning": "Phân tầng thẻ thường, đặc biệt và tỷ lệ mở",
+      "timing": "approximate"
+    },
+    {
+      "start": 618.2,
+      "end": 627.64,
+      "function": "supply-demand",
+      "meaning": "Cung cầu trên thị trường bán lại",
+      "timing": "approximate"
+    },
+    {
+      "start": 627.64,
+      "end": 647.64,
+      "function": "grading-introduction",
+      "meaning": "Hiếm chưa đủ: tình trạng và chứng nhận",
+      "timing": "approximate"
+    },
+    {
+      "start": 647.64,
+      "end": 666.12,
+      "function": "grading-criteria",
+      "meaning": "Bốn tiêu chí góc, cạnh, bề mặt, căn giữa",
+      "timing": "approximate"
+    },
+    {
+      "start": 666.12,
+      "end": 677.76,
+      "function": "grading-output",
+      "meaning": "Điểm và hộp có nhãn",
+      "timing": "approximate"
+    },
+    {
+      "start": 677.76,
+      "end": 701.16,
+      "function": "grading-price",
+      "meaning": "Chênh lệch giá và claim lợi nhuận của nguồn",
+      "timing": "approximate"
+    },
+    {
+      "start": 701.16,
+      "end": 710.88,
+      "function": "game-aside",
+      "meaning": "Liên hệ game, điểm thấp và cao",
+      "timing": "approximate"
+    },
+    {
+      "start": 710.88,
+      "end": 720.72,
+      "function": "records-bridge",
+      "meaning": "Hiếm cùng điểm cao có thể đắt thế nào?",
+      "timing": "approximate"
+    },
+    {
+      "start": 720.72,
+      "end": 746.8,
+      "function": "record-Pikachu",
+      "meaning": "Pikachu: xuất xứ giải thưởng, điểm và giao dịch",
+      "timing": "approximate"
+    },
+    {
+      "start": 746.8,
+      "end": 766.12,
+      "function": "record-OneRing",
+      "meaning": "The One Ring: bản độc nhất và người mua",
+      "timing": "approximate"
+    },
+    {
+      "start": 766.12,
+      "end": 773.48,
+      "function": "use-versus-preserve",
+      "meaning": "Lá đại diện để chơi, giữ lá thật",
+      "timing": "approximate"
+    },
+    {
+      "start": 773.48,
+      "end": 790.92,
+      "function": "record-BlackLotus",
+      "meaning": "Black Lotus: lịch sử, ngừng in, điểm và giá",
+      "timing": "approximate"
+    },
+    {
+      "start": 790.92,
+      "end": 800.96,
+      "function": "risks-roadmap",
+      "meaning": "Tiền lớn dẫn sang ba vấn đề rủi ro",
+      "timing": "approximate"
+    },
+    {
+      "start": 800.96,
+      "end": 829.48,
+      "function": "counterfeit-risk",
+      "meaning": "Giả mạo hoặc can thiệp thẻ, nhãn và hộp",
+      "timing": "approximate"
+    },
+    {
+      "start": 829.48,
+      "end": 853.96,
+      "function": "verification-advice",
+      "meaning": "Nguồn nêu UV, viền hộp và hologram",
+      "timing": "approximate"
+    },
+    {
+      "start": 853.96,
+      "end": 877.28,
+      "function": "box-breaks",
+      "meaning": "Box break: trả tiền chờ kết quả ngẫu nhiên",
+      "timing": "approximate"
+    },
+    {
+      "start": 877.28,
+      "end": 884.92,
+      "function": "legal-claim",
+      "meaning": "Nhắc tranh chấp theo nguồn, chưa xác minh",
+      "timing": "approximate"
+    },
+    {
+      "start": 884.92,
+      "end": 906.48,
+      "function": "FOMO",
+      "meaning": "FOMO, lặp mua và chi tiêu quá mức",
+      "timing": "approximate"
+    },
+    {
+      "start": 906.48,
+      "end": 928.56,
+      "function": "scalping",
+      "meaning": "Gom hàng, giá bán lại và người muốn chơi",
+      "timing": "approximate"
+    },
+    {
+      "start": 928.56,
+      "end": 938.8,
+      "function": "durability-callback",
+      "meaning": "Callback câu hỏi độ bền so với trào lưu trước",
+      "timing": "approximate"
+    },
+    {
+      "start": 938.8,
+      "end": 962.48,
+      "function": "JunkWax-comparison",
+      "meaning": "Junk Wax: thẻ thể thao và cung vượt cầu",
+      "timing": "approximate"
+    },
+    {
+      "start": 962.48,
+      "end": 983.2,
+      "function": "scarcity-distinction",
+      "meaning": "Kiểm soát in và tầng khan hiếm do grading",
+      "timing": "approximate"
+    },
+    {
+      "start": 983.2,
+      "end": 998.32,
+      "function": "hype-counterexample",
+      "meaning": "Phản ví dụ thời trang giới hạn vẫn mất giá",
+      "timing": "approximate"
+    },
+    {
+      "start": 998.32,
+      "end": 1019.56,
+      "function": "play-community",
+      "meaning": "Nhu cầu chơi, luật và giải đấu",
+      "timing": "approximate"
+    },
+    {
+      "start": 1019.56,
+      "end": 1032.88,
+      "function": "nostalgia-thesis",
+      "meaning": "IP và ký ức lâu năm tạo sức bền",
+      "timing": "approximate"
+    },
+    {
+      "start": 1032.88,
+      "end": 1044.76,
+      "function": "final-risk",
+      "meaning": "Sức bền ngành không bảo đảm giá thẻ",
+      "timing": "approximate"
+    },
+    {
+      "start": 1044.76,
+      "end": 1052,
+      "function": "final-CTA",
+      "meaning": "Bình luận, đăng ký và lời chào",
+      "timing": "approximate"
+    }
+  ],
+  "reusable_principles": [
+    "Lời hứa ở hook được gọi lại và trả lời trong thân bài, phần kết.",
+    "Tư liệu thật đúng vật và hành động; sơ đồ khi cần quan hệ trừu tượng.",
+    "Phạm vi dữ liệu đi trước số; giữ năm, đơn vị và loại giao dịch.",
+    "Một đối tượng làm neo khi thêm callout; cho đủ thời gian đọc.",
+    "Caveat ngay cạnh giai thoại lợi nhuận; độ bền ngành không bảo đảm giá.",
+    "Đưa phản ví dụ tốt rồi giải thích khác biệt về nhu cầu sử dụng.",
+    "Không sao chép mascot, câu văn, ảnh, thumbnail hoặc âm thanh của kênh."
+  ],
+  "production_scope": "Nghiên cứu và lưu bài học; giữ giao diện ảnh/gallery 3D cũ, giọng Nhật Phong và hướng âm thanh đã duyệt. Không tạo video mới trong nhiệm vụ này."
+}

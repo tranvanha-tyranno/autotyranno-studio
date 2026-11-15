@@ -1,0 +1,23 @@
+{
+  "direction": "hidden",
+  "title": "Đừng chỉ nhìn tên nghề. Hãy nhìn từng nhiệm vụ.",
+  "scriptWords": 295,
+  "voice": {
+    "name": "Nhật Phong",
+    "voice_id": "6adFm46eyy74snVn6YrT",
+    "model_id": "eleven_v3",
+    "language_code": "vi",
+    "speed": 1.0,
+    "stability": 0.5,
+    "similarity_boost": 0.8
+  },
+  "structure": [
+    "hook",
+    "disclaimer",
+    "content",
+    "cta"
+  ],
+  "durationPolicy": "Follow exact natural take plus 1s tail; no time stretching or final-sentence truncation",
+  "sourceIdentity": "TYRANNO original demonstration; channel references are structural inspiration",
+  "acceptance": "Pending user visual/audio feedback"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "videos\\2026-11-11-cinematic-reset\\final.mp4",
+  "decodedFrames": 1500,
+  "fps": 30.0,
+  "seconds": 50.0,
+  "width": 1920,
+  "height": 1080,
+  "expectedFrames": 1500,
+  "frameCountPass": true,
+  "deltaTopPictureMean": 4.078603940672486,
+  "minimumConsecutiveSampleDelta": 0.0074166664853692055,
+  "aestheticAcceptance": "not inferred; requires visual review and user feedback",
+  "audioListening": "not performed by this script"
+}

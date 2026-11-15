@@ -1,0 +1,40 @@
+{
+  "selected": "vi-VN-NamMinhNeural",
+  "chapters": [
+    {
+      "chapter": "hai-nghin-di-dau",
+      "file": "audio/nam-minh/01-hai-nghin-di-dau.mp3",
+      "sha256": "6714b8b2cee745ae9b7b5bfe3254af315d5f4730297dad42051a3729c72af2bd",
+      "seconds": 97.15
+    },
+    {
+      "chapter": "giam-cai-gi",
+      "file": "audio/nam-minh/02-giam-cai-gi.mp3",
+      "sha256": "9a670e24bca6c14c4b0673d76f7955ab2038d15f3900bf75bb59b746f9990f53",
+      "seconds": 57.89
+    },
+    {
+      "chapter": "hoa-don-nao-giam",
+      "file": "audio/nam-minh/03-hoa-don-nao-giam.mp3",
+      "sha256": "8554b549b4aa9c4c83114e2f09529b538b61ef16791f4417f9909595f9cf8110",
+      "seconds": 74.74
+    },
+    {
+      "chapter": "luong-mua-bao-nhieu-banh",
+      "file": "audio/nam-minh/04-luong-mua-bao-nhieu-banh.mp3",
+      "sha256": "567656d2b688a6e0b96ae3bccb670a9777d947124baecfdf2d366debf4181590",
+      "seconds": 78.48
+    },
+    {
+      "chapter": "tro-lai-quay-banh",
+      "file": "audio/nam-minh/05-tro-lai-quay-banh.mp3",
+      "sha256": "82f870daaac789310a4f5c3b272f490589fc4a1b66ded3ef573dcf8a9ed52bab",
+      "seconds": 47.76
+    }
+  ],
+  "userInstruction": "Dùng giọng Việt khác cho bản mới",
+  "reason": "ElevenLabs quota_exceeded on chapter3 after two valid new Nhật Phong takes.",
+  "consistency": "All final chapters use this one alternative voice; no narrator switch inside film.",
+  "rejectedRequestEvidenceRetained": "audio/03-hoa-don-nao-giam.error.json",
+  "voiceQualityAcceptance": "Pending actual listener/user feedback; metadata is not listening."
+}

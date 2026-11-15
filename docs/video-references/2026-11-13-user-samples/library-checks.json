@@ -1,0 +1,34 @@
+{
+  "reference_count": 4,
+  "total_duration_seconds": 4630,
+  "contiguous_blocks": 79,
+  "contact_sheets": 174,
+  "sampled_frames": 1656,
+  "completed_analysis_reports": 4,
+  "completed_script_patterns": 4,
+  "analysis_block_counts": {
+    "w3z43Hlzq3c": {
+      "expected": 21,
+      "actual": 21
+    },
+    "1OGwWLvasIk": {
+      "expected": 26,
+      "actual": 26
+    },
+    "gNznfzAUiLw": {
+      "expected": 18,
+      "actual": 18
+    },
+    "3JUxxp2sIDM": {
+      "expected": 14,
+      "actual": 14
+    }
+  },
+  "incomplete_report_errors": [],
+  "missing_local_files": [],
+  "coverage_errors": [],
+  "report_html_allowlist": true,
+  "embedded_payload_has_no_raw_close_script": true,
+  "scope": "File references, continuous interval coverage and safe HTML structure only; not audiovisual or aesthetic acceptance.",
+  "require_complete_reports": true
+}

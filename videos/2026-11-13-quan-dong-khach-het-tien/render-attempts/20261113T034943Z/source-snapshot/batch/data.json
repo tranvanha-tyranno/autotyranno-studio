@@ -1,0 +1,4218 @@
+{
+  "title": "Vì sao quán cà phê đông khách vẫn hết tiền?",
+  "fps": 30,
+  "frames": 17848,
+  "audio": "business/mix.wav",
+  "shots": [
+    {
+      "id": "h01",
+      "text": "Quán kín bàn, máy pha chạy liên tục, đơn hàng cứ nối nhau. Nhưng cuối tháng, chủ quán vẫn phải lấy tiền tiết kiệm để trả tiền thuê. Tiền đã đi đâu?",
+      "phase": "hook",
+      "layout": "b-photo",
+      "headline": "ĐÔNG KHÁCH. TIỀN ĐI ĐÂU?",
+      "mediaTag": "busy",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Wide cafe interior with many occupied tables; people talk and someone moves across seating area. Some empty chairs remain. | Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible.",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "QUÁN GIẢ ĐỊNH / TƯ LIỆU MINH HỌA",
+      "start": 0,
+      "images": [
+        {
+          "file": "business/clip-busy-cafe-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 301,
+          "credit": "Nazim Zafri",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/clip-espresso-extract-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 800,
+          "credit": "Max Medyk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "opening",
+      "sourceNote": "Tư liệu minh họa · Nazim Zafri / Pexels License; Max Medyk / Pexels License; David McKelvey  from Brisbane, Australia / CC BY 2.0",
+      "end": 285
+    },
+    {
+      "id": "h02",
+      "text": "Có thể quán chưa bán đủ. Cũng có thể mỗi đơn bán thêm để lại quá ít, hoặc tiền phải chi đã tới trước tiền thu. Ba chuyện này nhìn ngoài cửa rất giống nhau.",
+      "phase": "hook",
+      "layout": "b-split",
+      "headline": "Một cảnh đông. Ba câu chuyện.",
+      "mediaTag": "cafe",
+      "design": {
+        "choices": [
+          {
+            "label": "01",
+            "title": "Chưa đủ sản lượng"
+          },
+          {
+            "label": "02",
+            "title": "Mỗi đơn còn ít"
+          },
+          {
+            "label": "03",
+            "title": "Lệch lịch thu–chi"
+          }
+        ],
+        "cues": [
+          62,
+          141
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"01\", \"title\": \"Chưa đủ sản lượng\"}, {\"label\": \"02\", \"title\": \"Mỗi đơn còn ít\"}, {\"label\": \"03\", \"title\": \"Lệch lịch thu–chi\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 285,
+      "images": [
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-dalat-cafe.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Bino Storyteller  curiousbino",
+          "focus": [
+            45,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "opening",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0; Takeaway / CC BY-SA 3.0; Bino Storyteller  curiousbino / CC0",
+      "end": 572
+    },
+    {
+      "id": "h03",
+      "text": "Hôm nay, thử mở một quán cà phê giả định. Ta sẽ lần theo một ly ba mươi lăm nghìn, đi qua tiền thuê, khuyến mại, rồi đến ngày phải trả hóa đơn.",
+      "phase": "hook",
+      "layout": "b-coffee",
+      "headline": "Lần theo một ly 35.000đ",
+      "mediaTag": "coffee",
+      "design": {
+        "coffee": {
+          "kind": "cup"
+        }
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change.",
+      "sourceRole": "illustrative-context",
+      "body": "35.000đ là giá bán giả định, không phải giá của quán trong ảnh.",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 572,
+      "images": [
+        {
+          "file": "business/clip-espresso-flow-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 1098,
+          "credit": "Thomas Windisch",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "opening",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Thomas Windisch / Pexels License",
+      "end": 836
+    },
+    {
+      "id": "d01",
+      "text": "Đây là ví dụ giáo dục về kinh doanh, không phải tư vấn tài chính cho một quán cụ thể. Toàn bộ giá và chi phí đều giả định; thuế, lãi vay và khấu hao chưa được đưa vào mô hình.",
+      "phase": "disclaimer",
+      "layout": "b-question",
+      "headline": "Một quán giả định. Một mô hình đơn giản.",
+      "mediaTag": "cafe",
+      "design": {
+        "theme": "cream",
+        "emphasis": [
+          "Ví dụ giả định",
+          "Không phải tư vấn riêng"
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MIỄN TRỪ TRÁCH NHIỆM",
+      "body": "Giá và chi phí đều giả định. Chưa tính thuế, lãi vay, khấu hao. Nội dung giáo dục, không tư vấn riêng cho một cơ sở.",
+      "start": 836,
+      "images": [
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "opening",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 1169
+    },
+    {
+      "id": "u01",
+      "text": "Bắt đầu ở quầy. Một khách trả ba mươi lăm nghìn cho một ly. Số tiền đó là doanh thu, chưa phải phần chủ quán có thể mang về.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "35.000đ khách trả ≠ tiền mang về",
+      "mediaTag": "payment",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Customer holds smartphone near a terminal; cashier handles terminal, tears a receipt and hands paper to customer. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "sourceRole": "illustrative-context",
+      "start": 1169,
+      "images": [
+        {
+          "file": "business/clip-phone-payment-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 387,
+          "credit": "Kampus Production",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Tư liệu minh họa · Kampus Production / Pexels License; Vyacheslav Argenberg / CC BY 4.0",
+      "end": 1398
+    },
+    {
+      "id": "u02",
+      "text": "Để làm thêm một ly, quán cần nguyên liệu, cốc hoặc nắp dùng một lần, và những khoản thay đổi theo đơn bán. Trong ví dụ này, gom chúng thành mười lăm nghìn.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Mỗi ly có chi phí đi cùng",
+      "mediaTag": "ingredients",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Tattooed hand holds a double-spout portafilter beneath an electric coffee grinder chute; brown ground coffee visibly falls into the filter basket. | Barista pours milk from metal pitcher into paper cup, then handles white lid over cup. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray.",
+      "sourceRole": "illustrative-context",
+      "start": 1398,
+      "images": [
+        {
+          "file": "business/clip-espresso-grinder-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 428,
+          "credit": "K",
+          "focus": [
+            43,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/clip-pour-milk-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 346,
+          "credit": "Rachel Claire",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-food.jpg",
+          "aspect": 1.3333333333333333,
+          "credit": "源義信",
+          "focus": [
+            50,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Tư liệu minh họa · K / Pexels License; Rachel Claire / Pexels License; 源義信 / CC BY 4.0",
+      "end": 1669
+    },
+    {
+      "id": "u03",
+      "text": "Lấy ba mươi lăm trừ mười lăm, còn hai mươi nghìn. Khoản còn lại này góp vào việc trả chi phí cố định và, nếu đủ, tạo ra kết quả dương.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Một ly đóng góp bao nhiêu?",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "MỘT LY / VÍ DỤ GIẢ ĐỊNH",
+          "rows": [
+            {
+              "label": "Giá bán",
+              "value": "35.000đ"
+            },
+            {
+              "label": "Biến phí mỗi ly",
+              "value": "−15.000đ"
+            }
+          ],
+          "total": {
+            "label": "Phần đóng góp",
+            "value": "20.000đ"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          13,
+          39,
+          70
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"MỘT LY / VÍ DỤ GIẢ ĐỊNH\", \"rows\": [{\"label\": \"Giá bán\", \"value\": \"35.000đ\"}, {\"label\": \"Biến phí mỗi ly\", \"value\": \"−15.000đ\"}], \"total\": {\"label\": \"Phần đóng góp\", \"value\": \"20.000đ\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 1669,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "end": 1927
+    },
+    {
+      "id": "u04",
+      "text": "Hai mươi nghìn ấy chưa phải lợi nhuận ròng của ly cà phê. Tiền thuê nhà, nhân sự và nhiều khoản vận hành vẫn đang chờ được trả từ phần đóng góp của cả tháng.",
+      "phase": "content",
+      "layout": "b-coffee",
+      "headline": "20.000đ chưa phải lợi nhuận ròng",
+      "mediaTag": "coffee",
+      "design": {
+        "coffee": {
+          "kind": "cost"
+        },
+        "cues": [
+          0,
+          100,
+          269
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "sourceRole": "illustrative-context",
+      "body": "Còn phải góp trả chi phí cố định của cả tháng.",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 1927,
+      "images": [
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "end": 2215
+    },
+    {
+      "id": "u05",
+      "text": "Phân loại chi phí cũng cần theo thực tế. Nhân viên có thể nhận lương tháng, nhưng làm thêm giờ lại tăng theo lượng việc. Điện nước có phần nền và phần tăng theo sử dụng.",
+      "phase": "content",
+      "layout": "b-split",
+      "headline": "Chi phí có thể pha trộn",
+      "mediaTag": "staff",
+      "design": {
+        "choices": [
+          {
+            "label": "PHẦN NỀN",
+            "title": "Lương theo tháng",
+            "body": "Trong phạm vi công suất đang xét"
+          },
+          {
+            "label": "PHẦN TĂNG",
+            "title": "Làm thêm giờ",
+            "body": "Thay đổi khi lượng việc tăng"
+          }
+        ],
+        "cues": [
+          82,
+          149
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"PHẦN NỀN\", \"title\": \"Lương theo tháng\", \"body\": \"Trong phạm vi công suất đang xét\"}, {\"label\": \"PHẦN TĂNG\", \"title\": \"Làm thêm giờ\", \"body\": \"Thay đổi khi lượng việc tăng\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 2215,
+      "images": [
+        {
+          "file": "business/global-milk-frothing.jpg",
+          "aspect": 1.0414971521562246,
+          "credit": "Daniel Case",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-pour.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Tim Wright  timdwright",
+          "focus": [
+            52,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Daniel Case / CC BY-SA 3.0; Tim Wright  timdwright / CC0",
+      "end": 2521
+    },
+    {
+      "id": "u06",
+      "text": "Vì vậy, đừng bê một bảng mẫu sang mọi quán. Ở đây, ta tạm giữ mười lăm nghìn mỗi ly và một mức chi phí cố định, trong phạm vi công suất hiện có.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Một mô hình có phạm vi",
+      "mediaTag": "barista",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Hands hold stainless pitcher under espresso-machine steam wand; pitcher moves and is removed. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "sourceRole": "illustrative-context",
+      "start": 2521,
+      "images": [
+        {
+          "file": "business/clip-steam-milk-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 296,
+          "credit": "Taryn Elliott",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-frothing.jpg",
+          "aspect": 1.0414971521562246,
+          "credit": "Daniel Case",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Tư liệu minh họa · Taryn Elliott / Pexels License; Daniel Case / CC BY-SA 3.0; Takeaway / CC BY-SA 3.0",
+      "end": 2799
+    },
+    {
+      "id": "u07",
+      "text": "Một ly tại chỗ và một ly qua kênh giao hàng cũng có thể để lại số tiền khác nhau. Nếu có phí nền tảng, bao bì hoặc trợ giá, phải tính theo phần quán thực chịu.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Cùng món, khác kênh bán",
+      "mediaTag": "takeaway",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista pours milk from metal pitcher into paper cup, then handles white lid over cup. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray. | Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern.",
+      "sourceRole": "illustrative-context",
+      "start": 2799,
+      "images": [
+        {
+          "file": "business/clip-pour-milk-a4763218.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 96,
+          "availableFrames": 346,
+          "credit": "Rachel Claire",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-food.jpg",
+          "aspect": 1.3333333333333333,
+          "credit": "源義信",
+          "focus": [
+            50,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-pour.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Tim Wright  timdwright",
+          "focus": [
+            52,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Tư liệu minh họa · Rachel Claire / Pexels License; 源義信 / CC BY 4.0; Tim Wright  timdwright / CC0",
+      "end": 3115
+    },
+    {
+      "id": "u08",
+      "text": "Điều cần hỏi không chỉ là món nào bán chạy. Còn phải hỏi sau những chi phí đi cùng nó, món đó để lại bao nhiêu tiền để nuôi phần còn lại của quán.",
+      "phase": "content",
+      "layout": "b-question",
+      "headline": "Bán chạy — còn lại bao nhiêu?",
+      "mediaTag": "coffee",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "sourceRole": "illustrative-context",
+      "start": 3115,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "end": 3391
+    },
+    {
+      "id": "u09",
+      "text": "Một món bán nhiều vẫn có thể góp rất tốt. Nhưng hình ảnh đơn hàng chạy liên tục không tự nói cho ta biết phần đóng góp ấy; cần nhìn vào giá bán thực thu và chi phí.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Số đơn chỉ là một phần",
+      "mediaTag": "busy",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: People sit around several tables; a person walks through central aisle and patrons talk or gesture. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "start": 3391,
+      "images": [
+        {
+          "file": "business/clip-cafe-tables-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 366,
+          "credit": "Israel Torres",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-cup",
+      "sourceNote": "Tư liệu minh họa · Israel Torres / Pexels License; David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 3702
+    },
+    {
+      "id": "b01",
+      "text": "Bây giờ đến các khoản theo tháng. Giả sử tiền thuê là mười tám triệu, nhân sự là hai mươi hai triệu, và nhóm chi phí nền khác là tám triệu.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Ba khoản đang chờ trả",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "CHI PHÍ CỐ ĐỊNH / THÁNG",
+          "rows": [
+            {
+              "label": "Thuê mặt bằng",
+              "value": "18 triệu"
+            },
+            {
+              "label": "Nhân sự",
+              "value": "22 triệu"
+            },
+            {
+              "label": "Chi phí nền khác",
+              "value": "8 triệu"
+            }
+          ],
+          "total": {
+            "label": "Tổng giả định",
+            "value": "48 triệu"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          100,
+          153,
+          232
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CHI PHÍ CỐ ĐỊNH / THÁNG\", \"rows\": [{\"label\": \"Thuê mặt bằng\", \"value\": \"18 triệu\"}, {\"label\": \"Nhân sự\", \"value\": \"22 triệu\"}, {\"label\": \"Chi phí nền khác\", \"value\": \"8 triệu\"}], \"total\": {\"label\": \"Tổng giả định\", \"value\": \"48 triệu\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 3702,
+      "images": [
+        {
+          "file": "business/vn-cafe-tayho.jpg",
+          "aspect": 0.75,
+          "credit": "Phương Huy",
+          "focus": [
+            46,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "breakeven",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Phương Huy / CC BY-SA 4.0",
+      "end": 3967
+    },
+    {
+      "id": "b02",
+      "text": "Tổng cộng bốn mươi tám triệu. Đây là giả định để tính, không phải mức chi phí chuẩn của ngành cà phê. Một quán thật có thể khác rất xa.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "48 triệu/tháng — số giả định",
+      "mediaTag": "storefront",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table.",
+      "sourceRole": "illustrative-context",
+      "start": 3967,
+      "images": [
+        {
+          "file": "business/vn-cafe-tayho.jpg",
+          "aspect": 0.75,
+          "credit": "Phương Huy",
+          "focus": [
+            46,
+            51
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "breakeven",
+      "sourceNote": "Tư liệu minh họa · Phương Huy / CC BY-SA 4.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 4216
+    },
+    {
+      "id": "b03",
+      "text": "Mỗi ly đóng góp hai mươi nghìn, vậy cần bao nhiêu ly mới bù được bốn mươi tám triệu? Chia ra, ta được hai nghìn bốn trăm ly trong tháng.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Cần 2.400 ly để bù 48 triệu",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "CÔNG THỨC HÒA VỐN / GIẢ ĐỊNH",
+          "rows": [
+            {
+              "label": "Chi phí cố định/tháng",
+              "value": "48.000.000đ"
+            },
+            {
+              "label": "Phần đóng góp/ly",
+              "value": "÷20.000đ"
+            }
+          ],
+          "total": {
+            "label": "Số ly/tháng",
+            "value": "2.400 ly"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          126,
+          158,
+          204
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÔNG THỨC HÒA VỐN / GIẢ ĐỊNH\", \"rows\": [{\"label\": \"Chi phí cố định/tháng\", \"value\": \"48.000.000đ\"}, {\"label\": \"Phần đóng góp/ly\", \"value\": \"÷20.000đ\"}], \"total\": {\"label\": \"Số ly/tháng\", \"value\": \"2.400 ly\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 4216,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "breakeven",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0 · Công thức: SBA",
+      "end": 4474
+    },
+    {
+      "id": "b04",
+      "text": "Nếu mở đủ ba mươi ngày, đó là bình quân tám mươi ly mỗi ngày. Mốc này mới bù các chi phí đã đưa vào mô hình, chưa bảo đảm chủ quán đạt thu nhập mong muốn.",
+      "phase": "content",
+      "layout": "b-coffee",
+      "headline": "2.400 ly ÷ 30 ngày = 80 ly/ngày",
+      "mediaTag": "coffee",
+      "design": {
+        "coffee": {
+          "kind": "flow"
+        },
+        "cues": [
+          0,
+          85,
+          213
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "sourceRole": "illustrative-context",
+      "body": "Chỉ bù các chi phí đã đưa vào mô hình.",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 4474,
+      "images": [
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "breakeven",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "end": 4759
+    },
+    {
+      "id": "b05",
+      "text": "Dưới mốc đó, phần đóng góp chưa đủ. Trên mốc đó, mô hình bắt đầu có dư. Đường hòa vốn giúp biến câu hỏi có vẻ cảm tính thành một giả thuyết có thể kiểm.",
+      "phase": "content",
+      "layout": "b-chart",
+      "headline": "Từ sản lượng đến phần đóng góp",
+      "mediaTag": "cafe",
+      "design": {
+        "chart": {
+          "kind": "breakeven",
+          "items": [
+            {
+              "label": "40",
+              "x": 40,
+              "value": 24
+            },
+            {
+              "label": "80",
+              "x": 80,
+              "value": 48
+            },
+            {
+              "label": "120",
+              "x": 120,
+              "value": 72
+            }
+          ],
+          "fixed": 48,
+          "max": 80,
+          "unit": "triệu đồng/tháng",
+          "xLabel": "Ly/ngày · 30 ngày",
+          "highlight": 1
+        },
+        "theme": "cream"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"breakeven\", \"items\": [{\"label\": \"40\", \"x\": 40, \"value\": 24}, {\"label\": \"80\", \"x\": 80, \"value\": 48}, {\"label\": \"120\", \"x\": 120, \"value\": 72}], \"fixed\": 48, \"max\": 80, \"unit\": \"triệu đồng/tháng\", \"xLabel\": \"Ly/ngày · 30 ngày\", \"highlight\": 1}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 4759,
+      "images": [],
+      "chapter": "breakeven",
+      "sourceNote": "Mô hình minh họa gốc · Công thức: SBA",
+      "end": 5067
+    },
+    {
+      "id": "b06",
+      "text": "Giả sử quán bán một trăm ly mỗi ngày. Ba nghìn ly trong tháng tạo một trăm lẻ năm triệu doanh thu. Trừ bốn mươi lăm triệu biến phí, phần đóng góp là sáu mươi triệu.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "100 ly/ngày trong mô hình",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "3.000 LY / 30 NGÀY",
+          "rows": [
+            {
+              "label": "Doanh thu",
+              "value": "105 triệu"
+            },
+            {
+              "label": "Biến phí",
+              "value": "−45 triệu"
+            }
+          ],
+          "total": {
+            "label": "Phần đóng góp",
+            "value": "60 triệu"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          136,
+          206,
+          279
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"3.000 LY / 30 NGÀY\", \"rows\": [{\"label\": \"Doanh thu\", \"value\": \"105 triệu\"}, {\"label\": \"Biến phí\", \"value\": \"−45 triệu\"}], \"total\": {\"label\": \"Phần đóng góp\", \"value\": \"60 triệu\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 5067,
+      "images": [
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "breakeven",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 5372
+    },
+    {
+      "id": "b07",
+      "text": "Trả tiếp bốn mươi tám triệu chi phí cố định, còn mười hai triệu. Cần gọi đúng: đây là phần dư của mô hình trước thuế, lãi vay và khấu hao, không phải lợi nhuận ròng đã chốt.",
+      "phase": "content",
+      "layout": "b-chart",
+      "headline": "105 − 45 − 48 = 12 triệu",
+      "mediaTag": "cafe",
+      "design": {
+        "chart": {
+          "kind": "waterfall",
+          "items": [
+            {
+              "label": "Doanh thu",
+              "value": 105
+            },
+            {
+              "label": "Biến phí",
+              "value": -45
+            },
+            {
+              "label": "Cố định",
+              "value": -48
+            },
+            {
+              "label": "Còn lại*",
+              "value": 12
+            }
+          ],
+          "unit": "triệu đồng",
+          "max": 120
+        },
+        "theme": "cream",
+        "cues": [
+          0,
+          0,
+          23,
+          87
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"waterfall\", \"items\": [{\"label\": \"Doanh thu\", \"value\": 105}, {\"label\": \"Biến phí\", \"value\": -45}, {\"label\": \"Cố định\", \"value\": -48}, {\"label\": \"Còn lại*\", \"value\": 12}], \"unit\": \"triệu đồng\", \"max\": 120}",
+      "sourceRole": "illustrative-context",
+      "body": "*Phần dư mô hình, trước thuế, lãi vay và khấu hao.",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 5372,
+      "images": [],
+      "chapter": "breakeven",
+      "sourceNote": "Mô hình minh họa gốc",
+      "end": 5703
+    },
+    {
+      "id": "b08",
+      "text": "Còn nếu người chủ chưa tính công của chính mình, bức tranh về thu nhập lại khác. Một mô hình hữu ích phải nói rõ đã tính những khoản nào, thay vì đặt nhãn có lãi cho đẹp.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Đừng quên công sức người chủ",
+      "mediaTag": "closing",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table.",
+      "sourceRole": "illustrative-context",
+      "start": 5703,
+      "images": [
+        {
+          "file": "business/clip-close-shift-43a8c3da.mp4",
+          "aspect": 1.8972222222222221,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 658,
+          "credit": "Ron Lach",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-frothing.jpg",
+          "aspect": 1.0414971521562246,
+          "credit": "Daniel Case",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "breakeven",
+      "sourceNote": "Tư liệu minh họa · Ron Lach / Pexels License; Daniel Case / CC BY-SA 3.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 6004
+    },
+    {
+      "id": "v01",
+      "text": "Quay lại cảnh đầu: nhìn qua cửa, bạn thấy kín bàn. Nhưng đó có thể là lúc đông nhất. Phép tính tháng cần tổng đơn của cả ngày, kể cả những giờ yên ắng.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Một giờ đông ≠ cả tháng tốt",
+      "mediaTag": "busyquiet",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: People sit around several tables; a person walks through central aisle and patrons talk or gesture. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible.",
+      "sourceRole": "illustrative-context",
+      "start": 6004,
+      "images": [
+        {
+          "file": "business/clip-cafe-tables-8483e1bf.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 109,
+          "availableFrames": 366,
+          "credit": "Israel Torres",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "busy-hours",
+      "sourceNote": "Tư liệu minh họa · Israel Torres / Pexels License; Lê Huỳnh Bộ / CC BY-SA 4.0; David McKelvey  from Brisbane, Australia / CC BY 2.0",
+      "end": 6291
+    },
+    {
+      "id": "v02",
+      "text": "Trong quán giả định, sáu mươi ly bán buổi sáng nhưng chỉ thêm mười ly cả phần ngày còn lại, tổng vẫn là bảy mươi. Dưới mốc tám mươi, dù sáng trông rất nhộn nhịp.",
+      "phase": "content",
+      "layout": "b-chart",
+      "headline": "60 ly sáng + 10 ly còn lại = 70",
+      "mediaTag": "cafe",
+      "design": {
+        "chart": {
+          "kind": "bars",
+          "items": [
+            {
+              "label": "Buổi sáng",
+              "value": 60
+            },
+            {
+              "label": "Còn lại",
+              "value": 10
+            },
+            {
+              "label": "Cả ngày",
+              "value": 70
+            }
+          ],
+          "max": 90,
+          "unit": "ly",
+          "target": 80
+        },
+        "theme": "cream",
+        "cues": [
+          49,
+          121,
+          196
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"bars\", \"items\": [{\"label\": \"Buổi sáng\", \"value\": 60}, {\"label\": \"Còn lại\", \"value\": 10}, {\"label\": \"Cả ngày\", \"value\": 70}], \"max\": 90, \"unit\": \"ly\", \"target\": 80}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 6291,
+      "images": [],
+      "chapter": "busy-hours",
+      "sourceNote": "Mô hình minh họa gốc",
+      "end": 6607
+    },
+    {
+      "id": "v03",
+      "text": "Ngược lại, một quán không kín chỗ vẫn có thể bán đều qua nhiều khung giờ hoặc nhiều kênh. Không thể đọc toàn bộ sức khỏe kinh doanh chỉ bằng số ghế đang có người ngồi.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Ghế có khách chưa kể hết câu chuyện",
+      "mediaTag": "takeaway",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "start": 6607,
+      "images": [
+        {
+          "file": "business/clip-serve-coffee-43a8c3da.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 0,
+          "availableFrames": 446,
+          "credit": "Pavel Danilyuk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-food.jpg",
+          "aspect": 1.3333333333333333,
+          "credit": "源義信",
+          "focus": [
+            50,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "busy-hours",
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; 源義信 / CC BY 4.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 6907
+    },
+    {
+      "id": "v04",
+      "text": "Bởi vậy, hãy tách điều nhìn thấy khỏi điều cần đo. Khách đông là một quan sát. Số đơn, giá thực thu và phần đóng góp trong cả ngày mới đưa quan sát ấy vào phép tính.",
+      "phase": "content",
+      "layout": "b-split",
+      "headline": "Nhìn thấy / Cần đo",
+      "mediaTag": "busy",
+      "design": {
+        "choices": [
+          {
+            "label": "QUAN SÁT",
+            "title": "Có lúc kín bàn"
+          },
+          {
+            "label": "ĐO LƯỜNG",
+            "title": "Đơn × phần đóng góp",
+            "body": "Theo ngày và kênh bán"
+          }
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"QUAN SÁT\", \"title\": \"Có lúc kín bàn\"}, {\"label\": \"ĐO LƯỜNG\", \"title\": \"Đơn × phần đóng góp\", \"body\": \"Theo ngày và kênh bán\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 6907,
+      "images": [
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "busy-hours",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 7242
+    },
+    {
+      "id": "v05",
+      "text": "Thêm khách cũng có giới hạn công suất. Khi phải tăng ca, thêm thiết bị hoặc chờ lâu hơn, giả định chi phí cũ có thể không còn đúng. Tăng sản lượng cần được tính cùng chi phí mới.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Thêm đơn có thể kéo theo thêm chi phí",
+      "mediaTag": "staff",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Hands hold stainless pitcher under espresso-machine steam wand; pitcher moves and is removed. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup.",
+      "sourceRole": "illustrative-context",
+      "start": 7242,
+      "images": [
+        {
+          "file": "business/clip-steam-milk-54baabcc.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 98,
+          "availableFrames": 296,
+          "credit": "Taryn Elliott",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-frothing.jpg",
+          "aspect": 1.0414971521562246,
+          "credit": "Daniel Case",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/clip-espresso-extract-b14b55fe.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 100,
+          "availableFrames": 800,
+          "credit": "Max Medyk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "busy-hours",
+      "sourceNote": "Tư liệu minh họa · Taryn Elliott / Pexels License; Daniel Case / CC BY-SA 3.0; Max Medyk / Pexels License",
+      "end": 7565
+    },
+    {
+      "id": "v06",
+      "text": "Nhưng trước khi quán kịp tăng công suất, một cách kéo khách quen thuộc đã xuất hiện: giảm giá. Trên màn hình, số đơn tăng rất đẹp. Trong phép tính, chuyện gì xảy ra?",
+      "phase": "content",
+      "layout": "b-question",
+      "headline": "Giảm giá: đông hơn, có tốt hơn?",
+      "mediaTag": "payment",
+      "design": {
+        "theme": "warm"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "sourceRole": "illustrative-context",
+      "start": 7565,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "busy-hours",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "end": 7882
+    },
+    {
+      "id": "p01",
+      "text": "Giữ nguyên ly cũ, hạ giá từ ba mươi lăm xuống hai mươi chín nghìn. Nếu biến phí vẫn mười lăm nghìn, mỗi ly giờ chỉ còn đóng góp mười bốn nghìn.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "35.000đ → 29.000đ",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "GIẢ ĐỊNH KHUYẾN MẠI",
+          "rows": [
+            {
+              "label": "Giá mới",
+              "value": "29.000đ"
+            },
+            {
+              "label": "Biến phí giữ nguyên",
+              "value": "−15.000đ"
+            }
+          ],
+          "total": {
+            "label": "Phần đóng góp mới",
+            "value": "14.000đ"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          87,
+          157,
+          228
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"GIẢ ĐỊNH KHUYẾN MẠI\", \"rows\": [{\"label\": \"Giá mới\", \"value\": \"29.000đ\"}, {\"label\": \"Biến phí giữ nguyên\", \"value\": \"−15.000đ\"}], \"total\": {\"label\": \"Phần đóng góp mới\", \"value\": \"14.000đ\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 7882,
+      "images": [
+        {
+          "file": "business/global-milk-pour.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Tim Wright  timdwright",
+          "focus": [
+            52,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Tim Wright  timdwright / CC0",
+      "end": 8137
+    },
+    {
+      "id": "p02",
+      "text": "Giá bán giảm sáu nghìn, nhưng phần đóng góp giảm từ hai mươi xuống mười bốn nghìn, tức ba mươi phần trăm. Hai tỷ lệ khác nhau vì chúng có mẫu số khác nhau.",
+      "phase": "content",
+      "layout": "b-chart",
+      "headline": "Phần đóng góp giảm 30%",
+      "mediaTag": "cafe",
+      "design": {
+        "chart": {
+          "kind": "bars",
+          "items": [
+            {
+              "label": "Trước",
+              "value": 20
+            },
+            {
+              "label": "Sau",
+              "value": 14
+            }
+          ],
+          "unit": "nghìn đồng/ly",
+          "max": 24,
+          "highlight": 1
+        },
+        "theme": "cream",
+        "cues": [
+          94,
+          120,
+          153
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"bars\", \"items\": [{\"label\": \"Trước\", \"value\": 20}, {\"label\": \"Sau\", \"value\": 14}], \"unit\": \"nghìn đồng/ly\", \"max\": 24, \"highlight\": 1}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 8137,
+      "images": [],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc",
+      "end": 8433
+    },
+    {
+      "id": "p03",
+      "text": "Muốn giữ phần đóng góp sáu mươi triệu như tháng bán ba nghìn ly giá cũ, quán phải bán hơn bốn nghìn hai trăm tám mươi lăm ly ở giá mới. Làm tròn lên là bốn nghìn hai trăm tám mươi sáu.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Giữ 60 triệu cần 4.286 ly",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "CÙNG MỘT MỤC TIÊU ĐÓNG GÓP",
+          "rows": [
+            {
+              "label": "Mục tiêu",
+              "value": "60.000.000đ"
+            },
+            {
+              "label": "Mỗi ly giá mới",
+              "value": "14.000đ"
+            }
+          ],
+          "total": {
+            "label": "Số ly làm tròn lên",
+            "value": "4.286 ly"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          33,
+          144,
+          264
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÙNG MỘT MỤC TIÊU ĐÓNG GÓP\", \"rows\": [{\"label\": \"Mục tiêu\", \"value\": \"60.000.000đ\"}, {\"label\": \"Mỗi ly giá mới\", \"value\": \"14.000đ\"}], \"total\": {\"label\": \"Số ly làm tròn lên\", \"value\": \"4.286 ly\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 8433,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "end": 8752
+    },
+    {
+      "id": "p04",
+      "text": "Tức cần tăng khoảng bốn mươi ba phần trăm sản lượng, chỉ để giữ nguyên mức đóng góp cũ. Chưa tính thêm nhân lực, nguyên liệu thất thoát hoặc những khoản khuyến mại quán phải gánh khác.",
+      "phase": "content",
+      "layout": "b-chart",
+      "headline": "Cần khoảng 43% ly nhiều hơn",
+      "mediaTag": "cafe",
+      "design": {
+        "chart": {
+          "kind": "bars",
+          "items": [
+            {
+              "label": "Giá cũ",
+              "value": 3000
+            },
+            {
+              "label": "Giá mới",
+              "value": 4286
+            }
+          ],
+          "max": 5000,
+          "unit": "ly/tháng",
+          "highlight": 1
+        },
+        "theme": "cream",
+        "cues": [
+          31
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"bars\", \"items\": [{\"label\": \"Giá cũ\", \"value\": 3000}, {\"label\": \"Giá mới\", \"value\": 4286}], \"max\": 5000, \"unit\": \"ly/tháng\", \"highlight\": 1}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 8752,
+      "images": [],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc",
+      "end": 9030
+    },
+    {
+      "id": "p05",
+      "text": "Ngay cả mốc hòa vốn cũng đổi. Bốn mươi tám triệu chia mười bốn nghìn cần làm tròn lên ba nghìn bốn trăm hai mươi chín ly mỗi tháng, xấp xỉ một trăm mười lăm ly mỗi ngày.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Hòa vốn mới: khoảng 115 ly/ngày",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "CÙNG 48 TRIỆU CHI PHÍ CỐ ĐỊNH",
+          "rows": [
+            {
+              "label": "Phần đóng góp mới",
+              "value": "14.000đ/ly"
+            },
+            {
+              "label": "Số ly/tháng làm tròn lên",
+              "value": "3.429 ly"
+            }
+          ],
+          "total": {
+            "label": "Bình quân 30 ngày",
+            "value": "≈115 ly/ngày"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          54,
+          147,
+          233
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÙNG 48 TRIỆU CHI PHÍ CỐ ĐỊNH\", \"rows\": [{\"label\": \"Phần đóng góp mới\", \"value\": \"14.000đ/ly\"}, {\"label\": \"Số ly/tháng làm tròn lên\", \"value\": \"3.429 ly\"}], \"total\": {\"label\": \"Bình quân 30 ngày\", \"value\": \"≈115 ly/ngày\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 9030,
+      "images": [
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "end": 9312
+    },
+    {
+      "id": "p06",
+      "text": "Điều đó không có nghĩa khuyến mại luôn sai. Một chương trình có thể thu hút khách thử hoặc phục vụ mục tiêu khác. Nhưng mục tiêu, chi phí và cách kiểm tra phải được nói rõ từ đầu.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Khuyến mại cần một mục tiêu rõ",
+      "mediaTag": "serve",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "start": 9312,
+      "images": [
+        {
+          "file": "business/clip-serve-coffee-0b6a338b.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 105,
+          "availableFrames": 446,
+          "credit": "Pavel Danilyuk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; Vyacheslav Argenberg / CC BY 4.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 9622
+    },
+    {
+      "id": "p07",
+      "text": "Nếu muốn biết khách có quay lại hay không, cần theo dõi hành vi quay lại. Nếu muốn tăng phần đóng góp, cần đo phần đóng góp. Lượt xem, số đơn và tiền còn lại là những thước đo khác nhau.",
+      "phase": "content",
+      "layout": "b-split",
+      "headline": "Đo đúng mục tiêu",
+      "mediaTag": "phone",
+      "design": {
+        "choices": [
+          {
+            "label": "THỬ SẢN PHẨM",
+            "title": "Khách có quay lại?"
+          },
+          {
+            "label": "KINH TẾ ĐƠN HÀNG",
+            "title": "Đóng góp có tăng?"
+          }
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"THỬ SẢN PHẨM\", \"title\": \"Khách có quay lại?\"}, {\"label\": \"KINH TẾ ĐƠN HÀNG\", \"title\": \"Đóng góp có tăng?\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 9622,
+      "images": [
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-food.jpg",
+          "aspect": 1.3333333333333333,
+          "credit": "源義信",
+          "focus": [
+            50,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0; 源義信 / CC BY 4.0",
+      "end": 9966
+    },
+    {
+      "id": "p08",
+      "text": "Và đừng so ngày khuyến mại với một ngày vắng bất thường rồi kết luận thành công. Thời tiết, ngày trong tuần và sự kiện quanh quán có thể thay đổi lượng khách. Mẫu so cần đủ bối cảnh.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "So sánh có cùng bối cảnh",
+      "mediaTag": "busyquiet",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "start": 9966,
+      "images": [
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Tư liệu minh họa · Lê Huỳnh Bộ / CC BY-SA 4.0; David McKelvey  from Brisbane, Australia / CC BY 2.0",
+      "end": 10306
+    },
+    {
+      "id": "p09",
+      "text": "Cái bẫy ở đây là một con số đẹp che một con số quan trọng hơn. Quán bán thêm không tự bảo đảm quán khỏe thêm. Còn một lớp dễ bị bỏ quên: lịch tiền mặt.",
+      "phase": "content",
+      "layout": "b-question",
+      "headline": "Nhiều đơn hơn. Tiền có kịp về?",
+      "mediaTag": "cafe",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "sourceRole": "illustrative-context",
+      "start": 10306,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "discount",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "end": 10609
+    },
+    {
+      "id": "m01",
+      "text": "Giả sử quán thật sự có phần dư mười hai triệu theo mô hình. Vậy tài khoản cuối tháng phải tăng đúng mười hai triệu sao? Không nhất thiết, vì kết quả kinh doanh và tiền mặt không cùng một câu hỏi.",
+      "phase": "content",
+      "layout": "b-question",
+      "headline": "12 triệu phần dư ≠ tài khoản +12 triệu",
+      "mediaTag": "cafe",
+      "design": {
+        "theme": "cream"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind.",
+      "sourceRole": "illustrative-context",
+      "start": 10609,
+      "images": [
+        {
+          "file": "business/vn-dalat-cafe.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Bino Storyteller  curiousbino",
+          "focus": [
+            45,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Bino Storyteller  curiousbino / CC0",
+      "end": 10949
+    },
+    {
+      "id": "m02",
+      "text": "Một bên hỏi doanh thu và chi phí thuộc kỳ này là bao nhiêu. Bên kia hỏi trong kỳ, tiền thực đã đi vào và đi ra lúc nào. Khoảng cách về thời điểm có thể làm quán hụt hơi.",
+      "phase": "content",
+      "layout": "b-split",
+      "headline": "Kết quả / Thời điểm",
+      "mediaTag": "cafe",
+      "design": {
+        "choices": [
+          {
+            "label": "KẾT QUẢ",
+            "title": "Thuộc kỳ nào?"
+          },
+          {
+            "label": "TIỀN MẶT",
+            "title": "Thu, chi ngày nào?"
+          }
+        ],
+        "cues": [
+          0,
+          113
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"KẾT QUẢ\", \"title\": \"Thuộc kỳ nào?\"}, {\"label\": \"TIỀN MẶT\", \"title\": \"Thu, chi ngày nào?\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 10949,
+      "images": [
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0; Lê Huỳnh Bộ / CC BY-SA 4.0 · Tham khảo: Business Queensland / business.gov.au",
+      "end": 11296
+    },
+    {
+      "id": "m03",
+      "text": "Chẳng hạn, mua nguyên liệu đủ dùng nhiều tuần khiến tiền ra ngay, trong khi một phần hàng vẫn còn trong kho. Không thể cứ nhìn khoản chuyển tiền mua hàng rồi gọi toàn bộ là chi phí của số ly đã bán.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Tiền ra mua hàng / Hàng còn trong kho",
+      "mediaTag": "beans",
+      "design": {
+        "paper": {
+          "title": "HAI THỜI ĐIỂM KHÁC NHAU",
+          "rows": [
+            {
+              "label": "Trả tiền mua nguyên liệu",
+              "value": "Hôm nay"
+            },
+            {
+              "label": "Dùng nguyên liệu để bán",
+              "value": "Dần nhiều tuần"
+            }
+          ],
+          "total": {
+            "label": "Hàng còn lại",
+            "value": "Cần theo dõi"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          99,
+          152
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"HAI THỜI ĐIỂM KHÁC NHAU\", \"rows\": [{\"label\": \"Trả tiền mua nguyên liệu\", \"value\": \"Hôm nay\"}, {\"label\": \"Dùng nguyên liệu để bán\", \"value\": \"Dần nhiều tuần\"}], \"total\": {\"label\": \"Hàng còn lại\", \"value\": \"Cần theo dõi\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 11296,
+      "images": [
+        {
+          "file": "business/coffee-roast-location-unverified.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "Cafely",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Cafely / CC0",
+      "end": 11665
+    },
+    {
+      "id": "m04",
+      "text": "Đặt cọc mặt bằng cũng cần được tách riêng. Đó là tiền đã rời tài khoản và bị giữ theo thỏa thuận, nhưng không đơn giản là tiền thuê đã tiêu hết của tháng này.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Cọc thuê và tiền thuê là hai khoản",
+      "mediaTag": "storefront",
+      "design": {
+        "paper": {
+          "title": "PHÂN LOẠI TRƯỚC KHI CỘNG",
+          "rows": [
+            {
+              "label": "Tiền thuê của tháng",
+              "value": "Chi phí theo kỳ"
+            },
+            {
+              "label": "Tiền đặt cọc",
+              "value": "Tiền bị giữ theo hợp đồng"
+            }
+          ]
+        },
+        "theme": "cream",
+        "cues": [
+          0,
+          188
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"PHÂN LOẠI TRƯỚC KHI CỘNG\", \"rows\": [{\"label\": \"Tiền thuê của tháng\", \"value\": \"Chi phí theo kỳ\"}, {\"label\": \"Tiền đặt cọc\", \"value\": \"Tiền bị giữ theo hợp đồng\"}]}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 11665,
+      "images": [
+        {
+          "file": "business/vn-cafe-tayho.jpg",
+          "aspect": 0.75,
+          "credit": "Phương Huy",
+          "focus": [
+            46,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Phương Huy / CC BY-SA 4.0 · Tham khảo: Business Queensland / business.gov.au",
+      "end": 11942
+    },
+    {
+      "id": "m05",
+      "text": "Tương tự, mua một máy pha là khoản chi tiền cho tài sản. Cách ghi nhận chi phí theo thời gian khác việc trả tiền ngay; mô hình đơn giản ban đầu của ta chưa xử lý khấu hao ấy.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Mua máy: tiền ra ngay",
+      "mediaTag": "machine",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change. | Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup. | Two streams of espresso flow from machine portafilter into two clear cups on drip tray.",
+      "sourceRole": "illustrative-context",
+      "start": 11942,
+      "images": [
+        {
+          "file": "business/clip-espresso-flow-eaf1b1d1.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 269,
+          "availableFrames": 1098,
+          "credit": "Thomas Windisch",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/clip-espresso-extract-eb23eaf6.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 213,
+          "availableFrames": 800,
+          "credit": "Max Medyk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-espresso-extraction.jpg",
+          "aspect": 1.0,
+          "credit": "The original uploader was  Coffeegeek  at  English Wikipedia .",
+          "focus": [
+            48,
+            53
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Tư liệu minh họa · Thomas Windisch / Pexels License; Max Medyk / Pexels License; The original uploader was  Coffeegeek  at  English Wikipedia . / Public domain",
+      "end": 12277
+    },
+    {
+      "id": "m06",
+      "text": "Ngay cả tiền bán hàng cũng có lịch. Khách có thể trả tại quầy, hoặc một kênh bán đối soát và chuyển về sau. Lịch thực tế tùy thỏa thuận, không nên tự coi mọi doanh thu là tiền sẵn dùng.",
+      "phase": "content",
+      "layout": "b-split",
+      "headline": "Doanh thu chưa chắc đã sẵn dùng",
+      "mediaTag": "payment",
+      "design": {
+        "choices": [
+          {
+            "label": "TẠI QUẦY",
+            "title": "Tiền thu ngay",
+            "body": "Khi thực sự được thanh toán"
+          },
+          {
+            "label": "KÊNH ĐỐI SOÁT",
+            "title": "Tiền chuyển về sau",
+            "body": "Tùy thỏa thuận cụ thể"
+          }
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"TẠI QUẦY\", \"title\": \"Tiền thu ngay\", \"body\": \"Khi thực sự được thanh toán\"}, {\"label\": \"KÊNH ĐỐI SOÁT\", \"title\": \"Tiền chuyển về sau\", \"body\": \"Tùy thỏa thuận cụ thể\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 12277,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-food.jpg",
+          "aspect": 1.3333333333333333,
+          "credit": "源義信",
+          "focus": [
+            50,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0; 源義信 / CC BY 4.0",
+      "end": 12632
+    },
+    {
+      "id": "m07",
+      "text": "Thử một tình huống riêng: đầu tuần có hai mươi triệu, trong tuần thu mười lăm triệu, nhưng các khoản đến hạn cần bốn mươi triệu. Thiếu năm triệu trước khi bàn tới mục tiêu tăng trưởng.",
+      "phase": "content",
+      "layout": "b-chart",
+      "headline": "20 + 15 − 40 = thiếu 5 triệu",
+      "mediaTag": "cafe",
+      "design": {
+        "chart": {
+          "kind": "waterfall",
+          "items": [
+            {
+              "label": "Đầu tuần",
+              "value": 20
+            },
+            {
+              "label": "Thu trong tuần",
+              "value": 15
+            },
+            {
+              "label": "Khoản đến hạn",
+              "value": -40
+            },
+            {
+              "label": "Còn thiếu",
+              "value": -5
+            }
+          ],
+          "unit": "triệu đồng",
+          "max": 45
+        },
+        "theme": "cream",
+        "cues": [
+          75,
+          125,
+          193,
+          222
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated chart must show exact authored values, units and scope: {\"kind\": \"waterfall\", \"items\": [{\"label\": \"Đầu tuần\", \"value\": 20}, {\"label\": \"Thu trong tuần\", \"value\": 15}, {\"label\": \"Khoản đến hạn\", \"value\": -40}, {\"label\": \"Còn thiếu\", \"value\": -5}], \"unit\": \"triệu đồng\", \"max\": 45}",
+      "sourceRole": "illustrative-context",
+      "body": "Tình huống tuần riêng biệt — không ghép vào phép tính tháng.",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 12632,
+      "images": [],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc",
+      "end": 12940
+    },
+    {
+      "id": "m08",
+      "text": "Đây là ví dụ về lịch thu chi, không phải phần tiếp của phép tính tháng trước. Một quán có thể cần giải quyết cả mức đóng góp lẫn thời điểm tiền về; sửa mỗi lượng khách chưa chắc sửa được hai việc đó.",
+      "phase": "content",
+      "layout": "b-question",
+      "headline": "Hai phép tính. Hai câu hỏi.",
+      "mediaTag": "cafe",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind.",
+      "sourceRole": "illustrative-context",
+      "start": 12940,
+      "images": [
+        {
+          "file": "business/vn-dalat-cafe.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Bino Storyteller  curiousbino",
+          "focus": [
+            45,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Bino Storyteller  curiousbino / CC0",
+      "end": 13297
+    },
+    {
+      "id": "m09",
+      "text": "Một tờ lịch tiền mặt có thể rất ngắn: số dư đầu kỳ, tiền dự kiến thu, khoản phải chi và ngày đến hạn. Ghi thêm điều kiện nào chưa chắc chắn, để không biến dự báo thành lời hứa.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Lịch tiền mặt ngắn, nhưng đủ câu hỏi",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "TUẦN TỚI",
+          "rows": [
+            {
+              "label": "Bắt đầu với bao nhiêu?",
+              "value": "Số dư"
+            },
+            {
+              "label": "Thu khoản nào, ngày nào?",
+              "value": "Dự kiến thu"
+            },
+            {
+              "label": "Chi khoản nào, hạn nào?",
+              "value": "Đến hạn"
+            }
+          ],
+          "total": {
+            "label": "Cuối kỳ dự kiến",
+            "value": "Cần đối chiếu"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          81,
+          115,
+          159
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"TUẦN TỚI\", \"rows\": [{\"label\": \"Bắt đầu với bao nhiêu?\", \"value\": \"Số dư\"}, {\"label\": \"Thu khoản nào, ngày nào?\", \"value\": \"Dự kiến thu\"}, {\"label\": \"Chi khoản nào, hạn nào?\", \"value\": \"Đến hạn\"}], \"total\": {\"label\": \"Cuối kỳ dự kiến\", \"value\": \"Cần đối chiếu\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 13297,
+      "images": [
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "cash",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0 · Tham khảo: Business Queensland / business.gov.au",
+      "end": 13662
+    },
+    {
+      "id": "a01",
+      "text": "Nếu đang kinh doanh, không nhất thiết bắt đầu bằng một bảng tính hàng trăm dòng. Có thể bắt đầu bằng một tuần quan sát có chủ đích, rồi đối chiếu với sổ sách và người phụ trách kế toán.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Một tuần nhìn kỹ hơn",
+      "mediaTag": "closing",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe. | A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind. | Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside.",
+      "sourceRole": "illustrative-context",
+      "start": 13662,
+      "images": [
+        {
+          "file": "business/clip-close-shift-4eb5ff74.mp4",
+          "aspect": 1.8972222222222221,
+          "mediaType": "video",
+          "trimBeforeFrames": 106,
+          "availableFrames": 658,
+          "credit": "Ron Lach",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-dalat-cafe.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Bino Storyteller  curiousbino",
+          "focus": [
+            45,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-tayho.jpg",
+          "aspect": 0.75,
+          "credit": "Phương Huy",
+          "focus": [
+            46,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Tư liệu minh họa · Ron Lach / Pexels License; Bino Storyteller  curiousbino / CC0; Phương Huy / CC BY-SA 4.0",
+      "end": 13957
+    },
+    {
+      "id": "a02",
+      "text": "Ngày đầu, chọn vài món và kênh bán chính. Ghi giá thực thu, chi phí trực tiếp mỗi đơn và những khoản quán tự trợ. Đừng lấy giá trên thực đơn thay cho số tiền thực giữ lại.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "1 / Đọc từng đơn hàng",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "ĐƠN HÀNG THỰC TẾ",
+          "rows": [
+            {
+              "label": "Giá thực thu",
+              "value": "Sau điều chỉnh"
+            },
+            {
+              "label": "Chi phí đi cùng",
+              "value": "Theo món và kênh"
+            }
+          ],
+          "total": {
+            "label": "Phần đóng góp",
+            "value": "Cần tính lại"
+          }
+        },
+        "theme": "cream",
+        "cues": [
+          120,
+          151
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"ĐƠN HÀNG THỰC TẾ\", \"rows\": [{\"label\": \"Giá thực thu\", \"value\": \"Sau điều chỉnh\"}, {\"label\": \"Chi phí đi cùng\", \"value\": \"Theo món và kênh\"}], \"total\": {\"label\": \"Phần đóng góp\", \"value\": \"Cần tính lại\"}}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "body": "Tính phí và trợ giá quán chịu đúng một lần; không trừ trùng.",
+      "start": 13957,
+      "images": [
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Vyacheslav Argenberg / CC BY 4.0",
+      "end": 14302
+    },
+    {
+      "id": "a03",
+      "text": "Ngày tiếp theo, liệt kê các khoản theo tháng và chỉ ra khoản nào thay đổi khi bán nhiều hơn. Nhớ tách công của người chủ, khoản đầu tư ban đầu và tiền cọc khỏi những con số dễ nhầm.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "2 / Nhìn đủ chi phí",
+      "mediaTag": "staff",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Cafe entrance with red brick walls, plant pot, low wooden chairs and table; seated person visible inside.",
+      "sourceRole": "illustrative-context",
+      "start": 14302,
+      "images": [
+        {
+          "file": "business/clip-serve-coffee-35c0910b.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 214,
+          "availableFrames": 446,
+          "credit": "Pavel Danilyuk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-frothing.jpg",
+          "aspect": 1.0414971521562246,
+          "credit": "Daniel Case",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-tayho.jpg",
+          "aspect": 0.75,
+          "credit": "Phương Huy",
+          "focus": [
+            46,
+            51
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; Daniel Case / CC BY-SA 3.0; Phương Huy / CC BY-SA 4.0",
+      "end": 14644
+    },
+    {
+      "id": "a04",
+      "text": "Trong những ngày sau, ghi lượng đơn theo khung giờ. Một vài buổi đông không thay được dữ liệu cả tuần, và một tuần cũng chưa đủ đại diện cho cả năm.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "3 / Ghi cả giờ đông lẫn giờ vắng",
+      "mediaTag": "busyquiet",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "start": 14644,
+      "images": [
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Tư liệu minh họa · David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 14907
+    },
+    {
+      "id": "a05",
+      "text": "Khi thử một thay đổi, hãy chọn câu hỏi cụ thể. Chẳng hạn, sửa cách giới thiệu một món để xem phần đóng góp thay đổi thế nào, đồng thời theo dõi chất lượng phục vụ và phản hồi của khách.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "4 / Một thay đổi, một câu hỏi",
+      "mediaTag": "serve",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Chrome portafilter spouts in close view; espresso forms and flows into cup later; final frame moves toward cup. | Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern. | Plastic cup of iced milk coffee beside two bánh mì halves in a foam tray on a black cafe table/tray.",
+      "sourceRole": "illustrative-context",
+      "start": 14907,
+      "images": [
+        {
+          "file": "business/clip-espresso-extract-b0b9a71b.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 330,
+          "availableFrames": 800,
+          "credit": "Max Medyk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-pour.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Tim Wright  timdwright",
+          "focus": [
+            52,
+            51
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-food.jpg",
+          "aspect": 1.3333333333333333,
+          "credit": "源義信",
+          "focus": [
+            50,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Tư liệu minh họa · Max Medyk / Pexels License; Tim Wright  timdwright / CC0; 源義信 / CC BY 4.0",
+      "end": 15235
+    },
+    {
+      "id": "a06",
+      "text": "Tránh đổi giá, quảng cáo, lịch nhân sự và thực đơn cùng một lúc rồi khó biết điều gì tạo ra khác biệt. Dữ liệu nhỏ vẫn hữu ích nếu ta giữ được cách so sánh và ghi nhận giới hạn.",
+      "phase": "content",
+      "layout": "b-split",
+      "headline": "Giữ phép so có ý nghĩa",
+      "mediaTag": "cafe",
+      "design": {
+        "choices": [
+          {
+            "label": "TRƯỚC",
+            "title": "Một cách vận hành"
+          },
+          {
+            "label": "SAU",
+            "title": "Một thay đổi rõ",
+            "body": "Ghi điều kiện đi cùng"
+          }
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original choices distinguish the spoken concepts: [{\"label\": \"TRƯỚC\", \"title\": \"Một cách vận hành\"}, {\"label\": \"SAU\", \"title\": \"Một thay đổi rõ\", \"body\": \"Ghi điều kiện đi cùng\"}]",
+      "sourceRole": "illustrative-context",
+      "start": 15235,
+      "images": [
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0; Vyacheslav Argenberg / CC BY 4.0",
+      "end": 15601
+    },
+    {
+      "id": "a07",
+      "text": "Cuối tuần, xem ba thứ cạnh nhau: phần đóng góp mỗi đơn, lượng đơn theo thời gian, và lịch tiền mặt sắp tới. Khi chúng lệch nhau, ta mới biết cần đào sâu vào đâu.",
+      "phase": "content",
+      "layout": "b-paper",
+      "headline": "Ba dòng trước khi kết luận",
+      "mediaTag": "cafe",
+      "design": {
+        "paper": {
+          "title": "CÙNG NHÌN MỘT QUÁN",
+          "rows": [
+            {
+              "label": "Mỗi đơn để lại",
+              "value": "Bao nhiêu?"
+            },
+            {
+              "label": "Cả ngày bán được",
+              "value": "Bao nhiêu?"
+            },
+            {
+              "label": "Tiền về và đi",
+              "value": "Ngày nào?"
+            }
+          ]
+        },
+        "theme": "cream",
+        "cues": [
+          69,
+          121,
+          172
+        ]
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Original animated paper must reveal the written computation/timing relation: {\"title\": \"CÙNG NHÌN MỘT QUÁN\", \"rows\": [{\"label\": \"Mỗi đơn để lại\", \"value\": \"Bao nhiêu?\"}, {\"label\": \"Cả ngày bán được\", \"value\": \"Bao nhiêu?\"}, {\"label\": \"Tiền về và đi\", \"value\": \"Ngày nào?\"}]}",
+      "sourceRole": "illustrative-context",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 15601,
+      "images": [
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 15913
+    },
+    {
+      "id": "a08",
+      "text": "Nếu chi phí tăng theo công suất hoặc quán bán nhiều loại món, mô hình một ly cần được mở rộng. Dùng số liệu thực và người có chuyên môn để xem lại, thay vì cố nhét mọi thứ vào ví dụ này.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Mô hình đơn giản cần được mở rộng",
+      "mediaTag": "barista",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Coffee flows from espresso-machine portafilter into pale ceramic cup; crema and fill level change. | Barista holds metal pitcher beneath espresso-machine steam wand while operating controls; cups above machine. | Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "sourceRole": "illustrative-context",
+      "start": 15913,
+      "images": [
+        {
+          "file": "business/clip-espresso-flow-67368f40.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 386,
+          "availableFrames": 1098,
+          "credit": "Thomas Windisch",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-frothing.jpg",
+          "aspect": 1.0414971521562246,
+          "credit": "Daniel Case",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "one-week",
+      "sourceNote": "Tư liệu minh họa · Thomas Windisch / Pexels License; Daniel Case / CC BY-SA 3.0; Takeaway / CC BY-SA 3.0",
+      "end": 16283
+    },
+    {
+      "id": "e01",
+      "text": "Giờ nhìn lại quán kín bàn lúc đầu. Ta không còn vội kết luận quán ấy đang rất có lãi, cũng không vội bảo họ kinh doanh kém nếu đang thiếu tiền.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Nhìn lại cùng một cảnh",
+      "mediaTag": "busy",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Wide cafe interior with many occupied tables; people talk and someone moves across seating area. Some empty chairs remain. | Evening cafe area with multiple occupied tables and seated silhouettes; foreground drink and candle; Nescafé branding on cup visible. | Iced coffee and a water glass on a table; two seated customers visible further inside a narrow cafe.",
+      "sourceRole": "illustrative-context",
+      "start": 16283,
+      "images": [
+        {
+          "file": "business/clip-busy-cafe-b14b55fe.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 100,
+          "availableFrames": 301,
+          "credit": "Nazim Zafri",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hue-cafe.jpg",
+          "aspect": 1.7777777777777777,
+          "credit": "David McKelvey  from Brisbane, Australia",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-rin-cafe-cup.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            48,
+            52
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "ending",
+      "sourceNote": "Tư liệu minh họa · Nazim Zafri / Pexels License; David McKelvey  from Brisbane, Australia / CC BY 2.0; Lê Huỳnh Bộ / CC BY-SA 4.0",
+      "end": 16523
+    },
+    {
+      "id": "e02",
+      "text": "Ta hỏi mỗi đơn góp bao nhiêu, cần bán bao nhiêu để nuôi bộ máy, và tiền có kịp về trước ngày phải trả. Ba câu hỏi bình thường, nhưng mở ra ba cách chẩn đoán khác nhau.",
+      "phase": "content",
+      "layout": "b-coffee",
+      "headline": "Mỗi đơn · Cả tháng · Ngày đến hạn",
+      "mediaTag": "coffee",
+      "design": {
+        "coffee": {
+          "kind": "flow"
+        }
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Metal phin coffee filter placed above a white coffee cup, with teapot and cups behind.",
+      "sourceRole": "illustrative-context",
+      "body": "Phần đóng góp · Sản lượng hòa vốn · Lịch thu–chi",
+      "eyebrow": "MÔ HÌNH GIẢ ĐỊNH",
+      "start": 16523,
+      "images": [
+        {
+          "file": "business/vn-saigon-coffee-phin.jpg",
+          "aspect": 0.6625,
+          "credit": "Takeaway",
+          "focus": [
+            48,
+            54
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "ending",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Takeaway / CC BY-SA 3.0",
+      "end": 16840
+    },
+    {
+      "id": "e03",
+      "text": "Một quán bền vững cần cả khách hàng lẫn một mô hình kinh tế phù hợp. Chất lượng đồ uống, trải nghiệm và con người vẫn quan trọng; phép tính giúp nhìn rõ điều kiện để duy trì chúng.",
+      "phase": "content",
+      "layout": "b-photo",
+      "headline": "Con số để duy trì điều đáng giữ",
+      "mediaTag": "serve",
+      "design": {
+        "theme": "dark"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Barista arranges glass cup on saucer and pushes drink across wooden counter toward camera. | Close-up hands pour milk from metal pitcher into a takeaway paper coffee cup, creating latte pattern. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "sourceRole": "illustrative-context",
+      "start": 16840,
+      "images": [
+        {
+          "file": "business/clip-serve-coffee-ef18119d.mp4",
+          "aspect": 1.7777777777777777,
+          "mediaType": "video",
+          "trimBeforeFrames": 333,
+          "availableFrames": 446,
+          "credit": "Pavel Danilyuk",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/global-milk-pour.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Tim Wright  timdwright",
+          "focus": [
+            52,
+            51
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "ending",
+      "sourceNote": "Tư liệu minh họa · Pavel Danilyuk / Pexels License; Tim Wright  timdwright / CC0; Vyacheslav Argenberg / CC BY 4.0",
+      "end": 17164
+    },
+    {
+      "id": "e04",
+      "text": "Nếu nhớ một điều, hãy nhớ: doanh thu cho biết tiền bán được, phần đóng góp giúp trả chi phí, còn dòng tiền cho biết khả năng xoay xở theo lịch. Chúng liên quan, nhưng không thể dùng thay nhau.",
+      "phase": "content",
+      "layout": "b-question",
+      "headline": "Doanh thu · Phần đóng góp · Dòng tiền",
+      "mediaTag": "cafe",
+      "design": {
+        "theme": "warm"
+      },
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: A nearly empty espresso glass and teaspoon on a newspaper on a wood table, with red shoes behind.",
+      "sourceRole": "illustrative-context",
+      "start": 17164,
+      "images": [
+        {
+          "file": "business/vn-dalat-cafe.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Bino Storyteller  curiousbino",
+          "focus": [
+            45,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "ending",
+      "sourceNote": "Mô hình minh họa gốc · Ảnh: Bino Storyteller  curiousbino / CC0",
+      "end": 17512
+    },
+    {
+      "id": "e05",
+      "text": "Bạn muốn thử bóc tách mô hình của tiệm bánh, cửa hàng nhỏ hay một dịch vụ khác? Chia sẻ ở bình luận và theo dõi để cùng nhìn kỹ hơn cách những doanh nghiệp quanh ta vận hành.",
+      "phase": "cta",
+      "layout": "b-closing",
+      "headline": "Bạn muốn bóc tách mô hình nào tiếp?",
+      "mediaTag": "closing",
+      "design": {},
+      "needToSee": "Real source media show only their inspected visible cafe/coffee/service subjects. The narration is an explicitly fictional business model; this is not evidence of the photographed business revenue, cost, occupancy trend, failure or customer intent. Context slots: Worker removes apron, lifts inverted chairs on tables and leaves frame; chairs remain upside down in quiet cafe. | Mostly empty dark chairs and low tables beneath a thatched roof facing plants; used coffee cup/glasses on foreground table. | Top-down foamy coffee in a glass/cup on a wooden table with small coaster or card.",
+      "sourceRole": "illustrative-context",
+      "start": 17512,
+      "images": [
+        {
+          "file": "business/clip-close-shift-b66ab498.mp4",
+          "aspect": 1.8972222222222221,
+          "mediaType": "video",
+          "trimBeforeFrames": 210,
+          "availableFrames": 658,
+          "credit": "Ron Lach",
+          "focus": [
+            50,
+            50
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-cafe-oxy-tables.jpg",
+          "aspect": 0.75,
+          "credit": "Lê Huỳnh Bộ",
+          "focus": [
+            51,
+            52
+          ],
+          "fit": "cover"
+        },
+        {
+          "file": "business/vn-hanoi-cup.jpg",
+          "aspect": 1.5005861664712778,
+          "credit": "Vyacheslav Argenberg",
+          "focus": [
+            52,
+            50
+          ],
+          "fit": "cover"
+        }
+      ],
+      "chapter": "ending",
+      "sourceNote": "Tư liệu minh họa · Ron Lach / Pexels License; Lê Huỳnh Bộ / CC BY-SA 4.0; Vyacheslav Argenberg / CC BY 4.0",
+      "end": 17848
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Quán kín bàn, máy pha chạy liên tục, đơn"
+    },
+    {
+      "start": 2.704,
+      "end": 3.68,
+      "text": "hàng cứ nối nhau."
+    },
+    {
+      "start": 3.787,
+      "end": 6.24,
+      "text": "Nhưng cuối tháng, chủ quán vẫn phải lấy tiền"
+    },
+    {
+      "start": 6.272,
+      "end": 7.68,
+      "text": "tiết kiệm để trả tiền thuê."
+    },
+    {
+      "start": 7.893,
+      "end": 9.36,
+      "text": "Tiền đã đi đâu?"
+    },
+    {
+      "start": 9.493,
+      "end": 11.04,
+      "text": "Có thể quán chưa bán đủ."
+    },
+    {
+      "start": 11.24,
+      "end": 13.52,
+      "text": "Cũng có thể mỗi đơn bán thêm để lại quá"
+    },
+    {
+      "start": 13.6,
+      "end": 15.6,
+      "text": "ít, hoặc tiền phải chi đã tới trước tiền"
+    },
+    {
+      "start": 15.66,
+      "end": 16.0,
+      "text": "thu."
+    },
+    {
+      "start": 16.213,
+      "end": 18.8,
+      "text": "Ba chuyện này nhìn ngoài cửa rất giống nhau."
+    },
+    {
+      "start": 19.08,
+      "end": 21.52,
+      "text": "Hôm nay, thử mở một quán cà phê giả định."
+    },
+    {
+      "start": 21.68,
+      "end": 24.24,
+      "text": "Ta sẽ lần theo một ly ba mươi lăm nghìn, đi"
+    },
+    {
+      "start": 24.3,
+      "end": 26.96,
+      "text": "qua tiền thuê, khuyến mại, rồi đến ngày phải"
+    },
+    {
+      "start": 27.0,
+      "end": 27.68,
+      "text": "trả hóa đơn."
+    },
+    {
+      "start": 27.86,
+      "end": 30.48,
+      "text": "Đây là ví dụ giáo dục về kinh doanh, không"
+    },
+    {
+      "start": 30.512,
+      "end": 32.48,
+      "text": "phải tư vấn tài chính cho một quán cụ thể."
+    },
+    {
+      "start": 32.667,
+      "end": 34.8,
+      "text": "Toàn bộ giá và chi phí đều giả định;"
+    },
+    {
+      "start": 34.96,
+      "end": 37.68,
+      "text": "thuế, lãi vay và khấu hao chưa được"
+    },
+    {
+      "start": 37.72,
+      "end": 38.48,
+      "text": "đưa vào mô hình."
+    },
+    {
+      "start": 38.98,
+      "end": 39.94,
+      "text": "Bắt đầu ở quầy."
+    },
+    {
+      "start": 40.13999999999999,
+      "end": 42.739999999999995,
+      "text": "Một khách trả ba mươi lăm nghìn cho một ly."
+    },
+    {
+      "start": 42.927,
+      "end": 45.459999999999994,
+      "text": "Số tiền đó là doanh thu, chưa phải phần chủ"
+    },
+    {
+      "start": 45.507999999999996,
+      "end": 46.5,
+      "text": "quán có thể mang về."
+    },
+    {
+      "start": 46.607,
+      "end": 49.14,
+      "text": "Để làm thêm một ly, quán cần nguyên liệu,"
+    },
+    {
+      "start": 49.17999999999999,
+      "end": 51.54,
+      "text": "cốc hoặc nắp dùng một lần, và những khoản"
+    },
+    {
+      "start": 51.587999999999994,
+      "end": 52.739999999999995,
+      "text": "thay đổi theo đơn bán."
+    },
+    {
+      "start": 52.81999999999999,
+      "end": 54.9,
+      "text": "Trong ví dụ này, gom chúng thành mười lăm"
+    },
+    {
+      "start": 54.94,
+      "end": 55.3,
+      "text": "nghìn."
+    },
+    {
+      "start": 55.62,
+      "end": 58.18299999999999,
+      "text": "Lấy ba mươi lăm trừ mười lăm, còn hai mươi"
+    },
+    {
+      "start": 58.221999999999994,
+      "end": 58.581999999999994,
+      "text": "nghìn."
+    },
+    {
+      "start": 58.702,
+      "end": 61.141999999999996,
+      "text": "Khoản còn lại này góp vào việc trả chi phí"
+    },
+    {
+      "start": 61.19499999999999,
+      "end": 63.702,
+      "text": "cố định và, nếu đủ, tạo ra kết quả"
+    },
+    {
+      "start": 63.754999999999995,
+      "end": 64.102,
+      "text": "dương."
+    },
+    {
+      "start": 64.24199999999999,
+      "end": 66.503,
+      "text": "Hai mươi nghìn ấy chưa phải lợi nhuận ròng"
+    },
+    {
+      "start": 66.54299999999999,
+      "end": 67.303,
+      "text": "của ly cà phê."
+    },
+    {
+      "start": 67.57,
+      "end": 70.18299999999999,
+      "text": "Tiền thuê nhà, nhân sự và nhiều"
+    },
+    {
+      "start": 70.223,
+      "end": 72.503,
+      "text": "khoản vận hành vẫn đang chờ được trả từ phần"
+    },
+    {
+      "start": 72.535,
+      "end": 73.703,
+      "text": "đóng góp của cả tháng."
+    },
+    {
+      "start": 73.83099999999999,
+      "end": 76.503,
+      "text": "Phân loại chi phí cũng cần theo thực tế."
+    },
+    {
+      "start": 76.583,
+      "end": 78.983,
+      "text": "Nhân viên có thể nhận lương tháng, nhưng làm"
+    },
+    {
+      "start": 79.01499999999999,
+      "end": 81.023,
+      "text": "thêm giờ lại tăng theo lượng việc."
+    },
+    {
+      "start": 81.095,
+      "end": 83.543,
+      "text": "Điện nước có phần nền và phần tăng theo sử"
+    },
+    {
+      "start": 83.591,
+      "end": 83.863,
+      "text": "dụng."
+    },
+    {
+      "start": 84.023,
+      "end": 86.423,
+      "text": "Vì vậy, đừng bê một bảng mẫu sang mọi"
+    },
+    {
+      "start": 86.487,
+      "end": 86.82300000000001,
+      "text": "quán."
+    },
+    {
+      "start": 87.103,
+      "end": 89.703,
+      "text": "Ở đây, ta tạm giữ mười lăm nghìn mỗi ly"
+    },
+    {
+      "start": 89.836,
+      "end": 92.103,
+      "text": "và một mức chi phí cố định, trong phạm vi"
+    },
+    {
+      "start": 92.13499999999999,
+      "end": 93.143,
+      "text": "công suất hiện có."
+    },
+    {
+      "start": 93.303,
+      "end": 95.943,
+      "text": "Một ly tại chỗ và một ly qua kênh giao"
+    },
+    {
+      "start": 96.007,
+      "end": 98.34299999999999,
+      "text": "hàng cũng có thể để lại số tiền khác nhau."
+    },
+    {
+      "start": 98.543,
+      "end": 101.223,
+      "text": "Nếu có phí nền tảng, bao bì hoặc"
+    },
+    {
+      "start": 101.28299999999999,
+      "end": 103.703,
+      "text": "trợ giá, phải tính theo phần quán thực chịu."
+    },
+    {
+      "start": 103.84700000000001,
+      "end": 106.34299999999999,
+      "text": "Điều cần hỏi không chỉ là món nào bán"
+    },
+    {
+      "start": 106.40700000000001,
+      "end": 106.82300000000001,
+      "text": "chạy."
+    },
+    {
+      "start": 106.90299999999999,
+      "end": 108.983,
+      "text": "Còn phải hỏi sau những chi phí đi cùng"
+    },
+    {
+      "start": 109.09,
+      "end": 111.62299999999999,
+      "text": "nó, món đó để lại bao nhiêu tiền để nuôi"
+    },
+    {
+      "start": 111.68699999999998,
+      "end": 112.90299999999999,
+      "text": "phần còn lại của quán."
+    },
+    {
+      "start": 113.023,
+      "end": 115.703,
+      "text": "Một món bán nhiều vẫn có thể góp rất tốt."
+    },
+    {
+      "start": 115.79599999999999,
+      "end": 118.10300000000001,
+      "text": "Nhưng hình ảnh đơn hàng chạy liên tục không"
+    },
+    {
+      "start": 118.156,
+      "end": 120.34299999999999,
+      "text": "tự nói cho ta biết phần đóng góp ấy; cần"
+    },
+    {
+      "start": 120.39099999999999,
+      "end": 122.90299999999999,
+      "text": "nhìn vào giá bán thực thu và chi phí."
+    },
+    {
+      "start": 123.4,
+      "end": 124.92,
+      "text": "Bây giờ đến các khoản theo tháng."
+    },
+    {
+      "start": 125.16000000000001,
+      "end": 127.96000000000001,
+      "text": "Giả sử tiền thuê là mười tám triệu, nhân"
+    },
+    {
+      "start": 128.04,
+      "end": 130.6,
+      "text": "sự là hai mươi hai triệu, và nhóm chi phí"
+    },
+    {
+      "start": 130.64000000000001,
+      "end": 132.16,
+      "text": "nền khác là tám triệu."
+    },
+    {
+      "start": 132.232,
+      "end": 134.12,
+      "text": "Tổng cộng bốn mươi tám triệu."
+    },
+    {
+      "start": 134.22,
+      "end": 136.52,
+      "text": "Đây là giả định để tính, không phải mức chi"
+    },
+    {
+      "start": 136.56,
+      "end": 137.8,
+      "text": "phí chuẩn của ngành cà phê."
+    },
+    {
+      "start": 137.98000000000002,
+      "end": 139.96,
+      "text": "Một quán thật có thể khác rất xa."
+    },
+    {
+      "start": 140.52,
+      "end": 143.32,
+      "text": "Mỗi ly đóng góp hai mươi nghìn, vậy cần"
+    },
+    {
+      "start": 143.38,
+      "end": 145.56,
+      "text": "bao nhiêu ly mới bù được bốn mươi tám triệu?"
+    },
+    {
+      "start": 145.8,
+      "end": 148.44,
+      "text": "Chia ra, ta được hai nghìn bốn trăm ly trong"
+    },
+    {
+      "start": 148.507,
+      "end": 148.92000000000002,
+      "text": "tháng."
+    },
+    {
+      "start": 149.12,
+      "end": 151.88,
+      "text": "Nếu mở đủ ba mươi ngày, đó là bình quân"
+    },
+    {
+      "start": 151.96,
+      "end": 153.0,
+      "text": "tám mươi ly mỗi ngày."
+    },
+    {
+      "start": 153.28,
+      "end": 155.56,
+      "text": "Mốc này mới bù các chi phí đã đưa vào mô"
+    },
+    {
+      "start": 155.592,
+      "end": 157.64000000000001,
+      "text": "hình, chưa bảo đảm chủ quán đạt thu nhập"
+    },
+    {
+      "start": 157.672,
+      "end": 158.2,
+      "text": "mong muốn."
+    },
+    {
+      "start": 158.64000000000001,
+      "end": 161.36,
+      "text": "Dưới mốc đó, phần đóng góp chưa đủ."
+    },
+    {
+      "start": 161.507,
+      "end": 163.88,
+      "text": "Trên mốc đó, mô hình bắt đầu có dư."
+    },
+    {
+      "start": 164.02700000000002,
+      "end": 166.60000000000002,
+      "text": "Đường hòa vốn giúp biến câu hỏi có vẻ cảm"
+    },
+    {
+      "start": 166.68,
+      "end": 168.601,
+      "text": "tính thành một giả thuyết có thể kiểm."
+    },
+    {
+      "start": 168.893,
+      "end": 171.48000000000002,
+      "text": "Giả sử quán bán một trăm ly mỗi ngày."
+    },
+    {
+      "start": 171.64000000000001,
+      "end": 174.04000000000002,
+      "text": "Ba nghìn ly trong tháng tạo một trăm lẻ năm"
+    },
+    {
+      "start": 174.08,
+      "end": 174.92000000000002,
+      "text": "triệu doanh thu."
+    },
+    {
+      "start": 175.16,
+      "end": 177.64000000000001,
+      "text": "Trừ bốn mươi lăm triệu biến phí, phần đóng"
+    },
+    {
+      "start": 177.7,
+      "end": 178.84,
+      "text": "góp là sáu mươi triệu."
+    },
+    {
+      "start": 179.053,
+      "end": 181.4,
+      "text": "Trả tiếp bốn mươi tám triệu chi phí cố định,"
+    },
+    {
+      "start": 181.52,
+      "end": 183.04000000000002,
+      "text": "còn mười hai triệu."
+    },
+    {
+      "start": 183.13,
+      "end": 184.2,
+      "text": "Cần gọi đúng:"
+    },
+    {
+      "start": 184.28,
+      "end": 186.68,
+      "text": "đây là phần dư của mô hình trước thuế, lãi"
+    },
+    {
+      "start": 186.76,
+      "end": 189.08,
+      "text": "vay và khấu hao, không phải lợi nhuận ròng"
+    },
+    {
+      "start": 189.133,
+      "end": 189.92000000000002,
+      "text": "đã chốt."
+    },
+    {
+      "start": 190.10000000000002,
+      "end": 191.96,
+      "text": "Còn nếu người chủ chưa tính công của chính"
+    },
+    {
+      "start": 192.008,
+      "end": 194.4,
+      "text": "mình, bức tranh về thu nhập lại khác."
+    },
+    {
+      "start": 194.51,
+      "end": 196.92000000000002,
+      "text": "Một mô hình hữu ích phải nói rõ đã tính"
+    },
+    {
+      "start": 196.947,
+      "end": 199.32,
+      "text": "những khoản nào, thay vì đặt nhãn có lãi cho"
+    },
+    {
+      "start": 199.4,
+      "end": 199.64,
+      "text": "đẹp."
+    },
+    {
+      "start": 200.14,
+      "end": 200.85999999999999,
+      "text": "Quay lại cảnh đầu:"
+    },
+    {
+      "start": 200.988,
+      "end": 203.42,
+      "text": "nhìn qua cửa, bạn thấy kín bàn."
+    },
+    {
+      "start": 203.51299999999998,
+      "end": 205.33999999999997,
+      "text": "Nhưng đó có thể là lúc đông nhất."
+    },
+    {
+      "start": 205.5,
+      "end": 208.22,
+      "text": "Phép tính tháng cần tổng đơn của cả ngày,"
+    },
+    {
+      "start": 208.273,
+      "end": 209.57999999999998,
+      "text": "kể cả những giờ yên ắng."
+    },
+    {
+      "start": 209.7,
+      "end": 212.29999999999998,
+      "text": "Trong quán giả định, sáu mươi ly bán buổi"
+    },
+    {
+      "start": 212.38,
+      "end": 214.94,
+      "text": "sáng nhưng chỉ thêm mười ly cả phần ngày còn"
+    },
+    {
+      "start": 214.98,
+      "end": 216.77999999999997,
+      "text": "lại, tổng vẫn là bảy mươi."
+    },
+    {
+      "start": 217.01999999999998,
+      "end": 219.57999999999998,
+      "text": "Dưới mốc tám mươi, dù sáng trông rất nhộn"
+    },
+    {
+      "start": 219.60699999999997,
+      "end": 220.14,
+      "text": "nhịp."
+    },
+    {
+      "start": 220.24699999999999,
+      "end": 223.01999999999998,
+      "text": "Ngược lại, một quán không kín chỗ vẫn có thể"
+    },
+    {
+      "start": 223.07999999999998,
+      "end": 225.66,
+      "text": "bán đều qua nhiều khung giờ hoặc nhiều kênh."
+    },
+    {
+      "start": 225.767,
+      "end": 227.89999999999998,
+      "text": "Không thể đọc toàn bộ sức khỏe kinh doanh"
+    },
+    {
+      "start": 228.01999999999998,
+      "end": 229.98,
+      "text": "chỉ bằng số ghế đang có người ngồi."
+    },
+    {
+      "start": 230.21999999999997,
+      "end": 232.77999999999997,
+      "text": "Bởi vậy, hãy tách điều nhìn thấy khỏi điều"
+    },
+    {
+      "start": 232.82,
+      "end": 233.33999999999997,
+      "text": "cần đo."
+    },
+    {
+      "start": 233.553,
+      "end": 235.33999999999997,
+      "text": "Khách đông là một quan sát."
+    },
+    {
+      "start": 235.553,
+      "end": 238.21999999999997,
+      "text": "Số đơn, giá thực thu và phần đóng"
+    },
+    {
+      "start": 238.27999999999997,
+      "end": 240.61999999999998,
+      "text": "góp trong cả ngày mới đưa quan sát ấy vào"
+    },
+    {
+      "start": 240.652,
+      "end": 241.17999999999998,
+      "text": "phép tính."
+    },
+    {
+      "start": 241.39299999999997,
+      "end": 243.7,
+      "text": "Thêm khách cũng có giới hạn công suất."
+    },
+    {
+      "start": 243.76999999999998,
+      "end": 246.38,
+      "text": "Khi phải tăng ca, thêm thiết bị hoặc chờ lâu"
+    },
+    {
+      "start": 246.44,
+      "end": 248.94,
+      "text": "hơn, giả định chi phí cũ có thể không còn"
+    },
+    {
+      "start": 248.988,
+      "end": 249.33999999999997,
+      "text": "đúng."
+    },
+    {
+      "start": 249.54,
+      "end": 251.66,
+      "text": "Tăng sản lượng cần được tính cùng chi phí"
+    },
+    {
+      "start": 251.73999999999998,
+      "end": 252.06,
+      "text": "mới."
+    },
+    {
+      "start": 252.16699999999997,
+      "end": 254.7,
+      "text": "Nhưng trước khi quán kịp tăng công suất, một"
+    },
+    {
+      "start": 254.73199999999997,
+      "end": 256.38,
+      "text": "cách kéo khách quen thuộc đã xuất hiện:"
+    },
+    {
+      "start": 256.476,
+      "end": 257.26,
+      "text": "giảm giá."
+    },
+    {
+      "start": 257.447,
+      "end": 259.82,
+      "text": "Trên màn hình, số đơn tăng rất đẹp."
+    },
+    {
+      "start": 259.92699999999996,
+      "end": 262.21999999999997,
+      "text": "Trong phép tính, chuyện gì xảy ra?"
+    },
+    {
+      "start": 262.71999999999997,
+      "end": 265.11999999999995,
+      "text": "Giữ nguyên ly cũ, hạ giá từ ba mươi lăm"
+    },
+    {
+      "start": 265.2,
+      "end": 266.47999999999996,
+      "text": "xuống hai mươi chín nghìn."
+    },
+    {
+      "start": 266.65999999999997,
+      "end": 269.2,
+      "text": "Nếu biến phí vẫn mười lăm nghìn, mỗi ly"
+    },
+    {
+      "start": 269.28,
+      "end": 271.11999999999995,
+      "text": "giờ chỉ còn đóng góp mười bốn nghìn."
+    },
+    {
+      "start": 271.23999999999995,
+      "end": 273.76,
+      "text": "Giá bán giảm sáu nghìn, nhưng phần đóng góp"
+    },
+    {
+      "start": 273.82399999999996,
+      "end": 276.32099999999997,
+      "text": "giảm từ hai mươi xuống mười bốn nghìn, tức"
+    },
+    {
+      "start": 276.34799999999996,
+      "end": 277.12199999999996,
+      "text": "ba mươi phần trăm."
+    },
+    {
+      "start": 277.32099999999997,
+      "end": 280.08099999999996,
+      "text": "Hai tỷ lệ khác nhau vì chúng có mẫu số"
+    },
+    {
+      "start": 280.11299999999994,
+      "end": 280.96099999999996,
+      "text": "khác nhau."
+    },
+    {
+      "start": 281.094,
+      "end": 283.121,
+      "text": "Muốn giữ phần đóng góp sáu mươi triệu như"
+    },
+    {
+      "start": 283.16099999999994,
+      "end": 285.601,
+      "text": "tháng bán ba nghìn ly giá cũ, quán phải bán"
+    },
+    {
+      "start": 285.66099999999994,
+      "end": 287.76099999999997,
+      "text": "hơn bốn nghìn hai trăm tám mươi lăm ly ở giá"
+    },
+    {
+      "start": 287.861,
+      "end": 288.241,
+      "text": "mới."
+    },
+    {
+      "start": 288.421,
+      "end": 291.041,
+      "text": "Làm tròn lên là bốn nghìn hai trăm tám mươi"
+    },
+    {
+      "start": 291.121,
+      "end": 291.52099999999996,
+      "text": "sáu."
+    },
+    {
+      "start": 291.72099999999995,
+      "end": 293.601,
+      "text": "Tức cần tăng khoảng bốn mươi ba phần trăm"
+    },
+    {
+      "start": 293.64099999999996,
+      "end": 295.601,
+      "text": "sản lượng, chỉ để giữ nguyên mức đóng góp"
+    },
+    {
+      "start": 295.681,
+      "end": 296.001,
+      "text": "cũ."
+    },
+    {
+      "start": 296.188,
+      "end": 298.241,
+      "text": "Chưa tính thêm nhân lực, nguyên liệu thất"
+    },
+    {
+      "start": 298.28099999999995,
+      "end": 300.16099999999994,
+      "text": "thoát hoặc những khoản khuyến mại quán phải"
+    },
+    {
+      "start": 300.20099999999996,
+      "end": 300.921,
+      "text": "gánh khác."
+    },
+    {
+      "start": 301.01399999999995,
+      "end": 302.64099999999996,
+      "text": "Ngay cả mốc hòa vốn cũng đổi."
+    },
+    {
+      "start": 302.801,
+      "end": 305.20099999999996,
+      "text": "Bốn mươi tám triệu chia mười bốn nghìn cần"
+    },
+    {
+      "start": 305.241,
+      "end": 307.20099999999996,
+      "text": "làm tròn lên ba nghìn bốn trăm hai mươi chín"
+    },
+    {
+      "start": 307.308,
+      "end": 309.681,
+      "text": "ly mỗi tháng, xấp xỉ một trăm mười lăm ly"
+    },
+    {
+      "start": 309.741,
+      "end": 310.241,
+      "text": "mỗi ngày."
+    },
+    {
+      "start": 310.385,
+      "end": 312.881,
+      "text": "Điều đó không có nghĩa khuyến mại luôn sai."
+    },
+    {
+      "start": 313.02099999999996,
+      "end": 315.04099999999994,
+      "text": "Một chương trình có thể thu hút khách thử"
+    },
+    {
+      "start": 315.10499999999996,
+      "end": 316.481,
+      "text": "hoặc phục vụ mục tiêu khác."
+    },
+    {
+      "start": 316.548,
+      "end": 319.20099999999996,
+      "text": "Nhưng mục tiêu, chi phí và cách kiểm tra"
+    },
+    {
+      "start": 319.24899999999997,
+      "end": 320.561,
+      "text": "phải được nói rõ từ đầu."
+    },
+    {
+      "start": 320.741,
+      "end": 323.20099999999996,
+      "text": "Nếu muốn biết khách có quay lại hay không,"
+    },
+    {
+      "start": 323.241,
+      "end": 324.72099999999995,
+      "text": "cần theo dõi hành vi quay lại."
+    },
+    {
+      "start": 324.84099999999995,
+      "end": 327.04099999999994,
+      "text": "Nếu muốn tăng phần đóng góp, cần đo phần"
+    },
+    {
+      "start": 327.073,
+      "end": 327.52099999999996,
+      "text": "đóng góp."
+    },
+    {
+      "start": 327.76099999999997,
+      "end": 330.241,
+      "text": "Lượt xem, số đơn và tiền còn lại"
+    },
+    {
+      "start": 330.34799999999996,
+      "end": 332.08099999999996,
+      "text": "là những thước đo khác nhau."
+    },
+    {
+      "start": 332.21399999999994,
+      "end": 334.32099999999997,
+      "text": "Và đừng so ngày khuyến mại với một ngày vắng"
+    },
+    {
+      "start": 334.381,
+      "end": 336.241,
+      "text": "bất thường rồi kết luận thành công."
+    },
+    {
+      "start": 336.35299999999995,
+      "end": 339.121,
+      "text": "Thời tiết, ngày trong tuần và sự kiện quanh"
+    },
+    {
+      "start": 339.20099999999996,
+      "end": 341.28099999999995,
+      "text": "quán có thể thay đổi lượng khách."
+    },
+    {
+      "start": 341.481,
+      "end": 343.361,
+      "text": "Mẫu so cần đủ bối cảnh."
+    },
+    {
+      "start": 343.52099999999996,
+      "end": 346.241,
+      "text": "Cái bẫy ở đây là một con số đẹp che một con"
+    },
+    {
+      "start": 346.32099999999997,
+      "end": 347.28099999999995,
+      "text": "số quan trọng hơn."
+    },
+    {
+      "start": 347.46799999999996,
+      "end": 349.84099999999995,
+      "text": "Quán bán thêm không tự bảo đảm quán khỏe"
+    },
+    {
+      "start": 349.905,
+      "end": 350.241,
+      "text": "thêm."
+    },
+    {
+      "start": 350.481,
+      "end": 352.441,
+      "text": "Còn một lớp dễ bị bỏ quên:"
+    },
+    {
+      "start": 352.49699999999996,
+      "end": 353.121,
+      "text": "lịch tiền mặt."
+    },
+    {
+      "start": 353.62,
+      "end": 355.7,
+      "text": "Giả sử quán thật sự có phần dư mười hai"
+    },
+    {
+      "start": 355.753,
+      "end": 356.74,
+      "text": "triệu theo mô hình."
+    },
+    {
+      "start": 356.92,
+      "end": 359.22,
+      "text": "Vậy tài khoản cuối tháng phải tăng đúng mười"
+    },
+    {
+      "start": 359.26,
+      "end": 360.02,
+      "text": "hai triệu sao?"
+    },
+    {
+      "start": 360.127,
+      "end": 362.9,
+      "text": "Không nhất thiết, vì kết quả kinh doanh và"
+    },
+    {
+      "start": 362.948,
+      "end": 364.9,
+      "text": "tiền mặt không cùng một câu hỏi."
+    },
+    {
+      "start": 364.98,
+      "end": 367.54,
+      "text": "Một bên hỏi doanh thu và chi phí thuộc kỳ"
+    },
+    {
+      "start": 367.62,
+      "end": 368.58,
+      "text": "này là bao nhiêu."
+    },
+    {
+      "start": 368.72,
+      "end": 371.38,
+      "text": "Bên kia hỏi trong kỳ, tiền thực"
+    },
+    {
+      "start": 371.46,
+      "end": 373.22,
+      "text": "đã đi vào và đi ra lúc nào."
+    },
+    {
+      "start": 373.36,
+      "end": 376.1,
+      "text": "Khoảng cách về thời điểm có thể làm quán hụt"
+    },
+    {
+      "start": 376.14,
+      "end": 376.34000000000003,
+      "text": "hơi."
+    },
+    {
+      "start": 376.527,
+      "end": 378.98,
+      "text": "Chẳng hạn, mua nguyên liệu đủ dùng nhiều"
+    },
+    {
+      "start": 379.044,
+      "end": 381.54,
+      "text": "tuần khiến tiền ra ngay, trong khi một phần"
+    },
+    {
+      "start": 381.604,
+      "end": 382.82,
+      "text": "hàng vẫn còn trong kho."
+    },
+    {
+      "start": 382.927,
+      "end": 385.22,
+      "text": "Không thể cứ nhìn khoản chuyển tiền mua hàng"
+    },
+    {
+      "start": 385.34000000000003,
+      "end": 387.94,
+      "text": "rồi gọi toàn bộ là chi phí của số ly đã"
+    },
+    {
+      "start": 388.04,
+      "end": 388.42,
+      "text": "bán."
+    },
+    {
+      "start": 388.82,
+      "end": 391.3,
+      "text": "Đặt cọc mặt bằng cũng cần được tách riêng."
+    },
+    {
+      "start": 391.407,
+      "end": 394.02,
+      "text": "Đó là tiền đã rời tài khoản và bị giữ theo"
+    },
+    {
+      "start": 394.068,
+      "end": 396.1,
+      "text": "thỏa thuận, nhưng không đơn giản là tiền"
+    },
+    {
+      "start": 396.164,
+      "end": 397.78,
+      "text": "thuê đã tiêu hết của tháng này."
+    },
+    {
+      "start": 398.06,
+      "end": 400.82,
+      "text": "Tương tự, mua một máy pha là khoản chi"
+    },
+    {
+      "start": 400.868,
+      "end": 401.86,
+      "text": "tiền cho tài sản."
+    },
+    {
+      "start": 401.988,
+      "end": 404.58,
+      "text": "Cách ghi nhận chi phí theo thời gian khác"
+    },
+    {
+      "start": 404.612,
+      "end": 407.06,
+      "text": "việc trả tiền ngay; mô hình đơn giản ban đầu"
+    },
+    {
+      "start": 407.12,
+      "end": 408.98,
+      "text": "của ta chưa xử lý khấu hao ấy."
+    },
+    {
+      "start": 409.22,
+      "end": 411.62,
+      "text": "Ngay cả tiền bán hàng cũng có lịch."
+    },
+    {
+      "start": 411.727,
+      "end": 414.26,
+      "text": "Khách có thể trả tại quầy, hoặc một kênh bán"
+    },
+    {
+      "start": 414.3,
+      "end": 415.78,
+      "text": "đối soát và chuyển về sau."
+    },
+    {
+      "start": 415.94,
+      "end": 418.58,
+      "text": "Lịch thực tế tùy thỏa thuận, không nên tự"
+    },
+    {
+      "start": 418.64,
+      "end": 420.82,
+      "text": "coi mọi doanh thu là tiền sẵn dùng."
+    },
+    {
+      "start": 421.06,
+      "end": 422.78,
+      "text": "Thử một tình huống riêng:"
+    },
+    {
+      "start": 422.85,
+      "end": 425.14,
+      "text": "đầu tuần có hai mươi triệu, trong tuần thu"
+    },
+    {
+      "start": 425.22,
+      "end": 427.46000000000004,
+      "text": "mười lăm triệu, nhưng các khoản đến hạn cần"
+    },
+    {
+      "start": 427.5,
+      "end": 428.38,
+      "text": "bốn mươi triệu."
+    },
+    {
+      "start": 428.45,
+      "end": 430.58,
+      "text": "Thiếu năm triệu trước khi bàn tới mục tiêu"
+    },
+    {
+      "start": 430.628,
+      "end": 431.14,
+      "text": "tăng trưởng."
+    },
+    {
+      "start": 431.32,
+      "end": 433.94,
+      "text": "Đây là ví dụ về lịch thu chi, không phải"
+    },
+    {
+      "start": 433.988,
+      "end": 435.62,
+      "text": "phần tiếp của phép tính tháng trước."
+    },
+    {
+      "start": 435.78,
+      "end": 438.26,
+      "text": "Một quán có thể cần giải quyết cả mức đóng"
+    },
+    {
+      "start": 438.34000000000003,
+      "end": 441.06,
+      "text": "góp lẫn thời điểm tiền về; sửa mỗi lượng"
+    },
+    {
+      "start": 441.1,
+      "end": 443.06,
+      "text": "khách chưa chắc sửa được hai việc đó."
+    },
+    {
+      "start": 443.24,
+      "end": 445.82,
+      "text": "Một tờ lịch tiền mặt có thể rất ngắn:"
+    },
+    {
+      "start": 445.94,
+      "end": 448.5,
+      "text": "số dư đầu kỳ, tiền dự kiến thu,"
+    },
+    {
+      "start": 448.54,
+      "end": 450.42,
+      "text": "khoản phải chi và ngày đến hạn."
+    },
+    {
+      "start": 450.74,
+      "end": 453.14,
+      "text": "Ghi thêm điều kiện nào chưa chắc chắn, để"
+    },
+    {
+      "start": 453.16700000000003,
+      "end": 454.9,
+      "text": "không biến dự báo thành lời hứa."
+    },
+    {
+      "start": 455.4,
+      "end": 457.4,
+      "text": "Nếu đang kinh doanh, không nhất thiết bắt"
+    },
+    {
+      "start": 457.44,
+      "end": 459.08,
+      "text": "đầu bằng một bảng tính hàng trăm dòng."
+    },
+    {
+      "start": 459.267,
+      "end": 461.64,
+      "text": "Có thể bắt đầu bằng một tuần quan sát có chủ"
+    },
+    {
+      "start": 461.67199999999997,
+      "end": 464.28,
+      "text": "đích, rồi đối chiếu với sổ sách và người phụ"
+    },
+    {
+      "start": 464.30699999999996,
+      "end": 465.0,
+      "text": "trách kế toán."
+    },
+    {
+      "start": 465.224,
+      "end": 467.88,
+      "text": "Ngày đầu, chọn vài món và kênh"
+    },
+    {
+      "start": 467.91999999999996,
+      "end": 468.44,
+      "text": "bán chính."
+    },
+    {
+      "start": 468.76,
+      "end": 471.23999999999995,
+      "text": "Ghi giá thực thu, chi phí trực tiếp mỗi"
+    },
+    {
+      "start": 471.32,
+      "end": 473.15999999999997,
+      "text": "đơn và những khoản quán tự trợ."
+    },
+    {
+      "start": 473.52,
+      "end": 475.88,
+      "text": "Đừng lấy giá trên thực đơn thay cho số tiền"
+    },
+    {
+      "start": 475.928,
+      "end": 476.59999999999997,
+      "text": "thực giữ lại."
+    },
+    {
+      "start": 476.74399999999997,
+      "end": 479.15999999999997,
+      "text": "Ngày tiếp theo, liệt kê các khoản theo"
+    },
+    {
+      "start": 479.23999999999995,
+      "end": 481.71999999999997,
+      "text": "tháng và chỉ ra khoản nào thay đổi khi bán"
+    },
+    {
+      "start": 481.76,
+      "end": 482.28,
+      "text": "nhiều hơn."
+    },
+    {
+      "start": 482.54699999999997,
+      "end": 485.08,
+      "text": "Nhớ tách công của người chủ, khoản đầu tư"
+    },
+    {
+      "start": 485.12,
+      "end": 487.64,
+      "text": "ban đầu và tiền cọc khỏi những con số dễ"
+    },
+    {
+      "start": 487.667,
+      "end": 487.96,
+      "text": "nhầm."
+    },
+    {
+      "start": 488.147,
+      "end": 490.84,
+      "text": "Trong những ngày sau, ghi lượng đơn theo"
+    },
+    {
+      "start": 490.88,
+      "end": 491.47999999999996,
+      "text": "khung giờ."
+    },
+    {
+      "start": 491.62,
+      "end": 493.71999999999997,
+      "text": "Một vài buổi đông không thay được dữ liệu cả"
+    },
+    {
+      "start": 493.784,
+      "end": 496.28,
+      "text": "tuần, và một tuần cũng chưa đủ đại diện cho"
+    },
+    {
+      "start": 496.33299999999997,
+      "end": 496.76,
+      "text": "cả năm."
+    },
+    {
+      "start": 496.9,
+      "end": 499.47999999999996,
+      "text": "Khi thử một thay đổi, hãy chọn câu hỏi cụ"
+    },
+    {
+      "start": 499.53999999999996,
+      "end": 499.79999999999995,
+      "text": "thể."
+    },
+    {
+      "start": 499.96,
+      "end": 502.35999999999996,
+      "text": "Chẳng hạn, sửa cách giới thiệu một món để"
+    },
+    {
+      "start": 502.41999999999996,
+      "end": 504.59999999999997,
+      "text": "xem phần đóng góp thay đổi thế nào, đồng"
+    },
+    {
+      "start": 504.664,
+      "end": 506.84,
+      "text": "thời theo dõi chất lượng phục vụ và phản hồi"
+    },
+    {
+      "start": 506.88,
+      "end": 507.67999999999995,
+      "text": "của khách."
+    },
+    {
+      "start": 507.827,
+      "end": 510.44,
+      "text": "Tránh đổi giá, quảng cáo, lịch nhân sự"
+    },
+    {
+      "start": 510.59999999999997,
+      "end": 513.16,
+      "text": "và thực đơn cùng một lúc rồi khó biết điều"
+    },
+    {
+      "start": 513.213,
+      "end": 514.28,
+      "text": "gì tạo ra khác biệt."
+    },
+    {
+      "start": 514.653,
+      "end": 517.4,
+      "text": "Dữ liệu nhỏ vẫn hữu ích nếu ta giữ"
+    },
+    {
+      "start": 517.432,
+      "end": 519.88,
+      "text": "được cách so sánh và ghi nhận giới hạn."
+    },
+    {
+      "start": 520.04,
+      "end": 522.1999999999999,
+      "text": "Cuối tuần, xem ba thứ cạnh nhau:"
+    },
+    {
+      "start": 522.328,
+      "end": 524.8399999999999,
+      "text": "phần đóng góp mỗi đơn, lượng đơn theo thời"
+    },
+    {
+      "start": 524.904,
+      "end": 527.1999999999999,
+      "text": "gian, và lịch tiền mặt sắp tới."
+    },
+    {
+      "start": 527.29,
+      "end": 529.72,
+      "text": "Khi chúng lệch nhau, ta mới biết cần đào sâu"
+    },
+    {
+      "start": 529.76,
+      "end": 530.1999999999999,
+      "text": "vào đâu."
+    },
+    {
+      "start": 530.42,
+      "end": 533.16,
+      "text": "Nếu chi phí tăng theo công suất hoặc quán"
+    },
+    {
+      "start": 533.22,
+      "end": 535.64,
+      "text": "bán nhiều loại món, mô hình một ly cần được"
+    },
+    {
+      "start": 535.693,
+      "end": 536.6,
+      "text": "mở rộng."
+    },
+    {
+      "start": 536.8399999999999,
+      "end": 539.3199999999999,
+      "text": "Dùng số liệu thực và người có chuyên môn để"
+    },
+    {
+      "start": 539.38,
+      "end": 541.96,
+      "text": "xem lại, thay vì cố nhét mọi thứ vào ví dụ"
+    },
+    {
+      "start": 542.02,
+      "end": 542.28,
+      "text": "này."
+    },
+    {
+      "start": 542.78,
+      "end": 544.9,
+      "text": "Giờ nhìn lại quán kín bàn lúc đầu."
+    },
+    {
+      "start": 544.9929999999999,
+      "end": 547.02,
+      "text": "Ta không còn vội kết luận quán ấy đang rất"
+    },
+    {
+      "start": 547.073,
+      "end": 549.5799999999999,
+      "text": "có lãi, cũng không vội bảo họ kinh doanh kém"
+    },
+    {
+      "start": 549.64,
+      "end": 550.54,
+      "text": "nếu đang thiếu tiền."
+    },
+    {
+      "start": 550.7529999999999,
+      "end": 553.42,
+      "text": "Ta hỏi mỗi đơn góp bao nhiêu, cần"
+    },
+    {
+      "start": 553.48,
+      "end": 556.14,
+      "text": "bán bao nhiêu để nuôi bộ máy, và tiền có kịp"
+    },
+    {
+      "start": 556.193,
+      "end": 557.26,
+      "text": "về trước ngày phải trả."
+    },
+    {
+      "start": 557.447,
+      "end": 560.22,
+      "text": "Ba câu hỏi bình thường, nhưng mở ra ba cách"
+    },
+    {
+      "start": 560.247,
+      "end": 561.18,
+      "text": "chẩn đoán khác nhau."
+    },
+    {
+      "start": 561.3199999999999,
+      "end": 563.98,
+      "text": "Một quán bền vững cần cả khách hàng lẫn"
+    },
+    {
+      "start": 564.02,
+      "end": 565.341,
+      "text": "một mô hình kinh tế phù hợp."
+    },
+    {
+      "start": 565.5269999999999,
+      "end": 568.3,
+      "text": "Chất lượng đồ uống, trải nghiệm và con người"
+    },
+    {
+      "start": 568.3399999999999,
+      "end": 570.78,
+      "text": "vẫn quan trọng; phép tính giúp nhìn rõ điều"
+    },
+    {
+      "start": 570.828,
+      "end": 571.98,
+      "text": "kiện để duy trì chúng."
+    },
+    {
+      "start": 572.14,
+      "end": 574.14,
+      "text": "Nếu nhớ một điều, hãy nhớ:"
+    },
+    {
+      "start": 574.233,
+      "end": 576.62,
+      "text": "doanh thu cho biết tiền bán được, phần đóng"
+    },
+    {
+      "start": 576.6999999999999,
+      "end": 579.42,
+      "text": "góp giúp trả chi phí, còn dòng tiền cho biết"
+    },
+    {
+      "start": 579.4599999999999,
+      "end": 581.06,
+      "text": "khả năng xoay xở theo lịch."
+    },
+    {
+      "start": 581.12,
+      "end": 583.18,
+      "text": "Chúng liên quan, nhưng không thể dùng thay"
+    },
+    {
+      "start": 583.228,
+      "end": 583.5,
+      "text": "nhau."
+    },
+    {
+      "start": 583.72,
+      "end": 586.4599999999999,
+      "text": "Bạn muốn thử bóc tách mô hình của tiệm bánh,"
+    },
+    {
+      "start": 586.5,
+      "end": 588.3,
+      "text": "cửa hàng nhỏ hay một dịch vụ khác?"
+    },
+    {
+      "start": 588.433,
+      "end": 591.18,
+      "text": "Chia sẻ ở bình luận và theo dõi để cùng nhìn"
+    },
+    {
+      "start": 591.233,
+      "end": 593.02,
+      "text": "kỹ hơn cách những doanh nghiệp quanh ta vận"
+    },
+    {
+      "start": 593.068,
+      "end": 593.42,
+      "text": "hành."
+    }
+  ]
+}

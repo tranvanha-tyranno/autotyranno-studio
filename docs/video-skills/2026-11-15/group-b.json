@@ -1,0 +1,796 @@
+{
+  "schemaVersion": 1,
+  "auditDate": "2026-11-15",
+  "group": "b",
+  "scope": "editing_audio_workflow",
+  "policy": {
+    "externalSourceCodeExecuted": false,
+    "runtimeDependenciesInstalled": false,
+    "globalSkillInstallPerformed": false,
+    "paidCalls": false,
+    "modelTrainingPerformed": false,
+    "reviewIsNotRuntimeCertification": true
+  },
+  "acquisitionMethod": {
+    "primary": "git ls-remote HTTPS pins commit; GitHub/codeload archive by exact commit",
+    "maxArchiveBytes": 157286400,
+    "zipChecks": [
+      "reject absolute/traversal/escape paths",
+      "skip symlinks",
+      "skip junk caches/dependencies and unneeded binary media in review extraction",
+      "retain full original archive with SHA256"
+    ],
+    "note": "All 5 acquired archives retained full; filtered extraction is instruction-review copy. Child did not execute repository code."
+  },
+  "repositories": [
+    {
+      "repo": "MakeMyClip/editor",
+      "canonicalURL": "https://github.com/MakeMyClip/editor",
+      "commit": "7b12e942d171d9e8a7a7101eba3ead4d3378e9d8",
+      "branch": "main",
+      "archiveURL": "https://codeload.github.com/MakeMyClip/editor/zip/7b12e942d171d9e8a7a7101eba3ead4d3378e9d8",
+      "archiveSHA256": "116765f26b5154dece999b29da7f8bc102119f92aee40b3b48d0e48ff2081f1e",
+      "archiveBytes": 537268,
+      "archivePath": "docs/video-skills/2026-11-15/sources/MakeMyClip__editor/source.zip",
+      "extractedRoot": "docs/video-skills/2026-11-15/sources/MakeMyClip__editor/extracted",
+      "extractedFiles": 213,
+      "skipped": [],
+      "skillFiles": [
+        "SKILL.md"
+      ],
+      "licenseFiles": [
+        "LICENSE"
+      ],
+      "externalCodeExecuted": false,
+      "status": "downloaded_pinned_and_reviewed",
+      "license": "MIT",
+      "licenseEvidence": [
+        {
+          "path": "LICENSE",
+          "sha256": "d688d7a2c4048fa2dd06a5f305b1a18272629f6a95501e4ab409912a532e777d"
+        }
+      ],
+      "candidateCount": 1
+    },
+    {
+      "repo": "natyang1234/auto-edit-video-skill",
+      "canonicalURL": "https://github.com/natyang1234/auto-edit-video-skill",
+      "commit": "c54a2f2ebed4e6701fb5b211409b1e66c3d01ad8",
+      "branch": "main",
+      "archiveURL": "https://codeload.github.com/natyang1234/auto-edit-video-skill/zip/c54a2f2ebed4e6701fb5b211409b1e66c3d01ad8",
+      "archiveSHA256": "9b60b4d9bddfb302bf68c18c7db9ea4eedca9c6ca487938fcfc466449a057f05",
+      "archiveBytes": 5661236,
+      "archivePath": "docs/video-skills/2026-11-15/sources/natyang1234__auto-edit-video-skill/source.zip",
+      "extractedRoot": "docs/video-skills/2026-11-15/sources/natyang1234__auto-edit-video-skill/extracted",
+      "extractedFiles": 524,
+      "skipped": [
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\cash_coin\\cash-register-kaching-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\cash_coin\\register-cha-ching-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\click_pop\\clean-minimal-pop-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\click_pop\\pop-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\error_glitch\\digital-glitch-noise-hd-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\error_glitch\\error-sound-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\impact_hit\\combat-impact-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\impact_hit\\punch-impact-hit-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\success_ding\\ding-sfx-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\success_ding\\ui-success-chime-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\whoosh\\whoosh-effect-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        },
+        {
+          "path": "skills\\auto-edit-video\\assets\\sfx\\whoosh\\whoosh-motion-v1.wav",
+          "why": "large or binary media not needed for instruction review"
+        }
+      ],
+      "skillFiles": [
+        "skills/auto-edit-video/SKILL.md"
+      ],
+      "licenseFiles": [
+        "LICENSE",
+        "skills/auto-edit-video/LICENSE.txt",
+        "skills/auto-edit-video/assets/models/yunet/LICENSE",
+        "skills/auto-edit-video/scripts/vendor/opencc/LICENSE.txt"
+      ],
+      "externalCodeExecuted": false,
+      "status": "downloaded_pinned_and_reviewed",
+      "license": "MIT",
+      "licenseEvidence": [
+        {
+          "path": "LICENSE",
+          "sha256": "ed47482901dac74abf623309d635575c214e281ccebd09e8c55c8e85a223e119"
+        },
+        {
+          "path": "skills/auto-edit-video/LICENSE.txt",
+          "sha256": "ed47482901dac74abf623309d635575c214e281ccebd09e8c55c8e85a223e119"
+        },
+        {
+          "path": "skills/auto-edit-video/assets/models/yunet/LICENSE",
+          "sha256": "c83b8120c50ccbd4c4f96edf53141bdd566ebb8f8e9227e415326aa1b1aba958"
+        },
+        {
+          "path": "skills/auto-edit-video/scripts/vendor/opencc/LICENSE.txt",
+          "sha256": "18f3fedf9eac72e6054260489c764c1e54f63cf2b16055523f561ffeec7bc908"
+        }
+      ],
+      "candidateCount": 1
+    },
+    {
+      "repo": "agenticluke/claude-skill-video-editing-plus",
+      "canonicalURL": "https://github.com/agenticluke/claude-skill-video-editing-plus",
+      "commit": "51d66619b38ee8bde53f222a50afb29e4a4d1014",
+      "branch": "main",
+      "archiveURL": "https://codeload.github.com/agenticluke/claude-skill-video-editing-plus/zip/51d66619b38ee8bde53f222a50afb29e4a4d1014",
+      "archiveSHA256": "5afcb5f356efb99731165c189101ae57208432718da31b0d1b34a6c4fe96598c",
+      "archiveBytes": 1739187,
+      "archivePath": "docs/video-skills/2026-11-15/sources/agenticluke__claude-skill-video-editing-plus/source.zip",
+      "extractedRoot": "docs/video-skills/2026-11-15/sources/agenticluke__claude-skill-video-editing-plus/extracted",
+      "extractedFiles": 5,
+      "skipped": [],
+      "skillFiles": [
+        "skill/SKILL.md"
+      ],
+      "licenseFiles": [
+        "LICENSE"
+      ],
+      "externalCodeExecuted": false,
+      "status": "downloaded_pinned_and_reviewed",
+      "license": "MIT",
+      "licenseEvidence": [
+        {
+          "path": "LICENSE",
+          "sha256": "ef6298160edb6113aad25a76e6318f05527fee189e430b34cb8bcf029e5a38f0"
+        }
+      ],
+      "candidateCount": 1
+    },
+    {
+      "repo": "notque/vexjoy-agent",
+      "canonicalURL": "https://github.com/notque/vexjoy-agent",
+      "commit": "871f649901b317d675e63f2dcce2b6515e046230",
+      "branch": "main",
+      "archiveURL": "https://codeload.github.com/notque/vexjoy-agent/zip/871f649901b317d675e63f2dcce2b6515e046230",
+      "archiveSHA256": "88447bd871846fe884cf7b88abfeccc99778fd0e2e65fa883891744d7f424078",
+      "archiveBytes": 8291573,
+      "archivePath": "docs/video-skills/2026-11-15/sources/notque__vexjoy-agent/source.zip",
+      "extractedRoot": "docs/video-skills/2026-11-15/sources/notque__vexjoy-agent/extracted",
+      "extractedFiles": 2269,
+      "skipped": [],
+      "skillFiles": [
+        "skills/analysis/assessment/SKILL.md",
+        "skills/analysis/data/SKILL.md",
+        "skills/business/business-ops/SKILL.md",
+        "skills/code-quality/code-quality/SKILL.md",
+        "skills/code-quality/comment-quality/SKILL.md",
+        "skills/code-quality/condense/SKILL.md",
+        "skills/code-quality/joy-check/SKILL.md",
+        "skills/content/content/SKILL.md",
+        "skills/content/content-engine/SKILL.md",
+        "skills/content/headlines/SKILL.md",
+        "skills/content/image-gen/SKILL.md",
+        "skills/content/image-to-video/SKILL.md",
+        "skills/content/series-planner/SKILL.md",
+        "skills/content/topic-brainstormer/SKILL.md",
+        "skills/content/video-editing/SKILL.md",
+        "skills/content/writing/SKILL.md",
+        "skills/domain/domain/SKILL.md",
+        "skills/engineering/cli-design/SKILL.md",
+        "skills/frontend/frontend/SKILL.md",
+        "skills/frontend/frontend-slides/SKILL.md",
+        "skills/frontend/jev-design/SKILL.md",
+        "skills/frontend/webgl-card-effects/SKILL.md",
+        "skills/game/game-asset-generator/SKILL.md",
+        "skills/game/game-dev/SKILL.md",
+        "skills/game/game-trailer/SKILL.md",
+        "skills/game/motion-pipeline/SKILL.md",
+        "skills/infrastructure/browser-jev-automation/SKILL.md",
+        "skills/infrastructure/cve-source-check/SKILL.md",
+        "skills/infrastructure/deploy/SKILL.md",
+        "skills/infrastructure/endpoint-validator/SKILL.md",
+        "skills/infrastructure/headless-cron-creator/SKILL.md",
+        "skills/infrastructure/kubernetes/SKILL.md",
+        "skills/integrations/github/SKILL.md",
+        "skills/meta/accounts/SKILL.md",
+        "skills/meta/auto-dream/SKILL.md",
+        "skills/meta/building-with-jev/SKILL.md",
+        "skills/meta/codex/SKILL.md",
+        "skills/meta/d/SKILL.md",
+        "skills/meta/do/SKILL.md",
+        "skills/meta/docs-sync-checker/SKILL.md",
+        "skills/meta/grill-jev/SKILL.md",
+        "skills/meta/toolkit/SKILL.md",
+        "skills/meta/workflow-help/SKILL.md",
+        "skills/process/debugging/SKILL.md",
+        "skills/process/improve/SKILL.md",
+        "skills/process/plant-seed/SKILL.md",
+        "skills/process/pr-workflow/SKILL.md",
+        "skills/process/process/SKILL.md",
+        "skills/process/quick/SKILL.md",
+        "skills/process/testing/SKILL.md",
+        "skills/process/with-anti-rationalization/SKILL.md",
+        "skills/process/workflow/SKILL.md",
+        "skills/process/worktree-agent/SKILL.md",
+        "skills/programming/programming/SKILL.md",
+        "skills/research/architecture-deepening/SKILL.md",
+        "skills/research/codebase-analyzer/SKILL.md",
+        "skills/research/markdown-converter/SKILL.md",
+        "skills/research/news-collection/SKILL.md",
+        "skills/research/research/SKILL.md",
+        "skills/research/roast/SKILL.md",
+        "skills/research/video-transcript/SKILL.md",
+        "skills/review/integration-checker/SKILL.md",
+        "skills/review/review/SKILL.md",
+        "skills/review/security/SKILL.md"
+      ],
+      "licenseFiles": [
+        "LICENSE"
+      ],
+      "externalCodeExecuted": false,
+      "status": "downloaded_pinned_and_reviewed",
+      "license": "MIT",
+      "licenseEvidence": [
+        {
+          "path": "LICENSE",
+          "sha256": "8c84c4df93703ff7e5e0a223486d74d91b154a4c3c208b4c8f0592a6de1b84f4"
+        }
+      ],
+      "candidateCount": 1
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "canonicalURL": "https://github.com/salomonMuriel/media-production-skills",
+      "commit": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "branch": "main",
+      "archiveURL": "https://codeload.github.com/salomonMuriel/media-production-skills/zip/6ba42845c9d355776fb10091e47ee32e035509fc",
+      "archiveSHA256": "00cb5f81b9987fd6503a023d7e8ae1c3cb9acdc161d8d547cc5c527d4d607875",
+      "archiveBytes": 372650,
+      "archivePath": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/source.zip",
+      "extractedRoot": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/extracted",
+      "extractedFiles": 132,
+      "skipped": [],
+      "skillFiles": [
+        "skills/image-generation/SKILL.md",
+        "skills/scriptwriting/SKILL.md",
+        "skills/sound-design/SKILL.md",
+        "skills/video-director/SKILL.md",
+        "skills/voice-direction/SKILL.md"
+      ],
+      "licenseFiles": [
+        "LICENSE"
+      ],
+      "externalCodeExecuted": false,
+      "status": "downloaded_pinned_and_reviewed",
+      "license": "MIT",
+      "licenseEvidence": [
+        {
+          "path": "LICENSE",
+          "sha256": "6153990a3e9f7c3e45b09ced9db901b250fa4a2346baeb27d16415d662fa258b"
+        }
+      ],
+      "candidateCount": 5
+    }
+  ],
+  "candidates": [
+    {
+      "repo": "MakeMyClip/editor",
+      "ref": "7b12e942d171d9e8a7a7101eba3ead4d3378e9d8",
+      "commit": "7b12e942d171d9e8a7a7101eba3ead4d3378e9d8",
+      "path": ".",
+      "installRootRelativePath": ".",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/MakeMyClip__editor/extracted",
+      "name": "editor",
+      "suggestedInstallName": "makemyclip-editor",
+      "description": "Local, open-source video editor that agents drive with FFmpeg and whisper.cpp. Use when the user wants to edit a video file - cut out silence, pauses or dead air; remove repeated takes or cut words using the transcript; add captions or subtitles; trim, split, join or crossfade clips; add text, title cards or zoom; clean up a talking-head video, screen recording, tutorial or podcast; render an mp4; or export the cut to Final Cut Pro, DaVinci Resolve or Premiere Pro (FCPXML / XML). Runs offline with no API key; every timeline edit can be undone; no generative AI.",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Node >=24",
+        "FFmpeg: ffmpeg-static may download on first npx use or MAKEMYCLIP_FFMPEG_PATH",
+        "whisper.cpp plus local model for transcript operations",
+        "npx @makemyclip/editor CLI; may fetch a package at runtime"
+      ],
+      "outsideFolderReferences": [],
+      "conflictsAndOverrides": [
+        "Offline/no API key refers to editing after runtime dependencies exist; do not claim no network on first npx/FFmpeg setup.",
+        "Use captions/text only when requested; preserve current no-subtitle direction."
+      ],
+      "usefulLessons": [
+        "Undoable edit decision timeline; cut transcript not narration duration filler; source preservation; NLE interchange."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/MakeMyClip__editor/extracted/SKILL.md",
+        "skillSHA256": "5e28333ecb6a3a600937c04282671d21aa486d1017357facf12427dde6d092eb",
+        "keyReferencesFullyRead": [],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "natyang1234/auto-edit-video-skill",
+      "ref": "c54a2f2ebed4e6701fb5b211409b1e66c3d01ad8",
+      "commit": "c54a2f2ebed4e6701fb5b211409b1e66c3d01ad8",
+      "path": "skills/auto-edit-video",
+      "installRootRelativePath": "skills/auto-edit-video",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/natyang1234__auto-edit-video-skill/extracted/skills/auto-edit-video",
+      "name": "auto-edit-video",
+      "suggestedInstallName": "auto-edit-video",
+      "description": "\"Edit a local video file end to end: transcript, conservative cuts (silence, fillers, stutters, repeats), export MP4, QA. Use when the user gives a video path and asks to auto edit, clean up speech, or make a short highlight. Local Studio UI only if asked. No external upload; CapCut only as the semi-auto `export-capcut` draft (nat polishes in CapCut).\"",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Python and FFmpeg/local Whisper for portable core",
+        "macOS CoreText/pyobjc and fonttools==4.62.1, /opt/homebrew/bin/python3.14 for advanced Studio/caption route",
+        "Optional local Ollama and optional sibling skills; absent routes do not block standalone core"
+      ],
+      "outsideFolderReferences": [
+        "~/.claude/skills/story-rhythm-sound/SKILL.md (optional)",
+        "~/.claude/skills/edit-style-profiles/references/filmcraft-foundations/README.md (optional)",
+        "~/.claude/skills/edit-style-profiles/references/asset-gap-sourcing.md (optional)",
+        "Other documented optional sibling routes: suggest-sfx, Hyperframes, rembg, Rumi; not bundled"
+      ],
+      "conflictsAndOverrides": [
+        "Default rail captions/cards are not the current bread-film style.",
+        "Approval gates apply only where needed within actual authorization; installation does not authorize paid generation or runtime setup.",
+        "Windows core/runtime compatibility was not tested; macOS advanced modes must not be represented as ready here.",
+        "12 bundled external WAVs are in the full archive but omitted from review extraction; installer should use archive to restore them only if needed, preserving asset license/provenance. Publisher metadata is not an independent asset-license verification."
+      ],
+      "usefulLessons": [
+        "Conservative local edit planning; exact hashes; asset receipts and gap sourcing; explicit cue list; SFX onset measured after cuts; no duration padding."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/natyang1234__auto-edit-video-skill/extracted/skills/auto-edit-video/SKILL.md",
+        "skillSHA256": "aadea8a5067f5cef5a06ae449abc2e3977bc2b59bca505b65b59bef2f77ef97a",
+        "keyReferencesFullyRead": [
+          {
+            "path": "skills/auto-edit-video/references/SFX.md",
+            "sha256": "1ced6fa83e083bcd4e702a0a8c55c602023cb0b85a319b35cbf71aec36449bd3"
+          }
+        ],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "agenticluke/claude-skill-video-editing-plus",
+      "ref": "51d66619b38ee8bde53f222a50afb29e4a4d1014",
+      "commit": "51d66619b38ee8bde53f222a50afb29e4a4d1014",
+      "path": "skill",
+      "installRootRelativePath": "skill",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/agenticluke__claude-skill-video-editing-plus/extracted/skill",
+      "name": "video-editing",
+      "suggestedInstallName": "video-editing-plus",
+      "description": "AI-assisted workflows for cutting, structuring, reframing, and augmenting existing footage. Covers raw capture, edit planning, FFmpeg, Remotion, optional generated assets, captions, audio mixing, and final polish. Use when the user wants to edit footage, create a vlog or tutorial, extract short-form clips, add overlays or voiceover, or prepare video for multiple platforms.",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "FFmpeg/ffprobe",
+        "Optional Remotion and a transcription provider/local STT",
+        "Optional cloud generation is separate and not authorized by installation"
+      ],
+      "outsideFolderReferences": [],
+      "conflictsAndOverrides": [
+        "Name video-editing collides with notque candidate; alias installation metadata only, preserve pinned archive.",
+        "Bash examples need Windows adaptation; existing approved Remotion API and user visual preferences take precedence."
+      ],
+      "usefulLessons": [
+        "EDL before render; purpose for every cut; preserve source; deterministic editing of existing footage."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/agenticluke__claude-skill-video-editing-plus/extracted/skill/SKILL.md",
+        "skillSHA256": "83d82edcf3a28e4e86ef77e564c8712cdd3a4a3f0ab08bb985037c8006dd02ee",
+        "keyReferencesFullyRead": [],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "notque/vexjoy-agent",
+      "ref": "871f649901b317d675e63f2dcce2b6515e046230",
+      "commit": "871f649901b317d675e63f2dcce2b6515e046230",
+      "path": "skills/content/video-editing",
+      "installRootRelativePath": "skills/content/video-editing",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/notque__vexjoy-agent/extracted/skills/content/video-editing",
+      "name": "video-editing",
+      "suggestedInstallName": "vexjoy-video-editing",
+      "description": "\"Video editing pipeline: cut footage, assemble clips via FFmpeg and Remotion.\"",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "FFmpeg/ffprobe",
+        "Optional Remotion, STT, and generation services",
+        "Agent routing names are specific to the source author environment"
+      ],
+      "outsideFolderReferences": [
+        "agent:python-general-engineer and typescript-frontend-engineer are external role references",
+        "Optional research and fal-ai-media skills are not in this install folder"
+      ],
+      "conflictsAndOverrides": [
+        "Name video-editing collides with agenticluke; use distinct install alias.",
+        "Phase 6 prohibition on programmatic color/audio/ducking/captions conflicts with user-authorized end-to-end local production: reject that body instruction for this project, not the whole package.",
+        "Static image+waveform or microphone route is only an explicit image-to-video option and must not replace the rejected-slide rules/current footage+simulation direction.",
+        "Old ElevenLabs monolingual v1 example must not replace user-selected OpenAI voice or pinned narration.",
+        "No extra permission question is implied merely by installing this source."
+      ],
+      "usefulLessons": [
+        "Capture -> transcript/EDL -> clean cut -> overlay -> optional missing-asset generation -> polish is a useful separation."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/notque__vexjoy-agent/extracted/skills/content/video-editing/SKILL.md",
+        "skillSHA256": "7e74d90b8a3ffb924c160c580d8cb8001a72e81f322dd533f35a414c5668a3f3",
+        "keyReferencesFullyRead": [
+          {
+            "path": "skills/content/video-editing/references/phase-commands.md",
+            "sha256": "2995c041f789aafad975f04111191e2f3df75e64d97ff3c9bcf34d728bcc9cbc"
+          },
+          {
+            "path": "skills/content/video-editing/references/image-to-video.md",
+            "sha256": "e565f29c1a211bfc4e42f451383cbb89652f0998bd9c499ae508bdf4377dbf34"
+          }
+        ],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "ref": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "commit": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "path": "skills/video-director",
+      "installRootRelativePath": "skills/video-director",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/extracted/skills/video-director",
+      "name": "video-director",
+      "suggestedInstallName": "media-video-director",
+      "description": "Director-level video production for any product, built in Remotion. Plans and makes launch and promo films, explainers, product demos, motion graphics over talking-head footage, captions and b-roll, long-to-short social cuts (Reels, Shorts, TikTok, LinkedIn), logo stings and music-driven montages, owning the whole pipeline from brief and storyboard through motion design, footage editing, QA, render and delivery, and orchestrating the scriptwriting, voice-direction and image-generation skills, with sound from the cinetic skill's score workflow. Reads the official Remotion skills on demand for the API. Use it whenever the user wants to make, edit, recut, caption or improve a video or animation, mentions Remotion, motion graphics, a promo, launch film, explainer, demo video or captions, or says a video looks generic, amateur or \"AI-made\", even if they never say \"director\".",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Official Remotion skill/API and Node/FFmpeg",
+        "Sibling scriptwriting, voice-direction, image-generation, and sound-design helper",
+        "External cinetic sound workflow and EARSHOT_PYTHON are not bundled",
+        "Optional OpenRouter for media_judge; paid network use not invoked"
+      ],
+      "outsideFolderReferences": [
+        "Sibling skills are referenced by original names and ~/.claude/skills/... paths; resolve actual Codex install directory instead of assuming Claude paths.",
+        "Root LICENSE is outside each candidate folder; preserve a copy with installed distributions.",
+        "cinetic/references/sound.md and cinetic/scripts/audio/{kit,score,listen}.py are missing from repo",
+        "scripts/render_masters.sh resolves ../../sound-design/scripts/audio_qa.py, then ~/.claude/skills/sound-design/scripts/audio_qa.py. Installing renamed sibling alone breaks this automatic lookup.",
+        "voice/image/sound helpers are in sibling folders, not video-director alone"
+      ],
+      "conflictsAndOverrides": [
+        "Rule exactly one review/no re-check after fixes is not accepted: verify any repaired defect and unresolved concern.",
+        "Music-led bar retiming is only for a music-clock piece; current narration must remain the clock.",
+        "Sound routing requires missing cinetic; do not claim a ready runtime after installing this folder.",
+        "Animation density heuristics and still sheets are not acceptance, continuous motion/audio review or evidence of cinematic quality."
+      ],
+      "usefulLessons": [
+        "One audience/message and explicit clock; unfolding state changes; verify numbers and illustrative labels; independent restate test; inspect actual seams and crops."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/salomonMuriel__media-production-skills/extracted/skills/video-director/SKILL.md",
+        "skillSHA256": "26a3f9d09b0362a2df2d913b08f87a37ac2b3d9a15a6329f3c65e58deb452b3d",
+        "keyReferencesFullyRead": [
+          {
+            "path": "skills/video-director/references/qa.md",
+            "sha256": "4dfb1a862b37a9a47c83ddebe18da337ce5bd2be90f610d3bbd52e65e5822034"
+          }
+        ],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "ref": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "commit": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "path": "skills/scriptwriting",
+      "installRootRelativePath": "skills/scriptwriting",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/extracted/skills/scriptwriting",
+      "name": "scriptwriting",
+      "suggestedInstallName": "media-scriptwriting",
+      "description": "Story and script craft for anything spoken or shown in sequence: video scripts, ads of every length (6, 15, 30, 60, 90 s), launch and brand films, explainers, demos, tutorials, testimonials, founder stories, trailers, short-form hooks for Reels, Shorts and TikTok, podcast and talk openings, voiceover copy and on-screen text. Chooses a structure on purpose (ABT, story spine, story circle, SCQA, StoryBrand, PAS, BAB, keynote reveal, trailer), writes hooks as three tracks, writes for the ear, strips AI-sounding mannerisms, localises properly, and tests the script before anything is produced. Use it whenever the user wants to write, rewrite, tighten or critique a script, hook, voiceover, ad copy for video, storyboard copy or narration, or asks why a script feels generic or AI-written, even if they don't say \"script\". The video-director skill calls it for the script.",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Markdown guidance; no runtime needed"
+      ],
+      "outsideFolderReferences": [
+        "Sibling skills are referenced by original names and ~/.claude/skills/... paths; resolve actual Codex install directory instead of assuming Claude paths.",
+        "Root LICENSE is outside each candidate folder; preserve a copy with installed distributions."
+      ],
+      "conflictsAndOverrides": [
+        "Hook word counts, CTA rules and anti-copy lists are heuristics, not permission to override the current Vietnamese story or force a sales video.",
+        "No invented fact, outcome or evidence to strengthen a hook."
+      ],
+      "usefulLessons": [
+        "One central question; causal turn per beat; open loops that pay off; signpost actual topic changes; three distinct hook tracks."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/salomonMuriel__media-production-skills/extracted/skills/scriptwriting/SKILL.md",
+        "skillSHA256": "959df354eb86a0741fbcdc70d8e0d30383a08ca9301c284a4db4d20c9944c7d1",
+        "keyReferencesFullyRead": [
+          {
+            "path": "skills/scriptwriting/references/hooks.md",
+            "sha256": "14e49bc95ac4b0cc7cb19657bf795f636fce8d44b560f612666fb2fe745d5f98"
+          }
+        ],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "ref": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "commit": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "path": "skills/voice-direction",
+      "installRootRelativePath": "skills/voice-direction",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/extracted/skills/voice-direction",
+      "name": "voice-direction",
+      "suggestedInstallName": "media-voice-direction",
+      "description": "Casting, directing, recording and checking AI voices (ElevenLabs first; OpenAI, Gemini, Cartesia, Hume, Fish as alternatives) for any product: video voiceover, ads, explainers, app audio such as word or flashcard pronunciations, onboarding prompts, podcasts and characters. Matches voice, model, settings, tags and script writing to the feeling wanted (warm, trustworthy, hype, calm, premium, playful and more), keeps a specific language and regional accent, screens voices and takes for static, verifies takes without ears (noise floor, loudness, speech-to-text with repeats), runs blind casting tests, and builds loudness-matched files with word timings. Use it whenever the user wants to generate, choose, direct, fix or evaluate a synthetic voice, mentions ElevenLabs, TTS, voiceover, narration, accents or a voice that sounds breathy, robotic, noisy or foreign, even if they don't say \"voice direction\". The video-director skill calls it for voiceover.",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Python uv helper dependencies declared per script",
+        "FFmpeg and optional transcription",
+        "ElevenLabs for its provider helpers; optional OpenRouter judge"
+      ],
+      "outsideFolderReferences": [
+        "Sibling skills are referenced by original names and ~/.claude/skills/... paths; resolve actual Codex install directory instead of assuming Claude paths.",
+        "Root LICENSE is outside each candidate folder; preserve a copy with installed distributions.",
+        "~/.claude/skills/video-director/scripts/media_judge.py is outside folder"
+      ],
+      "conflictsAndOverrides": [
+        "ElevenLabs-first recommendations do not override requested OpenAI voice.",
+        "Provider/model claims not independently revalidated against official API documentation in this audit.",
+        "Do not automatically generate multiple paid takes; installation is not production authorization.",
+        "Default atempo adjustments must not replace natural speech timing or alter an approved take."
+      ],
+      "usefulLessons": [
+        "Direction by intent, accent and phrase; compare takes blind; retain original takes and report actual QA limits."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/salomonMuriel__media-production-skills/extracted/skills/voice-direction/SKILL.md",
+        "skillSHA256": "55a84bb091f0fbe3f058fd02a5bfa00b7d755f54bb651bed77ee417389372fa5",
+        "keyReferencesFullyRead": [],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "ref": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "commit": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "path": "skills/image-generation",
+      "installRootRelativePath": "skills/image-generation",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/extracted/skills/image-generation",
+      "name": "image-generation",
+      "suggestedInstallName": "media-image-generation",
+      "description": "AI image generation for any product with OpenAI GPT Image (default) and Gemini, FLUX, Recraft, Ideogram or Seedream when they fit better: illustrations and characters, storybook and app art, marketing and share images, backgrounds and plates, storyboard frames, keyframes for image-to-video, and cutout elements for motion graphics. Writes structured prompts with a locked style suffix, keeps characters, palette and style consistent across 20 to 50 images with cast sheets and references, sizes images for camera moves, makes clean cutouts, reviews its own output like a hostile art director, controls cost, and keeps generated content honest and legally safe. Use it whenever the user wants to generate, edit, restyle, cut out or review AI images, mentions gpt-image, DALL-E, Nano Banana, Midjourney, FLUX or \"make an illustration\", or asks for consistent characters or a visual style, even if they don't say \"image generation\". The video-director skill calls it for film assets.",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Python uv helper dependencies declared per script",
+        "Provider keys/paid image APIs for generation helpers"
+      ],
+      "outsideFolderReferences": [
+        "Sibling skills are referenced by original names and ~/.claude/skills/... paths; resolve actual Codex install directory instead of assuming Claude paths.",
+        "Root LICENSE is outside each candidate folder; preserve a copy with installed distributions."
+      ],
+      "conflictsAndOverrides": [
+        "Overlaps official imagegen; official installed image skill/tool constraints take precedence.",
+        "No automatic paid batch or external upload from installation.",
+        "Model/version claims not current-API verified here; images do not establish real people or facts."
+      ],
+      "usefulLessons": [
+        "Stable subject/cast reference, planned shot variants, inspect generated pixels and alpha rather than trusting prompts."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/salomonMuriel__media-production-skills/extracted/skills/image-generation/SKILL.md",
+        "skillSHA256": "4a22f7dd1351c9955fa49d9443c37655bbeec13bf213400f2c2a0a1c3fe05e2a",
+        "keyReferencesFullyRead": [],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "ref": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "commit": "6ba42845c9d355776fb10091e47ee32e035509fc",
+      "path": "skills/sound-design",
+      "installRootRelativePath": "skills/sound-design",
+      "sourceDirectory": "docs/video-skills/2026-11-15/sources/salomonMuriel__media-production-skills/extracted/skills/sound-design",
+      "name": "sound-design",
+      "suggestedInstallName": "media-sound-design",
+      "description": "Music, sound effects, mixing and loudness for podcasts, apps and games (app UI sounds, podcast mixes, audio files). Chooses and analyses music (tempo, bars, key, energy, finding the drop), edits it on bars with blind listening tests, syncs picture to beats, places SFX by their measured transient, synthesises a deterministic foley and UI sound kit tuned to the song's key, ducks music under voice, mixes offline from a cue list into stems and a master, and masters to platform loudness (-14 LUFS / -1 dBTP for social, -16 for podcasts) measured on the final file. Use it whenever the user wants to pick, cut, sync or score music, add or design sound effects or UI sounds, mix voice and music, fix levels or loudness, or check how a file measures, even if they don't say \"sound design\". Not for sound in videos: video-director uses the cinetic skill's score workflow for that.",
+      "decision": "install_with_documented_overrides",
+      "scope": "instructions_and_bundled_resources; no runtime execution authorized by this audit",
+      "dependencies": [
+        "Python uv helper dependencies, FFmpeg, local lib_audio",
+        "Optional OpenRouter judge through sibling video-director",
+        "Video use is routed by author to external cinetic, not this folder"
+      ],
+      "outsideFolderReferences": [
+        "Sibling skills are referenced by original names and ~/.claude/skills/... paths; resolve actual Codex install directory instead of assuming Claude paths.",
+        "Root LICENSE is outside each candidate folder; preserve a copy with installed distributions.",
+        "~/.claude/skills/video-director/scripts/media_judge.py is outside folder",
+        "cinetic sound route is outside this repository; lib_audio itself is included under scripts/lib_audio"
+      ],
+      "conflictsAndOverrides": [
+        "Author scopes this to podcasts/apps/games; do not blindly apply its separate video prohibition as a refusal of user-authorized audio work.",
+        "Every event gets SFX and fixed density/gain thresholds are stylistic defaults; narration clarity and context win.",
+        "Measured levels/automated judges are not continuous listening or aesthetic proof.",
+        "Procedural kit must not silently substitute for the explicitly requested licensed web SFX collection."
+      ],
+      "usefulLessons": [
+        "Align SFX by measured attack/peak to visible action; rebuild cue times after picture lock; preserve stems, provenance and actual measured loudness."
+      ],
+      "reviewCoverage": {
+        "skillFullRead": true,
+        "skillPath": "sources/salomonMuriel__media-production-skills/extracted/skills/sound-design/SKILL.md",
+        "skillSHA256": "ec1974f6da14711d0c16a0669be93edee14e0751161c123cb4311756ac2d0860",
+        "keyReferencesFullyRead": [
+          {
+            "path": "skills/sound-design/references/sfx.md",
+            "sha256": "164aaa1faf1de242d27ee0bb459f3a7156026cd31930aed1b8e3d7350f85d2b6"
+          }
+        ],
+        "scriptsExecuted": false,
+        "runtimeTested": false,
+        "allRepoFilesRead": false
+      }
+    }
+  ],
+  "unavailable": [
+    {
+      "repo": "ayaanrustagi/cinematic-edit",
+      "canonicalURL": "https://github.com/ayaanrustagi/cinematic-edit",
+      "status": "unavailable",
+      "evidence": [
+        "git ls-remote HTTPS returned repository not found",
+        "Canonical GitHub URL returned 404 during web verification"
+      ],
+      "commit": null,
+      "archiveSHA256": null,
+      "candidates": [],
+      "reason": "No accessible primary repository; third-party mentions do not establish an installable source."
+    }
+  ],
+  "rejectedInstructions": [
+    {
+      "repo": "MakeMyClip/editor",
+      "name": "editor",
+      "overrides": [
+        "Offline/no API key refers to editing after runtime dependencies exist; do not claim no network on first npx/FFmpeg setup.",
+        "Use captions/text only when requested; preserve current no-subtitle direction."
+      ]
+    },
+    {
+      "repo": "natyang1234/auto-edit-video-skill",
+      "name": "auto-edit-video",
+      "overrides": [
+        "Default rail captions/cards are not the current bread-film style.",
+        "Approval gates apply only where needed within actual authorization; installation does not authorize paid generation or runtime setup.",
+        "Windows core/runtime compatibility was not tested; macOS advanced modes must not be represented as ready here.",
+        "12 bundled external WAVs are in the full archive but omitted from review extraction; installer should use archive to restore them only if needed, preserving asset license/provenance. Publisher metadata is not an independent asset-license verification."
+      ]
+    },
+    {
+      "repo": "agenticluke/claude-skill-video-editing-plus",
+      "name": "video-editing",
+      "overrides": [
+        "Name video-editing collides with notque candidate; alias installation metadata only, preserve pinned archive.",
+        "Bash examples need Windows adaptation; existing approved Remotion API and user visual preferences take precedence."
+      ]
+    },
+    {
+      "repo": "notque/vexjoy-agent",
+      "name": "video-editing",
+      "overrides": [
+        "Name video-editing collides with agenticluke; use distinct install alias.",
+        "Phase 6 prohibition on programmatic color/audio/ducking/captions conflicts with user-authorized end-to-end local production: reject that body instruction for this project, not the whole package.",
+        "Static image+waveform or microphone route is only an explicit image-to-video option and must not replace the rejected-slide rules/current footage+simulation direction.",
+        "Old ElevenLabs monolingual v1 example must not replace user-selected OpenAI voice or pinned narration.",
+        "No extra permission question is implied merely by installing this source."
+      ]
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "name": "video-director",
+      "overrides": [
+        "Rule exactly one review/no re-check after fixes is not accepted: verify any repaired defect and unresolved concern.",
+        "Music-led bar retiming is only for a music-clock piece; current narration must remain the clock.",
+        "Sound routing requires missing cinetic; do not claim a ready runtime after installing this folder.",
+        "Animation density heuristics and still sheets are not acceptance, continuous motion/audio review or evidence of cinematic quality."
+      ]
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "name": "scriptwriting",
+      "overrides": [
+        "Hook word counts, CTA rules and anti-copy lists are heuristics, not permission to override the current Vietnamese story or force a sales video.",
+        "No invented fact, outcome or evidence to strengthen a hook."
+      ]
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "name": "voice-direction",
+      "overrides": [
+        "ElevenLabs-first recommendations do not override requested OpenAI voice.",
+        "Provider/model claims not independently revalidated against official API documentation in this audit.",
+        "Do not automatically generate multiple paid takes; installation is not production authorization.",
+        "Default atempo adjustments must not replace natural speech timing or alter an approved take."
+      ]
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "name": "image-generation",
+      "overrides": [
+        "Overlaps official imagegen; official installed image skill/tool constraints take precedence.",
+        "No automatic paid batch or external upload from installation.",
+        "Model/version claims not current-API verified here; images do not establish real people or facts."
+      ]
+    },
+    {
+      "repo": "salomonMuriel/media-production-skills",
+      "name": "sound-design",
+      "overrides": [
+        "Author scopes this to podcasts/apps/games; do not blindly apply its separate video prohibition as a refusal of user-authorized audio work.",
+        "Every event gets SFX and fixed density/gain thresholds are stylistic defaults; narration clarity and context win.",
+        "Measured levels/automated judges are not continuous listening or aesthetic proof.",
+        "Procedural kit must not silently substitute for the explicitly requested licensed web SFX collection."
+      ]
+    }
+  ],
+  "reviewLimitations": [
+    "All 9 candidate SKILL.md files fully read; only the explicitly listed key references were fully read, not every reference/script in repositories.",
+    "Root README/license and targeted dependency text inspected, not a full security audit.",
+    "No external runtime scripts executed, package installs, continuous AV review, or provider tests.",
+    "No claim of training model weights or automatic improvement merely from installed skills."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Lăng Kính / Tyranno",
+  "styles": [
+    "hero",
+    "full_bleed",
+    "editorial",
+    "split",
+    "filmstrip",
+    "inset",
+    "closing"
+  ],
+  "mic": false,
+  "waveform": false,
+  "frames": 1500,
+  "sound_cues": 10,
+  "version": 2
+}

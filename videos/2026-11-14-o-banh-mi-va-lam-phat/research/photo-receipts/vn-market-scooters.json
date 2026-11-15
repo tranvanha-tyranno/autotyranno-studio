@@ -1,0 +1,48 @@
+{
+  "id": "vn-market-scooters",
+  "file": "assets/vn-market-scooters.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 28463355,
+  "sourceURL": "https://www.pexels.com/photo/bustling-street-market-scene-in-vietnam-28463355/",
+  "downloadURL": "https://images.pexels.com/photos/28463355/pexels-photo-28463355.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Sam Tan",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "4c47de35f059d11a29a2dd257638924f80fcba114bf17c0e0473fbb486436dbd",
+  "width": 2400,
+  "height": 3000,
+  "tags": [
+    "market"
+  ],
+  "credit": "Sam Tan / Pexels",
+  "expectedFromSource": "Street market and scooters",
+  "observed": "Narrow market lane with flowers/produce at left, striped awnings and scooter riders. Full portrait retains crowded lane and market setting.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "4c47de35f059d11a29a2dd257638924f80fcba114bf17c0e0473fbb486436dbd"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Vietnam context per retained source receipt. No measured crowd demand, purchasing volume or current price inferred.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/vn-market-scooters.jpg",
+  "location": {
+    "countryCode": "VN",
+    "place": "Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/bustling-street-market-scene-in-vietnam-28463355/",
+    "evidence": "Prior source receipt records primary photo page location field as Vietnam."
+  }
+}

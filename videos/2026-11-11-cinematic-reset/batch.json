@@ -1,0 +1,54 @@
+{
+  "title": "Một nghìn tỷ: tiền đi qua, giá trị ở lại",
+  "duration_seconds": 50,
+  "script": "Một nghìn tỷ đô la. Một con số đủ lớn để khiến chúng ta choáng ngợp. Nhưng khoan. Đó là kim ngạch, không phải lợi nhuận. Một bên đo quy mô giao dịch. Một bên chỉ còn lại sau khi trừ chi phí. Mười tháng năm hai nghìn không trăm hai mươi sáu, thương mại Việt Nam vượt mốc này. Con số ấy cộng cả hàng bán ra lẫn hàng mua vào. Hàng đi ra thế giới, nguyên liệu lại đi vào nhà máy. Hãy nhìn một đường may. Đơn hàng lớn, nhưng vải, máy móc và thiết kế đều phải mua. Doanh thu đi qua xưởng, chưa chắc đã là tiền ở lại. Với nền kinh tế cũng vậy. Muốn tiến xa, cần làm chủ công nghệ, thiết kế và thương hiệu. Kỷ lục là một khởi đầu đáng mừng. Nhưng câu hỏi dài hạn vẫn còn: Việt Nam sẽ chỉ bán nhiều hơn, hay sẽ làm chủ nhiều hơn?",
+  "voice": {
+    "id": "6adFm46eyy74snVn6YrT",
+    "name": "Nhật Phong — Narrative & Compelling",
+    "model": "eleven_v3"
+  },
+  "design": "3D motion graphics with kinetic typography, globe trade paths and dimensional flow objects",
+  "previous_work": "videos/2026-11-11-ten-pass-review",
+  "sources": [
+    {
+      "url": "https://baochinhphu.vn/nhung-diem-sang-noi-bat-trong-buc-tranh-kinh-te-10-thang-102261103160431984.htm",
+      "claim": "10-month 2026 trade milestone; archived research-source.html",
+      "classification": "reported fact"
+    },
+    {
+      "claim": "Kim ngạch xuất nhập khẩu cộng xuất khẩu và nhập khẩu; không phải lợi nhuận",
+      "classification": "definition"
+    },
+    {
+      "claim": "Xưởng may và linh kiện là ví dụ giải thích; không phải thống kê exact unit or sector",
+      "classification": "explicit analogy"
+    },
+    {
+      "claim": "Cần tăng năng suất, công nghệ, thương hiệu",
+      "classification": "analysis, not a promise of income"
+    },
+    {
+      "url": "https://baochinhphu.vn/vuot-moc-1000-ty-usd-kim-ngach-xuat-nhap-khau-xac-lap-muc-cao-nhat-tu-truoc-toi-nay-102261103135046083.htm",
+      "snapshot": "fact-source-1.html",
+      "classification": "primary official reporting",
+      "scope": "reported trade milestone"
+    },
+    {
+      "url": "https://baochinhphu.vn/nang-cao-ham-luong-gia-tri-viet-nam-trong-moi-san-pham-xuat-khau-102261103115808577.htm",
+      "snapshot": "fact-source-2.html",
+      "classification": "primary official reporting",
+      "scope": "domestic value and production linkage"
+    }
+  ],
+  "voiceAsset": "audio/narration-v2.mp3",
+  "userDirection": "Motion graphics mạnh, 3D và chữ động",
+  "userAcceptance": "approved",
+  "visualSource": "Native Three.js geometry and texture-mapped globe, with two short licensed sewing clips; no successful Muse generated video in this batch.",
+  "userApproval": {
+    "status": "approved",
+    "date": "2026-11-11",
+    "evidence": "Explicit user feedback in this chat",
+    "userQuote": "rất ok nhớ lưu lại chổ này giộng dọc sound và toàn bộ những cái này nhé tôi sẽ kêu bạn tiến hành làm 1 video sau",
+    "scope": "Current final video, narrator, sound/music, 3D/kinetic visual style and edit approach; reuse as baseline for future requested videos"
+  }
+}

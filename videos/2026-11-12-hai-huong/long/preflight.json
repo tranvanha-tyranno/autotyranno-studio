@@ -1,0 +1,17 @@
+{
+  "frames": 2460,
+  "seconds": 82,
+  "naturalVoiceSeconds": 80.12,
+  "lastWordEnd": 80.08,
+  "tempo": 1.0,
+  "scriptWords": 287,
+  "shots": 26,
+  "uniquePhotos": 23,
+  "photoPlacements": 33,
+  "gallery3DSeconds": 7.7,
+  "gallery3DFraction": 0.09390243902439024,
+  "captionMaxCharacters": 44,
+  "allNarrationWordsAligned": true,
+  "visualInspection": "Pending render review; source images reused with verified hashes and recorded crop",
+  "userAcceptance": "pending"
+}

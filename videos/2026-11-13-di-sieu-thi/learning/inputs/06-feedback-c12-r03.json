@@ -1,0 +1,46 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r03",
+  "dimension": "visual_relevance",
+  "decision": "revision_needed",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "c12-graphic-visibility",
+    "narration": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.",
+    "start": 124.73333333333333,
+    "end": 135.13333333333333
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "The actual r03 frame clips the left heading, one-carton comparison,30.000đ and part of the hypothetical header because a wide graphic is covered into the narrow left panel. Correct source bytes did not preserve the comparison after layout.",
+  "action": "Use contain for the meaningful price graphic so both alternatives, quantities, unit prices and hypothetical scope remain visible; inspect the actual new render again.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r03/long/final.mp4",
+      "sha256": "c728aeea794910b854540e8e6e629858ac484dc0957fdeb1861f68bc10a15bee"
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-c12-r03.jpg",
+      "sha256": "f2889d7037a9d72f25f4524d29493561f09303b9b36be8f1ed1ee60a33de1352"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/independent-r03-visual-review.md",
+      "sha256": "51c997465d9f60a78545aee25db83de8e8f234e6b4e3e0e859ef5197b0eaffef"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-loss-r03-review.md",
+      "sha256": "2352cb2d8e3565f60a66cd23a3d0e3ba55061f11c5928213a9b4145f5545bd52"
+    }
+  ]
+}

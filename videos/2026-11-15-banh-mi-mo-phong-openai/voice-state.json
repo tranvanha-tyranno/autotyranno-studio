@@ -1,0 +1,9 @@
+{
+  "status": "OpenAI blocked; visual preview uses retained Nam Minh take",
+  "voice": "vi-VN-NamMinhNeural",
+  "provisional": true,
+  "openaiVoiceProduced": false,
+  "blocker": "Two supplied project keys returned401 invalid_api_key; no successful OpenAI audio generated.",
+  "originalSource": "videos/2026-11-14-banh-mi-documentary/audio/narration.wav",
+  "sha256": "957483b138d569ef778bdbaca80b7be48af33f4454489e0ab3ac8c1a37705533"
+}

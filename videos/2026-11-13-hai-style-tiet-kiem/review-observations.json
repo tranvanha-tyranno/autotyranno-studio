@@ -1,0 +1,97 @@
+{
+  "method": "Sampled rendered frames and contact sheets, not continuous audiovisual watching or audio listening",
+  "userApproval": "pending",
+  "observations": [
+    {
+      "style": "cast",
+      "revision": "r01",
+      "issue": "Red arrow crosses salary numeral in before and after scenes",
+      "evidence": [
+        "r01/nhan-vat/qa/s03-2-0491.jpg",
+        "r01/nhan-vat/qa/s04-2-0760.jpg"
+      ],
+      "evidenceHashes": {
+        "r01/nhan-vat/qa/s03-2-0491.jpg": "606cd7d72bbef5a1dedc7a3a3464e16bf675ed91731e34ceffb7a6ec40a86260",
+        "r01/nhan-vat/qa/s04-2-0760.jpg": "8ee9126b9748b7131511026f936e9366380e08a8a235dcf200518cace198c4ab"
+      }
+    },
+    {
+      "style": "cast",
+      "revision": "r03",
+      "change": "Arrow moved to y510 below numeral",
+      "verified": "Viewed both full corrected midframes; numeral unobstructed",
+      "evidence": [
+        "r03/nhan-vat/qa/s03-2-0491.jpg",
+        "r03/nhan-vat/qa/s04-2-0760.jpg"
+      ],
+      "evidenceHashes": {
+        "r03/nhan-vat/qa/s03-2-0491.jpg": "1af0a803f3a4253924c207832b13e00b30cb1c2efaccfa622794a34940c7438c",
+        "r03/nhan-vat/qa/s04-2-0760.jpg": "93933aed8e158616c96de64b5ec783d2177faa503e4565014674d343ade2e410"
+      }
+    },
+    {
+      "style": "minimal",
+      "revision": "r02",
+      "verified": "Viewed contact sheet and sampled transfer/choice frames: labels fit, essential-cost caveat visible, coin reaches target and stays with completion label",
+      "evidence": [
+        "r02/toi-gian/qa/contact-sheet.jpg",
+        "r02/toi-gian/qa/s07-3-1642.jpg",
+        "r02/toi-gian/qa/s08-2-1842.jpg"
+      ],
+      "evidenceHashes": {
+        "r02/toi-gian/qa/contact-sheet.jpg": "cbccfc416aad4094b9c6b2215ebb74885f095d5ed872cb53d2886b5848f32cad",
+        "r02/toi-gian/qa/s07-3-1642.jpg": "942aeaa185ec72248dbd94a6aeefcd384bd47b932166a2864df0b280107ec322",
+        "r02/toi-gian/qa/s08-2-1842.jpg": "dcc317453dec9af2c834329c93b56471eea222d5ca4f694f2019c8218c8dfa05"
+      }
+    }
+  ],
+  "unselectedSceneChecks": [
+    {
+      "segment": "s01",
+      "frame": 101,
+      "psnr": 47.00165231918851,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    },
+    {
+      "segment": "s02",
+      "frame": 277,
+      "psnr": 55.32275792902877,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    },
+    {
+      "segment": "s05",
+      "frame": 1039,
+      "psnr": 45.69482770247538,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    },
+    {
+      "segment": "s06",
+      "frame": 1306,
+      "psnr": 47.900732765551524,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    },
+    {
+      "segment": "s07",
+      "frame": 1554,
+      "psnr": 49.58848825508272,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    },
+    {
+      "segment": "s08",
+      "frame": 1842,
+      "psnr": 48.84662313822713,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    },
+    {
+      "segment": "s09",
+      "frame": 2167,
+      "psnr": 47.9746345065088,
+      "method": "Same source frame after local splice re-encode; small lossy differences allowed"
+    }
+  ],
+  "limits": [
+    "Character interactions mostly use presentation gestures and emotional reactions, not physical object handoff",
+    "Procedural speech mouth motion is not verified phoneme lip sync",
+    "No user aesthetic approval yet"
+  ]
+}

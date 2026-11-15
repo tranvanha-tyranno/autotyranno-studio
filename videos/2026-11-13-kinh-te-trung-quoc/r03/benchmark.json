@@ -1,0 +1,61 @@
+{
+  "schema": "china-variety-task-benchmark/1",
+  "taskStartUTC": "2026-11-13T06:13:45+00:00",
+  "updatedUTC": "2026-11-13T07:04:55.441609+00:00",
+  "finalReadyUTC": "2026-11-13T07:03:57Z",
+  "finalWallSeconds": 3012.0,
+  "stages": {
+    "fullRender": {
+      "stageReceipt": "render-stage.json",
+      "startedUTC": "2026-11-13T06:41:57.169450+00:00",
+      "finishedUTC": "2026-11-13T06:56:55.774388+00:00",
+      "wholeAttemptWallSeconds": 898.605,
+      "completeChapters": 8,
+      "chapters": 8,
+      "concurrency": 2,
+      "mediaCacheBytes": 268435456,
+      "chapterRenderWallSeconds": 811.8779999999999,
+      "aggregateRenderFramesPerSecond": 22.06365981095682,
+      "joinMode": "stream-copy",
+      "joinWallSeconds": 35.063,
+      "finalVideoDecodeWallSeconds": 14.109,
+      "finalAudioDecodeWallSeconds": 0.734,
+      "audioSeconds": 597.12,
+      "lastWordEnd": 595.58,
+      "renderEndElapsedFromTaskStartSeconds": 2590.774
+    },
+    "finalQA": {
+      "status": "completed",
+      "timing": {
+        "schema": "china-variety-qa-timing/1",
+        "startedUTC": "2026-11-13T06:57:22.279500+00:00",
+        "status": "completed",
+        "decodedFrames": 17913,
+        "technicalIntegrity": "passed",
+        "finishedUTC": "2026-11-13T06:59:42.625011+00:00",
+        "wallSeconds": 140.344
+      },
+      "receipt": "../qa/report.json",
+      "decodedFrames": 17913,
+      "technicalIntegrity": "passed",
+      "audioLUFS": -15.98,
+      "truePeakDBTP": -1.93,
+      "midframes": 51,
+      "threeSecondSamples": 200,
+      "temporalShots": 51,
+      "samplesPerTemporalShot": 5,
+      "continuousListening": false
+    },
+    "sampledSequenceReview": {
+      "status": "completed",
+      "root": "qa/editorial-review.json",
+      "independent": "qa/independent-diversity-review.json",
+      "scope": "Sampled rendered evidence only, not continuous listening or user approval."
+    }
+  },
+  "detail": "benchmark/report.json",
+  "newProviderCalls": 0,
+  "costPolicy": "No separate final invoice or machine/model/power pricing measured; zero new provider calls is not a zero-dollar total production invoice.",
+  "status": "ready-for-user-review",
+  "finalSHA256": "dbbb016a2a57107d4bc943059fa8e3eb41ff0f087f67604e399c370cab59620e"
+}

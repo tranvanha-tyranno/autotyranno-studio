@@ -1,0 +1,14 @@
+{
+  "round": 1,
+  "focus": "Màu tổng thể",
+  "problem": "Cảnh cảng xanh lạnh, cảnh đêm vàng gắt, độ sáng thiếu nhất quán.",
+  "change": "Giảm độ bão hòa nhẹ, cân xanh/đỏ và giữ vùng da trung tính.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-lang-kinh-editorial-v2",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Cảng và văn phòng bớt ám xanh, vùng da còn tự nhiên; giữ grade nhẹ. Cảnh ví dụ vẫn sai nghĩa và chữ thước đo trên cảng còn nhạt, cần xử lý ở vòng tiếp."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

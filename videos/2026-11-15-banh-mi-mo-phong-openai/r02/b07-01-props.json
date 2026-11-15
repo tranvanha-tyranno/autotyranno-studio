@@ -1,0 +1,855 @@
+{
+  "plan": {
+    "fps": 30,
+    "durationFrames": 10733,
+    "title": "Lạm phát giảm, vì sao ổ bánh mì vẫn đắt?",
+    "audio": "mix.wav",
+    "shots": [
+      {
+        "id": "b01-01",
+        "from": 0,
+        "duration": 159,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b01-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-30329515",
+        "rawStartSeconds": 0.1,
+        "sourceSHA256": "f82cadb3681f1d8cd71429dea63cabf3b953d744bab07b2cbf7089c7fc5e0cb1",
+        "narrationUnit": "b01",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Khách trả thêm 2.000đ · Tiệm còn ít hơn 500đ",
+          "items": [
+            "Lạm phát giảm. Sao cả hai vẫn thấy khó hơn?"
+          ]
+        }
+      },
+      {
+        "id": "b01-02",
+        "from": 159,
+        "duration": 180,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b01-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-7405927",
+        "rawStartSeconds": 0.15,
+        "sourceSHA256": "646fd7de6ee84fdfad1b53e914d359eedf5156826f7a800a4b11092e5e764bcd",
+        "narrationUnit": "b01",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b01-03",
+        "from": 339,
+        "duration": 76,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b01-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-31317451",
+        "rawStartSeconds": 0.1,
+        "sourceSHA256": "248434fa66b96d3d056ca85d8cd28be62e6c925cdb86df1289769368ef0728a5",
+        "narrationUnit": "b01",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b02-01",
+        "from": 415,
+        "duration": 97,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b02-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-3325985",
+        "rawStartSeconds": 0.15,
+        "sourceSHA256": "8bac57bed84c8b1cb93d06bd481c3031e2d48ff30eb8f43287e0390058e2f675",
+        "narrationUnit": "b02",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Theo dấu tiền của một ổ bánh",
+          "items": [
+            "Bảng giá của khách",
+            "Hóa đơn đầu vào của tiệm",
+            "Thu nhập của người mua"
+          ]
+        }
+      },
+      {
+        "id": "b02-02",
+        "from": 512,
+        "duration": 124,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b02-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-8176160",
+        "rawStartSeconds": 0.15,
+        "sourceSHA256": "360854bbd31d1e98d0606c6ab04128186c41fac46f39d18dd1bef06f84edf9d0",
+        "narrationUnit": "b02",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b02-03",
+        "from": 636,
+        "duration": 183,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b02-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-11265880",
+        "rawStartSeconds": 0.2,
+        "sourceSHA256": "721be04acfb416fef224751183c923bf246a3f74e24039f26c016edc052cc482",
+        "narrationUnit": "b02",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b03",
+        "from": 819,
+        "duration": 410,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "simulation",
+        "simulation": "money_split",
+        "data": {
+          "stage": "before"
+        },
+        "cueFrames": [
+          56,
+          165,
+          266,
+          370
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b03",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b04",
+        "from": 1229,
+        "duration": 240,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "simulation",
+        "simulation": "cost_ledger",
+        "data": {
+          "stage": "not_net_profit"
+        },
+        "cueFrames": [
+          108,
+          123,
+          139,
+          158
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b04",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b04-tail-b04-02",
+        "from": 1469,
+        "duration": 42,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b04-02.mp4",
+        "sourceStartSeconds": 3.3,
+        "sourceId": "finance-13433110",
+        "rawStartSeconds": 0.4,
+        "sourceSHA256": "8131c0b33d87860e52441cd1bb56fd07671220141248f8d296589dc6a5816a12",
+        "narrationUnit": "b04",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b04-tail-b04-03",
+        "from": 1511,
+        "duration": 71,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b04-03.mp4",
+        "sourceStartSeconds": 0.0,
+        "sourceId": "finance-8421355",
+        "rawStartSeconds": 0.4,
+        "sourceSHA256": "d3a9e2f5a2a1017f2e7653fd9c1ab2a07df7965e7be105ba164ed5c02184ede6",
+        "narrationUnit": "b04",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b05",
+        "from": 1582,
+        "duration": 449,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "simulation",
+        "simulation": "money_split",
+        "data": {
+          "stage": "after"
+        },
+        "cueFrames": [
+          75,
+          282,
+          399
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b05",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b06",
+        "from": 2031,
+        "duration": 447,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "simulation",
+        "simulation": "money_split",
+        "data": {
+          "stage": "compare"
+        },
+        "cueFrames": [
+          66,
+          214,
+          259
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b06",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b07-01",
+        "from": 2478,
+        "duration": 141,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b07-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-29980691",
+        "rawStartSeconds": 0.2,
+        "sourceSHA256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+        "narrationUnit": "b07",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Vì sao bảng giá chưa về 20.000đ?",
+          "items": [
+            "Tiệm khác có thể có kết quả khác",
+            "Cần chi phí và lượng bán thực tế"
+          ]
+        }
+      },
+      {
+        "id": "b07-02",
+        "from": 2619,
+        "duration": 109,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b07-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-11265881",
+        "rawStartSeconds": 1.88,
+        "sourceSHA256": "2a9ac6e8b255ff05b539aa4d79eaf98514906fdccb132fbdabd6892551caa376",
+        "narrationUnit": "b07",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b07-03",
+        "from": 2728,
+        "duration": 194,
+        "chapterId": "hai-nghin-di-dau",
+        "chapterTitle": "Hai nghìn đồng đã đi đâu?",
+        "media": "video",
+        "file": "footage/b07-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-8180413",
+        "rawStartSeconds": 1.88,
+        "sourceSHA256": "02454cc28bda46405fc005a1644a5800afe716b6ba93834ad9da89f949995dc3",
+        "narrationUnit": "b07",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b08",
+        "from": 2922,
+        "duration": 457,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "simulation",
+        "simulation": "price_level",
+        "data": {},
+        "cueFrames": [
+          137,
+          363,
+          413
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b08",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b09-01",
+        "from": 3379,
+        "duration": 141,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "video",
+        "file": "footage/b09-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-8180409",
+        "rawStartSeconds": 3.7800000000000002,
+        "sourceSHA256": "d95b9815a2f97920c718e84c2fd972bafbe1070c493da7d65af0b0ef5e897dc9",
+        "narrationUnit": "b09",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Tỷ lệ giảm từ 10% xuống 2% · Giá vẫn tăng",
+          "items": [
+            "20.000đ → 22.000đ → 22.440đ",
+            "Giảm tốc tăng khác với giảm giá"
+          ]
+        }
+      },
+      {
+        "id": "b09-02",
+        "from": 3520,
+        "duration": 141,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "video",
+        "file": "footage/b09-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-29980691",
+        "rawStartSeconds": 5.08,
+        "sourceSHA256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+        "narrationUnit": "b09",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b09-03",
+        "from": 3661,
+        "duration": 118,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "video",
+        "file": "footage/b09-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-30329515",
+        "rawStartSeconds": 5.579999999999999,
+        "sourceSHA256": "f82cadb3681f1d8cd71429dea63cabf3b953d744bab07b2cbf7089c7fc5e0cb1",
+        "narrationUnit": "b09",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b10-01",
+        "from": 3779,
+        "duration": 95,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "video",
+        "file": "footage/b10-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-30319062",
+        "rawStartSeconds": 0.1,
+        "sourceSHA256": "7c60690cee24c383b830390bbb3e25415057b4675e9597ea7f2ed7cab3bb6045",
+        "narrationUnit": "b10",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Một ổ bánh chưa phải lạm phát cả nước",
+          "items": [
+            "CPI nhìn nhiều hàng hóa và dịch vụ",
+            "Giữ cùng lượng và chất lượng khi so"
+          ]
+        }
+      },
+      {
+        "id": "b10-02",
+        "from": 3874,
+        "duration": 98,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "video",
+        "file": "footage/b10-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-11265881",
+        "rawStartSeconds": 5.693333333333333,
+        "sourceSHA256": "2a9ac6e8b255ff05b539aa4d79eaf98514906fdccb132fbdabd6892551caa376",
+        "narrationUnit": "b10",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b10-03",
+        "from": 3972,
+        "duration": 192,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "video",
+        "file": "footage/b10-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-8180413",
+        "rawStartSeconds": 8.526666666666667,
+        "sourceSHA256": "02454cc28bda46405fc005a1644a5800afe716b6ba93834ad9da89f949995dc3",
+        "narrationUnit": "b10",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b11",
+        "from": 4164,
+        "duration": 500,
+        "chapterId": "giam-cai-gi",
+        "chapterTitle": "“Giảm” — nhưng giảm cái gì?",
+        "media": "simulation",
+        "simulation": "cost_ledger",
+        "data": {
+          "stage": "question"
+        },
+        "cueFrames": [
+          111,
+          130,
+          145,
+          330
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b11",
+        "label": "VÍ DỤ MINH HỌA",
+        "headline": "Bột rẻ lại. Bánh có rẻ theo?"
+      },
+      {
+        "id": "b12",
+        "from": 4664,
+        "duration": 402,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "simulation",
+        "simulation": "inventory",
+        "data": {},
+        "cueFrames": [
+          94,
+          164,
+          230,
+          290
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b12",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b13",
+        "from": 5066,
+        "duration": 458,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "simulation",
+        "simulation": "cost_ledger",
+        "data": {},
+        "cueFrames": [
+          89,
+          151,
+          222,
+          329
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b13",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b14",
+        "from": 5524,
+        "duration": 461,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "simulation",
+        "simulation": "cost_ledger",
+        "data": {
+          "stage": "counterexample"
+        },
+        "cueFrames": [
+          146,
+          245,
+          302,
+          360
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b14",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b15",
+        "from": 5985,
+        "duration": 494,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "simulation",
+        "simulation": "competition",
+        "data": {},
+        "cueFrames": [
+          82,
+          180,
+          244,
+          389
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b15",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b16-01",
+        "from": 6479,
+        "duration": 130,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "video",
+        "file": "footage/b16-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "finance-8298010",
+        "rawStartSeconds": 10.493333333333332,
+        "sourceSHA256": "2cf997250202d35a373d23027f369a05cf9e75ef0bb4e095f688a775c4206cc6",
+        "narrationUnit": "b16",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Đừng nhìn riêng một hóa đơn",
+          "items": [
+            "Tổng chi phí đã đổi bao nhiêu?",
+            "Khách có thể mua ở đâu khác?",
+            "Thu nhập của người mua đổi ra sao?"
+          ]
+        }
+      },
+      {
+        "id": "b16-02",
+        "from": 6609,
+        "duration": 130,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "video",
+        "file": "footage/b16-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-29980691",
+        "rawStartSeconds": 9.96,
+        "sourceSHA256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+        "narrationUnit": "b16",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b16-03",
+        "from": 6739,
+        "duration": 172,
+        "chapterId": "hoa-don-nao-giam",
+        "chapterTitle": "Một hóa đơn giảm chưa đủ",
+        "media": "video",
+        "file": "footage/b16-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-7405932",
+        "rawStartSeconds": 10.379999999999999,
+        "sourceSHA256": "b54c87aba84deb4c2e2ff9a248e3e0c13af5c3ff9618a5aff40169bc298bbd89",
+        "narrationUnit": "b16",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b17",
+        "from": 6911,
+        "duration": 418,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "simulation",
+        "simulation": "bread_power",
+        "data": {
+          "stage": "income"
+        },
+        "cueFrames": [
+          50,
+          197,
+          219,
+          344
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b17",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b18",
+        "from": 7329,
+        "duration": 517,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "simulation",
+        "simulation": "bread_power",
+        "data": {
+          "stage": "quantity"
+        },
+        "cueFrames": [
+          119,
+          225,
+          298,
+          388
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b18",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b19",
+        "from": 7846,
+        "duration": 240,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "simulation",
+        "simulation": "bread_power",
+        "data": {
+          "stage": "result"
+        },
+        "cueFrames": [
+          84,
+          139
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b19",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b19-tail-b19-03",
+        "from": 8086,
+        "duration": 99,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "video",
+        "file": "footage/b19-03.mp4",
+        "sourceStartSeconds": 0.2,
+        "sourceId": "pexels-7405932",
+        "rawStartSeconds": 16.293333333333333,
+        "sourceSHA256": "b54c87aba84deb4c2e2ff9a248e3e0c13af5c3ff9618a5aff40169bc298bbd89",
+        "narrationUnit": "b19",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b19-tail-b19-04",
+        "from": 8185,
+        "duration": 131,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "video",
+        "file": "footage/b19-04.mp4",
+        "sourceStartSeconds": 0.0,
+        "sourceId": "pexels-8180409",
+        "rawStartSeconds": 18.419999999999998,
+        "sourceSHA256": "d95b9815a2f97920c718e84c2fd972bafbe1070c493da7d65af0b0ef5e897dc9",
+        "narrationUnit": "b19",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b20",
+        "from": 8316,
+        "duration": 491,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "simulation",
+        "simulation": "basket_scope",
+        "data": {},
+        "cueFrames": [
+          22,
+          104,
+          267,
+          411
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b20",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b21",
+        "from": 8807,
+        "duration": 463,
+        "chapterId": "luong-mua-bao-nhieu-banh",
+        "chapterTitle": "Lương tăng, mua được bao nhiêu bánh?",
+        "media": "simulation",
+        "simulation": "basket_scope",
+        "data": {
+          "stage": "households"
+        },
+        "cueFrames": [
+          18,
+          150,
+          261,
+          379
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b21",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b22",
+        "from": 9270,
+        "duration": 488,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "simulation",
+        "simulation": "synthesis",
+        "data": {},
+        "cueFrames": [
+          71,
+          176,
+          287,
+          376
+        ],
+        "sourceStartSeconds": 0,
+        "narrationUnit": "b22",
+        "label": "VÍ DỤ MINH HỌA"
+      },
+      {
+        "id": "b23-01",
+        "from": 9758,
+        "duration": 142,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b23-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-29980691",
+        "rawStartSeconds": 22.866666666666664,
+        "sourceSHA256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+        "narrationUnit": "b23",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Ba câu hỏi khi nghe tin lạm phát giảm",
+          "items": [
+            "Giá giảm hay chỉ tăng chậm hơn?",
+            "So với thời điểm nào?",
+            "Thu nhập có theo kịp giỏ mình mua?"
+          ]
+        }
+      },
+      {
+        "id": "b23-02",
+        "from": 9900,
+        "duration": 164,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b23-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-8180413",
+        "rawStartSeconds": 24.5,
+        "sourceSHA256": "02454cc28bda46405fc005a1644a5800afe716b6ba93834ad9da89f949995dc3",
+        "narrationUnit": "b23",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b23-03",
+        "from": 10064,
+        "duration": 132,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b23-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-29980691",
+        "rawStartSeconds": 27.779999999999998,
+        "sourceSHA256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+        "narrationUnit": "b23",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b23-04",
+        "from": 10196,
+        "duration": 91,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b23-04.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-7405932",
+        "rawStartSeconds": 19.973333333333333,
+        "sourceSHA256": "b54c87aba84deb4c2e2ff9a248e3e0c13af5c3ff9618a5aff40169bc298bbd89",
+        "narrationUnit": "b23",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b24-01",
+        "from": 10287,
+        "duration": 148,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b24-01.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-8180409",
+        "rawStartSeconds": 30.146666666666665,
+        "sourceSHA256": "d95b9815a2f97920c718e84c2fd972bafbe1070c493da7d65af0b0ef5e897dc9",
+        "narrationUnit": "b24",
+        "exposure": 1,
+        "graphicSide": "right",
+        "overlay": {
+          "title": "Bữa sáng của bạn đã đổi thế nào?",
+          "items": [
+            "Món gì? So với năm nào?",
+            "Bình luận · Đăng ký · Bật chuông"
+          ]
+        }
+      },
+      {
+        "id": "b24-02",
+        "from": 10435,
+        "duration": 92,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b24-02.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-29980691",
+        "rawStartSeconds": 32.36,
+        "sourceSHA256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+        "narrationUnit": "b24",
+        "exposure": 1,
+        "graphicSide": "right"
+      },
+      {
+        "id": "b24-03",
+        "from": 10527,
+        "duration": 206,
+        "chapterId": "tro-lai-quay-banh",
+        "chapterTitle": "Đặt ba thứ cạnh nhau",
+        "media": "video",
+        "file": "footage/b24-03.mp4",
+        "sourceStartSeconds": 0,
+        "sourceId": "pexels-30329515",
+        "rawStartSeconds": 12.239999999999998,
+        "sourceSHA256": "f82cadb3681f1d8cd71429dea63cabf3b953d744bab07b2cbf7089c7fc5e0cb1",
+        "narrationUnit": "b24",
+        "exposure": 1,
+        "graphicSide": "right"
+      }
+    ],
+    "provisionalVoice": true
+  },
+  "startFrame": 2478,
+  "frames": 141
+}

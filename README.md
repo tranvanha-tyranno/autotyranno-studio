@@ -4,6 +4,8 @@
 
 MVP cho hệ thống tạo video AI bán hàng tự động bằng tiếng Việt. Backend cung cấp API để nhập sản phẩm, tạo video từ ảnh, kiểm tra policy, thu thập trend, xếp lịch và mô phỏng xuất bản. Frontend là dashboard Next.js tối giản.
 
+**Mã nguồn và dữ liệu video:** repo lưu video được chọn và ảnh/audio nguồn bằng Git LFS, cùng kịch bản, timeline và bằng chứng batch. Video dư, cache, bundle render sao chép, dependency và credential được loại khỏi lần đẩy; dữ liệu local vẫn được giữ. Xem [phạm vi lưu trữ và cách tải từng batch](docs/repository-storage.md).
+
 ## Chạy nhanh backend
 
 ```powershell
@@ -27,7 +29,7 @@ Dashboard mặc định gọi backend tại `http://localhost:8000`; có thể �
 
 ## Tạo video mẫu
 
-Mã explainer, hướng dẫn cài đặt và kiểm tra offline nằm tại [workflows/reference-video](workflows/reference-video/README.md). Hai lựa chọn tài chính mới là chuyển động tối giản theo hành động và nhân vật comic biểu cảm; xem [FINANCE_STYLES.md](workflows/reference-video/FINANCE_STYLES.md). Bản tối giản đầu bị chê giống slide, tạo hình cũ cần sửa; hướng comic do người dùng chọn, còn hình mới vẫn chờ phản hồi. Video/audio render và bằng chứng batch giữ local, không nằm trong lần đẩy mã này.
+Mã explainer, hướng dẫn cài đặt và kiểm tra offline nằm tại [workflows/reference-video](workflows/reference-video/README.md). Hai lựa chọn tài chính mới là chuyển động tối giản theo hành động và nhân vật comic biểu cảm; xem [FINANCE_STYLES.md](workflows/reference-video/FINANCE_STYLES.md). Bản tối giản đầu bị chê giống slide, tạo hình cũ cần sửa; hướng comic do người dùng chọn, còn hình mới vẫn chờ phản hồi. Video/audio render được lưu bằng Git LFS; kịch bản và bằng chứng batch nằm cùng thư mục `videos/`.
 
 Nhánh explainer ảnh thật/gallery 3D hiện dùng [quy trình sản xuất](workflows/reference-video/PRODUCTION.md) và [vòng cải tiến sau mỗi batch](workflows/reference-video/LEARNING_LOOP.md). `production.py` kiểm toàn bộ lời–hình, nguồn và take thật, chạy hàng đợi tuần tự; `learning.py` lưu phản hồi có bằng chứng, tách khỏi kiểm kỹ thuật và duyệt của người dùng. Bản thử đời sống mới nằm ở `videos/2026-11-13-di-sieu-thi/`.
 

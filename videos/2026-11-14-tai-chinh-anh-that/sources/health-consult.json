@@ -1,0 +1,32 @@
+{
+  "id": "health-consult",
+  "pexelsID": 5214997,
+  "sourceURL": "https://www.pexels.com/photo/a-patient-having-a-consultation-with-her-doctor-5214997/",
+  "creator": "Antoni Shkraba",
+  "theme": "health",
+  "documentedLocation": null,
+  "locationEvidence": "No country field found; do not label Vietnam",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A clinician checks a patient’s blood pressure during a consultation.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/health-consult.jpg",
+  "downloadURL": "https://images.pexels.com/photos/5214997/pexels-photo-5214997.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "454c117e24cca3f9f882549163dbeebe18349796f20f8f8c0a0f45f46683c9ad",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

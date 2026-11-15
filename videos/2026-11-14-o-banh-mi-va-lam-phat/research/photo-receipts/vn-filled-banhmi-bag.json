@@ -1,0 +1,48 @@
+{
+  "id": "vn-filled-banhmi-bag",
+  "file": "assets/vn-filled-banhmi-bag.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 26619988,
+  "sourceURL": "https://www.pexels.com/photo/a-sandwich-with-meat-and-vegetables-on-top-of-a-paper-bag-26619988/",
+  "downloadURL": "https://images.pexels.com/photos/26619988/pexels-photo-26619988.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Theodore Nguyen",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "ee2f314844274596b609d86dbd4770e90bc726c2927c59153fb5256496418ef2",
+  "width": 2400,
+  "height": 3600,
+  "tags": [
+    "bread"
+  ],
+  "credit": "Theodore Nguyen / Pexels",
+  "expectedFromSource": "Filled Vietnamese bánh mì on paper bag",
+  "observed": "Filled long bread in brown paper wrapping, visible dark grilled meat, shredded white vegetables, carrot and green herbs; shallow background. Portrait contain keeps whole sandwich and wrap; landscape center crop loses outer loaf and magnifies filling.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop tile in photo-sheet-01.jpg after downloading exact file.",
+    "date": "2026-11-14",
+    "sha256": "ee2f314844274596b609d86dbd4770e90bc726c2927c59153fb5256496418ef2"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Primary Pexels location field says Ho Chi Minh City, Vietnam. Food context only, not fictional Hạnh’s product or any quoted portion/price/recipe.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "VN",
+    "place": "Ho Chi Minh City, Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/a-sandwich-with-meat-and-vegetables-on-top-of-a-paper-bag-26619988/",
+    "evidence": "Primary Pexels photo page location field says Ho Chi Minh City, Ho Chi Minh City, Vietnam."
+  }
+}

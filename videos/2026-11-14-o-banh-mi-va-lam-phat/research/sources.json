@@ -1,0 +1,206 @@
+{
+  "schema": "economy-story-research/1",
+  "date": "2026-11-14",
+  "title": "Một ổ bánh mì kể chuyện lạm phát",
+  "contentSHA256": "0e65992b5e12d28f910b9d0553ace4c600cd171693ca7c99ed87bae5fae68c88",
+  "wordsWhitespace": 2166,
+  "chapters": 8,
+  "beats": 50,
+  "sourcePolicy": "All monetary amounts, dates implied by hypothetical year labels, weights, inflation rates and wage changes in examples are illustrative. No current national statistics, exact unit price or real business claim. Source photographs establish only visible context, not the identity or behavior of fictional Hanh.",
+  "sources": [
+    {
+      "id": "ecb-definition",
+      "title": "What is inflation?",
+      "publisher": "European Central Bank",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html",
+      "scope": "Broad price increases, expenditure weights, different household baskets and comparison periods.",
+      "limitations": "ECB page describes Euro-area HICP. Script borrows the general conceptual distinctions only; no HICP coverage, weights, targets or institutional method is asserted for Vietnam.",
+      "observed": "Read primary page: broad price increases, spending weights, household differences, annual comparisons and personal inflation sections.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e05",
+        "e07",
+        "e13",
+        "e32",
+        "e36",
+        "e39"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    },
+    {
+      "id": "boe-inflation",
+      "title": "What is inflation?",
+      "publisher": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/explainers/what-is-inflation",
+      "scope": "Inflation is the speed of price increases; slowing positive inflation does not imply a fall in the price level.",
+      "limitations": "No UK historical/current rate, target or forecast is used. The bread series is original arithmetic, not UK/Vietnam data.",
+      "observed": "Read primary explanatory text distinguishing rising prices, speed of increases and cost of living.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e10",
+        "e11",
+        "e49"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    },
+    {
+      "id": "imf-basics",
+      "title": "Inflation: Prices on the Rise",
+      "publisher": "International Monetary Fund / Finance & Development",
+      "author": "Ceyda Oner",
+      "url": "https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Inflation",
+      "scope": "Purchasing power, cost and demand pressures, expectations, and cause-dependent disinflation policies.",
+      "limitations": "No country-specific diagnosis or forecast. Examples involving Hanh are original fiction. No claim that any single cause explains all inflation.",
+      "observed": "Read primary explainer and canonical search extract; conceptual supply, demand, expectations and purchasing-power mechanisms checked.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e19",
+        "e25",
+        "e35",
+        "e43",
+        "e45",
+        "e49"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    },
+    {
+      "id": "rba-causes",
+      "title": "Causes of Inflation",
+      "publisher": "Reserve Bank of Australia",
+      "url": "https://www.rba.gov.au/education/resources/explainers/causes-of-inflation.html",
+      "scope": "Demand exceeding sustainable supply, input-cost shocks, oil/transport pass-through, and firm price-setting margins.",
+      "limitations": "Illustrative mechanisms; not evidence that a particular shop raised prices for these reasons. Numerical cost stack is an original simplified model.",
+      "observed": "Read main demand-pull, cost-push and expectations sections, including fuel-to-transport-to-grocery connection.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e19",
+        "e20",
+        "e21",
+        "e23",
+        "e27"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    },
+    {
+      "id": "cleveland-causes",
+      "title": "What Causes Inflation?",
+      "publisher": "Federal Reserve Bank of Cleveland",
+      "url": "https://www.clevelandfed.org/center-for-inflation-research/inflation-explained-your-guide-to-inflation-basics/what-causes-inflation",
+      "scope": "Three broad factors: demand, supply and expectations; wage costs depend also on productivity.",
+      "limitations": "Used for conceptual channels only. Wage changes are not presented as necessarily creating inflation or as blame on workers.",
+      "observed": "Read primary source search extract, including demand/supply/expectation framework and per-unit wage-cost/productivity condition.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e25",
+        "e26"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    },
+    {
+      "id": "ecb-transmission",
+      "title": "Transmission mechanism of monetary policy",
+      "publisher": "European Central Bank",
+      "url": "https://www.ecb.europa.eu/mopo/intro/transmission/html/index.en.html",
+      "scope": "Interest rates influence borrowing, consumption and investment; transmission has long, variable and uncertain lags.",
+      "limitations": "No instantaneous or guaranteed effect, fixed lag or country-specific policy recommendation. No assertion that interest rates directly increase commodity supply.",
+      "observed": "Read primary transmission page, including uncertain lags and consumption/investment channels.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e44",
+        "e45"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    },
+    {
+      "id": "bls-shrinkflation",
+      "title": "Getting less for the same price? Explore how the CPI measures shrinkflation and its impact on inflation",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "author": "Kari McNair",
+      "published": "2023-02",
+      "url": "https://www.bls.gov/opub/btn/volume-12/measuring-shrinkflation-and-its-impact-on-inflation.htm",
+      "scope": "Lower quantity at unchanged price increases price per unit; compare quantity/weight as well as sticker price.",
+      "limitations": "No assertion that a photographed product was downsized, or that Vietnamese CPI uses the precise BLS collection methodology. The 100g-to-90g example is original arithmetic only.",
+      "observed": "Read primary BLS article opening and stated weight/volume collection scope.",
+      "accessed": "2026-11-14",
+      "sourceType": "primary-institutional-explainer",
+      "supportedBeats": [
+        "e42",
+        "e47"
+      ],
+      "verification": "primary explanatory page or primary search extract read via web tool; no independent empirical dataset audit"
+    }
+  ],
+  "arithmeticChecks": [
+    {
+      "id": "price-year1",
+      "expression": "20000 * 1.10",
+      "result": 22000,
+      "unit": "VND per hypothetical loaf"
+    },
+    {
+      "id": "price-year2",
+      "expression": "22000 * 1.02",
+      "result": 22440,
+      "unit": "VND per hypothetical loaf",
+      "note": "Unrounded theoretical amount to show arithmetic, not asserted retail price"
+    },
+    {
+      "id": "price-return",
+      "expression": "(20000/22000-1)*100",
+      "result": -9.090909090909093,
+      "spokenRounded": "about -9.1 percent"
+    },
+    {
+      "id": "residual-before",
+      "expression": "20000-12000-5000",
+      "result": 3000,
+      "note": "Residual before excluded taxes, depreciation and owner compensation; not net profit"
+    },
+    {
+      "id": "residual-after",
+      "expression": "22000-14500-5000",
+      "result": 2500,
+      "note": "Same assumed output/fixed-cost allocation; not net profit"
+    },
+    {
+      "id": "weighted-basket",
+      "expression": "0.4*10+0.3*0+0.2*0+0.1*0",
+      "result": 4,
+      "note": "Fixed quantities, original illustrative 40/30/20/10 expenditure weights; not Vietnamese CPI weights"
+    },
+    {
+      "id": "real-income",
+      "expression": "(1.05/1.08-1)*100",
+      "result": -2.777777777777779,
+      "spokenRounded": "about -2.8 percent"
+    },
+    {
+      "id": "unit-price-shrink",
+      "expression": "((20000/90)/(20000/100)-1)*100",
+      "result": 11.111111111111116,
+      "spokenRounded": "about +11.1 percent"
+    }
+  ],
+  "editorialStructure": [
+    "concrete price paradox hook",
+    "brief relevant disclaimer",
+    "price level versus speed",
+    "unit cost mechanism and limits",
+    "demand and expectations",
+    "costs, delays and competition",
+    "basket weights and purchasing power",
+    "policy and productivity channels",
+    "callback, practical observation and subscribe/bell/comment CTA"
+  ],
+  "voiceFreeze": {
+    "status": "ready-for-exact-new-take",
+    "latestWords": 2166,
+    "revisionNote": "Removed six redundant beat passages to fit measured 208 words/min prior calibration. Stable beat IDs contain gaps. No further narration edits planned."
+  }
+}

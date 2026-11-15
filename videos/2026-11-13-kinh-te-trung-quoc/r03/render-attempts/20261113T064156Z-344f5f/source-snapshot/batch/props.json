@@ -1,0 +1,4200 @@
+{
+  "data": {
+    "title": "Kinh tế Trung Quốc: sản xuất mạnh, sức mua mắc ở đâu?",
+    "fps": 30,
+    "frames": 17913,
+    "audio": "china/mix.wav",
+    "shots": [
+      {
+        "id": "o01",
+        "text": "Một bên là cảng biển, dây chuyền và những đoàn tàu chở hàng. Một bên là người mua nhà và các gia đình vẫn cân nhắc từng khoản chi. Hai cảnh ấy có thể cùng đúng về Trung Quốc.",
+        "phase": "hook",
+        "layout": "c-map",
+        "headline": "Sản xuất mạnh. Sức mua mắc ở đâu?",
+        "design": {
+          "map": {
+            "mode": "regions",
+            "nodes": [
+              {
+                "id": "sh",
+                "label": "Thượng Hải",
+                "lon": 121.47,
+                "lat": 31.23
+              },
+              {
+                "id": "sz",
+                "label": "Thâm Quyến",
+                "lon": 114.06,
+                "lat": 22.54
+              },
+              {
+                "id": "cq",
+                "label": "Trùng Khánh",
+                "lon": 106.55,
+                "lat": 29.56
+              },
+              {
+                "id": "bj",
+                "label": "Bắc Kinh",
+                "lon": 116.4,
+                "lat": 39.9
+              }
+            ],
+            "links": [
+              {
+                "from": "cq",
+                "to": "sh"
+              },
+              {
+                "from": "sz",
+                "to": "sh"
+              },
+              {
+                "from": "bj",
+                "to": "sh"
+              }
+            ],
+            "note": "Vị trí địa lý thực; liên kết minh họa, không phải số liệu dòng hàng."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 0,
+        "images": [],
+        "chapter": "opening",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-map exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 328,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "port, rail and domestic-life spatial juxtaposition",
+          "index": 0,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "o02",
+        "text": "Vì sao một nền kinh tế sản xuất rất mạnh vẫn phải lo kích thích nhu cầu? Muốn hiểu, cần tách cỗ máy làm ra hàng hóa khỏi vòng tuần hoàn đưa thu nhập trở lại thị trường.",
+        "phase": "hook",
+        "layout": "c-flow",
+        "headline": "Làm ra hàng khác với tìm được người mua",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Năng lực sản xuất",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Thu nhập",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Nhu cầu",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "0",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 328,
+        "images": [],
+        "chapter": "opening",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 614,
+        "variety": {
+          "module": "story",
+          "mechanic": "two engines and a balance of production and demand",
+          "index": 1,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "o03",
+        "text": "Video này nhìn vào các động cơ tăng trưởng, bất động sản, tiêu dùng và già hóa. Số liệu được chốt theo các công bố đã kiểm tra đến ngày mười ba tháng mười một, năm hai nghìn không trăm hai mươi sáu.",
+        "phase": "hook",
+        "layout": "c-compare",
+        "headline": "Ba góc nhìn về một nền kinh tế",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "01",
+                "title": "Động cơ sản xuất",
+                "body": "Các ngành khác nhịp"
+              },
+              {
+                "label": "02",
+                "title": "Nhà ở và sức mua",
+                "body": "Dòng tiền và niềm tin"
+              },
+              {
+                "label": "03",
+                "title": "Cấu trúc dài hạn",
+                "body": "Thương mại và dân số"
+              }
+            ]
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 614,
+        "images": [],
+        "chapter": "opening",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-compare exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 973,
+        "variety": {
+          "module": "story",
+          "mechanic": "folded chapter atlas",
+          "index": 2,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "o04",
+        "text": "Đây là phân tích giáo dục, không phải khuyến nghị đầu tư. Biểu đồ số liệu có kỳ đo và nguồn riêng; mô phỏng chỉ giải thích cơ chế, không phải dự báo hay bản sao hoạt động của doanh nghiệp cụ thể.",
+        "phase": "disclaimer",
+        "layout": "c-question",
+        "headline": "Miễn trừ trách nhiệm",
+        "design": {
+          "theme": "dark"
+        },
+        "eyebrow": "MIỄN TRỪ TRÁCH NHIỆM",
+        "body": "Số liệu có kỳ đo và nguồn riêng. Mô phỏng giải thích cơ chế; không phải dự báo hoặc khuyến nghị đầu tư.",
+        "start": 973,
+        "images": [],
+        "chapter": "opening",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-question exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 1330,
+        "variety": {
+          "module": "story",
+          "mechanic": "brief educational scope disclaimer",
+          "index": 3,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "f01",
+        "text": "Trước hết, Trung Quốc không phải một nhà máy duy nhất. Trên bản đồ là các thành phố, vùng công nghiệp, cảng và thị trường lao động kết nối với nhau. Khoảng cách và hạ tầng góp phần quyết định cách hàng hóa di chuyển.",
+        "phase": "content",
+        "layout": "c-map",
+        "headline": "Những cụm kinh tế kết nối nhau",
+        "design": {
+          "map": {
+            "mode": "regions",
+            "nodes": [
+              {
+                "id": "sh",
+                "label": "Thượng Hải",
+                "lon": 121.47,
+                "lat": 31.23
+              },
+              {
+                "id": "sz",
+                "label": "Thâm Quyến",
+                "lon": 114.06,
+                "lat": 22.54
+              },
+              {
+                "id": "cq",
+                "label": "Trùng Khánh",
+                "lon": 106.55,
+                "lat": 29.56
+              },
+              {
+                "id": "bj",
+                "label": "Bắc Kinh",
+                "lon": 116.4,
+                "lat": 39.9
+              }
+            ],
+            "links": [
+              {
+                "from": "cq",
+                "to": "sh"
+              },
+              {
+                "from": "sz",
+                "to": "sh"
+              },
+              {
+                "from": "bj",
+                "to": "sh"
+              }
+            ],
+            "note": "Vị trí địa lý thực; liên kết minh họa, không phải số liệu dòng hàng."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 1330,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-map exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 1703,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "industrial city with infrastructure and districts",
+          "index": 4,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "f02",
+        "text": "Hãy lấy một dây chuyền minh họa. Nhà cung cấp đưa linh kiện tới, công nhân và thiết bị lắp ráp, rồi sản phẩm được kiểm tra trước khi xuất xưởng. Giá trị nằm trong cả chuỗi phối hợp ấy.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Linh kiện → Lắp ráp → Kiểm tra",
+        "design": {
+          "simulation": {
+            "kind": "factory",
+            "items": [
+              {
+                "label": "Linh kiện",
+                "value": 3
+              },
+              {
+                "label": "Lắp ráp",
+                "value": 3
+              },
+              {
+                "label": "Kiểm tra",
+                "value": 3
+              }
+            ],
+            "note": "Dây chuyền minh họa · Chuyển động không đo năng suất thực."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 1703,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 2039,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "exploded product parts assembling and inspection",
+          "index": 5,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "f03",
+        "text": "Khi nhiều nhà cung cấp, kỹ năng và dịch vụ ở gần nhau, việc tìm đầu vào hay xử lý trục trặc có thể thuận tiện hơn. Đó là một lợi thế của cụm sản xuất, không chỉ là câu chuyện tiền công thấp.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Lợi thế của một hệ sinh thái",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Nhà cung cấp",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Kỹ năng",
+                "column": 0
+              },
+              {
+                "id": "2",
+                "label": "Dịch vụ",
+                "column": 0
+              },
+              {
+                "id": "3",
+                "label": "Cụm sản xuất",
+                "column": 1
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 2039,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 2387,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "supplier cluster neighborhood",
+          "index": 6,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "f04",
+        "text": "Nhưng năng lực làm ra sản phẩm chưa tự bảo đảm mọi nhà máy có lợi nhuận. Còn cần đơn hàng, mức giá đủ bù chi phí, chất lượng, công suất sử dụng và khả năng thu hồi tiền.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Công suất khác với đơn hàng",
+        "design": {
+          "simulation": {
+            "kind": "factory",
+            "items": [
+              {
+                "label": "Công suất",
+                "value": 8
+              },
+              {
+                "label": "Đơn hàng",
+                "value": 5
+              },
+              {
+                "label": "Đầu ra",
+                "value": 5
+              }
+            ],
+            "note": "Ví dụ giả định · Công suất có thể khác lượng đơn hàng."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 2387,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 2693,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "warehouse inventory and order tickets",
+          "index": 7,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "f05",
+        "text": "Theo bảng hạch toán sơ bộ của cơ quan thống kê Trung Quốc, giá trị tăng thêm ngành chế tạo trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu tăng năm phẩy sáu phần trăm so với cùng kỳ, theo giá so sánh.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Chế tạo tăng 5,6% trong chín tháng",
+        "design": {
+          "chart": {
+            "kind": "bars",
+            "items": [
+              {
+                "label": "Chế tạo",
+                "value": 5.6
+              }
+            ],
+            "unit": "% cùng kỳ · giá so sánh",
+            "max": 7
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 2693,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Nguồn: NBS · 1–9/2026 · Giá so sánh · Ước tính sơ bộ",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 3034,
+        "variety": {
+          "module": "data",
+          "mechanic": "statistical ruler and manufacturing source extract",
+          "index": 8,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "f06",
+        "text": "Trong cùng bảng và cùng kỳ, xây dựng giảm bốn phẩy một phần trăm, còn khu vực dịch vụ tăng năm phẩy hai phần trăm. Các bộ phận có thể đi khác nhịp, dù đều nằm trong một nền kinh tế.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Ba bộ phận, ba nhịp tăng trưởng",
+        "design": {
+          "chart": {
+            "kind": "bars",
+            "items": [
+              {
+                "label": "Chế tạo",
+                "value": 5.6
+              },
+              {
+                "label": "Xây dựng",
+                "value": -4.1
+              },
+              {
+                "label": "Dịch vụ",
+                "value": 5.2
+              }
+            ],
+            "unit": "% cùng kỳ · giá so sánh",
+            "max": 7,
+            "min": -5
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 3034,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Nguồn: NBS · 1–9/2026 · Giá so sánh · Ước tính sơ bộ",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 3359,
+        "variety": {
+          "module": "data",
+          "mechanic": "diverging sector markers",
+          "index": 9,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "f07",
+        "text": "Điều này giúp tránh hai kết luận cực đoan: thấy một ngành tốt rồi cho rằng mọi gia đình đều khá lên, hoặc thấy một ngành khó khăn rồi cho rằng toàn bộ năng lực sản xuất đã biến mất.",
+        "phase": "content",
+        "layout": "c-photo",
+        "headline": "Một ngành không đại diện tất cả",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "SUY QUÁ XA",
+                "title": "Một ngành tốt",
+                "body": "Không đại diện mọi hộ"
+              },
+              {
+                "label": "SUY QUÁ XA",
+                "title": "Một ngành khó",
+                "body": "Không xóa mọi năng lực"
+              }
+            ]
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 3359,
+        "images": [
+          {
+            "file": "china/cn-engine-mianyang.jpg",
+            "credit": "Tangray-nick",
+            "sourceHash": "bd2f3131d38d1c1a371f1d2bae2400754fb8c426f0e55b13f2e779d772a9358a",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.3333333333333333
+          },
+          {
+            "file": "china/cn-panzhihua-steel.jpg",
+            "credit": "Zhangzj cet",
+            "sourceHash": "75c86e3a6e832fbed857fdd79c5938e613dfe5d49eb07e07ff30e886a72a3f6a",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 2.7586206896551726
+          }
+        ],
+        "chapter": "factory",
+        "sourceNote": "Tư liệu Trung Quốc minh họa · Siyuwj / CC BY-SA 3.0; Encik Tekateki / CC BY-SA 4.0",
+        "needToSee": "Actual inspected China context; people/businesses are not asserted to represent average incomes, actual profits, job losses or causal effects. Dark sedans on a car assembly line with raised rear hatches, overhead yellow rails and workers. | Worker at a bench assembling colorful puzzle cubes, many blue parts bins and rows of cube parts, second person behind.",
+        "end": 3675,
+        "variety": {
+          "module": "story",
+          "mechanic": "two different industrial contexts with limits of inference",
+          "index": 10,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "f08",
+        "text": "Câu hỏi khó hơn là động cơ nào đang kéo, động cơ nào đang ghìm, và sức kéo có chuyển thành thu nhập cùng nhu cầu bền vững hay không. Để thấy phần ghìm, hãy nhìn sang bất động sản.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Từ sản lượng đến thu nhập",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Sản lượng",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Tiền lương/thu nhập",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Nhu cầu",
+                "column": 2
+              },
+              {
+                "id": "3",
+                "label": "Đơn hàng",
+                "column": 3
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 3675,
+        "images": [],
+        "chapter": "factory",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 4028,
+        "variety": {
+          "module": "story",
+          "mechanic": "pulling and braking economic engines",
+          "index": 11,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "r01",
+        "text": "Một dự án nhà ở có nhiều bên tham gia: người mua, chủ đầu tư, nhà thầu, ngân hàng và chính quyền địa phương. Vì vậy, khó khăn ở dự án có thể truyền tới những bảng cân đối khác nhau.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Nhà ở nối nhiều bảng cân đối",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Người mua",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Chủ đầu tư",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Nhà thầu",
+                "column": 2
+              },
+              {
+                "id": "3",
+                "label": "Ngân hàng",
+                "column": 0
+              },
+              {
+                "id": "4",
+                "label": "Địa phương",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "3",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "4",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 4028,
+        "images": [],
+        "chapter": "property",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 4371,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "sectional housing project with stakeholder places",
+          "index": 12,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "r02",
+        "text": "Trong mô phỏng này, một hộ gia đình mua nhà và một doanh nghiệp triển khai dự án. Khi tiền thu chậm lại, doanh nghiệp phải xem lại lịch thanh toán cho nhà thầu và khả năng hoàn thành công trình.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Một dòng tiền chậm, nhiều bên chờ",
+        "design": {
+          "simulation": {
+            "kind": "property",
+            "items": [
+              {
+                "label": "Người mua",
+                "value": 1
+              },
+              {
+                "label": "Dự án",
+                "value": 1
+              },
+              {
+                "label": "Nhà thầu",
+                "value": 1
+              }
+            ],
+            "note": "Minh họa lịch tiền · Không mô tả một dự án/doanh nghiệp cụ thể."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 4371,
+        "images": [],
+        "chapter": "property",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 4724,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "escrow, payment calendar and waiting contractor",
+          "index": 13,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "r03",
+        "text": "Nếu công trình chậm, người mua có thể lo về việc nhận nhà. Nếu doanh nghiệp giảm đầu tư, nhu cầu vật liệu và việc làm liên quan cũng chịu ảnh hưởng. Đây là các kênh truyền dẫn, không phải một tỷ lệ cố định cho mọi dự án.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Tiền thu → Hoàn thiện → Niềm tin",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Tiền thu dự án",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Tiến độ xây dựng",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Nhận nhà/niềm tin",
+                "column": 2
+              },
+              {
+                "id": "3",
+                "label": "Vật liệu/việc làm",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 4724,
+        "images": [],
+        "chapter": "property",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 5134,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "construction floors and materials response",
+          "index": 14,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "r04",
+        "text": "Số liệu chính thức cho biết đầu tư phát triển bất động sản trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu giảm hai mươi phẩy sáu phần trăm so với cùng kỳ. Đây là chỉ tiêu đầu tư, không phải mức giảm của giá mọi căn nhà.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Đầu tư BĐS giảm 20,6% — giá nhà là chỉ tiêu khác",
+        "design": {
+          "chart": {
+            "kind": "bars",
+            "items": [
+              {
+                "label": "Đầu tư phát triển BĐS",
+                "value": -20.6
+              }
+            ],
+            "unit": "% cùng kỳ · 1–9/2026",
+            "max": 5,
+            "min": -25
+          },
+          "theme": "warm"
+        },
+        "body": "Chỉ tiêu đầu tư; không phải mức giảm giá của mọi căn nhà.",
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 5134,
+        "images": [],
+        "chapter": "property",
+        "sourceNote": "Nguồn: NBS · Đầu tư phát triển BĐS 1–9/2026 · So với cùng kỳ",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 5523,
+        "variety": {
+          "module": "data",
+          "mechanic": "investment comparison index, not house price",
+          "index": 15,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "r05",
+        "text": "Một gia đình cũng có thể thay đổi hành vi khi giá trị tài sản hoặc triển vọng thu nhập khiến họ bất an. Họ có thể hoãn một món mua lớn hay muốn giữ dự phòng nhiều hơn, ngay cả khi vẫn đang có việc.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Tài sản, thu nhập và quyết định chi",
+        "design": {
+          "simulation": {
+            "kind": "household",
+            "items": [
+              {
+                "label": "Tiêu dùng",
+                "value": 45
+              },
+              {
+                "label": "Nghĩa vụ",
+                "value": 30
+              },
+              {
+                "label": "Dự phòng",
+                "value": 25
+              }
+            ],
+            "note": "Phân bổ giả định để giải thích lựa chọn · Không phải cơ cấu hộ Trung Quốc."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 5523,
+        "images": [],
+        "chapter": "property",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 5887,
+        "variety": {
+          "module": "people",
+          "mechanic": "family postponing a purchase at a decision desk",
+          "index": 16,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "r06",
+        "text": "World Bank và IMF đều xem điều chỉnh bất động sản là một phần quan trọng của bài toán tái cân bằng. Nhưng giải quyết dự án dở dang, tổn thất và nghĩa vụ tài chính không đơn giản như bật lại một công tắc xây dựng.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Sửa dự án khác với xây thêm",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Dự án dở dang",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Hoàn thành nghĩa vụ",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Xử lý tổn thất",
+                "column": 1
+              },
+              {
+                "id": "3",
+                "label": "Niềm tin",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "0",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 5887,
+        "images": [
+          {
+            "file": "china/cn-shenzhen-residential.jpg",
+            "credit": "EYAMXAOLP",
+            "sourceHash": "8a9622f73d697b720909feb293fc9a0a0852f7e7aa0858e3ac028eb4b53ebd5a",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.3333333333333333
+          }
+        ],
+        "chapter": "property",
+        "sourceNote": "Tham khảo: World Bank7/2026; IMF ArticleIV2025 công bố2026 · Sơ đồ giải thích",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 6307,
+        "variety": {
+          "module": "story",
+          "mechanic": "source documents and unfinished-obligations board",
+          "index": 17,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "r07",
+        "text": "Xây thêm có thể tạo hoạt động trước mắt, nhưng nếu nhu cầu hoặc hiệu quả không phù hợp thì rủi ro vẫn ở đó. Điều cần phân biệt là hoàn thành nghĩa vụ cũ với mở rộng những cam kết mới.",
+        "phase": "content",
+        "layout": "c-compare",
+        "headline": "Hoàn thành nghĩa vụ / Mở rộng cam kết",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "NGHĨA VỤ CŨ",
+                "title": "Hoàn thiện dự án",
+                "body": "Thực hiện cam kết đã có"
+              },
+              {
+                "label": "CAM KẾT MỚI",
+                "title": "Xây thêm",
+                "body": "Cần nhu cầu và hiệu quả"
+              }
+            ]
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 6307,
+        "images": [],
+        "chapter": "property",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-compare exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 6669,
+        "variety": {
+          "module": "people",
+          "mechanic": "complete old apartment versus new empty foundation",
+          "index": 18,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h01",
+        "text": "Bây giờ chuyển từ công trường sang hộ gia đình. Một vòng tuần hoàn đơn giản là doanh nghiệp trả thu nhập, người dân chi tiêu, doanh nghiệp có doanh thu rồi tiếp tục tuyển dụng và đầu tư.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Thu nhập → Chi tiêu → Doanh thu",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Doanh nghiệp",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Thu nhập hộ",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Chi tiêu",
+                "column": 2
+              },
+              {
+                "id": "3",
+                "label": "Doanh thu",
+                "column": 3
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "3",
+                "to": "0",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 6669,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 6985,
+        "variety": {
+          "module": "people",
+          "mechanic": "payroll and purchases in an actual store vignette",
+          "index": 19,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h02",
+        "text": "Vòng ấy không chạy chỉ nhờ lời kêu gọi mua sắm. Quyết định chi còn phụ thuộc thu nhập kỳ vọng, độ ổn định công việc, nghĩa vụ nợ và nhu cầu dự phòng cho những việc quan trọng của gia đình.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Chi tiêu đi cùng mức độ an tâm",
+        "design": {
+          "simulation": {
+            "kind": "household",
+            "items": [
+              {
+                "label": "Tiêu dùng",
+                "value": 50
+              },
+              {
+                "label": "Nghĩa vụ",
+                "value": 30
+              },
+              {
+                "label": "Dự phòng",
+                "value": 20
+              }
+            ],
+            "note": "Minh họa quyết định chi · Không đo tỷ lệ thực tế."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 6985,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 7322,
+        "variety": {
+          "module": "people",
+          "mechanic": "family calendar and financial protection objects",
+          "index": 20,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h03",
+        "text": "Để nhìn rõ cơ chế, tạm chia một khoản thu nhập minh họa thành tiêu dùng, trả nghĩa vụ và dự phòng. Các khối chuyển động chỉ thể hiện lựa chọn; chúng không phải cơ cấu tiết kiệm thực tế của Trung Quốc.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Cùng một khoản thu, ba lựa chọn",
+        "design": {
+          "simulation": {
+            "kind": "household",
+            "items": [
+              {
+                "label": "Tiêu dùng",
+                "value": 50
+              },
+              {
+                "label": "Trả nghĩa vụ",
+                "value": 25
+              },
+              {
+                "label": "Dự phòng",
+                "value": 25
+              }
+            ],
+            "note": "100 phần thu nhập giả định · Các tỷ trọng không phải số liệu Trung Quốc."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 7322,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 7672,
+        "variety": {
+          "module": "people",
+          "mechanic": "100 illustrative coins allocated to three physical jars",
+          "index": 21,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h04",
+        "text": "Theo khảo sát hộ gia đình, chi tiêu tiêu dùng bình quân đầu người trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu tăng ba phẩy sáu phần trăm theo giá hiện hành, và hai phẩy bảy phần trăm sau điều chỉnh giá.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Cùng chỉ tiêu: danh nghĩa / thực",
+        "design": {
+          "chart": {
+            "kind": "bars",
+            "items": [
+              {
+                "label": "Danh nghĩa",
+                "value": 3.6
+              },
+              {
+                "label": "Thực",
+                "value": 2.7
+              }
+            ],
+            "unit": "% cùng kỳ · chi tiêu bình quân đầu người",
+            "max": 5
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 7672,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Nguồn: NBS · Chi tiêu bình quân đầu người 1–9/2026 · Danh nghĩa và thực",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 8019,
+        "variety": {
+          "module": "data",
+          "mechanic": "nominal-to-real price-adjustment lens",
+          "index": 22,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h05",
+        "text": "Hai con số khác nhau vì một bên chưa loại tác động của giá. Và chỉ tiêu bình quân này không có nghĩa mỗi gia đình tăng chi đúng từng ấy. Bình quân có thể che những khác biệt rất lớn.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Bình quân không phải mọi gia đình",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "THỐNG KÊ",
+                "title": "Bình quân",
+                "body": "Một số tổng hợp"
+              },
+              {
+                "label": "THỰC TẾ HỘ",
+                "title": "Khác hoàn cảnh",
+                "body": "Phân bố có thể khác xa"
+              }
+            ]
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 8019,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Tư liệu Trung Quốc minh họa · LayG Traveller / Pexels License; Shwangtianyuan / CC BY-SA 4.0",
+        "needToSee": "Actual inspected China context; people/businesses are not asserted to represent average incomes, actual profits, job losses or causal effects. People walking through a shopping-center passage beside a CoCo tea/juice counter; overhead store signs and other shops. | Night supermarket storefront with Chinese signage, open goods-filled entrance and people passing outside.",
+        "end": 8343,
+        "variety": {
+          "module": "people",
+          "mechanic": "different household baskets behind an average",
+          "index": 23,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h06",
+        "text": "Cũng đừng dùng doanh số bán lẻ hàng hóa thay cho toàn bộ tiêu dùng trong GDP. Phạm vi dịch vụ, đối tượng đo và phương pháp thống kê khác nhau; biểu đồ đẹp vẫn sai nếu đặt nhầm hai đại lượng cạnh nhau.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Đọc đúng phạm vi chỉ tiêu",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Bán lẻ hàng hóa",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Phạm vi dịch vụ",
+                "column": 0
+              },
+              {
+                "id": "2",
+                "label": "Khảo sát hộ",
+                "column": 0
+              },
+              {
+                "id": "3",
+                "label": "Tiêu dùng trong GDP",
+                "column": 1
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 8343,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 8701,
+        "variety": {
+          "module": "people",
+          "mechanic": "nested goods and service measurement scopes",
+          "index": 24,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h07",
+        "text": "Một phần tranh luận chính sách vì thế hướng tới thu nhập hộ gia đình, an sinh và niềm tin, thay vì chỉ thêm năng lực làm hàng. Đây là chuyện điều kiện để người dân muốn chi, không phải kết luận rằng tiết kiệm tự nó là xấu.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Từ năng lực sản xuất tới nhu cầu",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Thu nhập",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "An sinh",
+                "column": 0
+              },
+              {
+                "id": "2",
+                "label": "Niềm tin",
+                "column": 0
+              },
+              {
+                "id": "3",
+                "label": "Điều kiện để chi",
+                "column": 1
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 8701,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Tham khảo: World Bank7/2026; IMF ArticleIV2025 công bố2026 · Sơ đồ giải thích",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 9111,
+        "variety": {
+          "module": "people",
+          "mechanic": "income and safety-net bridge towards a store",
+          "index": 25,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "h08",
+        "text": "Doanh nghiệp cần người mua, còn người mua cần nguồn thu nhập và sự an tâm. Khi một mắt xích yếu đi, tăng công suất ở mắt xích khác có thể chưa giải quyết được điểm nghẽn.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Tăng một mắt xích chưa đủ",
+        "design": {
+          "simulation": {
+            "kind": "factory",
+            "items": [
+              {
+                "label": "Năng lực",
+                "value": 8
+              },
+              {
+                "label": "Đơn hàng",
+                "value": 4
+              },
+              {
+                "label": "Bán được",
+                "value": 4
+              }
+            ],
+            "note": "Minh họa điểm nghẽn · Giá trị trên hình không phải dữ liệu thực."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 9111,
+        "images": [],
+        "chapter": "households",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 9422,
+        "variety": {
+          "module": "people",
+          "mechanic": "warehouse and shopping demand bottleneck",
+          "index": 26,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t01",
+        "text": "Hàng hóa không chỉ tìm người mua trong nước. Từ các cụm công nghiệp và cảng, chúng đi vào nhiều thị trường. Bản đồ ở đây là sơ đồ kết nối thương mại, không mô tả tuyến tàu thực hay khối lượng vận chuyển.",
+        "phase": "content",
+        "layout": "c-map",
+        "headline": "Kết nối ra nhiều thị trường",
+        "design": {
+          "map": {
+            "mode": "routes",
+            "nodes": [
+              {
+                "id": "cn",
+                "label": "Trung Quốc",
+                "lon": 116,
+                "lat": 32
+              },
+              {
+                "id": "vn",
+                "label": "Đông Nam Á",
+                "lon": 106,
+                "lat": 15
+              },
+              {
+                "id": "eu",
+                "label": "Châu Âu",
+                "lon": 9,
+                "lat": 51
+              },
+              {
+                "id": "us",
+                "label": "Bắc Mỹ",
+                "lon": -98,
+                "lat": 39
+              },
+              {
+                "id": "af",
+                "label": "Châu Phi",
+                "lon": 20,
+                "lat": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "cn",
+                "to": "vn"
+              },
+              {
+                "from": "cn",
+                "to": "eu"
+              },
+              {
+                "from": "cn",
+                "to": "us"
+              },
+              {
+                "from": "cn",
+                "to": "af"
+              }
+            ],
+            "note": "Sơ đồ kết nối thương mại · Không phải tuyến tàu thực hoặc quy mô kim ngạch."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 9422,
+        "images": [
+          {
+            "file": "china/cn-yangshan-port.jpg",
+            "credit": "Gmbsfd",
+            "sourceHash": "94bd2bc529e2d32de2eec419bdde3515ea093b737e5e9efbabaac137e370f827",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.3333333333333333
+          }
+        ],
+        "chapter": "trade",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-map exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 9777,
+        "variety": {
+          "module": "story",
+          "mechanic": "geographic trade atlas and actual port photograph",
+          "index": 27,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t02",
+        "text": "Xuất khẩu tạo đơn hàng cho doanh nghiệp và việc làm liên quan. Nhập khẩu mang vào nguyên liệu, thiết bị và sản phẩm. Cả hai cùng nằm trong chuỗi cung ứng, chứ không chỉ có một mũi tên hàng đi ra.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Xuất khẩu và nhập khẩu cùng hiện diện",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Đầu vào nhập khẩu",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Sản xuất trong nước",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Xuất khẩu",
+                "column": 2
+              },
+              {
+                "id": "3",
+                "label": "Nhu cầu nội địa",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 9777,
+        "images": [],
+        "chapter": "trade",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 10120,
+        "variety": {
+          "module": "data",
+          "mechanic": "imports, local assembly, export and domestic sale",
+          "index": 28,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t03",
+        "text": "Trong tính GDP theo chi tiêu, xuất khẩu ròng là xuất khẩu trừ nhập khẩu. Điều này không có nghĩa nhập khẩu là xấu; phép trừ giúp tránh tính phần giá trị được tạo ở nước ngoài vào sản lượng trong nước.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Vì sao GDP trừ nhập khẩu?",
+        "design": {
+          "chart": {
+            "kind": "waterfall",
+            "items": [
+              {
+                "label": "Xuất khẩu",
+                "value": 10
+              },
+              {
+                "label": "Nhập khẩu",
+                "value": -7
+              },
+              {
+                "label": "Chênh lệch",
+                "value": 3
+              }
+            ],
+            "unit": "đơn vị giả định",
+            "max": 12
+          },
+          "theme": "dark"
+        },
+        "body": "Phép trừ trong cách tính GDP · Nhập khẩu không đồng nghĩa “xấu”.",
+        "eyebrow": "VÍ DỤ SỐ HỌC GIẢ ĐỊNH",
+        "start": 10120,
+        "images": [],
+        "chapter": "trade",
+        "sourceNote": "Số học giả định · Không phải số liệu xuất/nhập khẩu hay đóng góp GDP thực",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 10468,
+        "variety": {
+          "module": "data",
+          "mechanic": "domestic-value ledger excluding foreign input",
+          "index": 29,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t04",
+        "text": "Hãy dùng một phép tính giả định: xuất khẩu tăng mười đơn vị, nhập khẩu tăng bảy, thì phần chênh tăng ba. Đây chỉ là minh họa số học, không phải đóng góp tăng trưởng thực tế của Trung Quốc.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Ví dụ giả định: 10 − 7 = 3",
+        "design": {
+          "chart": {
+            "kind": "waterfall",
+            "items": [
+              {
+                "label": "Xuất tăng",
+                "value": 10
+              },
+              {
+                "label": "Nhập tăng",
+                "value": -7
+              },
+              {
+                "label": "Chênh tăng",
+                "value": 3
+              }
+            ],
+            "unit": "đơn vị giả định · không phải đóng góp thực",
+            "max": 12
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "VÍ DỤ SỐ HỌC GIẢ ĐỊNH",
+        "start": 10468,
+        "images": [],
+        "chapter": "trade",
+        "sourceNote": "Số học giả định · Không phải số liệu xuất/nhập khẩu hay đóng góp GDP thực",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 10786,
+        "variety": {
+          "module": "data",
+          "mechanic": "hypothetical unit blocks, ten minus seven",
+          "index": 30,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t05",
+        "text": "Xuất khẩu mạnh có thể bù một phần nhu cầu yếu ở nơi khác, nhưng không vô hạn. Doanh nghiệp còn đối mặt thị hiếu, cạnh tranh, chi phí vận chuyển và chính sách thương mại của đối tác.",
+        "phase": "content",
+        "layout": "c-map",
+        "headline": "Đơn hàng ngoài nước có điều kiện",
+        "design": {
+          "map": {
+            "mode": "routes",
+            "nodes": [
+              {
+                "id": "cn",
+                "label": "Trung Quốc",
+                "lon": 116,
+                "lat": 32
+              },
+              {
+                "id": "vn",
+                "label": "Đông Nam Á",
+                "lon": 106,
+                "lat": 15
+              },
+              {
+                "id": "eu",
+                "label": "Châu Âu",
+                "lon": 9,
+                "lat": 51
+              },
+              {
+                "id": "us",
+                "label": "Bắc Mỹ",
+                "lon": -98,
+                "lat": 39
+              },
+              {
+                "id": "af",
+                "label": "Châu Phi",
+                "lon": 20,
+                "lat": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "cn",
+                "to": "vn"
+              },
+              {
+                "from": "cn",
+                "to": "eu"
+              },
+              {
+                "from": "cn",
+                "to": "us"
+              },
+              {
+                "from": "cn",
+                "to": "af"
+              }
+            ],
+            "note": "Đa dạng thị trường, điều kiện cạnh tranh · Sơ đồ không đo đơn hàng."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 10786,
+        "images": [],
+        "chapter": "trade",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-map exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 11105,
+        "variety": {
+          "module": "data",
+          "mechanic": "trade obstacles acting on a container",
+          "index": 31,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t06",
+        "text": "Một thay đổi thuế quan có thể khiến người mua, nhà cung cấp và địa điểm hoàn thiện sản phẩm điều chỉnh. Tuy vậy, một tuyến nối mới trên bản đồ không chứng minh toàn bộ chuỗi giá trị đã chuyển đi.",
+        "phase": "content",
+        "layout": "c-map",
+        "headline": "Một mắt xích đổi chỗ, cả chuỗi chưa chắc đổi",
+        "design": {
+          "map": {
+            "mode": "routes",
+            "nodes": [
+              {
+                "id": "sh",
+                "label": "Thượng Hải",
+                "lon": 121.47,
+                "lat": 31.23
+              },
+              {
+                "id": "sz",
+                "label": "Thâm Quyến",
+                "lon": 114.06,
+                "lat": 22.54
+              },
+              {
+                "id": "vn",
+                "label": "Đông Nam Á",
+                "lon": 106,
+                "lat": 15
+              },
+              {
+                "id": "eu",
+                "label": "Châu Âu",
+                "lon": 9,
+                "lat": 51
+              }
+            ],
+            "links": [
+              {
+                "from": "sz",
+                "to": "vn"
+              },
+              {
+                "from": "vn",
+                "to": "eu"
+              },
+              {
+                "from": "sh",
+                "to": "eu"
+              }
+            ],
+            "note": "Một cấu hình giả định · Đường nối mới không chứng minh cả chuỗi đã chuyển đi."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 11105,
+        "images": [],
+        "chapter": "trade",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-map exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 11434,
+        "variety": {
+          "module": "data",
+          "mechanic": "partial supply-chain relocation with parts remaining",
+          "index": 32,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "t07",
+        "text": "Bởi vậy, đọc sức mạnh xuất khẩu cần đi cùng khả năng tạo giá trị, thu nhập và đa dạng thị trường. Không nên lấy kim ngạch gộp để suy thẳng thành lợi nhuận hay mức sống của từng người.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Kim ngạch ≠ Lợi nhuận ≠ Thu nhập hộ",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Kim ngạch gộp",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Chi phí/giá trị thêm",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Kết quả doanh nghiệp",
+                "column": 2
+              },
+              {
+                "id": "3",
+                "label": "Thu nhập hộ",
+                "column": 3
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 11434,
+        "images": [],
+        "chapter": "trade",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 11761,
+        "variety": {
+          "module": "data",
+          "mechanic": "gross receipts, costs, profits and household income ledger",
+          "index": 33,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "d01",
+        "text": "Có một chuyển động chậm hơn tàu hàng nhưng rất quan trọng: cơ cấu dân số. Theo công bố thống kê cuối năm hai nghìn không trăm hai mươi lăm, người từ sáu mươi tuổi trở lên chiếm hai mươi ba phần trăm dân số.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Cuối 2025: người 60+ chiếm 23%",
+        "design": {
+          "simulation": {
+            "kind": "cohorts",
+            "items": [
+              {
+                "label": "Dưới 60",
+                "value": 77
+              },
+              {
+                "label": "Từ 60 trở lên",
+                "value": 23
+              }
+            ],
+            "note": "Cơ cấu tuổi cuối 2025 theo NBS · 23% là nhóm60+, không phải65+."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 11761,
+        "images": [],
+        "chapter": "demography",
+        "sourceNote": "Nguồn: NBS · Cuối2025 · Nhóm60+ · Phạm vi dân số theo công bố",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 12088,
+        "variety": {
+          "module": "people",
+          "mechanic": "100 people with 23 aged-60-plus pictograms",
+          "index": 34,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "d02",
+        "text": "Mốc tuổi phải được giữ rõ. Hai mươi ba phần trăm ở đây là nhóm sáu mươi trở lên, không phải sáu mươi lăm trở lên. Đổi mốc tuổi mà giữ nguyên con số sẽ làm biểu đồ sai nghĩa.",
+        "phase": "content",
+        "layout": "c-compare",
+        "headline": "60+ không phải 65+",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "MỐC ĐƯỢC DÙNG",
+                "title": "60 tuổi trở lên",
+                "body": "23% cuối2025"
+              },
+              {
+                "label": "MỐC KHÁC",
+                "title": "65 tuổi trở lên",
+                "body": "Không dùng lại con số23%"
+              }
+            ]
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 12088,
+        "images": [],
+        "chapter": "demography",
+        "sourceNote": "Nguồn: NBS · Cuối2025 · Nhóm60+ · Phạm vi dân số theo công bố",
+        "needToSee": "Original authored c-compare exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 12401,
+        "variety": {
+          "module": "people",
+          "mechanic": "age ruler with distinct 60 and 65 thresholds",
+          "index": 35,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "d03",
+        "text": "Già hóa tác động tới nhu cầu chăm sóc, chi tiêu công, thị trường lao động và kế hoạch của gia đình. Nhưng tỷ lệ tuổi không tự quyết định một kết cục kinh tế duy nhất; năng suất và cách tổ chức xã hội vẫn quan trọng.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Dân số tác động qua nhiều kênh",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Cơ cấu tuổi",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Chăm sóc/an sinh",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Lao động",
+                "column": 1
+              },
+              {
+                "id": "3",
+                "label": "Kế hoạch hộ",
+                "column": 1
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "0",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "0",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 12401,
+        "images": [
+          {
+            "file": "china/cn-beijing-seniors.jpg",
+            "credit": "gongfu_king",
+            "sourceHash": "786b82d26272a1a5a922f97f5b1c358c0fab8977dfed7c3f038d525635058f5b",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.5047021943573669
+          }
+        ],
+        "chapter": "demography",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 12789,
+        "variety": {
+          "module": "people",
+          "mechanic": "life-course care, work and family spaces",
+          "index": 36,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "d04",
+        "text": "Trong mô phỏng nhà máy này, cùng một nhóm người có thể làm ra nhiều giá trị hơn nếu kỹ năng, công cụ và quy trình tốt lên. Không phải chỉ đếm có bao nhiêu robot, mà phải hỏi hiệu quả thực sự tăng thế nào.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Năng suất không chỉ là số robot",
+        "design": {
+          "simulation": {
+            "kind": "factory",
+            "items": [
+              {
+                "label": "Kỹ năng",
+                "value": 3
+              },
+              {
+                "label": "Công cụ",
+                "value": 4
+              },
+              {
+                "label": "Quy trình",
+                "value": 5
+              }
+            ],
+            "note": "Minh họa năng suất · Không dự báo sản lượng hay việc làm."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 12789,
+        "images": [],
+        "chapter": "demography",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 13167,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "human skills, tools and process at a workbench",
+          "index": 37,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "d05",
+        "text": "Đầu tư công nghệ có thể mở cơ hội, đồng thời đòi hỏi vốn và chuyển đổi kỹ năng. Việc làm ở từng ngành có thể thay đổi khác nhau; một cảnh tự động hóa không chứng minh toàn bộ người lao động đều được lợi hoặc mất việc.",
+        "phase": "content",
+        "layout": "c-photo",
+        "headline": "Công nghệ có cơ hội và chi phí chuyển đổi",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "CƠ HỘI",
+                "title": "Công nghệ/kỹ năng",
+                "body": "Cần hiệu quả thực"
+              },
+              {
+                "label": "ĐIỀU KIỆN",
+                "title": "Vốn/chuyển đổi",
+                "body": "Tác động khác từng ngành"
+              }
+            ]
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 13167,
+        "images": [
+          {
+            "file": "china/cn-industry-robots.jpg",
+            "credit": "Cory M. Grenier",
+            "sourceHash": "91cd219449b5f779838d9b69004d781ade74f324fcdc552555142f72eb14e102",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.3333333333333333
+          },
+          {
+            "file": "china/cn-toy-assembly-workers.jpg",
+            "credit": "Encik Tekateki",
+            "sourceHash": "678092b200962a005f96e35ad33fa936f45574eea53f8bf982135c82f5554588",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.8497109826589595
+          }
+        ],
+        "chapter": "demography",
+        "sourceNote": "Tư liệu Trung Quốc minh họa · Cory M. Grenier / CC BY-SA 2.0; Caitriana Nicholson  from 北京 ~ Beijing, 中国 ~ China / CC BY-SA 2.0",
+        "needToSee": "Actual inspected China context; people/businesses are not asserted to represent average incomes, actual profits, job losses or causal effects. Black-and-white industrial interior with robotic arms, conveyor and equipment. | Silk-reeling/processing machinery with pale cocoons in water basins and thread rollers.",
+        "end": 13549,
+        "variety": {
+          "module": "story",
+          "mechanic": "automation and worker contexts in a moving photographic aperture",
+          "index": 38,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "d06",
+        "text": "Vì thế, thách thức dài hạn là phối hợp năng suất, đào tạo và mạng lưới hỗ trợ. Đó là một bài toán nhiều năm, không thể kiểm bằng số bán hàng của riêng một tháng.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Năng suất · Kỹ năng · Hỗ trợ chuyển đổi",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Năng suất",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Đào tạo",
+                "column": 0
+              },
+              {
+                "id": "2",
+                "label": "Hỗ trợ chuyển đổi",
+                "column": 0
+              },
+              {
+                "id": "3",
+                "label": "Khả năng thích ứng",
+                "column": 1
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "cream"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 13549,
+        "images": [],
+        "chapter": "demography",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 13854,
+        "variety": {
+          "module": "people",
+          "mechanic": "multi-year education and training staircase",
+          "index": 39,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "p01",
+        "text": "Quay lại con số tổng. GDP trong chín tháng đầu năm hai nghìn không trăm hai mươi sáu tăng bốn phẩy sáu phần trăm so với cùng kỳ, theo ước tính sơ bộ của cơ quan thống kê.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "9 tháng đầu 2026: GDP +4,6%",
+        "design": {
+          "chart": {
+            "kind": "bars",
+            "items": [
+              {
+                "label": "GDP 9 tháng",
+                "value": 4.6
+              }
+            ],
+            "unit": "% cùng kỳ · giá so sánh",
+            "max": 6
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 13854,
+        "images": [],
+        "chapter": "policy",
+        "sourceNote": "Nguồn: NBS · 1–9/2026 · Giá so sánh · Ước tính sơ bộ",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 14130,
+        "variety": {
+          "module": "data",
+          "mechanic": "nine-month GDP statistical book and growth scale",
+          "index": 40,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "p02",
+        "text": "Theo quý so với cùng kỳ, lần lượt là năm phẩy không, bốn phẩy ba và bốn phẩy năm phần trăm. Đó không phải tăng trưởng so với quý liền trước, và cũng chưa phải kết quả cả năm.",
+        "phase": "content",
+        "layout": "c-chart",
+        "headline": "Q1 / Q2 / Q3: cùng kỳ, không phải liền quý",
+        "design": {
+          "chart": {
+            "kind": "line",
+            "items": [
+              {
+                "label": "Q1",
+                "value": 5
+              },
+              {
+                "label": "Q2",
+                "value": 4.3
+              },
+              {
+                "label": "Q3",
+                "value": 4.5
+              }
+            ],
+            "unit": "% cùng kỳ · 2026",
+            "max": 6,
+            "min": 0
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "SỐ LIỆU CÓ NGUỒN",
+        "start": 14130,
+        "images": [],
+        "chapter": "policy",
+        "sourceNote": "Nguồn: NBS · 1–9/2026 · Giá so sánh · Ước tính sơ bộ",
+        "needToSee": "Original authored c-chart exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 14483,
+        "variety": {
+          "module": "data",
+          "mechanic": "three quarterly year-on-year calendar markers",
+          "index": 41,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "p03",
+        "text": "Một chính sách có thể nâng cầu trước mắt, nhưng cần hỏi tiền tới đâu, ai thực sự chi, và nghĩa vụ nào được tạo thêm. Hỗ trợ đầu tư, hỗ trợ hộ gia đình và xử lý nghĩa vụ cũ có đường truyền khác nhau.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Tiền tới ai? Đi qua kênh nào?",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Nguồn hỗ trợ",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Đầu tư",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Hộ gia đình",
+                "column": 1
+              },
+              {
+                "id": "3",
+                "label": "Nghĩa vụ cũ",
+                "column": 1
+              },
+              {
+                "id": "4",
+                "label": "Cầu/hiệu quả",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "0",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "0",
+                "to": "3",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "4",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "4",
+                "value": 1
+              },
+              {
+                "from": "3",
+                "to": "4",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 14483,
+        "images": [],
+        "chapter": "policy",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 14876,
+        "variety": {
+          "module": "story",
+          "mechanic": "policy plumbing with three different destinations",
+          "index": 42,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "p04",
+        "text": "Phép thử thứ nhất: hoạt động mới có tạo hiệu quả và dòng thu nhập lâu dài không? Nếu chỉ tăng số dự án mà bỏ qua nhu cầu, tăng trưởng hiện tại có thể đi cùng áp lực xử lý trong tương lai.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "1 / Hiệu quả, không chỉ khối lượng",
+        "design": {
+          "simulation": {
+            "kind": "factory",
+            "items": [
+              {
+                "label": "Đầu tư",
+                "value": 8
+              },
+              {
+                "label": "Nhu cầu",
+                "value": 5
+              },
+              {
+                "label": "Sử dụng",
+                "value": 5
+              }
+            ],
+            "note": "Tình huống giả định · Không phải dự báo một chính sách."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 14876,
+        "images": [],
+        "chapter": "policy",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 15238,
+        "variety": {
+          "module": "spatial",
+          "mechanic": "effective productive project versus empty construction",
+          "index": 43,
+          "revision": "r03",
+          "titleMode": "compact"
+        }
+      },
+      {
+        "id": "p05",
+        "text": "Phép thử thứ hai: thu nhập và sự an tâm của hộ gia đình có cải thiện không? Một nền kinh tế muốn cân bằng hơn cần nhìn cả bên sản xuất lẫn điều kiện để thị trường trong nước hấp thụ hàng hóa, dịch vụ.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "2 / Thu nhập và sự an tâm",
+        "design": {
+          "simulation": {
+            "kind": "household",
+            "items": [
+              {
+                "label": "Chi tiêu",
+                "value": 55
+              },
+              {
+                "label": "Nghĩa vụ",
+                "value": 25
+              },
+              {
+                "label": "Dự phòng",
+                "value": 20
+              }
+            ],
+            "note": "Một phân bổ giả định để nói về điều kiện chi tiêu, không phải khuyến nghị tỷ trọng."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 15238,
+        "images": [],
+        "chapter": "policy",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 15630,
+        "variety": {
+          "module": "people",
+          "mechanic": "household income security and store orders",
+          "index": 44,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "p06",
+        "text": "Phép thử thứ ba: rủi ro được giải quyết hay chỉ chuyển từ nơi này sang nơi khác? Tái cơ cấu nghĩa vụ và hoàn thiện dự án cần được phân biệt với việc đẩy cam kết sang một bảng cân đối mới.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "3 / Giải quyết hay chuyển chỗ rủi ro?",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Nghĩa vụ cũ",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Xử lý thực",
+                "column": 1
+              },
+              {
+                "id": "2",
+                "label": "Chuyển bảng cân đối",
+                "column": 1
+              },
+              {
+                "id": "3",
+                "label": "Rủi ro còn lại",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "1",
+                "value": 1
+              },
+              {
+                "from": "0",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "3",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 15630,
+        "images": [],
+        "chapter": "policy",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 16007,
+        "variety": {
+          "module": "data",
+          "mechanic": "moving a liability versus actually settling it",
+          "index": 45,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "p07",
+        "text": "Các phép thử này không đưa ra một dự báo chắc chắn. Chúng giúp đọc tin mới mà không bị một con số hoặc một hình ảnh dẫn đi quá xa, nhất là khi các ngành và địa phương đang khác nhịp.",
+        "phase": "content",
+        "layout": "c-compare",
+        "headline": "Đọc điều kiện, tránh một kết luận duy nhất",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "CẦN ĐỌC",
+                "title": "Kỳ đo/điều kiện",
+                "body": "Không suy từ một ảnh"
+              },
+              {
+                "label": "CẦN ĐỐI CHIẾU",
+                "title": "Ngành/địa phương",
+                "body": "Không một kết cục duy nhất"
+              }
+            ]
+          },
+          "theme": "warm"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 16007,
+        "images": [
+          {
+            "file": "china/cn-nanjing-shoppers.jpg",
+            "credit": "TheBlueRutabaga",
+            "sourceHash": "7d9fbb5320862a7b9094e8c6d527310bc271bed7d52b84c3026100a1aa293097",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.3333333333333333
+          }
+        ],
+        "chapter": "policy",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-compare exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 16348,
+        "variety": {
+          "module": "story",
+          "mechanic": "reading a claim through a moving scope lens",
+          "index": 46,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "e01",
+        "text": "Trung Quốc vì thế có thể đồng thời sở hữu năng lực sản xuất lớn và gặp áp lực từ bất động sản, sức mua, dân số. Những điều ấy không tự loại trừ nhau; chúng tương tác qua thu nhập, tài sản, đơn hàng và niềm tin.",
+        "phase": "content",
+        "layout": "c-flow",
+        "headline": "Những chuyển động cùng tồn tại",
+        "design": {
+          "flow": {
+            "nodes": [
+              {
+                "id": "0",
+                "label": "Sản xuất",
+                "column": 0
+              },
+              {
+                "id": "1",
+                "label": "Nhà ở",
+                "column": 0
+              },
+              {
+                "id": "2",
+                "label": "Thu nhập hộ",
+                "column": 1
+              },
+              {
+                "id": "3",
+                "label": "Thương mại",
+                "column": 0
+              },
+              {
+                "id": "4",
+                "label": "Niềm tin",
+                "column": 2
+              }
+            ],
+            "links": [
+              {
+                "from": "0",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "1",
+                "to": "2",
+                "value": 1
+              },
+              {
+                "from": "3",
+                "to": "0",
+                "value": 1
+              },
+              {
+                "from": "2",
+                "to": "4",
+                "value": 1
+              }
+            ],
+            "note": "Sơ đồ cơ chế · Độ rộng liên kết không biểu thị quy mô thống kê."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 16348,
+        "images": [],
+        "chapter": "ending",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-flow exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 16756,
+        "variety": {
+          "module": "story",
+          "mechanic": "a layered economic landscape showing simultaneous pressures",
+          "index": 47,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "e02",
+        "text": "Nếu nhớ một sơ đồ, hãy nhớ vòng kết nối: sản xuất tạo thu nhập, thu nhập hỗ trợ nhu cầu, nhu cầu nuôi doanh nghiệp; nhà ở, nghĩa vụ tài chính và chính sách có thể làm từng đường nối mạnh lên hoặc yếu đi.",
+        "phase": "content",
+        "layout": "c-sim",
+        "headline": "Sản xuất → Thu nhập → Nhu cầu",
+        "design": {
+          "simulation": {
+            "kind": "household",
+            "items": [
+              {
+                "label": "Tiêu dùng",
+                "value": 50
+              },
+              {
+                "label": "Nghĩa vụ",
+                "value": 25
+              },
+              {
+                "label": "Dự phòng",
+                "value": 25
+              }
+            ],
+            "note": "Sơ đồ kết nối khái niệm · Không là cơ cấu thu nhập thực."
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 16756,
+        "images": [],
+        "chapter": "ending",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-sim exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 17147,
+        "variety": {
+          "module": "story",
+          "mechanic": "meaningful callback to a town income-demand cycle",
+          "index": 48,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "e03",
+        "text": "Khi gặp một số liệu mới, hãy hỏi nó đo kỳ nào, theo giá nào, là mức hay tốc độ tăng, và có đại diện cho điều đang được kết luận không. Bốn câu hỏi nhỏ giúp nhìn một nền kinh tế lớn rõ hơn.",
+        "phase": "content",
+        "layout": "c-compare",
+        "headline": "Bốn câu hỏi trước khi kết luận",
+        "design": {
+          "comparison": {
+            "columns": [
+              {
+                "label": "01",
+                "title": "Kỳ đo nào?",
+                "body": "Cùng kỳ hay liền quý"
+              },
+              {
+                "label": "02",
+                "title": "Giá và đại lượng?",
+                "body": "Danh nghĩa/thực; mức/tăng"
+              },
+              {
+                "label": "03",
+                "title": "Phạm vi nào?",
+                "body": "Có đúng điều kết luận?"
+              }
+            ]
+          },
+          "theme": "dark"
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 17147,
+        "images": [],
+        "chapter": "ending",
+        "sourceNote": "Đồ họa cơ chế gốc · Không biểu thị quy mô thống kê",
+        "needToSee": "Original authored c-compare exactly depicting this narrated mechanism; data facts retain period/unit/source and simulation numbers are explicitly illustrative.",
+        "end": 17524,
+        "variety": {
+          "module": "story",
+          "mechanic": "four-question source inspection with a page magnifier",
+          "index": 49,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      },
+      {
+        "id": "e04",
+        "text": "Bạn muốn đi sâu vào bất động sản, xe điện hay thương mại Trung Quốc? Chia sẻ phần bạn quan tâm ở bình luận, và theo dõi để cùng kiểm tra những câu chuyện kinh tế qua số liệu và cơ chế phía sau.",
+        "phase": "cta",
+        "layout": "c-closing",
+        "headline": "Bạn muốn đi sâu vào động cơ nào?",
+        "design": {
+          "theme": "dark",
+          "cues": [
+            194
+          ]
+        },
+        "eyebrow": "CƠ CHẾ VÀ KẾT NỐI",
+        "start": 17524,
+        "images": [
+          {
+            "file": "china/cn-clip-china-market.mp4",
+            "credit": "Cfq938888 Chen",
+            "sourceHash": "e05622ca4c0de71c172e53191d7aea0d64c0951ecaa6cc6e19d7645acaca99e9",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.7777777777777777,
+            "mediaType": "video",
+            "availableFrames": 270,
+            "trimBeforeFrames": 0
+          },
+          {
+            "file": "china/cn-shanghai-skyline.jpg",
+            "credit": "Gankbank789",
+            "sourceHash": "de78e137d197c88fbde6c8493250e4d1bc87a9b021c3c2fb65272f36b45629b8",
+            "fit": "cover",
+            "focus": [
+              50,
+              50
+            ],
+            "aspect": 1.3333333333333333
+          }
+        ],
+        "chapter": "ending",
+        "sourceNote": "Tư liệu Trung Quốc minh họa · LayG Traveller / Pexels License; Gankbank789 / CC0",
+        "needToSee": "Actual inspected China context; people/businesses are not asserted to represent average incomes, actual profits, job losses or causal effects. Illuminated high-rise waterfront skyline at night, colored reflections on the water and subtle moving light patterns. | Lit Shanghai high-rise skyline across the river at night, including distinctive Lujiazui towers.",
+        "end": 17913,
+        "variety": {
+          "module": "story",
+          "mechanic": "moving China context and an actionable three-topic closing",
+          "index": 50,
+          "revision": "r03",
+          "titleMode": "standard"
+        }
+      }
+    ],
+    "captions": [
+      {
+        "start": 0.0,
+        "end": 2.56,
+        "text": "Một bên là cảng biển, dây chuyền và những"
+      },
+      {
+        "start": 2.592,
+        "end": 3.52,
+        "text": "đoàn tàu chở hàng."
+      },
+      {
+        "start": 3.68,
+        "end": 6.32,
+        "text": "Một bên là người mua nhà và các gia đình"
+      },
+      {
+        "start": 6.38,
+        "end": 7.76,
+        "text": "vẫn cân nhắc từng khoản chi."
+      },
+      {
+        "start": 7.98,
+        "end": 10.24,
+        "text": "Hai cảnh ấy có thể cùng đúng về Trung"
+      },
+      {
+        "start": 10.304,
+        "end": 10.84,
+        "text": "Quốc."
+      },
+      {
+        "start": 10.933,
+        "end": 13.36,
+        "text": "Vì sao một nền kinh tế sản xuất rất mạnh vẫn"
+      },
+      {
+        "start": 13.408,
+        "end": 14.8,
+        "text": "phải lo kích thích nhu cầu?"
+      },
+      {
+        "start": 14.987,
+        "end": 17.68,
+        "text": "Muốn hiểu, cần tách cỗ máy làm ra hàng hóa"
+      },
+      {
+        "start": 17.76,
+        "end": 19.92,
+        "text": "khỏi vòng tuần hoàn đưa thu nhập trở lại thị"
+      },
+      {
+        "start": 19.966,
+        "end": 20.32,
+        "text": "trường."
+      },
+      {
+        "start": 20.453,
+        "end": 22.88,
+        "text": "Video này nhìn vào các động cơ tăng trưởng,"
+      },
+      {
+        "start": 22.98,
+        "end": 25.52,
+        "text": "bất động sản, tiêu dùng và già hóa."
+      },
+      {
+        "start": 25.893,
+        "end": 28.48,
+        "text": "Số liệu được chốt theo các công bố đã"
+      },
+      {
+        "start": 28.544,
+        "end": 30.56,
+        "text": "kiểm tra đến ngày mười ba tháng mười một,"
+      },
+      {
+        "start": 30.62,
+        "end": 32.24,
+        "text": "năm hai nghìn không trăm hai mươi sáu."
+      },
+      {
+        "start": 32.42,
+        "end": 34.72,
+        "text": "Đây là phân tích giáo dục, không phải khuyến"
+      },
+      {
+        "start": 34.752,
+        "end": 35.44,
+        "text": "nghị đầu tư."
+      },
+      {
+        "start": 35.813,
+        "end": 38.32,
+        "text": "Biểu đồ số liệu có kỳ đo và nguồn"
+      },
+      {
+        "start": 38.36,
+        "end": 40.96,
+        "text": "riêng; mô phỏng chỉ giải thích cơ chế, không"
+      },
+      {
+        "start": 41.008,
+        "end": 43.12,
+        "text": "phải dự báo hay bản sao hoạt động của doanh"
+      },
+      {
+        "start": 43.143,
+        "end": 43.84,
+        "text": "nghiệp cụ thể."
+      },
+      {
+        "start": 44.34,
+        "end": 46.34,
+        "text": "Trước hết, Trung Quốc không phải một nhà máy"
+      },
+      {
+        "start": 46.38,
+        "end": 46.74,
+        "text": "duy nhất."
+      },
+      {
+        "start": 46.953,
+        "end": 49.620000000000005,
+        "text": "Trên bản đồ là các thành phố, vùng công"
+      },
+      {
+        "start": 49.643,
+        "end": 52.18000000000001,
+        "text": "nghiệp, cảng và thị trường lao động kết nối"
+      },
+      {
+        "start": 52.2,
+        "end": 52.580000000000005,
+        "text": "với nhau."
+      },
+      {
+        "start": 52.78,
+        "end": 55.38,
+        "text": "Khoảng cách và hạ tầng góp phần quyết định"
+      },
+      {
+        "start": 55.428000000000004,
+        "end": 56.580000000000005,
+        "text": "cách hàng hóa di chuyển."
+      },
+      {
+        "start": 56.760000000000005,
+        "end": 58.660000000000004,
+        "text": "Hãy lấy một dây chuyền minh họa."
+      },
+      {
+        "start": 58.82000000000001,
+        "end": 61.46000000000001,
+        "text": "Nhà cung cấp đưa linh kiện tới, công nhân"
+      },
+      {
+        "start": 61.540000000000006,
+        "end": 64.02000000000001,
+        "text": "và thiết bị lắp ráp, rồi sản phẩm được kiểm"
+      },
+      {
+        "start": 64.08,
+        "end": 65.14,
+        "text": "tra trước khi xuất xưởng."
+      },
+      {
+        "start": 65.34,
+        "end": 67.86,
+        "text": "Giá trị nằm trong cả chuỗi phối hợp ấy."
+      },
+      {
+        "start": 67.98,
+        "end": 70.58,
+        "text": "Khi nhiều nhà cung cấp, kỹ năng và dịch vụ ở"
+      },
+      {
+        "start": 70.62,
+        "end": 73.14,
+        "text": "gần nhau, việc tìm đầu vào hay xử lý trục"
+      },
+      {
+        "start": 73.167,
+        "end": 74.58,
+        "text": "trặc có thể thuận tiện hơn."
+      },
+      {
+        "start": 74.82000000000001,
+        "end": 77.54,
+        "text": "Đó là một lợi thế của cụm sản xuất, không"
+      },
+      {
+        "start": 77.6,
+        "end": 79.5,
+        "text": "chỉ là câu chuyện tiền công thấp."
+      },
+      {
+        "start": 79.57300000000001,
+        "end": 81.86000000000001,
+        "text": "Nhưng năng lực làm ra sản phẩm chưa tự bảo"
+      },
+      {
+        "start": 81.92,
+        "end": 83.38,
+        "text": "đảm mọi nhà máy có lợi nhuận."
+      },
+      {
+        "start": 83.62,
+        "end": 86.02000000000001,
+        "text": "Còn cần đơn hàng, mức giá đủ bù chi"
+      },
+      {
+        "start": 86.08000000000001,
+        "end": 88.66,
+        "text": "phí, chất lượng, công suất sử dụng và khả"
+      },
+      {
+        "start": 88.708,
+        "end": 89.62,
+        "text": "năng thu hồi tiền."
+      },
+      {
+        "start": 89.76400000000001,
+        "end": 92.26,
+        "text": "Theo bảng hạch toán sơ bộ của cơ quan thống"
+      },
+      {
+        "start": 92.313,
+        "end": 94.42,
+        "text": "kê Trung Quốc, giá trị tăng thêm ngành chế"
+      },
+      {
+        "start": 94.48,
+        "end": 96.26,
+        "text": "tạo trong chín tháng đầu năm hai nghìn không"
+      },
+      {
+        "start": 96.292,
+        "end": 98.42,
+        "text": "trăm hai mươi sáu tăng năm phẩy sáu phần"
+      },
+      {
+        "start": 98.452,
+        "end": 101.06,
+        "text": "trăm so với cùng kỳ, theo giá so sánh."
+      },
+      {
+        "start": 101.12700000000001,
+        "end": 103.7,
+        "text": "Trong cùng bảng và cùng kỳ, xây dựng giảm"
+      },
+      {
+        "start": 103.74000000000001,
+        "end": 106.02000000000001,
+        "text": "bốn phẩy một phần trăm, còn khu vực dịch vụ"
+      },
+      {
+        "start": 106.1,
+        "end": 107.46000000000001,
+        "text": "tăng năm phẩy hai phần trăm."
+      },
+      {
+        "start": 107.68,
+        "end": 110.42,
+        "text": "Các bộ phận có thể đi khác nhịp, dù đều"
+      },
+      {
+        "start": 110.48,
+        "end": 111.86,
+        "text": "nằm trong một nền kinh tế."
+      },
+      {
+        "start": 111.956,
+        "end": 114.42,
+        "text": "Điều này giúp tránh hai kết luận cực đoan:"
+      },
+      {
+        "start": 114.48400000000001,
+        "end": 116.82000000000001,
+        "text": "thấy một ngành tốt rồi cho rằng mọi gia đình"
+      },
+      {
+        "start": 116.88000000000001,
+        "end": 119.14,
+        "text": "đều khá lên, hoặc thấy một ngành khó khăn"
+      },
+      {
+        "start": 119.3,
+        "end": 121.62,
+        "text": "rồi cho rằng toàn bộ năng lực sản xuất đã"
+      },
+      {
+        "start": 121.668,
+        "end": 122.10000000000001,
+        "text": "biến mất."
+      },
+      {
+        "start": 122.5,
+        "end": 125.14,
+        "text": "Câu hỏi khó hơn là động cơ nào đang"
+      },
+      {
+        "start": 125.22,
+        "end": 127.94,
+        "text": "kéo, động cơ nào đang ghìm, và sức kéo"
+      },
+      {
+        "start": 127.99300000000001,
+        "end": 129.94,
+        "text": "có chuyển thành thu nhập cùng nhu cầu bền"
+      },
+      {
+        "start": 129.988,
+        "end": 130.74,
+        "text": "vững hay không."
+      },
+      {
+        "start": 130.953,
+        "end": 133.38,
+        "text": "Để thấy phần ghìm, hãy nhìn sang bất động"
+      },
+      {
+        "start": 133.46,
+        "end": 133.78,
+        "text": "sản."
+      },
+      {
+        "start": 134.28,
+        "end": 136.36,
+        "text": "Một dự án nhà ở có nhiều bên tham gia:"
+      },
+      {
+        "start": 136.453,
+        "end": 139.24,
+        "text": "người mua, chủ đầu tư, nhà thầu,"
+      },
+      {
+        "start": 139.272,
+        "end": 141.24,
+        "text": "ngân hàng và chính quyền địa phương."
+      },
+      {
+        "start": 141.427,
+        "end": 144.12,
+        "text": "Vì vậy, khó khăn ở dự án có thể truyền"
+      },
+      {
+        "start": 144.16,
+        "end": 145.56,
+        "text": "tới những bảng cân đối khác nhau."
+      },
+      {
+        "start": 145.707,
+        "end": 148.36,
+        "text": "Trong mô phỏng này, một hộ gia đình mua"
+      },
+      {
+        "start": 148.48,
+        "end": 150.76,
+        "text": "nhà và một doanh nghiệp triển khai dự án."
+      },
+      {
+        "start": 151.02,
+        "end": 153.72,
+        "text": "Khi tiền thu chậm lại, doanh nghiệp phải"
+      },
+      {
+        "start": 153.76,
+        "end": 156.12,
+        "text": "xem lại lịch thanh toán cho nhà thầu và khả"
+      },
+      {
+        "start": 156.168,
+        "end": 157.24,
+        "text": "năng hoàn thành công trình."
+      },
+      {
+        "start": 157.46,
+        "end": 160.12,
+        "text": "Nếu công trình chậm, người mua có thể lo"
+      },
+      {
+        "start": 160.173,
+        "end": 161.08,
+        "text": "về việc nhận nhà."
+      },
+      {
+        "start": 161.28,
+        "end": 163.8,
+        "text": "Nếu doanh nghiệp giảm đầu tư, nhu cầu vật"
+      },
+      {
+        "start": 163.864,
+        "end": 165.88,
+        "text": "liệu và việc làm liên quan cũng chịu ảnh"
+      },
+      {
+        "start": 165.92000000000002,
+        "end": 166.2,
+        "text": "hưởng."
+      },
+      {
+        "start": 166.42000000000002,
+        "end": 168.92000000000002,
+        "text": "Đây là các kênh truyền dẫn, không phải một"
+      },
+      {
+        "start": 168.973,
+        "end": 170.84,
+        "text": "tỷ lệ cố định cho mọi dự án."
+      },
+      {
+        "start": 171.133,
+        "end": 173.48000000000002,
+        "text": "Số liệu chính thức cho biết đầu tư phát"
+      },
+      {
+        "start": 173.53300000000002,
+        "end": 175.4,
+        "text": "triển bất động sản trong chín tháng đầu năm"
+      },
+      {
+        "start": 175.44,
+        "end": 177.56,
+        "text": "hai nghìn không trăm hai mươi sáu giảm hai"
+      },
+      {
+        "start": 177.64,
+        "end": 179.8,
+        "text": "mươi phẩy sáu phần trăm so với cùng kỳ."
+      },
+      {
+        "start": 179.96,
+        "end": 182.76,
+        "text": "Đây là chỉ tiêu đầu tư, không phải mức giảm"
+      },
+      {
+        "start": 182.8,
+        "end": 183.96,
+        "text": "của giá mọi căn nhà."
+      },
+      {
+        "start": 184.1,
+        "end": 186.2,
+        "text": "Một gia đình cũng có thể thay đổi hành vi"
+      },
+      {
+        "start": 186.32,
+        "end": 188.92000000000002,
+        "text": "khi giá trị tài sản hoặc triển vọng thu nhập"
+      },
+      {
+        "start": 188.973,
+        "end": 190.04,
+        "text": "khiến họ bất an."
+      },
+      {
+        "start": 190.30700000000002,
+        "end": 193.07999999999998,
+        "text": "Họ có thể hoãn một món mua lớn hay muốn"
+      },
+      {
+        "start": 193.12,
+        "end": 195.48000000000002,
+        "text": "giữ dự phòng nhiều hơn, ngay cả khi vẫn đang"
+      },
+      {
+        "start": 195.53300000000002,
+        "end": 196.04,
+        "text": "có việc."
+      },
+      {
+        "start": 196.227,
+        "end": 198.92000000000002,
+        "text": "World Bank và IMF đều xem"
+      },
+      {
+        "start": 198.952,
+        "end": 201.0,
+        "text": "điều chỉnh bất động sản là một phần quan"
+      },
+      {
+        "start": 201.04000000000002,
+        "end": 202.76,
+        "text": "trọng của bài toán tái cân bằng."
+      },
+      {
+        "start": 202.90699999999998,
+        "end": 205.56,
+        "text": "Nhưng giải quyết dự án dở dang, tổn"
+      },
+      {
+        "start": 205.624,
+        "end": 207.96,
+        "text": "thất và nghĩa vụ tài chính không đơn giản"
+      },
+      {
+        "start": 208.01999999999998,
+        "end": 210.04000000000002,
+        "text": "như bật lại một công tắc xây dựng."
+      },
+      {
+        "start": 210.24,
+        "end": 212.6,
+        "text": "Xây thêm có thể tạo hoạt động trước mắt,"
+      },
+      {
+        "start": 212.64,
+        "end": 214.84,
+        "text": "nhưng nếu nhu cầu hoặc hiệu quả không phù"
+      },
+      {
+        "start": 214.92000000000002,
+        "end": 217.32,
+        "text": "hợp thì rủi ro vẫn ở đó."
+      },
+      {
+        "start": 217.416,
+        "end": 219.96,
+        "text": "Điều cần phân biệt là hoàn thành nghĩa vụ cũ"
+      },
+      {
+        "start": 220.06,
+        "end": 221.8,
+        "text": "với mở rộng những cam kết mới."
+      },
+      {
+        "start": 222.3,
+        "end": 224.38000000000002,
+        "text": "Bây giờ chuyển từ công trường sang hộ gia"
+      },
+      {
+        "start": 224.428,
+        "end": 224.9,
+        "text": "đình."
+      },
+      {
+        "start": 224.97,
+        "end": 227.26000000000002,
+        "text": "Một vòng tuần hoàn đơn giản là doanh nghiệp"
+      },
+      {
+        "start": 227.3,
+        "end": 229.58,
+        "text": "trả thu nhập, người dân chi tiêu, doanh"
+      },
+      {
+        "start": 229.614,
+        "end": 231.74,
+        "text": "nghiệp có doanh thu rồi tiếp tục tuyển dụng"
+      },
+      {
+        "start": 231.82000000000002,
+        "end": 232.54000000000002,
+        "text": "và đầu tư."
+      },
+      {
+        "start": 232.82000000000002,
+        "end": 235.34,
+        "text": "Vòng ấy không chạy chỉ nhờ lời kêu gọi mua"
+      },
+      {
+        "start": 235.42000000000002,
+        "end": 235.74,
+        "text": "sắm."
+      },
+      {
+        "start": 235.847,
+        "end": 238.14000000000001,
+        "text": "Quyết định chi còn phụ thuộc thu nhập kỳ"
+      },
+      {
+        "start": 238.18800000000002,
+        "end": 240.62,
+        "text": "vọng, độ ổn định công việc, nghĩa vụ nợ"
+      },
+      {
+        "start": 240.78,
+        "end": 242.86,
+        "text": "và nhu cầu dự phòng cho những việc quan"
+      },
+      {
+        "start": 242.9,
+        "end": 243.82000000000002,
+        "text": "trọng của gia đình."
+      },
+      {
+        "start": 244.06,
+        "end": 246.78,
+        "text": "Để nhìn rõ cơ chế, tạm chia một khoản thu"
+      },
+      {
+        "start": 246.828,
+        "end": 249.42000000000002,
+        "text": "nhập minh họa thành tiêu dùng, trả nghĩa vụ"
+      },
+      {
+        "start": 249.553,
+        "end": 250.66000000000003,
+        "text": "và dự phòng."
+      },
+      {
+        "start": 250.73000000000002,
+        "end": 253.02,
+        "text": "Các khối chuyển động chỉ thể hiện lựa chọn;"
+      },
+      {
+        "start": 253.073,
+        "end": 254.86,
+        "text": "chúng không phải cơ cấu tiết kiệm thực tế"
+      },
+      {
+        "start": 254.92000000000002,
+        "end": 255.58,
+        "text": "của Trung Quốc."
+      },
+      {
+        "start": 255.72400000000002,
+        "end": 258.14,
+        "text": "Theo khảo sát hộ gia đình, chi tiêu tiêu"
+      },
+      {
+        "start": 258.188,
+        "end": 260.06,
+        "text": "dùng bình quân đầu người trong chín tháng"
+      },
+      {
+        "start": 260.1,
+        "end": 261.98,
+        "text": "đầu năm hai nghìn không trăm hai mươi sáu"
+      },
+      {
+        "start": 262.06,
+        "end": 264.14,
+        "text": "tăng ba phẩy sáu phần trăm theo giá hiện"
+      },
+      {
+        "start": 264.188,
+        "end": 266.54,
+        "text": "hành, và hai phẩy bảy phần trăm sau điều"
+      },
+      {
+        "start": 266.58000000000004,
+        "end": 267.18,
+        "text": "chỉnh giá."
+      },
+      {
+        "start": 267.3,
+        "end": 269.90000000000003,
+        "text": "Hai con số khác nhau vì một bên chưa loại"
+      },
+      {
+        "start": 269.94,
+        "end": 270.86,
+        "text": "tác động của giá."
+      },
+      {
+        "start": 271.047,
+        "end": 273.58000000000004,
+        "text": "Và chỉ tiêu bình quân này không có nghĩa mỗi"
+      },
+      {
+        "start": 273.62,
+        "end": 275.26,
+        "text": "gia đình tăng chi đúng từng ấy."
+      },
+      {
+        "start": 275.372,
+        "end": 277.5,
+        "text": "Bình quân có thể che những khác biệt rất"
+      },
+      {
+        "start": 277.58000000000004,
+        "end": 277.90000000000003,
+        "text": "lớn."
+      },
+      {
+        "start": 278.1,
+        "end": 280.46000000000004,
+        "text": "Cũng đừng dùng doanh số bán lẻ hàng hóa thay"
+      },
+      {
+        "start": 280.52,
+        "end": 282.46000000000004,
+        "text": "cho toàn bộ tiêu dùng trong GDP."
+      },
+      {
+        "start": 282.572,
+        "end": 285.18,
+        "text": "Phạm vi dịch vụ, đối tượng đo và phương"
+      },
+      {
+        "start": 285.228,
+        "end": 287.9,
+        "text": "pháp thống kê khác nhau; biểu đồ đẹp vẫn sai"
+      },
+      {
+        "start": 287.98,
+        "end": 289.9,
+        "text": "nếu đặt nhầm hai đại lượng cạnh nhau."
+      },
+      {
+        "start": 290.04,
+        "end": 292.62,
+        "text": "Một phần tranh luận chính sách vì thế hướng"
+      },
+      {
+        "start": 292.68,
+        "end": 295.18,
+        "text": "tới thu nhập hộ gia đình, an sinh và niềm"
+      },
+      {
+        "start": 295.26,
+        "end": 297.66,
+        "text": "tin, thay vì chỉ thêm năng lực làm hàng."
+      },
+      {
+        "start": 297.84000000000003,
+        "end": 300.14,
+        "text": "Đây là chuyện điều kiện để người dân muốn"
+      },
+      {
+        "start": 300.22,
+        "end": 302.62,
+        "text": "chi, không phải kết luận rằng tiết kiệm tự"
+      },
+      {
+        "start": 302.70000000000005,
+        "end": 303.5,
+        "text": "nó là xấu."
+      },
+      {
+        "start": 303.713,
+        "end": 306.22,
+        "text": "Doanh nghiệp cần người mua, còn người mua"
+      },
+      {
+        "start": 306.32,
+        "end": 308.3,
+        "text": "cần nguồn thu nhập và sự an tâm."
+      },
+      {
+        "start": 308.44,
+        "end": 310.94,
+        "text": "Khi một mắt xích yếu đi, tăng công suất ở"
+      },
+      {
+        "start": 310.98,
+        "end": 312.94,
+        "text": "mắt xích khác có thể chưa giải quyết được"
+      },
+      {
+        "start": 312.988,
+        "end": 313.58000000000004,
+        "text": "điểm nghẽn."
+      },
+      {
+        "start": 314.08000000000004,
+        "end": 316.16,
+        "text": "Hàng hóa không chỉ tìm người mua trong nước."
+      },
+      {
+        "start": 316.37300000000005,
+        "end": 318.96000000000004,
+        "text": "Từ các cụm công nghiệp và cảng, chúng đi vào"
+      },
+      {
+        "start": 319.00000000000006,
+        "end": 319.84000000000003,
+        "text": "nhiều thị trường."
+      },
+      {
+        "start": 319.96000000000004,
+        "end": 322.40000000000003,
+        "text": "Bản đồ ở đây là sơ đồ kết nối thương"
+      },
+      {
+        "start": 322.44000000000005,
+        "end": 324.96000000000004,
+        "text": "mại, không mô tả tuyến tàu thực hay khối"
+      },
+      {
+        "start": 324.987,
+        "end": 325.68000000000006,
+        "text": "lượng vận chuyển."
+      },
+      {
+        "start": 325.89300000000003,
+        "end": 328.32000000000005,
+        "text": "Xuất khẩu tạo đơn hàng cho doanh nghiệp và"
+      },
+      {
+        "start": 328.36800000000005,
+        "end": 329.36,
+        "text": "việc làm liên quan."
+      },
+      {
+        "start": 329.57300000000004,
+        "end": 332.16,
+        "text": "Nhập khẩu mang vào nguyên liệu, thiết bị và"
+      },
+      {
+        "start": 332.22,
+        "end": 333.00000000000006,
+        "text": "sản phẩm."
+      },
+      {
+        "start": 333.18000000000006,
+        "end": 335.36,
+        "text": "Cả hai cùng nằm trong chuỗi cung ứng, chứ"
+      },
+      {
+        "start": 335.38700000000006,
+        "end": 337.20000000000005,
+        "text": "không chỉ có một mũi tên hàng đi ra."
+      },
+      {
+        "start": 337.333,
+        "end": 340.00000000000006,
+        "text": "Trong tính GDP theo chi tiêu, xuất"
+      },
+      {
+        "start": 340.03200000000004,
+        "end": 342.00000000000006,
+        "text": "khẩu ròng là xuất khẩu trừ nhập khẩu."
+      },
+      {
+        "start": 342.112,
+        "end": 344.64000000000004,
+        "text": "Điều này không có nghĩa nhập khẩu là xấu;"
+      },
+      {
+        "start": 344.68800000000005,
+        "end": 346.80000000000007,
+        "text": "phép trừ giúp tránh tính phần giá trị được"
+      },
+      {
+        "start": 346.84000000000003,
+        "end": 348.72100000000006,
+        "text": "tạo ở nước ngoài vào sản lượng trong nước."
+      },
+      {
+        "start": 348.9200000000001,
+        "end": 350.96000000000004,
+        "text": "Hãy dùng một phép tính giả định:"
+      },
+      {
+        "start": 351.02400000000006,
+        "end": 353.20000000000005,
+        "text": "xuất khẩu tăng mười đơn vị, nhập khẩu tăng"
+      },
+      {
+        "start": 353.28000000000003,
+        "end": 354.96000000000004,
+        "text": "bảy, thì phần chênh tăng ba."
+      },
+      {
+        "start": 355.1,
+        "end": 357.52000000000004,
+        "text": "Đây chỉ là minh họa số học, không phải đóng"
+      },
+      {
+        "start": 357.56000000000006,
+        "end": 359.28000000000003,
+        "text": "góp tăng trưởng thực tế của Trung Quốc."
+      },
+      {
+        "start": 359.547,
+        "end": 361.9200000000001,
+        "text": "Xuất khẩu mạnh có thể bù một phần nhu cầu"
+      },
+      {
+        "start": 362.00000000000006,
+        "end": 364.16,
+        "text": "yếu ở nơi khác, nhưng không vô hạn."
+      },
+      {
+        "start": 364.34700000000004,
+        "end": 366.48,
+        "text": "Doanh nghiệp còn đối mặt thị hiếu, cạnh"
+      },
+      {
+        "start": 366.52000000000004,
+        "end": 368.80000000000007,
+        "text": "tranh, chi phí vận chuyển và chính sách"
+      },
+      {
+        "start": 368.82300000000004,
+        "end": 370.00000000000006,
+        "text": "thương mại của đối tác."
+      },
+      {
+        "start": 370.16,
+        "end": 372.32000000000005,
+        "text": "Một thay đổi thuế quan có thể khiến người"
+      },
+      {
+        "start": 372.38000000000005,
+        "end": 374.96000000000004,
+        "text": "mua, nhà cung cấp và địa điểm hoàn thiện sản"
+      },
+      {
+        "start": 374.992,
+        "end": 375.68000000000006,
+        "text": "phẩm điều chỉnh."
+      },
+      {
+        "start": 375.84000000000003,
+        "end": 378.32000000000005,
+        "text": "Tuy vậy, một tuyến nối mới trên bản đồ"
+      },
+      {
+        "start": 378.38700000000006,
+        "end": 380.32000000000005,
+        "text": "không chứng minh toàn bộ chuỗi giá trị đã"
+      },
+      {
+        "start": 380.35400000000004,
+        "end": 380.88000000000005,
+        "text": "chuyển đi."
+      },
+      {
+        "start": 381.12000000000006,
+        "end": 383.68000000000006,
+        "text": "Bởi vậy, đọc sức mạnh xuất khẩu cần đi cùng"
+      },
+      {
+        "start": 383.74,
+        "end": 386.32000000000005,
+        "text": "khả năng tạo giá trị, thu nhập và đa dạng"
+      },
+      {
+        "start": 386.36,
+        "end": 386.96000000000004,
+        "text": "thị trường."
+      },
+      {
+        "start": 387.067,
+        "end": 389.28000000000003,
+        "text": "Không nên lấy kim ngạch gộp để suy thẳng"
+      },
+      {
+        "start": 389.32000000000005,
+        "end": 391.52000000000004,
+        "text": "thành lợi nhuận hay mức sống của từng người."
+      },
+      {
+        "start": 392.02000000000004,
+        "end": 393.86,
+        "text": "Có một chuyển động chậm hơn tàu hàng nhưng"
+      },
+      {
+        "start": 393.90000000000003,
+        "end": 394.50000000000006,
+        "text": "rất quan trọng:"
+      },
+      {
+        "start": 394.66,
+        "end": 396.18000000000006,
+        "text": "cơ cấu dân số."
+      },
+      {
+        "start": 396.27600000000007,
+        "end": 398.18000000000006,
+        "text": "Theo công bố thống kê cuối năm hai nghìn"
+      },
+      {
+        "start": 398.20700000000005,
+        "end": 400.18000000000006,
+        "text": "không trăm hai mươi lăm, người từ sáu mươi"
+      },
+      {
+        "start": 400.22800000000007,
+        "end": 402.18000000000006,
+        "text": "tuổi trở lên chiếm hai mươi ba phần trăm dân"
+      },
+      {
+        "start": 402.28700000000003,
+        "end": 402.66,
+        "text": "số."
+      },
+      {
+        "start": 402.94000000000005,
+        "end": 404.50000000000006,
+        "text": "Mốc tuổi phải được giữ rõ."
+      },
+      {
+        "start": 404.62000000000006,
+        "end": 407.1,
+        "text": "Hai mươi ba phần trăm ở đây là nhóm sáu mươi"
+      },
+      {
+        "start": 407.13000000000005,
+        "end": 409.14000000000004,
+        "text": "trở lên, không phải sáu mươi lăm trở lên."
+      },
+      {
+        "start": 409.50000000000006,
+        "end": 412.1,
+        "text": "Đổi mốc tuổi mà giữ nguyên con số sẽ làm"
+      },
+      {
+        "start": 412.13200000000006,
+        "end": 413.06000000000006,
+        "text": "biểu đồ sai nghĩa."
+      },
+      {
+        "start": 413.38000000000005,
+        "end": 416.1,
+        "text": "Già hóa tác động tới nhu cầu chăm sóc, chi"
+      },
+      {
+        "start": 416.148,
+        "end": 418.42,
+        "text": "tiêu công, thị trường lao động và kế hoạch"
+      },
+      {
+        "start": 418.46000000000004,
+        "end": 419.06000000000006,
+        "text": "của gia đình."
+      },
+      {
+        "start": 419.18000000000006,
+        "end": 421.62000000000006,
+        "text": "Nhưng tỷ lệ tuổi không tự quyết định một kết"
+      },
+      {
+        "start": 421.66,
+        "end": 424.42,
+        "text": "cục kinh tế duy nhất; năng suất và cách tổ"
+      },
+      {
+        "start": 424.45200000000006,
+        "end": 426.22,
+        "text": "chức xã hội vẫn quan trọng."
+      },
+      {
+        "start": 426.307,
+        "end": 428.58000000000004,
+        "text": "Trong mô phỏng nhà máy này, cùng một nhóm"
+      },
+      {
+        "start": 428.62000000000006,
+        "end": 431.22,
+        "text": "người có thể làm ra nhiều giá trị hơn nếu kỹ"
+      },
+      {
+        "start": 431.25200000000007,
+        "end": 433.62000000000006,
+        "text": "năng, công cụ và quy trình tốt lên."
+      },
+      {
+        "start": 433.75300000000004,
+        "end": 436.34000000000003,
+        "text": "Không phải chỉ đếm có bao nhiêu robot,"
+      },
+      {
+        "start": 436.42,
+        "end": 438.74,
+        "text": "mà phải hỏi hiệu quả thực sự tăng thế nào."
+      },
+      {
+        "start": 438.90000000000003,
+        "end": 441.54,
+        "text": "Đầu tư công nghệ có thể mở cơ hội, đồng"
+      },
+      {
+        "start": 441.588,
+        "end": 444.1,
+        "text": "thời đòi hỏi vốn và chuyển đổi kỹ năng."
+      },
+      {
+        "start": 444.18000000000006,
+        "end": 446.26000000000005,
+        "text": "Việc làm ở từng ngành có thể thay đổi khác"
+      },
+      {
+        "start": 446.30800000000005,
+        "end": 448.74,
+        "text": "nhau; một cảnh tự động hóa không chứng minh"
+      },
+      {
+        "start": 448.788,
+        "end": 450.82000000000005,
+        "text": "toàn bộ người lao động đều được lợi hoặc mất"
+      },
+      {
+        "start": 450.884,
+        "end": 451.50000000000006,
+        "text": "việc."
+      },
+      {
+        "start": 451.62000000000006,
+        "end": 454.18000000000006,
+        "text": "Vì thế, thách thức dài hạn là phối hợp năng"
+      },
+      {
+        "start": 454.22800000000007,
+        "end": 456.82000000000005,
+        "text": "suất, đào tạo và mạng lưới hỗ trợ."
+      },
+      {
+        "start": 456.95300000000003,
+        "end": 459.46000000000004,
+        "text": "Đó là một bài toán nhiều năm, không thể kiểm"
+      },
+      {
+        "start": 459.492,
+        "end": 461.30000000000007,
+        "text": "bằng số bán hàng của riêng một tháng."
+      },
+      {
+        "start": 461.80000000000007,
+        "end": 462.76000000000005,
+        "text": "Quay lại con số tổng."
+      },
+      {
+        "start": 462.9800000000001,
+        "end": 465.1600000000001,
+        "text": "GDP trong chín tháng đầu năm hai nghìn không"
+      },
+      {
+        "start": 465.2080000000001,
+        "end": 467.24000000000007,
+        "text": "trăm hai mươi sáu tăng bốn phẩy sáu phần"
+      },
+      {
+        "start": 467.27200000000005,
+        "end": 469.88000000000005,
+        "text": "trăm so với cùng kỳ, theo ước tính sơ bộ của"
+      },
+      {
+        "start": 469.93300000000005,
+        "end": 470.8400000000001,
+        "text": "cơ quan thống kê."
+      },
+      {
+        "start": 471.0160000000001,
+        "end": 473.7200000000001,
+        "text": "Theo quý so với cùng kỳ, lần lượt"
+      },
+      {
+        "start": 473.80000000000007,
+        "end": 476.4410000000001,
+        "text": "là năm phẩy không, bốn phẩy ba và bốn phẩy"
+      },
+      {
+        "start": 476.4800000000001,
+        "end": 477.1600000000001,
+        "text": "năm phần trăm."
+      },
+      {
+        "start": 477.4800000000001,
+        "end": 479.9600000000001,
+        "text": "Đó không phải tăng trưởng so với quý liền"
+      },
+      {
+        "start": 480.0130000000001,
+        "end": 482.64000000000004,
+        "text": "trước, và cũng chưa phải kết quả cả năm."
+      },
+      {
+        "start": 482.75000000000006,
+        "end": 485.08000000000004,
+        "text": "Một chính sách có thể nâng cầu trước mắt,"
+      },
+      {
+        "start": 485.1070000000001,
+        "end": 487.80000000000007,
+        "text": "nhưng cần hỏi tiền tới đâu, ai thực sự chi,"
+      },
+      {
+        "start": 487.9870000000001,
+        "end": 489.80000000000007,
+        "text": "và nghĩa vụ nào được tạo thêm."
+      },
+      {
+        "start": 490.20000000000005,
+        "end": 492.8400000000001,
+        "text": "Hỗ trợ đầu tư, hỗ trợ hộ gia đình"
+      },
+      {
+        "start": 492.94700000000006,
+        "end": 495.1600000000001,
+        "text": "và xử lý nghĩa vụ cũ có đường truyền khác"
+      },
+      {
+        "start": 495.22400000000005,
+        "end": 495.56000000000006,
+        "text": "nhau."
+      },
+      {
+        "start": 495.88000000000005,
+        "end": 497.5200000000001,
+        "text": "Phép thử thứ nhất:"
+      },
+      {
+        "start": 497.5760000000001,
+        "end": 499.88000000000005,
+        "text": "hoạt động mới có tạo hiệu quả và dòng thu"
+      },
+      {
+        "start": 499.92800000000005,
+        "end": 501.24000000000007,
+        "text": "nhập lâu dài không?"
+      },
+      {
+        "start": 501.36000000000007,
+        "end": 503.7200000000001,
+        "text": "Nếu chỉ tăng số dự án mà bỏ qua nhu"
+      },
+      {
+        "start": 503.7800000000001,
+        "end": 506.2800000000001,
+        "text": "cầu, tăng trưởng hiện tại có thể đi cùng áp"
+      },
+      {
+        "start": 506.32000000000005,
+        "end": 507.56000000000006,
+        "text": "lực xử lý trong tương lai."
+      },
+      {
+        "start": 507.93300000000005,
+        "end": 509.56000000000006,
+        "text": "Phép thử thứ hai:"
+      },
+      {
+        "start": 509.68000000000006,
+        "end": 512.3600000000001,
+        "text": "thu nhập và sự an tâm của hộ gia đình có"
+      },
+      {
+        "start": 512.4200000000001,
+        "end": 513.1600000000001,
+        "text": "cải thiện không?"
+      },
+      {
+        "start": 513.4000000000001,
+        "end": 516.0400000000001,
+        "text": "Một nền kinh tế muốn cân bằng hơn cần"
+      },
+      {
+        "start": 516.0880000000001,
+        "end": 518.3600000000001,
+        "text": "nhìn cả bên sản xuất lẫn điều kiện để thị"
+      },
+      {
+        "start": 518.3940000000001,
+        "end": 520.6,
+        "text": "trường trong nước hấp thụ hàng hóa, dịch vụ."
+      },
+      {
+        "start": 521.0000000000001,
+        "end": 522.6,
+        "text": "Phép thử thứ ba:"
+      },
+      {
+        "start": 522.7800000000001,
+        "end": 525.5600000000001,
+        "text": "rủi ro được giải quyết hay chỉ chuyển từ nơi"
+      },
+      {
+        "start": 525.6200000000001,
+        "end": 527.1200000000001,
+        "text": "này sang nơi khác?"
+      },
+      {
+        "start": 527.34,
+        "end": 530.1200000000001,
+        "text": "Tái cơ cấu nghĩa vụ và hoàn thiện dự án cần"
+      },
+      {
+        "start": 530.152,
+        "end": 532.3600000000001,
+        "text": "được phân biệt với việc đẩy cam kết sang một"
+      },
+      {
+        "start": 532.4080000000001,
+        "end": 533.32,
+        "text": "bảng cân đối mới."
+      },
+      {
+        "start": 533.5600000000001,
+        "end": 536.2,
+        "text": "Các phép thử này không đưa ra một dự báo"
+      },
+      {
+        "start": 536.248,
+        "end": 536.84,
+        "text": "chắc chắn."
+      },
+      {
+        "start": 536.9330000000001,
+        "end": 539.32,
+        "text": "Chúng giúp đọc tin mới mà không bị một con"
+      },
+      {
+        "start": 539.427,
+        "end": 542.1200000000001,
+        "text": "số hoặc một hình ảnh dẫn đi quá xa, nhất"
+      },
+      {
+        "start": 542.1730000000001,
+        "end": 544.1200000000001,
+        "text": "là khi các ngành và địa phương đang khác"
+      },
+      {
+        "start": 544.1730000000001,
+        "end": 544.44,
+        "text": "nhịp."
+      },
+      {
+        "start": 544.94,
+        "end": 547.5,
+        "text": "Trung Quốc vì thế có thể đồng thời sở hữu"
+      },
+      {
+        "start": 547.532,
+        "end": 549.98,
+        "text": "năng lực sản xuất lớn và gặp áp lực từ bất"
+      },
+      {
+        "start": 549.9960000000001,
+        "end": 551.98,
+        "text": "động sản, sức mua, dân số."
+      },
+      {
+        "start": 552.0730000000001,
+        "end": 554.7800000000001,
+        "text": "Những điều ấy không tự loại trừ nhau; chúng"
+      },
+      {
+        "start": 554.82,
+        "end": 557.2600000000001,
+        "text": "tương tác qua thu nhập, tài sản, đơn hàng"
+      },
+      {
+        "start": 557.393,
+        "end": 558.3800000000001,
+        "text": "và niềm tin."
+      },
+      {
+        "start": 558.5400000000001,
+        "end": 561.34,
+        "text": "Nếu nhớ một sơ đồ, hãy nhớ vòng kết nối:"
+      },
+      {
+        "start": 561.5,
+        "end": 564.0600000000001,
+        "text": "sản xuất tạo thu nhập, thu nhập hỗ trợ"
+      },
+      {
+        "start": 564.12,
+        "end": 566.7,
+        "text": "nhu cầu, nhu cầu nuôi doanh nghiệp; nhà"
+      },
+      {
+        "start": 566.7800000000001,
+        "end": 569.1,
+        "text": "ở, nghĩa vụ tài chính và chính sách có thể"
+      },
+      {
+        "start": 569.1600000000001,
+        "end": 571.4200000000001,
+        "text": "làm từng đường nối mạnh lên hoặc yếu đi."
+      },
+      {
+        "start": 571.58,
+        "end": 574.3000000000001,
+        "text": "Khi gặp một số liệu mới, hãy hỏi nó đo"
+      },
+      {
+        "start": 574.3530000000001,
+        "end": 577.0200000000001,
+        "text": "kỳ nào, theo giá nào, là mức hay"
+      },
+      {
+        "start": 577.0600000000001,
+        "end": 579.5,
+        "text": "tốc độ tăng, và có đại diện cho điều đang"
+      },
+      {
+        "start": 579.532,
+        "end": 580.3000000000001,
+        "text": "được kết luận không."
+      },
+      {
+        "start": 580.62,
+        "end": 583.1,
+        "text": "Bốn câu hỏi nhỏ giúp nhìn một nền kinh tế"
+      },
+      {
+        "start": 583.1800000000001,
+        "end": 583.98,
+        "text": "lớn rõ hơn."
+      },
+      {
+        "start": 584.1400000000001,
+        "end": 586.7800000000001,
+        "text": "Bạn muốn đi sâu vào bất động sản, xe điện"
+      },
+      {
+        "start": 586.8800000000001,
+        "end": 588.22,
+        "text": "hay thương mại Trung Quốc?"
+      },
+      {
+        "start": 588.3530000000001,
+        "end": 590.86,
+        "text": "Chia sẻ phần bạn quan tâm ở bình luận, và"
+      },
+      {
+        "start": 590.9240000000001,
+        "end": 593.0200000000001,
+        "text": "theo dõi để cùng kiểm tra những câu chuyện"
+      },
+      {
+        "start": 593.0680000000001,
+        "end": 595.58,
+        "text": "kinh tế qua số liệu và cơ chế phía sau."
+      }
+    ]
+  }
+}

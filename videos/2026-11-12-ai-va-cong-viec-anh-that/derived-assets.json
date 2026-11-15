@@ -1,0 +1,14 @@
+[
+  {
+    "file": "assets/review-team-detail.jpg",
+    "original": "assets/review-team.jpg",
+    "cropPixels": [
+      0,
+      1250,
+      2400,
+      3500
+    ],
+    "reason": "Remove empty upper wall while keeping both reviewers, hands and papers",
+    "sha256": "532e49cbc6289d86b9024ce01456650e34d450420da85a6503055682f7542a5f"
+  }
+]

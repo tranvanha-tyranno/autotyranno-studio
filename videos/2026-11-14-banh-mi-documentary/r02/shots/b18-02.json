@@ -1,0 +1,9 @@
+{
+  "id": "b18-02",
+  "sha256": "36ccb1191a4e9b7eb17eced1529cb01034da7c48e3587393c0a0618d5d487dc3",
+  "decodedFrames": 330,
+  "wallSeconds": 0,
+  "reuseFrom": "r01/shots/b18-02.mp4",
+  "sourceSHA256": "b7cb2873d477dd0b3b29c964f3ac153566df162a8cfff77c79d5c02efec7f6fb",
+  "repair": "remux video timebase to15360 preserving encoded frames"
+}

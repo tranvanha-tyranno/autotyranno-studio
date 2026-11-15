@@ -1,0 +1,9 @@
+{
+  "schema": "china-final-qa-timing/1",
+  "startedUTC": "2026-11-13T05:56:30.040936+00:00",
+  "status": "completed",
+  "decodedFrames": 17913,
+  "technicalIntegrity": "passed",
+  "finishedUTC": "2026-11-13T05:59:37.738773+00:00",
+  "wallSeconds": 187.703
+}

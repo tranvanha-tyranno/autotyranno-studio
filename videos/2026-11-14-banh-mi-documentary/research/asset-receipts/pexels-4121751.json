@@ -1,0 +1,54 @@
+{
+  "pexelsID": 4121751,
+  "pageURL": "https://www.pexels.com/video/a-couple-paying-at-the-counter-in-the-grocery-4121751/",
+  "title": "Grocery checkout payment and bagging",
+  "creator": "Jack Sparrow",
+  "fps": [
+    25,
+    24,
+    30
+  ],
+  "tags": [
+    "payment",
+    "shop",
+    "groceries"
+  ],
+  "id": "pexels-4121751",
+  "file": "assets/raw/pexels-4121751.mp4",
+  "sha256": "3f5a0db658957f3d6cfb0543b02cf6b09d1fc09dcd56d11181edc527f91f3e17",
+  "bytes": 8625515,
+  "durationSeconds": 14.2,
+  "downloadURL": "https://videos.pexels.com/video-files/4121751/4121751-hd_1920_1080_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 79.728,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Supermarket checkout: shoppers pack paper bag and hold pineapple beside card terminal. Supports checkout/bagging, not fictional bakery.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-4121751.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 13.9,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 1920,
+  "height": 1080,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/a-couple-paying-at-the-counter-in-the-grocery-4121751/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "e01",
+    "text": "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu?",
+    "from": 0,
+    "end": 332,
+    "kind": "story",
+    "cue": "Ổ bánh mì tăng từ hai mươi l",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e02",
+    "text": "Chị Hạnh và tiệm bánh là hư cấu. Giá, chi phí, lương và tỷ lệ đều để minh họa, không phải số liệu thị trường hiện tại. Video giải thích kinh tế phổ thông, không phải tư vấn tài chính cá nhân.",
+    "from": 332,
+    "end": 706,
+    "kind": "disclaimer",
+    "cue": "Chị Hạnh và tiệm bánh là hư",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e03",
+    "text": "Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh. Nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê. Bảng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình.",
+    "from": 706,
+    "end": 1082,
+    "kind": "story",
+    "cue": "Khách chỉ nhìn thấy tiền phả",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e05",
+    "text": "Hai câu hỏi dễ bị trộn: hàng hóa đắt đến đâu, và giá đang tăng nhanh đến mức nào? Một câu nói về mặt bằng giá. Câu còn lại nói về tốc độ thay đổi của mặt bằng ấy.",
+    "from": 1082,
+    "end": 1400,
+    "kind": "takeaway",
+    "cue": "Hai câu hỏi dễ bị trộn: hàng",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e07",
+    "text": "Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát. Tiệm có thể đổi nhân, kích cỡ hoặc vị trí. Lạm phát nói đến mức tăng giá rộng hơn của nhiều hàng hóa và dịch vụ.",
+    "from": 1400,
+    "end": 1749,
+    "kind": "story",
+    "cue": "Giá một ổ bánh tăng chưa đủ",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e08",
+    "text": "Giữ nguyên chất lượng và kích cỡ. Năm đầu, bánh từ hai mươi lên hai mươi hai nghìn, tăng mười phần trăm. Đây là phép tính cho một mặt hàng minh họa, chưa phải chỉ số giá tiêu dùng của quốc gia.",
+    "from": 1749,
+    "end": 2085,
+    "kind": "price_path",
+    "cue": "Giữ nguyên chất lượng và kíc",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e09",
+    "text": "Năm sau, giá chỉ tăng hai phần trăm. Hai mươi hai nghìn nhân một phẩy không hai, được hai mươi hai nghìn bốn trăm bốn mươi đồng. Giữ số lẻ để thấy phép tính, chưa làm tròn thành giá bán ngoài tiệm.",
+    "from": 2085,
+    "end": 2460,
+    "kind": "price_path",
+    "cue": "Năm sau, giá chỉ tăng hai ph",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e10",
+    "text": "Tốc độ tăng giảm từ mười xuống hai phần trăm. Nhưng giá vẫn cao hơn trước. Nếu cả giỏ hàng vận động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về chỗ cũ.",
+    "from": 2460,
+    "end": 2808,
+    "kind": "price_path",
+    "cue": "Tốc độ tăng giảm từ mười xuố",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e11",
+    "text": "Chiếc xe đi chậm hơn nhưng chưa chạy lùi. Giá cũng vậy: tăng chậm hơn khác với giảm xuống. Muốn mặt bằng giá giảm, mức thay đổi chung phải âm, chứ không chỉ nhỏ hơn con số dương trước đó.",
+    "from": 2808,
+    "end": 3195,
+    "kind": "flow",
+    "cue": "Chiếc xe đi chậm hơn nhưng c",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e13",
+    "text": "Người nhớ giá năm ngoái. Người nhớ giá vài năm trước. Họ nghe cùng tỷ lệ lạm phát mà hình dung hai khoảng cách khác nhau. Khi đọc tin, hãy tìm rõ kỳ so sánh: tháng trước, cùng kỳ, hay một mốc xa hơn.",
+    "from": 3195,
+    "end": 3608,
+    "kind": "story",
+    "cue": "Người nhớ giá năm ngoái",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e14",
+    "text": "Phép nhân chưa giải thích tại sao chị Hạnh thay bảng giá. Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ. Để hiểu nguyên nhân, phải quay lại trước lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.",
+    "from": 3608,
+    "end": 3951,
+    "kind": "story",
+    "cue": "Phép nhân chưa giải thích tạ",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e15",
+    "text": "Trong mô hình đơn giản, một ổ bánh bán hai mươi nghìn. Chi phí biến đổi là mười hai nghìn; tiền thuê và chi phí cố định được phân bổ năm nghìn ở sản lượng giả định. Còn ba nghìn, trước các khoản chưa đưa vào mô hình.",
+    "from": 3951,
+    "end": 4321,
+    "kind": "cost_stack",
+    "cue": "Trong mô hình đơn giản, một",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e16",
+    "text": "Ba nghìn chưa là lợi nhuận ròng: còn thuế, khấu hao và công chủ tiệm chưa tính đủ. Tiền thuê trên mỗi ổ cũng thay đổi nếu số bánh bán khác đi. Đây là kính lúp giải thích, không phải sổ kế toán hoàn chỉnh.",
+    "from": 4321,
+    "end": 4717,
+    "kind": "cost_stack",
+    "cue": "Ba nghìn chưa là lợi nhuận r",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e17",
+    "text": "Nguyên liệu, bao bì và năng lượng làm chi phí biến đổi tăng lên mười bốn nghìn năm trăm. Tiệm nâng giá lên hai mươi hai nghìn. Giữ cách phân bổ cũ, phần còn lại chỉ còn hai nghìn năm trăm, thấp hơn trước.",
+    "from": 4717,
+    "end": 5085,
+    "kind": "cost_compare",
+    "cue": "Nguyên liệu, bao bì và năng",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e18",
+    "text": "Khách trả thêm hai nghìn, nhưng chi phí biến đổi tăng hai nghìn năm trăm. Vậy giá bán tăng mà phần dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bảng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này.",
+    "from": 5085,
+    "end": 5445,
+    "kind": "cost_compare",
+    "cue": "Khách trả thêm hai nghìn, nh",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e19",
+    "text": "Bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hụt có thể làm người bán trả nhiều hơn. Nếu nhiều doanh nghiệp gặp sức ép tương tự, chi phí có thể lan sang giá hàng tiêu dùng.",
+    "from": 5445,
+    "end": 5783,
+    "kind": "story",
+    "cue": "Bột và thực phẩm không đứng",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e20",
+    "text": "Nhiên liệu đắt hơn có thể đi vào cước giao hàng, vận hành máy móc và phân phối. Khách không mua dầu thô cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chuỗi cung ứng trước khi hàng tới quầy.",
+    "from": 5783,
+    "end": 6125,
+    "kind": "story",
+    "cue": "Nhiên liệu đắt hơn có thể đi",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e21",
+    "text": "Đầu vào tăng không có nghĩa giá bán luôn tăng đúng bấy nhiêu. Chủ tiệm còn chịu cạnh tranh và sức mua của khách. Có nơi chấp nhận giảm phần dư, có nơi đổi cách vận hành, có nơi mới tăng giá.",
+    "from": 6125,
+    "end": 6496,
+    "kind": "story",
+    "cue": "Đầu vào tăng không có nghĩa",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e22",
+    "text": "Đổi tình huống: nguyên liệu chưa tăng giá, nhưng quanh tiệm có thêm người làm việc. Lượng khách muốn mua nhiều hơn trong khi lò nướng, quầy và thời gian phục vụ vẫn như cũ. Sức ép lúc này đến từ nhu cầu.",
+    "from": 6496,
+    "end": 6848,
+    "kind": "story",
+    "cue": "Đổi tình huống: nguyên liệu",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e23",
+    "text": "Chị Hạnh có thể tăng ca, mua thiết bị hoặc thuê người, nhưng cần thời gian. Khi cung ứng chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện rộng có thể tạo áp lực lạm phát.",
+    "from": 6848,
+    "end": 7213,
+    "kind": "story",
+    "cue": "Chị Hạnh có thể tăng ca, mua",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e25",
+    "text": "Còn mắt xích kỳ vọng. Nếu tin nguyên liệu sắp đắt hơn, chủ tiệm có thể cân nhắc giá sớm. Nếu lo sức mua giảm, người lao động có thể đề nghị tăng lương. Những dự tính ấy ảnh hưởng quyết định hiện tại.",
+    "from": 7213,
+    "end": 7561,
+    "kind": "story",
+    "cue": "Còn mắt xích kỳ vọng",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e26",
+    "text": "Không có nghĩa cứ tăng lương là gây lạm phát, hay dự báo đều tự thành thật. Năng suất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn chen vào. Kỳ vọng là một kênh tác động, không phải nút duy nhất điều khiển giá.",
+    "from": 7561,
+    "end": 7958,
+    "kind": "story",
+    "cue": "Không có nghĩa cứ tăng lương",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e27",
+    "text": "Đừng từ chị Hạnh mà kết luận mọi người bán chịu thiệt. Có doanh nghiệp tăng được biên lợi nhuận khi nhu cầu mạnh hoặc cạnh tranh yếu. Có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh doanh để phân biệt.",
+    "from": 7958,
+    "end": 8337,
+    "kind": "story",
+    "cue": "Đừng từ chị Hạnh mà kết luận",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e28",
+    "text": "Ta có ba lối vào: chi phí, nhu cầu và kỳ vọng. Nhưng khách vẫn hỏi: nếu vận chuyển bớt căng, nguyên liệu bớt đắt, tại sao bảng giá chưa hạ? Câu trả lời nằm ở cấu trúc chi phí và cạnh tranh.",
+    "from": 8337,
+    "end": 8735,
+    "kind": "story",
+    "cue": "Ta có ba lối vào: chi phí, n",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e29",
+    "text": "Cước giao hàng giảm, nhưng tiền thuê vẫn theo hợp đồng, lương đã thỏa thuận chưa đổi, vài nguyên liệu khác còn tăng. Tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cũ. Không thể nhìn một hóa đơn để đoán tất cả.",
+    "from": 8735,
+    "end": 9134,
+    "kind": "story",
+    "cue": "Cước giao hàng giảm, nhưng t",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e30",
+    "text": "Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá.",
+    "from": 9134,
+    "end": 9492,
+    "kind": "story",
+    "cue": "Dù giá mua mới thấp hơn, tiệ",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e31",
+    "text": "Chi phí giảm bền vững và cạnh tranh mạnh tạo động lực hạ giá giữ khách. Nếu khách khó chuyển nơi mua, sức ép ấy có thể yếu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh.",
+    "from": 9492,
+    "end": 9871,
+    "kind": "story",
+    "cue": "Chi phí giảm bền vững và cạn",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e32",
+    "text": "Một vài mặt hàng có thể rẻ đi trong khi mức giá chung tăng: nhóm này giảm nhưng nhóm khác tăng nhiều hơn. Vì thế, lạm phát còn dương không đồng nghĩa mọi món ở chợ đều tăng giá như nhau.",
+    "from": 9871,
+    "end": 10220,
+    "kind": "story",
+    "cue": "Một vài mặt hàng có thể rẻ đ",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e33",
+    "text": "Muốn bánh từ hai mươi hai nghìn về hai mươi nghìn, giá phải giảm khoảng chín phẩy một phần trăm trên nền hiện tại. Nó khác hẳn chuyện tốc độ tăng từ mười xuống hai phần trăm ta tính ban đầu.",
+    "from": 10220,
+    "end": 10548,
+    "kind": "price_path",
+    "cue": "Muốn bánh từ hai mươi hai ng",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e35",
+    "text": "Điều người mua quan tâm là thu nhập mua được bao nhiêu hàng hóa và dịch vụ. Giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thu nhập tăng nhanh hơn chi phí sinh hoạt phù hợp với họ.",
+    "from": 10548,
+    "end": 10920,
+    "kind": "story",
+    "cue": "Điều người mua quan tâm là t",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e36",
+    "text": "Hãy nhìn cả giỏ chi tiêu. Chỉ số giá tiêu dùng dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng nay. Khoản chiếm tỷ trọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả chung.",
+    "from": 10920,
+    "end": 11291,
+    "kind": "story",
+    "cue": "Hãy nhìn cả giỏ chi tiêu",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e37",
+    "text": "Giỏ giả định có một trăm phần chi tiêu: bốn mươi cho ăn uống, ba mươi cho nhà ở, hai mươi cho đi lại, mười cho phần khác. Tỷ trọng này chỉ để tính dễ, không mô tả hộ gia đình Việt Nam trung bình.",
+    "from": 11291,
+    "end": 11739,
+    "kind": "basket",
+    "cue": "Giỏ giả định có một trăm phầ",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e38",
+    "text": "Ăn uống tăng mười phần trăm, ba nhóm còn lại đứng giá, giỏ tăng bốn phần trăm nếu giữ nguyên lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm một phần giỏ.",
+    "from": 11739,
+    "end": 12145,
+    "kind": "basket",
+    "cue": "Ăn uống tăng mười phần trăm,",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e39",
+    "text": "Nhà có con nhỏ, người thuê trọ và người đi làm xa chi tiêu khác nhau. Nếu khoản bạn mua nhiều tăng mạnh, áp lực thực tế có thể cao hơn bình quân. Cảm giác khó khăn không vì thế mà tự động thành sai.",
+    "from": 12145,
+    "end": 12538,
+    "kind": "story",
+    "cue": "Nhà có con nhỏ, người thuê t",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e40",
+    "text": "Thu nhập giả định từ mười lên mười triệu rưỡi, tăng năm phần trăm. Cùng lúc, giỏ hàng phù hợp tăng tám phần trăm. Tiền nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng cũ.",
+    "from": 12538,
+    "end": 12921,
+    "kind": "real_wage",
+    "cue": "Thu nhập giả định từ mười lê",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e41",
+    "text": "Một phẩy không năm chia một phẩy không tám, trừ một, sức mua giảm khoảng hai phẩy tám phần trăm. Trừ năm với tám chỉ là ước lượng gần. Lương danh nghĩa tăng chưa đủ để kết luận đời sống khá lên.",
+    "from": 12921,
+    "end": 13320,
+    "kind": "real_wage",
+    "cue": "Một phẩy không năm chia một",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e42",
+    "text": "Giá niêm yết không đổi mà lượng hàng giảm: hai mươi nghìn mua một trăm gram, rồi chỉ mua chín mươi gram. Giá mỗi gram tăng khoảng mười một phẩy một phần trăm. So sánh đúng cần nhìn cả lượng và chất lượng.",
+    "from": 13320,
+    "end": 13754,
+    "kind": "unit_price",
+    "cue": "Giá niêm yết không đổi mà lư",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e43",
+    "text": "Làm gì để giá tăng bớt nhanh? Nếu vướng nguồn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đầu vào hiệu quả hơn. Nếu cầu quá nóng, chỉ sửa đường vận chuyển có thể chưa đủ.",
+    "from": 13754,
+    "end": 14113,
+    "kind": "story",
+    "cue": "Làm gì để giá tăng bớt nhanh",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e44",
+    "text": "Một công cụ là lãi suất. Khi chi phí vay tăng, một số gia đình và doanh nghiệp có thể hoãn mua sắm hoặc đầu tư. Nhu cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều.",
+    "from": 14113,
+    "end": 14488,
+    "kind": "story",
+    "cue": "Một công cụ là lãi suất",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e45",
+    "text": "Khách bớt mua thì tăng giá khó hơn, nhưng doanh thu và việc làm có thể chịu áp lực. Lãi suất không tự tạo thêm bột hay xăng. Người điều hành phải cân nhắc nguyên nhân, độ trễ và những đánh đổi trong thực tế.",
+    "from": 14488,
+    "end": 14882,
+    "kind": "story",
+    "cue": "Khách bớt mua thì tăng giá k",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e46",
+    "text": "Giảm bánh hỏng, sắp xếp ca làm và dùng thiết bị hiệu quả có thể tạo cùng lượng hàng với ít nguồn lực hơn. Năng suất cải thiện tạo khoảng trống cho lương và giá, dù không bảo đảm mọi lợi ích chuyển ngay tới khách.",
+    "from": 14882,
+    "end": 15260,
+    "kind": "story",
+    "cue": "Giảm bánh hỏng, sắp xếp ca l",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e47",
+    "text": "Người mua dễ so sánh khi khối lượng, chất lượng và giá được trình bày rõ. Tiệm làm tốt có cơ hội giữ khách bằng giá trị thật. Nhìn giá trên cùng đơn vị hữu ích hơn chỉ nhìn số tiền trên bao bì.",
+    "from": 15260,
+    "end": 15675,
+    "kind": "story",
+    "cue": "Người mua dễ so sánh khi khố",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e49",
+    "text": "Lạm phát hạ có ý nghĩa: áp lực tăng giá đang bớt theo thước đo báo cáo. Nhưng để gia đình thấy dễ thở hơn, còn cần nhìn mặt bằng giá đã tích lũy, thu nhập, việc làm và giỏ chi tiêu của họ.",
+    "from": 15675,
+    "end": 16064,
+    "kind": "story",
+    "cue": "Lạm phát hạ có ý nghĩa: áp l",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e50",
+    "text": "Nghe lạm phát giảm, hãy hỏi: giá tăng chậm hơn hay thực sự giảm; con số so với thời điểm nào; giỏ được đo có gần những khoản mình phải trả không? Ba câu ấy giúp đọc đúng ý nghĩa bản tin.",
+    "from": 16064,
+    "end": 16452,
+    "kind": "takeaway",
+    "cue": "Nghe lạm phát giảm, hãy hỏi:",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e51",
+    "text": "Giữ hóa đơn vài khoản mua thường xuyên, ghi khối lượng và chất lượng tương đương, rồi so theo thời gian. Đây là cách quan sát giỏ cá nhân, không phải cách tính lạm phát chính thức từ vài món quen thuộc.",
+    "from": 16452,
+    "end": 16820,
+    "kind": "story",
+    "cue": "Giữ hóa đơn vài khoản mua th",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e52",
+    "text": "Đặt thay đổi của giỏ cạnh thu nhập thực nhận và khoản bắt buộc khác. Mục đích là biết sức mua đổi ra sao để điều chỉnh kế hoạch, không phải tự trách bản thân vì mức giá mình không quyết định được.",
+    "from": 16820,
+    "end": 17151,
+    "kind": "story",
+    "cue": "Đặt thay đổi của giỏ cạnh th",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e53",
+    "text": "Chị Hạnh không thể chỉ nhìn hóa đơn đầu vào rồi quên khách. Khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn bao nhiêu. Cả hai cần bức tranh đầy đủ hơn tấm bảng trước cửa.",
+    "from": 17151,
+    "end": 17482,
+    "kind": "story",
+    "cue": "Chị Hạnh không thể chỉ nhìn",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e54",
+    "text": "Vì sao lạm phát giảm mà bánh vẫn đắt? Vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn. Và vì sức mua còn phụ thuộc thu nhập, chứ không chỉ phụ thuộc tốc độ đổi giá một năm riêng lẻ.",
+    "from": 17482,
+    "end": 17859,
+    "kind": "price_path",
+    "cue": "Vì sao lạm phát giảm mà bánh",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e55",
+    "text": "Ổ bánh nối đồng ruộng, nhiên liệu, chuyến xe, người làm và túi tiền người mua. Hiểu mối nối ấy giúp ta bớt vội kết luận, hỏi đúng điều cần kiểm chứng. Kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày.",
+    "from": 17859,
+    "end": 18261,
+    "kind": "story",
+    "cue": "Ổ bánh nối đồng ruộng, nhiên",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  },
+  {
+    "id": "e56",
+    "text": "Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+    "from": 18261,
+    "end": 18671,
+    "kind": "story",
+    "cue": "Bạn thấy khoản chi nào đổi r",
+    "cueFrame": 0,
+    "review": "Pending actual rendered samples"
+  }
+]

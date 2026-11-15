@@ -1,0 +1,16 @@
+{
+  "id": "review-team",
+  "providerPhotoId": 8512387,
+  "file": "assets/review-team.jpg",
+  "page": "https://www.pexels.com/photo/women-checking-on-documents-at-work-8512387/",
+  "download": "https://images.pexels.com/photos/8512387/pexels-photo-8512387.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Artem Podrez",
+  "description": "Two colleagues checking documents",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "role": "Illustrative source photo; not documentary evidence of an individual using AI, losing employment or endorsing this video",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "e1f98f19925424844aba204ad1c9c412d06c2ea847776290d2629bfb04fa034f",
+  "bytes": 599583
+}

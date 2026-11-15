@@ -1,0 +1,206 @@
+{
+  "schema": "business-sound-plan/1",
+  "music": [
+    {
+      "id": "coffee-opening",
+      "file": "audio/music/coffee-opening.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Warm observational business documentary opening in a Vietnamese cafe. Muted acoustic guitar, brushed percussion, soft electric piano and a restrained wooden pulse. Curious, human, sophisticated, medium slow tempo. Build gently without a huge climax. Leave a wide clear center for a Vietnamese narrator. Original instrumental only; no vocals, speech, chanting, alarms, dramatic brass or heavy EDM.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "id": "precise-unit-math",
+      "file": "audio/music/precise-unit-math.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Precise, lightly playful documentary underscore for following the economics of one coffee order. Sparse pizzicato strings, warm marimba, felt piano and tiny brushed percussion. Clean space between notes, steady understated momentum, no urgent ticking. Clear center for narration. Original instrumental only; no vocals, speech, alarms or heavy EDM.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "id": "operating-pulse",
+      "file": "audio/music/operating-pulse.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Calm sophisticated business documentary music about a busy cafe and capacity. Warm bass, dry soft drums, acoustic textures and restrained electric piano. Subtle motion and curiosity, grounded and human, never triumphant. Clear open middle for continuous speech. Original instrumental only; no vocals, speech, alarms, aggressive drums or heavy EDM.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "id": "cash-tension",
+      "file": "audio/music/cash-tension.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Quiet reflective documentary underscore about bills coming due before cash arrives. Low felt piano, sparse muted cello, soft granular texture and a very gentle pulse. Thoughtful financial tension, not horror or impending disaster. Few notes and a wide clear center for speech. Original instrumental only; no vocals, speech, alarms, loud impacts, risers or heavy EDM.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "id": "hopeful-outro",
+      "file": "audio/music/hopeful-outro.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Human hopeful ending for an educational cafe business documentary. Warm acoustic guitar, felt piano, brushed drums and a gentle string bed. Practical optimism, patient forward movement, modest emotional payoff. Leave space for a Vietnamese narrator and end with an unhurried soft resolution. Original instrumental only; no vocals, speech, chanting, alarms or heavy EDM.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "id": "cup-set",
+      "file": "audio/sfx/cup-set.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One ceramic coffee cup placed gently on a wooden cafe table, soft clean contact and a tiny natural ceramic ring. Close realistic Foley, no music, voices or exaggerated crash.",
+        "duration_seconds": 2.2,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "grinder",
+      "file": "audio/sfx/grinder.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A small cafe coffee grinder runs briefly, dry coffee beans grinding with a short natural motor rise and stop. Realistic close Foley, no voices, music or alarm.",
+        "duration_seconds": 4.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "espresso",
+      "file": "audio/sfx/espresso.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A cafe espresso machine pulls a short shot, gentle pump hum and coffee trickling into a ceramic cup, natural soft finish. Realistic Foley, no voices, music or alarm.",
+        "duration_seconds": 5.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "milk-steam",
+      "file": "audio/sfx/milk-steam.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A barista briefly steams milk in a metal pitcher, soft controlled steam hiss that eases out naturally. Realistic quiet cafe Foley, no shouting, voices or music.",
+        "duration_seconds": 4.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "paper-pen",
+      "file": "audio/sfx/paper-pen.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A paper receipt is slid across a wooden counter, followed by a few calm pencil writing strokes and a soft pen set down. Intimate dry realistic Foley, no voices or music.",
+        "duration_seconds": 4.5,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "coins",
+      "file": "audio/sfx/coins.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "Two or three small coins gently placed and slid on a wooden counter, restrained warm metallic clinks, not a cash register. Realistic close Foley, no voices or music.",
+        "duration_seconds": 2.8,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "wood-tick",
+      "file": "audio/sfx/wood-tick.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One soft dry wooden tap, tactile and minimal, like a fingertip touching a wood counter. No clock rhythm, music, voices or digital alarm.",
+        "duration_seconds": 1.5,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "transition",
+      "file": "audio/sfx/transition.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A restrained warm airy paper swish moving gently from left to right, very short documentary transition, soft fabric and air, no sharp digital swoosh, music or voices.",
+        "duration_seconds": 1.6,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "cafe-ambience",
+      "file": "audio/sfx/cafe-ambience.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "Quiet cafe room ambience with subtle cups far away, a faint espresso machine and gentle room tone. No intelligible words, foreground voices, music, traffic horns or alarms. Warm unobtrusive documentary background.",
+        "duration_seconds": 18.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "low-hit",
+      "file": "audio/sfx/low-hit.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One very soft low wooden resonant tap with a short warm tail, understated reflective documentary punctuation. No cinematic boom, alarm, riser, music or voices.",
+        "duration_seconds": 1.8,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    }
+  ],
+  "mixPolicy": {
+    "voiceLUFS": -16,
+    "musicLUFS": -29,
+    "foleyLUFS": -32,
+    "ambienceLUFS": -39,
+    "crossfadeSeconds": 3,
+    "voiceSpeed": 1.0,
+    "noAudioLooping": true
+  },
+  "reuse": [
+    {
+      "id": "motion-bridge",
+      "file": "audio/music/motion-bridge.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-cinematic-reset\\audio\\motion-score.mp3",
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96"
+    },
+    {
+      "id": "agency-bridge",
+      "file": "audio/music/agency-bridge.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ai-va-cong-viec-5phut\\audio\\agency-score.mp3",
+      "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a"
+    }
+  ],
+  "auditoryAcceptance": "Pending actual listening; generation/measurement is not listening."
+}

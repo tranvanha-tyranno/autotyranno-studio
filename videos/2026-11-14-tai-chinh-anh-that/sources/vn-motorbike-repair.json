@@ -1,0 +1,32 @@
+{
+  "id": "vn-motorbike-repair",
+  "pexelsID": 26576908,
+  "sourceURL": "https://www.pexels.com/photo/mechanic-sitting-in-mask-and-working-26576908/",
+  "creator": "Thiện Võ Gia",
+  "theme": "repair",
+  "documentedLocation": "Thành phố Hồ Chí Minh, Hồ Chí Minh, Việt Nam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A seated mechanic wearing a face mask works on a motorbike.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-motorbike-repair.jpg",
+  "downloadURL": "https://images.pexels.com/photos/26576908/pexels-photo-26576908.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "6034801ad97ee0bee5fab17cf7daf95e859c60c08b0a58932279153050af0523",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pexelsID": 8540402,
+  "pageURL": "https://www.pexels.com/video/woman-paying-cashless-8540402/",
+  "title": "Cashless transaction at farmers market",
+  "creator": "RDNE Stock project",
+  "fps": [
+    25,
+    24,
+    30
+  ],
+  "tags": [
+    "payment",
+    "market",
+    "groceries"
+  ],
+  "id": "pexels-8540402",
+  "file": "assets/raw/pexels-8540402.mp4",
+  "sha256": "229e079d47e1c39344961a8eb408f4dd131517e77b8120a41de318f6da1adde9",
+  "bytes": 5871733,
+  "durationSeconds": 16.47,
+  "downloadURL": "https://videos.pexels.com/video-files/8540402/8540402-hd_1280_720_30fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.167,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Produce-stall vendor holds card terminal as shopper taps card and collects paper bag. Trees and western market setting visible, no Vietnamese location claim.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8540402.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 16.2,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 1280,
+  "height": 720,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/woman-paying-cashless-8540402/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "1a6ebb148117c110b9a2f760cafd3f3c641eb48c1956e195303519c1edd05510",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "2950a0460f5c395b3cc6853803d7331e9e69b90374d2d70bbae114339197070b",
+    "startFrame": 13754,
+    "endFrameExclusive": 16064,
+    "expectedSHA256": "ab51fa1d2bbebf72fe490fe2ed93a74961b717311d81ee621a1514334adaf4fb",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "cach-ha-nhiet",
+  "expected": "Làm gì để giá tăng bớt nhanh? Nếu vướng nguồn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đầu vào hiệu quả hơn. Nếu cầu quá nóng, chỉ sửa đường vận chuyển có thể chưa đủ. Một công cụ là lãi suất. Khi chi phí vay tăng, một số gia đình và doanh nghiệp có thể hoãn mua sắm hoặc đầu tư. Nhu cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều. Khách bớt mua thì tăng giá khó hơn, nhưng doanh thu và việc làm có thể chịu áp lực. Lãi suất không tự tạo thêm bột hay xăng. Người điều hành phải cân nhắc nguyên nhân, độ trễ và những đánh đổi trong thực tế. Giảm bánh hỏng, sắp xếp ca làm và dùng thiết bị hiệu quả có thể tạo cùng lượng hàng với ít nguồn lực hơn. Năng suất cải thiện tạo khoảng trống cho lương và giá, dù không bảo đảm mọi lợi ích chuyển ngay tới khách. Người mua dễ so sánh khi khối lượng, chất lượng và giá được trình bày rõ. Tiệm làm tốt có cơ hội giữ khách bằng giá trị thật. Nhìn giá trên cùng đơn vị hữu ích hơn chỉ nhìn số tiền trên bao bì. Lạm phát hạ có ý nghĩa: áp lực tăng giá đang bớt theo thước đo báo cáo. Nhưng để gia đình thấy dễ thở hơn, còn cần nhìn mặt bằng giá đã tích lũy, thu nhập, việc làm và giỏ chi tiêu của họ.",
+  "recognized": "làm gì để giá tăng bất nhăn. Nếu vướng mùn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đồ vào hiệu quả hơn. Nếu cầu quả nống, chỉ sửa đường văn chuyển có thể chưa đủ. Một công cụ là lãi xuất. Khi chỉ phí vây tăng, một số gia đình và dân nhập có thể hoãn mô sắm hoặc đầu tư. Như cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều. Khách bất mua thì tăng giá khó hơn. Nhưng doanh thu và việc làm có thể chịu áp lực. Lại xuất không tự tạo thêm bột hay sang, người điều hành phải cân nhắc mùi nhân, đậu chế và những đánh đổi trong thực tế. Giảm bánh hồng, sắp xếp cá làm và dùng thích bị hiệu quả có thể tạo cùng lượng hàng với ít một lực hơn. Năng xuất kải thiện tạo khoảng chống cho lương và giá, dù không bảo đả mọi lợi ích chuyển ngày từ khách. Người mua dễ so sánh khi khối lượng chất lượng và giá được chình bây do. Tiệm nằm tốt có cơ hội dưới khách bằng giá trị thật, nhìn giá trên cùng đơn vị hiểu ích hơn chỉ nhìn số tiền trên bao bì. Lạm phát hạ, coi nghĩa, áp lực tăng giá đang bớt theo thức đò báo cáo, nhưng để giá định thẩy dễ thở hơn, con cần nhìn mặt bằng giá đã tích lưỡi, thu nhập, việc làm và giỏ chi tiêu của họ.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": " làm gì để giá tăng bất nhăn.",
+      "globalStart": 458.46666666666664,
+      "globalEnd": 460.14666666666665
+    },
+    {
+      "start": 2.2800000000000002,
+      "end": 5.28,
+      "text": " Nếu vướng mùn cung, giải pháp có thể nằm ở lưu thông,",
+      "globalStart": 460.7466666666666,
+      "globalEnd": 463.7466666666666
+    },
+    {
+      "start": 5.28,
+      "end": 8.28,
+      "text": " năng lực sản xuất và sử dụng đồ vào hiệu quả hơn.",
+      "globalStart": 463.7466666666666,
+      "globalEnd": 466.7466666666666
+    },
+    {
+      "start": 8.76,
+      "end": 10.0,
+      "text": " Nếu cầu quả nống,",
+      "globalStart": 467.22666666666663,
+      "globalEnd": 468.46666666666664
+    },
+    {
+      "start": 10.0,
+      "end": 11.92,
+      "text": " chỉ sửa đường văn chuyển có thể chưa đủ.",
+      "globalStart": 468.46666666666664,
+      "globalEnd": 470.38666666666666
+    },
+    {
+      "start": 12.24,
+      "end": 13.8,
+      "text": " Một công cụ là lãi xuất.",
+      "globalStart": 470.70666666666665,
+      "globalEnd": 472.26666666666665
+    },
+    {
+      "start": 14.280000000000001,
+      "end": 19.0,
+      "text": " Khi chỉ phí vây tăng, một số gia đình và dân nhập có thể hoãn mô sắm hoặc đầu tư.",
+      "globalStart": 472.74666666666667,
+      "globalEnd": 477.46666666666664
+    },
+    {
+      "start": 19.48,
+      "end": 21.88,
+      "text": " Như cầu chậm lại có thể giảm sức ép giá,",
+      "globalStart": 477.94666666666666,
+      "globalEnd": 480.34666666666664
+    },
+    {
+      "start": 22.240000000000002,
+      "end": 24.36,
+      "text": " nhưng tác động không tức thì hay đồng đều.",
+      "globalStart": 480.70666666666665,
+      "globalEnd": 482.82666666666665
+    },
+    {
+      "start": 24.76,
+      "end": 26.76,
+      "text": " Khách bất mua thì tăng giá khó hơn.",
+      "globalStart": 483.22666666666663,
+      "globalEnd": 485.22666666666663
+    },
+    {
+      "start": 27.16,
+      "end": 29.76,
+      "text": " Nhưng doanh thu và việc làm có thể chịu áp lực.",
+      "globalStart": 485.62666666666667,
+      "globalEnd": 488.22666666666663
+    },
+    {
+      "start": 30.0,
+      "end": 37.16,
+      "text": " Lại xuất không tự tạo thêm bột hay sang, người điều hành phải cân nhắc mùi nhân, đậu chế và những đánh đổi trong thực tế.",
+      "globalStart": 488.46666666666664,
+      "globalEnd": 495.62666666666667
+    },
+    {
+      "start": 37.16,
+      "end": 44.44,
+      "text": " Giảm bánh hồng, sắp xếp cá làm và dùng thích bị hiệu quả có thể tạo cùng lượng hàng với ít một lực hơn.",
+      "globalStart": 495.62666666666667,
+      "globalEnd": 502.90666666666664
+    },
+    {
+      "start": 44.44,
+      "end": 50.480000000000004,
+      "text": " Năng xuất kải thiện tạo khoảng chống cho lương và giá, dù không bảo đả mọi lợi ích chuyển ngày từ khách.",
+      "globalStart": 502.90666666666664,
+      "globalEnd": 508.94666666666666
+    },
+    {
+      "start": 50.480000000000004,
+      "end": 55.519999999999996,
+      "text": " Người mua dễ so sánh khi khối lượng chất lượng và giá được chình bây do.",
+      "globalStart": 508.94666666666666,
+      "globalEnd": 513.9866666666667
+    },
+    {
+      "start": 55.52,
+      "end": 58.68000000000001,
+      "text": " Tiệm nằm tốt có cơ hội dưới khách bằng giá trị thật,",
+      "globalStart": 513.9866666666667,
+      "globalEnd": 517.1466666666666
+    },
+    {
+      "start": 58.68000000000001,
+      "end": 63.2,
+      "text": " nhìn giá trên cùng đơn vị hiểu ích hơn chỉ nhìn số tiền trên bao bì.",
+      "globalStart": 517.1466666666666,
+      "globalEnd": 521.6666666666666
+    },
+    {
+      "start": 64.2,
+      "end": 65.98,
+      "text": " Lạm phát hạ, coi nghĩa,",
+      "globalStart": 522.6666666666666,
+      "globalEnd": 524.4466666666666
+    },
+    {
+      "start": 65.98,
+      "end": 69.2,
+      "text": " áp lực tăng giá đang bớt theo thức đò báo cáo,",
+      "globalStart": 524.4466666666666,
+      "globalEnd": 527.6666666666666
+    },
+    {
+      "start": 69.2,
+      "end": 71.32000000000001,
+      "text": " nhưng để giá định thẩy dễ thở hơn,",
+      "globalStart": 527.6666666666666,
+      "globalEnd": 529.7866666666666
+    },
+    {
+      "start": 71.32000000000001,
+      "end": 73.54,
+      "text": " con cần nhìn mặt bằng giá đã tích lưỡi,",
+      "globalStart": 529.7866666666666,
+      "globalEnd": 532.0066666666667
+    },
+    {
+      "start": 73.54,
+      "end": 76.80000000000001,
+      "text": " thu nhập, việc làm và giỏ chi tiêu của họ.",
+      "globalStart": 532.0066666666667,
+      "globalEnd": 535.2666666666667
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 16.879,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\07-cach-ha-nhiet-aea07b5477d34aff.wav",
+  "chunk": {
+    "chunkKey": "aea07b5477d34aff4165dfd0829dbf2f34a09ab12ee91fe420309e5f12df9ee1",
+    "sha256": "2950a0460f5c395b3cc6853803d7331e9e69b90374d2d70bbae114339197070b",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1232000,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 22006400,
+    "sourceEndSampleExclusive": 25702400,
+    "sourceSampleRate": 48000,
+    "seconds": 77.0,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8299,
+    "expectedTokenCoverage": 0.8284,
+    "expectedTailTokenCoverage": 0.8,
+    "expectedTokens": 268,
+    "observedTokens": 267,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

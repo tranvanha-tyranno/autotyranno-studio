@@ -1,0 +1,768 @@
+{
+  "technical": "passed",
+  "sha256": "4e9c9aa5203401a4575ac5f73b9051bf275a98a1bd621360af9c3cb60bf36ec1",
+  "decodedFrames": 18671,
+  "seconds": 622.3666666666667,
+  "decodedAudioSeconds": 622.3786666666666,
+  "audioPCMHash": "c33a083d7fdb7ca42a959b200977cd3dbf99d1e8f1ec715c174b722e6ccf1ef2",
+  "lastWordEnd": 621.1500000000001,
+  "voiceSpeed": 1,
+  "voice": "Nhật Phong",
+  "captionMaxPixelWidth": 942.0,
+  "samples": [
+    {
+      "id": "e01",
+      "frame": 46,
+      "file": "e01-early-00046.jpg"
+    },
+    {
+      "id": "e01",
+      "frame": 166,
+      "file": "e01-middle-00166.jpg"
+    },
+    {
+      "id": "e01",
+      "frame": 282,
+      "file": "e01-late-00282.jpg"
+    },
+    {
+      "id": "e02",
+      "frame": 384,
+      "file": "e02-early-00384.jpg"
+    },
+    {
+      "id": "e02",
+      "frame": 519,
+      "file": "e02-middle-00519.jpg"
+    },
+    {
+      "id": "e02",
+      "frame": 649,
+      "file": "e02-late-00649.jpg"
+    },
+    {
+      "id": "e03",
+      "frame": 758,
+      "file": "e03-early-00758.jpg"
+    },
+    {
+      "id": "e03",
+      "frame": 894,
+      "file": "e03-middle-00894.jpg"
+    },
+    {
+      "id": "e03",
+      "frame": 1025,
+      "file": "e03-late-01025.jpg"
+    },
+    {
+      "id": "e05",
+      "frame": 1126,
+      "file": "e05-early-01126.jpg"
+    },
+    {
+      "id": "e05",
+      "frame": 1241,
+      "file": "e05-middle-01241.jpg"
+    },
+    {
+      "id": "e05",
+      "frame": 1352,
+      "file": "e05-late-01352.jpg"
+    },
+    {
+      "id": "e07",
+      "frame": 1448,
+      "file": "e07-early-01448.jpg"
+    },
+    {
+      "id": "e07",
+      "frame": 1574,
+      "file": "e07-middle-01574.jpg"
+    },
+    {
+      "id": "e07",
+      "frame": 1696,
+      "file": "e07-late-01696.jpg"
+    },
+    {
+      "id": "e08",
+      "frame": 1796,
+      "file": "e08-early-01796.jpg"
+    },
+    {
+      "id": "e08",
+      "frame": 1917,
+      "file": "e08-middle-01917.jpg"
+    },
+    {
+      "id": "e08",
+      "frame": 2034,
+      "file": "e08-late-02034.jpg"
+    },
+    {
+      "id": "e09",
+      "frame": 2137,
+      "file": "e09-early-02137.jpg"
+    },
+    {
+      "id": "e09",
+      "frame": 2272,
+      "file": "e09-middle-02272.jpg"
+    },
+    {
+      "id": "e09",
+      "frame": 2403,
+      "file": "e09-late-02403.jpg"
+    },
+    {
+      "id": "e10",
+      "frame": 2508,
+      "file": "e10-early-02508.jpg"
+    },
+    {
+      "id": "e10",
+      "frame": 2634,
+      "file": "e10-middle-02634.jpg"
+    },
+    {
+      "id": "e10",
+      "frame": 2755,
+      "file": "e10-late-02755.jpg"
+    },
+    {
+      "id": "e11",
+      "frame": 2862,
+      "file": "e11-early-02862.jpg"
+    },
+    {
+      "id": "e11",
+      "frame": 3001,
+      "file": "e11-middle-03001.jpg"
+    },
+    {
+      "id": "e11",
+      "frame": 3136,
+      "file": "e11-late-03136.jpg"
+    },
+    {
+      "id": "e13",
+      "frame": 3252,
+      "file": "e13-early-03252.jpg"
+    },
+    {
+      "id": "e13",
+      "frame": 3401,
+      "file": "e13-middle-03401.jpg"
+    },
+    {
+      "id": "e13",
+      "frame": 3546,
+      "file": "e13-late-03546.jpg"
+    },
+    {
+      "id": "e14",
+      "frame": 3656,
+      "file": "e14-early-03656.jpg"
+    },
+    {
+      "id": "e14",
+      "frame": 3779,
+      "file": "e14-middle-03779.jpg"
+    },
+    {
+      "id": "e14",
+      "frame": 3899,
+      "file": "e14-late-03899.jpg"
+    },
+    {
+      "id": "e15",
+      "frame": 4002,
+      "file": "e15-early-04002.jpg"
+    },
+    {
+      "id": "e15",
+      "frame": 4136,
+      "file": "e15-middle-04136.jpg"
+    },
+    {
+      "id": "e15",
+      "frame": 4265,
+      "file": "e15-late-04265.jpg"
+    },
+    {
+      "id": "e16",
+      "frame": 4376,
+      "file": "e16-early-04376.jpg"
+    },
+    {
+      "id": "e16",
+      "frame": 4519,
+      "file": "e16-middle-04519.jpg"
+    },
+    {
+      "id": "e16",
+      "frame": 4657,
+      "file": "e16-late-04657.jpg"
+    },
+    {
+      "id": "e17",
+      "frame": 4768,
+      "file": "e17-early-04768.jpg"
+    },
+    {
+      "id": "e17",
+      "frame": 4901,
+      "file": "e17-middle-04901.jpg"
+    },
+    {
+      "id": "e17",
+      "frame": 5029,
+      "file": "e17-late-05029.jpg"
+    },
+    {
+      "id": "e18",
+      "frame": 5135,
+      "file": "e18-early-05135.jpg"
+    },
+    {
+      "id": "e18",
+      "frame": 5265,
+      "file": "e18-middle-05265.jpg"
+    },
+    {
+      "id": "e18",
+      "frame": 5391,
+      "file": "e18-late-05391.jpg"
+    },
+    {
+      "id": "e19",
+      "frame": 5492,
+      "file": "e19-early-05492.jpg"
+    },
+    {
+      "id": "e19",
+      "frame": 5614,
+      "file": "e19-middle-05614.jpg"
+    },
+    {
+      "id": "e19",
+      "frame": 5732,
+      "file": "e19-late-05732.jpg"
+    },
+    {
+      "id": "e20",
+      "frame": 5830,
+      "file": "e20-early-05830.jpg"
+    },
+    {
+      "id": "e20",
+      "frame": 5954,
+      "file": "e20-middle-05954.jpg"
+    },
+    {
+      "id": "e20",
+      "frame": 6073,
+      "file": "e20-late-06073.jpg"
+    },
+    {
+      "id": "e21",
+      "frame": 6176,
+      "file": "e21-early-06176.jpg"
+    },
+    {
+      "id": "e21",
+      "frame": 6310,
+      "file": "e21-middle-06310.jpg"
+    },
+    {
+      "id": "e21",
+      "frame": 6440,
+      "file": "e21-late-06440.jpg"
+    },
+    {
+      "id": "e22",
+      "frame": 6545,
+      "file": "e22-early-06545.jpg"
+    },
+    {
+      "id": "e22",
+      "frame": 6672,
+      "file": "e22-middle-06672.jpg"
+    },
+    {
+      "id": "e22",
+      "frame": 6795,
+      "file": "e22-late-06795.jpg"
+    },
+    {
+      "id": "e23",
+      "frame": 6899,
+      "file": "e23-early-06899.jpg"
+    },
+    {
+      "id": "e23",
+      "frame": 7030,
+      "file": "e23-middle-07030.jpg"
+    },
+    {
+      "id": "e23",
+      "frame": 7158,
+      "file": "e23-late-07158.jpg"
+    },
+    {
+      "id": "e25",
+      "frame": 7261,
+      "file": "e25-early-07261.jpg"
+    },
+    {
+      "id": "e25",
+      "frame": 7387,
+      "file": "e25-middle-07387.jpg"
+    },
+    {
+      "id": "e25",
+      "frame": 7508,
+      "file": "e25-late-07508.jpg"
+    },
+    {
+      "id": "e26",
+      "frame": 7616,
+      "file": "e26-early-07616.jpg"
+    },
+    {
+      "id": "e26",
+      "frame": 7759,
+      "file": "e26-middle-07759.jpg"
+    },
+    {
+      "id": "e26",
+      "frame": 7898,
+      "file": "e26-late-07898.jpg"
+    },
+    {
+      "id": "e27",
+      "frame": 8011,
+      "file": "e27-early-08011.jpg"
+    },
+    {
+      "id": "e27",
+      "frame": 8147,
+      "file": "e27-middle-08147.jpg"
+    },
+    {
+      "id": "e27",
+      "frame": 8280,
+      "file": "e27-late-08280.jpg"
+    },
+    {
+      "id": "e28",
+      "frame": 8392,
+      "file": "e28-early-08392.jpg"
+    },
+    {
+      "id": "e28",
+      "frame": 8536,
+      "file": "e28-middle-08536.jpg"
+    },
+    {
+      "id": "e28",
+      "frame": 8675,
+      "file": "e28-late-08675.jpg"
+    },
+    {
+      "id": "e29",
+      "frame": 8790,
+      "file": "e29-early-08790.jpg"
+    },
+    {
+      "id": "e29",
+      "frame": 8934,
+      "file": "e29-middle-08934.jpg"
+    },
+    {
+      "id": "e29",
+      "frame": 9074,
+      "file": "e29-late-09074.jpg"
+    },
+    {
+      "id": "e30",
+      "frame": 9184,
+      "file": "e30-early-09184.jpg"
+    },
+    {
+      "id": "e30",
+      "frame": 9313,
+      "file": "e30-middle-09313.jpg"
+    },
+    {
+      "id": "e30",
+      "frame": 9438,
+      "file": "e30-late-09438.jpg"
+    },
+    {
+      "id": "e31",
+      "frame": 9545,
+      "file": "e31-early-09545.jpg"
+    },
+    {
+      "id": "e31",
+      "frame": 9681,
+      "file": "e31-middle-09681.jpg"
+    },
+    {
+      "id": "e31",
+      "frame": 9814,
+      "file": "e31-late-09814.jpg"
+    },
+    {
+      "id": "e32",
+      "frame": 9919,
+      "file": "e32-early-09919.jpg"
+    },
+    {
+      "id": "e32",
+      "frame": 10045,
+      "file": "e32-middle-10045.jpg"
+    },
+    {
+      "id": "e32",
+      "frame": 10167,
+      "file": "e32-late-10167.jpg"
+    },
+    {
+      "id": "e33",
+      "frame": 10265,
+      "file": "e33-early-10265.jpg"
+    },
+    {
+      "id": "e33",
+      "frame": 10384,
+      "file": "e33-middle-10384.jpg"
+    },
+    {
+      "id": "e33",
+      "frame": 10498,
+      "file": "e33-late-10498.jpg"
+    },
+    {
+      "id": "e35",
+      "frame": 10600,
+      "file": "e35-early-10600.jpg"
+    },
+    {
+      "id": "e35",
+      "frame": 10734,
+      "file": "e35-middle-10734.jpg"
+    },
+    {
+      "id": "e35",
+      "frame": 10864,
+      "file": "e35-late-10864.jpg"
+    },
+    {
+      "id": "e36",
+      "frame": 10971,
+      "file": "e36-early-10971.jpg"
+    },
+    {
+      "id": "e36",
+      "frame": 11105,
+      "file": "e36-middle-11105.jpg"
+    },
+    {
+      "id": "e36",
+      "frame": 11235,
+      "file": "e36-late-11235.jpg"
+    },
+    {
+      "id": "e37",
+      "frame": 11353,
+      "file": "e37-early-11353.jpg"
+    },
+    {
+      "id": "e37",
+      "frame": 11515,
+      "file": "e37-middle-11515.jpg"
+    },
+    {
+      "id": "e37",
+      "frame": 11671,
+      "file": "e37-late-11671.jpg"
+    },
+    {
+      "id": "e38",
+      "frame": 11795,
+      "file": "e38-early-11795.jpg"
+    },
+    {
+      "id": "e38",
+      "frame": 11942,
+      "file": "e38-middle-11942.jpg"
+    },
+    {
+      "id": "e38",
+      "frame": 12084,
+      "file": "e38-late-12084.jpg"
+    },
+    {
+      "id": "e39",
+      "frame": 12200,
+      "file": "e39-early-12200.jpg"
+    },
+    {
+      "id": "e39",
+      "frame": 12341,
+      "file": "e39-middle-12341.jpg"
+    },
+    {
+      "id": "e39",
+      "frame": 12479,
+      "file": "e39-late-12479.jpg"
+    },
+    {
+      "id": "e40",
+      "frame": 12591,
+      "file": "e40-early-12591.jpg"
+    },
+    {
+      "id": "e40",
+      "frame": 12729,
+      "file": "e40-middle-12729.jpg"
+    },
+    {
+      "id": "e40",
+      "frame": 12863,
+      "file": "e40-late-12863.jpg"
+    },
+    {
+      "id": "e41",
+      "frame": 12976,
+      "file": "e41-early-12976.jpg"
+    },
+    {
+      "id": "e41",
+      "frame": 13120,
+      "file": "e41-middle-13120.jpg"
+    },
+    {
+      "id": "e41",
+      "frame": 13260,
+      "file": "e41-late-13260.jpg"
+    },
+    {
+      "id": "e42",
+      "frame": 13380,
+      "file": "e42-early-13380.jpg"
+    },
+    {
+      "id": "e42",
+      "frame": 13537,
+      "file": "e42-middle-13537.jpg"
+    },
+    {
+      "id": "e42",
+      "frame": 13688,
+      "file": "e42-late-13688.jpg"
+    },
+    {
+      "id": "e43",
+      "frame": 13804,
+      "file": "e43-early-13804.jpg"
+    },
+    {
+      "id": "e43",
+      "frame": 13933,
+      "file": "e43-middle-13933.jpg"
+    },
+    {
+      "id": "e43",
+      "frame": 14059,
+      "file": "e43-late-14059.jpg"
+    },
+    {
+      "id": "e44",
+      "frame": 14165,
+      "file": "e44-early-14165.jpg"
+    },
+    {
+      "id": "e44",
+      "frame": 14300,
+      "file": "e44-middle-14300.jpg"
+    },
+    {
+      "id": "e44",
+      "frame": 14431,
+      "file": "e44-late-14431.jpg"
+    },
+    {
+      "id": "e45",
+      "frame": 14543,
+      "file": "e45-early-14543.jpg"
+    },
+    {
+      "id": "e45",
+      "frame": 14685,
+      "file": "e45-middle-14685.jpg"
+    },
+    {
+      "id": "e45",
+      "frame": 14822,
+      "file": "e45-late-14822.jpg"
+    },
+    {
+      "id": "e46",
+      "frame": 14934,
+      "file": "e46-early-14934.jpg"
+    },
+    {
+      "id": "e46",
+      "frame": 15071,
+      "file": "e46-middle-15071.jpg"
+    },
+    {
+      "id": "e46",
+      "frame": 15203,
+      "file": "e46-late-15203.jpg"
+    },
+    {
+      "id": "e47",
+      "frame": 15318,
+      "file": "e47-early-15318.jpg"
+    },
+    {
+      "id": "e47",
+      "frame": 15467,
+      "file": "e47-middle-15467.jpg"
+    },
+    {
+      "id": "e47",
+      "frame": 15612,
+      "file": "e47-late-15612.jpg"
+    },
+    {
+      "id": "e49",
+      "frame": 15729,
+      "file": "e49-early-15729.jpg"
+    },
+    {
+      "id": "e49",
+      "frame": 15869,
+      "file": "e49-middle-15869.jpg"
+    },
+    {
+      "id": "e49",
+      "frame": 16005,
+      "file": "e49-late-16005.jpg"
+    },
+    {
+      "id": "e50",
+      "frame": 16118,
+      "file": "e50-early-16118.jpg"
+    },
+    {
+      "id": "e50",
+      "frame": 16258,
+      "file": "e50-middle-16258.jpg"
+    },
+    {
+      "id": "e50",
+      "frame": 16393,
+      "file": "e50-late-16393.jpg"
+    },
+    {
+      "id": "e51",
+      "frame": 16503,
+      "file": "e51-early-16503.jpg"
+    },
+    {
+      "id": "e51",
+      "frame": 16636,
+      "file": "e51-middle-16636.jpg"
+    },
+    {
+      "id": "e51",
+      "frame": 16764,
+      "file": "e51-late-16764.jpg"
+    },
+    {
+      "id": "e52",
+      "frame": 16866,
+      "file": "e52-early-16866.jpg"
+    },
+    {
+      "id": "e52",
+      "frame": 16985,
+      "file": "e52-middle-16985.jpg"
+    },
+    {
+      "id": "e52",
+      "frame": 17101,
+      "file": "e52-late-17101.jpg"
+    },
+    {
+      "id": "e53",
+      "frame": 17197,
+      "file": "e53-early-17197.jpg"
+    },
+    {
+      "id": "e53",
+      "frame": 17316,
+      "file": "e53-middle-17316.jpg"
+    },
+    {
+      "id": "e53",
+      "frame": 17432,
+      "file": "e53-late-17432.jpg"
+    },
+    {
+      "id": "e54",
+      "frame": 17534,
+      "file": "e54-early-17534.jpg"
+    },
+    {
+      "id": "e54",
+      "frame": 17670,
+      "file": "e54-middle-17670.jpg"
+    },
+    {
+      "id": "e54",
+      "frame": 17802,
+      "file": "e54-late-17802.jpg"
+    },
+    {
+      "id": "e55",
+      "frame": 17915,
+      "file": "e55-early-17915.jpg"
+    },
+    {
+      "id": "e55",
+      "frame": 18060,
+      "file": "e55-middle-18060.jpg"
+    },
+    {
+      "id": "e55",
+      "frame": 18200,
+      "file": "e55-late-18200.jpg"
+    },
+    {
+      "id": "e56",
+      "frame": 18318,
+      "file": "e56-early-18318.jpg"
+    },
+    {
+      "id": "e56",
+      "frame": 18466,
+      "file": "e56-middle-18466.jpg"
+    },
+    {
+      "id": "e56",
+      "frame": 18609,
+      "file": "e56-late-18609.jpg"
+    }
+  ],
+  "newPaidImageVideoMusicCalls": 0,
+  "userApproval": "pending",
+  "continuousAVReview": false,
+  "limits": "Full decode and sampled frames do not establish continuous watching/listening or user aesthetic approval"
+}

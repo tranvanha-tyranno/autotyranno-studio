@@ -1,0 +1,47 @@
+{
+  "pexelsID": 3943588,
+  "pageURL": "https://www.pexels.com/video/bread-food-hands-art-3943588/",
+  "title": "Hands breaking a freshly baked baguette",
+  "creator": "cottonbro studio",
+  "downloadURL": "https://videos.pexels.com/video-files/3943588/3943588-uhd_4096_2160_25fps.mp4",
+  "tags": [
+    "bread"
+  ],
+  "id": "pexels-3943588",
+  "file": "assets/raw/pexels-3943588.mp4",
+  "sha256": "7d8924f04206174c007caa9c2871dd33321625ea203ae3fe3015f83405fc323a",
+  "bytes": 24340063,
+  "durationSeconds": 14.64,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 5.057,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Close landscape view of anonymous hands unwrapping paper bag and tearing baguette against plain grey background. Final bread split visible. Strong bread texture/quantity generic visual.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-3943588.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.15,
+      "end": 14.35,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 4096,
+  "height": 2160,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/bread-food-hands-art-3943588/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

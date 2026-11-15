@@ -1,0 +1,7 @@
+{
+  "schema": "china-prior-visual-receipt-check/1",
+  "selectedSourceHashes": 8,
+  "priorReceiptFilesCompared": 11,
+  "matchingPriorReceipts": [],
+  "scope": "Compare selected source SHA256 against prior receipt JSONs; not an exhaustive pixel similarity search."
+}

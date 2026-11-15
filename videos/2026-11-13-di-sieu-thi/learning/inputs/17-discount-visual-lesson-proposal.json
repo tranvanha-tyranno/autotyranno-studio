@@ -1,0 +1,14 @@
+{
+  "title": "Discount narration requires a visible discount rather than ordinary shelf prices",
+  "category": "visual_relevance",
+  "rule": "When a narrated clause says discount or price reduction, its visible asset must show an actual discount marker or an unambiguous old/new price relationship. Ordinary shelf prices, different products or different pack sizes alone do not establish a reduction.",
+  "action": "Inspect the actual source and rendered crop beside the discount phrase; retain readable promotion/old-new labels and historical date, keep captions clear, and separate archival shelf offers from current prices or later hypothetical arithmetic.",
+  "rationale": "Actual r06/c9 frame3121 had contextually relevant Vietnamese shelf-price photos but no visible reduction while the caption explicitly referred to a discount. r07 supplies an archival promotion label with crossed-out19.600 and15.400, whose date and limits remain visible.",
+  "applies_to": [
+    "Discount and price-reduction clauses in original photo-led grocery/life explainers",
+    "Source selection and rendered-crop review for archival promotion images; not verification of current offers or customer behavior"
+  ],
+  "source_feedback_ids": [
+    "evt-000018-4504a133a712"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "grocery-cart",
+  "file": "assets/grocery-cart.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 4971925,
+  "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-4971925/",
+  "downloadURL": "https://images.pexels.com/photos/4971925/pexels-photo-4971925.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Gustavo Fring",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "household",
+    "market"
+  ],
+  "credit": "Gustavo Fring / Pexels",
+  "expectedFromSource": "Shopper with trolley in grocery aisle",
+  "observed": "Adult shopper pushes trolley containing produce along refrigerated grocery aisle. Full landscape keeps the shopper’s face, basket and aisle; center crop cuts head.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "4c4a266fd19b41eac2827cd94a5e6b3b5e701daa069660a19643a313c0513458"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Grocery-shopping context only, not Vietnamese location or measured price/income/purchasing behavior of pictured adult.",
+  "reusedSource": "videos/2026-11-14-tai-chinh-anh-that/assets/grocery-cart.jpg"
+}

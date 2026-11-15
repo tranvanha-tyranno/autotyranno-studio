@@ -1,0 +1,171 @@
+{
+  "schema": "china-sound-plan/1",
+  "topic": "China economy mechanisms, not cafe sound design",
+  "music": [
+    {
+      "id": "industrial-networks",
+      "file": "audio/music/industrial-networks.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Original instrumental analytical documentary underscore about interconnected manufacturing, ports, rail and supply chains. Restrained piano ostinato, muted synth pulse, subtle mallet percussion and a quiet warm bass. Measured forward motion, curious and precise, no dramatic triumph or threat. Leave a clear open middle for continuous Vietnamese speech. No vocals, speech, anthems, national stereotypes, alarms, booms or aggressive drums.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "id": "balance-sheet-friction",
+      "file": "audio/music/balance-sheet-friction.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Original instrumental economic documentary underscore about property debt, household saving and cash-flow feedback. Sparse low felt piano, muted cello, gentle granular atmosphere and a very quiet irregular pulse. Thoughtful uncertainty and room to think, never horror or imminent-collapse music. Wide clear center for narration. No vocals, speech, alarms, cinematic booms, risers or national stereotypes.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    },
+    {
+      "id": "adaptation-horizon",
+      "file": "audio/music/adaptation-horizon.mp3",
+      "endpoint": "/v1/music",
+      "payload": {
+        "prompt": "Original instrumental analytical documentary ending about policy trade-offs, demographic change and adaptation. Warm restrained piano, soft mallets, modest acoustic textures and an airy low string bed. Patient practical curiosity, calm forward motion, no heroic victory. Wide clear space for continuous Vietnamese speech and a soft resolved ending. No vocals, speech, anthems, stereotypes, alarms, loud impacts or heavy drums.",
+        "music_length_ms": 120000,
+        "force_instrumental": true,
+        "model_id": "music_v1"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "id": "port-ambience",
+      "file": "audio/sfx/port-ambience.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "Distant container-port ambience: low ship machinery, quiet coastal air and far-away loading equipment. Restrained realistic documentary Foley, no horn, intelligible voices, music, alarms or shouting. This is illustrative sound design, not location recording.",
+        "duration_seconds": 14.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "crane-set",
+      "file": "audio/sfx/crane-set.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One restrained container crane handling movement: quiet mechanical cable motor, a soft heavy metal contact and natural brief settling. Realistic distant industrial Foley, no dramatic crash, horn, music, voices or alarms.",
+        "duration_seconds": 4.5,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "rail-pass",
+      "file": "audio/sfx/rail-pass.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A freight train passes at moderate distance, low rolling wheels and a soft rhythmic rail texture, rising gently then fading. Natural documentary Foley, no horn, music, intelligible speech, alarms or dramatic impact.",
+        "duration_seconds": 6.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "factory-hum",
+      "file": "audio/sfx/factory-hum.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "Soft steady factory production-floor ambience: low electric motors, a few distant repetitive mechanical clicks and subdued room tone. Realistic quiet documentary bed, no workers speaking, alarms, music, crashes or grinding spectacle.",
+        "duration_seconds": 10.0,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "pencil-paper",
+      "file": "audio/sfx/pencil-paper.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "A page gently turns and a pencil writes three short calm strokes on paper, close dry tactile sound, then natural silence. Restrained documentary Foley, no money sounds, cafe sounds, voices or music.",
+        "duration_seconds": 4.5,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    },
+    {
+      "id": "low-pulse",
+      "file": "audio/sfx/low-pulse.mp3",
+      "endpoint": "/v1/sound-generation",
+      "payload": {
+        "text": "One very soft rounded low acoustic pulse with a short warm tail, minimal thoughtful documentary punctuation. No cinematic boom, alarm, riser, drum rhythm, music or voices.",
+        "duration_seconds": 2.2,
+        "prompt_influence": 0.5,
+        "model_id": "eleven_text_to_sound_v3",
+        "loop": false
+      }
+    }
+  ],
+  "reuse": [
+    {
+      "id": "analytical-detail",
+      "file": "audio/music/analytical-detail.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\precise-unit-math.mp3",
+      "sha256": "d5b5fbba86486be356298b9b1e89c8ad60c182989483a10d11ca035f0863a94b",
+      "kind": "music",
+      "sourceReceiptSHA256": "c6bdbaac2ff54b81319085295e94ec5b70af000d96235e7a9f9ec5896d92971d",
+      "seconds": 120.08
+    },
+    {
+      "id": "quiet-finance",
+      "file": "audio/music/quiet-finance.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\cash-tension.mp3",
+      "sha256": "3625a05819765d346c4bc8d0f054ff26d8c9a01bcf8fed1f4ded82485e862ec7",
+      "kind": "music",
+      "sourceReceiptSHA256": "b5fce313d48dbbee1e88eee9a0759563ecf31a3ae366a7cf817d524ca96eb3fd",
+      "seconds": 120.03
+    },
+    {
+      "id": "operating-network",
+      "file": "audio/music/operating-network.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\music\\operating-pulse.mp3",
+      "sha256": "3a13ebd5aca1d21221ad0544f04666619c90ab3e00b0eea9e7607de365c8c119",
+      "kind": "music",
+      "sourceReceiptSHA256": "f108cac137a063378a222550e2a6967f8ea735a56f22f1783fb63814fa3a3ce6",
+      "seconds": 110.11
+    },
+    {
+      "id": "wood-tick",
+      "file": "audio/sfx/wood-tick.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\sfx\\wood-tick.mp3",
+      "sha256": "139f5adf12bf9326b3a970f2a23a6f30af3f89f01276fe0359e91a39bac16090",
+      "kind": "foley",
+      "sourceReceiptSHA256": "1d5e4f08e4d63b0b92763e53778935dfdf9bff3d3de250dfb859baa96649ddba",
+      "seconds": 1.52
+    },
+    {
+      "id": "transition",
+      "file": "audio/sfx/transition.mp3",
+      "source": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-quan-dong-khach-het-tien\\audio\\sfx\\transition.mp3",
+      "sha256": "53c989b0c64a3d9df0342e595f02f276f7a107dacae5d23126d0a9a33dc3b819",
+      "kind": "foley",
+      "sourceReceiptSHA256": "8a0a08a86d560c2ff40a5eb25dad58926a1c89796c9455db64ec390f9457b91e",
+      "seconds": 1.65
+    }
+  ],
+  "mixPolicy": {
+    "voiceLUFS": -16,
+    "musicLUFS": -29,
+    "foleyLUFS": -32,
+    "ambienceLUFS": -39,
+    "crossfadeSeconds": 3,
+    "voiceSpeed": 1.0,
+    "noAudioLooping": true
+  },
+  "cuePlan": "audio/cue-plan.json; explicit beat/asset/role cues selected against the final narration and visuals",
+  "auditoryAcceptance": "No actual listening or aesthetic approval established by generation/measurement."
+}

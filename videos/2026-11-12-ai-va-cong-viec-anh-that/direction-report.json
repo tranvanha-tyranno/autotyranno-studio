@@ -1,0 +1,14 @@
+{
+  "shots": 88,
+  "uniquePhotos": 25,
+  "secondsByType": {
+    "photo": 252.23333333333332,
+    "video": 43.36666666666667,
+    "graphic": 4.4
+  },
+  "audioChange": "None: exact previous final mix copied with matching SHA256",
+  "audioSHA256": "83f79862fdf5913191dff695d08e6fc33bca464b744b940f48a22c0cb5925545",
+  "sourceRevision": "videos\\2026-11-11-ai-va-cong-viec-5phut",
+  "newDirectionRequested": "2026-11-12",
+  "userAcceptance": "pending"
+}

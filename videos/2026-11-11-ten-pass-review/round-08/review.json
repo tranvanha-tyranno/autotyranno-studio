@@ -1,0 +1,14 @@
+{
+  "round": 8,
+  "focus": "Nhịp thở và nhận diện",
+  "problem": "Badge xuất hiện dày, một cảnh split quá ngắn khi căn lời.",
+  "change": "Cho một cảnh full-screen không badge, bớt nhận diện lặp ở các cảnh phụ.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-07",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Cảnh office toàn màn hình 26,3–28,2s tạo nhịp thở, không cần nhãn kép quá ngắn. Bớt badge ở split/inset giúp nhìn ý chính rõ hơn. Bản lỗi 1498 frame đã loại riêng; sau chuẩn hóa metadata, output mới đủ 1500 frame và màu vẫn ổn ở khung đối chiếu."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

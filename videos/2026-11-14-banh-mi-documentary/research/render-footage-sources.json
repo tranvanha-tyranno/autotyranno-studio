@@ -1,0 +1,1924 @@
+{
+  "schema": "bread-film-footage-sources/1",
+  "assets": [
+    {
+      "pexelsID": 11265880,
+      "pageURL": "https://www.pexels.com/video/11265880/",
+      "title": "Close-up hands working bread dough",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "flour",
+        "ingredients",
+        "bakery"
+      ],
+      "id": "pexels-11265880",
+      "file": "assets/raw/pexels-11265880.mp4",
+      "sha256": "721be04acfb416fef224751183c923bf246a3f74e24039f26c016edc052cc482",
+      "bytes": 4744316,
+      "durationSeconds": 12.74,
+      "downloadURL": "https://videos.pexels.com/video-files/11265880/11265880-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.031,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Both hands shape a round dough piece on a flour-covered white worktop; flour and pressing action visible across seven actual source frames. No finished baguette in this clip.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-11265880.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 12.5,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/11265880/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 11265881,
+      "pageURL": "https://www.pexels.com/video/11265881/",
+      "title": "Bread making process",
+      "fps": [
+        25,
+        24,
+        30
+      ],
+      "tags": [
+        "flour",
+        "bakery",
+        "bread"
+      ],
+      "id": "pexels-11265881",
+      "file": "assets/raw/pexels-11265881.mp4",
+      "sha256": "2a9ac6e8b255ff05b539aa4d79eaf98514906fdccb132fbdabd6892551caa376",
+      "bytes": 8154014,
+      "durationSeconds": 22.29,
+      "downloadURL": "https://videos.pexels.com/video-files/11265881/11265881-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.756,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Hands fold and press dough on a heavily floured white worktop, dough changes from held piece to folded mass. Same set as11265880; avoid adjacent reuse.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-11265881.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 22.0,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/11265881/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 7405932,
+      "pageURL": "https://www.pexels.com/video/close-up-footage-of-a-breads-inside-an-oven-7405932/",
+      "title": "Baguettes baking in an oven",
+      "creator": "8 K",
+      "fps": [
+        24
+      ],
+      "tags": [
+        "bread",
+        "bakery"
+      ],
+      "id": "pexels-7405932",
+      "file": "assets/raw/pexels-7405932.mp4",
+      "sha256": "b54c87aba84deb4c2e2ff9a248e3e0c13af5c3ff9618a5aff40169bc298bbd89",
+      "bytes": 2512452,
+      "durationSeconds": 24.04,
+      "downloadURL": "https://videos.pexels.com/video-files/7405932/7405932-hd_1280_720_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 1.784,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Rows of elongated baguette-shaped rolls bake behind oven glass; warm orange oven light, loaf surfaces change gradually. Low action: use brief oven/energy-cost context, not a long held shot.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-7405932.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 23.8,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/close-up-footage-of-a-breads-inside-an-oven-7405932/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 7405927,
+      "pageURL": "https://www.pexels.com/video/7405927/",
+      "title": "Kneading bread dough",
+      "fps": [
+        24,
+        25
+      ],
+      "tags": [
+        "bread",
+        "bakery",
+        "flour"
+      ],
+      "id": "pexels-7405927",
+      "file": "assets/raw/pexels-7405927.mp4",
+      "sha256": "646fd7de6ee84fdfad1b53e914d359eedf5156826f7a800a4b11092e5e764bcd",
+      "bytes": 3059226,
+      "durationSeconds": 8.81,
+      "downloadURL": "https://videos.pexels.com/video-files/7405927/7405927-hd_1280_720_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 4.019,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Baker rolls and places long dough cylinders in a bakery tray. Forearms and hands visible; multiple formed baguette shapes. Strong process action.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-7405927.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 8.6,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/7405927/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 8180413,
+      "pageURL": "https://www.pexels.com/video/person-kneading-a-dough-8180413/",
+      "title": "Hands kneading bread dough with flour",
+      "creator": "Ron Lach",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "bread",
+        "bakery",
+        "flour",
+        "ingredients"
+      ],
+      "id": "pexels-8180413",
+      "file": "assets/raw/pexels-8180413.mp4",
+      "sha256": "02454cc28bda46405fc005a1644a5800afe716b6ba93834ad9da89f949995dc3",
+      "bytes": 8483634,
+      "durationSeconds": 32.56,
+      "downloadURL": "https://videos.pexels.com/video-files/8180413/8180413-hd_1366_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 3.299,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Hands fold and push bread dough on a wooden table; a scale and glass ingredient jars in background. Visible kneading state changes; generic home baking context.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-8180413.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 32.3,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1366,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/person-kneading-a-dough-8180413/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 8180409,
+      "pageURL": "https://www.pexels.com/video/a-woman-kneading-dough-8180409/",
+      "title": "Woman kneading bread dough",
+      "creator": "Ron Lach",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "bread",
+        "bakery",
+        "flour"
+      ],
+      "id": "pexels-8180409",
+      "file": "assets/raw/pexels-8180409.mp4",
+      "sha256": "d95b9815a2f97920c718e84c2fd972bafbe1070c493da7d65af0b0ef5e897dc9",
+      "bytes": 10425781,
+      "durationSeconds": 39.84,
+      "downloadURL": "https://videos.pexels.com/video-files/8180409/8180409-hd_720_1366_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 4.79,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Portrait view: hands lift, turn and knead one dough mass at white table. Same kitchen as8180413, but different framing; center crop must keep hands and dough, no claim these are fictional staff.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-8180409.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 39.6,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 720,
+      "height": 1366,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/a-woman-kneading-dough-8180409/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 8530514,
+      "pageURL": "https://www.pexels.com/fr-fr/video/nourriture-mains-porter-couper-8530514/",
+      "title": "Hands breaking a baguette outdoors",
+      "creator": "KoolShooters",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "bread"
+      ],
+      "id": "pexels-8530514",
+      "file": "assets/raw/pexels-8530514.mp4",
+      "sha256": "72068d349a0098b082e499bb83238f1de78ab52c46762fa71e00a848311a6153",
+      "bytes": 4966758,
+      "durationSeconds": 22.28,
+      "downloadURL": "https://videos.pexels.com/video-files/8530514/8530514-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.509,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Hands unwrap and break a long baguette at a green outdoor picnic, bread and basket visible. Supports bread handling/consumption only; not a Vietnamese shop or supplier.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-8530514.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 21.9,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/fr-fr/video/nourriture-mains-porter-couper-8530514/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 8540402,
+      "pageURL": "https://www.pexels.com/video/woman-paying-cashless-8540402/",
+      "title": "Cashless transaction at farmers market",
+      "creator": "RDNE Stock project",
+      "fps": [
+        25,
+        24,
+        30
+      ],
+      "tags": [
+        "payment",
+        "market",
+        "groceries"
+      ],
+      "id": "pexels-8540402",
+      "file": "assets/raw/pexels-8540402.mp4",
+      "sha256": "229e079d47e1c39344961a8eb408f4dd131517e77b8120a41de318f6da1adde9",
+      "bytes": 5871733,
+      "durationSeconds": 16.47,
+      "downloadURL": "https://videos.pexels.com/video-files/8540402/8540402-hd_1280_720_30fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.167,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Produce-stall vendor holds card terminal as shopper taps card and collects paper bag. Trees and western market setting visible, no Vietnamese location claim.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-8540402.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 16.2,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/woman-paying-cashless-8540402/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 4121751,
+      "pageURL": "https://www.pexels.com/video/a-couple-paying-at-the-counter-in-the-grocery-4121751/",
+      "title": "Grocery checkout payment and bagging",
+      "creator": "Jack Sparrow",
+      "fps": [
+        25,
+        24,
+        30
+      ],
+      "tags": [
+        "payment",
+        "shop",
+        "groceries"
+      ],
+      "id": "pexels-4121751",
+      "file": "assets/raw/pexels-4121751.mp4",
+      "sha256": "3f5a0db658957f3d6cfb0543b02cf6b09d1fc09dcd56d11181edc527f91f3e17",
+      "bytes": 8625515,
+      "durationSeconds": 14.2,
+      "downloadURL": "https://videos.pexels.com/video-files/4121751/4121751-hd_1920_1080_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 79.728,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Supermarket checkout: shoppers pack paper bag and hold pineapple beside card terminal. Supports checkout/bagging, not fictional bakery.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-4121751.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 13.9,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/a-couple-paying-at-the-counter-in-the-grocery-4121751/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 30329515,
+      "pageURL": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-preparation-30329515/",
+      "title": "Authentic Vietnamese Banh Mi preparation",
+      "creator": "Vietnam Street Food TV",
+      "downloadURL": "https://videos.pexels.com/video-files/30329515/13000700_3840_2160_60fps.mp4",
+      "tags": [
+        "bread",
+        "bakery",
+        "ingredients",
+        "shop"
+      ],
+      "id": "pexels-30329515",
+      "file": "assets/raw/pexels-30329515.mp4",
+      "sha256": "f82cadb3681f1d8cd71429dea63cabf3b953d744bab07b2cbf7089c7fc5e0cb1",
+      "bytes": 85969427,
+      "durationSeconds": 20.33,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 31.621,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Close-up real baguette sandwich assembled with pork, cucumber/herbs and seasoning, then wrapped/bagged. Strong authentic Bánh Mì visual. Source provides Vietnamese identification; pixels show actual baguette and filling. Does not identify Hạnh or prove price.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-30329515.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.1,
+          "end": 20.1,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-preparation-30329515/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 31317451,
+      "pageURL": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-street-vendor-31317451/",
+      "title": "Authentic Vietnamese Banh Mi street vendor",
+      "creator": "Vietnam Street Food TV",
+      "downloadURL": "https://videos.pexels.com/video-files/31317451/13369416_3840_2160_60fps.mp4",
+      "tags": [
+        "bread",
+        "bakery",
+        "shop",
+        "storage"
+      ],
+      "id": "pexels-31317451",
+      "file": "assets/raw/pexels-31317451.mp4",
+      "sha256": "248434fa66b96d3d056ca85d8cd28be62e6c925cdb86df1289769368ef0728a5",
+      "bytes": 18748112,
+      "durationSeconds": 5.77,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 4.37,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Glass street-food cabinet with short elongated golden baguettes and meat trays; gloved hand lifts a loaf, vendor preparing behind display. Strong finished-bread/shop visual.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-31317451.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.1,
+          "end": 5.55,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/authentic-vietnamese-banh-mi-street-vendor-31317451/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 30042091,
+      "pageURL": "https://www.pexels.com/video/street-food-preparation-of-roast-pork-banh-mi-30042091/",
+      "title": "Slicing roast pork for Banh Mi",
+      "creator": "Vietnam Street Food TV",
+      "downloadURL": "https://videos.pexels.com/video-files/30042091/12887461_3840_2160_60fps.mp4",
+      "tags": [
+        "ingredients"
+      ],
+      "id": "pexels-30042091",
+      "file": "assets/raw/pexels-30042091.mp4",
+      "sha256": "16aebf4ffc470d20ce9e97331242f135ef08967ccf669d0a72a33d2e3da36fe9",
+      "bytes": 52924903,
+      "durationSeconds": 10.97,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 17.262,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Gloved hands chop roast pork with large knife on round wooden board and gather slices near containers. Ingredient preparation only, not finished bread, costs or hygiene conclusion.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-30042091.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.1,
+          "end": 10.75,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/street-food-preparation-of-roast-pork-banh-mi-30042091/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 29980691,
+      "pageURL": "https://www.pexels.com/video/artisan-bread-dough-kneading-in-kitchen-29980691/",
+      "title": "Artisan bread dough kneading",
+      "creator": "khezez",
+      "downloadURL": "https://videos.pexels.com/video-files/29980691/12865069_2160_3840_30fps.mp4",
+      "tags": [
+        "flour",
+        "bakery",
+        "bread"
+      ],
+      "id": "pexels-29980691",
+      "file": "assets/raw/pexels-29980691.mp4",
+      "sha256": "40d59fa30688dcee6a994afdb845daecc255339895aa4a77070b6ebedef319d6",
+      "bytes": 130511225,
+      "durationSeconds": 38.53,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 47.246,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Portrait close-up of black-gloved hands kneading a large dough mass in flour at commercial work surface. Dough rounds and folds; no pizza toppings visible. Generic dough-process context only.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-29980691.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 38.3,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 2160,
+      "height": 3840,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/artisan-bread-dough-kneading-in-kitchen-29980691/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 30319062,
+      "pageURL": "https://www.pexels.com/video/street-vendor-prepares-fresh-vietnamese-banh-mi-30319062/",
+      "title": "Vendor preparing fresh Vietnamese Banh Mi",
+      "creator": "Vietnam Street Food TV",
+      "downloadURL": "https://videos.pexels.com/video-files/30319062/12996791_3840_2160_60fps.mp4",
+      "tags": [
+        "ingredients",
+        "shop",
+        "market"
+      ],
+      "id": "pexels-30319062",
+      "file": "assets/raw/pexels-30319062.mp4",
+      "sha256": "7c60690cee24c383b830390bbb3e25415057b4675e9597ea7f2ed7cab3bb6045",
+      "bytes": 19803789,
+      "durationSeconds": 4.15,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 9.457,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Actual frames show mixed meat/herbs in an open foam box on a food stall, baguettes only in background. Correct as takeaway-food ingredients context, not hero bread assembly.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-30319062.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.1,
+          "end": 3.95,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/street-vendor-prepares-fresh-vietnamese-banh-mi-30319062/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 30790585,
+      "pageURL": "https://www.pexels.com/video/vietnamese-street-food-vendor-prepares-roast-pork-30790585/",
+      "title": "Vietnamese street vendor preparing roast pork",
+      "creator": "Vietnam Street Food TV",
+      "downloadURL": "https://videos.pexels.com/video-files/30790585/13169935_3840_2160_60fps.mp4",
+      "tags": [
+        "ingredients",
+        "shop",
+        "market"
+      ],
+      "id": "pexels-30790585",
+      "file": "assets/raw/pexels-30790585.mp4",
+      "sha256": "b1ad506fcc8a4d8f9dbb44712cf566b8f89165cf2adba30a965f6938ea63c56c",
+      "bytes": 29576285,
+      "durationSeconds": 7.27,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 15.553,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Vendor chops roast pork at street cart with motorbikes arriving/passing. Vietnamese street-food setting per source; no fictional-person identity. Supports shop work/ingredients context.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-30790585.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.1,
+          "end": 7.05,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/vietnamese-street-food-vendor-prepares-roast-pork-30790585/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 3943588,
+      "pageURL": "https://www.pexels.com/video/bread-food-hands-art-3943588/",
+      "title": "Hands breaking a freshly baked baguette",
+      "creator": "cottonbro studio",
+      "downloadURL": "https://videos.pexels.com/video-files/3943588/3943588-uhd_4096_2160_25fps.mp4",
+      "tags": [
+        "bread"
+      ],
+      "id": "pexels-3943588",
+      "file": "assets/raw/pexels-3943588.mp4",
+      "sha256": "7d8924f04206174c007caa9c2871dd33321625ea203ae3fe3015f83405fc323a",
+      "bytes": 24340063,
+      "durationSeconds": 14.64,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 5.057,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Close landscape view of anonymous hands unwrapping paper bag and tearing baguette against plain grey background. Final bread split visible. Strong bread texture/quantity generic visual.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-3943588.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 14.35,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 4096,
+      "height": 2160,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/bread-food-hands-art-3943588/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 3943592,
+      "pageURL": "https://www.pexels.com/video/bread-food-hands-texture-3943592/",
+      "title": "Hands breaking fresh French bread",
+      "creator": "cottonbro studio",
+      "downloadURL": "https://videos.pexels.com/video-files/3943592/3943592-uhd_2160_4096_25fps.mp4",
+      "tags": [
+        "bread"
+      ],
+      "id": "pexels-3943592",
+      "file": "assets/raw/pexels-3943592.mp4",
+      "sha256": "860d6ecd842e1004db4b95468da2f89f1007a961c134fc8d8fc36a59934bc585",
+      "bytes": 18948305,
+      "durationSeconds": 11.6,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 10.281,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Portrait view hands unwrap and tear baguette against grey background, same production set as3943588. Crop hands+bread carefully; avoid near-adjacent repeats of same action.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-3943592.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 11.35,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 2160,
+      "height": 4096,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/bread-food-hands-texture-3943592/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 11196382,
+      "pageURL": "https://www.pexels.com/video/close-up-of-a-person-sifting-ingredients-with-a-sieve-11196382/",
+      "title": "Sifting flour and bran into bowl",
+      "creator": "Mika-20-20",
+      "fps": [
+        30,
+        25
+      ],
+      "tags": [
+        "flour",
+        "ingredients"
+      ],
+      "id": "pexels-11196382",
+      "file": "assets/raw/pexels-11196382.mp4",
+      "sha256": "da517c39cfbc99cbea7ac3032cb2eaf39009259d9d7259909bb3c34785bb741a",
+      "bytes": 4620193,
+      "durationSeconds": 13.4,
+      "downloadURL": "https://videos.pexels.com/video-files/11196382/11196382-hd_1280_720_30fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 8.485,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Landscape close-up: coarse flour/bran shaken through metal sieve into metal bowl, accumulating sifted flour visible. Supports ingredient process, not specific flour price or imported origin.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-11196382.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 13.15,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/close-up-of-a-person-sifting-ingredients-with-a-sieve-11196382/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 3325985,
+      "pageURL": "https://www.pexels.com/video/a-person-straining-the-flour-to-be-used-in-baking-3325985/",
+      "title": "Straining flour in bright kitchen",
+      "creator": "Taryn Elliott",
+      "fps": [
+        25,
+        24,
+        30
+      ],
+      "tags": [
+        "flour",
+        "ingredients",
+        "bakery"
+      ],
+      "id": "pexels-3325985",
+      "file": "assets/raw/pexels-3325985.mp4",
+      "sha256": "8bac57bed84c8b1cb93d06bd481c3031e2d48ff30eb8f43287e0390058e2f675",
+      "bytes": 4511724,
+      "durationSeconds": 13.89,
+      "downloadURL": "https://videos.pexels.com/video-files/3325985/3325985-hd_1280_720_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 7.399,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Hands shake flour sieve above a bowl in sunlit kitchen; powder falls visibly and arm moves. Supports baking ingredients/process only.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-3325985.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 13.65,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/a-person-straining-the-flour-to-be-used-in-baking-3325985/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 8298010,
+      "pageURL": "https://www.pexels.com/video/a-woman-using-calculator-8298010/",
+      "title": "A Woman Using Calculator",
+      "creator": "Mikhail Nilov",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "calculator",
+        "accounting"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8298010",
+      "file": "assets/raw/finance-8298010.mp4",
+      "sha256": "2cf997250202d35a373d23027f369a05cf9e75ef0bb4e095f688a775c4206cc6",
+      "bytes": 5671527,
+      "durationSeconds": 23.72,
+      "downloadURL": "https://videos.pexels.com/video-files/8298010/8298010-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.68,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Overhead hands turn/hold printed formal documents, press calculator and write with pen.",
+          "Document pages have stamps and lines; this is not a verified bakery/flour invoice or household receipt. Use only generic calculation context."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8298010.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 23.22,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8298010.mp4",
+      "sourceSha256": "2cf997250202d35a373d23027f369a05cf9e75ef0bb4e095f688a775c4206cc6",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 593
+      }
+    },
+    {
+      "pexelsID": 13433110,
+      "pageURL": "https://www.pexels.com/video/a-person-reading-a-receipt-attached-to-a-paper-bag-13433110/",
+      "title": "A Person Reading a Receipt Attached to a Paper Bag",
+      "creator": "Mizuno K",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "receipt",
+        "delivery",
+        "paperbag"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-13433110",
+      "file": "assets/raw/finance-13433110.mp4",
+      "sha256": "8131c0b33d87860e52441cd1bb56fd07671220141248f8d296589dc6a5816a12",
+      "bytes": 3415302,
+      "durationSeconds": 10.03,
+      "downloadURL": "https://videos.pexels.com/video-files/13433110/13433110-hd_720_1280_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.657,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Hands point at a narrow printed delivery slip attached to a brown paper bag outdoors, then hold/adjust it.",
+          "Portrait source; landscape derivative crops x0 y500 w720 h404 to preserve hands/slip. No claim the slip contains the fictional model values.",
+          "Actual 16:9 derivative crops at0.5/4/8seconds were opened; hands/slip remain visible in receipt crop. Grocery crop protects produce but crops face/raised hand in early samples."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-13433110.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false,
+        "derivativeCropSheet": "research/contact-sheets/financial-landscape-derivative-crops.jpg",
+        "derivativeCropSamplesOpened": [
+          0.5,
+          4,
+          8
+        ]
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 9.53,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceCrop": {
+        "x": 0,
+        "y": 500,
+        "width": 720,
+        "height": 404,
+        "outputWidth": 1280,
+        "outputHeight": 720,
+        "fps": 30,
+        "method": "Fixed content crop then scale to1280x720 using ffmpeg default scaling; source preserved separately."
+      },
+      "sourceFile": "assets/raw/pexels-13433110.mp4",
+      "sourceSha256": "a8c37ba17f5c21ead8b2914782f8b31ac10db884dc9e961b1dcccb0205a62af6",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "frames": 300
+      }
+    },
+    {
+      "pexelsID": 8421355,
+      "pageURL": "https://www.pexels.com/video/paying-with-a-creditcard-8421355/",
+      "title": "Paying with a Creditcard",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "checkout",
+        "shop",
+        "receipt",
+        "payment"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8421355",
+      "file": "assets/raw/finance-8421355.mp4",
+      "sha256": "d3a9e2f5a2a1017f2e7653fd9c1ab2a07df7965e7be105ba164ed5c02184ede6",
+      "bytes": 2922025,
+      "durationSeconds": 8.13,
+      "downloadURL": "https://videos.pexels.com/video-files/8421355/8421355-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.518,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Close grocery checkout: a shopper and cashier hold a red-keypad terminal; shopper presses keys. A paper receipt emerges and is handed away near the end.",
+          "Food/leaves and red grocery basket visible. Do not infer country or a particular fictional person."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8421355.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 7.63,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8421355.mp4",
+      "sourceSha256": "d3a9e2f5a2a1017f2e7653fd9c1ab2a07df7965e7be105ba164ed5c02184ede6",
+      "semanticIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 5.8,
+          "role": "payment terminal interaction"
+        },
+        {
+          "startSeconds": 6.0,
+          "endSeconds": 7.8,
+          "role": "receipt print and handoff"
+        }
+      ],
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 203
+      }
+    },
+    {
+      "pexelsID": 9474101,
+      "pageURL": "https://www.pexels.com/video/a-woman-is-shopping-in-a-supermarket-9474101/",
+      "title": "A woman is shopping in a supermarket",
+      "creator": "Greta Hoffman",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-9474101",
+      "file": "assets/raw/finance-9474101.mp4",
+      "sha256": "757b1eb141268fa824e0d0f1caa0503dca6e441a4a4de072b63b5cc1ad4b611d",
+      "bytes": 3213651,
+      "durationSeconds": 10.01,
+      "downloadURL": "https://videos.pexels.com/video-files/9474101/9474101-hd_1080_1920_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 1.553,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "A shopper selects fruit, brings one close to examine/smell, and puts/returns fruit near a produce display; reusable mesh bag visible.",
+          "Portrait source; landscape derivative crops x0 y420 w720 h404 for hand/fruit action. Visible shelf labels are archival foreign-context labels, not current Vietnamese offers.",
+          "Actual 16:9 derivative crops at0.5/4/8seconds were opened; hands/slip remain visible in receipt crop. Grocery crop protects produce but crops face/raised hand in early samples."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-9474101.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false,
+        "derivativeCropSheet": "research/contact-sheets/financial-landscape-derivative-crops.jpg",
+        "derivativeCropSamplesOpened": [
+          0.5,
+          4,
+          8
+        ]
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 6.2,
+          "endSeconds": 9.5,
+          "role": "hand lowers examined fruit toward display, mesh bag and produce visible"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceCrop": {
+        "x": 0,
+        "y": 420,
+        "width": 720,
+        "height": 404,
+        "outputWidth": 1280,
+        "outputHeight": 720,
+        "fps": 30,
+        "method": "Fixed content crop then scale to1280x720 using ffmpeg default scaling; source preserved separately."
+      },
+      "sourceFile": "assets/raw/pexels-9474101.mp4",
+      "sourceSha256": "62ff731171f03e0da66a8ece05879d97253dd7016a32cc0ce23910ec9c635dcf",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "frames": 300
+      }
+    },
+    {
+      "pexelsID": 8420781,
+      "pageURL": "https://www.pexels.com/video/woman-looking-inside-a-grocery-8420781/",
+      "title": "Woman Looking Inside a Grocery",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        30,
+        24,
+        50
+      ],
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "list"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8420781",
+      "file": "assets/raw/finance-8420781.mp4",
+      "sha256": "ea94142e0c3deec17e86129e05cad7eec19de6c897dcaa501a00faa374a658d8",
+      "bytes": 3990154,
+      "durationSeconds": 16.3,
+      "downloadURL": "https://videos.pexels.com/video-files/8420781/8420781-hd_1920_1080_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 3.361,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "A shopper holds a paper list and a red basket of vegetables, looks from list to shelves and reaches for a product.",
+          "Visible person is illustrative stock, never presented as Hanh or her employee; no assertion she is overspending or under financial stress."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8420781.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 15.8,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8420781.mp4",
+      "sourceSha256": "ea94142e0c3deec17e86129e05cad7eec19de6c897dcaa501a00faa374a658d8",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 407
+      }
+    },
+    {
+      "pexelsID": 8465179,
+      "pageURL": "https://www.pexels.com/video/men-buying-on-the-supermarket-8465179/",
+      "title": "Men Buying on the Supermarket",
+      "creator": "Kampus Production",
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "ingredients"
+      ],
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8465179",
+      "file": "assets/raw/finance-8465179.mp4",
+      "sha256": "ea5ba6309b28fcae1a1218a7fe94a48df7ffd15b8e8c80883036c514ed5bf37f",
+      "bytes": 4635150,
+      "durationSeconds": 18.82,
+      "downloadURL": "https://videos.pexels.com/video-files/8465179/8465179-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 3.496,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Two shoppers inspect produce in a grocery, handle leafy greens near a red basket and continue selecting.",
+          "Generic grocery selection; no location, relationship, price or budget asserted from stock."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8465179.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 18.32,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8465179.mp4",
+      "sourceSha256": "ea5ba6309b28fcae1a1218a7fe94a48df7ffd15b8e8c80883036c514ed5bf37f",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 470
+      }
+    },
+    {
+      "pexelsID": 8465192,
+      "pageURL": "https://www.pexels.com/video/men-checking-vegetables-at-the-cashier-counter-8465192/",
+      "title": "Men Checking Vegetables at the Cashier Counter",
+      "creator": "Kampus Production",
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "checkout"
+      ],
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8465192",
+      "file": "assets/raw/finance-8465192.mp4",
+      "sha256": "03ad5ecdf0eec5f89be1faefd26f715fbfeafa68fdd5b264acda997760ec233c",
+      "bytes": 2595523,
+      "durationSeconds": 11.46,
+      "downloadURL": "https://videos.pexels.com/video-files/8465192/8465192-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.609,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Hands move red/yellow/green vegetables across a counter; focus later moves to shoppers faces.",
+          "Use 0.4–6.0s for object handling/counter, rather than later face-only part when discussing a basket or costs."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8465192.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 6,
+          "role": "handling vegetables on counter"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8465192.mp4",
+      "sourceSha256": "03ad5ecdf0eec5f89be1faefd26f715fbfeafa68fdd5b264acda997760ec233c",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 286
+      }
+    },
+    {
+      "pexelsID": 8466806,
+      "pageURL": "https://www.pexels.com/video/man-choosing-fruits-on-the-market-8466806/",
+      "title": "Man Choosing Fruits on the Market",
+      "creator": "Kampus Production",
+      "tags": [
+        "groceries",
+        "market",
+        "shop",
+        "ingredients"
+      ],
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8466806",
+      "file": "assets/raw/finance-8466806.mp4",
+      "sha256": "acd41a2f2e392b740275ec5b64a5dcd15f0dc552e310ad52d46d51ce40396356",
+      "bytes": 3435224,
+      "durationSeconds": 9.86,
+      "downloadURL": "https://videos.pexels.com/video-files/8466806/8466806-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.84,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Shopper reaches to wooden produce bins, handles a piece of produce and moves it toward a red basket.",
+          "Shelf signs visible but not verified prices or Vietnamese locations; generic choice/alternative-shopping context."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8466806.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.4,
+          "endSeconds": 9.36,
+          "role": "illustrative_context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8466806.mp4",
+      "sourceSha256": "acd41a2f2e392b740275ec5b64a5dcd15f0dc552e310ad52d46d51ce40396356",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 246
+      }
+    },
+    {
+      "pexelsID": 10047227,
+      "pageURL": "https://www.pexels.com/video/a-person-scooping-a-flour-10047227/",
+      "title": "Hands scooping flour for baking preparation",
+      "creator": "Ron Lach",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "flour",
+        "ingredients",
+        "storage"
+      ],
+      "id": "pexels-10047227",
+      "file": "assets/raw/pexels-10047227.mp4",
+      "sha256": "66b892be44397d816ef25af40858a28c9ec1d84373a747e16664b27e158185d2",
+      "bytes": 4795575,
+      "durationSeconds": 20.84,
+      "downloadURL": "https://videos.pexels.com/video-files/10047227/10047227-hd_1366_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 1.717,
+      "inspection": {
+        "status": "inspected",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "observations": "Landscape close-up: hands scoop white flour from large glass storage jar into smaller glass, then pour it onto table. Red check apron only torso visible. Strong flour/storage/process footage, no finished bread or specific flour cost proven.",
+        "contactSheet": "research/contact-sheets/pexels-10047227.jpg",
+        "continuousAVReview": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 20.6,
+          "role": "illustrative flour scooping/storage input"
+        }
+      ],
+      "width": 1366,
+      "height": 720,
+      "usableForBreadFilm": true
+    },
+    {
+      "pexelsID": 8176160,
+      "pageURL": "https://www.pexels.com/video/a-woman-scooping-flour-into-the-weighing-scale-8176160/",
+      "title": "Scooping flour into weighing scale",
+      "creator": "Ron Lach",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "flour",
+        "ingredients",
+        "bakery",
+        "storage"
+      ],
+      "id": "pexels-8176160",
+      "file": "assets/raw/pexels-8176160.mp4",
+      "sha256": "360854bbd31d1e98d0606c6ab04128186c41fac46f39d18dd1bef06f84edf9d0",
+      "bytes": 5349089,
+      "durationSeconds": 32.84,
+      "downloadURL": "https://videos.pexels.com/video-files/8176160/8176160-hd_1366_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 3.311,
+      "inspection": {
+        "status": "inspected",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "observations": "Landscape close-up: anonymous hands scoop flour from glass jar, tip into metal pan on mechanical weighing scale and scoop again. Visible flour and measuring action. Same kitchen as8180413/8180409, avoid adjacent repeated set. No numeric cost, actual supplier or fictional identity established.",
+        "contactSheet": "research/contact-sheets/pexels-8176160.jpg",
+        "continuousAVReview": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.15,
+          "end": 32.6,
+          "role": "illustrative flour weighing/input control"
+        }
+      ],
+      "width": 1366,
+      "height": 720,
+      "usableForBreadFilm": true
+    }
+  ],
+  "excluded": [
+    {
+      "pexelsID": 13726352,
+      "pageURL": "https://www.pexels.com/video/taking-bread-out-of-oven-13726352/",
+      "title": "Taking bread out of traditional oven",
+      "creator": "✨",
+      "downloadURL": "https://videos.pexels.com/video-files/13726352/13726352-uhd_2160_3840_60fps.mp4",
+      "tags": [],
+      "id": "pexels-13726352",
+      "file": "assets/raw/pexels-13726352.mp4",
+      "sha256": "78490c3dd6ea1b1061d6aac588b81ad9143a8729d34d2aa014cac57f13639f90",
+      "bytes": 21079455,
+      "durationSeconds": 6.63,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 10.811,
+      "inspection": {
+        "status": "rejected",
+        "observations": "Portrait brick oven with bread shovel and thin flatbreads on tray. Food is flatbread rather than baguette; rejected for this bánh-mì story to avoid visual mismatch.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-13726352.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [],
+      "width": 2160,
+      "height": 3840,
+      "usableForBreadFilm": false,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/taking-bread-out-of-oven-13726352/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 6681020,
+      "pageURL": "https://www.pexels.com/video/a-woman-baking-using-an-oven-6681020/",
+      "title": "Woman placing bread in oven",
+      "creator": "Nadezhda Moryak",
+      "downloadURL": "https://videos.pexels.com/video-files/6681020/6681020-hd_1920_1078_30fps.mp4",
+      "tags": [],
+      "id": "pexels-6681020",
+      "file": "assets/raw/pexels-6681020.mp4",
+      "sha256": "9fd4f59d332d74d975b27888c13a1fc05a55295b6a3692bd3e1d65336f1174ab",
+      "bytes": 9848394,
+      "durationSeconds": 15.5,
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 4.21,
+      "inspection": {
+        "status": "rejected",
+        "observations": "Actual frames show a round pie/cake in a dish being put into oven, despite source description saying bread. Rejected: wrong food for this story.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-6681020.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [],
+      "width": 1920,
+      "height": 1078,
+      "usableForBreadFilm": false,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/a-woman-baking-using-an-oven-6681020/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    },
+    {
+      "pexelsID": 8479282,
+      "pageURL": "https://www.pexels.com/video/person-counting-money-8479282/",
+      "title": "Person Counting Money",
+      "creator": "ArtHouse Studio",
+      "fps": [
+        25,
+        30,
+        24
+      ],
+      "tags": [
+        "foreign-currency-context"
+      ],
+      "dimensions": [
+        "1920_1080",
+        "1080_1920",
+        "1280_720",
+        "720_1280",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "finance-8479282",
+      "file": "assets/raw/finance-8479282.mp4",
+      "sha256": "e9648cc2639141c2a6dc908bc1b5a8c4b33056fb9ed541b7a008812314c8008c",
+      "bytes": 2389908,
+      "durationSeconds": 10.05,
+      "downloadURL": "https://videos.pexels.com/video-files/8479282/8479282-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.453,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven selected actual source frames plus full portrait frame; derivative crop samples separately recorded when applicable.",
+        "observations": [
+          "Hands visibly count euro notes at a desk beside a laptop/tablet/calculator.",
+          "Currency is EURO, visibly not Vietnamese dong. Excluded from bread/VND narration and tagged foreign-currency-context only."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8479282.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8479282.mp4",
+      "sourceSha256": "e9648cc2639141c2a6dc908bc1b5a8c4b33056fb9ed541b7a008812314c8008c",
+      "excludedFromBreadNarration": true,
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 251
+      }
+    },
+    {
+      "pexelsID": 7593795,
+      "pageURL": "https://www.pexels.com/video/a-person-counting-money-7593795/",
+      "title": "Counting banknotes",
+      "creator": "Pavel Danilyuk",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "payment"
+      ],
+      "id": "pexels-7593795",
+      "file": "assets/raw/pexels-7593795.mp4",
+      "sha256": "63b4fd2403c065fca02318d1f0e890371a940103192c36de9accef7d1f1bff8b",
+      "bytes": 4592524,
+      "durationSeconds": 25.76,
+      "downloadURL": "https://videos.pexels.com/video-files/7593795/7593795-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.735,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Seated people in business clothes count banknotes in an office. USD-like banknotes visible; not VND, no link to Hạnh or exact wage. Contextual general money only.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-7593795.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 25.5,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/a-person-counting-money-7593795/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      },
+      "exclusionReason": "Visible foreign banknotes would confuse the illustrative VND/bread comparison; omit from this film."
+    },
+    {
+      "pexelsID": 7692777,
+      "pageURL": "https://www.pexels.com/video/woman-counting-money-7692777/",
+      "title": "Counting cash with notebook and pencil",
+      "creator": "Yan Krukau",
+      "fps": [
+        25,
+        24,
+        30
+      ],
+      "tags": [
+        "payment",
+        "receipt"
+      ],
+      "id": "pexels-7692777",
+      "file": "assets/raw/pexels-7692777.mp4",
+      "sha256": "66db3ade199c894c5448c3a3fa07004ee5a6f7745a5b3e57d9a0ceea3d3c4058",
+      "bytes": 3261230,
+      "durationSeconds": 19.44,
+      "downloadURL": "https://videos.pexels.com/video-files/7692777/7692777-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.582,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Hands count dollar bills with notebook and pencil on table, anonymous chest crop. General budgeting context; never label dollar bills Vietnamese đồng or her actual revenue.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-7692777.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 19.2,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/woman-counting-money-7692777/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      },
+      "exclusionReason": "Visible foreign banknotes would confuse the illustrative VND/bread comparison; omit from this film."
+    },
+    {
+      "pexelsID": 8233041,
+      "pageURL": "https://www.pexels.com/video/a-person-sifting-flour-8233041/",
+      "title": "Sifting flour in kitchen",
+      "creator": "ROMAN ODINTSOV",
+      "fps": [
+        25
+      ],
+      "tags": [
+        "flour",
+        "ingredients",
+        "bakery"
+      ],
+      "id": "pexels-8233041",
+      "file": "assets/raw/pexels-8233041.mp4",
+      "sha256": "2bcb7b20520529af02fb1632f7506dc01484215fd2ca9ce3b81883bf07a7d9ca",
+      "bytes": 16429952,
+      "durationSeconds": 66.64,
+      "downloadURL": "https://videos.pexels.com/video-files/8233041/8233041-hd_720_1366_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 4.677,
+      "inspection": {
+        "status": "inspected",
+        "observations": "Portrait real flour sifting: hand shakes sieve above flour pile; powder falls and pile develops. 66sec source contains ongoing action, but do not spend all duration on repeated sifting or treat flour pile as finished bread.",
+        "allOriginalAudioAuditioned": false,
+        "contactSheet": "research/contact-sheets/pexels-8233041.jpg",
+        "method": "seven_source_frames_contact_sheet_opened",
+        "continuousAVReview": false,
+        "frameSamplesOpened": 7,
+        "fictionalIdentityNotEstablished": true
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "start": 0.2,
+          "end": 66.35,
+          "role": "illustrative footage; no fictional identity or numeric proof"
+        }
+      ],
+      "width": 720,
+      "height": 1366,
+      "usableForBreadFilm": true,
+      "licenseEvidence": {
+        "assetPage": "https://www.pexels.com/video/a-person-sifting-flour-8233041/",
+        "licensePage": "https://www.pexels.com/license/",
+        "checkedDateLocal": "2026-11-15",
+        "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+        "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+      }
+    }
+  ],
+  "provenance": [
+    "bread-footage-sources.json",
+    "financial-footage-sources.json"
+  ],
+  "scope": "Merged inspected sources only; intervals/crops remain mandatory, stock not fictional Hanh."
+}

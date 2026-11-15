@@ -1,0 +1,222 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "2ebfaa9b10fc382ade8d902f894374318e644730bc337156fab3e55cdecc8b61",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "cb2be66115efb92f9a3ec9b6765c82ea3dd0e11b443c69ad7deaeb13f5dc8e07",
+    "startFrame": 16064,
+    "endFrameExclusive": 18671,
+    "expectedSHA256": "ff0564010e07a26349daaaac87ce7bd870316be39dace7de8a9e16bee5c1b4aa",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "tro-lai-bua-sang",
+  "expected": "Nghe lạm phát giảm, hãy hỏi: giá tăng chậm hơn hay thực sự giảm; con số so với thời điểm nào; giỏ được đo có gần những khoản mình phải trả không? Ba câu ấy giúp đọc đúng ý nghĩa bản tin. Giữ hóa đơn vài khoản mua thường xuyên, ghi khối lượng và chất lượng tương đương, rồi so theo thời gian. Đây là cách quan sát giỏ cá nhân, không phải cách tính lạm phát chính thức từ vài món quen thuộc. Đặt thay đổi của giỏ cạnh thu nhập thực nhận và khoản bắt buộc khác. Mục đích là biết sức mua đổi ra sao để điều chỉnh kế hoạch, không phải tự trách bản thân vì mức giá mình không quyết định được. Chị Hạnh không thể chỉ nhìn hóa đơn đầu vào rồi quên khách. Khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn bao nhiêu. Cả hai cần bức tranh đầy đủ hơn tấm bảng trước cửa. Vì sao lạm phát giảm mà bánh vẫn đắt? Vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn. Và vì sức mua còn phụ thuộc thu nhập, chứ không chỉ phụ thuộc tốc độ đổi giá một năm riêng lẻ. Ổ bánh nối đồng ruộng, nhiên liệu, chuyến xe, người làm và túi tiền người mua. Hiểu mối nối ấy giúp ta bớt vội kết luận, hỏi đúng điều cần kiểm chứng. Kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày. Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+  "recognized": "Nghe lạng phát giảm, hãy hỏi, giá tăng chậm hơn hay thực sự giảm. Con số xô với thời điểm nào, giỏ được đò có gần những khoản mình phải chả không. Bà cô ấy, dúc đọc đúng ý nghĩa bản tin. Dự hóa đơn vài khoản mua thường suyên, ghi khối lượng và chất lượng tương đường, rồi xô theo thời gian. Đây là cách quan sát giỏ cả nhân, không phải cách tính lạng phát chính thức từ vải món quen thuộc. Đọc thấy đổi của giỏ cách thư nhập thực nhật và khoản bất bồ khác, Một đích là biết sức mua đổi ra sao để điều trình kế hoạch không phải tự trách bản thân vì mức giá mình không quyết định được. Chỉ hạnh không thể chỉ nhìn hoa đơn đầu vào rồi quyền khách, khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn băng nhiều, cả hai cần bức tranh đầy đủ hơn tấm bản trước cửa. Vì sao lạm phát giả mà bánh vận đất, vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn và vì sức mua còn phụ thuật thuật nhập, chứ không chỉ phụ thuật tốc độ đổi giá một năm dân lẻ. Ủa bánh, nối đồng duận, nhân liệu, chuyến xe, người làm và tối tiền người mua. Hiểu mua nổi ấy, dúc ta bất vội kết luận, hỏi đúng điều cần kiểm chứng, kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày. Bạn thấy khoản chi nào đổi dọ nhất, so với mất thời gian nào, hãy bình luận cùng ví dụ cổ thể. Một ngày thêm chuyện kinh tế dễ hiểu từ đời sống, Hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": " Nghe lạng phát giảm, hãy hỏi, giá tăng chậm hơn hay thực sự giảm.",
+      "globalStart": 535.4666666666667,
+      "globalEnd": 539.7666666666667
+    },
+    {
+      "start": 4.8,
+      "end": 9.6,
+      "text": " Con số xô với thời điểm nào, giỏ được đò có gần những khoản mình phải chả không.",
+      "globalStart": 540.2666666666667,
+      "globalEnd": 545.0666666666667
+    },
+    {
+      "start": 10.3,
+      "end": 12.8,
+      "text": " Bà cô ấy, dúc đọc đúng ý nghĩa bản tin.",
+      "globalStart": 545.7666666666667,
+      "globalEnd": 548.2666666666667
+    },
+    {
+      "start": 13.5,
+      "end": 17.7,
+      "text": " Dự hóa đơn vài khoản mua thường suyên, ghi khối lượng và chất lượng tương đường,",
+      "globalStart": 548.9666666666667,
+      "globalEnd": 553.1666666666667
+    },
+    {
+      "start": 17.7,
+      "end": 19.3,
+      "text": " rồi xô theo thời gian.",
+      "globalStart": 553.1666666666667,
+      "globalEnd": 554.7666666666667
+    },
+    {
+      "start": 19.6,
+      "end": 24.5,
+      "text": " Đây là cách quan sát giỏ cả nhân, không phải cách tính lạng phát chính thức từ vải món quen thuộc.",
+      "globalStart": 555.0666666666667,
+      "globalEnd": 559.9666666666667
+    },
+    {
+      "start": 25.400000000000002,
+      "end": 28.7,
+      "text": " Đọc thấy đổi của giỏ cách thư nhập thực nhật và khoản bất bồ khác,",
+      "globalStart": 560.8666666666667,
+      "globalEnd": 564.1666666666667
+    },
+    {
+      "start": 28.7,
+      "end": 35.879999999999995,
+      "text": " Một đích là biết sức mua đổi ra sao để điều trình kế hoạch không phải tự trách bản thân vì mức giá mình không quyết định được.",
+      "globalStart": 564.1666666666667,
+      "globalEnd": 571.3466666666667
+    },
+    {
+      "start": 35.879999999999995,
+      "end": 44.0,
+      "text": " Chỉ hạnh không thể chỉ nhìn hoa đơn đầu vào rồi quyền khách, khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn băng nhiều,",
+      "globalStart": 571.3466666666667,
+      "globalEnd": 579.4666666666667
+    },
+    {
+      "start": 44.0,
+      "end": 47.16,
+      "text": " cả hai cần bức tranh đầy đủ hơn tấm bản trước cửa.",
+      "globalStart": 579.4666666666667,
+      "globalEnd": 582.6266666666667
+    },
+    {
+      "start": 47.16,
+      "end": 53.82,
+      "text": " Vì sao lạm phát giả mà bánh vận đất, vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn",
+      "globalStart": 582.6266666666667,
+      "globalEnd": 589.2866666666667
+    },
+    {
+      "start": 53.82,
+      "end": 56.12,
+      "text": " và vì sức mua còn phụ thuật thuật nhập,",
+      "globalStart": 589.2866666666667,
+      "globalEnd": 591.5866666666667
+    },
+    {
+      "start": 56.12,
+      "end": 59.2,
+      "text": " chứ không chỉ phụ thuật tốc độ đổi giá một năm dân lẻ.",
+      "globalStart": 591.5866666666667,
+      "globalEnd": 594.6666666666667
+    },
+    {
+      "start": 59.7,
+      "end": 65.44,
+      "text": " Ủa bánh, nối đồng duận, nhân liệu, chuyến xe, người làm và tối tiền người mua.",
+      "globalStart": 595.1666666666667,
+      "globalEnd": 600.9066666666668
+    },
+    {
+      "start": 65.44,
+      "end": 68.4,
+      "text": " Hiểu mua nổi ấy, dúc ta bất vội kết luận,",
+      "globalStart": 600.9066666666668,
+      "globalEnd": 603.8666666666667
+    },
+    {
+      "start": 68.4,
+      "end": 70.1,
+      "text": " hỏi đúng điều cần kiểm chứng,",
+      "globalStart": 603.8666666666667,
+      "globalEnd": 605.5666666666667
+    },
+    {
+      "start": 70.1,
+      "end": 73.3,
+      "text": " kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày.",
+      "globalStart": 605.5666666666667,
+      "globalEnd": 608.7666666666667
+    },
+    {
+      "start": 73.3,
+      "end": 75.53999999999999,
+      "text": " Bạn thấy khoản chi nào đổi dọ nhất,",
+      "globalStart": 608.7666666666667,
+      "globalEnd": 611.0066666666667
+    },
+    {
+      "start": 75.53999999999999,
+      "end": 77.18,
+      "text": " so với mất thời gian nào,",
+      "globalStart": 611.0066666666667,
+      "globalEnd": 612.6466666666668
+    },
+    {
+      "start": 77.18,
+      "end": 79.5,
+      "text": " hãy bình luận cùng ví dụ cổ thể.",
+      "globalStart": 612.6466666666668,
+      "globalEnd": 614.9666666666667
+    },
+    {
+      "start": 79.5,
+      "end": 82.42,
+      "text": " Một ngày thêm chuyện kinh tế dễ hiểu từ đời sống,",
+      "globalStart": 614.9666666666667,
+      "globalEnd": 617.8866666666667
+    },
+    {
+      "start": 82.42,
+      "end": 85.98,
+      "text": " Hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+      "globalStart": 617.8866666666667,
+      "globalEnd": 621.4466666666667
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 29.933,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\08-tro-lai-bua-sang-030fe68d2b2e77ea.wav",
+  "chunk": {
+    "chunkKey": "030fe68d2b2e77ea7d2866c8c9f30cf03a363b0fda9259f4207cb83a43b7a364",
+    "sha256": "cb2be66115efb92f9a3ec9b6765c82ea3dd0e11b443c69ad7deaeb13f5dc8e07",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1390400,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 25702400,
+    "sourceEndSampleExclusive": 29873600,
+    "sourceSampleRate": 48000,
+    "seconds": 86.9,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8393,
+    "expectedTokenCoverage": 0.8393,
+    "expectedTailTokenCoverage": 0.92,
+    "expectedTokens": 305,
+    "observedTokens": 305,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

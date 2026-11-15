@@ -1,0 +1,13 @@
+{
+  "result": "passed",
+  "final": "final.mp4",
+  "previous_draft": "draft-infographic.mp4",
+  "style_reviewed_against": ["29B8-FtuC6U", "5uTC396kCs4", "UA7yZNRmZYY", "5_7IDQEU5OI"],
+  "format": "1920x1080 horizontal",
+  "duration_seconds": 60,
+  "visual_language": "dark documentary-style original visual inserts, central white microphone/waveform, low captions",
+  "voice_provider": "Microsoft Edge TTS vi-VN-HoaiMyNeural",
+  "adam_status": "ElevenLabs quota_exceeded",
+  "full_decode": "passed"
+}
+

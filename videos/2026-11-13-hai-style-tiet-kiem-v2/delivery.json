@@ -1,0 +1,26 @@
+{
+  "proofFrames": 535,
+  "fps": 30,
+  "seconds": 17.833333333333332,
+  "sameDecodedAudio": true,
+  "newPaidCalls": 0,
+  "userApproval": "pending",
+  "direction": "Comic biểu cảm mạnh, hơi hài hước",
+  "videos": [
+    {
+      "style": "flow",
+      "path": "r02/flow/final.mp4",
+      "sha256": "e3acdf3c60a44c98385daf6f638f8021847075577d8bafe6915075e3aada564a"
+    },
+    {
+      "style": "comic",
+      "path": "r02/comic/final.mp4",
+      "sha256": "1c665e9008ab62de270f32b6a9fa8f35d007ab62ec148bb97387291e3d350aed"
+    }
+  ],
+  "characterSheet": "r02/comic/character-sheet.png",
+  "feedbackEvents": [
+    "evt-000029-17688b0d8b7a",
+    "evt-000030-36f9f3c1c728"
+  ]
+}

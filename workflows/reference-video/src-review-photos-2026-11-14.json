@@ -1,0 +1,533 @@
+{
+  "schema": "cinematic-src-group-review/1",
+  "reviewedOn": "2026-11-14",
+  "reviewer": "Codex story_photos",
+  "reviewType": "static source review",
+  "scope": {
+    "directories": [
+      "cinematic/src/directions",
+      "cinematic/src/semantic",
+      "cinematic/src/visualstory"
+    ],
+    "rootFiles": "All direct files in cinematic/src except finance-* and business-entry.tsx/china-entry.tsx/china-variety-entry.tsx; includes new economy-story-entry.tsx",
+    "otherSubdirectories": "Outside this delegated scope; other source groups reviewed by other agents."
+  },
+  "directReadFiles": [
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/Film.tsx",
+      "relativeToSrc": "directions/Film.tsx",
+      "sha256": "baff3e8fe35cd417ff6af47cac44e71c32748a7529313c35c8ddb9c61cfe0ce3",
+      "bytes": 14803,
+      "lines": 184,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 184,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Reusable restored photo/gallery layout engine; per-shot phase/layout, exact data fps, independent source credit. Flat Photo accepts fit/focus and preserves explicit contain; portrait auto-contain still applies slight scale. Old Arial/Bahnschrift/Times text and runtime blur are unsuitable font/performance defaults for new story."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/Gallery3D.tsx",
+      "relativeToSrc": "directions/Gallery3D.tsx",
+      "sha256": "9ad9f54652e681537fbf2f91f8ce2b3d282b2ba8f5209e5cd386a7144bebb18e",
+      "bytes": 5204,
+      "lines": 123,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 123,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Real ThreeCanvas photo planes, per-panel texture clone, SRGB, disposal. Frame size follows image.aspect; missing/wrong ratio can crop. Fits are not explicit in this component; clips require posterFile. Good optional gallery mechanism, not proof photo semantics."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/index.ts",
+      "relativeToSrc": "directions/index.ts",
+      "sha256": "48d5d3c2cca9afd2c10116910e18191a482a897aee8940385867f3b06a08f9a2",
+      "bytes": 132,
+      "lines": 2,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 2,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Pure exports for restored photo-stage module and types; no implicit production selection."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/Shopping3D.tsx",
+      "relativeToSrc": "directions/Shopping3D.tsx",
+      "sha256": "539458c3a9881851c8e2e3abcbdbfab1111a759788d3f09594eee538d1cabbf2",
+      "bytes": 15957,
+      "lines": 185,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 185,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Original basket/carton/price/journey geometry with per-shot narration revealFrames. Useful purpose-specific mechanics. Price literals 30000/50000/25000 and extra20000 are topic-specific and must not leak into new economics. Hardcoded machine fonts and WebGL cost remain."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions/types.ts",
+      "relativeToSrc": "directions/types.ts",
+      "sha256": "9771fef47faebf6210f01b4d1cd21d564372bc818a53e1f3f77d17327b591393",
+      "bytes": 1755,
+      "lines": 52,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 52,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Reusable typed layout/media boundary includes source credit, aspect,focus,fit,trim,poster; no source license/hash/editorial proof validation in renderer type itself. Primary sources and real observations must stay in producer receipts."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/Composition.tsx",
+      "relativeToSrc": "semantic/Composition.tsx",
+      "sha256": "4c836410447b4ed46e1de760232d1bb625b5ef326b27f86f17f47d8f9cd8e79e",
+      "bytes": 6109,
+      "lines": 213,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 213,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Retired dense semantic UI renderer. Enforces timeline active shot and visible/proof field presence; this checks annotations exist, not actual picture-to-meaning truth. Preserves workday asset and last caption. Wide credit strip and Arial typography remain."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/EmailScenes.tsx",
+      "relativeToSrc": "semantic/EmailScenes.tsx",
+      "sha256": "365ddcdc335030fb6693ac4213f134b1ed778e7006e2796b8fb79e52c7263197",
+      "bytes": 16809,
+      "lines": 567,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 567,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Retired lamp/email story visuals. Concrete original-vs-draft/source numbers and text good editorial lesson, but UI, USB-C/no-pin product, invalid-address examples and most strings are hardcoded. Not a reusable economic visual baseline."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/index.ts",
+      "relativeToSrc": "semantic/index.ts",
+      "sha256": "2fd9178d2cc91ad17a4e019a5327b06c6f42eb66d0f732f7d0dd5d9ab735ff2b",
+      "bytes": 167,
+      "lines": 8,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 8,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Pure exports of retired semantic renderer; existence is not permission to set default."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/Objects3D.tsx",
+      "relativeToSrc": "semantic/Objects3D.tsx",
+      "sha256": "8f7015ae2605004d5fe7964837a0a8512c14374e0c09fb78329ada536616600e",
+      "bytes": 7630,
+      "lines": 245,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 245,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Lamp, cord and task-card Three.js geometry are real. Lamp connection state and texture disposal are useful isolated mechanics. Canvas text hardcodes Arial and lamp/task semantics; slight continuous sine rotation conflicts with latest restrained-character policy if copied blindly."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/ProcessScenes.tsx",
+      "relativeToSrc": "semantic/ProcessScenes.tsx",
+      "sha256": "3e4d1d6e17cac1868d1bbcaa788a00387fbcb442983de549f07ab82358ccbf03",
+      "bytes": 32580,
+      "lines": 1008,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 1008,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Retired multi-card checklist/time/quality scenes. Useful arithmetic lesson: total=write+repair, matched baseline. Hardcoded dense card UI, product/AI strings and topic-specific criteria require editorial rewrite; not suitable new story baseline."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/StoryScenes.tsx",
+      "relativeToSrc": "semantic/StoryScenes.tsx",
+      "sha256": "c967f2163676ddabfec37c08b8f8f8bda3e048ffd30fedfc068a797d95d0e87e",
+      "bytes": 15193,
+      "lines": 515,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 515,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Retired dense work-role/CTA scenes. Subscribe hardcodes TYRANNO and Đăng ký TYRANNO; must not be used for no-branding economics. Stock placed beside fictional UI is illustration only, not evidence."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/theme.ts",
+      "relativeToSrc": "semantic/theme.ts",
+      "sha256": "c031d0cb2e7e12486860de5987c042e38eaa9845d491f886e2f0c91ec3ef3faa",
+      "bytes": 1480,
+      "lines": 54,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 54,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Central colors/context/example arithmetic. Defaults are fictional lamp feature and 1200000 vs120000 values. Uses Bahnschrift/Arial or Times; no local-font load. Useful concept of central tokens, not these defaults."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/types.ts",
+      "relativeToSrc": "semantic/types.ts",
+      "sha256": "3e3af2584d386fa1b580a1d41312b0aecd726f9cfb1fd7eeb8cae01df71a6550",
+      "bytes": 1509,
+      "lines": 68,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 68,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Concrete action/proof/continuity annotation schema. SemanticAsset lacks fit/contain/license/hash; photo crop cannot preserve source by explicit declaration. Renderer proof annotations do not establish observed match."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/UI.tsx",
+      "relativeToSrc": "semantic/UI.tsx",
+      "sha256": "2c8e8159f5e518dec861300220e678b7ecbf584ed370a8800e19dff059e1a2f2",
+      "bytes": 8125,
+      "lines": 342,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 342,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Reusable small native SVG glyphs and NFC headline normalization only if isolated. Full Card/Stage family is rejected dense UI. Photo unconditionally cover and slow-zooms; drops portrait/text-edge guarantees. Head font sizing uses character length, not measured pixel width."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic/Workbench.tsx",
+      "relativeToSrc": "semantic/Workbench.tsx",
+      "sha256": "36c7e1a6a7fca3a463ed8de5916731591147a32f6d511508a76fd241a37eacbf",
+      "bytes": 6899,
+      "lines": 213,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 213,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Stable persistent workday objects avoid changing subject between verbs, useful continuity lesson. Three hardcoded source/email/customer panels remain dense and rejected. Lamp facts and stock crop are not economic visual defaults."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/visualstory/Composition.tsx",
+      "relativeToSrc": "visualstory/Composition.tsx",
+      "sha256": "280f59e594acfa2b646f01d97f2e56089bafbbaad8c35233be9ca46fe71fb16b",
+      "bytes": 1661,
+      "lines": 21,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 21,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Older AI-work photo-led film with module-imported public JSON, hardcoded30fps/9000-era expectations and mix path. Six-frame fades, caption fades and final black fade are not generic exact-take safety for every new duration."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/visualstory/Scene.tsx",
+      "relativeToSrc": "visualstory/Scene.tsx",
+      "sha256": "d34a70513db25dd430036ea3ff3567e2eac836dfa078daac323424f5ca2ed024",
+      "bytes": 5212,
+      "lines": 47,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 47,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Older photo/media engine with hardcodedAI statistics and chapter IDs. Main photos cover+pan/zoom; portraits use blurred backing and contain but still scale. Credit is generic PEXELS/MIXKIT rather than per-source attribution. Topic-specific WEF/ILO display text cannot be repurposed without source scope."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/visualstory/types.ts",
+      "relativeToSrc": "visualstory/types.ts",
+      "sha256": "f9b4bbbbebf74208bb604bce1d6d7cd87a5791f1ffa12fff495ca724ea348fb6",
+      "bytes": 338,
+      "lines": 4,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 4,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Loose Shot.type string and chapter extension reuse prior longform. No fit/license/hash/source validation; insufficient as new proof-of-relevance schema."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Composition.tsx",
+      "relativeToSrc": "Composition.tsx",
+      "sha256": "2377d6a07dcf71b2858d7d6ed6b7fdca73a56715b5ce7a77d1852850b7bd71c4",
+      "bytes": 3105,
+      "lines": 44,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 44,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Retained approved50s Motion3D composition, specific six scenes/publicdata and hardcoded final1484..1499 fade. Correct to preserve for archival replay; not new story default."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/directions-entry.tsx",
+      "relativeToSrc": "directions-entry.tsx",
+      "sha256": "8c25e784d2acb830bc1dfec97ce47a20e28bc4eb8febc21b23502a0b15ba60d7",
+      "bytes": 737,
+      "lines": 19,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 19,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Small DirectionPreview production entry with data props/calculateMetadata; better isolation pattern. Still imports default legacy publicJSON and requires correct public root."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/economy-story-entry.tsx",
+      "relativeToSrc": "economy-story-entry.tsx",
+      "sha256": "6d318a7a1e2cb97771cd7046056dcf011a0f9e50305d304533b55a404b893c7e",
+      "bytes": 584,
+      "lines": 7,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 7,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "current-entry",
+      "observations": "New isolated entry with props plan and optional partial frames. Uses actual plan fps/duration metadata; empty default is not a production timeline. New episode selects this current branch explicitly."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/font.json",
+      "relativeToSrc": "font.json",
+      "sha256": "bd68159ee0b8d10fe24b9daa2e32f19686f9d8269a79dc8d44203a66298bfa2f",
+      "bytes": 61632,
+      "lines": 1,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 1,
+        "mode": "full parsed JSON: metadata, every glyph key/record shape and coverage"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Full JSON parsed: Helvetiker Bold metrics, license and every glyph record inspected structurally; ASCII/Greek glyph collection contains none of tested Vietnamese-specific/tone vowel letters. Numeric-only geometry use okay; not Vietnamese text font. Font outlines were not reconstructed/rendered in this static review."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/index.ts",
+      "relativeToSrc": "index.ts",
+      "sha256": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74",
+      "bytes": 109,
+      "lines": 4,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 4,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Legacy registerRoot entry; new episode should target dedicated economy-story-entry.tsx to avoid legacy imports."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Root.tsx",
+      "relativeToSrc": "Root.tsx",
+      "sha256": "aee54a79c4ffe126eb2344bcf2e0879122cc37c0eb959b382c9518f45ad64beb",
+      "bytes": 1497,
+      "lines": 24,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 24,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Registry imports old publicJSON and several legacy comps at module load. Dedicated new production entries avoid bundling stale compositions and assets. Registry status does not confer current approval."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/semantic-entry.tsx",
+      "relativeToSrc": "semantic-entry.tsx",
+      "sha256": "230deaef2cae18ae7f5f03e000c37f2389464671c78675c2cbc2359230b0638d",
+      "bytes": 577,
+      "lines": 17,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 17,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "retired-visual-baseline",
+      "observations": "Retired SemanticReview entry. Can retain for reproducing rejected work but must not select as current style or import hardcodedbranding into new run."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/Type.tsx",
+      "relativeToSrc": "Type.tsx",
+      "sha256": "bf3ca370a5210c4d02eec4425fecb30331c9c00e0891dee82bbd827e0ced5de1",
+      "bytes": 773,
+      "lines": 10,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 10,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "reusable-with-scope",
+      "observations": "Word-plane spring intro helper with hardcoded30fps and whitespace word segmentation. Optional brief emphasis only; not appropriate for all content-first sentences. Font inherited from parent."
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/World.tsx",
+      "relativeToSrc": "World.tsx",
+      "sha256": "580350274a90fdc878d2710bded16d35767714629dee4b3576f4e7881b75928c",
+      "bytes": 5303,
+      "lines": 73,
+      "directRead": true,
+      "coverage": {
+        "fromLine": 1,
+        "throughLine": 73,
+        "mode": "full source text, bounded tool output; no truncated read"
+      },
+      "classification": "archival-topic-specific",
+      "observations": "Real Three.js globe/containers/tokens/digits stage, data-independent easing reusable only when content calls for it. Digits uses Helvetiker geometry font; rootfont lacks Vietnamese. Continuous decorative globe/token/container motion does not explain clauses by itself."
+    }
+  ],
+  "fileCount": 27,
+  "totalBytes": 215880,
+  "totalLines": 4050,
+  "fontEvidence": {
+    "file": "workflows/reference-video/cinematic/src/font.json",
+    "familyName": "Helvetiker",
+    "glyphCount": 207,
+    "testLetters": "ĂăÂâĐđÊêÔôƠơƯưÀÁẢÃẠàáảãạẦẤẨẪẬầấẩẫậẰẮẲẴẶằắẳẵặỀẾỂỄỆềếểễệỒỐỔỖỘồốổỗộỜỚỞỠỢờớởỡợÙÚỦŨỤùúủũụỪỨỬỮỰừứửữựỲÝỶỸỴỳýỷỹỵÈÉẺẼẸèéẻẽẹÌÍỈĨỊìíỉĩị",
+    "missingLetters": "ĂăÂâĐđÊêÔôƠơƯưÀÁẢÃẠàáảãạẦẤẨẪẬầấẩẫậẰẮẲẴẶằắẳẵặỀẾỂỄỆềếểễệỒỐỔỖỘồốổỗộỜỚỞỠỢờớởỡợÙÚỦŨỤùúủũụỪỨỬỮỰừứửữựỲÝỶỸỴỳýỷỹỵÈÉẺẼẸèéẻẽẹÌÍỈĨỊìíỉĩị",
+    "vietnameseLettersPresent": "",
+    "licenseRetainedInsideFontJSON": true,
+    "limit": "This is glyph-map coverage, not a fresh visual font-render test."
+  },
+  "concreteFindings": [
+    {
+      "id": "branding-retired-semantic",
+      "path": "semantic/StoryScenes.tsx",
+      "finding": "Subscribe hardcodes TYRANNO channel name and CTA.",
+      "application": "Retain rejected code for history; do not import it into no-branding economic stories."
+    },
+    {
+      "id": "crop-semantics",
+      "paths": [
+        "semantic/UI.tsx",
+        "directions/Film.tsx",
+        "visualstory/Scene.tsx"
+      ],
+      "finding": "semantic Photo always cover; visualstory portrait contain still zooms; directions explicit fit:contain disables scale whereas implicit portrait-contain still slightly zooms.",
+      "application": "Use explicit contain for source text/numbers/notes/portraits; inspect actual final crop. New economy stage already honors explicitfit."
+    },
+    {
+      "id": "machine-font-defaults",
+      "paths": [
+        "directions/Film.tsx",
+        "directions/Shopping3D.tsx",
+        "semantic/theme.ts",
+        "semantic/UI.tsx",
+        "visualstory/Scene.tsx"
+      ],
+      "finding": "DOM/canvas text uses machine Arial/Bahnschrift/Times instead of bundled verified Vietnamese font; character-count heading thresholds cannot prove pixel fit.",
+      "application": "Current episode uses embedded BeVietnamPro and font readiness; measure output captions/headlines and inspect Vietnamese diacritics."
+    },
+    {
+      "id": "geometry-font-vietnamese",
+      "paths": [
+        "font.json",
+        "World.tsx"
+      ],
+      "finding": "Bundled Helvetiker has no tested Vietnamese-specific/tone-vowel glyphs; safe existing usage is numeric geometry only.",
+      "application": "Keep Vietnamese language in embedded DOMfont or generate a complete licensed geometry font before any future 3Dtext."
+    },
+    {
+      "id": "hardcoded-topic-leakage",
+      "paths": [
+        "directions/Shopping3D.tsx",
+        "semantic/EmailScenes.tsx",
+        "semantic/ProcessScenes.tsx",
+        "visualstory/Scene.tsx"
+      ],
+      "finding": "Price1carton30000/2carton50000, lampfacts and WEF/ILO displaylabels are baked into scene source.",
+      "application": "Do not make a new topic by changing only headline or props; extract generic mechanics with new data+source scope or use isolated current renderer."
+    },
+    {
+      "id": "annotations-not-proof",
+      "paths": [
+        "semantic/Composition.tsx",
+        "semantic/types.ts",
+        "directions/types.ts"
+      ],
+      "finding": "visible/proof strings and credit/aspect declarations are inputs, not observed validation of semantic match, license, geographicidentity or actual crop.",
+      "application": "Keep source/license/hash, actual pixel observations and clause-specific assignment outside renderer; compare final frame evidence to narration."
+    },
+    {
+      "id": "preserved-restored-gallery",
+      "paths": [
+        "directions/Film.tsx",
+        "directions/Gallery3D.tsx"
+      ],
+      "finding": "Restored full/split/evidence/closing/gallery composition and real photo planes can be reused when appropriate; this does not overturn unresolved older image matching feedback.",
+      "application": "Content determines photo and layout; no obligatory3D or rapidmotion under latest useroverride."
+    },
+    {
+      "id": "legacy-bundle-coupling",
+      "paths": [
+        "Root.tsx",
+        "Composition.tsx",
+        "visualstory/Composition.tsx"
+      ],
+      "finding": "Legacy compositions import sharedpublicJSON/audio and fixed duration/fades at module scope.",
+      "application": "Use dedicated entry, batchpublic and exact plan duration/audio; keep old public assets intact."
+    },
+    {
+      "id": "runtime-cost",
+      "paths": [
+        "directions/Film.tsx",
+        "visualstory/Scene.tsx",
+        "directions/Gallery3D.tsx",
+        "semantic/Objects3D.tsx"
+      ],
+      "finding": "Runtimeblur duplicate images and WebGL geometry add cost; automatic photo movement and sine rotation remain in legacy sources.",
+      "application": "Bake decorative background once and keep sharp foreground; only enable processes/geometry needed by clause. Do not equate static code performance inference with benchmark."
+    }
+  ],
+  "latestUserDirection": "2026-11-14: revise typography and focus on story; character may stand still and only turn gently based on narration. This overrides previous mandatory acted-character progression for this new trial.",
+  "historyPolicy": "No reviewed code was modified or deleted by this delegated audit. Retired means avoid default selection, not erase old sources/renders.",
+  "limitations": [
+    "Static source reading is not rendered visual acceptance, continuous audiovisual review, a new reference-video study or model-weight training.",
+    "No performance benchmark, geometry-frame test or font-image test was run for these legacy branches in this sourceaudit.",
+    "Current economics proof footage reviewed separately in batch/review/r02-proof-temporal.json; it is not evidence of every legacy branch.",
+    "Source hashes freeze bytes at review time. Future edits require re-review; hash existence alone does not prove aesthetics or correctness."
+  ]
+}

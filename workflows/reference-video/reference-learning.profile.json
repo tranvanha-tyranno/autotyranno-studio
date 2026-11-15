@@ -1,7 +1,12 @@
 {
   "id": "long-user-samples-2026-11-13",
   "status": "reference-study-saved-not-a-new-video-approval",
-  "sourceIds": ["w3z43Hlzq3c", "1OGwWLvasIk", "gNznfzAUiLw", "3JUxxp2sIDM"],
+  "sourceIds": [
+    "w3z43Hlzq3c",
+    "1OGwWLvasIk",
+    "gNznfzAUiLw",
+    "3JUxxp2sIDM"
+  ],
   "channel": "Lóng",
   "scope": "Original writing patterns, editorial angles, inferred viewer needs, and sampled visual-word relationships across the complete source timelines.",
   "readFirst": [
@@ -14,7 +19,12 @@
     "voiceAndSound": "Approved Nhật Phong preset and sound approach",
     "priorBatches": true
   },
-  "futureUserStructure": ["hook", "brief-relevant-disclaimer", "main", "specific-relevant-cta"],
+  "futureUserStructure": [
+    "hook",
+    "brief-relevant-disclaimer",
+    "main",
+    "specific-relevant-cta"
+  ],
   "currentLifeExplainerPreferences": {
     "updatedFromUserFeedback": "2026-11-13",
     "preferDocumentedCountry": "VN",
@@ -25,8 +35,36 @@
     "acceptance": "Updated production capability and preferences, not user approval of a new export or model-weight training."
   },
   "sourceStructureCaveat": "Observed references vary: opening disclaimer in Vĩnh Hưng/TCG; Châu Âu opens with a scope caveat; Huấn has an investigation caveat later. Do not attribute the user-required four-part structure uniformly to all sources.",
-  "writingBriefFields": ["viewer-need-inference", "single-editorial-angle", "central-question", "concrete-hook", "promised-payoff", "causal-chain", "evidence", "counterargument", "limits", "meaningful-callback", "final-answer", "cta"],
-  "visualClauseFields": ["narrated-clause", "need-to-see", "role-evidence-context-mechanism-or-metaphor", "subject", "object", "action-or-state", "inspected-asset-and-crop", "source-and-reuse-rights", "supports", "does-not-establish", "display-claim-units-year-scope", "exact-new-take-timing", "hold-to-read", "retained-layout"],
+  "writingBriefFields": [
+    "viewer-need-inference",
+    "single-editorial-angle",
+    "central-question",
+    "concrete-hook",
+    "promised-payoff",
+    "causal-chain",
+    "evidence",
+    "counterargument",
+    "limits",
+    "meaningful-callback",
+    "final-answer",
+    "cta"
+  ],
+  "visualClauseFields": [
+    "narrated-clause",
+    "need-to-see",
+    "role-evidence-context-mechanism-or-metaphor",
+    "subject",
+    "object",
+    "action-or-state",
+    "inspected-asset-and-crop",
+    "source-and-reuse-rights",
+    "supports",
+    "does-not-establish",
+    "display-claim-units-year-scope",
+    "exact-new-take-timing",
+    "hold-to-read",
+    "retained-layout"
+  ],
   "editingLessons": [
     "Choose the subject and relationship before choosing effects.",
     "Use subject-related source media for specific cases and concise diagrams for causal relations.",
@@ -43,5 +81,27 @@
     "Reference download does not authorize asset republication.",
     "Saving this profile updates reusable project knowledge, not model weights.",
     "This research does not authorize a new video or visual redesign."
-  ]
+  ],
+  "contentStudy2026_11_14": {
+    "status": "reference-caption-study-and-new-rewrite-not-user-approved",
+    "readFirst": [
+      "workflows/reference-video/CONTENT_FIRST.md",
+      "docs/video-references/2026-11-14-content-study/README.md",
+      "workflows/reference-video/BREAD_DOCUMENTARY.md"
+    ],
+    "fullCaptionAnalyses": [
+      "w3z43Hlzq3c",
+      "1OGwWLvasIk",
+      "gNznfzAUiLw",
+      "3JUxxp2sIDM",
+      "JlfAd_OaFek",
+      "podWgLH4b3M",
+      "29B8-FtuC6U",
+      "5zqAMK2qsfM",
+      "5uTC396kCs4"
+    ],
+    "continuousAVReview": false,
+    "coreRule": "One central question and connected chapters with claim, mechanism, concrete evidence/example, one emphasis, earned bridge and hook payoff. Do not use chapter labels or effects as a substitute for a coherent argument.",
+    "newUserOverride": "Complete bread-film rewrite: real footage, no cartoon cast, no subtitles, omit separate opening disclaimer, new concise exact Nhat Phong take; preserve all old batches."
+  }
 }

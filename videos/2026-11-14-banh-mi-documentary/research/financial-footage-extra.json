@@ -1,0 +1,389 @@
+{
+  "schema": "bread-film-footage-sources/1",
+  "assets": [
+    {
+      "pexelsID": 8027655,
+      "pageURL": "https://www.pexels.com/video/a-woman-at-the-grocery-store-8027655/",
+      "title": "A Woman at the Grocery Store",
+      "creator": "Ivan S",
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1280_720",
+        "1920_1080",
+        "720_1280",
+        "1080_1920",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "tags": [
+        "market",
+        "groceries",
+        "shop",
+        "ingredients"
+      ],
+      "id": "financeextra-8027655",
+      "file": "assets/raw/financeextra-8027655.mp4",
+      "sha256": "bae3fbca062f3a1d150b3c1dc5864310edcca9421148819985c0b7037dad2acc",
+      "bytes": 3427015,
+      "durationSeconds": 23.04,
+      "downloadURL": "https://videos.pexels.com/video-files/8027655/8027655-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.406,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven actual source frames opened; full portrait frame additionally opened for vertical sources, cropped landscape samples separately inspected.",
+        "observations": [
+          "Shopper actually lifts eggplant, lowers it into a bag/basket below frame, then handles cucumber and pepper in a produce section.",
+          "23.04s horizontal shot; no assertion of location/current prices or identity as Hanh."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8027655.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 22.64,
+          "role": "grocery selection/context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8027655.mp4",
+      "sourceSha256": "bae3fbca062f3a1d150b3c1dc5864310edcca9421148819985c0b7037dad2acc",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 576
+      }
+    },
+    {
+      "pexelsID": 8420601,
+      "pageURL": "https://www.pexels.com/video/person-inside-a-grocery-store-8420601/",
+      "title": "Person Inside a Grocery Store",
+      "creator": "Kampus Production",
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1280_720",
+        "1920_1080",
+        "720_1280",
+        "1080_1920",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "tags": [
+        "market",
+        "groceries",
+        "shop",
+        "ingredients"
+      ],
+      "id": "financeextra-8420601",
+      "file": "assets/raw/financeextra-8420601.mp4",
+      "sha256": "917a5d6e254ec6b41f2d3c44639c2a208d602090c13afe68c2b2c47d092a2535",
+      "bytes": 2900863,
+      "durationSeconds": 8.26,
+      "downloadURL": "https://videos.pexels.com/video-files/8420601/8420601-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.292,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven actual source frames opened; full portrait frame additionally opened for vertical sources, cropped landscape samples separately inspected.",
+        "observations": [
+          "Close torso/hand view of shopper carrying red basket while moving beside vegetable displays.",
+          "8.26s horizontal tracking/walking context, does not show detailed selection the entire clip."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8420601.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 7.86,
+          "role": "grocery selection/context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-8420601.mp4",
+      "sourceSha256": "917a5d6e254ec6b41f2d3c44639c2a208d602090c13afe68c2b2c47d092a2535",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 206
+      }
+    },
+    {
+      "pexelsID": 5701060,
+      "pageURL": "https://www.pexels.com/video/a-woman-buying-vegetables-5701060/",
+      "title": "A Woman Buying Vegetables",
+      "creator": "Sam Lion",
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1280_720",
+        "1920_1080",
+        "720_1280",
+        "1080_1920",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "tags": [
+        "market",
+        "groceries",
+        "shop",
+        "ingredients"
+      ],
+      "id": "financeextra-5701060",
+      "file": "assets/raw/financeextra-5701060.mp4",
+      "sha256": "8317376c3ce4e99d49c1870fbc9045266761dc9a4dbfcaa04cce5d3b69bbef7d",
+      "bytes": 4192912,
+      "durationSeconds": 12.93,
+      "downloadURL": "https://videos.pexels.com/video-files/5701060/5701060-hd_1280_720_25fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.601,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven actual source frames opened; full portrait frame additionally opened for vertical sources, cropped landscape samples separately inspected.",
+        "observations": [
+          "Shopper at open produce stall holds woven basket, lifts/compares greens and reaches to add another item.",
+          "12.93s horizontal shot. Market/location not verified; do not call it Vietnam from appearance."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-5701060.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 12.53,
+          "role": "grocery selection/context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceFile": "assets/raw/pexels-5701060.mp4",
+      "sourceSha256": "8317376c3ce4e99d49c1870fbc9045266761dc9a4dbfcaa04cce5d3b69bbef7d",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 25.0,
+        "frames": 323
+      }
+    },
+    {
+      "pexelsID": 9474094,
+      "pageURL": "https://www.pexels.com/video/a-woman-is-shopping-for-fruits-and-vegetables-9474094/",
+      "title": "A woman is shopping for fruits and vegetables",
+      "creator": "Greta Hoffman",
+      "fps": [
+        25,
+        24,
+        30,
+        50,
+        60,
+        29,
+        23
+      ],
+      "dimensions": [
+        "1280_720",
+        "1920_1080",
+        "720_1280",
+        "1080_1920",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "tags": [
+        "market",
+        "groceries",
+        "shop",
+        "ingredients"
+      ],
+      "id": "financeextra-9474094",
+      "file": "assets/raw/financeextra-9474094.mp4",
+      "sha256": "5147df11ddde5bd9d33444710f408fdcedc59439e49aaffa1ddf5938c9bbe8b8",
+      "bytes": 4029009,
+      "durationSeconds": 12.01,
+      "downloadURL": "https://videos.pexels.com/video-files/9474094/9474094-hd_720_1280_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 2.128,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven actual source frames opened; full portrait frame additionally opened for vertical sources, cropped landscape samples separately inspected.",
+        "observations": [
+          "Shopper selects and examines fruit, then lowers hand toward reusable bag; produce display remains visible.",
+          "12.01s portrait source. Fixed landscape crop at y550 preserves bag/produce/lower-hand actions; source image retained.",
+          "Opened0.5/4/8second landscape samples: fruit in hand visible first/third, shoulder/bag and produce visible middle. No face identity needed."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-9474094.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false,
+        "derivativeCropSheet": "research/contact-sheets/financial-extra-landscape-crops.jpg",
+        "derivativeCropSamplesOpened": [
+          0.5,
+          4,
+          8
+        ]
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 11.61,
+          "role": "grocery selection/context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceCrop": {
+        "x": 0,
+        "y": 550,
+        "width": 720,
+        "height": 404,
+        "outputWidth": 1280,
+        "outputHeight": 720,
+        "fps": 30
+      },
+      "sourceFile": "assets/raw/pexels-9474094.mp4",
+      "sourceSha256": "e770ebb423b4662e138b5c8c88f8dc70c4f499da2c851828900270753d9d0933",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "frames": 360
+      }
+    },
+    {
+      "pexelsID": 8801819,
+      "pageURL": "https://www.pexels.com/video/person-checking-vegetables-in-the-supermarket-8801819/",
+      "title": "Person Checking Vegetables in the Supermarket",
+      "creator": "Mike Jones",
+      "tags": [
+        "market",
+        "groceries",
+        "shop",
+        "ingredients"
+      ],
+      "fps": [
+        23,
+        24,
+        25,
+        30,
+        50,
+        60
+      ],
+      "dimensions": [
+        "1280_720",
+        "1920_1080",
+        "720_1280",
+        "1080_1920",
+        "3840_2160",
+        "2160_3840"
+      ],
+      "id": "financeextra-8801819",
+      "file": "assets/raw/financeextra-8801819.mp4",
+      "sha256": "084564a73604f67d4324cbc5b9899be3ba98b59bbac9f1e1e1f2e8c107e14cae",
+      "bytes": 3424055,
+      "durationSeconds": 10.01,
+      "downloadURL": "https://videos.pexels.com/video-files/8801819/8801819-hd_720_1280_24fps.mp4",
+      "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+      "licenseURL": "https://www.pexels.com/license/",
+      "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+      "downloadSeconds": 1.674,
+      "inspection": {
+        "status": "inspected",
+        "method": "Seven actual source frames opened; full portrait frame additionally opened for vertical sources, cropped landscape samples separately inspected.",
+        "observations": [
+          "Close hands reach into lettuce/carrot section, lift loose greens and inspect vegetables.",
+          "10.01s portrait source. Fixed landscape crop y180 preserves reaching hand/produce; price tag2.79foreigncontext visible at left and not treated as Vietnamese/current offer.",
+          "Opened0.5/4/8second landscape samples: hand reaches at4s and holds greens at8s; retains shelf produce and actual object action."
+        ],
+        "contactSheet": "research/contact-sheets/pexels-8801819.jpg",
+        "continuousAvReview": false,
+        "allOriginalAudioAuditioned": false,
+        "derivativeCropSheet": "research/contact-sheets/financial-extra-landscape-crops.jpg",
+        "derivativeCropSamplesOpened": [
+          0.5,
+          4,
+          8
+        ]
+      },
+      "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+      "usableIntervals": [
+        {
+          "startSeconds": 0.3,
+          "endSeconds": 9.61,
+          "role": "grocery selection/context"
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "sourceCrop": {
+        "x": 0,
+        "y": 180,
+        "width": 720,
+        "height": 404,
+        "outputWidth": 1280,
+        "outputHeight": 720,
+        "fps": 30
+      },
+      "sourceFile": "assets/raw/pexels-8801819.mp4",
+      "sourceSha256": "69194a353d35b6a1b01e0420dee2d06ad6783f7a8ceddffd93599707c95d82ed",
+      "decodedMetadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "frames": 300
+      }
+    }
+  ],
+  "failed": [
+    {
+      "id": "pexels-36024398",
+      "status": "download_failed",
+      "pageURL": "https://www.pexels.com/video/fresh-produce-selection-at-local-market-36024398/",
+      "reason": "No successful public CDN candidate found"
+    }
+  ],
+  "licenseURL": "https://www.pexels.com/license/",
+  "licenseCheckedOn": "2026-11-15 Asia/Saigon",
+  "rawDurationSeconds": 66.25,
+  "editorialLimits": "All footage is illustrative shopping context, not fictional Hanh/worker, no budget or price claims from stock.",
+  "usableIntervalSeconds": 62.75
+}

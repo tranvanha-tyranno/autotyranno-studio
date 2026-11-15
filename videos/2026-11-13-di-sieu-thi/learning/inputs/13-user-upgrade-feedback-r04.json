@@ -1,0 +1,34 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r04",
+  "dimension": "overall",
+  "decision": "revision_needed",
+  "reviewer": {
+    "kind": "human_user",
+    "name": "User — direct feedback in current conversation"
+  },
+  "target": {
+    "clause_id": "__whole_video__",
+    "narration": "Toàn bộ video205 giây “Vì sao mua một món lại mang về cả giỏ?”, gồm hook, miễn trừ trách nhiệm, nội dung chính và CTA.",
+    "start": 0,
+    "end": 205
+  },
+  "method": "human_feedback",
+  "quote": "bạn có thấy hình ảnh chưa được sống động chèn 3D hoạt ảnh vào không, và nên lấy ảnh ở Việt Nam hơn đó và thêm có 1 phần là miễn trừ trách nhiệm nữa Nâng cấp thêm nữa đi",
+  "observation": "Người dùng nhận xét hình ảnh chưa sống động; yêu cầu thêm hoạt ảnh 3D, ưu tiên hình ảnh chụp tại Việt Nam và làm rõ phần miễn trừ trách nhiệm. Đây là phản hồi yêu cầu nâng cấp toàn bản r04, không phải duyệt r05.",
+  "action": "Dựng r05 với hoạt ảnh đối tượng 3D có ý nghĩa, ảnh Việt Nam có nguồn và vị trí được kiểm tra, cùng phần miễn trừ trách nhiệm rõ sau hook; giữ take Nhật Phong và cách phối âm đã chốt. Kiểm bản render mới theo lời/crop/chuyển động trước khi xin phản hồi tiếp.",
+  "evidence": [
+    {
+      "role": "feedback",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/r04-user-upgrade-request.txt",
+      "sha256": "c5de0d6e7836f99d55906bf190662c79c7d33ad3112cf57f9c632f1a8bd3d9e1",
+      "description": "Exact direct user quote retained from current conversation."
+    },
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r04/long/final.mp4",
+      "sha256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128",
+      "description": "Existing r04 final identified by actual SHA-256; scope0–205seconds."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "schema": "china-variety-preview-review/1",
+  "recordedUTC": "2026-11-13T06:44:08.452754+00:00",
+  "reviewer": "root",
+  "actualViewed": "All51midpoints via3boundedcontacts; correctednativeo01/f01/f02, priornativestoryr06/f08; latestcorrected12stills retained.",
+  "findings": [
+    "Distinct actual scene compositions seen across the sequence: port/train and home, city+map, product assembly, warehouse, source ruler, signed sector markers, full-photo context, apartment stakeholders, construction, family decisions, jars, price lens, baskets, goods/services scope, safety-net bridge, bottleneck, geography, trade components/blocks/obstacles, receipts, cohort icons, age ruler, care/work, training, calendar GDP and policy mechanisms.",
+    "Source numbers keepstatisticalperiod/scope; computed79.4indexlabelledcomparison, nothouseprice.",
+    "Rootcaughtoverlaidstoppercoveringdemandlabelinf08 and movedstopperoffwagon; caughtduplicateo01/o02headings and changedo02heading.",
+    "Spatialupdatedactualnativepreviews showhomevisibleatbuyerphrase, mapinset andassemblylabels readable.",
+    "Peopleauthoractualdeltareview fixedjar/table/stairs/age/contextlabels; dataauthoractualstill+temporalreview retained."
+  ],
+  "limitations": [
+    "Shared palette, typography and intentional factory/house/shop callbacks remain for continuity.",
+    "This is a sampled still/sequence review, not continuous AV listening or user aesthetic approval.",
+    "FinalMP4renderandtemporalinspectionstillpending."
+  ],
+  "blockingIssuesInViewedStills": [],
+  "userAcceptance": "pending",
+  "imageHashes": [
+    {
+      "file": "preview/d01.jpg",
+      "sha256": "8aeb91a65249f939caadbb6fea85cd1ed584042acade61869e1c52c23ec27fca"
+    },
+    {
+      "file": "preview/d02.jpg",
+      "sha256": "84b2813ea7d98e7792492e82cc11650f3e127b5c58ec56c5d7f3a4f1dec46d0b"
+    },
+    {
+      "file": "preview/d03.jpg",
+      "sha256": "a15ac343a529d4204d4630331e8ebb050637b19c8665ee1e149d9300ff1ef857"
+    },
+    {
+      "file": "preview/d04.jpg",
+      "sha256": "49c28c315a7c5c6f1978703d54482dbbb1f670ec7c8ab5def192fb5a6af8dab1"
+    },
+    {
+      "file": "preview/d05.jpg",
+      "sha256": "2ea2672e887a7e399c45e9704c2c74cb3baed03eca91ea35f637613187dbe126"
+    },
+    {
+      "file": "preview/d06.jpg",
+      "sha256": "d709a29af36dae0051a544c7cde844d98caa13b0be06eb2705aeaeeda13335bc"
+    },
+    {
+      "file": "preview/e01.jpg",
+      "sha256": "0f197f738eaaf513bf3ad43fe78e993c0d3399ea5b28dc8576b960c4967ca9cc"
+    },
+    {
+      "file": "preview/e02.jpg",
+      "sha256": "a0f38a75a780ae353f80ef0a33a0e956dfa5dcdff3c241526f98b13a917ddcee"
+    },
+    {
+      "file": "preview/e03.jpg",
+      "sha256": "e4eae31561f4bb82accf2392eff4f4f30aefa843241411e356ad5cbc24e4d4ea"
+    },
+    {
+      "file": "preview/e04.jpg",
+      "sha256": "3946557406ad9b724b0e3b477cf3b4d2bb53487f5dae4cc97d92833fef6c57a9"
+    },
+    {
+      "file": "preview/f01.jpg",
+      "sha256": "ff60107d6625a96b69b219d6d05315a5f2d553dd909cf1f0ab96ae5b79d46785"
+    },
+    {
+      "file": "preview/f02.jpg",
+      "sha256": "352977d601d403025d2e5907f8d46b52f4b96192dd21423910a02fea0b564fb4"
+    },
+    {
+      "file": "preview/f03.jpg",
+      "sha256": "5083ba681f9c818fc2c6fdc61c2ea26317a2f824ac452dfff5e0b1e52b4767b8"
+    },
+    {
+      "file": "preview/f04.jpg",
+      "sha256": "68d5e551ba27fdb59727ea8c516efc131891e1331d1aff78f4a0600b0ef8f85d"
+    },
+    {
+      "file": "preview/f05.jpg",
+      "sha256": "b4a9c2950401c3499835d07f86d92e8e85fa096b3402bc9153c53219ad45c739"
+    },
+    {
+      "file": "preview/f06.jpg",
+      "sha256": "ac5a5a7addc16fa3599e21ff245b0e36da053fb25e1f01b3570db896d451d40b"
+    },
+    {
+      "file": "preview/f07.jpg",
+      "sha256": "bf2a5cd9822cb707eb31a94ab582cbedc4b6c466c47a4186970680688ed49596"
+    },
+    {
+      "file": "preview/f08.jpg",
+      "sha256": "c61b0e461bee2428309d522de95b4b9df8bf6abf1914df94bcb073089cc7e76f"
+    },
+    {
+      "file": "preview/h01.jpg",
+      "sha256": "e6c9cb2f0c9c3af6cddbda2819c8ba3196811ac7d77b379ea0d3e971969e1d60"
+    },
+    {
+      "file": "preview/h02.jpg",
+      "sha256": "fb0c297671e9c3b608414759178f2d4669259eedabe4ef9030fae81162ed8432"
+    },
+    {
+      "file": "preview/h03.jpg",
+      "sha256": "7aa41e34b254b11097b66161e68539e69a9cd8ee5666672337a7c81fe4ed59cf"
+    },
+    {
+      "file": "preview/h04.jpg",
+      "sha256": "aaae4e8ed83c4e4d6233812a48a62ca994e66a9715c04d2e5c3dcfc23f808507"
+    },
+    {
+      "file": "preview/h05.jpg",
+      "sha256": "f38380bacef4014e83234ee4a776335a3366088a05adeb8b79b9aced7cc3e236"
+    },
+    {
+      "file": "preview/h06.jpg",
+      "sha256": "5cff56797a40a6e8c6c0ef0b73a6b85bd4d51db0742b9e4d1d6265dcca78dc6b"
+    },
+    {
+      "file": "preview/h07.jpg",
+      "sha256": "ce3e924698a07bde0e4a23f616b856d35b47c32e415bb3634c4272febeae910d"
+    },
+    {
+      "file": "preview/h08.jpg",
+      "sha256": "bf8d379a736b0cac95bb6f48a5a6f6ac26b473631aea8bdd5a7f628a85cda156"
+    },
+    {
+      "file": "preview/o01.jpg",
+      "sha256": "851bc28a7daabe928bffa87660f0091538139711e6bb2acda67a37f4ad11b3fe"
+    },
+    {
+      "file": "preview/o02.jpg",
+      "sha256": "4d89bc5c9d1021d7da7bc183c099ae17da99b42e210e2e822eeea9af53beb77e"
+    },
+    {
+      "file": "preview/o03.jpg",
+      "sha256": "f152eb404e17854fa07028e1c5dc8cfecb5c4385a811abdf5ecdb08a922b8cd9"
+    },
+    {
+      "file": "preview/o04.jpg",
+      "sha256": "8b677d3d2d60d921510cc148794320c3b54a1a5839090f901e4ce07a316cac51"
+    },
+    {
+      "file": "preview/p01.jpg",
+      "sha256": "6f886c8f05d06f2ba190964f60ccb5e7dbeaafcc793888877c8d444d16334163"
+    },
+    {
+      "file": "preview/p02.jpg",
+      "sha256": "c897104209edb4ff0a246cfc22d0a318ab74edaeb05af8cee1e462547dd921df"
+    },
+    {
+      "file": "preview/p03.jpg",
+      "sha256": "49208a17a5674fb1a725b8bb777fc874af4db1b1c30d1d89a8ca9f7c7949d5e0"
+    },
+    {
+      "file": "preview/p04.jpg",
+      "sha256": "6c44f75ad6f1d0baadb85efbca844085c3244390a0c709f21ad8ff6e6ee70be7"
+    },
+    {
+      "file": "preview/p05.jpg",
+      "sha256": "5a0eadb1dbf295bf000153a6202b05ebe1cf6303dd765f24b33ebbfadd2eff3d"
+    },
+    {
+      "file": "preview/p06.jpg",
+      "sha256": "739c8cb8eae81a4a85698e479e578f69b3c846f9973a55e6de9c1a4a6783a893"
+    },
+    {
+      "file": "preview/p07.jpg",
+      "sha256": "9cde4470ade67fa50b1f01062ab1f6eb07786cc44ca8833ad59be93a89299ab6"
+    },
+    {
+      "file": "preview/r01.jpg",
+      "sha256": "78bb9252624a4369bcdc15c1feeff51220400221ea0e7c71b531d61e71a71b2c"
+    },
+    {
+      "file": "preview/r02.jpg",
+      "sha256": "331b3a1abeaa9db59c3ebc070a237947facd061201ba4d6d2aac36df1f52fa74"
+    },
+    {
+      "file": "preview/r03.jpg",
+      "sha256": "d0dfdd256269c082502253126305e290aaef4661cedd27aa4402897950208ed5"
+    },
+    {
+      "file": "preview/r04.jpg",
+      "sha256": "2c1daa2f49375fcb7f7227826a6d00d360617e47424fa26bd1bce11fe6e82ab3"
+    },
+    {
+      "file": "preview/r05.jpg",
+      "sha256": "dfc94d85cdff64991e05a2740379d7cab605379c5674349e7ab95ab5c65de031"
+    },
+    {
+      "file": "preview/r06.jpg",
+      "sha256": "87ea9c63b020d5dede4e774cf2164b516d4c1dcb6fbbc66bd5e0861067c68831"
+    },
+    {
+      "file": "preview/r07.jpg",
+      "sha256": "0158b9426063cacee22c9de842ba6869d2bd4a1cc0045cc267a316bc37c4c69e"
+    },
+    {
+      "file": "preview/spatial-contact-1.jpg",
+      "sha256": "413506ca74a70407f1e22aac45cbd12153358803b68cf711671fd844af7ea05a"
+    },
+    {
+      "file": "preview/spatial-contact-2.jpg",
+      "sha256": "bb57ab712e7c01d33bd770329764e3fac9f563faa362735d41dd3f2584583ec7"
+    },
+    {
+      "file": "preview/t01.jpg",
+      "sha256": "de9dbe60dd1ac2746815d7ee08c83b72982163dd9d33479b082bbb7292fdc2e6"
+    },
+    {
+      "file": "preview/t02.jpg",
+      "sha256": "eac93c8600a0eb17166eb8ce1145852770301ff17e279703ea26bc895a60e70e"
+    },
+    {
+      "file": "preview/t03.jpg",
+      "sha256": "c08b2e4d755022602ba04132eddfd860256bc059db081a0f132bad9d5408c8a0"
+    },
+    {
+      "file": "preview/t04.jpg",
+      "sha256": "fd03c67257ede6c2deb1d29812a5e5425fb404df592b5904fbe1aca85db89913"
+    },
+    {
+      "file": "preview/t05.jpg",
+      "sha256": "4397cff5ecc3978a6574578653ce1d1626bdfdd940ea8624b20ca854164b321f"
+    },
+    {
+      "file": "preview/t06.jpg",
+      "sha256": "2a99f29154993e1db2fbb04af812caefd48c695acfd5564939dc90761ff0d57c"
+    },
+    {
+      "file": "preview/t07.jpg",
+      "sha256": "eb503d4223d355459af6c137569404dffd36c7222e0e329c5dff0f95e3a307d7"
+    }
+  ]
+}

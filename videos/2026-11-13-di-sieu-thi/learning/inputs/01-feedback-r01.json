@@ -1,0 +1,41 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "dimension": "script",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "c11-price-difference-label",
+    "narration": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.",
+    "start": 116.46666666666667,
+    "end": 124.73333333333333
+  },
+  "method": "script_review",
+  "revision": "r01",
+  "decision": "revision_needed",
+  "observation": "Source graphic labels the difference +20.000đ as TỔNG CHI. The final totals shown are 30.000đ and 50.000đ, so 20.000đ is the increase, not the final total. This is source-label/script clarity review only; no final-video visual acceptance.",
+  "action": "Rename the difference CHI THÊM 20.000đ (or TỔNG CHI TĂNG 20.000đ), retain both totals, unit prices, quantities and hypothetical header, then independently recheck wording/arithmetic.",
+  "evidence": [
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r01.json",
+      "sha256": "04dd81359f3c0fcbfd9bd9c7e6d75970cf7ef3561d6f212cab1f64dee5e7e109"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/total-example-r01.jpg",
+      "sha256": "cae247d728ebcde154ef943237f8811d881f18b639521f07dbf79610bb066655"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/independent-pre-render-review-r01.md",
+      "sha256": "1f355165b47a9e86468f8077025c62923d56f17fbd89437d6019127f678e301b"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-label-review.md",
+      "sha256": "72d8076fbe966541ac1d2be1cae3e32e07fb7929f2fed93d64ecd91c8491af3a"
+    }
+  ]
+}

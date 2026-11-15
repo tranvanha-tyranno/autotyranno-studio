@@ -1,0 +1,106 @@
+{
+  "schema": "bread-documentary-script-review/1",
+  "date": "2026-11-15",
+  "scope": "All 24 spoken units, five chapters; text editorial review and recomputed model arithmetic only. Not AV review, voice listening or human acceptance.",
+  "status": "accepted_for_new_narration",
+  "review": {
+    "status": "accepted",
+    "method": "full_script_read",
+    "reviewer": {
+      "kind": "agent",
+      "name": "Codex library_content — script editorial review"
+    },
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "unresolvedIssues": [],
+    "checks": {
+      "structure": {
+        "decision": "accepted",
+        "observation": "Read all 24 units in order. Five chapters are audible without titles: b07 asks why the board has not returned, b11 asks about a genuinely cheaper flour bill, b16 turns to the buyer, b17 explicitly returns to the original 20-to-22-thousand period, and b22-b23 resolve the opening before b24 CTA. Explicit user override removes a standalone spoken disclaimer; b02 labels the shop hypothetical within the story."
+      },
+      "focus": {
+        "decision": "accepted",
+        "observation": "The script follows one bakery, one unchanged bread type and the same original price rise. The 22,440 calculation is explicitly a next-period illustration; b17 resets the time reference before the wage comparison. b20-b21 explain the boundary of a bread-only yardstick without inventing a second household-basket model. No monetary-policy, shrinkflation, independent expectation chapter or filler added to force ten minutes."
+      },
+      "evidence": {
+        "decision": "accepted",
+        "observation": "Recomputed all illustrative arithmetic: 20,000-12,000-5,000=3,000; 20,000-14,500-5,000=500; 22,000-14,500-5,000=2,500. 20,000*1.1*1.02=22,440; 10m/20k=500 and 10.5m/22k=477.2727, so change=-4.54545%, rounded about -4.5%. b03 conditions fixed allocation on assumed quantity; b04 excludes unmodeled tax/depreciation/owner labor and avoids calling the remainder net profit. b07, b10, b12, b14 and b20 bound the model and acknowledge alternative outcomes. No current prices, actual owner behavior or national CPI is inferred from the fictional shop."
+      },
+      "progression": {
+        "decision": "accepted",
+        "observation": "Each chapter resolves a different missing relation: customer price versus modeled retained amount; rate versus level; one input versus total costs and competition; nominal wage versus bread purchasing power; then a synthesis. b14 deliberately tests the seller-friendly explanation by allowing higher surplus if total costs fall and sales stay constant. The final questions follow the preceding gap rather than an arbitrary subject list."
+      },
+      "payoff": {
+        "decision": "accepted",
+        "observation": "The revised opening asks why buyer and shop can both feel squeezed, rather than promising to identify a beneficiary that the script cannot prove. b22 answers with the cost result, rate/level distinction and income comparison already demonstrated. b23 makes this usable through baseline, rate/level and actual spending questions; b24 asks for a breakfast example with a comparison year, then subscribes. No new central claim is introduced at the end."
+      },
+      "spokenNaturalness": {
+        "decision": "accepted",
+        "observation": "Full text read as connected spoken prose. Numbers are spelled out in Vietnamese; short contrast sentences and genuine questions mark the turns. b02 now says hypothetical shop briefly, b18 uses income each period rather than the ambiguous same income, and b19 replaces writing-process commentary with a concrete callback from counter to worker. This accepts text rhythm only; perceived monotony, pronunciation, emotional stress, breaths and the actual Nhật Phong performance still require listening to the generated take."
+      }
+    }
+  },
+  "resolvedIssues": [
+    {
+      "units": [
+        "b01"
+      ],
+      "issue": "The hook promised to identify who benefits while the payoff proved coexistence of pressures.",
+      "fix": "Ask why both still feel squeezed; align opening headline."
+    },
+    {
+      "units": [
+        "b02"
+      ],
+      "issue": "The story did not explicitly identify the shop as fictional.",
+      "fix": "Say hypothetical bakery in the story, no separate disclaimer."
+    },
+    {
+      "units": [
+        "b17"
+      ],
+      "issue": "Same period could point to the flour-fall or next-period 22,440 example.",
+      "fix": "Explicit return to the original 20-to-22-thousand period before comparing the wage."
+    },
+    {
+      "units": [
+        "b18"
+      ],
+      "issue": "Same income could imply unchanged income despite two wage values.",
+      "fix": "Ask what income in each period exchanges for the same bread type."
+    },
+    {
+      "units": [
+        "b19"
+      ],
+      "issue": "Writing-process commentary interrupted the listener-facing narrative.",
+      "fix": "Replace with counter/worker callback and actual outcomes."
+    }
+  ],
+  "productionConditions": [
+    {
+      "dimension": "visual_identity",
+      "requirement": "Stock bakery staff/customers are contextual illustrative people, not the fictional Hạnh/worker. Do not imply their actual prices, wages, finances or decisions are documented."
+    },
+    {
+      "dimension": "visual_focus",
+      "requirement": "Show original20k/22k comparison and next-period22,440 as distinct states; reset to20k/22k for the wage chapter. Keep same bread type/quantity visually. Numeric explanatory graphics may be brief; no cartoon cast/subtitles."
+    },
+    {
+      "dimension": "voice",
+      "requirement": "Same Nhật Phong/eleven_v3 with stability0.5 similarity0.8 speed1.0. Punctuation-guided plain Vietnamese, no time stretching. Listen to opening, numerical contrasts and chapter transitions before judging voice quality."
+    }
+  ],
+  "userInstructionOverride": {
+    "structurePolicy": "no-spoken-disclaimer-user-requested",
+    "basis": "Latest direct user request, relayed by root in this production task: omit the opening spoken disclaimer; retain a short integrated hypothetical-shop label."
+  },
+  "evidence": {
+    "contentSHA256": "d73a06ade0161f3d7a34da0ef017ba3fb0d8e548f50201d4f994d706dd875c83",
+    "sourcePath": "workflows/reference-video/bread_documentary_content.py",
+    "sourceFileSHA256": "7fbfe7aa79a67ed927d7a8220c6e1f3f57f79783823dee5cb37edbe0523370d8",
+    "scriptPath": "videos/2026-11-14-banh-mi-documentary/script.txt",
+    "scriptFileSHA256": "3fbc0589d5356b9b821db69715e50299108c96b499de04851d9908b9e5c75aef",
+    "draftArchive": "videos/2026-11-14-banh-mi-documentary/drafts/script-v1"
+  },
+  "userApproval": "not_established"
+}

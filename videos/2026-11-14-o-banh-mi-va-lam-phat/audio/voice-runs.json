@@ -1,0 +1,87 @@
+{
+  "voiceId": "6adFm46eyy74snVn6YrT",
+  "speed": 1,
+  "chapters": [
+    {
+      "chapter": "to-bang-gia",
+      "file": "audio/01-to-bang-gia.mp3",
+      "cacheHit": false,
+      "wallSeconds": 17.586,
+      "sha256": "46daa8fdad4123f8671755b1d5041a2f347e8022b8355088a914cec652baffe4",
+      "receiptSHA256": "00976b40048b038853038439e24416f6c535cf7947f829b639cba98a7e0531cb",
+      "providerCharacterCost": "363",
+      "newRequestCredits": "363"
+    },
+    {
+      "chapter": "muc-va-toc-do",
+      "file": "audio/02-muc-va-toc-do.mp3",
+      "cacheHit": false,
+      "wallSeconds": 21.043,
+      "sha256": "4ba67f84e6fea5807a7204fbb9bf4102c0a589a76796ba7e841b3332cdaf5637",
+      "receiptSHA256": "dfbb3771a7f0085ce945da0f1e282b63a74fdbacc46a1a76edba319518f9bb22",
+      "providerCharacterCost": "462",
+      "newRequestCredits": "462"
+    },
+    {
+      "chapter": "sau-quay-banh",
+      "file": "audio/03-sau-quay-banh.mp3",
+      "cacheHit": false,
+      "wallSeconds": 25.569,
+      "sha256": "84310479465c7559fa93f00d97628673755cebb28d5ec98ed6480196d8f0e196",
+      "receiptSHA256": "e67470db4056c65eae5d08881c157059aa760f8e97b5be812bf3f4895afa1c8f",
+      "providerCharacterCost": "562",
+      "newRequestCredits": "562"
+    },
+    {
+      "chapter": "khach-va-cong-suat",
+      "file": "audio/04-khach-va-cong-suat.mp3",
+      "cacheHit": false,
+      "wallSeconds": 21.613,
+      "sha256": "91e9cc0711e0a842a006988f962a1598fbea17f7e4adcee889f65aa25adcceef",
+      "receiptSHA256": "e0a7b0aea76e184fd0bc895d55e4ed40b8f606453eec4abe097429464f401fea",
+      "providerCharacterCost": "492",
+      "newRequestCredits": "492"
+    },
+    {
+      "chapter": "bang-gia-chua-ha",
+      "file": "audio/05-bang-gia-chua-ha.mp3",
+      "cacheHit": false,
+      "wallSeconds": 21.154,
+      "sha256": "23815b612194a908e0993883b7f0cae823b91d4e549bd49e6106cd8578ba00e9",
+      "receiptSHA256": "381485c52b72fc0eed535300b7211fb8cee80ea75ff253899b5becef506caa7f",
+      "providerCharacterCost": "474",
+      "newRequestCredits": "474"
+    },
+    {
+      "chapter": "gio-hang-va-tien-luong",
+      "file": "audio/06-gio-hang-va-tien-luong.mp3",
+      "cacheHit": false,
+      "wallSeconds": 23.369,
+      "sha256": "6c722cadbe90c2ddc19cb4240571495ae66dadafe7f85446e06866c1add1df8e",
+      "receiptSHA256": "c16d2711bf6def4721b7796b558158b49cc5051b064207e133d6f001cc9f0533",
+      "providerCharacterCost": "556",
+      "newRequestCredits": "556"
+    },
+    {
+      "chapter": "cach-ha-nhiet",
+      "file": "audio/07-cach-ha-nhiet.mp3",
+      "cacheHit": false,
+      "wallSeconds": 23.683,
+      "sha256": "593985fc5348dc5b792672de6439b2ed624e3555130d09bd6fdb68b8a0c1f293",
+      "receiptSHA256": "0e7aa20aa24d214761e379269d1bcf9a0b54d6984cb09ad975583ab0f11b9a16",
+      "providerCharacterCost": "480",
+      "newRequestCredits": "480"
+    },
+    {
+      "chapter": "tro-lai-bua-sang",
+      "file": "audio/08-tro-lai-bua-sang.mp3",
+      "cacheHit": false,
+      "wallSeconds": 24.939,
+      "sha256": "22a274230a1e1e3fadad55e1fea9bc7fdf32aae85272ff7d829138bcce11ea0f",
+      "receiptSHA256": "caa50e863d6274eb03b4e8288f2add13ff838c4abd506e823050491de37837f4",
+      "providerCharacterCost": "551",
+      "newRequestCredits": "551"
+    }
+  ],
+  "accounting": "Confirmed provider character-cost units; not a USD invoice"
+}

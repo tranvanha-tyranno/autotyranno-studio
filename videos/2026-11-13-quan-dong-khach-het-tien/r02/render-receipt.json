@@ -1,0 +1,22 @@
+{
+  "schema": "business-refinement/1",
+  "finalSHA256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e",
+  "frames": 17848,
+  "baseFinalSHA256": "60b18450cf217b78a1402c817a2d914bff7ca360601aadc484c9e0b4da8292fc",
+  "audioMixSHA256": "13630b9b84693c3f648f354535355e3bf149c569e258084aa89a4091675fb411",
+  "newDataSHA256": "459dc37150ad02530b6b3ad48f3735f401c2c61cbe03b83c549b5e97d950441e",
+  "changedShots": [
+    "h01",
+    "h02",
+    "p04"
+  ],
+  "chaptersReplaced": [
+    "discount",
+    "opening"
+  ],
+  "sameSpokenTake": true,
+  "sameWordTiming": true,
+  "sameCaptions": true,
+  "userAcceptance": "pending",
+  "limitation": "All video is encoded again at join; unmodified decoded pixels are not asserted byte-identical."
+}

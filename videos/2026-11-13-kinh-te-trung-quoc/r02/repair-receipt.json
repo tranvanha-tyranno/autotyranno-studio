@@ -1,0 +1,70 @@
+{
+  "schema": "china-visual-repair/1",
+  "status": "completed",
+  "startedUTC": "2026-11-13T06:01:21.901348+00:00",
+  "changedShot": "o03",
+  "oldHeadline": "Bốn câu hỏi để đọc Trung Quốc",
+  "newHeadline": "Ba góc nhìn để đọc Trung Quốc",
+  "interval": {
+    "start": 614,
+    "endExclusive": 980,
+    "frames": 366
+  },
+  "baseFinalSHA256": "936252a9f28282d3853d9dbc341cea7347177d0853508305d10d266ed10bdcbd",
+  "baseDataSHA256": "5780a919b1f6ae5c0d1ad7b2f501e18ef90f9ed43e945de957a6d0cdbadcae6c",
+  "newDataSHA256": "9f356a697771487f877396356d0f53fa56c9aeaaa26f3f54f824452f3b8dea7d",
+  "exactMixSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+  "baseAttempt": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\render-attempts\\20261113T053619Z-d8037e",
+  "sameSpokenTake": true,
+  "sameCaptions": true,
+  "sameTiming": true,
+  "unselectedAppearanceUnchanged": true,
+  "userAcceptance": "pending",
+  "limitation": "Normalized full-video encode at splice; unselected decoded pixels are not asserted byte-identical.",
+  "patchRender": {
+    "startedUTC": "2026-11-13T06:01:22.155354+00:00",
+    "finishedUTC": "2026-11-13T06:01:49.977206+00:00",
+    "wallSeconds": 27.813,
+    "returncode": 0,
+    "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02\\patch.log",
+    "directProcessCPUSeconds": 5.328125,
+    "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+  },
+  "patchDecode": {
+    "sha256": "1332fc24e8688f8fde5b35cd56a5d445f679b91e93702578a6923726925bd7f2",
+    "frames": 366,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "decodeWallSeconds": 0.281,
+    "decodeFramesPerSecond": 1302.491
+  },
+  "spliceTiming": {
+    "startedUTC": "2026-11-13T06:01:50.260615+00:00",
+    "finishedUTC": "2026-11-13T06:03:38.821911+00:00",
+    "wallSeconds": 108.563,
+    "returncode": 0,
+    "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02\\splice.log",
+    "directProcessCPUSeconds": 856.78125,
+    "cpuScope": "Measured direct Node/FFmpeg process CPU on Windows only; browser/encoder descendants are not included. Null if unavailable."
+  },
+  "finalDecode": {
+    "sha256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+    "frames": 17913,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "decodeWallSeconds": 11.562,
+    "decodeFramesPerSecond": 1549.299
+  },
+  "audioDecode": {
+    "decodedSamplesMono48000": 28661760,
+    "seconds": 597.12,
+    "lastWordEnd": 595.58,
+    "wallSeconds": 0.813,
+    "manualListening": false
+  },
+  "finishedUTC": "2026-11-13T06:03:51.537944+00:00",
+  "wallSeconds": 149.64,
+  "finalSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1"
+}

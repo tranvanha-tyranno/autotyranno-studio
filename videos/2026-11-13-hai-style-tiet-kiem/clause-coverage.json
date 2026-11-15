@@ -1,0 +1,83 @@
+[
+  {
+    "id": "s01",
+    "text": "Lương tăng hai triệu, mà tiền dư chẳng tăng. Minh vừa vui được một tháng, đã thấy ví mình trở về chỗ cũ.",
+    "start": 0.0,
+    "end": 6.766666666666667,
+    "castMechanic": "Surprised Minh compares raise with unchanged jar",
+    "minimalMechanic": "hook",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s02",
+    "text": "Đây là tình huống giả định để học cách lập ngân sách, không phải tư vấn tài chính cá nhân.",
+    "start": 6.766666666666667,
+    "end": 11.7,
+    "castMechanic": "Separate disclaimer card",
+    "minimalMechanic": "disclaimer",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s03",
+    "text": "Lan hỏi: trước đây cậu chia tiền thế nào? Minh tính: lương mười hai triệu, chi mười triệu, còn hai triệu mỗi tháng.",
+    "start": 11.7,
+    "end": 21.033333333333335,
+    "castMechanic": "Lan asks; Minh allocates monthly income",
+    "minimalMechanic": "before",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s04",
+    "text": "Khi lương lên mười bốn triệu, Minh cũng chi tới mười hai triệu. Tiền dư vẫn chỉ hai triệu. Phần tăng thêm đã đi hết vào chi tiêu.",
+    "start": 21.033333333333335,
+    "end": 29.666666666666668,
+    "castMechanic": "Minh sees all raise move into spending",
+    "minimalMechanic": "after",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s05",
+    "text": "Minh thắc mắc: mình có mua gì lớn đâu? Lan chỉ ra: nếu mỗi ngày chi thêm sáu mươi nghìn, trong ba mươi ngày đã là một triệu tám.",
+    "start": 29.666666666666668,
+    "end": 39.6,
+    "castMechanic": "Minh protests; Lan fills 30 daily slots",
+    "minimalMechanic": "daily",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s06",
+    "text": "Thêm một bữa ăn hai trăm nghìn, tổng chi tăng đúng hai triệu. Mỗi lần thấy nhỏ, nhưng cộng lại vừa hết phần tăng lương.",
+    "start": 39.6,
+    "end": 47.5,
+    "castMechanic": "Additional meal completes the extra spending",
+    "minimalMechanic": "dinner",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s07",
+    "text": "Nếu vẫn giữ được mức chi mười triệu, phần dư có thể là bốn triệu. Nhưng chi phí thiết yếu tăng thì phải tính lại, đừng ép mình theo con số này.",
+    "start": 47.5,
+    "end": 56.13333333333333,
+    "castMechanic": "Compare illustrative budgets, then essential-cost caveat",
+    "minimalMechanic": "choice",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s08",
+    "text": "Lan gợi ý: khi lương về, hãy dành trước một khoản phù hợp, sau khi tính tiền nhà, sinh hoạt và nghĩa vụ nợ. Có thể dùng chuyển khoản tự động để đỡ quên.",
+    "start": 56.13333333333333,
+    "end": 66.7,
+    "castMechanic": "Lan suggests schedule; funds move after obligations",
+    "minimalMechanic": "transfer",
+    "review": "Pending rendered frame comparison"
+  },
+  {
+    "id": "s09",
+    "text": "Minh quyết định xem lại một khoản chi tăng gần đây. Bạn thử chọn một khoản của mình, cộng đủ cả tháng, rồi quyết định giữ hay giảm. Bắt đầu từ một khoản thôi.",
+    "start": 66.7,
+    "end": 77.76666666666667,
+    "castMechanic": "Minh selects one monthly expense",
+    "minimalMechanic": "cta",
+    "review": "Pending rendered frame comparison"
+  }
+]

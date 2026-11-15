@@ -1,0 +1,588 @@
+{
+  "schema": "sampled-comic-layout-verification/1",
+  "recordedUTC": "2026-11-13T15:03:41.330817+00:00",
+  "revision": "r02",
+  "scope": "Viewed all100cue/late actual-take preflightframes in10contact sheets;25focused layout/numeric frames individually indexed and hashed. Not continuous motion/audio review or user aesthetic approval.",
+  "planSHA256": "a9100681fdf75d6f709a0559be39d15c08ae9981c7536060d7b4a8687c599c87",
+  "sampledFrameCount": 100,
+  "focusedFrameCount": 25,
+  "result": "No remaining material issue observed in reviewed sampledframes; focused r01corrections verified visually.",
+  "verified": [
+    "b01+2m salary amount clear of moving bills.",
+    "b04coffee and b09family labels readable after explicit text stroke=none; phone labels in b17/b21/b29/b38/b44 also readable.",
+    "b06late visibly ten1tr notes in two rows+two1tr notes at surplusjar;10m/2m equation clear. b07late twelve+two notes and14−12=2mclear.",
+    "b12late30×60000=1800000; b15late30×20000=600000andconditional11.4m/2.6mclear. Counters no longer29atlate.",
+    "b13two addends1800000+200000readable and late result2mclear.",
+    "b22monthly120000×12=1440000arithmetically correct and readable.",
+    "b24all12columnsvisible and100000in all12 jars;1200000÷12=100000correct.",
+    "b28/b36/b37jarbase clear after redundantfooterremoval.",
+    "b34conditional14−11.4=2.6mcorrect and marked for recalc whenrentchanges.",
+    "b38phonebottomclear of movedfooter;300000jarvaluevisible.",
+    "b43fourth installmentcard clear ofLanface after shift."
+  ],
+  "minorObservations": [
+    "b07redundantVẫn bằng trước đâylabel near tableedge is partly crowded; main amounts/equation remain clear.",
+    "b39longĐã chuẩn bịjar label extends tojarborder; mechanism and shortĐã dùngstate remain understandable."
+  ],
+  "sourceHashes": {
+    "workflows/reference-video/cinematic/src/finance-long-comic/art.tsx": "b36280a3c5c713a3a9566b1c3f862a4cad559fba07961a005037c4517839800f",
+    "workflows/reference-video/cinematic/src/finance-long-comic/index.tsx": "3480abf8c1246a399dde605381b3e16e5632f1e59ad1cc25258182cd262b495d",
+    "workflows/reference-video/cinematic/src/finance-long-comic/variants.tsx": "79ba3acc8c59434aaecf02d40a64c5e87aefa44efcd74e56f870e94cccfbdaba"
+  },
+  "focusedFrames": [
+    {
+      "beat": "b01",
+      "moment": "cue",
+      "file": "preflight/b01-cue-73.jpg",
+      "sha256": "422cb2b74f5cc360e912f1c38554429824cc826070d041650f2f783d8cf49719"
+    },
+    {
+      "beat": "b03",
+      "moment": "late",
+      "file": "preflight/b03-late-896.jpg",
+      "sha256": "806ff7757c78ec9e96324ab35f54e124f49ad0966c6fd259da19a80aab9c7cc4"
+    },
+    {
+      "beat": "b04",
+      "moment": "late",
+      "file": "preflight/b04-late-1218.jpg",
+      "sha256": "c93f244eddf9639a30bb11cb642f2b46a1961d9232bcab14551bb6a93febfcc9"
+    },
+    {
+      "beat": "b06",
+      "moment": "late",
+      "file": "preflight/b06-late-1870.jpg",
+      "sha256": "71d3ce88bfca4f0d2e4592a53cef7d72e1f1fc1a876947c5daafc0a10f2bd8d0"
+    },
+    {
+      "beat": "b07",
+      "moment": "late",
+      "file": "preflight/b07-late-2221.jpg",
+      "sha256": "fd1407f51df0ae3e5f09abb52adbbb9bfb452246d4c73f64397de6bbceadd9bf"
+    },
+    {
+      "beat": "b09",
+      "moment": "late",
+      "file": "preflight/b09-late-2966.jpg",
+      "sha256": "92aa7c92bec7f4316b9d1de495d5ff7929ada9621028f4f41adc7311fa88d307"
+    },
+    {
+      "beat": "b10",
+      "moment": "late",
+      "file": "preflight/b10-late-3320.jpg",
+      "sha256": "5a529c494767b5e72704d41f4afb3b5e92652539551dbc73f02dba793eca24dc"
+    },
+    {
+      "beat": "b12",
+      "moment": "late",
+      "file": "preflight/b12-late-4004.jpg",
+      "sha256": "98a7c3c527dc78cee9082e56e40fe8e7a549a67f10cea7fd8b1e18c87299fe09"
+    },
+    {
+      "beat": "b13",
+      "moment": "late",
+      "file": "preflight/b13-late-4369.jpg",
+      "sha256": "907c19ee463c90aa09f8c13afc83ef2fbe017923e97a3218960a60296ec9c5d5"
+    },
+    {
+      "beat": "b15",
+      "moment": "late",
+      "file": "preflight/b15-late-5047.jpg",
+      "sha256": "87c8e0f4bd2697905c334dab6f5d5e1541aa4152f5188a03e67533767cd88c1c"
+    },
+    {
+      "beat": "b17",
+      "moment": "cue",
+      "file": "preflight/b17-cue-5754.jpg",
+      "sha256": "589a80cdf162df5d382f6cfab8b78919a5035aa7bd685985bf550377ebf31736"
+    },
+    {
+      "beat": "b21",
+      "moment": "cue",
+      "file": "preflight/b21-cue-6979.jpg",
+      "sha256": "8e5ccdec313724e9dcd3910cb73fe6b7d7ed60a43c52c35a8b3e483110e52da6"
+    },
+    {
+      "beat": "b22",
+      "moment": "cue",
+      "file": "preflight/b22-cue-7272.jpg",
+      "sha256": "36c0efe5c435ff30e62ff585199e88eb69d9bb89cf1f7bbc35218a11972ee602"
+    },
+    {
+      "beat": "b22",
+      "moment": "late",
+      "file": "preflight/b22-late-7479.jpg",
+      "sha256": "9192f21362b5937454fe50feb0dbdd70dc2e7b09c4286a6ae65ab993ac97529e"
+    },
+    {
+      "beat": "b24",
+      "moment": "cue",
+      "file": "preflight/b24-cue-7995.jpg",
+      "sha256": "95943f56f4028e69d479d823e0af748a496bf7f1285f01a1ecc80f13831cc05f"
+    },
+    {
+      "beat": "b24",
+      "moment": "late",
+      "file": "preflight/b24-late-8159.jpg",
+      "sha256": "e4ba9ab552559a8d4148685f18232b32faf4d30b9aae8cbcdb93482e2a98c961"
+    },
+    {
+      "beat": "b28",
+      "moment": "late",
+      "file": "preflight/b28-late-9563.jpg",
+      "sha256": "ee5d0e0624f97d882d9ab662b7e0bb1cf18480d44ccc0ffaec95edd7c289b849"
+    },
+    {
+      "beat": "b34",
+      "moment": "cue",
+      "file": "preflight/b34-cue-11608.jpg",
+      "sha256": "2e78ac73a1fbb3ba230d35963ceef8a0890a4745e035a26557b5e43364638d84"
+    },
+    {
+      "beat": "b34",
+      "moment": "late",
+      "file": "preflight/b34-late-11731.jpg",
+      "sha256": "019625cfa9b2fe2c0d064bd9bd338b5e90771cfd85eb309d6a021cc6815253f7"
+    },
+    {
+      "beat": "b36",
+      "moment": "late",
+      "file": "preflight/b36-late-12409.jpg",
+      "sha256": "d1444ac6bd4520a3a5ea6c180433e6aa96837fd2a94d3b60bd3e5c5f20025281"
+    },
+    {
+      "beat": "b37",
+      "moment": "late",
+      "file": "preflight/b37-late-12736.jpg",
+      "sha256": "aceeff45fc14c2cba13e6355bb8265ccb8817af6c626df23e0ffc2414fe2e824"
+    },
+    {
+      "beat": "b38",
+      "moment": "cue",
+      "file": "preflight/b38-cue-12858.jpg",
+      "sha256": "ae9d3ea34c4eae72e09527d25122d71680cf57afbf16b2b65239443b402b6325"
+    },
+    {
+      "beat": "b38",
+      "moment": "late",
+      "file": "preflight/b38-late-13096.jpg",
+      "sha256": "81b3c7f86434a8b9327bd1739829799d565298043af3b5946344192e0771c21f"
+    },
+    {
+      "beat": "b43",
+      "moment": "cue",
+      "file": "preflight/b43-cue-14957.jpg",
+      "sha256": "dba6e8c5e5587b1d0bbea3562163ed4d353a9ac8f7550e74381806f25b40582d"
+    },
+    {
+      "beat": "b43",
+      "moment": "late",
+      "file": "preflight/b43-late-15032.jpg",
+      "sha256": "8f6cf63a71e436c28bd7db190a186289e8ddb8bb51b1fac5b89b099712dcc987"
+    }
+  ],
+  "allReviewedFrames": [
+    {
+      "file": "preflight/b01-cue-73.jpg",
+      "sha256": "422cb2b74f5cc360e912f1c38554429824cc826070d041650f2f783d8cf49719"
+    },
+    {
+      "file": "preflight/b01-late-273.jpg",
+      "sha256": "7fbeade38250f67fcacb0de91f6f6c25449c686e6bc2d9ddf9d3b73fdba3d56d"
+    },
+    {
+      "file": "preflight/b02-cue-448.jpg",
+      "sha256": "6f87c6ff3e39ba2ae51462e38c3109d81f5a5d6146a9d7ac4d2014aababf8cec"
+    },
+    {
+      "file": "preflight/b02-late-581.jpg",
+      "sha256": "41fc626f1ae04de990beb56a05f7b53bceb0b73303ac99960c33d7d32678e6e4"
+    },
+    {
+      "file": "preflight/b03-cue-822.jpg",
+      "sha256": "c442903fa30cd929f8ccd0c3dc12d3fc70a08785851312e66430bb144f6bf6fd"
+    },
+    {
+      "file": "preflight/b03-late-896.jpg",
+      "sha256": "806ff7757c78ec9e96324ab35f54e124f49ad0966c6fd259da19a80aab9c7cc4"
+    },
+    {
+      "file": "preflight/b04-cue-1101.jpg",
+      "sha256": "ecdc7b23c645e828e0af972f18415dfbfc79f224232ea22599f9d235768bcc03"
+    },
+    {
+      "file": "preflight/b04-late-1218.jpg",
+      "sha256": "c93f244eddf9639a30bb11cb642f2b46a1961d9232bcab14551bb6a93febfcc9"
+    },
+    {
+      "file": "preflight/b05-cue-1408.jpg",
+      "sha256": "39514f5e70aa9c1b4cbffcffab922794ccf10bac335e5b5fdbe67f1c419baf2c"
+    },
+    {
+      "file": "preflight/b05-late-1537.jpg",
+      "sha256": "7bdcfe573dc6f10589a6ca0a4145922828965fb03397fb4a1566a20248baca5c"
+    },
+    {
+      "file": "preflight/b06-cue-1729.jpg",
+      "sha256": "e807b47f9ea14dc043b65cd2743eb108fc75975f429809eaa688197cbec850ca"
+    },
+    {
+      "file": "preflight/b06-late-1870.jpg",
+      "sha256": "71d3ce88bfca4f0d2e4592a53cef7d72e1f1fc1a876947c5daafc0a10f2bd8d0"
+    },
+    {
+      "file": "preflight/b07-cue-2079.jpg",
+      "sha256": "2bb8cd757fd4a1269ea8aa70650239aaac1ad0516668a28dce0fe60b0f05a199"
+    },
+    {
+      "file": "preflight/b07-late-2221.jpg",
+      "sha256": "fd1407f51df0ae3e5f09abb52adbbb9bfb452246d4c73f64397de6bbceadd9bf"
+    },
+    {
+      "file": "preflight/b08-cue-2405.jpg",
+      "sha256": "7824fefc09b4934c13ff27341df709bf72aea73e4b7586664974b9c295aa9041"
+    },
+    {
+      "file": "preflight/b08-late-2587.jpg",
+      "sha256": "78e285d0049adf2f78d87163d0dda7394e1b676559cb5620e6b34f9be66a41b8"
+    },
+    {
+      "file": "preflight/b09-cue-2741.jpg",
+      "sha256": "2c0a1133ecc37dba8514ba2b615702638bc57662841b638e5ce2212c5d4e26e2"
+    },
+    {
+      "file": "preflight/b09-late-2966.jpg",
+      "sha256": "92aa7c92bec7f4316b9d1de495d5ff7929ada9621028f4f41adc7311fa88d307"
+    },
+    {
+      "file": "preflight/b10-cue-3184.jpg",
+      "sha256": "b85b30a69190835f692bec63aa65fe34b3fac96fc7bfc6d56f95407cc9178e4b"
+    },
+    {
+      "file": "preflight/b10-late-3320.jpg",
+      "sha256": "5a529c494767b5e72704d41f4afb3b5e92652539551dbc73f02dba793eca24dc"
+    },
+    {
+      "file": "preflight/b11-cue-3447.jpg",
+      "sha256": "0ab301a912794a902069a1d1d9518b49d49cad44b837eea6d6eb5b77925df24b"
+    },
+    {
+      "file": "preflight/b11-late-3655.jpg",
+      "sha256": "8b1a5f20c5091892e5d23083206b3f824024a23fb2faf3ffc07f84bbe7ed508c"
+    },
+    {
+      "file": "preflight/b12-cue-3770.jpg",
+      "sha256": "cd8b8b1aceb6a73f38d0a7abba546d8248871f8a6a09db5c5f43426a8043635c"
+    },
+    {
+      "file": "preflight/b12-late-4004.jpg",
+      "sha256": "98a7c3c527dc78cee9082e56e40fe8e7a549a67f10cea7fd8b1e18c87299fe09"
+    },
+    {
+      "file": "preflight/b13-cue-4176.jpg",
+      "sha256": "86d685fe3a96f1d610271a563ba94968bcccb0875d19442f5d52d2cfc7515efc"
+    },
+    {
+      "file": "preflight/b13-late-4369.jpg",
+      "sha256": "907c19ee463c90aa09f8c13afc83ef2fbe017923e97a3218960a60296ec9c5d5"
+    },
+    {
+      "file": "preflight/b14-cue-4533.jpg",
+      "sha256": "f4d3ea926e5804c2c4550d46a4971e75d4675a23874bbdf0f17259f6c026cd9b"
+    },
+    {
+      "file": "preflight/b14-late-4671.jpg",
+      "sha256": "78b9b2238e614868c098f40177ec4861a56beb3a84bac5cf03fc0d8d05c347fd"
+    },
+    {
+      "file": "preflight/b15-cue-4807.jpg",
+      "sha256": "9aebc200e43c6bdff7fd5fb2c24333ddabf8d6ea0b44e4279919e2729579f235"
+    },
+    {
+      "file": "preflight/b15-late-5047.jpg",
+      "sha256": "87c8e0f4bd2697905c334dab6f5d5e1541aa4152f5188a03e67533767cd88c1c"
+    },
+    {
+      "file": "preflight/b16-cue-5262.jpg",
+      "sha256": "e2cb81f42c3c14c0fb713bbcdfacf5df5e22e00b0945b0c0b69bc8fdeb896b10"
+    },
+    {
+      "file": "preflight/b16-late-5380.jpg",
+      "sha256": "3973fef74a823084d168ab26f84afddc861036b96ef1145c84a667b1ce25d67e"
+    },
+    {
+      "file": "preflight/b17-cue-5754.jpg",
+      "sha256": "589a80cdf162df5d382f6cfab8b78919a5035aa7bd685985bf550377ebf31736"
+    },
+    {
+      "file": "preflight/b17-late-5710.jpg",
+      "sha256": "1b1c5f59b8b143b742dc2280514ed750ed22b5d17027d1f21f7a6ebdb43094e2"
+    },
+    {
+      "file": "preflight/b18-cue-5912.jpg",
+      "sha256": "bb7ab283a823061e099c2a23ee4af4cd8286ae6e5766502554fb69b57e681845"
+    },
+    {
+      "file": "preflight/b18-late-6043.jpg",
+      "sha256": "7fb3e43a188f2f3a1d856e1d9e3d95666feca81f7698f3b74041455bbd1a3767"
+    },
+    {
+      "file": "preflight/b19-cue-6169.jpg",
+      "sha256": "c3b79af7da620ddc59c497f92192e1c09135c0cc1a3da2c634506cf27318f585"
+    },
+    {
+      "file": "preflight/b19-late-6397.jpg",
+      "sha256": "a676d361c076c86d0087da5654b6d863f8975b31bc691a8cc20194332523d783"
+    },
+    {
+      "file": "preflight/b20-cue-6515.jpg",
+      "sha256": "e85c3deee20b7180396c2fd68ad93c0207c1d60e8c76f903aa0d63564b878329"
+    },
+    {
+      "file": "preflight/b20-late-6763.jpg",
+      "sha256": "f9cb1b840361c1f8679bcb33a2366f9040d57c9656e05083fdf82fe0ba356fdb"
+    },
+    {
+      "file": "preflight/b21-cue-6979.jpg",
+      "sha256": "8e5ccdec313724e9dcd3910cb73fe6b7d7ed60a43c52c35a8b3e483110e52da6"
+    },
+    {
+      "file": "preflight/b21-late-7104.jpg",
+      "sha256": "31186b51faebd551a9563e40b5919868ceb02b124d19c0217edbd9288d9dda04"
+    },
+    {
+      "file": "preflight/b22-cue-7272.jpg",
+      "sha256": "36c0efe5c435ff30e62ff585199e88eb69d9bb89cf1f7bbc35218a11972ee602"
+    },
+    {
+      "file": "preflight/b22-late-7479.jpg",
+      "sha256": "9192f21362b5937454fe50feb0dbdd70dc2e7b09c4286a6ae65ab993ac97529e"
+    },
+    {
+      "file": "preflight/b23-cue-7832.jpg",
+      "sha256": "cf24c6b4f99b165cc3ad6d7c5a07976c041c99e148c0996edbedc0c443bdfe79"
+    },
+    {
+      "file": "preflight/b23-late-7829.jpg",
+      "sha256": "3e1d20c25880ee4fa0d3cea5fc88236a832c0a39d7c1d7cae3b22a053a6ce55b"
+    },
+    {
+      "file": "preflight/b24-cue-7995.jpg",
+      "sha256": "95943f56f4028e69d479d823e0af748a496bf7f1285f01a1ecc80f13831cc05f"
+    },
+    {
+      "file": "preflight/b24-late-8159.jpg",
+      "sha256": "e4ba9ab552559a8d4148685f18232b32faf4d30b9aae8cbcdb93482e2a98c961"
+    },
+    {
+      "file": "preflight/b25-cue-8384.jpg",
+      "sha256": "c82cc000d499ccb574878d7f60a0f359d29667cd6d7c92185b62282ec5e23d5e"
+    },
+    {
+      "file": "preflight/b25-late-8490.jpg",
+      "sha256": "5255e9b33c0024c20de0c9f7fb5d847e46c95e12544de91c7e70c1169aafe6af"
+    },
+    {
+      "file": "preflight/b26-cue-8688.jpg",
+      "sha256": "5239a7bde79e5f9c2c6c4da10697e6782a51f254fc1c900f8726c7d0fde3921c"
+    },
+    {
+      "file": "preflight/b26-late-8858.jpg",
+      "sha256": "307e528723e0fbf9988adf5da7f4528f72dd16249e9b20b17d4ea7c63a2cf7f9"
+    },
+    {
+      "file": "preflight/b27-cue-9069.jpg",
+      "sha256": "dcdf1944d4daafff7c5185a3cc03cfbfc587d88315a0a496bac8e9eeca885e8d"
+    },
+    {
+      "file": "preflight/b27-late-9227.jpg",
+      "sha256": "e74945d5fc0bc4eee90d694e9dbfa7fa39cb5320c612702d7afe8736af9c74df"
+    },
+    {
+      "file": "preflight/b28-cue-9343.jpg",
+      "sha256": "04869f58710f3fc2ab3725588cad62ebc03cf9e8b3031d5c01c853580887edd7"
+    },
+    {
+      "file": "preflight/b28-late-9563.jpg",
+      "sha256": "ee5d0e0624f97d882d9ab662b7e0bb1cf18480d44ccc0ffaec95edd7c289b849"
+    },
+    {
+      "file": "preflight/b29-cue-9660.jpg",
+      "sha256": "5ece3791a06e0e50a6fb02bc51c94fa252eab9d6c1d70f55b5e4ac92e1c3eae0"
+    },
+    {
+      "file": "preflight/b29-late-9937.jpg",
+      "sha256": "3561f666b87ed039cfcdb026f9b00273153cc8b0ee7bfc8621e08153049e0611"
+    },
+    {
+      "file": "preflight/b30-cue-10064.jpg",
+      "sha256": "46791c2cc0da5b3484cfb24bce60d2d839fccc2b1269b7a61039d0b99ac31dc6"
+    },
+    {
+      "file": "preflight/b30-late-10332.jpg",
+      "sha256": "8f5d771428b38a96dc06b5319bdf7b19226e98e0acf4e479879fc02ba737721a"
+    },
+    {
+      "file": "preflight/b31-cue-10626.jpg",
+      "sha256": "f459b176962aa35ca54025644b035ac360425eaf8b4889e22e01650205ed84e0"
+    },
+    {
+      "file": "preflight/b31-late-10676.jpg",
+      "sha256": "30bb106c1ff920cae79a720f69c0efa60fdba0a2096dc9dc26ae21f76330ee83"
+    },
+    {
+      "file": "preflight/b32-cue-10924.jpg",
+      "sha256": "b2990003d9631e732dce8dcb4b25fecdcbbaf24921fd662d95d0c763e8b64f7a"
+    },
+    {
+      "file": "preflight/b32-late-11033.jpg",
+      "sha256": "2074d526a72b0ea47b7c3a0805ac1158d2bdffc7de22146c124fb02891254769"
+    },
+    {
+      "file": "preflight/b33-cue-11146.jpg",
+      "sha256": "f66860a1fee577e6598249a163057945945df138e6bfb5320edd86e4337f30c7"
+    },
+    {
+      "file": "preflight/b33-late-11395.jpg",
+      "sha256": "8e97c74a6d98e1d9bd938509c022f76a4fd4ca91a68334f52a66d64cb59d531d"
+    },
+    {
+      "file": "preflight/b34-cue-11608.jpg",
+      "sha256": "2e78ac73a1fbb3ba230d35963ceef8a0890a4745e035a26557b5e43364638d84"
+    },
+    {
+      "file": "preflight/b34-late-11731.jpg",
+      "sha256": "019625cfa9b2fe2c0d064bd9bd338b5e90771cfd85eb309d6a021cc6815253f7"
+    },
+    {
+      "file": "preflight/b35-cue-11904.jpg",
+      "sha256": "e488947111606eb63961c71601773d9270e711a7cc30f9de9fcaca0727c79e8e"
+    },
+    {
+      "file": "preflight/b35-late-12077.jpg",
+      "sha256": "623df1affe983a3481a14bf94bcf6acde853ca4dc63da90fef92af3d009d394e"
+    },
+    {
+      "file": "preflight/b36-cue-12254.jpg",
+      "sha256": "d3ae1aaafa27a7081719ffb0609fec02ace8833a9f3a743daec681b05881d6cc"
+    },
+    {
+      "file": "preflight/b36-late-12409.jpg",
+      "sha256": "d1444ac6bd4520a3a5ea6c180433e6aa96837fd2a94d3b60bd3e5c5f20025281"
+    },
+    {
+      "file": "preflight/b37-cue-12525.jpg",
+      "sha256": "29cce79ec37d148c833b5912f15a55c7339ade6246f0a7ac04530158505a7bbb"
+    },
+    {
+      "file": "preflight/b37-late-12736.jpg",
+      "sha256": "aceeff45fc14c2cba13e6355bb8265ccb8817af6c626df23e0ffc2414fe2e824"
+    },
+    {
+      "file": "preflight/b38-cue-12858.jpg",
+      "sha256": "ae9d3ea34c4eae72e09527d25122d71680cf57afbf16b2b65239443b402b6325"
+    },
+    {
+      "file": "preflight/b38-late-13096.jpg",
+      "sha256": "81b3c7f86434a8b9327bd1739829799d565298043af3b5946344192e0771c21f"
+    },
+    {
+      "file": "preflight/b39-cue-13200.jpg",
+      "sha256": "b2f938a164e22436fcf6be020e2bc54f69dbe6869b91399f0f6128d49703a25c"
+    },
+    {
+      "file": "preflight/b39-late-13455.jpg",
+      "sha256": "3091e5f2ec4a3b5083bd9864f776d020b476886bd235ac5cc153423b5266feb6"
+    },
+    {
+      "file": "preflight/b40-cue-13587.jpg",
+      "sha256": "7cf5544301bd2dffb10d9e8f1dd446b2555cb3ee114a1c08305c75843c0351d6"
+    },
+    {
+      "file": "preflight/b40-late-13836.jpg",
+      "sha256": "01d1c9711ef83691e21b2c6874522bf1015f4338bbf073aa68f20b1989d8a6aa"
+    },
+    {
+      "file": "preflight/b41-cue-14041.jpg",
+      "sha256": "3c4e064f95f652d453c9557ac27fa3f3afe6d6bf29f98711d524ad5d295d9913"
+    },
+    {
+      "file": "preflight/b41-late-14223.jpg",
+      "sha256": "ba7be398d54ed98dae14fe41d7151f06f780ca5a6a7c584e42938cf6161b8aae"
+    },
+    {
+      "file": "preflight/b42-cue-14483.jpg",
+      "sha256": "1a2c3de418191572ace48c552a674a84bf7a195050b7201566ca3ac557edbea1"
+    },
+    {
+      "file": "preflight/b42-late-14631.jpg",
+      "sha256": "e023e3a956c2ec7b923849acc21fc6e636f0ee25250f8204e7a67a9f92e997b8"
+    },
+    {
+      "file": "preflight/b43-cue-14957.jpg",
+      "sha256": "dba6e8c5e5587b1d0bbea3562163ed4d353a9ac8f7550e74381806f25b40582d"
+    },
+    {
+      "file": "preflight/b43-late-15032.jpg",
+      "sha256": "8f6cf63a71e436c28bd7db190a186289e8ddb8bb51b1fac5b89b099712dcc987"
+    },
+    {
+      "file": "preflight/b44-cue-15184.jpg",
+      "sha256": "df5751c73bb6ae01f94c77589fa0d83804447d7417fb8a14cc1bffce9a81afac"
+    },
+    {
+      "file": "preflight/b44-late-15401.jpg",
+      "sha256": "7fb6ccc4f43bc42259f94d99a0bd9c4aafaaf328d2e64479003039b23c68c4fb"
+    },
+    {
+      "file": "preflight/b45-cue-15712.jpg",
+      "sha256": "0996eff9cd00be3cbc0a42af523710ac71deeea6c92d15103a6e1d950e562b7c"
+    },
+    {
+      "file": "preflight/b45-late-15760.jpg",
+      "sha256": "2da37bfcff081e744f438f0f3ac8c6c2022c93fd63c89fff38ea147090a3dd72"
+    },
+    {
+      "file": "preflight/b46-cue-15892.jpg",
+      "sha256": "3a8d071cf599d8ca174b4090c11b189a3e4645c57bda6a27850ac99340be069c"
+    },
+    {
+      "file": "preflight/b46-late-16092.jpg",
+      "sha256": "436d85dd6690cefc3b856fedafc36880c0077b774516ce7cd9c7542e01da394a"
+    },
+    {
+      "file": "preflight/b47-cue-16174.jpg",
+      "sha256": "06c238bf1b2bff43d0906050b0cb936ed0ac0e61920f49f8ccf7673d09b3ed21"
+    },
+    {
+      "file": "preflight/b47-late-16486.jpg",
+      "sha256": "d0c550687ffa274fd2e675b0647b51e3102bf66abc190259ce558cb41a87d900"
+    },
+    {
+      "file": "preflight/b48-cue-16588.jpg",
+      "sha256": "897ef4d41a51596e2587a867bd5595c7355704eed6852fa22801e8d575333cbc"
+    },
+    {
+      "file": "preflight/b48-late-16859.jpg",
+      "sha256": "8c9c1fe817bf7d016603ad2a4d49133e602b836f86292b1023664fb21ba395c3"
+    },
+    {
+      "file": "preflight/b49-cue-16949.jpg",
+      "sha256": "d3b3f9ca571370465b9221b1d91f432242bb0245526b65a7c04771e9211f8e02"
+    },
+    {
+      "file": "preflight/b49-late-17249.jpg",
+      "sha256": "c5c873b79b684c0eeb1e4fc9ad0b2858df8f2a4e23528dcb221841b30c10cd6a"
+    },
+    {
+      "file": "preflight/b50-cue-17460.jpg",
+      "sha256": "c55b33cca709bfe3220739fe95ad888bc5b029007268243621e846b16a2bade5"
+    },
+    {
+      "file": "preflight/b50-late-17653.jpg",
+      "sha256": "e83165ccefbe17acc6bfe113ae2fb25c890f08304afa0ecd1656f4d94bdb540b"
+    }
+  ],
+  "continuousAVReview": false,
+  "userApproval": "pending"
+}

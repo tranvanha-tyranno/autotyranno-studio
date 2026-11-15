@@ -1,0 +1,609 @@
+{
+  "schema": "economy-story-preflight-editorial/1",
+  "revision": "r02",
+  "date": "2026-11-14",
+  "reviewer": "Codex economics_script independent visual/editorial review",
+  "status": "sampled-frames-acceptable-with-context-limits",
+  "scope": {
+    "openedContactSheets": [
+      "r02/preflight/sheet-01.jpg",
+      "r02/preflight/sheet-02.jpg",
+      "r02/preflight/sheet-03.jpg",
+      "r02/preflight/sheet-04.jpg"
+    ],
+    "sampledFrames": 50,
+    "individualFramesOpened": [
+      "e19",
+      "e36",
+      "e40",
+      "e56"
+    ],
+    "method": "Opened allfour actual r02sheets with50mid-scene frames; compared all50 against frozen narration and prior r01review. Opened individual repaired frames for flour,basket,e40sequencing and closing bread.",
+    "notAssessed": [
+      "continuous motion",
+      "continuous audiovisual playback or listening",
+      "every caption or frame",
+      "full-duration decode",
+      "user aesthetic approval"
+    ]
+  },
+  "blockingFindings": [],
+  "repairedFindings": [
+    {
+      "id": "contain-foreground-displaced",
+      "status": "observed-fixed-in-all22previously-flagged-samples",
+      "observation": "Sharp foreground photographs now visible; blurred content confined to filler edges. Portrait subjects and objects preserved."
+    },
+    {
+      "id": "e40-derived-answer-early",
+      "status": "observed-fixed",
+      "observation": "e40shows only income+5percent and basket+8percent. Derived-2.78percent appears in e41."
+    }
+  ],
+  "fontFindings": "No missing Vietnamese glyphs, clipped diacritics, headline overlap or caption panel clipping observed in the50samples. Credits and illustrative notes remain small in contact sheets; individual outputs are readable at larger size. This is not a guarantee for unseen frames.",
+  "arithmeticFindings": "All inspected displayed numerical results are correct:20k→22k→22440; residual3k→2.5k;22k→20k is-9.09percent; basket4percent; real purchasing power-2.78percent;100g→90g unit-price+11.11percent.",
+  "semanticLimits": "Photographs supply context for bread,baking,flour,fuel,shopping,receipts,money and logistics. They do not prove fictional prices,margin changes,income,beliefs or identity. Abstract mechanisms remain narration-led; no independent empirical inflation statistics are inferred. e22oven context does not visually prove a customer queue; e47bread does not prove measured weight comparison. These limits are acceptable for explicitly illustrative narration.",
+  "retainedInvariants": {
+    "narrationAndSegmentTimingEqual": true,
+    "captionsEqual": true,
+    "wordsEqual": true,
+    "durationFramesEqual": true,
+    "mixDependencyHashEqual": true,
+    "audioSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "audioHashScope": "Dependency hash equality, not a claim of listening or subjective mix approval."
+  },
+  "propsSHA256": "39b747b2f16b99e923ca4487035336546eb43dda5b11d142df90af5d0519bc30",
+  "perBeat": [
+    {
+      "id": "e01",
+      "frameFile": "r02/preflight/beat-e01-00182.jpg",
+      "headline": "Lạm phát giảm. Sao bánh chưa rẻ?",
+      "narration": "Ổ bánh mì tăng từ hai mươi lên hai mươi hai nghìn. Nghe tin lạm phát giảm, khách quay lại, giá vẫn cao. Chị Hạnh bán bánh cũng chẳng thấy mình giàu hơn. Vậy tiền đang mắc ở đâu?",
+      "visual": "photo",
+      "observations": "Actual filled roll cross-section supports food context. No shown price evidence; hypothetical price is narration only. Opening title readable.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "8090ef58be415de0197a7e9401d8d4df21d554513edcca0c913fb13cf0e7cf28"
+    },
+    {
+      "id": "e02",
+      "frameFile": "r02/preflight/beat-e02-00537.jpg",
+      "headline": "Một tiệm hư cấu, một câu hỏi thật",
+      "narration": "Chị Hạnh và tiệm bánh là hư cấu. Giá, chi phí, lương và tỷ lệ đều để minh họa, không phải số liệu thị trường hiện tại. Video giải thích kinh tế phổ thông, không phải tư vấn tài chính cá nhân.",
+      "visual": "graphic",
+      "observations": "Explicit disclaimer readable beside bread photo; fiction and illustrative figures distinguished from personal advice.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "a14921b06d5263421f9bf60f647bdf67ef8945865c1da36fc7440b47ff42cc9d"
+    },
+    {
+      "id": "e03",
+      "frameFile": "r02/preflight/beat-e03-00912.jpg",
+      "headline": "Bảng giá chỉ kể nửa câu chuyện",
+      "narration": "Khách chỉ nhìn thấy tiền phải trả cho một ổ bánh. Nhưng phía sau quầy còn có bột, nhân, điện, vận chuyển và tiền thuê. Bảng giá nằm ở cuối một chuỗi quyết định, chứ không tự xuất hiện một mình.",
+      "visual": "photo",
+      "observations": "Kneading and flour/butter give input/production context; do not visibly prove transport, rent or actual cost amounts.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "256fc0f8b04884a2657f97c4ef920478b45905092682f6d10ee8a4980053328b"
+    },
+    {
+      "id": "e05",
+      "frameFile": "r02/preflight/beat-e05-01256.jpg",
+      "headline": "Đắt hơn và tăng nhanh hơn",
+      "narration": "Hai câu hỏi dễ bị trộn: hàng hóa đắt đến đâu, và giá đang tăng nhanh đến mức nào? Một câu nói về mặt bằng giá. Câu còn lại nói về tốc độ thay đổi của mặt bằng ấy.",
+      "visual": "graphic",
+      "observations": "Level versus rate labels match narration and Vietnamese diacritics remain visible.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "7b7fd0c2f4c6bb4772aabfebfa0ac4146891e5779bd673e4e282370bca0bb1a4"
+    },
+    {
+      "id": "e07",
+      "frameFile": "r02/preflight/beat-e07-01591.jpg",
+      "headline": "Một mặt hàng chưa phải cả nền kinh tế",
+      "narration": "Giá một ổ bánh tăng chưa đủ để kết luận cả nền kinh tế lạm phát. Tiệm có thể đổi nhân, kích cỡ hoặc vị trí. Lạm phát nói đến mức tăng giá rộng hơn của nhiều hàng hóa và dịch vụ.",
+      "visual": "photo",
+      "observations": "Market interaction supports broad everyday purchasing context; not evidence for the fictional shop or economy-wide inflation.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "285451952e659370d720eb529db52171248a17fd3f703de28a14553d8ae64cf3"
+    },
+    {
+      "id": "e08",
+      "frameFile": "r02/preflight/beat-e08-01933.jpg",
+      "headline": "20.000 → 22.000",
+      "narration": "Giữ nguyên chất lượng và kích cỡ. Năm đầu, bánh từ hai mươi lên hai mươi hai nghìn, tăng mười phần trăm. Đây là phép tính cho một mặt hàng minh họa, chưa phải chỉ số giá tiêu dùng của quốc gia.",
+      "visual": "graphic",
+      "observations": "20,000 to 22,000 and +10 percent correct; two visible columns align with first-year passage.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "bf3cfe85ff22d98e801a1c0e2cabedc2bf016d910a28398bbe54de72db87e328"
+    },
+    {
+      "id": "e09",
+      "frameFile": "r02/preflight/beat-e09-02291.jpg",
+      "headline": "Tăng chậm lại vẫn là tăng",
+      "narration": "Năm sau, giá chỉ tăng hai phần trăm. Hai mươi hai nghìn nhân một phẩy không hai, được hai mươi hai nghìn bốn trăm bốn mươi đồng. Giữ số lẻ để thấy phép tính, chưa làm tròn thành giá bán ngoài tiệm.",
+      "visual": "graphic",
+      "observations": "20,000 to 22,000 to 22,440 with 10 and 2 percent correct. Unrounded illustrative amount remains labeled.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "dc80be764fec8031448555d59702d32ab230d29b9cc1b8df1703e853191be6c1"
+    },
+    {
+      "id": "e10",
+      "frameFile": "r02/preflight/beat-e10-02651.jpg",
+      "headline": "10% xuống 2%, giá vẫn cao hơn",
+      "narration": "Tốc độ tăng giảm từ mười xuống hai phần trăm. Nhưng giá vẫn cao hơn trước. Nếu cả giỏ hàng vận động tương tự, đó là tình huống lạm phát hạ nhiệt mà mặt bằng giá chưa quay về chỗ cũ.",
+      "visual": "graphic",
+      "observations": "Same correct three-stage price path emphasizes slower positive growth, not falling prices.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "d3c382d3ea17f1c6ab79a07512f0a2400e02a203efc48f3314cf75d4f1e160ea"
+    },
+    {
+      "id": "e11",
+      "frameFile": "r02/preflight/beat-e11-03020.jpg",
+      "headline": "Giảm tốc không phải quay đầu",
+      "narration": "Chiếc xe đi chậm hơn nhưng chưa chạy lùi. Giá cũng vậy: tăng chậm hơn khác với giảm xuống. Muốn mặt bằng giá giảm, mức thay đổi chung phải âm, chứ không chỉ nhỏ hơn con số dương trước đó.",
+      "visual": "graphic",
+      "observations": "Flow labels describe slower positive movement. No numerical error observed.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "5642c3ad04e3328d8a8680ea1eea65d02a717c3d2ec0e15d17ba294b4cfecbff"
+    },
+    {
+      "id": "e13",
+      "frameFile": "r02/preflight/beat-e13-03422.jpg",
+      "headline": "So với thời điểm nào?",
+      "narration": "Người nhớ giá năm ngoái. Người nhớ giá vài năm trước. Họ nghe cùng tỷ lệ lạm phát mà hình dung hai khoảng cách khác nhau. Khi đọc tin, hãy tìm rõ kỳ so sánh: tháng trước, cùng kỳ, hay một mốc xa hơn.",
+      "visual": "photo",
+      "observations": "Sharp20,000VND note is now visible inside portrait contain; image gives money context only, not evidence for any comparison period.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "57ca44814e885a519832c22844101eb65022cfde26df97b185bbd0bc6e95bf26"
+    },
+    {
+      "id": "e14",
+      "frameFile": "r02/preflight/beat-e14-03796.jpg",
+      "headline": "Vậy vì sao giá tăng từ đầu?",
+      "narration": "Phép nhân chưa giải thích tại sao chị Hạnh thay bảng giá. Nó chỉ gỡ nhầm lẫn giữa mức và tốc độ. Để hiểu nguyên nhân, phải quay lại trước lúc cửa hàng mở cửa, nơi hóa đơn đầu vào được chốt.",
+      "visual": "photo",
+      "observations": "Kneading and flour support return to production/input context; they do not prove any fictional invoice.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "5ed86569da183e915b532b6ba393f89961375496270c14bf68702673fe9bde58"
+    },
+    {
+      "id": "e15",
+      "frameFile": "r02/preflight/beat-e15-04154.jpg",
+      "headline": "Một ổ bánh chia thành nhiều phần",
+      "narration": "Trong mô hình đơn giản, một ổ bánh bán hai mươi nghìn. Chi phí biến đổi là mười hai nghìn; tiền thuê và chi phí cố định được phân bổ năm nghìn ở sản lượng giả định. Còn ba nghìn, trước các khoản chưa đưa vào mô hình.",
+      "visual": "graphic",
+      "observations": "12,000 + 5,000 + 3,000 = 20,000 correct. Remainder label avoids presenting excluded-tax/owner-pay residual as net profit.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "9269d915931f513ca5cb8ed179c3c598c1a50ac8e27d2b6ff9fb03aa80c68f2f"
+    },
+    {
+      "id": "e16",
+      "frameFile": "r02/preflight/beat-e16-04538.jpg",
+      "headline": "Ba nghìn chưa phải tiền bỏ túi",
+      "narration": "Ba nghìn chưa là lợi nhuận ròng: còn thuế, khấu hao và công chủ tiệm chưa tính đủ. Tiền thuê trên mỗi ổ cũng thay đổi nếu số bánh bán khác đi. Đây là kính lúp giải thích, không phải sổ kế toán hoàn chỉnh.",
+      "visual": "graphic",
+      "observations": "Same correct decomposition and remainder label support explicit narration caveat.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "a82d62a9a729f928ce342d9631f4ff1ed33c0924395350a3e54849fb6d83de31"
+    },
+    {
+      "id": "e17",
+      "frameFile": "r02/preflight/beat-e17-04919.jpg",
+      "headline": "Đầu vào tăng, khoảng còn lại co",
+      "narration": "Nguyên liệu, bao bì và năng lượng làm chi phí biến đổi tăng lên mười bốn nghìn năm trăm. Tiệm nâng giá lên hai mươi hai nghìn. Giữ cách phân bổ cũ, phần còn lại chỉ còn hai nghìn năm trăm, thấp hơn trước.",
+      "visual": "graphic",
+      "observations": "20,000 / remainder3,000 versus22,000 / remainder2,500 matches model. Variable inputs not repeated onscreen; narration carries the12,000→14,500 change.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "7b594fa2bd62a20346e87d3f89106e6b1003dacef70db72d5bbeee47a2ab7d06"
+    },
+    {
+      "id": "e18",
+      "frameFile": "r02/preflight/beat-e18-05283.jpg",
+      "headline": "Doanh thu tăng không bảo đảm lãi tăng",
+      "narration": "Khách trả thêm hai nghìn, nhưng chi phí biến đổi tăng hai nghìn năm trăm. Vậy giá bán tăng mà phần dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bảng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này.",
+      "visual": "graphic",
+      "observations": "Same comparison correctly shows higher selling price and lower residual; no net-profit claim in visual.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "6228781ec49c73e12fc25f09cd88d4caef6f1b0609bc9d40e2e9f61368f91370"
+    },
+    {
+      "id": "e19",
+      "frameFile": "r02/preflight/beat-e19-05630.jpg",
+      "headline": "Bột và dầu đi vào bữa sáng",
+      "narration": "Bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hụt có thể làm người bán trả nhiều hơn. Nếu nhiều doanh nghiệp gặp sức ép tương tự, chi phí có thể lan sang giá hàng tiêu dùng.",
+      "visual": "photo",
+      "observations": "Sieve, falling flour and hands are clearly visible in complete portrait crop. Supports flour/input work only, not real measured cost changes or fictional identity.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "6f06c19cc735b560f624337daada77e819037c3e386fcbf6957de30b1d289c4b"
+    },
+    {
+      "id": "e20",
+      "frameFile": "r02/preflight/beat-e20-05971.jpg",
+      "headline": "Nhiên liệu không chỉ ở cây xăng",
+      "narration": "Nhiên liệu đắt hơn có thể đi vào cước giao hàng, vận hành máy móc và phân phối. Khách không mua dầu thô cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chuỗi cung ứng trước khi hàng tới quầy.",
+      "visual": "photo",
+      "observations": "Real Vietnamese fuel station visibly supports fuel context. No posted price is presented as current data.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "dd31001cd917999c40c63fb09aa68bb9ba394a1681d5c67d1e967eceadfac4a9"
+    },
+    {
+      "id": "e21",
+      "frameFile": "r02/preflight/beat-e21-06329.jpg",
+      "headline": "Không phải chi phí nào cũng chuyển hết",
+      "narration": "Đầu vào tăng không có nghĩa giá bán luôn tăng đúng bấy nhiêu. Chủ tiệm còn chịu cạnh tranh và sức mua của khách. Có nơi chấp nhận giảm phần dư, có nơi đổi cách vận hành, có nơi mới tăng giá.",
+      "visual": "photo",
+      "observations": "Market interaction supports choice/competition context, not proof of cost pass-through.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "7f2f21807d366695819867e458d87d31d67de0386f371b0ddb9593cc3be8f7e2"
+    },
+    {
+      "id": "e22",
+      "frameFile": "r02/preflight/beat-e22-06689.jpg",
+      "headline": "Một nguyên nhân khác: khách tăng",
+      "narration": "Đổi tình huống: nguyên liệu chưa tăng giá, nhưng quanh tiệm có thêm người làm việc. Lượng khách muốn mua nhiều hơn trong khi lò nướng, quầy và thời gian phục vụ vẫn như cũ. Sức ép lúc này đến từ nhu cầu.",
+      "visual": "photo",
+      "observations": "Both baked-bread/oven panels are now visible. They support bakery/capacity context; no visible queue proves the fictional demand increase.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "5d09470ce04e2c9feacfccca0c452391213fd8a58f6a325460ccc1b66ebdce1f"
+    },
+    {
+      "id": "e23",
+      "frameFile": "r02/preflight/beat-e23-07048.jpg",
+      "headline": "Nhu cầu vượt khả năng đáp ứng",
+      "narration": "Chị Hạnh có thể tăng ca, mua thiết bị hoặc thuê người, nhưng cần thời gian. Khi cung ứng chưa theo kịp, người bán có thêm điều kiện tăng giá. Cơ chế tương tự trên diện rộng có thể tạo áp lực lạm phát.",
+      "visual": "photo",
+      "observations": "Bread and hand at oven now visible; supports equipment/production context, not a measured capacity limit.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "fd901796dca9366522869cb4ad94eb76161135059e4f0cfd490137e6179885d3"
+    },
+    {
+      "id": "e25",
+      "frameFile": "r02/preflight/beat-e25-07404.jpg",
+      "headline": "Lời đồn ngày mai cũng ảnh hưởng hôm nay",
+      "narration": "Còn mắt xích kỳ vọng. Nếu tin nguyên liệu sắp đắt hơn, chủ tiệm có thể cân nhắc giá sớm. Nếu lo sức mua giảm, người lao động có thể đề nghị tăng lương. Những dự tính ấy ảnh hưởng quyết định hiện tại.",
+      "visual": "photo",
+      "observations": "Sharp VND note visible against blurred filler edges. Context for monetary expectations only; cannot photograph beliefs.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "049fd848a32bb2cd06ec0163f249914b351e9259d5433496453cfb586fabd507"
+    },
+    {
+      "id": "e26",
+      "frameFile": "r02/preflight/beat-e26-07779.jpg",
+      "headline": "Kỳ vọng không phải định mệnh",
+      "narration": "Không có nghĩa cứ tăng lương là gây lạm phát, hay dự báo đều tự thành thật. Năng suất, cạnh tranh, lợi nhuận và điều kiện kinh tế còn chen vào. Kỳ vọng là một kênh tác động, không phải nút duy nhất điều khiển giá.",
+      "visual": "photo",
+      "observations": "Sharp VND note visible; no wage or real-person financial behavior is inferred from it.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "dd6491abf75f553598792da9688bdc16e41cdab74c9ec455368443603cc8659e"
+    },
+    {
+      "id": "e27",
+      "frameFile": "r02/preflight/beat-e27-08166.jpg",
+      "headline": "Một tiệm không đại diện mọi doanh nghiệp",
+      "narration": "Đừng từ chị Hạnh mà kết luận mọi người bán chịu thiệt. Có doanh nghiệp tăng được biên lợi nhuận khi nhu cầu mạnh hoặc cạnh tranh yếu. Có nơi không làm được. Cần dữ liệu về chi phí và kết quả kinh doanh để phân biệt.",
+      "visual": "photo",
+      "observations": "Both market interaction and street-commerce photographs visible; contextual commerce illustration, not evidence of actual profit changes.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "3379a6fd34e9309471280767eaaaaf54681b31c24ec35cf1ec136557415c99aa"
+    },
+    {
+      "id": "e28",
+      "frameFile": "r02/preflight/beat-e28-08555.jpg",
+      "headline": "Từ chuyện tăng giá tới chuyện giữ giá",
+      "narration": "Ta có ba lối vào: chi phí, nhu cầu và kỳ vọng. Nhưng khách vẫn hỏi: nếu vận chuyển bớt căng, nguyên liệu bớt đắt, tại sao bảng giá chưa hạ? Câu trả lời nằm ở cấu trúc chi phí và cạnh tranh.",
+      "visual": "photo",
+      "observations": "Fuel photo supports return to input/logistics costs, but it is only context for transport and not evidence of actual cost reductions.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "c9e16c6349653a8f35b1c8f789b69f2d8627673e007bc276d4aeda929cb3150b"
+    },
+    {
+      "id": "e29",
+      "frameFile": "r02/preflight/beat-e29-08954.jpg",
+      "headline": "Một khoản giảm chưa kéo cả giá xuống",
+      "narration": "Cước giao hàng giảm, nhưng tiền thuê vẫn theo hợp đồng, lương đã thỏa thuận chưa đổi, vài nguyên liệu khác còn tăng. Tổng chi phí có thể chỉ tăng chậm lại, thay vì về mức cũ. Không thể nhìn một hóa đơn để đoán tất cả.",
+      "visual": "photo",
+      "observations": "Hands holding long receipt clearly visible; supports bill/cost context, not measured rent,wages or the specific hypothetical contracts.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "22b061bcbb0a85cc6fbed4bf45ac459062faf8b4ec874a4237eecc7bbbb61a08"
+    },
+    {
+      "id": "e30",
+      "frameFile": "r02/preflight/beat-e30-09330.jpg",
+      "headline": "Hợp đồng và tồn kho có độ trễ",
+      "narration": "Dù giá mua mới thấp hơn, tiệm có thể còn dùng lô hàng giá cao hoặc thực hiện hợp đồng cũ. Đây là tình huống minh họa độ trễ; không phải bằng chứng mọi cửa hàng đều có cùng lý do giữ giá.",
+      "visual": "photo",
+      "observations": "Flour/butter photo supports input inventory context only, not proof of age or contract terms.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "7ef3bdb6594082695e8bf3441b74f083989fb1fb0fc760b740020cf540a5d398"
+    },
+    {
+      "id": "e31",
+      "frameFile": "r02/preflight/beat-e31-09700.jpg",
+      "headline": "Giá bán còn tùy khách có lựa chọn nào",
+      "narration": "Chi phí giảm bền vững và cạnh tranh mạnh tạo động lực hạ giá giữ khách. Nếu khách khó chuyển nơi mua, sức ép ấy có thể yếu hơn. Giá không chỉ là chi phí cộng một con số cố định trong mọi hoàn cảnh.",
+      "visual": "photo",
+      "observations": "Clear market interaction beside bread-basket shop display. Supports alternatives/commerce context; no numerical competitive effect asserted.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "b619f9510d7f0e1a25c79c3848f3b7d9a3a797e9c2bf0debd4ec965fbf61bee6"
+    },
+    {
+      "id": "e32",
+      "frameFile": "r02/preflight/beat-e32-10062.jpg",
+      "headline": "Giảm giá có thể xảy ra ở từng món",
+      "narration": "Một vài mặt hàng có thể rẻ đi trong khi mức giá chung tăng: nhóm này giảm nhưng nhóm khác tăng nhiều hơn. Vì thế, lạm phát còn dương không đồng nghĩa mọi món ở chợ đều tăng giá như nhau.",
+      "visual": "photo",
+      "observations": "Shopper/cart scene now visible in full. Context for shopping only, not evidence that pictured products decreased in price.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "97a23d25602ee65d2b27f3047c7d4c07570c3a3ecaf570e4a317ccd06170ccd8"
+    },
+    {
+      "id": "e33",
+      "frameFile": "r02/preflight/beat-e33-10400.jpg",
+      "headline": "Quay lại mức cũ là một yêu cầu khác",
+      "narration": "Muốn bánh từ hai mươi hai nghìn về hai mươi nghìn, giá phải giảm khoảng chín phẩy một phần trăm trên nền hiện tại. Nó khác hẳn chuyện tốc độ tăng từ mười xuống hai phần trăm ta tính ban đầu.",
+      "visual": "graphic",
+      "observations": "22,000 to20,000 and decline9.09 percent correct on current-price base. Two-column layout handles negative rate.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "b7ce32b4b3a23b912210db73a0a962bfc05c4622a65fbb3d672da6036178ab05"
+    },
+    {
+      "id": "e35",
+      "frameFile": "r02/preflight/beat-e35-10752.jpg",
+      "headline": "Sống dễ hơn còn cần thu nhập",
+      "narration": "Điều người mua quan tâm là thu nhập mua được bao nhiêu hàng hóa và dịch vụ. Giá không quay về quá khứ vẫn có thể đi cùng sức mua tốt hơn, nếu thu nhập tăng nhanh hơn chi phí sinh hoạt phù hợp với họ.",
+      "visual": "photo",
+      "observations": "Shopper/cart photograph now sharp within contain area. Household purchasing context only; no claim about that person income.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1f5034444f3c89872fc2c950ca78ba63c6ba8e09dbdfecbf5929f1a80ebc8346"
+    },
+    {
+      "id": "e36",
+      "frameFile": "r02/preflight/beat-e36-11124.jpg",
+      "headline": "Một con số chung, nhiều cuộc sống",
+      "narration": "Hãy nhìn cả giỏ chi tiêu. Chỉ số giá tiêu dùng dùng nhiều nhóm hàng và quyền số, không hỏi riêng ổ bánh sáng nay. Khoản chiếm tỷ trọng lớn hơn trong giỏ sẽ tác động mạnh hơn tới kết quả chung.",
+      "visual": "photo",
+      "observations": "Full shopper/cart scene and long-receipt hands now visible beside basket narration. These are contextual examples, not official basket survey evidence.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1be1b49f4517a1cda88850666824d9213d0a298bc4faba0d54a984085e961f17"
+    },
+    {
+      "id": "e37",
+      "frameFile": "r02/preflight/beat-e37-11537.jpg",
+      "headline": "Mô hình giỏ hàng 100 phần",
+      "narration": "Giỏ giả định có một trăm phần chi tiêu: bốn mươi cho ăn uống, ba mươi cho nhà ở, hai mươi cho đi lại, mười cho phần khác. Tỷ trọng này chỉ để tính dễ, không mô tả hộ gia đình Việt Nam trung bình.",
+      "visual": "graphic",
+      "observations": "40/30/20/10 weights and total100 correct. Inflation result intentionally absent in this step.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1d5aa7b096b1775f0543ac2bf40e45defb449c77b1544dae57a00b8c1e617a21"
+    },
+    {
+      "id": "e38",
+      "frameFile": "r02/preflight/beat-e38-11962.jpg",
+      "headline": "Một nhóm tăng 10%, giỏ tăng 4%",
+      "narration": "Ăn uống tăng mười phần trăm, ba nhóm còn lại đứng giá, giỏ tăng bốn phần trăm nếu giữ nguyên lượng mua. Món bạn thấy tăng mạnh không nhất thiết làm chỉ số chung tăng cùng tỷ lệ, vì nó chỉ chiếm một phần giỏ.",
+      "visual": "graphic",
+      "observations": "Food10percent times40percent weight gives whole-basket4percent; displayed categories and rates match model.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1bd6524a83de0ce6f25bd491abcb295e58d174f9272fec5b9bc7c4812e26a662"
+    },
+    {
+      "id": "e39",
+      "frameFile": "r02/preflight/beat-e39-12361.jpg",
+      "headline": "Giỏ cá nhân có thể khác giỏ trung bình",
+      "narration": "Nhà có con nhỏ, người thuê trọ và người đi làm xa chi tiêu khác nhau. Nếu khoản bạn mua nhiều tăng mạnh, áp lực thực tế có thể cao hơn bình quân. Cảm giác khó khăn không vì thế mà tự động thành sai.",
+      "visual": "photo",
+      "observations": "Shopper visible with cart; different-basket narration remains conceptual, not claimed biographical facts.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "bc60398c76327a9b51bcb5733c8a2453ab9c8738f2238e861f8edb0affbfe771"
+    },
+    {
+      "id": "e40",
+      "frameFile": "r02/preflight/beat-e40-12748.jpg",
+      "headline": "Lương tăng vẫn có thể mua ít hơn",
+      "narration": "Thu nhập giả định từ mười lên mười triệu rưỡi, tăng năm phần trăm. Cùng lúc, giỏ hàng phù hợp tăng tám phần trăm. Tiền nhận nhiều hơn nhưng chưa theo kịp số tiền cần để mua lượng hàng cũ.",
+      "visual": "graphic",
+      "observations": "Only +5percent income and +8percent basket are shown; premature -2.78percent result removed. Correctly leaves derivation for e41.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "d929fc133ec4402dfcdc7372d907c36a1c4fff63610d1a21d65923d3123ac0b4"
+    },
+    {
+      "id": "e41",
+      "frameFile": "r02/preflight/beat-e41-13140.jpg",
+      "headline": "Sức mua giảm khoảng 2,8%",
+      "narration": "Một phẩy không năm chia một phẩy không tám, trừ một, sức mua giảm khoảng hai phẩy tám phần trăm. Trừ năm với tám chỉ là ước lượng gần. Lương danh nghĩa tăng chưa đủ để kết luận đời sống khá lên.",
+      "visual": "graphic",
+      "observations": "Derived -2.78percent matches(1.05/1.08-1)*100. Display105÷108−1 gives ratio change before percent conversion; result convention is understandable, adding parentheses and percent conversion could be clearer but no wrong computed result.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1f02ff99b4854046b39fffc088cf97a9c75c587151aae5962c1909b781d4bbb8"
+    },
+    {
+      "id": "e42",
+      "frameFile": "r02/preflight/beat-e42-13558.jpg",
+      "headline": "Giữ giá nhưng bớt lượng hàng",
+      "narration": "Giá niêm yết không đổi mà lượng hàng giảm: hai mươi nghìn mua một trăm gram, rồi chỉ mua chín mươi gram. Giá mỗi gram tăng khoảng mười một phẩy một phần trăm. So sánh đúng cần nhìn cả lượng và chất lượng.",
+      "visual": "graphic",
+      "observations": "100g→90g at20,000 each gives +11.11percent per gram, correctly distinguished from10percent quantity decrease.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "a5433b5063e0b2e5aaea211ef0d587ca195ef163adbdf3a1fcd727cba377cc30"
+    },
+    {
+      "id": "e43",
+      "frameFile": "r02/preflight/beat-e43-13951.jpg",
+      "headline": "Chữa đúng nguyên nhân",
+      "narration": "Làm gì để giá tăng bớt nhanh? Nếu vướng nguồn cung, giải pháp có thể nằm ở lưu thông, năng lực sản xuất và sử dụng đầu vào hiệu quả hơn. Nếu cầu quá nóng, chỉ sửa đường vận chuyển có thể chưa đủ.",
+      "visual": "photo",
+      "observations": "Container ship and cargo visibly preserved; supports freight/supply-chain context. No claim that this is a Vietnamese port or current shipment.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "c97d3232d95bb8f1913c990fd4036cd619dc009b6d71ca140d9209abcd6eae19"
+    },
+    {
+      "id": "e44",
+      "frameFile": "r02/preflight/beat-e44-14319.jpg",
+      "headline": "Lãi suất tác động qua quyết định chi tiêu",
+      "narration": "Một công cụ là lãi suất. Khi chi phí vay tăng, một số gia đình và doanh nghiệp có thể hoãn mua sắm hoặc đầu tư. Nhu cầu chậm lại có thể giảm sức ép giá, nhưng tác động không tức thì hay đồng đều.",
+      "visual": "photo",
+      "observations": "VND note and hands holding receipt both visible. Context for borrowing/household decisions, not actual interest rate figures.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "9e4f3d187878183e21ec88e6bd4b88e9164e2a08ec0edf640e555b61f1fcbb12"
+    },
+    {
+      "id": "e45",
+      "frameFile": "r02/preflight/beat-e45-14704.jpg",
+      "headline": "Công cụ ấy cũng có cái giá",
+      "narration": "Khách bớt mua thì tăng giá khó hơn, nhưng doanh thu và việc làm có thể chịu áp lực. Lãi suất không tự tạo thêm bột hay xăng. Người điều hành phải cân nhắc nguyên nhân, độ trễ và những đánh đổi trong thực tế.",
+      "visual": "photo",
+      "observations": "Receipt hands now visible; billing context only. Narration correctly qualifies interest-rate channel and tradeoffs.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "5cec5a95b8d593535a2aec078b9ab0a933fb0ec69087935b46a34f753cb92fc9"
+    },
+    {
+      "id": "e46",
+      "frameFile": "r02/preflight/beat-e46-15089.jpg",
+      "headline": "Năng suất mở một con đường khác",
+      "narration": "Giảm bánh hỏng, sắp xếp ca làm và dùng thiết bị hiệu quả có thể tạo cùng lượng hàng với ít nguồn lực hơn. Năng suất cải thiện tạo khoảng trống cho lương và giá, dù không bảo đảm mọi lợi ích chuyển ngay tới khách.",
+      "visual": "photo",
+      "observations": "Visible dough kneading supports productive labor context, not verified productivity improvement or cost savings.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "89ade4c1579ef71c786b2b678358d7a405afa2c004451497d3f76278a15292aa"
+    },
+    {
+      "id": "e47",
+      "frameFile": "r02/preflight/beat-e47-15488.jpg",
+      "headline": "Cạnh tranh và thông tin cũng quan trọng",
+      "narration": "Người mua dễ so sánh khi khối lượng, chất lượng và giá được trình bày rõ. Tiệm làm tốt có cơ hội giữ khách bằng giá trị thật. Nhìn giá trên cùng đơn vị hữu ích hơn chỉ nhìn số tiền trên bao bì.",
+      "visual": "photo",
+      "observations": "Sharp baguette and sliced crumb visible; bread-quality context only, not evidence of specific package downsizing or comparable weights.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1ba8e78635f87268b75c5e377b42879955b525df006fd3b11aab14af2e39f80a"
+    },
+    {
+      "id": "e49",
+      "frameFile": "r02/preflight/beat-e49-15888.jpg",
+      "headline": "Tin tốt cần thời gian thành trải nghiệm tốt",
+      "narration": "Lạm phát hạ có ý nghĩa: áp lực tăng giá đang bớt theo thước đo báo cáo. Nhưng để gia đình thấy dễ thở hơn, còn cần nhìn mặt bằng giá đã tích lũy, thu nhập, việc làm và giỏ chi tiêu của họ.",
+      "visual": "photo",
+      "observations": "Two people with bills/calculator plus shopper visible; supports domestic budgeting context, no claim about their actual hardship/income.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "db9cfef20eba38dae660bf54f0b347081a66e6cfdde905195ab51b89ca1bde8e"
+    },
+    {
+      "id": "e50",
+      "frameFile": "r02/preflight/beat-e50-16277.jpg",
+      "headline": "Ba câu hỏi khi đọc bản tin",
+      "narration": "Nghe lạm phát giảm, hãy hỏi: giá tăng chậm hơn hay thực sự giảm; con số so với thời điểm nào; giỏ được đo có gần những khoản mình phải trả không? Ba câu ấy giúp đọc đúng ý nghĩa bản tin.",
+      "visual": "graphic",
+      "observations": "Three practical questions readable and correspond to narration: price versus slower growth, comparison period, basket composition.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "965c5e1d2fabc02a961606ce4ce535e81f52b2c774a8580f5251d5339df7297a"
+    },
+    {
+      "id": "e51",
+      "frameFile": "r02/preflight/beat-e51-16654.jpg",
+      "headline": "Một phép so sánh nhỏ cho tuần này",
+      "narration": "Giữ hóa đơn vài khoản mua thường xuyên, ghi khối lượng và chất lượng tương đương, rồi so theo thời gian. Đây là cách quan sát giỏ cá nhân, không phải cách tính lạm phát chính thức từ vài món quen thuộc.",
+      "visual": "photo",
+      "observations": "Receipt shown sharply; supports keeping/checking bills, without asserting unreadable receipt numbers as factual comparison.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "d614ad1e9f018d8f164c82296a69a8b61532cf1d4c95bddfa76c73e9d223bd2d"
+    },
+    {
+      "id": "e52",
+      "frameFile": "r02/preflight/beat-e52-17002.jpg",
+      "headline": "Đối chiếu cả phía thu nhập",
+      "narration": "Đặt thay đổi của giỏ cạnh thu nhập thực nhận và khoản bắt buộc khác. Mục đích là biết sức mua đổi ra sao để điều chỉnh kế hoạch, không phải tự trách bản thân vì mức giá mình không quyết định được.",
+      "visual": "photo",
+      "observations": "Receipt hands now visible; cost-side context only, actual wage comparison remains narrated method.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "1e043d5c71fc4f8b40a6173a33c927755cd89c70d928fffd982f0199b49684f7"
+    },
+    {
+      "id": "e53",
+      "frameFile": "r02/preflight/beat-e53-17333.jpg",
+      "headline": "Chị Hạnh vẫn ở giữa hai sức ép",
+      "narration": "Chị Hạnh không thể chỉ nhìn hóa đơn đầu vào rồi quên khách. Khách cũng không thể từ một lần tăng giá mà biết người bán lời hơn bao nhiêu. Cả hai cần bức tranh đầy đủ hơn tấm bảng trước cửa.",
+      "visual": "photo",
+      "observations": "Bread-basket display and filled baguette clearly visible. No real person is presented as fictional Hanh.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "e254087305b6be135056d285ac89f7cfe0876452ae8b2ccbedd7a163cfad358b"
+    },
+    {
+      "id": "e54",
+      "frameFile": "r02/preflight/beat-e54-17689.jpg",
+      "headline": "Câu trả lời nằm ở chữ tốc độ",
+      "narration": "Vì sao lạm phát giảm mà bánh vẫn đắt? Vì tốc độ tăng hạ trong khi giá đã ở nền cao hơn. Và vì sức mua còn phụ thuộc thu nhập, chứ không chỉ phụ thuộc tốc độ đổi giá một năm riêng lẻ.",
+      "visual": "graphic",
+      "observations": "20,000→22,000→22,440 and10percent→2percent correctly restate price-level callback.",
+      "status": "sampled-graphic-acceptable",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "e14e41cafbaf64f21273f76bcef38ec303208ab5938008fb4b0de068d6c64e29"
+    },
+    {
+      "id": "e55",
+      "frameFile": "r02/preflight/beat-e55-18080.jpg",
+      "headline": "Một bữa sáng, nhiều mối liên hệ",
+      "narration": "Ổ bánh nối đồng ruộng, nhiên liệu, chuyến xe, người làm và túi tiền người mua. Hiểu mối nối ấy giúp ta bớt vội kết luận, hỏi đúng điều cần kiểm chứng. Kinh tế bắt đầu từ những lựa chọn gần như thế mỗi ngày.",
+      "visual": "photo",
+      "observations": "Filled bread context clear. Single photograph does not establish entire causal supply chain; narration carries those conceptual links.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "bab1600ce48bb39a6a5103219eeee443e96a2a1732ddd47fb14cae7505a292a4"
+    },
+    {
+      "id": "e56",
+      "frameFile": "r02/preflight/beat-e56-18486.jpg",
+      "headline": "Bạn thấy khoản nào tăng rõ nhất?",
+      "narration": "Bạn thấy khoản chi nào đổi rõ nhất, so với mốc thời gian nào? Hãy bình luận cùng ví dụ cụ thể. Muốn nghe thêm chuyện kinh tế dễ hiểu từ đời sống, hãy đăng ký kênh và bật chuông để gặp nhau ở bài tiếp theo.",
+      "visual": "photo",
+      "observations": "Whole filled sandwich visible within portrait contain, with blur confined to filler edges. Clear visual callback to bread topic and readable CTA heading.",
+      "status": "sampled-frame-acceptable-context-only",
+      "diacritics": "No obvious missing Vietnamese glyph or clipped diacritic observed at sampled resolution. Not a pixel-bound guarantee for unseen frames.",
+      "frameSHA256": "aaab8c028007ca6229def6ebfc211e0ac666e853b8e6acd96bbd26848c92b6d8"
+    }
+  ],
+  "userApproval": "pending; sampled-frame review is not user aesthetic approval"
+}

@@ -1,0 +1,12 @@
+{
+  "events": {
+    "r06_feedback": "evt-000018-4504a133a712",
+    "proposal": "evt-000019-170d792d7e97",
+    "application": "evt-000020-28cfd8fb47d8",
+    "r07_scoped_feedback": "evt-000021-d1f42611c163",
+    "verification": "evt-000022-9197824c4faa",
+    "technical_check": "evt-000023-21cdb8fab897"
+  },
+  "ledger_head_sha256": "d7f8cb88a3c4155e3afcc0b500290f165f2fd8d083650f691ba16623da1a9c32",
+  "scope": "r07/c9 discount relation only; agent comparison, not whole-video or user approval"
+}

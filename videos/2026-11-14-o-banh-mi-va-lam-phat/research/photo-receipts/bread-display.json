@@ -1,0 +1,43 @@
+{
+  "id": "bread-display",
+  "file": "assets/bread-display.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 30826793,
+  "sourceURL": "https://www.pexels.com/photo/rustic-artisan-baguettes-at-bakery-30826793/",
+  "downloadURL": "https://images.pexels.com/photos/30826793/pexels-photo-30826793.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Magda Ehlers",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "9ca8a66d5b1ff8959ec7324f85741242dbf9de3115612cd91911a129e9311f6b",
+  "width": 2400,
+  "height": 1800,
+  "tags": [
+    "bread",
+    "shop"
+  ],
+  "credit": "Magda Ehlers / Pexels",
+  "expectedFromSource": "Bread display in bakery",
+  "observed": "Baguettes standing in a wooden barrel and paper sleeves inside a bread shop. Intrinsic sign includes R25; archival foreign shelf price must not be presented as the fictional shop price or current Vietnam price.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "9ca8a66d5b1ff8959ec7324f85741242dbf9de3115612cd91911a129e9311f6b"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Illustrates bread display only. Intrinsic foreign price signage is archival and unrelated to all hypothetical VND arithmetic. Not Hạnh’s shop or documentary evidence of Vietnam pricing.",
+  "reusedSource": null
+}

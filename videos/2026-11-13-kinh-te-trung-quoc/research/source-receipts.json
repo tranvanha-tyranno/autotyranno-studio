@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gdp",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261021_1965671.html",
+    "retrievedUTC": "2026-11-13T05:02:04.616682+00:00",
+    "sha256": "e8dce0c1bdccdb8154ff31e2cb0df51d36cef123b280249cf219495258c6d1a1"
+  },
+  {
+    "id": "property",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261020_1965663.html",
+    "retrievedUTC": "2026-11-13T05:02:07.674593+00:00",
+    "sha256": "94b50c9680d5f3f3ce2d7d191353bff93770ce335e2234ce40a0f61963ddf56b"
+  },
+  {
+    "id": "households",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261020_1965660.html",
+    "retrievedUTC": "2026-11-13T05:02:10.576145+00:00",
+    "sha256": "65b65cc744cd54c47b1a169c982958ff8f01a66dcaa1fb3133b6e6437fa89911"
+  },
+  {
+    "id": "population",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html",
+    "retrievedUTC": "2026-11-13T05:02:15.292650+00:00",
+    "sha256": "f7b86917d2ced5667c0d46b574b41d218b498695eb11cbb1c1a732589a66fdab"
+  },
+  {
+    "id": "worldbank",
+    "url": "https://www.worldbank.org/en/news/press-release/2026/07/07/rebalancing-growth-china-economic-update",
+    "retrievedUTC": "2026-11-13T05:02:15.943624+00:00",
+    "sha256": "ee191cab45b92c779229b2780a7ca225bb3a328eacdd775c53dafa19a1acb236"
+  }
+]

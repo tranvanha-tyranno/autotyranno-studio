@@ -1,0 +1,202 @@
+{
+  "attempt": "20261113T022611.232211Z-repair-6dd2d2",
+  "status": "completed",
+  "steps": [
+    {
+      "command": [
+        "C:\\Program Files\\nodejs\\node.EXE",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\node_modules\\@remotion\\cli\\remotion-cli.js",
+        "bundle",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\directions-entry.tsx",
+        "--out-dir=C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\bundle",
+        "--public-dir=C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\public",
+        "--log=info"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\bundle.log",
+      "startedUTC": "2026-11-13T02:26:12.474206+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 4.735
+    },
+    {
+      "command": [
+        "C:\\Program Files\\nodejs\\node.EXE",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\node_modules\\@remotion\\cli\\remotion-cli.js",
+        "render",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\bundle",
+        "DirectionPreview",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\patch-00.mp4",
+        "--props=C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\long\\props.json",
+        "--concurrency=1",
+        "--codec=h264",
+        "--crf=19",
+        "--log=info",
+        "--media-cache-size-in-bytes=268435456",
+        "--frames=2971-3278",
+        "--muted"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\patch-00.log",
+      "startedUTC": "2026-11-13T02:26:39.109672+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 58.297
+    },
+    {
+      "command": [
+        "C:\\Users\\tyranno\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+        "-y",
+        "-v",
+        "error",
+        "-i",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r06\\long\\final.mp4",
+        "-i",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\patch-00.mp4",
+        "-i",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\long\\audio\\final-mix.wav",
+        "-filter_complex",
+        "[0:v:0]trim=start_frame=0:end_frame=2971,setpts=PTS-STARTPTS,fps=30,setsar=1,scale=iw:ih:in_range=auto:out_range=tv:out_color_matrix=bt709,format=yuv420p,setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709[s0];[1:v:0]trim=start_frame=0:end_frame=308,setpts=PTS-STARTPTS,fps=30,setsar=1,scale=iw:ih:in_range=auto:out_range=tv:out_color_matrix=bt709,format=yuv420p,setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709[s1];[0:v:0]trim=start_frame=3279:end_frame=6150,setpts=PTS-STARTPTS,fps=30,setsar=1,scale=iw:ih:in_range=auto:out_range=tv:out_color_matrix=bt709,format=yuv420p,setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709[s2];[s0][s1][s2]concat=n=3:v=1:a=0[outv]",
+        "-map",
+        "[outv]",
+        "-map",
+        "2:a:0",
+        "-frames:v",
+        "6150",
+        "-c:v",
+        "libx264",
+        "-crf",
+        "19",
+        "-preset",
+        "medium",
+        "-pix_fmt",
+        "yuv420p",
+        "-color_primaries",
+        "bt709",
+        "-color_trc",
+        "bt709",
+        "-colorspace",
+        "bt709",
+        "-color_range",
+        "tv",
+        "-r",
+        "30",
+        "-t",
+        "205.000000000",
+        "-c:a",
+        "aac",
+        "-b:a",
+        "192k",
+        "-ar",
+        "48000",
+        "-ac",
+        "2",
+        "-movflags",
+        "+faststart",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\joined.mp4"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\splice.log",
+      "startedUTC": "2026-11-13T02:27:39.570808+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 63.39
+    },
+    {
+      "command": [
+        "C:\\Users\\tyranno\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\direction_qa.py",
+        "--batch",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\long",
+        "--public-source",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\production-public"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\repair-attempts\\20261113T022611.232211Z-repair-6dd2d2\\qa.log",
+      "startedUTC": "2026-11-13T02:29:27.699886+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 62.36
+    }
+  ],
+  "plan": {
+    "schema": "reference-video-repair-plan/1",
+    "previous": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r06\\long",
+    "current": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r07\\long",
+    "fps": 30,
+    "frames": 6150,
+    "changedShots": [
+      "c9"
+    ],
+    "intervals": [
+      {
+        "start": 2971,
+        "endExclusive": 3279,
+        "remotionFrames": "2971-3278",
+        "frames": 308
+      }
+    ],
+    "segments": [
+      {
+        "kind": "previous",
+        "start": 0,
+        "end": 2971,
+        "frames": 2971
+      },
+      {
+        "kind": "patch",
+        "patch": 0,
+        "start": 2971,
+        "end": 3279,
+        "frames": 308
+      },
+      {
+        "kind": "previous",
+        "start": 3279,
+        "end": 6150,
+        "frames": 2871
+      }
+    ],
+    "oldFinalSHA256": "8c8f3ea159fba96585499ea442bc6194e75ed530d7151ea7043c57f3b4527ca5",
+    "exactMixSHA256": "535115a6a2adc17b56a0eccb68af43af9f775cac98e10b0979e649ac6e2d2bb6",
+    "captionsUnchanged": true,
+    "timingUnchanged": true,
+    "userAcceptance": "pending",
+    "limitation": "Splice normalizes and re-encodes the entire video once; unchanged H264 pixels are not asserted byte-identical."
+  },
+  "renderOptions": {
+    "memoryProfile": "bounded",
+    "concurrency": 1,
+    "crf": 19,
+    "mediaCacheSizeInBytes": 268435456,
+    "scope": "Decoded @remotion/media cache budget only; not a total RAM cap or verified performance improvement."
+  },
+  "memoryAtStart": {
+    "totalPhysicalBytes": 16866832384,
+    "availablePhysicalBytes": 3457024000,
+    "method": "Windows GlobalMemoryStatusEx"
+  },
+  "aestheticAcceptance": "pending user feedback",
+  "patches": {
+    "0": {
+      "file": "patch-00.mp4",
+      "interval": {
+        "start": 2971,
+        "endExclusive": 3279,
+        "remotionFrames": "2971-3278",
+        "frames": 308
+      },
+      "decode": {
+        "decodedFrames": 308,
+        "fps": 30.0,
+        "sha256": "eced0d3f0d220df6fcc7cddb3506fd5b4b6ccfd2a97599c0d2a6c3250d52b7e8"
+      }
+    }
+  },
+  "joinedDecode": {
+    "decodedFrames": 6150,
+    "fps": 30.0,
+    "sha256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861"
+  },
+  "finalSHA256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861"
+}

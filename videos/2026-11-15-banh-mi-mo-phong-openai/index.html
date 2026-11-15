@@ -1,0 +1,10 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ổ bánh mì · Giá tiền và sức mua</title>
+<style>body{margin:0;background:#151915;color:#f6f2e6;font:16px system-ui,sans-serif}main{max-width:1200px;margin:5vh auto;padding:0 24px}h1{font-size:clamp(26px,4vw,42px);font-weight:600;line-height:1.2}video{width:100%;background:#000;aspect-ratio:16/9}p{color:#cecbbc;line-height:1.6}nav{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}button,a{background:#273329;color:#f6f2e6;border:1px solid #53604e;padding:10px 14px;border-radius:5px;font:inherit;cursor:pointer;text-decoration:none}button:hover,a:hover{background:#3b4e3d}.note{border-left:3px solid #cbb57f;padding-left:15px}.sources{font-size:14px;margin-top:28px}</style>
+<main><h1>Ổ bánh mì: giá tăng, tiền đi đâu?</h1>
+<p class="note">Bản thử mô phỏng và âm thanh mới · Giọng tạm: Nam Minh.<br>Phần giọng OpenAI chưa hoàn tất vì khóa hiện tại chưa được API chấp nhận.</p>
+<video id="film" controls preload="metadata" src="r02/visual-preview.mp4"></video>
+<nav><button data-time="0">Hai nghìn đi đâu?</button><button data-time="97.31">Giảm cái gì?</button><button data-time="155.36">Chi phí và tồn kho</button><button data-time="230.26">Lương và số bánh</button><button data-time="308.9">Ba phía của câu chuyện</button></nav>
+<a href="r02/visual-preview.mp4" download>Tải bản thử MP4</a>
+<p class="sources">Các số tiền là ví dụ minh họa. Hình thật tạo bối cảnh, không xác định các nhân vật hư cấu. Giọng đọc được tổng hợp bằng AI. <a href="research/sfx-attribution.txt">Nguồn hiệu ứng âm thanh</a></p>
+</main><script>document.querySelectorAll('button[data-time]').forEach(b=>b.addEventListener('click',()=>{let v=document.querySelector('video');v.currentTime=Number(b.dataset.time);v.play()}));</script></html>

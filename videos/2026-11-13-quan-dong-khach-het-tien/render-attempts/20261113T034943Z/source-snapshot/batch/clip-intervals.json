@@ -1,0 +1,173 @@
+{
+  "intervals": [
+    {
+      "shot": "h01",
+      "asset": "clip-busy-cafe",
+      "start": 0,
+      "end": 95,
+      "fps": 30
+    },
+    {
+      "shot": "h01",
+      "asset": "clip-espresso-extract",
+      "start": 0,
+      "end": 95,
+      "fps": 30
+    },
+    {
+      "shot": "h03",
+      "asset": "clip-espresso-flow",
+      "start": 0,
+      "end": 264,
+      "fps": 30
+    },
+    {
+      "shot": "u01",
+      "asset": "clip-phone-payment",
+      "start": 0,
+      "end": 115,
+      "fps": 30
+    },
+    {
+      "shot": "u02",
+      "asset": "clip-espresso-grinder",
+      "start": 0,
+      "end": 91,
+      "fps": 30
+    },
+    {
+      "shot": "u02",
+      "asset": "clip-pour-milk",
+      "start": 0,
+      "end": 91,
+      "fps": 30
+    },
+    {
+      "shot": "u06",
+      "asset": "clip-steam-milk",
+      "start": 0,
+      "end": 93,
+      "fps": 30
+    },
+    {
+      "shot": "u07",
+      "asset": "clip-pour-milk",
+      "start": 96,
+      "end": 202,
+      "fps": 30
+    },
+    {
+      "shot": "u09",
+      "asset": "clip-cafe-tables",
+      "start": 0,
+      "end": 104,
+      "fps": 30
+    },
+    {
+      "shot": "b08",
+      "asset": "clip-close-shift",
+      "start": 0,
+      "end": 101,
+      "fps": 30
+    },
+    {
+      "shot": "v01",
+      "asset": "clip-cafe-tables",
+      "start": 109,
+      "end": 205,
+      "fps": 30
+    },
+    {
+      "shot": "v03",
+      "asset": "clip-serve-coffee",
+      "start": 0,
+      "end": 100,
+      "fps": 30
+    },
+    {
+      "shot": "v05",
+      "asset": "clip-steam-milk",
+      "start": 98,
+      "end": 206,
+      "fps": 30
+    },
+    {
+      "shot": "v05",
+      "asset": "clip-espresso-extract",
+      "start": 100,
+      "end": 208,
+      "fps": 30
+    },
+    {
+      "shot": "p06",
+      "asset": "clip-serve-coffee",
+      "start": 105,
+      "end": 209,
+      "fps": 30
+    },
+    {
+      "shot": "m05",
+      "asset": "clip-espresso-flow",
+      "start": 269,
+      "end": 381,
+      "fps": 30
+    },
+    {
+      "shot": "m05",
+      "asset": "clip-espresso-extract",
+      "start": 213,
+      "end": 325,
+      "fps": 30
+    },
+    {
+      "shot": "a01",
+      "asset": "clip-close-shift",
+      "start": 106,
+      "end": 205,
+      "fps": 30
+    },
+    {
+      "shot": "a03",
+      "asset": "clip-serve-coffee",
+      "start": 214,
+      "end": 328,
+      "fps": 30
+    },
+    {
+      "shot": "a05",
+      "asset": "clip-espresso-extract",
+      "start": 330,
+      "end": 440,
+      "fps": 30
+    },
+    {
+      "shot": "a08",
+      "asset": "clip-espresso-flow",
+      "start": 386,
+      "end": 510,
+      "fps": 30
+    },
+    {
+      "shot": "e01",
+      "asset": "clip-busy-cafe",
+      "start": 100,
+      "end": 180,
+      "fps": 30
+    },
+    {
+      "shot": "e03",
+      "asset": "clip-serve-coffee",
+      "start": 333,
+      "end": 441,
+      "fps": 30
+    },
+    {
+      "shot": "e05",
+      "asset": "clip-close-shift",
+      "start": 210,
+      "end": 322,
+      "fps": 30
+    }
+  ],
+  "policy": "Normal playback; no loops, no repeated source interval. Intervals normalized to30fps even if source rate differs."
+}

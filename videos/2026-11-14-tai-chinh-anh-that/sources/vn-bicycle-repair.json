@@ -1,0 +1,32 @@
+{
+  "id": "vn-bicycle-repair",
+  "pexelsID": 14684121,
+  "sourceURL": "https://www.pexels.com/photo/women-and-man-fixing-bicycles-14684121/",
+  "creator": "Tran Le Tuan",
+  "theme": "repair",
+  "documentedLocation": "Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A person works on a bicycle beside two other people wearing conical hats.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-bicycle-repair.jpg",
+  "downloadURL": "https://images.pexels.com/photos/14684121/pexels-photo-14684121.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 3600,
+  "sha256": "10cbdd161b7a9afa2959e03110e36be99741cecc07cc4a05fb8b8d2754663989",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

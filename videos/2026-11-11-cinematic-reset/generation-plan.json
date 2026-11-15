@@ -1,0 +1,7 @@
+{
+  "video_calls_upper_bound": 1,
+  "image_calls": 0,
+  "tts_samples_upper_bound": 1,
+  "music_calls": 1,
+  "note": "Test one original scene first; no automatic retries."
+}

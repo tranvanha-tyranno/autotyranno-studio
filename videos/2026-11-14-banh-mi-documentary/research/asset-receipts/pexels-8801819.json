@@ -1,0 +1,48 @@
+{
+  "pexelsID": 8801819,
+  "pageURL": "https://www.pexels.com/video/person-checking-vegetables-in-the-supermarket-8801819/",
+  "title": "Person Checking Vegetables in the Supermarket",
+  "creator": "Mike Jones",
+  "tags": [
+    "market",
+    "groceries",
+    "shop",
+    "ingredients"
+  ],
+  "fps": [
+    23,
+    24,
+    25,
+    30,
+    50,
+    60
+  ],
+  "dimensions": [
+    "1280_720",
+    "1920_1080",
+    "720_1280",
+    "1080_1920",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "id": "pexels-8801819",
+  "file": "assets/raw/pexels-8801819.mp4",
+  "sha256": "69194a353d35b6a1b01e0420dee2d06ad6783f7a8ceddffd93599707c95d82ed",
+  "bytes": 2082121,
+  "durationSeconds": 10.01,
+  "downloadURL": "https://videos.pexels.com/video-files/8801819/8801819-hd_720_1280_24fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 1.674,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8801819.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 720,
+  "height": 1280
+}

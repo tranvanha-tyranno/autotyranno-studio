@@ -1,0 +1,42 @@
+{
+  "schema": "audio-stage-measurements/1",
+  "groups": {
+    "voice": {
+      "newCalls": 8,
+      "cacheHits": 0,
+      "generatedAudioSeconds": 592.41,
+      "confirmedCreditHeaders": 3954.0,
+      "unknownUsageCount": 0,
+      "providerWallSeconds": 199.437,
+      "firstRequestUTC": "2026-11-13T05:06:16.249967+00:00",
+      "lastRequestUTC": "2026-11-13T05:09:35.841813+00:00"
+    },
+    "soundEffects": {
+      "newCalls": 6,
+      "cacheHits": 0,
+      "generatedAudioSeconds": 41.38,
+      "confirmedCreditHeaders": 412.0,
+      "unknownUsageCount": 0,
+      "providerWallSeconds": 18.688,
+      "firstRequestUTC": "2026-11-13T05:03:21.987111+00:00",
+      "lastRequestUTC": "2026-11-13T05:03:41.025224+00:00"
+    },
+    "music": {
+      "newCalls": 3,
+      "cacheHits": 0,
+      "generatedAudioSeconds": 360.24,
+      "confirmedCreditHeaders": 0,
+      "unknownUsageCount": 3,
+      "providerWallSeconds": 41.548,
+      "firstRequestUTC": "2026-11-13T05:02:40.233728+00:00",
+      "lastRequestUTC": "2026-11-13T05:03:21.929115+00:00"
+    },
+    "reusedWithoutNewCalls": {
+      "musicAssets": 3,
+      "musicSeconds": 350.22,
+      "soundAssets": 2,
+      "soundSeconds": 3.17
+    }
+  },
+  "scope": "Provider-call elapsed time and generated source durations, not full production time; measured/labeled cached reuse separated from new calls."
+}

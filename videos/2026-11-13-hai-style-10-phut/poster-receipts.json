@@ -1,0 +1,14 @@
+[
+  {
+    "file": "poster-comic.jpg",
+    "source": "r02\\comic\\preflight\\b01-late-273.jpg",
+    "sha256": "7fbeade38250f67fcacb0de91f6f6c25449c686e6bc2d9ddf9d3b73fdba3d56d",
+    "purpose": "Viewer poster from actual rendered preflight; not additional footage"
+  },
+  {
+    "file": "poster-flow.jpg",
+    "source": "r02\\flow\\preflight\\b01-late-273.jpg",
+    "sha256": "2faeab8f563832c9d67de83b17120a2d9e25cbc6ef79a399ce7c3b7238574aff",
+    "purpose": "Viewer poster from actual rendered preflight; not additional footage"
+  }
+]

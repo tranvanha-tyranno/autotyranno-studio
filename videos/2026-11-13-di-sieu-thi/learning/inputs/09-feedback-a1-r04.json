@@ -1,0 +1,46 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r04",
+  "dimension": "visual_relevance",
+  "decision": "accepted",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "a1-graphic-visibility",
+    "narration": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.",
+    "start": 176.43333333333334,
+    "end": 185.56666666666666
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "At the actual180s r04 frame, the whole checklist is visible, including all three rows and illustrative footer. The white competing headline no longer covers Đồ ở nhà còn lại. This accepts only the observed graphic visibility, not actual household action, audio or the entire video.",
+  "action": "Retain this scoped fit/overlay correction; keep whole-video aesthetic, motion and auditory acceptance pending until those reviews actually occur.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r04/long/final.mp4",
+      "sha256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128"
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-a1-r04.jpg",
+      "sha256": "5ed13a674fde74daf4b133a65689c570a0f11c20e987639eead3fb919a95fe4f"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/render-graphic-visibility-r04-review.md",
+      "sha256": "68e546c24ed33a3a0de958afa72895a5e0d1d9ea84a98872d3dd04bac8f6cf9c"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/qa-r04.json",
+      "sha256": "440f06beade2af4b7a7c406949cbb89312486190757661e7b1a24e2c26002db1"
+    }
+  ]
+}

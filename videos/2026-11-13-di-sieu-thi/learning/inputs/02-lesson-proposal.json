@@ -1,0 +1,14 @@
+{
+  "title": "Name a price difference separately from the final total",
+  "category": "script",
+  "rule": "A comparison graphic must label final total, unit price and increase as distinct quantities matching the narration.",
+  "action": "For a difference, use explicit wording such as chi thêm or tăng thêm; retain both comparison totals, unit/count labels and hypothetical scope, then recheck arithmetic before rendering.",
+  "rationale": "The r01 label TỔNG CHI:+20.000đ could make the increase look like a final total, although the underlying comparison arithmetic was correct.",
+  "applies_to": [
+    "original price-comparison graphics",
+    "Vietnamese photo explainers"
+  ],
+  "source_feedback_ids": [
+    "evt-000001-79f6edc0b070"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "lesson_id": "evt-000008-159aee115b4d",
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r04",
+  "change": "Selected c12 price graphic and a1 checklist graphic now have fit=contain; a1 competing headline removed. No narration, captions, timing or mix changed. Final frame verification still pending.",
+  "evidence": [
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r04.json",
+      "sha256": "a6915544624ddf5c3334635de884f5f2520fc084ff3b5bec372495a0c9367ac7"
+    },
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/timeline-r04.json",
+      "sha256": "19ff1e3f488ed7ed8e6196db1ab113aec17a3bd05a3edb9785c286d07cf57b72"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/price-card-source.jpg",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/list-card-source.jpg",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+    }
+  ]
+}

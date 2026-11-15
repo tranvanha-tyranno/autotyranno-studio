@@ -1,0 +1,2635 @@
+{
+  "schema": "bread-local-word-alignment-review/1",
+  "requestHash": "38039d51b1047397c8bd70779f50446f472fa00dd67400f5341e0444a630a192",
+  "request": {
+    "audioSHA256": "9a670e24bca6c14c4b0673d76f7955ab2038d15f3900bf75bb59b746f9990f53",
+    "resampledSHA256": "9e8af252140767f9f9947e00e36233b2415db9b080e62dea80d559a919a6c76b",
+    "scriptSHA256": "752e523350d1f9c3491501b10c4d4bf599eb1708c378fd0a384d2d228d4415f5",
+    "parameters": {
+      "model": "small",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "language": "vi",
+      "beam_size": 3,
+      "best_of": 1,
+      "word_timestamps": true,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "repetition_penalty": 1.1,
+      "no_repeat_ngram_size": 3,
+      "local_files_only": true,
+      "mappingVersion": "asr-monotonic-known-text/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "giam-cai-gi",
+  "method": "ASR word-anchor mapping to known script; unmatched spans and within-word character times interpolated; not forced/phoneme alignment.",
+  "recognitionCache": "audio/local-word-alignment/cache/38039d51b1047397c8bd70779f50446f472fa00dd67400f5341e0444a630a192.json",
+  "recognitionCacheSHA256": "d02d0bbb04103826c5cf2ec2703e48662f3fafd1cd3158ee5e7190f8b27fed5b",
+  "durationSeconds": 57.888,
+  "quality": {
+    "normalizedTokenCount": 212,
+    "recognizedNormalizedTokens": 226,
+    "matchedTokenCount": 195,
+    "matchedTokenCoverage": 0.9198113207547169,
+    "sequenceSimilarity": 0.8904109589041096,
+    "unmatchedSpans": [
+      {
+        "normalizedStart": 19,
+        "normalizedEndExclusive": 20,
+        "text": "nghìn",
+        "start": 5.06,
+        "end": 5.38,
+        "seconds": 0.3200000000000003,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 39,
+        "normalizedEndExclusive": 40,
+        "text": "nghìn",
+        "start": 10.5,
+        "end": 11.6,
+        "seconds": 1.0999999999999996,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 45,
+        "normalizedEndExclusive": 46,
+        "text": "nghìn",
+        "start": 12.66,
+        "end": 12.66,
+        "seconds": 0.0,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 74,
+        "normalizedEndExclusive": 75,
+        "text": "kỳ",
+        "start": 21.12,
+        "end": 21.28,
+        "seconds": 0.16000000000000014,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 78,
+        "normalizedEndExclusive": 79,
+        "text": "lệch",
+        "start": 21.84,
+        "end": 21.98,
+        "seconds": 0.14000000000000057,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 81,
+        "normalizedEndExclusive": 82,
+        "text": "tin",
+        "start": 22.72,
+        "end": 22.88,
+        "seconds": 0.16000000000000014,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 107,
+        "normalizedEndExclusive": 108,
+        "text": "lạm",
+        "start": 30.24,
+        "end": 30.42,
+        "seconds": 0.18000000000000327,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 111,
+        "normalizedEndExclusive": 112,
+        "text": "chỉ",
+        "start": 31.0,
+        "end": 32.08,
+        "seconds": 1.0799999999999983,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 116,
+        "normalizedEndExclusive": 117,
+        "text": "rổ",
+        "start": 32.82,
+        "end": 33.0,
+        "seconds": 0.17999999999999972,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 118,
+        "normalizedEndExclusive": 119,
+        "text": "hàng",
+        "start": 33.2,
+        "end": 33.4,
+        "seconds": 0.19999999999999574,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 152,
+        "normalizedEndExclusive": 153,
+        "text": "hạnh",
+        "start": 42.44,
+        "end": 42.62,
+        "seconds": 0.17999999999999972,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 159,
+        "normalizedEndExclusive": 161,
+        "text": "lạm phát",
+        "start": 43.64,
+        "end": 44.04,
+        "seconds": 0.3999999999999986,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 164,
+        "normalizedEndExclusive": 165,
+        "text": "tự",
+        "start": 44.7,
+        "end": 44.9,
+        "seconds": 0.19999999999999574,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 181,
+        "normalizedEndExclusive": 182,
+        "text": "nếu",
+        "start": 49.02,
+        "end": 49.24,
+        "seconds": 0.21999999999999886,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 184,
+        "normalizedEndExclusive": 185,
+        "text": "hóa",
+        "start": 49.5,
+        "end": 49.82,
+        "seconds": 0.3200000000000003,
+        "needsReview": true
+      },
+      {
+        "normalizedStart": 196,
+        "normalizedEndExclusive": 197,
+        "text": "mẻ",
+        "start": 53.12,
+        "end": 53.28,
+        "seconds": 0.1600000000000037,
+        "needsReview": true
+      }
+    ],
+    "monotonicCorrections": [],
+    "estimatedOriginalWords": 37,
+    "originalWordCount": 212,
+    "words": [
+      {
+        "text": "Hãy",
+        "startChar": 0,
+        "endChar": 3,
+        "index": 0,
+        "start": 0.0,
+        "end": 0.34,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "giữ",
+        "startChar": 4,
+        "endChar": 7,
+        "index": 1,
+        "start": 0.34,
+        "end": 0.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đúng",
+        "startChar": 8,
+        "endChar": 12,
+        "index": 2,
+        "start": 0.54,
+        "end": 0.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chiếc",
+        "startChar": 13,
+        "endChar": 18,
+        "index": 3,
+        "start": 0.74,
+        "end": 0.96,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bánh",
+        "startChar": 19,
+        "endChar": 23,
+        "index": 4,
+        "start": 0.96,
+        "end": 1.1,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ấy,",
+        "startChar": 24,
+        "endChar": 27,
+        "index": 5,
+        "start": 1.1,
+        "end": 1.36,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cùng",
+        "startChar": 28,
+        "endChar": 32,
+        "index": 6,
+        "start": 1.36,
+        "end": 1.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lượng",
+        "startChar": 33,
+        "endChar": 38,
+        "index": 7,
+        "start": 1.82,
+        "end": 2.08,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nhân",
+        "startChar": 39,
+        "endChar": 43,
+        "index": 8,
+        "start": 2.08,
+        "end": 2.28,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "và",
+        "startChar": 44,
+        "endChar": 46,
+        "index": 9,
+        "start": 2.28,
+        "end": 2.48,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "kích",
+        "startChar": 47,
+        "endChar": 51,
+        "index": 10,
+        "start": 2.48,
+        "end": 2.64,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cỡ.",
+        "startChar": 52,
+        "endChar": 55,
+        "index": 11,
+        "start": 2.64,
+        "end": 2.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Từ",
+        "startChar": 56,
+        "endChar": 58,
+        "index": 12,
+        "start": 3.78,
+        "end": 4.14,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hai",
+        "startChar": 59,
+        "endChar": 62,
+        "index": 13,
+        "start": 4.14,
+        "end": 4.279999999999999,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "mươi",
+        "startChar": 63,
+        "endChar": 67,
+        "index": 14,
+        "start": 4.279999999999999,
+        "end": 4.42,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "lên",
+        "startChar": 68,
+        "endChar": 71,
+        "index": 15,
+        "start": 4.42,
+        "end": 4.62,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hai",
+        "startChar": 72,
+        "endChar": 75,
+        "index": 16,
+        "start": 4.62,
+        "end": 4.766666666666667,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "mươi",
+        "startChar": 76,
+        "endChar": 80,
+        "index": 17,
+        "start": 4.766666666666667,
+        "end": 4.913333333333333,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "hai",
+        "startChar": 81,
+        "endChar": 84,
+        "index": 18,
+        "start": 4.913333333333333,
+        "end": 5.06,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "nghìn",
+        "startChar": 85,
+        "endChar": 90,
+        "index": 19,
+        "start": 5.06,
+        "end": 5.38,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "là",
+        "startChar": 91,
+        "endChar": 93,
+        "index": 20,
+        "start": 5.38,
+        "end": 5.7,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tăng",
+        "startChar": 94,
+        "endChar": 98,
+        "index": 21,
+        "start": 5.7,
+        "end": 5.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mười",
+        "startChar": 99,
+        "endChar": 103,
+        "index": 22,
+        "start": 5.92,
+        "end": 6.086666666666667,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "phần",
+        "startChar": 104,
+        "endChar": 108,
+        "index": 23,
+        "start": 6.086666666666667,
+        "end": 6.253333333333333,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "trăm.",
+        "startChar": 109,
+        "endChar": 114,
+        "index": 24,
+        "start": 6.253333333333333,
+        "end": 6.42,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "Nếu",
+        "startChar": 115,
+        "endChar": 118,
+        "index": 25,
+        "start": 7.3000000000000025,
+        "end": 7.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "kỳ",
+        "startChar": 119,
+        "endChar": 121,
+        "index": 26,
+        "start": 7.74,
+        "end": 7.94,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "sau",
+        "startChar": 122,
+        "endChar": 125,
+        "index": 27,
+        "start": 7.94,
+        "end": 8.14,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chỉ",
+        "startChar": 126,
+        "endChar": 129,
+        "index": 28,
+        "start": 8.14,
+        "end": 8.34,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tăng",
+        "startChar": 130,
+        "endChar": 134,
+        "index": 29,
+        "start": 8.34,
+        "end": 8.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hai",
+        "startChar": 135,
+        "endChar": 138,
+        "index": 30,
+        "start": 8.54,
+        "end": 8.766666666666666,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "phần",
+        "startChar": 139,
+        "endChar": 143,
+        "index": 31,
+        "start": 8.766666666666666,
+        "end": 8.993333333333334,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "trăm,",
+        "startChar": 144,
+        "endChar": 149,
+        "index": 32,
+        "start": 8.993333333333334,
+        "end": 9.22,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "bánh",
+        "startChar": 150,
+        "endChar": 154,
+        "index": 33,
+        "start": 9.22,
+        "end": 9.6,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "không",
+        "startChar": 155,
+        "endChar": 160,
+        "index": 34,
+        "start": 9.6,
+        "end": 9.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "trở",
+        "startChar": 161,
+        "endChar": 164,
+        "index": 35,
+        "start": 9.82,
+        "end": 10.0,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lại",
+        "startChar": 165,
+        "endChar": 168,
+        "index": 36,
+        "start": 10.0,
+        "end": 10.16,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hai",
+        "startChar": 169,
+        "endChar": 172,
+        "index": 37,
+        "start": 10.16,
+        "end": 10.33,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "mươi",
+        "startChar": 173,
+        "endChar": 177,
+        "index": 38,
+        "start": 10.33,
+        "end": 10.5,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "nghìn.",
+        "startChar": 178,
+        "endChar": 184,
+        "index": 39,
+        "start": 10.5,
+        "end": 11.6,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "Nó",
+        "startChar": 185,
+        "endChar": 187,
+        "index": 40,
+        "start": 11.6,
+        "end": 11.98,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thành",
+        "startChar": 188,
+        "endChar": 193,
+        "index": 41,
+        "start": 11.98,
+        "end": 12.14,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hai",
+        "startChar": 194,
+        "endChar": 197,
+        "index": 42,
+        "start": 12.14,
+        "end": 12.313333333333334,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "mươi",
+        "startChar": 198,
+        "endChar": 202,
+        "index": 43,
+        "start": 12.313333333333334,
+        "end": 12.486666666666666,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "hai",
+        "startChar": 203,
+        "endChar": 206,
+        "index": 44,
+        "start": 12.486666666666666,
+        "end": 12.66,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "nghìn",
+        "startChar": 207,
+        "endChar": 212,
+        "index": 45,
+        "start": 12.66,
+        "end": 12.66,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "bốn",
+        "startChar": 213,
+        "endChar": 216,
+        "index": 46,
+        "start": 12.66,
+        "end": 12.9,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "trăm",
+        "startChar": 217,
+        "endChar": 221,
+        "index": 47,
+        "start": 12.9,
+        "end": 13.14,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "bốn",
+        "startChar": 222,
+        "endChar": 225,
+        "index": 48,
+        "start": 13.14,
+        "end": 13.379999999999999,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "mươi",
+        "startChar": 226,
+        "endChar": 230,
+        "index": 49,
+        "start": 13.379999999999999,
+        "end": 13.62,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "đồng",
+        "startChar": 231,
+        "endChar": 235,
+        "index": 50,
+        "start": 13.62,
+        "end": 13.88,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "trong",
+        "startChar": 236,
+        "endChar": 241,
+        "index": 51,
+        "start": 13.88,
+        "end": 14.06,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "phép",
+        "startChar": 242,
+        "endChar": 246,
+        "index": 52,
+        "start": 14.06,
+        "end": 14.24,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tính.",
+        "startChar": 247,
+        "endChar": 252,
+        "index": 53,
+        "start": 14.24,
+        "end": 14.46,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Tỷ",
+        "startChar": 254,
+        "endChar": 256,
+        "index": 54,
+        "start": 15.34,
+        "end": 15.56,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lệ",
+        "startChar": 257,
+        "endChar": 259,
+        "index": 55,
+        "start": 15.56,
+        "end": 15.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đã",
+        "startChar": 260,
+        "endChar": 262,
+        "index": 56,
+        "start": 15.74,
+        "end": 15.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hạ",
+        "startChar": 263,
+        "endChar": 265,
+        "index": 57,
+        "start": 15.92,
+        "end": 16.08,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "từ",
+        "startChar": 266,
+        "endChar": 268,
+        "index": 58,
+        "start": 16.08,
+        "end": 16.28,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mười",
+        "startChar": 269,
+        "endChar": 273,
+        "index": 59,
+        "start": 16.28,
+        "end": 16.5,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "xuống",
+        "startChar": 274,
+        "endChar": 279,
+        "index": 60,
+        "start": 16.5,
+        "end": 16.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hai.",
+        "startChar": 280,
+        "endChar": 284,
+        "index": 61,
+        "start": 16.72,
+        "end": 16.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Số",
+        "startChar": 285,
+        "endChar": 287,
+        "index": 62,
+        "start": 17.84,
+        "end": 18.06,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tiền",
+        "startChar": 288,
+        "endChar": 292,
+        "index": 63,
+        "start": 18.06,
+        "end": 18.3,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "phải",
+        "startChar": 293,
+        "endChar": 297,
+        "index": 64,
+        "start": 18.3,
+        "end": 18.48,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "trả",
+        "startChar": 298,
+        "endChar": 301,
+        "index": 65,
+        "start": 18.48,
+        "end": 18.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "vẫn",
+        "startChar": 302,
+        "endChar": 305,
+        "index": 66,
+        "start": 18.74,
+        "end": 18.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tăng.",
+        "startChar": 306,
+        "endChar": 311,
+        "index": 67,
+        "start": 18.92,
+        "end": 19.14,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Đây",
+        "startChar": 312,
+        "endChar": 315,
+        "index": 68,
+        "start": 20.12,
+        "end": 20.26,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "là",
+        "startChar": 316,
+        "endChar": 318,
+        "index": 69,
+        "start": 20.26,
+        "end": 20.4,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chỗ",
+        "startChar": 319,
+        "endChar": 322,
+        "index": 70,
+        "start": 20.4,
+        "end": 20.6,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lời",
+        "startChar": 323,
+        "endChar": 326,
+        "index": 71,
+        "start": 20.6,
+        "end": 20.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nói",
+        "startChar": 327,
+        "endChar": 330,
+        "index": 72,
+        "start": 20.74,
+        "end": 20.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "và",
+        "startChar": 331,
+        "endChar": 333,
+        "index": 73,
+        "start": 20.92,
+        "end": 21.12,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "kỳ",
+        "startChar": 334,
+        "endChar": 336,
+        "index": 74,
+        "start": 21.12,
+        "end": 21.28,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "vọng",
+        "startChar": 337,
+        "endChar": 341,
+        "index": 75,
+        "start": 21.28,
+        "end": 21.5,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "dễ",
+        "startChar": 342,
+        "endChar": 344,
+        "index": 76,
+        "start": 21.5,
+        "end": 21.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đi",
+        "startChar": 345,
+        "endChar": 347,
+        "index": 77,
+        "start": 21.72,
+        "end": 21.84,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lệch",
+        "startChar": 348,
+        "endChar": 352,
+        "index": 78,
+        "start": 21.84,
+        "end": 21.98,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "nhau:",
+        "startChar": 353,
+        "endChar": 358,
+        "index": 79,
+        "start": 21.98,
+        "end": 22.24,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bản",
+        "startChar": 359,
+        "endChar": 362,
+        "index": 80,
+        "start": 22.6,
+        "end": 22.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tin",
+        "startChar": 363,
+        "endChar": 366,
+        "index": 81,
+        "start": 22.72,
+        "end": 22.88,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "nói",
+        "startChar": 367,
+        "endChar": 370,
+        "index": 82,
+        "start": 22.88,
+        "end": 23.08,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tốc",
+        "startChar": 371,
+        "endChar": 374,
+        "index": 83,
+        "start": 23.08,
+        "end": 23.24,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "độ",
+        "startChar": 375,
+        "endChar": 377,
+        "index": 84,
+        "start": 23.24,
+        "end": 23.4,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tăng",
+        "startChar": 378,
+        "endChar": 382,
+        "index": 85,
+        "start": 23.4,
+        "end": 23.6,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chậm",
+        "startChar": 383,
+        "endChar": 387,
+        "index": 86,
+        "start": 23.6,
+        "end": 23.8,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lại,",
+        "startChar": 388,
+        "endChar": 392,
+        "index": 87,
+        "start": 23.8,
+        "end": 24.04,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "còn",
+        "startChar": 393,
+        "endChar": 396,
+        "index": 88,
+        "start": 24.04,
+        "end": 24.52,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "khách",
+        "startChar": 397,
+        "endChar": 402,
+        "index": 89,
+        "start": 24.52,
+        "end": 24.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đang",
+        "startChar": 403,
+        "endChar": 407,
+        "index": 90,
+        "start": 24.74,
+        "end": 24.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chờ",
+        "startChar": 408,
+        "endChar": 411,
+        "index": 91,
+        "start": 24.92,
+        "end": 25.16,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "giá",
+        "startChar": 412,
+        "endChar": 415,
+        "index": 92,
+        "start": 25.16,
+        "end": 25.38,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hạ",
+        "startChar": 416,
+        "endChar": 418,
+        "index": 93,
+        "start": 25.38,
+        "end": 25.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "xuống.",
+        "startChar": 419,
+        "endChar": 425,
+        "index": 94,
+        "start": 25.54,
+        "end": 25.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Hai",
+        "startChar": 426,
+        "endChar": 429,
+        "index": 95,
+        "start": 26.72,
+        "end": 26.94,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "việc",
+        "startChar": 430,
+        "endChar": 434,
+        "index": 96,
+        "start": 26.94,
+        "end": 27.12,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ấy",
+        "startChar": 435,
+        "endChar": 437,
+        "index": 97,
+        "start": 27.12,
+        "end": 27.34,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "khác",
+        "startChar": 438,
+        "endChar": 442,
+        "index": 98,
+        "start": 27.34,
+        "end": 27.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nhau.",
+        "startChar": 443,
+        "endChar": 448,
+        "index": 99,
+        "start": 27.54,
+        "end": 27.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Một",
+        "startChar": 450,
+        "endChar": 453,
+        "index": 100,
+        "start": 28.699999999999996,
+        "end": 29.06,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ổ",
+        "startChar": 454,
+        "endChar": 455,
+        "index": 101,
+        "start": 29.06,
+        "end": 29.26,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bánh",
+        "startChar": 456,
+        "endChar": 460,
+        "index": 102,
+        "start": 29.26,
+        "end": 29.4,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "không",
+        "startChar": 461,
+        "endChar": 466,
+        "index": 103,
+        "start": 29.4,
+        "end": 29.68,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đại",
+        "startChar": 467,
+        "endChar": 470,
+        "index": 104,
+        "start": 29.68,
+        "end": 29.86,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "diện",
+        "startChar": 471,
+        "endChar": 475,
+        "index": 105,
+        "start": 29.86,
+        "end": 30.08,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cho",
+        "startChar": 476,
+        "endChar": 479,
+        "index": 106,
+        "start": 30.08,
+        "end": 30.24,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lạm",
+        "startChar": 480,
+        "endChar": 483,
+        "index": 107,
+        "start": 30.24,
+        "end": 30.42,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "phát",
+        "startChar": 484,
+        "endChar": 488,
+        "index": 108,
+        "start": 30.42,
+        "end": 30.64,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cả",
+        "startChar": 489,
+        "endChar": 491,
+        "index": 109,
+        "start": 30.64,
+        "end": 30.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nước.",
+        "startChar": 492,
+        "endChar": 497,
+        "index": 110,
+        "start": 30.82,
+        "end": 31.0,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Chỉ",
+        "startChar": 498,
+        "endChar": 501,
+        "index": 111,
+        "start": 31.0,
+        "end": 32.08,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "số",
+        "startChar": 502,
+        "endChar": 504,
+        "index": 112,
+        "start": 32.08,
+        "end": 32.24,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chung",
+        "startChar": 505,
+        "endChar": 510,
+        "index": 113,
+        "start": 32.24,
+        "end": 32.46,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nhìn",
+        "startChar": 511,
+        "endChar": 515,
+        "index": 114,
+        "start": 32.46,
+        "end": 32.64,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "một",
+        "startChar": 516,
+        "endChar": 519,
+        "index": 115,
+        "start": 32.64,
+        "end": 32.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "rổ",
+        "startChar": 520,
+        "endChar": 522,
+        "index": 116,
+        "start": 32.82,
+        "end": 33.0,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "nhiều",
+        "startChar": 523,
+        "endChar": 528,
+        "index": 117,
+        "start": 33.0,
+        "end": 33.2,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hàng",
+        "startChar": 529,
+        "endChar": 533,
+        "index": 118,
+        "start": 33.2,
+        "end": 33.4,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "hóa",
+        "startChar": 534,
+        "endChar": 537,
+        "index": 119,
+        "start": 33.4,
+        "end": 33.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "và",
+        "startChar": 538,
+        "endChar": 540,
+        "index": 120,
+        "start": 33.72,
+        "end": 33.86,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "dịch",
+        "startChar": 541,
+        "endChar": 545,
+        "index": 121,
+        "start": 33.86,
+        "end": 33.98,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "vụ.",
+        "startChar": 546,
+        "endChar": 549,
+        "index": 122,
+        "start": 33.98,
+        "end": 34.22,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Chiếc",
+        "startChar": 550,
+        "endChar": 555,
+        "index": 123,
+        "start": 35.02,
+        "end": 35.36,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bánh",
+        "startChar": 556,
+        "endChar": 560,
+        "index": 124,
+        "start": 35.36,
+        "end": 35.5,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ở",
+        "startChar": 561,
+        "endChar": 562,
+        "index": 125,
+        "start": 35.5,
+        "end": 35.68,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đây",
+        "startChar": 563,
+        "endChar": 566,
+        "index": 126,
+        "start": 35.68,
+        "end": 35.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chỉ",
+        "startChar": 567,
+        "endChar": 570,
+        "index": 127,
+        "start": 35.82,
+        "end": 35.98,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "giúp",
+        "startChar": 571,
+        "endChar": 575,
+        "index": 128,
+        "start": 35.98,
+        "end": 36.12,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ta",
+        "startChar": 576,
+        "endChar": 578,
+        "index": 129,
+        "start": 36.12,
+        "end": 36.34,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thấy",
+        "startChar": 579,
+        "endChar": 583,
+        "index": 130,
+        "start": 36.34,
+        "end": 36.52,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "phép",
+        "startChar": 584,
+        "endChar": 588,
+        "index": 131,
+        "start": 36.52,
+        "end": 36.7,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tính:",
+        "startChar": 589,
+        "endChar": 594,
+        "index": 132,
+        "start": 36.7,
+        "end": 36.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mức",
+        "startChar": 595,
+        "endChar": 598,
+        "index": 133,
+        "start": 37.32,
+        "end": 37.4,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tăng",
+        "startChar": 599,
+        "endChar": 603,
+        "index": 134,
+        "start": 37.4,
+        "end": 37.64,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mới",
+        "startChar": 604,
+        "endChar": 607,
+        "index": 135,
+        "start": 37.64,
+        "end": 37.84,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "có",
+        "startChar": 608,
+        "endChar": 610,
+        "index": 136,
+        "start": 37.84,
+        "end": 38.0,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thể",
+        "startChar": 611,
+        "endChar": 614,
+        "index": 137,
+        "start": 38.0,
+        "end": 38.12,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nhỏ,",
+        "startChar": 615,
+        "endChar": 619,
+        "index": 138,
+        "start": 38.12,
+        "end": 38.42,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nhưng",
+        "startChar": 620,
+        "endChar": 625,
+        "index": 139,
+        "start": 38.42,
+        "end": 38.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nó",
+        "startChar": 626,
+        "endChar": 628,
+        "index": 140,
+        "start": 38.92,
+        "end": 39.1,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cộng",
+        "startChar": 629,
+        "endChar": 633,
+        "index": 141,
+        "start": 39.1,
+        "end": 39.32,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lên",
+        "startChar": 634,
+        "endChar": 637,
+        "index": 142,
+        "start": 39.32,
+        "end": 39.48,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "phần",
+        "startChar": 638,
+        "endChar": 642,
+        "index": 143,
+        "start": 39.48,
+        "end": 39.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "giá",
+        "startChar": 643,
+        "endChar": 646,
+        "index": 144,
+        "start": 39.72,
+        "end": 39.94,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đã",
+        "startChar": 647,
+        "endChar": 649,
+        "index": 145,
+        "start": 39.94,
+        "end": 40.1,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tăng",
+        "startChar": 650,
+        "endChar": 654,
+        "index": 146,
+        "start": 40.1,
+        "end": 40.28,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "từ",
+        "startChar": 655,
+        "endChar": 657,
+        "index": 147,
+        "start": 40.28,
+        "end": 40.44,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "trước.",
+        "startChar": 658,
+        "endChar": 664,
+        "index": 148,
+        "start": 40.44,
+        "end": 40.7,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Vì",
+        "startChar": 666,
+        "endChar": 668,
+        "index": 149,
+        "start": 41.42,
+        "end": 41.78,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thế,",
+        "startChar": 669,
+        "endChar": 673,
+        "index": 150,
+        "start": 41.78,
+        "end": 41.96,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chị",
+        "startChar": 674,
+        "endChar": 677,
+        "index": 151,
+        "start": 42.4,
+        "end": 42.44,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Hạnh",
+        "startChar": 678,
+        "endChar": 682,
+        "index": 152,
+        "start": 42.44,
+        "end": 42.62,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "không",
+        "startChar": 683,
+        "endChar": 688,
+        "index": 153,
+        "start": 42.62,
+        "end": 42.84,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thể",
+        "startChar": 689,
+        "endChar": 692,
+        "index": 154,
+        "start": 42.84,
+        "end": 42.96,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nghe",
+        "startChar": 693,
+        "endChar": 697,
+        "index": 155,
+        "start": 42.96,
+        "end": 43.18,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "một",
+        "startChar": 698,
+        "endChar": 701,
+        "index": 156,
+        "start": 43.18,
+        "end": 43.36,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tỷ",
+        "startChar": 702,
+        "endChar": 704,
+        "index": 157,
+        "start": 43.36,
+        "end": 43.5,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lệ",
+        "startChar": 705,
+        "endChar": 707,
+        "index": 158,
+        "start": 43.5,
+        "end": 43.64,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lạm",
+        "startChar": 708,
+        "endChar": 711,
+        "index": 159,
+        "start": 43.64,
+        "end": 43.84,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "phát",
+        "startChar": 712,
+        "endChar": 716,
+        "index": 160,
+        "start": 43.84,
+        "end": 44.04,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "thấp",
+        "startChar": 717,
+        "endChar": 721,
+        "index": 161,
+        "start": 44.04,
+        "end": 44.2,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hơn",
+        "startChar": 722,
+        "endChar": 725,
+        "index": 162,
+        "start": 44.2,
+        "end": 44.42,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "rồi",
+        "startChar": 726,
+        "endChar": 729,
+        "index": 163,
+        "start": 44.42,
+        "end": 44.7,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tự",
+        "startChar": 730,
+        "endChar": 732,
+        "index": 164,
+        "start": 44.7,
+        "end": 44.9,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "suy",
+        "startChar": 733,
+        "endChar": 736,
+        "index": 165,
+        "start": 44.9,
+        "end": 45.1,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ra",
+        "startChar": 737,
+        "endChar": 739,
+        "index": 166,
+        "start": 45.1,
+        "end": 45.22,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bao",
+        "startChar": 740,
+        "endChar": 743,
+        "index": 167,
+        "start": 45.22,
+        "end": 45.38,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bột,",
+        "startChar": 744,
+        "endChar": 748,
+        "index": 168,
+        "start": 45.38,
+        "end": 45.56,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tiền",
+        "startChar": 749,
+        "endChar": 753,
+        "index": 169,
+        "start": 45.86,
+        "end": 46.02,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thuê",
+        "startChar": 754,
+        "endChar": 758,
+        "index": 170,
+        "start": 46.02,
+        "end": 46.24,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "và",
+        "startChar": 759,
+        "endChar": 761,
+        "index": 171,
+        "start": 46.24,
+        "end": 46.36,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "tiền",
+        "startChar": 762,
+        "endChar": 766,
+        "index": 172,
+        "start": 46.36,
+        "end": 46.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "điện",
+        "startChar": 767,
+        "endChar": 771,
+        "index": 173,
+        "start": 46.54,
+        "end": 46.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "của",
+        "startChar": 772,
+        "endChar": 775,
+        "index": 174,
+        "start": 46.72,
+        "end": 46.88,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mình",
+        "startChar": 776,
+        "endChar": 780,
+        "index": 175,
+        "start": 46.88,
+        "end": 47.04,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đã",
+        "startChar": 781,
+        "endChar": 783,
+        "index": 176,
+        "start": 47.04,
+        "end": 47.22,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "về",
+        "startChar": 784,
+        "endChar": 786,
+        "index": 177,
+        "start": 47.22,
+        "end": 47.36,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "giá",
+        "startChar": 787,
+        "endChar": 790,
+        "index": 178,
+        "start": 47.36,
+        "end": 47.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cũ.",
+        "startChar": 791,
+        "endChar": 794,
+        "index": 179,
+        "start": 47.54,
+        "end": 47.8,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Nhưng",
+        "startChar": 795,
+        "endChar": 800,
+        "index": 180,
+        "start": 48.66,
+        "end": 49.02,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "nếu",
+        "startChar": 801,
+        "endChar": 804,
+        "index": 181,
+        "start": 49.02,
+        "end": 49.24,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "có",
+        "startChar": 805,
+        "endChar": 807,
+        "index": 182,
+        "start": 49.24,
+        "end": 49.38,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "một",
+        "startChar": 808,
+        "endChar": 811,
+        "index": 183,
+        "start": 49.38,
+        "end": 49.5,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hóa",
+        "startChar": 812,
+        "endChar": 815,
+        "index": 184,
+        "start": 49.5,
+        "end": 49.82,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "đơn",
+        "startChar": 816,
+        "endChar": 819,
+        "index": 185,
+        "start": 49.82,
+        "end": 49.96,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thực",
+        "startChar": 820,
+        "endChar": 824,
+        "index": 186,
+        "start": 49.96,
+        "end": 50.1,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "sự",
+        "startChar": 825,
+        "endChar": 827,
+        "index": 187,
+        "start": 50.1,
+        "end": 50.32,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "giảm",
+        "startChar": 828,
+        "endChar": 832,
+        "index": 188,
+        "start": 50.32,
+        "end": 50.6,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "thì",
+        "startChar": 833,
+        "endChar": 836,
+        "index": 189,
+        "start": 50.6,
+        "end": 50.72,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "sao?",
+        "startChar": 837,
+        "endChar": 841,
+        "index": 190,
+        "start": 50.72,
+        "end": 50.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Chẳng",
+        "startChar": 842,
+        "endChar": 847,
+        "index": 191,
+        "start": 51.84,
+        "end": 52.04,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hạn,",
+        "startChar": 848,
+        "endChar": 852,
+        "index": 192,
+        "start": 52.04,
+        "end": 52.26,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bột",
+        "startChar": 853,
+        "endChar": 856,
+        "index": 193,
+        "start": 52.62,
+        "end": 52.74,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mua",
+        "startChar": 857,
+        "endChar": 860,
+        "index": 194,
+        "start": 52.74,
+        "end": 52.98,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "cho",
+        "startChar": 861,
+        "endChar": 864,
+        "index": 195,
+        "start": 52.98,
+        "end": 53.12,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mẻ",
+        "startChar": 865,
+        "endChar": 867,
+        "index": 196,
+        "start": 53.12,
+        "end": 53.28,
+        "method": "interpolated_or_numeric_expanded",
+        "estimated": true
+      },
+      {
+        "text": "bánh",
+        "startChar": 868,
+        "endChar": 872,
+        "index": 197,
+        "start": 53.28,
+        "end": 53.46,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "mới",
+        "startChar": 873,
+        "endChar": 876,
+        "index": 198,
+        "start": 53.46,
+        "end": 53.7,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "đã",
+        "startChar": 877,
+        "endChar": 879,
+        "index": 199,
+        "start": 53.7,
+        "end": 53.86,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "rẻ",
+        "startChar": 880,
+        "endChar": 882,
+        "index": 200,
+        "start": 53.86,
+        "end": 54.04,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "hơn.",
+        "startChar": 883,
+        "endChar": 887,
+        "index": 201,
+        "start": 54.04,
+        "end": 54.28,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "Lúc",
+        "startChar": 888,
+        "endChar": 891,
+        "index": 202,
+        "start": 55.12,
+        "end": 55.38,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "ấy",
+        "startChar": 892,
+        "endChar": 894,
+        "index": 203,
+        "start": 55.38,
+        "end": 55.54,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "khách",
+        "startChar": 895,
+        "endChar": 900,
+        "index": 204,
+        "start": 55.54,
+        "end": 55.76,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "có",
+        "startChar": 901,
+        "endChar": 903,
+        "index": 205,
+        "start": 55.76,
+        "end": 55.92,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "được",
+        "startChar": 904,
+        "endChar": 908,
+        "index": 206,
+        "start": 55.92,
+        "end": 56.02,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "chờ",
+        "startChar": 909,
+        "endChar": 912,
+        "index": 207,
+        "start": 56.02,
+        "end": 56.26,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "bánh",
+        "startChar": 913,
+        "endChar": 917,
+        "index": 208,
+        "start": 56.26,
+        "end": 56.44,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "rẻ",
+        "startChar": 918,
+        "endChar": 920,
+        "index": 209,
+        "start": 56.44,
+        "end": 56.68,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "lại",
+        "startChar": 921,
+        "endChar": 924,
+        "index": 210,
+        "start": 56.68,
+        "end": 56.82,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      },
+      {
+        "text": "không?",
+        "startChar": 925,
+        "endChar": 931,
+        "index": 211,
+        "start": 56.82,
+        "end": 57.0,
+        "method": "matched_asr_anchor",
+        "estimated": false
+      }
+    ],
+    "requiresReview": true,
+    "qualityScope": "Timing-estimation diagnostics; does not confirm that every supplied script word was spoken."
+  },
+  "unitBoundaries": [
+    {
+      "id": "b08",
+      "start": 0.0,
+      "end": 14.46,
+      "estimatedWordCount": 23,
+      "boundaryNeedsReview": false,
+      "firstWords": [
+        {
+          "text": "Hãy",
+          "startChar": 0,
+          "endChar": 3,
+          "index": 0,
+          "start": 0.0,
+          "end": 0.34,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "giữ",
+          "startChar": 4,
+          "endChar": 7,
+          "index": 1,
+          "start": 0.34,
+          "end": 0.54,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "đúng",
+          "startChar": 8,
+          "endChar": 12,
+          "index": 2,
+          "start": 0.54,
+          "end": 0.74,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ],
+      "lastWords": [
+        {
+          "text": "trong",
+          "startChar": 236,
+          "endChar": 241,
+          "index": 51,
+          "start": 13.88,
+          "end": 14.06,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "phép",
+          "startChar": 242,
+          "endChar": 246,
+          "index": 52,
+          "start": 14.06,
+          "end": 14.24,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "tính.",
+          "startChar": 247,
+          "endChar": 252,
+          "index": 53,
+          "start": 14.24,
+          "end": 14.46,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "id": "b09",
+      "start": 15.34,
+      "end": 27.82,
+      "estimatedWordCount": 3,
+      "boundaryNeedsReview": false,
+      "firstWords": [
+        {
+          "text": "Tỷ",
+          "startChar": 254,
+          "endChar": 256,
+          "index": 54,
+          "start": 15.34,
+          "end": 15.56,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "lệ",
+          "startChar": 257,
+          "endChar": 259,
+          "index": 55,
+          "start": 15.56,
+          "end": 15.74,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "đã",
+          "startChar": 260,
+          "endChar": 262,
+          "index": 56,
+          "start": 15.74,
+          "end": 15.92,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ],
+      "lastWords": [
+        {
+          "text": "ấy",
+          "startChar": 435,
+          "endChar": 437,
+          "index": 97,
+          "start": 27.12,
+          "end": 27.34,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "khác",
+          "startChar": 438,
+          "endChar": 442,
+          "index": 98,
+          "start": 27.34,
+          "end": 27.54,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "nhau.",
+          "startChar": 443,
+          "endChar": 448,
+          "index": 99,
+          "start": 27.54,
+          "end": 27.82,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "start": 28.7,
+      "end": 40.7,
+      "estimatedWordCount": 4,
+      "boundaryNeedsReview": false,
+      "firstWords": [
+        {
+          "text": "Một",
+          "startChar": 450,
+          "endChar": 453,
+          "index": 100,
+          "start": 28.699999999999996,
+          "end": 29.06,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "ổ",
+          "startChar": 454,
+          "endChar": 455,
+          "index": 101,
+          "start": 29.06,
+          "end": 29.26,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "bánh",
+          "startChar": 456,
+          "endChar": 460,
+          "index": 102,
+          "start": 29.26,
+          "end": 29.4,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ],
+      "lastWords": [
+        {
+          "text": "tăng",
+          "startChar": 650,
+          "endChar": 654,
+          "index": 146,
+          "start": 40.1,
+          "end": 40.28,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "từ",
+          "startChar": 655,
+          "endChar": 657,
+          "index": 147,
+          "start": 40.28,
+          "end": 40.44,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "trước.",
+          "startChar": 658,
+          "endChar": 664,
+          "index": 148,
+          "start": 40.44,
+          "end": 40.7,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "start": 41.42,
+      "end": 57.0,
+      "estimatedWordCount": 7,
+      "boundaryNeedsReview": false,
+      "firstWords": [
+        {
+          "text": "Vì",
+          "startChar": 666,
+          "endChar": 668,
+          "index": 149,
+          "start": 41.42,
+          "end": 41.78,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "thế,",
+          "startChar": 669,
+          "endChar": 673,
+          "index": 150,
+          "start": 41.78,
+          "end": 41.96,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "chị",
+          "startChar": 674,
+          "endChar": 677,
+          "index": 151,
+          "start": 42.4,
+          "end": 42.44,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ],
+      "lastWords": [
+        {
+          "text": "rẻ",
+          "startChar": 918,
+          "endChar": 920,
+          "index": 209,
+          "start": 56.44,
+          "end": 56.68,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "lại",
+          "startChar": 921,
+          "endChar": 924,
+          "index": 210,
+          "start": 56.68,
+          "end": 56.82,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        },
+        {
+          "text": "không?",
+          "startChar": 925,
+          "endChar": 931,
+          "index": 211,
+          "start": 56.82,
+          "end": 57.0,
+          "method": "matched_asr_anchor",
+          "estimated": false
+        }
+      ]
+    }
+  ],
+  "numberDiagnostics": {
+    "tokenSimilarity": 0.9021,
+    "expectedTokenCoverage": 0.934,
+    "expectedTailTokenCoverage": 0.96,
+    "expectedTokens": 212,
+    "observedTokens": 227,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission.",
+    "numberPhrases": [
+      {
+        "expectedPhrase": "mười phần trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "hai phần trăm",
+        "foundSomewhereInChapter": true
+      },
+      {
+        "expectedPhrase": "hai mươi hai nghìn bốn trăm bốn mươi",
+        "foundSomewhereInChapter": true
+      }
+    ],
+    "numberPhrasesNotFound": [],
+    "expectedFinalSentence": "Lúc ấy khách có được chờ bánh rẻ lại không?",
+    "finalSentenceExactNormalizedMatch": true,
+    "requiresReview": false,
+    "lexicalLimits": "Number checks search the chapter, not the corresponding speech location. A match cannot prove every number was spoken in its intended order; a missing phrase can be an ASR mistake. Final-sentence normalization can also fail on harmless recognition differences. This is not prosody assessment."
+  },
+  "boundaryInstruction": "Use acoustic matched word times for exact phrase cues. Interpolated start/end/number spans require inspection; do not claim forced alignment.",
+  "continuousListening": false,
+  "userApproval": "not_established"
+}

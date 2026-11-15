@@ -1,0 +1,13 @@
+{
+  "checkedDate": "2026-11-13",
+  "provider": "ElevenLabs",
+  "sourceURL": "https://elevenlabs.io/pricing/api",
+  "subscriptionDocumentationURL": "https://elevenlabs.io/docs/api-reference/user/subscription/get",
+  "listRates": {
+    "eleven_v3USDPer1000InputCharacters": 0.08,
+    "musicUSDPerGeneratedMinute": 0.15,
+    "soundEffectsUSDPerGeneratedMinute": 0.12
+  },
+  "applicability": "Dated public API list rates used only as a transparent estimate. Existing Starter subscription credits and actual invoice amounts are separate; no credit-to-dollar conversion is asserted. Taxes excluded.",
+  "accountingPolicy": "Sum only numeric per-request character-cost headers for newly called requests; preserve null music usage and request IDs when not exposed. Cache hits and explicit reused files do not charge new generation."
+}

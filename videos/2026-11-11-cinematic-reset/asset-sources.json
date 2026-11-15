@@ -1,0 +1,45 @@
+[
+  {
+    "id": 51012,
+    "file": "assets/sewing-a.mp4",
+    "page": "https://mixkit.co/free-stock-video/closeup-of-a-sewing-needle-stitching-an-orange-fabric-51012/",
+    "download_url": "https://assets.mixkit.co/videos/51012/51012-720.mp4",
+    "license": "Mixkit Stock Video Free License",
+    "role": "Illustrative sewing/fashion footage, not Vietnam-location evidence",
+    "sourceOriginal": "../2026-11-11-ten-pass-review/new-assets/mixkit-51012.mp4",
+    "sha256": "605d251e2db85c6232a0c7beaa63be54171c598421b4cf32b5662f9fa5fafd65",
+    "bytes": 3575442
+  },
+  {
+    "id": 51013,
+    "file": "assets/sewing-b.mp4",
+    "page": "https://mixkit.co/free-stock-video/closeup-of-a-sewing-needle-stitching-up-and-down-an-51013/",
+    "download_url": "https://assets.mixkit.co/videos/51013/51013-720.mp4",
+    "license": "Mixkit Stock Video Free License",
+    "role": "Illustrative sewing/fashion footage, not Vietnam-location evidence",
+    "sourceOriginal": "../2026-11-11-ten-pass-review/new-assets/mixkit-51013.mp4",
+    "sha256": "56cd73f1ee2b18ebe17ba77610106299305a86422d4cd0e2978b8015e478e289",
+    "bytes": 6199922
+  },
+  {
+    "file": "assets/earth.jpg",
+    "url": "https://threejs.org/examples/textures/planets/earth_atmos_2048.jpg",
+    "role": "Illustrative Earth surface texture from Three.js examples; arcs are schematic, not a map of measured flows",
+    "sha256": "2faa400d1eade3bc44caf6750d1b772bd9bbb6d87362c02bc7c3304e78fa0a9d",
+    "bytes": 512606
+  },
+  {
+    "file": "assets/earth-night.jpg",
+    "url": "https://threejs.org/examples/textures/planets/earth_lights_2048.png",
+    "role": "Earth emissive texture",
+    "sha256": "0564fa57f5fade2f65e56d3ad59b3c6bf5e32c44f60370a3e46fd367b0cabaee",
+    "bytes": 410160
+  },
+  {
+    "file": "source-snapshot/src/font.json",
+    "url": "https://threejs.org/examples/fonts/helvetiker_bold.typeface.json",
+    "role": "Extruded numeric geometry",
+    "sha256": "bd68159ee0b8d10fe24b9daa2e32f19686f9d8269a79dc8d44203a66298bfa2f",
+    "bytes": 61632
+  }
+]

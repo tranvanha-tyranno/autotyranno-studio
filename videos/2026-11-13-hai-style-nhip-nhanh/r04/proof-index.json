@@ -1,0 +1,102 @@
+[
+  {
+    "style": "comic",
+    "beat": "b01",
+    "from": 0,
+    "duration": 351,
+    "decodedFrames": 351,
+    "file": "r04\\comic\\proof\\b01.mp4",
+    "sha256": "5eb7284f71c525c96ecc40f1bd3cc50bafb031a53a984cb6411da186e71a6b8c",
+    "wallSeconds": 17.036
+  },
+  {
+    "style": "comic",
+    "beat": "b15",
+    "from": 4734,
+    "duration": 402,
+    "decodedFrames": 402,
+    "file": "r04\\comic\\proof\\b15.mp4",
+    "sha256": "09702e068c6d0fc39ed50a6c32e92e586a9c6e96b6cfdbcbc65367207ac55438",
+    "wallSeconds": 20.193
+  },
+  {
+    "style": "comic",
+    "beat": "b26",
+    "from": 8564,
+    "duration": 377,
+    "decodedFrames": 377,
+    "file": "r04\\comic\\proof\\b26.mp4",
+    "sha256": "01eb1e34f7e319b6d6b3b667bfd0725de077523a40682a8ab35e7036d9d86d38",
+    "wallSeconds": 19.305
+  },
+  {
+    "style": "comic",
+    "beat": "b42",
+    "from": 14309,
+    "duration": 414,
+    "decodedFrames": 414,
+    "file": "r04\\comic\\proof\\b42.mp4",
+    "sha256": "8efb705dd982aab1290b2cbfd86f3277891cab0cf37f99a908133e91fb077b63",
+    "wallSeconds": 20.183
+  },
+  {
+    "style": "comic",
+    "beat": "subscribe",
+    "from": 17743,
+    "duration": 327,
+    "decodedFrames": 327,
+    "file": "r04\\comic\\proof\\subscribe.mp4",
+    "sha256": "42743ed9ced81adbe75b6eaedf35d411e28b2b32e069e790986448b6163778c8",
+    "wallSeconds": 16.385
+  },
+  {
+    "style": "flow",
+    "beat": "b01",
+    "from": 0,
+    "duration": 351,
+    "decodedFrames": 351,
+    "file": "r04\\flow\\proof\\b01.mp4",
+    "sha256": "f7a27e33a6d15343d8730e8d6c41fec104fe4cd507445041b973e65783615d2e",
+    "wallSeconds": 16.843
+  },
+  {
+    "style": "flow",
+    "beat": "b15",
+    "from": 4734,
+    "duration": 402,
+    "decodedFrames": 402,
+    "file": "r04\\flow\\proof\\b15.mp4",
+    "sha256": "7870c620145695d9399d906d643a3e3c05dc5d124fec995c35a453f0d581ddb5",
+    "wallSeconds": 18.335
+  },
+  {
+    "style": "flow",
+    "beat": "b26",
+    "from": 8564,
+    "duration": 377,
+    "decodedFrames": 377,
+    "file": "r04\\flow\\proof\\b26.mp4",
+    "sha256": "ca666368192a8a72fb26c36b42897daa02f35d2824aa9f22534f8bfdcc590f22",
+    "wallSeconds": 16.439
+  },
+  {
+    "style": "flow",
+    "beat": "b42",
+    "from": 14309,
+    "duration": 414,
+    "decodedFrames": 414,
+    "file": "r04\\flow\\proof\\b42.mp4",
+    "sha256": "225ac3a0b2a997eb06af92c6ff2dc93a9c12c80b2c2826c9cd4a01d35d4c36f7",
+    "wallSeconds": 18.36
+  },
+  {
+    "style": "flow",
+    "beat": "subscribe",
+    "from": 17743,
+    "duration": 327,
+    "decodedFrames": 327,
+    "file": "r04\\flow\\proof\\subscribe.mp4",
+    "sha256": "2e2058fb70aff978a4e47d8643f07c5a21e9db17cdee8d809fe2fce43351bd5c",
+    "wallSeconds": 15.417
+  }
+]

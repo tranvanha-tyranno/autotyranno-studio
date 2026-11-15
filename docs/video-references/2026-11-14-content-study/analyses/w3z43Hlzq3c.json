@@ -1,0 +1,372 @@
+{
+  "schema": "reference-content-analysis/1",
+  "study_date": "2026-11-14",
+  "source": {
+    "id": "w3z43Hlzq3c",
+    "url": "https://www.youtube.com/watch?v=w3z43Hlzq3c",
+    "title": "Châu Âu đang rơi vào khủng hoảng toàn diện như thế nào?",
+    "channel": "Lóng",
+    "transcript_path": "docs/video-references/2026-11-13-user-samples/w3z43Hlzq3c/transcript.json",
+    "transcript_sha256": "903c895d3096fe0ce70414236842b46614c2bb32466723aeb5c92c87611503b0",
+    "media_path": "docs/video-references/2026-11-13-user-samples/w3z43Hlzq3c/reference.mp4",
+    "media_sha256_receipt": "c289665d902d662003bd1f9660fb300272ca06a4592488b9eb7071b42c0dade2",
+    "metadata_duration_seconds": 1251,
+    "official_chapters": null,
+    "chapter_origin": "agent editorial inference; metadata has no official chapters"
+  },
+  "coverage": {
+    "method": "full_caption_reread_plus_named_sampled_contact_sheets",
+    "reviewed_start": 0.4,
+    "reviewed_end": 1251.705,
+    "caption_rows": 727,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listened": false,
+    "all_shots_reviewed": false,
+    "source_claims_independently_verified": false,
+    "sheets_actually_opened": [
+      "docs/video-references/2026-11-13-user-samples/w3z43Hlzq3c/sheets/10-01.jpg",
+      "docs/video-references/2026-11-13-user-samples/w3z43Hlzq3c/sheets/10-02.jpg"
+    ],
+    "limits": [
+      "Caption có thể sai năm, đơn vị, tên riêng; mốc là biên lời gần đúng, không phải cut đến frame.",
+      "Dữ kiện và lời chuyên gia được phân tích như điều người kể nói, chưa xác minh độc lập.",
+      "Không có analytics retention; nhu cầu người xem là suy luận biên tập.",
+      "Sheet chỉ hỗ trợ quan sát tại pixel/mốc ghi trên sheet, không xác nhận xem/nghe liên tục."
+    ]
+  },
+  "central_spine": "Nhiều sự kiện địa phương → sức ép sinh hoạt/cơ hội → phân bổ/trách nhiệm/niềm tin → giới hạn cách nhìn sụp đổ → thịnh vượng không tự bảo đảm niềm tin.",
+  "chapters": [
+    {
+      "start": 0.4,
+      "end": 60.4,
+      "title": "Hook: giàu có nhưng nhiều người xuống đường",
+      "question": "Tại sao phát triển cao không xóa bất mãn?",
+      "claim": "Nhiều chi tiết đời thường đặt ra một nghịch lý chung cần giải thích.",
+      "evidence_example": "Người kể ghép Paris, Berlin, người thuê nhà cao tuổi ở Madrid, đình công ở Ý và Serbia.",
+      "mechanism": "Đối lập hình dung thịnh vượng với trường, lương, tiền thuê; từ hiện tượng sang câu hỏi.",
+      "transition": "Hai câu hỏi ở 44.7 và 52.4 chuyển liệt kê địa điểm sang nguyên nhân.",
+      "payoff": "Hứa giải thích vì sao chuyện nhỏ châm ngòi phản ứng lớn.",
+      "emphasis": "Nghịch lý thịnh vượng–đời sống; không nhấn mọi nước cùng lúc.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Danh sách hơn 40 giây trước câu hỏi; không bê nguyên độ dài vào bài ngắn."
+      ]
+    },
+    {
+      "start": 60.4,
+      "end": 71.9,
+      "title": "Giới hạn luận điểm",
+      "question": "Có một nguyên nhân hoặc tổ chức chung không?",
+      "claim": "Mỗi nơi có vấn đề riêng; mẫu số chung nguồn đề xuất là niềm tin vào ngày mai.",
+      "evidence_example": "Caveat không có một phong trào chung điều khiển tất cả.",
+      "mechanism": "Không biến đồng thời thành nhân quả giả.",
+      "transition": "Chọn Pháp để bắt đầu kiểm luận điểm.",
+      "payoff": "Tìm điểm chung nhưng giữ khác biệt địa phương.",
+      "emphasis": "Một giới hạn ngắn rồi trở lại ca cụ thể.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": []
+    },
+    {
+      "start": 71.9,
+      "end": 351.29,
+      "title": "Tầng một: bốn trường hợp và xung đột đời sống",
+      "question": "Bất mãn xuất hiện dưới dạng nào ở từng nơi?",
+      "claim": "Kinh tế phát triển vẫn có thể đi với dịch vụ căng, ngân sách hữu hạn và nhà ở khó tiếp cận.",
+      "evidence_example": "Nguồn đưa phản đối trường học Pháp, tương lai người trẻ Đức, một ca cưỡng chế Madrid và nhà ở Bồ Đào Nha.",
+      "mechanism": "Mỗi ca: vấn đề đời sống → nguyên nhân/đánh đổi → kết luận địa phương.",
+      "transition": "Đổi nước nhưng giữ dây ngân sách, người trẻ hoặc nhà ở; cuối mục hỏi ai hưởng thành quả.",
+      "payoff": "Có chất liệu cụ thể trước khi nghe mô hình.",
+      "emphasis": "Mỗi ca một căng thẳng: dịch vụ–ngân sách; tương lai–nghĩa vụ; hấp dẫn đô thị–khả năng ở; đầu tư–phân phối.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 71.9,
+          "end": 157.19,
+          "focus": "Pháp: giáo dục sang phúc lợi",
+          "narrative_job": "Yêu cầu riêng mở thành giới hạn ngân sách; chốt bài học ở 149.69."
+        },
+        {
+          "start": 157.19,
+          "end": 228.29,
+          "focus": "Đức: ba câu hỏi cá nhân",
+          "narrative_job": "Dịch vĩ mô sang việc làm, thuê nhà, ổn định; giữ caveat không đại diện mọi người trẻ."
+        },
+        {
+          "start": 228.29,
+          "end": 298.99,
+          "focus": "Tây Ban Nha: một ca thuê nhà",
+          "narrative_job": "Cá nhân làm cửa vào cho cung nhà, du lịch và đánh đổi kiểm soát thuê."
+        },
+        {
+          "start": 298.99,
+          "end": 351.29,
+          "focus": "Bồ Đào Nha: điểm đến hấp dẫn",
+          "narrative_job": "Nối hai ca nhà ở, hỏi thành quả phát triển tới ai."
+        }
+      ],
+      "risks": [
+        "Năm và thống kê là phát biểu trong caption, chưa được lượt này xác minh.",
+        "Nhà ở trở lại ở tầng cơ chế; phải thêm thông tin mỗi lần quay lại."
+      ]
+    },
+    {
+      "start": 351.29,
+      "end": 427.89,
+      "title": "Nhánh thương mại tách khỏi luận điểm",
+      "question": "Dịch vụ chuyển tiền liên quan người lao động ra sao?",
+      "claim": "Quảng bá dịch vụ không phải bằng chứng nguyên nhân khủng hoảng.",
+      "evidence_example": "Người kể đưa quy mô, đối tác, tiện ích, ưu đãi, mã và link nhà tài trợ.",
+      "mechanism": "Cầu từ thành quả lao động sang gửi tiền, rồi lợi ích/demo/CTA.",
+      "transition": "426.3–429.39 nói quay lại bài và chỉ rõ nước kế.",
+      "payoff": "Có ranh giới để trở về mạch chính.",
+      "emphasis": "Nhận diện sponsor; không học claim, giá hay ưu đãi.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Nhánh khoảng 76.6 giây làm đứt chuỗi ca; không tự thêm sponsor vào bài của người dùng."
+      ]
+    },
+    {
+      "start": 427.89,
+      "end": 628.9,
+      "title": "Tầng một tiếp: ngân sách và trách nhiệm",
+      "question": "Mọi bất mãn có bắt đầu từ chi phí sinh hoạt?",
+      "claim": "Có ca về phân bổ chi phí, có ca về công khai và trách nhiệm.",
+      "evidence_example": "Nguồn đặt Ý, Bỉ, Serbia, Albania, Hy Lạp cạnh nhau.",
+      "mechanism": "Từ lương–quốc phòng, hưu trí–ngân sách sang thảm kịch, công trình và trách nhiệm.",
+      "transition": "534.1 phản đề không phải biểu tình nào cũng do giá; 628.9 gom ca sang cơ chế.",
+      "payoff": "Không quy tất cả về lạm phát.",
+      "emphasis": "Phân biệt áp lực kinh tế với mất niềm tin.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 427.89,
+          "end": 484.89,
+          "focus": "Ý: lương và quốc phòng",
+          "narrative_job": "Có caveat thêm quốc phòng không đồng nghĩa bớt giáo dục một-một."
+        },
+        {
+          "start": 484.89,
+          "end": 534.1,
+          "focus": "Bỉ: ai chịu chi phí",
+          "narrative_job": "Đổi từ khoản chi sang công bằng phân bổ."
+        },
+        {
+          "start": 534.1,
+          "end": 582.5,
+          "focus": "Serbia: thảm kịch sang chính trị",
+          "narrative_job": "Phản ví dụ cho giải thích chỉ bằng giá; claim bầu cử cần kiểm riêng."
+        },
+        {
+          "start": 582.5,
+          "end": 628.9,
+          "focus": "Albania, Hy Lạp: công khai",
+          "narrative_job": "Khép ca, mở mô hình tổng hợp."
+        }
+      ],
+      "risks": []
+    },
+    {
+      "start": 628.9,
+      "end": 1010.1,
+      "title": "Tầng hai: đời sống → cơ hội → niềm tin",
+      "question": "Các ca nối qua cơ chế nào?",
+      "claim": "Sức ép vật chất gây bất mãn mạnh hơn khi cơ hội, phân bổ và tiếng nói suy yếu.",
+      "evidence_example": "Giỏ hàng 100→120, số liệu nguồn dẫn về nhà, tuổi trẻ, phúc lợi, quốc phòng và callback nhà ga.",
+      "mechanism": "Giá/thuê ăn vào thu nhập; già hóa bó ngân sách; niềm tin đổi cách tiếp nhận khó khăn; mạng xã hội khuếch đại.",
+      "transition": "Đổi nguyên nhân nhưng cùng hướng khoảng cách lời hứa–trải nghiệm.",
+      "payoff": "Câu hỏi đầu có mô hình quan hệ thay cho danh sách nước.",
+      "emphasis": "Mỗi đoạn một tâm điểm; lạm phát nhấn tốc độ khác mức; nhà ở nhấn thời hạn xây khác hạn trả thuê.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [
+        {
+          "start": 628.9,
+          "end": 690.0,
+          "focus": "Giá cả",
+          "narrative_job": "Sửa hiểu lầm bằng giỏ hàng; sau đó mới mở năng lượng và nhóm chịu ảnh hưởng."
+        },
+        {
+          "start": 690.0,
+          "end": 745.5,
+          "focus": "Nhà ở",
+          "narrative_job": "Xây nhiều năm trong khi tiền thuê phải trả tháng này."
+        },
+        {
+          "start": 745.5,
+          "end": 796.5,
+          "focus": "Người trẻ",
+          "narrative_job": "Từ khó tháng này tới nghi ngờ con đường tiến thân."
+        },
+        {
+          "start": 796.5,
+          "end": 849.5,
+          "focus": "Phúc lợi",
+          "narrative_job": "Già hóa và thu ngân sách, có caveat chưa phải sụp đổ."
+        },
+        {
+          "start": 849.5,
+          "end": 895.9,
+          "focus": "Quốc phòng",
+          "narrative_job": "Nguồn tiền và kết quả phải giải thích; không đánh đổi một-một."
+        },
+        {
+          "start": 895.9,
+          "end": 926.8,
+          "focus": "Thế hệ",
+          "narrative_job": "Có phản biện về đóng góp và hỗ trợ qua lại của người già."
+        },
+        {
+          "start": 926.8,
+          "end": 970.4,
+          "focus": "Niềm tin",
+          "narrative_job": "Callback Serbia thêm ý nghĩa giải trình."
+        },
+        {
+          "start": 970.4,
+          "end": 1010.1,
+          "focus": "Mạng xã hội",
+          "narrative_job": "Tách tác nhân lan truyền khỏi nguyên nhân vật chất."
+        }
+      ],
+      "risks": [
+        "6 phút 21 giây với tám tiểu mục dễ thành danh sách nếu không giữ trục.",
+        "Nhiều thống kê liền nhau; chỉ giữ số thay đổi suy luận."
+      ]
+    },
+    {
+      "start": 1010.1,
+      "end": 1105.3,
+      "title": "Vì sao có bạo lực?",
+      "question": "Vì sao chỉ một phần chuyển sang đối đầu?",
+      "claim": "Không đồng nhất mọi người tham gia; leo thang có nhiều tác nhân.",
+      "evidence_example": "Nguồn phân biệt người ôn hòa, nhóm đối đầu, người lợi dụng và bốn cơ chế leo thang.",
+      "mechanism": "Bất mãn tích tụ + pha trộn nhóm + tương tác cưỡng chế + lan truyền cảm xúc.",
+      "transition": "Khép bằng hậu quả đổi tâm điểm cải cách sang trật tự rồi mở kịch bản.",
+      "payoff": "Hình bạo lực không đại diện toàn phong trào.",
+      "emphasis": "Tác nhân khác nhau và hệ quả đổi đề nghị luận.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": []
+    },
+    {
+      "start": 1105.3,
+      "end": 1167.0,
+      "title": "Kịch bản có điều kiện và lựa chọn",
+      "question": "Điều gì có thể đổi đường đi tiếp theo?",
+      "claim": "Kết quả phụ thuộc đời sống và khả năng xử lý, không phải dự báo chắc.",
+      "evidence_example": "Ba khả năng nguồn đề xuất: hạ nhiệt, lặp đợt, khủng hoảng sâu; hỗ trợ mục tiêu, nhà ở, giáo dục.",
+      "mechanism": "Mỗi kịch bản có điều kiện; tách trước mắt với dài hạn.",
+      "transition": "1138.6 đổi từ dự báo sang có thể làm gì.",
+      "payoff": "Có tiêu chí theo dõi thay vì cảm giác báo động.",
+      "emphasis": "Nếu–thì và điều kiện; giải pháp phải nối đúng nguyên nhân.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Danh sách giải pháp rộng; bài mới cần ít đòn bẩy và điều kiện thực thi hơn."
+      ]
+    },
+    {
+      "start": 1167.0,
+      "end": 1246.4,
+      "title": "Payoff: trả nghịch lý đầu bài",
+      "question": "Khủng hoảng có đồng nghĩa sụp đổ và biểu tình nói gì?",
+      "claim": "Thịnh vượng hiện tại không tự bảo đảm niềm tin tương lai.",
+      "evidence_example": "Nguồn giới hạn suy luận từ vài cảnh bạo lực, gom năm bài toán và quay lại lời hứa–đời sống.",
+      "mechanism": "Khép vòng từ đường phố về tăng trưởng, phúc lợi, cơ hội và giải quyết bất đồng.",
+      "transition": "1202 tách câu chốt khỏi danh sách, CTA chỉ tới sau trả lời.",
+      "payoff": "Trả câu hỏi ở cấp nguyên tắc.",
+      "emphasis": "Một câu kết nén được toàn bài, không mở ý mới.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": [
+        "Cường độ tiêu đề khủng hoảng toàn diện mạnh hơn phạm vi ca; không học máy móc giật gân."
+      ]
+    },
+    {
+      "start": 1246.4,
+      "end": 1251.0,
+      "title": "CTA sau câu trả lời",
+      "question": "Người xem nên làm gì tiếp?",
+      "claim": "Xin đăng ký nằm ngoài phần chứng minh.",
+      "evidence_example": "Nhận diện người dẫn, đăng ký, hẹn gặp lại.",
+      "mechanism": "Hoàn tất nội dung rồi xin hành động.",
+      "transition": "Kết thúc.",
+      "payoff": "Không bỏ lửng câu hỏi để ép CTA.",
+      "emphasis": "Ngắn, giữ trọn câu kết.",
+      "confidence": "high_for_caption_structure_not_source_truth",
+      "boundary_basis": "agent_inferred_from_caption_turn",
+      "beats": [],
+      "risks": []
+    }
+  ],
+  "observations": [
+    "Phân đoạn rõ bằng chức năng dù không có chapter chính thức. Ca có kết luận cục bộ rồi đổi cấp từ ca sang cơ chế ở 10:28.9.",
+    "10:48.5–11:05 sửa một hiểu lầm: giá cao và lạm phát hạ có thể cùng đúng. Sheet 10-02 thấy xe hàng ở 10:54–10:55; chưa kiểm đủ bằng hình phép 100→120 trong lượt này.",
+    "Sheet 10-01 thấy ca Albania/Hy Lạp đến 10:25, mascot ở 10:28.5–10:30. Đây là đổi chức năng khi tổng hợp, không chứng minh nhịp cut/SFX.",
+    "Điểm yếu: bốn ca đầu, sponsor, năm ca sau, tám cơ chế tạo tải lớn. Không học lượng mục/độ dài; học mỗi mục thêm điều mới và cắt phần lặp.",
+    "Mọi thống kê, bầu cử và dẫn nguồn là đối tượng phân tích cách kể; chưa dùng thay research sự thật."
+  ],
+  "transferable_rules": [
+    {
+      "start": 44.7,
+      "end": 71.9,
+      "observation": "Chi tiết trước câu hỏi, caveat sau câu hỏi.",
+      "action": "Viết một câu hỏi trung tâm và giới hạn; hook chỉ hứa điều thân bài trả được.",
+      "avoid": "Phóng đại khủng hoảng mà không có cách trả.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 149.69,
+      "end": 157.19,
+      "observation": "Ca Pháp chốt ngân sách–dịch vụ rồi đổi nước.",
+      "action": "Cuối mỗi chương phải có một câu người xem mang theo.",
+      "avoid": "Hết ví dụ thì nhảy ví dụ mới chỉ để đủ thời lượng.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 628.9,
+      "end": 665.0,
+      "observation": "Đổi từ ca sang cơ chế, sửa hiểu lầm bằng một so sánh.",
+      "action": "Tách cái gì xảy ra với vì sao; hình cho thấy một biến đúng lúc giải.",
+      "avoid": "Cắt theo từ khóa mà không thấy quan hệ.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 740.7,
+      "end": 745.5,
+      "observation": "Nhiều năm xây đối lập tiền thuê tháng này.",
+      "action": "Đánh đổi cần hai phía có thời hạn/đơn vị cụ thể.",
+      "avoid": "Lặp khó khăn lớn mà không nói khó ở đâu.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 926.8,
+      "end": 970.4,
+      "observation": "Nhà ga trở lại để nói trách nhiệm.",
+      "action": "Callback phải thêm cách hiểu; ghi rõ kết luận mới.",
+      "avoid": "Dùng lại ảnh chỉ lấp cảnh.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    },
+    {
+      "start": 1167.0,
+      "end": 1246.4,
+      "observation": "Giới hạn sụp đổ rồi trả nghịch lý niềm tin.",
+      "action": "Viết payoff sau outline, đối chiếu lời hứa hook; CTA sau payoff.",
+      "avoid": "Cuối bài mở chủ đề hoặc chỉ nhắc tiêu đề.",
+      "status": "proposed_editorial_guidance_from_reference_not_verified_on_new_output"
+    }
+  ],
+  "editorial_verdict": "Đáng học hai tầng ca → cơ chế và kết luận trả nghịch lý. Không bê lượng quốc gia, tám nguyên nhân, số liệu dày hoặc quảng cáo; chuyển thành ít chương có câu hỏi, kết luận và cầu nối nhân quả riêng."
+}

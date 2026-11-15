@@ -1,0 +1,1644 @@
+{
+  "technical": "passed",
+  "records": [
+    {
+      "style": "comic",
+      "file": "videos\\2026-11-13-hai-style-10-phut\\r03\\comic\\final.mp4",
+      "sha256": "56323734f34e88d86b5b2986ad92758163fcb5889f771b3e1712a38c68aad248",
+      "decodedFrames": 17743,
+      "seconds": 591.4333333333333,
+      "decodedAudioSeconds": 591.4453333333333,
+      "audioPCMHash": "a6de5bdada30a9d170143e8b2b6d61e0067341204b121335674869553f2f91d6",
+      "lastWordEnd": 590.21,
+      "samples": [
+        {
+          "beat": "b01",
+          "frame": 56,
+          "file": "b01-early-00056.jpg"
+        },
+        {
+          "beat": "b01",
+          "frame": 73,
+          "file": "b01-cue-00073.jpg"
+        },
+        {
+          "beat": "b01",
+          "frame": 287,
+          "file": "b01-late-00287.jpg"
+        },
+        {
+          "beat": "b02",
+          "frame": 398,
+          "file": "b02-early-00398.jpg"
+        },
+        {
+          "beat": "b02",
+          "frame": 448,
+          "file": "b02-cue-00448.jpg"
+        },
+        {
+          "beat": "b02",
+          "frame": 592,
+          "file": "b02-late-00592.jpg"
+        },
+        {
+          "beat": "b03",
+          "frame": 697,
+          "file": "b03-early-00697.jpg"
+        },
+        {
+          "beat": "b03",
+          "frame": 822,
+          "file": "b03-cue-00822.jpg"
+        },
+        {
+          "beat": "b03",
+          "frame": 909,
+          "file": "b03-late-00909.jpg"
+        },
+        {
+          "beat": "b04",
+          "frame": 1018,
+          "file": "b04-early-01018.jpg"
+        },
+        {
+          "beat": "b04",
+          "frame": 1101,
+          "file": "b04-cue-01101.jpg"
+        },
+        {
+          "beat": "b04",
+          "frame": 1231,
+          "file": "b04-late-01231.jpg"
+        },
+        {
+          "beat": "b05",
+          "frame": 1339,
+          "file": "b05-early-01339.jpg"
+        },
+        {
+          "beat": "b05",
+          "frame": 1408,
+          "file": "b05-cue-01408.jpg"
+        },
+        {
+          "beat": "b05",
+          "frame": 1549,
+          "file": "b05-late-01549.jpg"
+        },
+        {
+          "beat": "b06",
+          "frame": 1661,
+          "file": "b06-early-01661.jpg"
+        },
+        {
+          "beat": "b06",
+          "frame": 1729,
+          "file": "b06-cue-01729.jpg"
+        },
+        {
+          "beat": "b06",
+          "frame": 1884,
+          "file": "b06-late-01884.jpg"
+        },
+        {
+          "beat": "b07",
+          "frame": 2001,
+          "file": "b07-early-02001.jpg"
+        },
+        {
+          "beat": "b07",
+          "frame": 2079,
+          "file": "b07-cue-02079.jpg"
+        },
+        {
+          "beat": "b07",
+          "frame": 2235,
+          "file": "b07-late-02235.jpg"
+        },
+        {
+          "beat": "b08",
+          "frame": 2358,
+          "file": "b08-early-02358.jpg"
+        },
+        {
+          "beat": "b08",
+          "frame": 2405,
+          "file": "b08-cue-02405.jpg"
+        },
+        {
+          "beat": "b08",
+          "frame": 2602,
+          "file": "b08-late-02602.jpg"
+        },
+        {
+          "beat": "b09",
+          "frame": 2730,
+          "file": "b09-early-02730.jpg"
+        },
+        {
+          "beat": "b09",
+          "frame": 2741,
+          "file": "b09-cue-02741.jpg"
+        },
+        {
+          "beat": "b09",
+          "frame": 2982,
+          "file": "b09-late-02982.jpg"
+        },
+        {
+          "beat": "b10",
+          "frame": 3106,
+          "file": "b10-early-03106.jpg"
+        },
+        {
+          "beat": "b10",
+          "frame": 3184,
+          "file": "b10-cue-03184.jpg"
+        },
+        {
+          "beat": "b10",
+          "frame": 3334,
+          "file": "b10-late-03334.jpg"
+        },
+        {
+          "beat": "b11",
+          "frame": 3449,
+          "file": "b11-early-03449.jpg"
+        },
+        {
+          "beat": "b11",
+          "frame": 3447,
+          "file": "b11-cue-03447.jpg"
+        },
+        {
+          "beat": "b11",
+          "frame": 3668,
+          "file": "b11-late-03668.jpg"
+        },
+        {
+          "beat": "b12",
+          "frame": 3784,
+          "file": "b12-early-03784.jpg"
+        },
+        {
+          "beat": "b12",
+          "frame": 3770,
+          "file": "b12-cue-03770.jpg"
+        },
+        {
+          "beat": "b12",
+          "frame": 4018,
+          "file": "b12-late-04018.jpg"
+        },
+        {
+          "beat": "b13",
+          "frame": 4140,
+          "file": "b13-early-04140.jpg"
+        },
+        {
+          "beat": "b13",
+          "frame": 4176,
+          "file": "b13-cue-04176.jpg"
+        },
+        {
+          "beat": "b13",
+          "frame": 4383,
+          "file": "b13-late-04383.jpg"
+        },
+        {
+          "beat": "b14",
+          "frame": 4495,
+          "file": "b14-early-04495.jpg"
+        },
+        {
+          "beat": "b14",
+          "frame": 4533,
+          "file": "b14-cue-04533.jpg"
+        },
+        {
+          "beat": "b14",
+          "frame": 4682,
+          "file": "b14-late-04682.jpg"
+        },
+        {
+          "beat": "b15",
+          "frame": 4798,
+          "file": "b15-early-04798.jpg"
+        },
+        {
+          "beat": "b15",
+          "frame": 4807,
+          "file": "b15-cue-04807.jpg"
+        },
+        {
+          "beat": "b15",
+          "frame": 5063,
+          "file": "b15-late-05063.jpg"
+        },
+        {
+          "beat": "b16",
+          "frame": 5186,
+          "file": "b16-early-05186.jpg"
+        },
+        {
+          "beat": "b16",
+          "frame": 5262,
+          "file": "b16-cue-05262.jpg"
+        },
+        {
+          "beat": "b16",
+          "frame": 5392,
+          "file": "b16-late-05392.jpg"
+        },
+        {
+          "beat": "b17",
+          "frame": 5502,
+          "file": "b17-early-05502.jpg"
+        },
+        {
+          "beat": "b17",
+          "frame": 5754,
+          "file": "b17-cue-05754.jpg"
+        },
+        {
+          "beat": "b17",
+          "frame": 5723,
+          "file": "b17-late-05723.jpg"
+        },
+        {
+          "beat": "b18",
+          "frame": 5837,
+          "file": "b18-early-05837.jpg"
+        },
+        {
+          "beat": "b18",
+          "frame": 5912,
+          "file": "b18-cue-05912.jpg"
+        },
+        {
+          "beat": "b18",
+          "frame": 6057,
+          "file": "b18-late-06057.jpg"
+        },
+        {
+          "beat": "b19",
+          "frame": 6174,
+          "file": "b19-early-06174.jpg"
+        },
+        {
+          "beat": "b19",
+          "frame": 6169,
+          "file": "b19-cue-06169.jpg"
+        },
+        {
+          "beat": "b19",
+          "frame": 6412,
+          "file": "b19-late-06412.jpg"
+        },
+        {
+          "beat": "b20",
+          "frame": 6535,
+          "file": "b20-early-06535.jpg"
+        },
+        {
+          "beat": "b20",
+          "frame": 6515,
+          "file": "b20-cue-06515.jpg"
+        },
+        {
+          "beat": "b20",
+          "frame": 6777,
+          "file": "b20-late-06777.jpg"
+        },
+        {
+          "beat": "b21",
+          "frame": 6897,
+          "file": "b21-early-06897.jpg"
+        },
+        {
+          "beat": "b21",
+          "frame": 6979,
+          "file": "b21-cue-06979.jpg"
+        },
+        {
+          "beat": "b21",
+          "frame": 7117,
+          "file": "b21-late-07117.jpg"
+        },
+        {
+          "beat": "b22",
+          "frame": 7239,
+          "file": "b22-early-07239.jpg"
+        },
+        {
+          "beat": "b22",
+          "frame": 7272,
+          "file": "b22-cue-07272.jpg"
+        },
+        {
+          "beat": "b22",
+          "frame": 7494,
+          "file": "b22-late-07494.jpg"
+        },
+        {
+          "beat": "b23",
+          "frame": 7618,
+          "file": "b23-early-07618.jpg"
+        },
+        {
+          "beat": "b23",
+          "frame": 7832,
+          "file": "b23-cue-07832.jpg"
+        },
+        {
+          "beat": "b23",
+          "frame": 7842,
+          "file": "b23-late-07842.jpg"
+        },
+        {
+          "beat": "b24",
+          "frame": 7956,
+          "file": "b24-early-07956.jpg"
+        },
+        {
+          "beat": "b24",
+          "frame": 7995,
+          "file": "b24-cue-07995.jpg"
+        },
+        {
+          "beat": "b24",
+          "frame": 8172,
+          "file": "b24-late-08172.jpg"
+        },
+        {
+          "beat": "b25",
+          "frame": 8285,
+          "file": "b25-early-08285.jpg"
+        },
+        {
+          "beat": "b25",
+          "frame": 8384,
+          "file": "b25-cue-08384.jpg"
+        },
+        {
+          "beat": "b25",
+          "frame": 8504,
+          "file": "b25-late-08504.jpg"
+        },
+        {
+          "beat": "b26",
+          "frame": 8624,
+          "file": "b26-early-08624.jpg"
+        },
+        {
+          "beat": "b26",
+          "frame": 8688,
+          "file": "b26-cue-08688.jpg"
+        },
+        {
+          "beat": "b26",
+          "frame": 8873,
+          "file": "b26-late-08873.jpg"
+        },
+        {
+          "beat": "b27",
+          "frame": 8999,
+          "file": "b27-early-08999.jpg"
+        },
+        {
+          "beat": "b27",
+          "frame": 9069,
+          "file": "b27-cue-09069.jpg"
+        },
+        {
+          "beat": "b27",
+          "frame": 9241,
+          "file": "b27-late-09241.jpg"
+        },
+        {
+          "beat": "b28",
+          "frame": 9360,
+          "file": "b28-early-09360.jpg"
+        },
+        {
+          "beat": "b28",
+          "frame": 9343,
+          "file": "b28-cue-09343.jpg"
+        },
+        {
+          "beat": "b28",
+          "frame": 9576,
+          "file": "b28-late-09576.jpg"
+        },
+        {
+          "beat": "b29",
+          "frame": 9697,
+          "file": "b29-early-09697.jpg"
+        },
+        {
+          "beat": "b29",
+          "frame": 9660,
+          "file": "b29-cue-09660.jpg"
+        },
+        {
+          "beat": "b29",
+          "frame": 9953,
+          "file": "b29-late-09953.jpg"
+        },
+        {
+          "beat": "b30",
+          "frame": 10086,
+          "file": "b30-early-10086.jpg"
+        },
+        {
+          "beat": "b30",
+          "frame": 10064,
+          "file": "b30-cue-10064.jpg"
+        },
+        {
+          "beat": "b30",
+          "frame": 10348,
+          "file": "b30-late-10348.jpg"
+        },
+        {
+          "beat": "b31",
+          "frame": 10472,
+          "file": "b31-early-10472.jpg"
+        },
+        {
+          "beat": "b31",
+          "frame": 10626,
+          "file": "b31-cue-10626.jpg"
+        },
+        {
+          "beat": "b31",
+          "frame": 10689,
+          "file": "b31-late-10689.jpg"
+        },
+        {
+          "beat": "b32",
+          "frame": 10807,
+          "file": "b32-early-10807.jpg"
+        },
+        {
+          "beat": "b32",
+          "frame": 10924,
+          "file": "b32-cue-10924.jpg"
+        },
+        {
+          "beat": "b32",
+          "frame": 11048,
+          "file": "b32-late-11048.jpg"
+        },
+        {
+          "beat": "b33",
+          "frame": 11171,
+          "file": "b33-early-11171.jpg"
+        },
+        {
+          "beat": "b33",
+          "frame": 11146,
+          "file": "b33-cue-11146.jpg"
+        },
+        {
+          "beat": "b33",
+          "frame": 11410,
+          "file": "b33-late-11410.jpg"
+        },
+        {
+          "beat": "b34",
+          "frame": 11527,
+          "file": "b34-early-11527.jpg"
+        },
+        {
+          "beat": "b34",
+          "frame": 11608,
+          "file": "b34-cue-11608.jpg"
+        },
+        {
+          "beat": "b34",
+          "frame": 11744,
+          "file": "b34-late-11744.jpg"
+        },
+        {
+          "beat": "b35",
+          "frame": 11860,
+          "file": "b35-early-11860.jpg"
+        },
+        {
+          "beat": "b35",
+          "frame": 11904,
+          "file": "b35-cue-11904.jpg"
+        },
+        {
+          "beat": "b35",
+          "frame": 12091,
+          "file": "b35-late-12091.jpg"
+        },
+        {
+          "beat": "b36",
+          "frame": 12206,
+          "file": "b36-early-12206.jpg"
+        },
+        {
+          "beat": "b36",
+          "frame": 12254,
+          "file": "b36-cue-12254.jpg"
+        },
+        {
+          "beat": "b36",
+          "frame": 12422,
+          "file": "b36-late-12422.jpg"
+        },
+        {
+          "beat": "b37",
+          "frame": 12534,
+          "file": "b37-early-12534.jpg"
+        },
+        {
+          "beat": "b37",
+          "frame": 12525,
+          "file": "b37-cue-12525.jpg"
+        },
+        {
+          "beat": "b37",
+          "frame": 12749,
+          "file": "b37-late-12749.jpg"
+        },
+        {
+          "beat": "b38",
+          "frame": 12867,
+          "file": "b38-early-12867.jpg"
+        },
+        {
+          "beat": "b38",
+          "frame": 12858,
+          "file": "b38-cue-12858.jpg"
+        },
+        {
+          "beat": "b38",
+          "frame": 13111,
+          "file": "b38-late-13111.jpg"
+        },
+        {
+          "beat": "b39",
+          "frame": 13234,
+          "file": "b39-early-13234.jpg"
+        },
+        {
+          "beat": "b39",
+          "frame": 13200,
+          "file": "b39-cue-13200.jpg"
+        },
+        {
+          "beat": "b39",
+          "frame": 13469,
+          "file": "b39-late-13469.jpg"
+        },
+        {
+          "beat": "b40",
+          "frame": 13596,
+          "file": "b40-early-13596.jpg"
+        },
+        {
+          "beat": "b40",
+          "frame": 13587,
+          "file": "b40-cue-13587.jpg"
+        },
+        {
+          "beat": "b40",
+          "frame": 13852,
+          "file": "b40-late-13852.jpg"
+        },
+        {
+          "beat": "b41",
+          "frame": 13983,
+          "file": "b41-early-13983.jpg"
+        },
+        {
+          "beat": "b41",
+          "frame": 14041,
+          "file": "b41-cue-14041.jpg"
+        },
+        {
+          "beat": "b41",
+          "frame": 14239,
+          "file": "b41-late-14239.jpg"
+        },
+        {
+          "beat": "b42",
+          "frame": 14375,
+          "file": "b42-early-14375.jpg"
+        },
+        {
+          "beat": "b42",
+          "frame": 14483,
+          "file": "b42-cue-14483.jpg"
+        },
+        {
+          "beat": "b42",
+          "frame": 14648,
+          "file": "b42-late-14648.jpg"
+        },
+        {
+          "beat": "b43",
+          "frame": 14786,
+          "file": "b43-early-14786.jpg"
+        },
+        {
+          "beat": "b43",
+          "frame": 14957,
+          "file": "b43-cue-14957.jpg"
+        },
+        {
+          "beat": "b43",
+          "frame": 15048,
+          "file": "b43-late-15048.jpg"
+        },
+        {
+          "beat": "b44",
+          "frame": 15177,
+          "file": "b44-early-15177.jpg"
+        },
+        {
+          "beat": "b44",
+          "frame": 15184,
+          "file": "b44-cue-15184.jpg"
+        },
+        {
+          "beat": "b44",
+          "frame": 15416,
+          "file": "b44-late-15416.jpg"
+        },
+        {
+          "beat": "b45",
+          "frame": 15538,
+          "file": "b45-early-15538.jpg"
+        },
+        {
+          "beat": "b45",
+          "frame": 15712,
+          "file": "b45-cue-15712.jpg"
+        },
+        {
+          "beat": "b45",
+          "frame": 15774,
+          "file": "b45-late-15774.jpg"
+        },
+        {
+          "beat": "b46",
+          "frame": 15891,
+          "file": "b46-early-15891.jpg"
+        },
+        {
+          "beat": "b46",
+          "frame": 15892,
+          "file": "b46-cue-15892.jpg"
+        },
+        {
+          "beat": "b46",
+          "frame": 16105,
+          "file": "b46-late-16105.jpg"
+        },
+        {
+          "beat": "b47",
+          "frame": 16230,
+          "file": "b47-early-16230.jpg"
+        },
+        {
+          "beat": "b47",
+          "frame": 16174,
+          "file": "b47-cue-16174.jpg"
+        },
+        {
+          "beat": "b47",
+          "frame": 16503,
+          "file": "b47-late-16503.jpg"
+        },
+        {
+          "beat": "b48",
+          "frame": 16635,
+          "file": "b48-early-16635.jpg"
+        },
+        {
+          "beat": "b48",
+          "frame": 16588,
+          "file": "b48-cue-16588.jpg"
+        },
+        {
+          "beat": "b48",
+          "frame": 16874,
+          "file": "b48-late-16874.jpg"
+        },
+        {
+          "beat": "b49",
+          "frame": 17002,
+          "file": "b49-early-17002.jpg"
+        },
+        {
+          "beat": "b49",
+          "frame": 16949,
+          "file": "b49-cue-16949.jpg"
+        },
+        {
+          "beat": "b49",
+          "frame": 17265,
+          "file": "b49-late-17265.jpg"
+        },
+        {
+          "beat": "b50",
+          "frame": 17401,
+          "file": "b50-early-17401.jpg"
+        },
+        {
+          "beat": "b50",
+          "frame": 17460,
+          "file": "b50-cue-17460.jpg"
+        },
+        {
+          "beat": "b50",
+          "frame": 17669,
+          "file": "b50-late-17669.jpg"
+        }
+      ]
+    },
+    {
+      "style": "flow",
+      "file": "videos\\2026-11-13-hai-style-10-phut\\r03\\flow\\final.mp4",
+      "sha256": "3f3199567060f922505af0609c96f58011679df3d9ad48a8664f1efcf3db24a4",
+      "decodedFrames": 17743,
+      "seconds": 591.4333333333333,
+      "decodedAudioSeconds": 591.4453333333333,
+      "audioPCMHash": "a6de5bdada30a9d170143e8b2b6d61e0067341204b121335674869553f2f91d6",
+      "lastWordEnd": 590.21,
+      "samples": [
+        {
+          "beat": "b01",
+          "frame": 56,
+          "file": "b01-early-00056.jpg"
+        },
+        {
+          "beat": "b01",
+          "frame": 73,
+          "file": "b01-cue-00073.jpg"
+        },
+        {
+          "beat": "b01",
+          "frame": 287,
+          "file": "b01-late-00287.jpg"
+        },
+        {
+          "beat": "b02",
+          "frame": 398,
+          "file": "b02-early-00398.jpg"
+        },
+        {
+          "beat": "b02",
+          "frame": 448,
+          "file": "b02-cue-00448.jpg"
+        },
+        {
+          "beat": "b02",
+          "frame": 592,
+          "file": "b02-late-00592.jpg"
+        },
+        {
+          "beat": "b03",
+          "frame": 697,
+          "file": "b03-early-00697.jpg"
+        },
+        {
+          "beat": "b03",
+          "frame": 822,
+          "file": "b03-cue-00822.jpg"
+        },
+        {
+          "beat": "b03",
+          "frame": 909,
+          "file": "b03-late-00909.jpg"
+        },
+        {
+          "beat": "b04",
+          "frame": 1018,
+          "file": "b04-early-01018.jpg"
+        },
+        {
+          "beat": "b04",
+          "frame": 1101,
+          "file": "b04-cue-01101.jpg"
+        },
+        {
+          "beat": "b04",
+          "frame": 1231,
+          "file": "b04-late-01231.jpg"
+        },
+        {
+          "beat": "b05",
+          "frame": 1339,
+          "file": "b05-early-01339.jpg"
+        },
+        {
+          "beat": "b05",
+          "frame": 1408,
+          "file": "b05-cue-01408.jpg"
+        },
+        {
+          "beat": "b05",
+          "frame": 1549,
+          "file": "b05-late-01549.jpg"
+        },
+        {
+          "beat": "b06",
+          "frame": 1661,
+          "file": "b06-early-01661.jpg"
+        },
+        {
+          "beat": "b06",
+          "frame": 1729,
+          "file": "b06-cue-01729.jpg"
+        },
+        {
+          "beat": "b06",
+          "frame": 1884,
+          "file": "b06-late-01884.jpg"
+        },
+        {
+          "beat": "b07",
+          "frame": 2001,
+          "file": "b07-early-02001.jpg"
+        },
+        {
+          "beat": "b07",
+          "frame": 2079,
+          "file": "b07-cue-02079.jpg"
+        },
+        {
+          "beat": "b07",
+          "frame": 2235,
+          "file": "b07-late-02235.jpg"
+        },
+        {
+          "beat": "b08",
+          "frame": 2358,
+          "file": "b08-early-02358.jpg"
+        },
+        {
+          "beat": "b08",
+          "frame": 2405,
+          "file": "b08-cue-02405.jpg"
+        },
+        {
+          "beat": "b08",
+          "frame": 2602,
+          "file": "b08-late-02602.jpg"
+        },
+        {
+          "beat": "b09",
+          "frame": 2730,
+          "file": "b09-early-02730.jpg"
+        },
+        {
+          "beat": "b09",
+          "frame": 2741,
+          "file": "b09-cue-02741.jpg"
+        },
+        {
+          "beat": "b09",
+          "frame": 2982,
+          "file": "b09-late-02982.jpg"
+        },
+        {
+          "beat": "b10",
+          "frame": 3106,
+          "file": "b10-early-03106.jpg"
+        },
+        {
+          "beat": "b10",
+          "frame": 3184,
+          "file": "b10-cue-03184.jpg"
+        },
+        {
+          "beat": "b10",
+          "frame": 3334,
+          "file": "b10-late-03334.jpg"
+        },
+        {
+          "beat": "b11",
+          "frame": 3449,
+          "file": "b11-early-03449.jpg"
+        },
+        {
+          "beat": "b11",
+          "frame": 3447,
+          "file": "b11-cue-03447.jpg"
+        },
+        {
+          "beat": "b11",
+          "frame": 3668,
+          "file": "b11-late-03668.jpg"
+        },
+        {
+          "beat": "b12",
+          "frame": 3784,
+          "file": "b12-early-03784.jpg"
+        },
+        {
+          "beat": "b12",
+          "frame": 3770,
+          "file": "b12-cue-03770.jpg"
+        },
+        {
+          "beat": "b12",
+          "frame": 4018,
+          "file": "b12-late-04018.jpg"
+        },
+        {
+          "beat": "b13",
+          "frame": 4140,
+          "file": "b13-early-04140.jpg"
+        },
+        {
+          "beat": "b13",
+          "frame": 4176,
+          "file": "b13-cue-04176.jpg"
+        },
+        {
+          "beat": "b13",
+          "frame": 4383,
+          "file": "b13-late-04383.jpg"
+        },
+        {
+          "beat": "b14",
+          "frame": 4495,
+          "file": "b14-early-04495.jpg"
+        },
+        {
+          "beat": "b14",
+          "frame": 4533,
+          "file": "b14-cue-04533.jpg"
+        },
+        {
+          "beat": "b14",
+          "frame": 4682,
+          "file": "b14-late-04682.jpg"
+        },
+        {
+          "beat": "b15",
+          "frame": 4798,
+          "file": "b15-early-04798.jpg"
+        },
+        {
+          "beat": "b15",
+          "frame": 4807,
+          "file": "b15-cue-04807.jpg"
+        },
+        {
+          "beat": "b15",
+          "frame": 5063,
+          "file": "b15-late-05063.jpg"
+        },
+        {
+          "beat": "b16",
+          "frame": 5186,
+          "file": "b16-early-05186.jpg"
+        },
+        {
+          "beat": "b16",
+          "frame": 5262,
+          "file": "b16-cue-05262.jpg"
+        },
+        {
+          "beat": "b16",
+          "frame": 5392,
+          "file": "b16-late-05392.jpg"
+        },
+        {
+          "beat": "b17",
+          "frame": 5502,
+          "file": "b17-early-05502.jpg"
+        },
+        {
+          "beat": "b17",
+          "frame": 5754,
+          "file": "b17-cue-05754.jpg"
+        },
+        {
+          "beat": "b17",
+          "frame": 5723,
+          "file": "b17-late-05723.jpg"
+        },
+        {
+          "beat": "b18",
+          "frame": 5837,
+          "file": "b18-early-05837.jpg"
+        },
+        {
+          "beat": "b18",
+          "frame": 5912,
+          "file": "b18-cue-05912.jpg"
+        },
+        {
+          "beat": "b18",
+          "frame": 6057,
+          "file": "b18-late-06057.jpg"
+        },
+        {
+          "beat": "b19",
+          "frame": 6174,
+          "file": "b19-early-06174.jpg"
+        },
+        {
+          "beat": "b19",
+          "frame": 6169,
+          "file": "b19-cue-06169.jpg"
+        },
+        {
+          "beat": "b19",
+          "frame": 6412,
+          "file": "b19-late-06412.jpg"
+        },
+        {
+          "beat": "b20",
+          "frame": 6535,
+          "file": "b20-early-06535.jpg"
+        },
+        {
+          "beat": "b20",
+          "frame": 6515,
+          "file": "b20-cue-06515.jpg"
+        },
+        {
+          "beat": "b20",
+          "frame": 6777,
+          "file": "b20-late-06777.jpg"
+        },
+        {
+          "beat": "b21",
+          "frame": 6897,
+          "file": "b21-early-06897.jpg"
+        },
+        {
+          "beat": "b21",
+          "frame": 6979,
+          "file": "b21-cue-06979.jpg"
+        },
+        {
+          "beat": "b21",
+          "frame": 7117,
+          "file": "b21-late-07117.jpg"
+        },
+        {
+          "beat": "b22",
+          "frame": 7239,
+          "file": "b22-early-07239.jpg"
+        },
+        {
+          "beat": "b22",
+          "frame": 7272,
+          "file": "b22-cue-07272.jpg"
+        },
+        {
+          "beat": "b22",
+          "frame": 7494,
+          "file": "b22-late-07494.jpg"
+        },
+        {
+          "beat": "b23",
+          "frame": 7618,
+          "file": "b23-early-07618.jpg"
+        },
+        {
+          "beat": "b23",
+          "frame": 7832,
+          "file": "b23-cue-07832.jpg"
+        },
+        {
+          "beat": "b23",
+          "frame": 7842,
+          "file": "b23-late-07842.jpg"
+        },
+        {
+          "beat": "b24",
+          "frame": 7956,
+          "file": "b24-early-07956.jpg"
+        },
+        {
+          "beat": "b24",
+          "frame": 7995,
+          "file": "b24-cue-07995.jpg"
+        },
+        {
+          "beat": "b24",
+          "frame": 8172,
+          "file": "b24-late-08172.jpg"
+        },
+        {
+          "beat": "b25",
+          "frame": 8285,
+          "file": "b25-early-08285.jpg"
+        },
+        {
+          "beat": "b25",
+          "frame": 8384,
+          "file": "b25-cue-08384.jpg"
+        },
+        {
+          "beat": "b25",
+          "frame": 8504,
+          "file": "b25-late-08504.jpg"
+        },
+        {
+          "beat": "b26",
+          "frame": 8624,
+          "file": "b26-early-08624.jpg"
+        },
+        {
+          "beat": "b26",
+          "frame": 8688,
+          "file": "b26-cue-08688.jpg"
+        },
+        {
+          "beat": "b26",
+          "frame": 8873,
+          "file": "b26-late-08873.jpg"
+        },
+        {
+          "beat": "b27",
+          "frame": 8999,
+          "file": "b27-early-08999.jpg"
+        },
+        {
+          "beat": "b27",
+          "frame": 9069,
+          "file": "b27-cue-09069.jpg"
+        },
+        {
+          "beat": "b27",
+          "frame": 9241,
+          "file": "b27-late-09241.jpg"
+        },
+        {
+          "beat": "b28",
+          "frame": 9360,
+          "file": "b28-early-09360.jpg"
+        },
+        {
+          "beat": "b28",
+          "frame": 9343,
+          "file": "b28-cue-09343.jpg"
+        },
+        {
+          "beat": "b28",
+          "frame": 9576,
+          "file": "b28-late-09576.jpg"
+        },
+        {
+          "beat": "b29",
+          "frame": 9697,
+          "file": "b29-early-09697.jpg"
+        },
+        {
+          "beat": "b29",
+          "frame": 9660,
+          "file": "b29-cue-09660.jpg"
+        },
+        {
+          "beat": "b29",
+          "frame": 9953,
+          "file": "b29-late-09953.jpg"
+        },
+        {
+          "beat": "b30",
+          "frame": 10086,
+          "file": "b30-early-10086.jpg"
+        },
+        {
+          "beat": "b30",
+          "frame": 10064,
+          "file": "b30-cue-10064.jpg"
+        },
+        {
+          "beat": "b30",
+          "frame": 10348,
+          "file": "b30-late-10348.jpg"
+        },
+        {
+          "beat": "b31",
+          "frame": 10472,
+          "file": "b31-early-10472.jpg"
+        },
+        {
+          "beat": "b31",
+          "frame": 10626,
+          "file": "b31-cue-10626.jpg"
+        },
+        {
+          "beat": "b31",
+          "frame": 10689,
+          "file": "b31-late-10689.jpg"
+        },
+        {
+          "beat": "b32",
+          "frame": 10807,
+          "file": "b32-early-10807.jpg"
+        },
+        {
+          "beat": "b32",
+          "frame": 10924,
+          "file": "b32-cue-10924.jpg"
+        },
+        {
+          "beat": "b32",
+          "frame": 11048,
+          "file": "b32-late-11048.jpg"
+        },
+        {
+          "beat": "b33",
+          "frame": 11171,
+          "file": "b33-early-11171.jpg"
+        },
+        {
+          "beat": "b33",
+          "frame": 11146,
+          "file": "b33-cue-11146.jpg"
+        },
+        {
+          "beat": "b33",
+          "frame": 11410,
+          "file": "b33-late-11410.jpg"
+        },
+        {
+          "beat": "b34",
+          "frame": 11527,
+          "file": "b34-early-11527.jpg"
+        },
+        {
+          "beat": "b34",
+          "frame": 11608,
+          "file": "b34-cue-11608.jpg"
+        },
+        {
+          "beat": "b34",
+          "frame": 11744,
+          "file": "b34-late-11744.jpg"
+        },
+        {
+          "beat": "b35",
+          "frame": 11860,
+          "file": "b35-early-11860.jpg"
+        },
+        {
+          "beat": "b35",
+          "frame": 11904,
+          "file": "b35-cue-11904.jpg"
+        },
+        {
+          "beat": "b35",
+          "frame": 12091,
+          "file": "b35-late-12091.jpg"
+        },
+        {
+          "beat": "b36",
+          "frame": 12206,
+          "file": "b36-early-12206.jpg"
+        },
+        {
+          "beat": "b36",
+          "frame": 12254,
+          "file": "b36-cue-12254.jpg"
+        },
+        {
+          "beat": "b36",
+          "frame": 12422,
+          "file": "b36-late-12422.jpg"
+        },
+        {
+          "beat": "b37",
+          "frame": 12534,
+          "file": "b37-early-12534.jpg"
+        },
+        {
+          "beat": "b37",
+          "frame": 12525,
+          "file": "b37-cue-12525.jpg"
+        },
+        {
+          "beat": "b37",
+          "frame": 12749,
+          "file": "b37-late-12749.jpg"
+        },
+        {
+          "beat": "b38",
+          "frame": 12867,
+          "file": "b38-early-12867.jpg"
+        },
+        {
+          "beat": "b38",
+          "frame": 12858,
+          "file": "b38-cue-12858.jpg"
+        },
+        {
+          "beat": "b38",
+          "frame": 13111,
+          "file": "b38-late-13111.jpg"
+        },
+        {
+          "beat": "b39",
+          "frame": 13234,
+          "file": "b39-early-13234.jpg"
+        },
+        {
+          "beat": "b39",
+          "frame": 13200,
+          "file": "b39-cue-13200.jpg"
+        },
+        {
+          "beat": "b39",
+          "frame": 13469,
+          "file": "b39-late-13469.jpg"
+        },
+        {
+          "beat": "b40",
+          "frame": 13596,
+          "file": "b40-early-13596.jpg"
+        },
+        {
+          "beat": "b40",
+          "frame": 13587,
+          "file": "b40-cue-13587.jpg"
+        },
+        {
+          "beat": "b40",
+          "frame": 13852,
+          "file": "b40-late-13852.jpg"
+        },
+        {
+          "beat": "b41",
+          "frame": 13983,
+          "file": "b41-early-13983.jpg"
+        },
+        {
+          "beat": "b41",
+          "frame": 14041,
+          "file": "b41-cue-14041.jpg"
+        },
+        {
+          "beat": "b41",
+          "frame": 14239,
+          "file": "b41-late-14239.jpg"
+        },
+        {
+          "beat": "b42",
+          "frame": 14375,
+          "file": "b42-early-14375.jpg"
+        },
+        {
+          "beat": "b42",
+          "frame": 14483,
+          "file": "b42-cue-14483.jpg"
+        },
+        {
+          "beat": "b42",
+          "frame": 14648,
+          "file": "b42-late-14648.jpg"
+        },
+        {
+          "beat": "b43",
+          "frame": 14786,
+          "file": "b43-early-14786.jpg"
+        },
+        {
+          "beat": "b43",
+          "frame": 14957,
+          "file": "b43-cue-14957.jpg"
+        },
+        {
+          "beat": "b43",
+          "frame": 15048,
+          "file": "b43-late-15048.jpg"
+        },
+        {
+          "beat": "b44",
+          "frame": 15177,
+          "file": "b44-early-15177.jpg"
+        },
+        {
+          "beat": "b44",
+          "frame": 15184,
+          "file": "b44-cue-15184.jpg"
+        },
+        {
+          "beat": "b44",
+          "frame": 15416,
+          "file": "b44-late-15416.jpg"
+        },
+        {
+          "beat": "b45",
+          "frame": 15538,
+          "file": "b45-early-15538.jpg"
+        },
+        {
+          "beat": "b45",
+          "frame": 15712,
+          "file": "b45-cue-15712.jpg"
+        },
+        {
+          "beat": "b45",
+          "frame": 15774,
+          "file": "b45-late-15774.jpg"
+        },
+        {
+          "beat": "b46",
+          "frame": 15891,
+          "file": "b46-early-15891.jpg"
+        },
+        {
+          "beat": "b46",
+          "frame": 15892,
+          "file": "b46-cue-15892.jpg"
+        },
+        {
+          "beat": "b46",
+          "frame": 16105,
+          "file": "b46-late-16105.jpg"
+        },
+        {
+          "beat": "b47",
+          "frame": 16230,
+          "file": "b47-early-16230.jpg"
+        },
+        {
+          "beat": "b47",
+          "frame": 16174,
+          "file": "b47-cue-16174.jpg"
+        },
+        {
+          "beat": "b47",
+          "frame": 16503,
+          "file": "b47-late-16503.jpg"
+        },
+        {
+          "beat": "b48",
+          "frame": 16635,
+          "file": "b48-early-16635.jpg"
+        },
+        {
+          "beat": "b48",
+          "frame": 16588,
+          "file": "b48-cue-16588.jpg"
+        },
+        {
+          "beat": "b48",
+          "frame": 16874,
+          "file": "b48-late-16874.jpg"
+        },
+        {
+          "beat": "b49",
+          "frame": 17002,
+          "file": "b49-early-17002.jpg"
+        },
+        {
+          "beat": "b49",
+          "frame": 16949,
+          "file": "b49-cue-16949.jpg"
+        },
+        {
+          "beat": "b49",
+          "frame": 17265,
+          "file": "b49-late-17265.jpg"
+        },
+        {
+          "beat": "b50",
+          "frame": 17401,
+          "file": "b50-early-17401.jpg"
+        },
+        {
+          "beat": "b50",
+          "frame": 17460,
+          "file": "b50-cue-17460.jpg"
+        },
+        {
+          "beat": "b50",
+          "frame": 17669,
+          "file": "b50-late-17669.jpg"
+        }
+      ]
+    }
+  ],
+  "sameDecodedAudio": true,
+  "captionMaxPixelWidth": 848.0,
+  "speechSpeed": 1,
+  "voice": "Nhật Phong",
+  "voiceReceipts": {
+    "voiceId": "6adFm46eyy74snVn6YrT",
+    "speed": 1.0,
+    "chapters": [
+      {
+        "chapter": "nghich-ly",
+        "file": "audio/01-nghich-ly.mp3",
+        "cacheHit": false,
+        "wallSeconds": 26.735,
+        "sha256": "61ac522b77183fb2c2211e9058e40a43fd2147f59ff1297dc777fc286df1539c",
+        "receiptSHA256": "0884a08f14279d797488f2a63c9df51877cd309e550d47ed815a26a08b86ee75",
+        "providerCharacterCost": "373",
+        "newRequestCredits": "373"
+      },
+      {
+        "chapter": "hai-ngan-sach",
+        "file": "audio/02-hai-ngan-sach.mp3",
+        "cacheHit": false,
+        "wallSeconds": 23.693,
+        "sha256": "877d64fa4026011a5c911f86501ba130b9d584c04d21a329c0478c637c14ac0f",
+        "receiptSHA256": "27fb0b14b073d499e2dbaec0cb0b6dc7f2fdff57ba6411c9ab62e6430eed8705",
+        "providerCharacterCost": "377",
+        "newRequestCredits": "377"
+      },
+      {
+        "chapter": "khoan-nho",
+        "file": "audio/03-khoan-nho.mp3",
+        "cacheHit": false,
+        "wallSeconds": 27.307,
+        "sha256": "a02488df2bb3c9f438851949a5175dd9836e0b4b6013b8a1cb11a38e275fa520",
+        "receiptSHA256": "bb453faec5d11e6020492f36f6cc59a4c6a790d534eec8d4712172f2cdf9d41c",
+        "providerCharacterCost": "386",
+        "newRequestCredits": "386"
+      },
+      {
+        "chapter": "kiem-tra",
+        "file": "audio/04-kiem-tra.mp3",
+        "cacheHit": false,
+        "wallSeconds": 26.28,
+        "sha256": "d812565b09b15c64d771c89292cf267f94611417b997f88900ff431425e7c442",
+        "receiptSHA256": "cce5076b1fbbdc8ed0a767088487e8de11f8b461ea6e2e8d97dafe890b0957c2",
+        "providerCharacterCost": "359",
+        "newRequestCredits": "359"
+      },
+      {
+        "chapter": "phi-lap-lai",
+        "file": "audio/05-phi-lap-lai.mp3",
+        "cacheHit": false,
+        "wallSeconds": 23.614,
+        "sha256": "7ca7e8ca3cd6380255a022e9ea7fa13d8083f241eab36c986410b6098a9e7f82",
+        "receiptSHA256": "36c869f489f08de82dcfdef68d9e29b9ea4154ef35be29e76f52def01943a01e",
+        "providerCharacterCost": "385",
+        "newRequestCredits": "385"
+      },
+      {
+        "chapter": "lich-dong-tien",
+        "file": "audio/06-lich-dong-tien.mp3",
+        "cacheHit": false,
+        "wallSeconds": 23.976,
+        "sha256": "82161fdadec7fce008958f30b2ab5a8c82aa12fd712a16cc84000a682214324e",
+        "receiptSHA256": "562205697ff0030bc6e22df6e45b8b810ee4fd8add539dacf09b97029aafaa1a",
+        "providerCharacterCost": "380",
+        "newRequestCredits": "380"
+      },
+      {
+        "chapter": "thiet-yeu",
+        "file": "audio/07-thiet-yeu.mp3",
+        "cacheHit": false,
+        "wallSeconds": 22.004,
+        "sha256": "dc10a4398ae834cce8457311e9de4363670f093356c7319688efe0d16d2617be",
+        "receiptSHA256": "6d09982b236771dc83845736c6a6d504f930fca101442665d13b6685b4a81221",
+        "providerCharacterCost": "376",
+        "newRequestCredits": "376"
+      },
+      {
+        "chapter": "giao-viec-cho-tien",
+        "file": "audio/08-giao-viec-cho-tien.mp3",
+        "cacheHit": false,
+        "wallSeconds": 24.718,
+        "sha256": "714ba007ae4e8b572e5a5cb0e754114c4b3c2e68342f2c2c97434a09194fe76b",
+        "receiptSHA256": "e5398bc42351b376e4d53f72b825ab7b538498bc91c25312a04d88cf6fb46572",
+        "providerCharacterCost": "382",
+        "newRequestCredits": "382"
+      },
+      {
+        "chapter": "mua-co-chu-dich",
+        "file": "audio/09-mua-co-chu-dich.mp3",
+        "cacheHit": false,
+        "wallSeconds": 25.377,
+        "sha256": "6856d7972f80a19035fe280fdd6ba9409b876e71b99c0b8efabe9e1316a7bcb3",
+        "receiptSHA256": "cea9e4f0fbfbbb607cce696f83ff44c9d4ae5a353a9bbb769148c28ff2582433",
+        "providerCharacterCost": "387",
+        "newRequestCredits": "387"
+      },
+      {
+        "chapter": "ba-muoi-ngay",
+        "file": "audio/10-ba-muoi-ngay.mp3",
+        "cacheHit": false,
+        "wallSeconds": 23.259,
+        "sha256": "8474913eb79c42d1a8b207fa2dcc21b11fa0bd33a9fd3cf0a03e9ab99927ce3d",
+        "receiptSHA256": "cce96fd0e923c15e5dc3ad664f8b586d8b64f64b13851ade342589b9f7826ef5",
+        "providerCharacterCost": "386",
+        "newRequestCredits": "386"
+      }
+    ],
+    "accounting": "Provider character-cost header units only; not an invoice or a dollar conversion"
+  },
+  "newPaidVisualMusicCalls": 0,
+  "userApproval": "pending",
+  "continuousAVReview": false,
+  "limits": "Full decode, measured loudness and sampled rendered-frame inspection do not establish continuous watching/listening or aesthetic approval"
+}

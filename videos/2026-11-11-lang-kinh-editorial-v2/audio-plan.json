@@ -1,0 +1,12 @@
+{
+  "tts_characters": 769,
+  "voice": {
+    "id": "ZlVlUEsl3JykOGluaNu1",
+    "name": "Thuy Tien — Vietnamese Narrator",
+    "model": "eleven_v3"
+  },
+  "new_tts_calls_upper_bound": 0,
+  "new_sound_calls_upper_bound": 0,
+  "sound_seconds_upper_bound": 0,
+  "note": "File-based upper bound before content-addressed cache lookup; credentials excluded."
+}

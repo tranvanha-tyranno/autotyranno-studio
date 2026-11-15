@@ -1,0 +1,222 @@
+{
+  "schema": "economy-story-chapter-asr/1",
+  "requestHash": "36b0547a465c7f1176ac9feb00d990e014ae3f0c26af4bd57306b132fb6e397f",
+  "request": {
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "chapterAudioSHA256": "ec49b3e28d502d48d14dc26a89a8e62d7f88824c122b1650d16e061075c1c612",
+    "startFrame": 3951,
+    "endFrameExclusive": 6496,
+    "expectedSHA256": "1389e4a5c6ad293029bc2bc18d5825dc2950f40237116e2940f145530228b360",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "sau-quay-banh",
+  "expected": "Trong mô hình đơn giản, một ổ bánh bán hai mươi nghìn. Chi phí biến đổi là mười hai nghìn; tiền thuê và chi phí cố định được phân bổ năm nghìn ở sản lượng giả định. Còn ba nghìn, trước các khoản chưa đưa vào mô hình. Ba nghìn chưa là lợi nhuận ròng: còn thuế, khấu hao và công chủ tiệm chưa tính đủ. Tiền thuê trên mỗi ổ cũng thay đổi nếu số bánh bán khác đi. Đây là kính lúp giải thích, không phải sổ kế toán hoàn chỉnh. Nguyên liệu, bao bì và năng lượng làm chi phí biến đổi tăng lên mười bốn nghìn năm trăm. Tiệm nâng giá lên hai mươi hai nghìn. Giữ cách phân bổ cũ, phần còn lại chỉ còn hai nghìn năm trăm, thấp hơn trước. Khách trả thêm hai nghìn, nhưng chi phí biến đổi tăng hai nghìn năm trăm. Vậy giá bán tăng mà phần dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bảng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này. Bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hụt có thể làm người bán trả nhiều hơn. Nếu nhiều doanh nghiệp gặp sức ép tương tự, chi phí có thể lan sang giá hàng tiêu dùng. Nhiên liệu đắt hơn có thể đi vào cước giao hàng, vận hành máy móc và phân phối. Khách không mua dầu thô cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chuỗi cung ứng trước khi hàng tới quầy. Đầu vào tăng không có nghĩa giá bán luôn tăng đúng bấy nhiêu. Chủ tiệm còn chịu cạnh tranh và sức mua của khách. Có nơi chấp nhận giảm phần dư, có nơi đổi cách vận hành, có nơi mới tăng giá.",
+  "recognized": "trong bầu hình đơn giản, một ổ bánh bán 20.000, G-FY bến đổi là 12.000, tiền thuyền và G-FY khú định được phân bộ 5.000 ở sản lượng giả định, còn 3.000 chức các khoảng chưa đưa vào bầu hình, 3.000 chưa là lợi nhận ròng, con thuyết, khấu hào và công chủ tiệm chưa tính đủ, tiền thuyền bộ cũng thay đổi nếu số bánh bán khác đi, đây là kính lúc giải thích không phải xấu kế toán hoàn trình. Nguyên liệu, bao bì và năng lượng làm chifey biến đổi tăng lên 14500. Tiệm nâng giá lên 22000, dự cách phân bộ cu, phân con lại chỉ còn 2500, thập hình trước. Khách trả thêm 2000, nhưng chifey biến đổi tăng 2500. Vậy giá bán tăng, mà phân dư trên mỗi ổ lại giảm. Chỉ nhìn tấm bằng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này, bột và thực phẩm không đứng riêng khỏi kinh tế. Một đầu vào thiếu hút có thể là người bán trả nhiều hơn. Nếu nhiều dân nghiệp vập sức ép tương tự, chi phí có thể lan sàng giá hàng tiêu dùng. Nhìn liệu đất hơn có thể đi vào cước dau hàng vận hành máy móc và phân phối. Khách không mua dổ thu cùng ổ bánh, nhưng chi phí vận chuyển đã đi qua chữa cùng ngứng trước khi hàng tới quầy. Đầu vào tăng, không có nghĩa giá bán luôn tăng đúng bấy nhiều. Chủ tiệm con triệu cạnh tranh và xức mua của khách. Có nơi chấp nhận giảm phân dư, có nơi đổi cách vận hành, có nơi mới tông giá",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": " trong bầu hình đơn giản, một ổ bánh bán 20.000,",
+      "globalStart": 131.7,
+      "globalEnd": 134.54
+    },
+    {
+      "start": 2.84,
+      "end": 9.26,
+      "text": " G-FY bến đổi là 12.000, tiền thuyền và G-FY khú định được phân bộ 5.000 ở sản lượng giả định,",
+      "globalStart": 134.54,
+      "globalEnd": 140.95999999999998
+    },
+    {
+      "start": 9.26,
+      "end": 14.3,
+      "text": " còn 3.000 chức các khoảng chưa đưa vào bầu hình, 3.000 chưa là lợi nhận ròng,",
+      "globalStart": 140.95999999999998,
+      "globalEnd": 146.0
+    },
+    {
+      "start": 14.3,
+      "end": 17.82,
+      "text": " con thuyết, khấu hào và công chủ tiệm chưa tính đủ,",
+      "globalStart": 146.0,
+      "globalEnd": 149.51999999999998
+    },
+    {
+      "start": 17.82,
+      "end": 21.76,
+      "text": " tiền thuyền bộ cũng thay đổi nếu số bánh bán khác đi,",
+      "globalStart": 149.51999999999998,
+      "globalEnd": 153.45999999999998
+    },
+    {
+      "start": 21.76,
+      "end": 25.34,
+      "text": " đây là kính lúc giải thích không phải xấu kế toán hoàn trình.",
+      "globalStart": 153.45999999999998,
+      "globalEnd": 157.04
+    },
+    {
+      "start": 25.34,
+      "end": 30.84,
+      "text": " Nguyên liệu, bao bì và năng lượng làm chifey biến đổi tăng lên 14500.",
+      "globalStart": 157.04,
+      "globalEnd": 162.54
+    },
+    {
+      "start": 30.84,
+      "end": 37.7,
+      "text": " Tiệm nâng giá lên 22000, dự cách phân bộ cu, phân con lại chỉ còn 2500, thập hình trước.",
+      "globalStart": 162.54,
+      "globalEnd": 169.39999999999998
+    },
+    {
+      "start": 37.7,
+      "end": 41.760000000000005,
+      "text": " Khách trả thêm 2000, nhưng chifey biến đổi tăng 2500.",
+      "globalStart": 169.39999999999998,
+      "globalEnd": 173.45999999999998
+    },
+    {
+      "start": 41.760000000000005,
+      "end": 45.4,
+      "text": " Vậy giá bán tăng, mà phân dư trên mỗi ổ lại giảm.",
+      "globalStart": 173.45999999999998,
+      "globalEnd": 177.1
+    },
+    {
+      "start": 45.4,
+      "end": 52.74,
+      "text": " Chỉ nhìn tấm bằng mới, ta sẽ bỏ lỡ điều quan trọng nhất trong ví dụ này, bột và thực phẩm không đứng riêng khỏi kinh tế.",
+      "globalStart": 177.1,
+      "globalEnd": 184.44
+    },
+    {
+      "start": 52.74,
+      "end": 56.1,
+      "text": " Một đầu vào thiếu hút có thể là người bán trả nhiều hơn.",
+      "globalStart": 184.44,
+      "globalEnd": 187.79999999999998
+    },
+    {
+      "start": 56.1,
+      "end": 58.480000000000004,
+      "text": " Nếu nhiều dân nghiệp vập sức ép tương tự,",
+      "globalStart": 187.79999999999998,
+      "globalEnd": 190.18
+    },
+    {
+      "start": 58.480000000000004,
+      "end": 61.08,
+      "text": " chi phí có thể lan sàng giá hàng tiêu dùng.",
+      "globalStart": 190.18,
+      "globalEnd": 192.77999999999997
+    },
+    {
+      "start": 61.08,
+      "end": 63.980000000000004,
+      "text": " Nhìn liệu đất hơn có thể đi vào cước dau hàng",
+      "globalStart": 192.77999999999997,
+      "globalEnd": 195.68
+    },
+    {
+      "start": 63.980000000000004,
+      "end": 66.18,
+      "text": " vận hành máy móc và phân phối.",
+      "globalStart": 195.68,
+      "globalEnd": 197.88
+    },
+    {
+      "start": 66.18,
+      "end": 68.48,
+      "text": " Khách không mua dổ thu cùng ổ bánh,",
+      "globalStart": 197.88,
+      "globalEnd": 200.18
+    },
+    {
+      "start": 68.48,
+      "end": 72.58,
+      "text": " nhưng chi phí vận chuyển đã đi qua chữa cùng ngứng trước khi hàng tới quầy.",
+      "globalStart": 200.18,
+      "globalEnd": 204.27999999999997
+    },
+    {
+      "start": 72.58,
+      "end": 76.22,
+      "text": " Đầu vào tăng, không có nghĩa giá bán luôn tăng đúng bấy nhiều.",
+      "globalStart": 204.27999999999997,
+      "globalEnd": 207.92
+    },
+    {
+      "start": 76.22,
+      "end": 79.32000000000001,
+      "text": " Chủ tiệm con triệu cạnh tranh và xức mua của khách.",
+      "globalStart": 207.92,
+      "globalEnd": 211.01999999999998
+    },
+    {
+      "start": 79.32000000000001,
+      "end": 81.32000000000001,
+      "text": " Có nơi chấp nhận giảm phân dư,",
+      "globalStart": 211.01999999999998,
+      "globalEnd": 213.01999999999998
+    },
+    {
+      "start": 81.32000000000001,
+      "end": 84.60000000000001,
+      "text": " có nơi đổi cách vận hành, có nơi mới tông giá",
+      "globalStart": 213.01999999999998,
+      "globalEnd": 216.3
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 18.03,
+  "chapterAudio": "audio\\asr-base-chapters\\chunks\\03-sau-quay-banh-c806672ba3a437eb.wav",
+  "chunk": {
+    "chunkKey": "c806672ba3a437ebce1d9e98935d332e07d9a75eadc0e3553855c7ca7d5a4f0c",
+    "sha256": "ec49b3e28d502d48d14dc26a89a8e62d7f88824c122b1650d16e061075c1c612",
+    "sourceSHA256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+    "samples": 1357333,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "sourceStartSample": 6321600,
+    "sourceEndSampleExclusive": 10393600,
+    "sourceSampleRate": 48000,
+    "seconds": 84.8333125,
+    "boundaryScope": "Exact source-mix sample interval; resampled output may round by up to two samples."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8262,
+    "expectedTokenCoverage": 0.8208,
+    "expectedTailTokenCoverage": 0.88,
+    "expectedTokens": 307,
+    "observedTokens": 303,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission."
+  },
+  "cacheHit": false
+}

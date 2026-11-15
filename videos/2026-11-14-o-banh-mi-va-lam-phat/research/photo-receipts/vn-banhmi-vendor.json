@@ -1,0 +1,49 @@
+{
+  "id": "vn-banhmi-vendor",
+  "file": "assets/vn-banhmi-vendor.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 33885703,
+  "sourceURL": "https://www.pexels.com/photo/vietnamese-street-food-vendor-serving-banh-mi-33885703/",
+  "downloadURL": "https://images.pexels.com/photos/33885703/pexels-photo-33885703.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Sóc Năng Động",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025",
+  "width": 2400,
+  "height": 3600,
+  "tags": [
+    "shop",
+    "bread"
+  ],
+  "credit": "Sóc Năng Động / Pexels",
+  "expectedFromSource": "Street vendor at banh mi cart",
+  "observed": "Sidewalk bánh mì cart with bread rolls behind glass, an actual vendor and customer beside a green shutter. Vietnamese cart signage visible. Portrait contain retains cart and two people.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "867181817f8def66fd79b34675cfc36d0482f94fc219e3e0952e8fae4fdb0025"
+  },
+  "fit": "contain",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Primary source locates photo in Vietnam. People and stall are real contextual stock, not fictional Hạnh and her shop; no claimed price, profit, wage or transaction outcome.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "VN",
+    "place": "Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/vietnamese-street-food-vendor-serving-banh-mi-33885703/",
+    "evidence": "Primary photo page location field says Vietnam."
+  }
+}

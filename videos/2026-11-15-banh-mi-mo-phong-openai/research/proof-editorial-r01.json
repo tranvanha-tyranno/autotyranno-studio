@@ -1,0 +1,20 @@
+{
+  "schema": "bread-lab-proof-editorial/1",
+  "scope": "Whole-scene decode and selected rendered frames every two seconds from actual provisional-voice scenes b05,b12,b18.",
+  "voice": "Retained Nam Minh; no successful OpenAI audio produced",
+  "opened": ["r01/proof/b05-progress.jpg", "r01/proof/b12-progress.jpg", "r01/proof/b18-progress.jpg"],
+  "observations": [
+    "b05: cash tokens move from remaining funds to variable inputs; sale20,000 with14,500inputs and5,000fixed leaves500, then4new500tokens enter when sale becomes22,000 and leave2,500. The final+2000/+2500/-500 relation appears. These are visible economic state changes, not just entering text.",
+    "b12: old flour bags move toward the current bowl; the new lower-cost green lot arrives but remains on the shelf. Current-batch costs are not shown switching immediately to the new invoice.",
+    "b18:500bread-equivalent cells change to477;23cells move away as the new quotient appears. The-4.5% bread-only result and full-income comparison caveat remain visible."
+  ],
+  "limits": [
+    "Sequential samples show process states but are not continuous audiovisual listening.",
+    "Style remains original2D illustration, not Three.js or documentary proof of a real shop.",
+    "Small supporting scope labels are not intended to replace the larger central relation.",
+    "The requested OpenAI narration remains blocked by401 invalid_api_key."
+  ],
+  "userApproval": "pending",
+  "continuousAVReview": false,
+  "audioAuditioned": false
+}

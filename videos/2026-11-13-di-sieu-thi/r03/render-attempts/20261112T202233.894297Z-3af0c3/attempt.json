@@ -1,0 +1,65 @@
+{
+  "attempt": "20261112T202233.894297Z-3af0c3",
+  "batch": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03",
+  "directions": [
+    "long"
+  ],
+  "status": "completed",
+  "steps": [
+    {
+      "command": [
+        "C:\\Program Files\\nodejs\\node.exe",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\node_modules\\@remotion\\cli\\remotion-cli.js",
+        "bundle",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src\\directions-entry.tsx",
+        "--out-dir=C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-bundle",
+        "--public-dir=C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-public",
+        "--log=info"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-attempts\\20261112T202233.894297Z-3af0c3\\bundle.log",
+      "startedUTC": "2026-11-12T20:22:34.284043+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 27.657
+    },
+    {
+      "command": [
+        "C:\\Program Files\\nodejs\\node.exe",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\node_modules\\@remotion\\cli\\remotion-cli.js",
+        "render",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-bundle",
+        "DirectionPreview",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-attempts\\20261112T202233.894297Z-3af0c3\\long-render.mp4",
+        "--props=C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\long\\props.json",
+        "--concurrency=1",
+        "--codec=h264",
+        "--crf=19",
+        "--log=info"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-attempts\\20261112T202233.894297Z-3af0c3\\long-render.log",
+      "startedUTC": "2026-11-12T20:23:01.949359+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 1714.016
+    },
+    {
+      "command": [
+        "C:\\Users\\tyranno\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\direction_qa.py",
+        "--batch",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\long",
+        "--public-source",
+        "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\production-public"
+      ],
+      "cwd": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic",
+      "log": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-di-sieu-thi\\r03\\render-attempts\\20261112T202233.894297Z-3af0c3\\long-qa.log",
+      "startedUTC": "2026-11-12T20:51:35.986583+00:00",
+      "status": "completed",
+      "returncode": 0,
+      "elapsedSeconds": 98.313
+    }
+  ],
+  "aestheticAcceptance": "pending user feedback; technical QA is not visual approval"
+}

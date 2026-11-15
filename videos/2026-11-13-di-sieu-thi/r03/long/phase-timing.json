@@ -1,0 +1,22 @@
+[
+  {
+    "phase": "hook",
+    "start": 0,
+    "end": 556
+  },
+  {
+    "phase": "disclaimer",
+    "start": 556,
+    "end": 815
+  },
+  {
+    "phase": "content",
+    "start": 815,
+    "end": 5293
+  },
+  {
+    "phase": "cta",
+    "start": 5293,
+    "end": 6150
+  }
+]

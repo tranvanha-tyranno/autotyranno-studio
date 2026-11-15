@@ -1,0 +1,1296 @@
+{
+  "schema": "reference-video-production/1",
+  "id": "di-sieu-thi-vietnam-motion-r06",
+  "direction": "long",
+  "title": "Vì sao mua một món lại mang về cả giỏ?",
+  "editorialAngle": "Tách nhu cầu trước khi vào cửa hàng, tín hiệu gặp trong lúc mua và phép so sánh giá để giải thích vì sao giỏ hàng có thể lớn hơn kế hoạch.",
+  "audience": "Người đi chợ hoặc siêu thị muốn hiểu các quyết định mua thêm thường ngày; đây là giả thuyết nhu cầu, không phải phân tích nhân khẩu học của kênh.",
+  "hookPromise": "Giải thích ba điểm khiến giỏ hàng lệch khỏi kế hoạch và một cách thử đơn giản cho lần mua tiếp theo.",
+  "payoff": "Mua có chủ đích là so món thêm với nhu cầu và tổng tiền, không chỉ so giá đơn vị với giá gạch đi.",
+  "sections": [
+    {
+      "phase": "hook",
+      "text": "Một món cần mua, cả giỏ mang về. Chuyện có thể bắt đầu từ một bảng giá rất hấp dẫn. Bạn thấy mua thêm thì mỗi hộp rẻ hơn. Nhưng đến quầy, tổng tiền vẫn lớn hơn số tiền định chi. Vậy điều gì đã xảy ra từ lúc bước vào cửa hàng đến lúc thanh toán? Có ba điểm đáng nhìn lại.",
+      "shots": [
+        {
+          "id": "h1a",
+          "headline": "Đi mua một món. Về với cả giỏ?",
+          "phrase": "Một món cần mua, cả giỏ",
+          "narrationClause": "Một món cần mua, cả giỏ mang về.",
+          "layout": "object3d",
+          "images": [
+            "vn-noodle-aisle"
+          ],
+          "needToSee": "A documented Vietnam aisle alongside original cartons visibly dropping into a 3D basket. The growth is an illustrative situation, not a claim about the photographed shoppers.",
+          "mediaRole": "mechanism",
+          "supports": "A documented Vietnam aisle alongside original cartons visibly dropping into a 3D basket. The growth is an illustrative situation, not a claim about the photographed shoppers.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A documented Vietnam aisle alongside original cartons visibly dropping into a 3D basket. The growth is an illustrative situation, not a claim about the photographed shoppers. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Kham Tran · CC BY-SA 3.0 · 2007",
+          "motion": {
+            "kind": "basket",
+            "revealFrames": [
+              0,
+              16,
+              33
+            ]
+          },
+          "eyebrow": "QUYẾT ĐỊNH NHỎ / ĐỜI SỐNG"
+        },
+        {
+          "id": "h1b",
+          "headline": "",
+          "phrase": "Chuyện có thể bắt đầu từ",
+          "narrationClause": "Chuyện có thể bắt đầu từ một bảng giá rất hấp dẫn.",
+          "layout": "full",
+          "images": [
+            "vn-vinmart-cocacola"
+          ],
+          "needToSee": "A Vietnamese promotion label is visible beneath Coca-Cola bottles. Preserve the full portrait photograph; its old date and source credit identify archival context, not an applicable current selling price.",
+          "mediaRole": "context",
+          "supports": "A Vietnamese promotion label is visible beneath Coca-Cola bottles. Preserve the full portrait photograph; its old date and source credit identify archival context, not an applicable current selling price.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A Vietnamese promotion label is visible beneath Coca-Cola bottles. Preserve the full portrait photograph; its old date and source credit identify archival context, not an applicable current selling price. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-vinmart-cocacola": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Phat14082005 · CC BY-SA 4.0 · 2022"
+        },
+        {
+          "id": "h2",
+          "layout": "object3d",
+          "headline": "Rẻ mỗi hộp. Tổng tiền vẫn tăng.",
+          "phrase": "Bạn thấy mua thêm thì mỗi",
+          "narrationClause": "Bạn thấy mua thêm thì mỗi hộp rẻ hơn. Nhưng đến quầy, tổng tiền vẫn lớn hơn số tiền định chi.",
+          "images": [
+            "price-example"
+          ],
+          "needToSee": "Original 3D one-carton versus two-carton example: totals 30,000 and 50,000 VND with a visible hypothetical-price label. A clear total-change line explains that lower unit price can increase total spending.",
+          "mediaRole": "mechanism",
+          "supports": "Original 3D one-carton versus two-carton example: totals 30,000 and 50,000 VND with a visible hypothetical-price label. A clear total-change line explains that lower unit price can increase total spending.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Original 3D one-carton versus two-carton example: totals 30,000 and 50,000 VND with a visible hypothetical-price label. A clear total-change line explains that lower unit price can increase total spending. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "price-example": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+            }
+          },
+          "sourceNote": "Hình minh họa gốc · Ví dụ giả định",
+          "motion": {
+            "kind": "price",
+            "stage": "total",
+            "revealFrames": [
+              0,
+              44,
+              100
+            ]
+          }
+        },
+        {
+          "id": "h3",
+          "headline": "Ba quyết định trước quầy tính tiền",
+          "phrase": "Vậy điều gì đã xảy ra",
+          "narrationClause": "Vậy điều gì đã xảy ra từ lúc bước vào cửa hàng đến lúc thanh toán? Có ba điểm đáng nhìn lại.",
+          "layout": "gallery3d",
+          "images": [
+            "vn-vinmart-times",
+            "vn-noodle-aisle",
+            "vn-bigc-interior"
+          ],
+          "needToSee": "Three clearly separated Vietnam photo planes show produce, aisle browsing and checkout context, introducing the journey rather than implying a specific person overspent.",
+          "mediaRole": "context",
+          "supports": "Three clearly separated Vietnam photo planes show produce, aisle browsing and checkout context, introducing the journey rather than implying a specific person overspent.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Three clearly separated Vietnam photo planes show produce, aisle browsing and checkout context, introducing the journey rather than implying a specific person overspent. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-vinmart-times": "b9eeaae1fc84c61bd1d9ff0ceac2403391ef7f86d5ad80c05de542b1ed178a17",
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d",
+              "vn-bigc-interior": "ec5514d9e75b0f8731715fd925fef743dec8a7ce0632997342482fba0068f4fc"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Newone · CC BY-SA 4.0 · 2016 / Kham Tran · CC BY-SA 3.0 · 2007 / Groupe Casino · CC BY-SA 3.0 · 2013"
+        }
+      ]
+    },
+    {
+      "phase": "disclaimer",
+      "text": "Đây là phân tích hành vi mua sắm và ví dụ minh họa. Không phải ai mua thêm cũng lãng phí, hay cửa hàng nào cũng bố trí giống nhau.",
+      "shots": [
+        {
+          "id": "d1",
+          "headline": "Phân tích để tham khảo.",
+          "body": "Tình huống và số tiền dùng để minh họa. Mua thêm không luôn là lãng phí; cách bố trí cửa hàng có thể khác nhau.",
+          "phrase": "Đây là phân tích hành vi",
+          "narrationClause": "Đây là phân tích hành vi mua sắm và ví dụ minh họa. Không phải ai mua thêm cũng lãng phí, hay cửa hàng nào cũng bố trí giống nhau.",
+          "layout": "full",
+          "images": [
+            "vn-vinmart-times"
+          ],
+          "needToSee": "A distinct calm disclaimer section after the hook, with the literal Vietnamese heading and two short scope statements beside archival Vietnam grocery context.",
+          "mediaRole": "context",
+          "supports": "A distinct calm disclaimer section after the hook, with the literal Vietnamese heading and two short scope statements beside archival Vietnam grocery context.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A distinct calm disclaimer section after the hook, with the literal Vietnamese heading and two short scope statements beside archival Vietnam grocery context. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-vinmart-times": "b9eeaae1fc84c61bd1d9ff0ceac2403391ef7f86d5ad80c05de542b1ed178a17"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Newone · CC BY-SA 4.0 · 2016",
+          "eyebrow": "MIỄN TRỪ TRÁCH NHIỆM"
+        }
+      ]
+    },
+    {
+      "phase": "content",
+      "text": "Điểm đầu tiên xuất hiện trước khi bạn tới siêu thị: mình thực sự cần gì? Mở tủ lạnh và nhìn lại đồ đang có là một bước rất cụ thể. Nếu kế hoạch chỉ là mua ít đồ ăn, gần như món nào cũng có thể hợp lý. Một danh sách có món và số lượng cho bạn thứ để đối chiếu. Điện thoại có thể giữ danh sách đó. Nhưng điều quan trọng là nội dung đã chốt từ trước, chứ không phải cứ cầm điện thoại là sẽ mua đúng kế hoạch. Điểm thứ hai nằm ngay trước mắt: những thứ được nhìn thấy trong cửa hàng. Một kệ hàng có nhiều lựa chọn; một bảng màu nổi khiến một ưu đãi dễ được chú ý. Thấy một món rồi nhớ ra nhà đang thiếu, đó có thể là lời nhắc hữu ích. Cũng có lúc bạn chỉ vừa nảy ra mong muốn khi đứng trước kệ. Hai trường hợp ấy đều là mua ngoài dự tính, nhưng ý nghĩa khác nhau. Một bên bổ sung nhu cầu có thật; một bên cần thêm một câu hỏi trước khi bỏ vào giỏ. Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm. Điều đó không có nghĩa một bảng khuyến mại tự động điều khiển mọi người. Nó chỉ cho ta lý do để quan sát hoàn cảnh của quyết định, thay vì vội trách mình thiếu ý chí. Điểm thứ ba là cách so giá. Nhìn một mức giảm, ta rất dễ chỉ hỏi mỗi món rẻ hơn bao nhiêu, rồi quên hỏi mình đang trả tổng cộng bao nhiêu. Lấy một ví dụ giả định: một hộp ba mươi nghìn, hai hộp năm mươi nghìn. Mua hai thì mỗi hộp còn hai mươi lăm nghìn. Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy. Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá. Đó cũng là lý do một giỏ đầy chưa nói lên người mua có lãng phí hay không. Cần biết họ định mua gì, đồ sẽ dùng thế nào và món nào thực sự phát sinh. Thử nhìn lại hành trình: đồ đang có ở nhà, lựa chọn gặp trên kệ, rồi tổng tiền khi thanh toán. Ba điểm này nối với nhau, chứ không chỉ có phút cuối ở quầy. Trước khi trả tiền, dừng một nhịp và nhìn các món vừa thêm. Nếu hôm nay không có ưu đãi này, mình có còn cần nó không? Mình sẽ dùng hết bằng cách nào? Bạn không cần biến mỗi chuyến mua đồ thành một cuộc thi kiềm chế. Mục tiêu là nhận ra lúc nào mình đang giải quyết nhu cầu, và lúc nào chỉ đang phản ứng với một lời mời.",
+      "shots": [
+        {
+          "id": "c1",
+          "headline": "01 / Cần gì trước khi đi?",
+          "phrase": "Điểm đầu tiên xuất hiện trước",
+          "narrationClause": "Điểm đầu tiên xuất hiện trước khi bạn tới siêu thị: mình thực sự cần gì? Mở tủ lạnh và nhìn lại đồ đang có là một bước rất cụ thể.",
+          "layout": "full",
+          "images": [
+            "fridge-kitchen"
+          ],
+          "needToSee": "An open refrigerator and a person reaching to look at the contents.",
+          "mediaRole": "context",
+          "supports": "An open refrigerator and a person reaching to look at the contents.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "An open refrigerator and a person reaching to look at the contents. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+            "assetHashes": {
+              "fridge-kitchen": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4"
+            }
+          },
+          "sourceNote": "Minh họa · Pexels"
+        },
+        {
+          "id": "c2",
+          "phrase": "Nếu kế hoạch chỉ là mua",
+          "narrationClause": "Nếu kế hoạch chỉ là mua ít đồ ăn, gần như món nào cũng có thể hợp lý. Một danh sách có món và số lượng cho bạn thứ để đối chiếu.",
+          "layout": "graphic",
+          "images": [
+            "shopping-list"
+          ],
+          "needToSee": "Readable original prompts for item, amount and stock at home; not a fabricated screen or a claimed real completed list.",
+          "mediaRole": "mechanism",
+          "supports": "Readable original prompts for item, amount and stock at home; not a fabricated screen or a claimed real completed list.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Readable original prompts for item, amount and stock at home; not a fabricated screen or a claimed real completed list. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+            "assetHashes": {
+              "shopping-list": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945"
+            }
+          },
+          "sourceNote": "Minh họa nguyên bản · TYRANNO"
+        },
+        {
+          "id": "c3",
+          "phrase": "Điện thoại có thể giữ danh",
+          "narrationClause": "Điện thoại có thể giữ danh sách đó. Nhưng điều quan trọng là nội dung đã chốt từ trước, chứ không phải cứ cầm điện thoại là sẽ mua đúng kế hoạch.",
+          "layout": "full",
+          "images": [
+            "phone-list"
+          ],
+          "needToSee": "A phone visibly held by a shopper; do not claim its unreadable screen contains our list.",
+          "mediaRole": "context",
+          "supports": "A phone visibly held by a shopper; do not claim its unreadable screen contains our list.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A phone visibly held by a shopper; do not claim its unreadable screen contains our list. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+            "assetHashes": {
+              "phone-list": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d"
+            }
+          },
+          "sourceNote": "Minh họa · Pexels"
+        },
+        {
+          "id": "c4",
+          "layout": "diptych",
+          "headline": "02 / Nhìn thấy rồi mới nghĩ tới",
+          "phrase": "Điểm thứ hai nằm ngay trước",
+          "narrationClause": "Điểm thứ hai nằm ngay trước mắt: những thứ được nhìn thấy trong cửa hàng. Một kệ hàng có nhiều lựa chọn; một bảng màu nổi khiến một ưu đãi dễ được chú ý.",
+          "images": [
+            "vn-noodle-aisle",
+            "vn-vinmart-cocacola"
+          ],
+          "needToSee": "An actual dense noodle shelf and an actual bright Vietnamese promotion tag, illustrating available choices and visual salience without asserting that the shopper was manipulated.",
+          "mediaRole": "context",
+          "supports": "An actual dense noodle shelf and an actual bright Vietnamese promotion tag, illustrating available choices and visual salience without asserting that the shopper was manipulated.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "An actual dense noodle shelf and an actual bright Vietnamese promotion tag, illustrating available choices and visual salience without asserting that the shopper was manipulated. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d",
+              "vn-vinmart-cocacola": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Kham Tran · CC BY-SA 3.0 · 2007 / Phat14082005 · CC BY-SA 4.0 · 2022"
+        },
+        {
+          "id": "c5",
+          "phrase": "Thấy một món rồi nhớ ra",
+          "narrationClause": "Thấy một món rồi nhớ ra nhà đang thiếu, đó có thể là lời nhắc hữu ích. Cũng có lúc bạn chỉ vừa nảy ra mong muốn khi đứng trước kệ.",
+          "layout": "object3d",
+          "images": [
+            "vn-noodle-aisle"
+          ],
+          "needToSee": "A source-documented Vietnam grocery aisle next to animated original cartons being added to a basket. A short question distinguishes a remembered need from a newly formed desire, without assigning either motive to a real pictured person.",
+          "mediaRole": "mechanism",
+          "supports": "A source-documented Vietnam grocery aisle next to animated original cartons being added to a basket. A short question distinguishes a remembered need from a newly formed desire, without assigning either motive to a real pictured person.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A source-documented Vietnam grocery aisle next to animated original cartons being added to a basket. A short question distinguishes a remembered need from a newly formed desire, without assigning either motive to a real pictured person. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Kham Tran · CC BY-SA 3.0 · 2007",
+          "motion": {
+            "kind": "basket",
+            "revealFrames": [
+              6,
+              102,
+              190
+            ]
+          },
+          "headline": "Một món vừa được thêm vào giỏ.",
+          "eyebrow": "CÙNG MỘT HÀNH ĐỘNG / KHÁC LÝ DO",
+          "body": "Nhớ ra đang thiếu — hay vừa nảy ra mong muốn?"
+        },
+        {
+          "id": "c6",
+          "layout": "diptych",
+          "headline": "Nhớ ra đang thiếu — hay vừa muốn có?",
+          "phrase": "Hai trường hợp ấy đều là",
+          "narrationClause": "Hai trường hợp ấy đều là mua ngoài dự tính, nhưng ý nghĩa khác nhau. Một bên bổ sung nhu cầu có thật; một bên cần thêm một câu hỏi trước khi bỏ vào giỏ.",
+          "images": [
+            "fridge-check",
+            "vn-noodle-aisle"
+          ],
+          "needToSee": "A genuinely open refrigerator with a person checking it is paired with a Vietnam grocery-basket context. These illustrate two decision contexts, not private intentions inferred from photos.",
+          "mediaRole": "context",
+          "supports": "A genuinely open refrigerator with a person checking it is paired with a Vietnam grocery-basket context. These illustrate two decision contexts, not private intentions inferred from photos.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A genuinely open refrigerator with a person checking it is paired with a Vietnam grocery-basket context. These illustrate two decision contexts, not private intentions inferred from photos. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "fridge-check": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+            }
+          },
+          "sourceNote": "Ảnh: Mike Jones / Pexels · Việt Nam: Kham Tran / CC BY-SA 3.0 / 2007"
+        },
+        {
+          "id": "c7",
+          "sourceNote": "Ảnh tư liệu Việt Nam · Kham Tran · CC BY-SA 3.0 · 2007 · Nghiên cứu: Inman và cộng sự (2009)",
+          "phrase": "Nghiên cứu trên người mua trong",
+          "narrationClause": "Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm.",
+          "layout": "full",
+          "images": [
+            "vn-noodle-aisle"
+          ],
+          "needToSee": "Actual grocery-aisle browsing and a red basket at a documented Vietnam location. The narrated research relationship rests on the cited study, not on photographed people.",
+          "mediaRole": "context",
+          "supports": "Actual grocery-aisle browsing and a red basket at a documented Vietnam location. The narrated research relationship rests on the cited study, not on photographed people.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Actual grocery-aisle browsing and a red basket at a documented Vietnam location. The narrated research relationship rests on the cited study, not on photographed people. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+            }
+          },
+          "sourceIds": [
+            "inman2009"
+          ]
+        },
+        {
+          "id": "c8",
+          "phrase": "Điều đó không có nghĩa một",
+          "narrationClause": "Điều đó không có nghĩa một bảng khuyến mại tự động điều khiển mọi người. Nó chỉ cho ta lý do để quan sát hoàn cảnh của quyết định, thay vì vội trách mình thiếu ý chí.",
+          "layout": "full",
+          "images": [
+            "vn-vinmart-cocacola"
+          ],
+          "needToSee": "A real bright promotion tag in a Vietnam shop. Retain the whole portrait image and make no inference about control or a shopper's willpower.",
+          "mediaRole": "context",
+          "supports": "A real bright promotion tag in a Vietnam shop. Retain the whole portrait image and make no inference about control or a shopper's willpower.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A real bright promotion tag in a Vietnam shop. Retain the whole portrait image and make no inference about control or a shopper's willpower. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-vinmart-cocacola": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Phat14082005 · CC BY-SA 4.0 · 2022",
+          "headline": ""
+        },
+        {
+          "id": "c9",
+          "headline": "",
+          "phrase": "Điểm thứ ba là cách so",
+          "narrationClause": "Điểm thứ ba là cách so giá. Nhìn một mức giảm, ta rất dễ chỉ hỏi mỗi món rẻ hơn bao nhiêu, rồi quên hỏi mình đang trả tổng cộng bao nhiêu.",
+          "layout": "diptych",
+          "images": [
+            "vn-sauce-prices",
+            "vn-seed-prices"
+          ],
+          "needToSee": "Two actual Vietnam product shelves with legible VND price/weight labels, preserved using contain. They introduce what to compare; no old displayed price is presented as a current offer.",
+          "mediaRole": "context",
+          "supports": "Two actual Vietnam product shelves with legible VND price/weight labels, preserved using contain. They introduce what to compare; no old displayed price is presented as a current offer.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Two actual Vietnam product shelves with legible VND price/weight labels, preserved using contain. They introduce what to compare; no old displayed price is presented as a current offer. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-sauce-prices": "857a0b90d7260d4ae4e421011059e0e8f34b4571790b73e124c1dbe2277784f2",
+              "vn-seed-prices": "317f9e94b2feaceda0771e2693e195cc70d0cf07088ea0ad4dd521883961b059"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Lcsnes · CC BY-SA 4.0 · 2020 / Amikeco (В. Иванов) · CC BY-SA 4.0 · 2020"
+        },
+        {
+          "id": "c10",
+          "phrase": "Lấy một ví dụ giả định:",
+          "narrationClause": "Lấy một ví dụ giả định: một hộp ba mươi nghìn, hai hộp năm mươi nghìn. Mua hai thì mỗi hộp còn hai mươi lăm nghìn.",
+          "layout": "object3d",
+          "images": [
+            "price-example"
+          ],
+          "needToSee": "Original 3D cartons arrive at measured narration cues: one carton then two cartons, followed by 25,000 VND per carton. Display a persistent hypothetical example label and both total and unit prices.",
+          "mediaRole": "mechanism",
+          "supports": "Original 3D cartons arrive at measured narration cues: one carton then two cartons, followed by 25,000 VND per carton. Display a persistent hypothetical example label and both total and unit prices.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Original 3D cartons arrive at measured narration cues: one carton then two cartons, followed by 25,000 VND per carton. Display a persistent hypothetical example label and both total and unit prices. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "price-example": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce"
+            }
+          },
+          "sourceNote": "Hình minh họa gốc · Ví dụ giả định",
+          "motion": {
+            "kind": "price",
+            "stage": "unit",
+            "revealFrames": [
+              48,
+              99,
+              195
+            ]
+          },
+          "headline": "Một hộp 30.000đ. Hai hộp 50.000đ."
+        },
+        {
+          "id": "c11",
+          "phrase": "Nhưng nếu bạn chỉ cần một",
+          "narrationClause": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.",
+          "layout": "object3d",
+          "images": [
+            "total-change"
+          ],
+          "needToSee": "Original one-versus-two 3D carton comparison with totals 30,000/50,000 and an explicit extra-spending label of 20,000. It must say extra spending, not total spending equals20,000.",
+          "mediaRole": "mechanism",
+          "supports": "Original one-versus-two 3D carton comparison with totals 30,000/50,000 and an explicit extra-spending label of 20,000. It must say extra spending, not total spending equals20,000.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Original one-versus-two 3D carton comparison with totals 30,000/50,000 and an explicit extra-spending label of 20,000. It must say extra spending, not total spending equals20,000. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "total-change": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+            }
+          },
+          "sourceNote": "Hình minh họa gốc · Ví dụ giả định",
+          "motion": {
+            "kind": "price",
+            "stage": "total",
+            "revealFrames": [
+              0,
+              21,
+              107
+            ]
+          },
+          "headline": "Giá mỗi hộp giảm. Tổng tiền tăng."
+        },
+        {
+          "id": "c12",
+          "phrase": "Ngược lại, nếu chắc chắn dùng",
+          "narrationClause": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.",
+          "layout": "diptych",
+          "images": [
+            "price-card-contain",
+            "vegetables-home"
+          ],
+          "needToSee": "Food at home representing planned consumption; do not claim these particular foods were purchased on promotion.",
+          "mediaRole": "context",
+          "supports": "Food at home representing planned consumption; do not claim these particular foods were purchased on promotion.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Food at home representing planned consumption; do not claim these particular foods were purchased on promotion. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented. Actual r03 frame was opened and showed cropped/obscured labels. This revision preserves the complete original graphic; final crop still requires render inspection.",
+            "assetHashes": {
+              "price-card-contain": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+              "vegetables-home": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf"
+            }
+          },
+          "sourceNote": "Ảnh minh họa · Pexels | Minh họa nguyên bản · TYRANNO"
+        },
+        {
+          "id": "c13",
+          "phrase": "Đó cũng là lý do một",
+          "narrationClause": "Đó cũng là lý do một giỏ đầy chưa nói lên người mua có lãng phí hay không. Cần biết họ định mua gì, đồ sẽ dùng thế nào và món nào thực sự phát sinh.",
+          "layout": "object3d",
+          "images": [
+            "vn-noodle-aisle"
+          ],
+          "needToSee": "An original3D basket visibly fills with cartons beside a documented Vietnam aisle. Three questions identify the missing planning/use information; pictured people are not asserted to waste food or overspend.",
+          "mediaRole": "mechanism",
+          "supports": "An original3D basket visibly fills with cartons beside a documented Vietnam aisle. Three questions identify the missing planning/use information; pictured people are not asserted to waste food or overspend.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "An original3D basket visibly fills with cartons beside a documented Vietnam aisle. Three questions identify the missing planning/use information; pictured people are not asserted to waste food or overspend. The filled basket is explicit original3D illustration, not a claim that the archive photograph shows a full basket.",
+            "assetHashes": {
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Kham Tran · CC BY-SA 3.0 · 2007",
+          "headline": "Giỏ đầy chưa nói lên lý do mua.",
+          "motion": {
+            "kind": "basket",
+            "revealFrames": [
+              0,
+              55,
+              140
+            ]
+          },
+          "eyebrow": "THẤY GIỎ ĐẦY / CHƯA BIẾT LÝ DO",
+          "body": "Định mua gì? Dùng thế nào? Món nào vừa phát sinh?"
+        },
+        {
+          "id": "c14",
+          "layout": "object3d",
+          "headline": "Ở nhà → Trên kệ → Tại quầy",
+          "phrase": "Thử nhìn lại hành trình: đồ",
+          "narrationClause": "Thử nhìn lại hành trình: đồ đang có ở nhà, lựa chọn gặp trên kệ, rồi tổng tiền khi thanh toán. Ba điểm này nối với nhau, chứ không chỉ có phút cuối ở quầy.",
+          "images": [
+            "fridge-kitchen",
+            "vn-noodle-aisle",
+            "vn-bigc-interior"
+          ],
+          "needToSee": "A home, grocery shelf and basket made from real Three.js geometry, with a carton traveling from shelf to basket at narration cues. Three corresponding photo contexts remain visible, including Vietnam aisle/checkout. The domestic fridge is explicitly generic stock, not claimed to be located in Vietnam.",
+          "mediaRole": "mechanism",
+          "supports": "A home, grocery shelf and basket made from real Three.js geometry, with a carton traveling from shelf to basket at narration cues. Three corresponding photo contexts remain visible, including Vietnam aisle/checkout. The domestic fridge is explicitly generic stock, not claimed to be located in Vietnam.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A home, grocery shelf and basket made from real Three.js geometry, with a carton traveling from shelf to basket at narration cues. Three corresponding photo contexts remain visible, including Vietnam aisle/checkout. The domestic fridge is explicitly generic stock, not claimed to be located in Vietnam. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "fridge-kitchen": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d",
+              "vn-bigc-interior": "ec5514d9e75b0f8731715fd925fef743dec8a7ce0632997342482fba0068f4fc"
+            }
+          },
+          "sourceNote": "Ảnh: Pew Nguyen / Pexels · VN: Kham Tran / CC BY-SA 3.0 / 2007; Groupe Casino / CC BY-SA 3.0 / 2013",
+          "motion": {
+            "kind": "journey",
+            "revealFrames": [
+              52,
+              95,
+              150
+            ]
+          },
+          "body": "Đồ đang có · Lựa chọn gặp phải · Tổng tiền phải trả"
+        },
+        {
+          "id": "c15",
+          "phrase": "Trước khi trả tiền, dừng một",
+          "narrationClause": "Trước khi trả tiền, dừng một nhịp và nhìn các món vừa thêm. Nếu hôm nay không có ưu đãi này, mình có còn cần nó không? Mình sẽ dùng hết bằng cách nào?",
+          "layout": "full",
+          "images": [
+            "clip-checkout"
+          ],
+          "needToSee": "A basket at the checkout while the narrator proposes a pause; footage does not claim the shopper actually follows the advice.",
+          "mediaRole": "context",
+          "supports": "A basket at the checkout while the narrator proposes a pause; footage does not claim the shopper actually follows the advice.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "A basket at the checkout while the narrator proposes a pause; footage does not claim the shopper actually follows the advice. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+            "assetHashes": {
+              "clip-checkout": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5"
+            }
+          },
+          "sourceNote": "Minh họa · Pexels"
+        },
+        {
+          "id": "c16",
+          "phrase": "Bạn không cần biến mỗi chuyến",
+          "narrationClause": "Bạn không cần biến mỗi chuyến mua đồ thành một cuộc thi kiềm chế. Mục tiêu là nhận ra lúc nào mình đang giải quyết nhu cầu, và lúc nào chỉ đang phản ứng với một lời mời.",
+          "layout": "full",
+          "images": [
+            "vn-hue-customer"
+          ],
+          "needToSee": "Ordinary fresh-food shopping in a documented Vietnam market; vegetables, eggs and a grocery bag remain visible. This supports the everyday setting, not an inferred motive.",
+          "mediaRole": "context",
+          "supports": "Ordinary fresh-food shopping in a documented Vietnam market; vegetables, eggs and a grocery bag remain visible. This supports the everyday setting, not an inferred motive.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Ordinary fresh-food shopping in a documented Vietnam market; vegetables, eggs and a grocery bag remain visible. This supports the everyday setting, not an inferred motive. Root opened whole native image; rendered crop still requires inspection.",
+            "assetHashes": {
+              "vn-hue-customer": "7eb154a167ea3a66860686a4c9c7476fdff07f4ac26f09e6be7e8602a2d8e9c2"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Huế · Peter van der Sluijs · CC BY-SA 3.0 · 2013"
+        }
+      ]
+    },
+    {
+      "phase": "cta",
+      "text": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện. Có thể bạn nhớ ra thứ đang thiếu. Cũng có thể một ưu đãi đã đổi kế hoạch. Biết được lý do ấy mới là phần hữu ích, không phải chỉ nhìn số tiền rồi tự trách. Món nào bạn hay mua thêm nhất? Kể ở bình luận, và đăng ký nếu muốn cùng nhìn kỹ hơn những quyết định nhỏ trong đời sống.",
+      "shots": [
+        {
+          "id": "a1",
+          "layout": "diptych",
+          "phrase": "Lần đi siêu thị tới, thử",
+          "narrationClause": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.",
+          "images": [
+            "list-card-contain",
+            "groceries-home"
+          ],
+          "needToSee": "Original list prompts beside groceries at home; an invitation to compare, not proof of a real household experiment.",
+          "mediaRole": "context",
+          "supports": "Original list prompts beside groceries at home; an invitation to compare, not proof of a real household experiment.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Original list prompts beside groceries at home; an invitation to compare, not proof of a real household experiment. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented. Actual r03 frame was opened and showed cropped/obscured labels. This revision preserves the complete original graphic; final crop still requires render inspection.",
+            "assetHashes": {
+              "list-card-contain": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+              "groceries-home": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc"
+            }
+          },
+          "sourceNote": "Ảnh minh họa · Pexels | Minh họa nguyên bản · TYRANNO"
+        },
+        {
+          "id": "a2",
+          "phrase": "Có thể bạn nhớ ra thứ",
+          "narrationClause": "Có thể bạn nhớ ra thứ đang thiếu. Cũng có thể một ưu đãi đã đổi kế hoạch. Biết được lý do ấy mới là phần hữu ích, không phải chỉ nhìn số tiền rồi tự trách.",
+          "layout": "full",
+          "images": [
+            "groceries-home"
+          ],
+          "needToSee": "Groceries at home as context for reflecting on motives, no asserted waste.",
+          "mediaRole": "context",
+          "supports": "Groceries at home as context for reflecting on motives, no asserted waste.",
+          "limits": "The spoken situation is illustrative. Stock pictures show only the observed visible action; they do not establish private intent or causal effects. Research claims depend on cited sources, and the price arithmetic is hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Groceries at home as context for reflecting on motives, no asserted waste. Selected files reviewed against this whole narrated clause; subject identity and hypothetical status are not misrepresented.",
+            "assetHashes": {
+              "groceries-home": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc"
+            }
+          },
+          "sourceNote": "Minh họa · Pexels"
+        },
+        {
+          "id": "a3",
+          "layout": "closing",
+          "headline": "Bạn thường mua thêm món gì?",
+          "body": "Chia sẻ ở bình luận · Đăng ký để xem bài tiếp theo",
+          "phrase": "Món nào bạn hay mua thêm",
+          "narrationClause": "Món nào bạn hay mua thêm nhất? Kể ở bình luận, và đăng ký nếu muốn cùng nhìn kỹ hơn những quyết định nhỏ trong đời sống.",
+          "images": [
+            "vn-noodle-aisle"
+          ],
+          "needToSee": "Actual Vietnam aisle and visible shopping basket behind the original question inviting comments. Preserve the entire last spoken sentence and narration tail.",
+          "mediaRole": "context",
+          "supports": "Actual Vietnam aisle and visible shopping basket behind the original question inviting comments. Preserve the entire last spoken sentence and narration tail.",
+          "limits": "Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical.",
+          "review": {
+            "status": "inspected",
+            "reviewer": "Codex root",
+            "observations": "Actual Vietnam aisle and visible shopping basket behind the original question inviting comments. Preserve the entire last spoken sentence and narration tail. Illustrative context and/or original 3D mechanism, not proof of a photographed person's intent, overspending, waste or causal response. Vietnam photos are archival source-documented locations; visible prices are not current offers. The arithmetic is explicitly hypothetical. Source pixels inspected; rendered crop/motion QA follows separately.",
+            "assetHashes": {
+              "vn-noodle-aisle": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d"
+            }
+          },
+          "sourceNote": "Ảnh tư liệu Việt Nam · Kham Tran · CC BY-SA 3.0 · 2007"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "phone-list",
+      "file": "long/assets/phone-list.jpg",
+      "sha256": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d",
+      "source": {
+        "url": "https://www.pexels.com/photo/woman-looking-at-a-shopping-list-in-a-supermarket-27175517/",
+        "creator": "Helena Lopes",
+        "license": "Pexels License",
+        "licenseURL": "https://www.pexels.com/license/",
+        "kind": "stock"
+      },
+      "observed": {
+        "subject": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read.",
+        "action": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read.",
+        "objects": "Woman with grocery basket checking smartphone; text on screen is not readable",
+        "limits": "Consulting a phone while shopping; not proof that screen contains exact list or prices. If narration requires readable list, use an original illustrative list separately."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "98ca58a8148e136313d96c36e07397fffd2d408e3967989e76f7eb92bfe9372d",
+        "observations": "Masked woman holds black basket and looks at smartphone beside refrigerated case. Phone screen content cannot be read. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+      },
+      "focus": [
+        52,
+        50
+      ]
+    },
+    {
+      "id": "groceries-home",
+      "file": "long/assets/groceries-home.jpg",
+      "sha256": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc",
+      "source": {
+        "url": "https://www.pexels.com/photo/bags-of-food-on-a-white-table-5842506/",
+        "creator": "Kaboompics.com",
+        "license": "Pexels License",
+        "licenseURL": "https://www.pexels.com/license/",
+        "kind": "stock"
+      },
+      "observed": {
+        "subject": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people.",
+        "action": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people.",
+        "objects": "Mesh bags containing produce on white table",
+        "limits": "Home shopping haul and category variety; not the actual purchases of any shopper shown and no waste evident."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "a143ac794b3e0c5dbdc9bc538ff043c4249ff607983fc2010e9c60bfc55cc8fc",
+        "observations": "Mesh bags on white surface hold grains/lentils, ginger, green produce and other groceries. No people. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+      },
+      "focus": [
+        45,
+        50
+      ]
+    },
+    {
+      "id": "vegetables-home",
+      "file": "long/assets/vegetables-home.jpg",
+      "sha256": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf",
+      "source": {
+        "url": "https://www.pexels.com/photo/assorted-vegetables-in-a-basket-and-on-a-wooden-table-7890015/",
+        "creator": "MART PRODUCTION",
+        "license": "Pexels License",
+        "licenseURL": "https://www.pexels.com/license/",
+        "kind": "stock"
+      },
+      "observed": {
+        "subject": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind.",
+        "action": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind.",
+        "objects": "Vegetables unpacked on wooden table",
+        "limits": "Meal ingredients or household inventory; no exact household meal plan or food waste visible."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "29b4930676f21318063b742fe95ba90df78d84270918b0503f9b33baedd254bf",
+        "observations": "Vegetables on wooden table include tomatoes, squash, leafy greens and purple cabbage; basket and blank framed sign behind. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+      },
+      "focus": [
+        50,
+        58
+      ]
+    },
+    {
+      "id": "fridge-check",
+      "file": "long/assets/fridge-check.jpg",
+      "sha256": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+      "source": {
+        "url": "https://www.pexels.com/photo/a-woman-opening-a-fridge-8805274/",
+        "creator": "Mike Jones",
+        "license": "Pexels License",
+        "licenseURL": "https://www.pexels.com/license/",
+        "kind": "stock"
+      },
+      "observed": {
+        "subject": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded.",
+        "action": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded.",
+        "objects": "Woman looking inside open refrigerator",
+        "limits": "Checking fridge contents; not proof fridge is empty, overfull or food spoiled. Use contain portrait."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "4a129b65339a835f6ffa66a66415634d3752064cfa0700bad55a30b534ed3503",
+        "observations": "Portrait image: woman leans into open refrigerator; hand holds fridge door. Most contents are partially occluded. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+      },
+      "focus": [
+        55,
+        50
+      ]
+    },
+    {
+      "id": "fridge-kitchen",
+      "file": "long/assets/fridge-kitchen.jpg",
+      "sha256": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+      "source": {
+        "url": "https://www.pexels.com/photo/woman-exploring-fridge-in-cozy-kitchen-36671734/",
+        "creator": "Pew Nguyen",
+        "license": "Pexels License",
+        "licenseURL": "https://www.pexels.com/license/",
+        "kind": "stock"
+      },
+      "observed": {
+        "subject": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible.",
+        "action": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible.",
+        "objects": "Woman checks refrigerator in home kitchen",
+        "limits": "Checking inventory before a trip; exact list/contents cannot be read. Strong horizontal context frame."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "6ba173291eea40b4a3985b23aa27bb599533d3f8e428ad1c1d85a0fed49625f4",
+        "observations": "Wide view of woman looking into open refrigerator in warm pale-green kitchen, arms inside fridge, kitchen environment visible. Root opened both contact sheets of all sixteen actual files; also opened phone-list, fridge-kitchen, sale-shelf and phone-plan-couple at native size. These are illustrative stock subjects, not people asserted to overspend."
+      },
+      "focus": [
+        62,
+        51
+      ]
+    },
+    {
+      "id": "shopping-list",
+      "file": "long/assets/shopping-list.jpg",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+      "source": {
+        "url": "original:make_pilot_graphics.py",
+        "creator": "TYRANNO original illustration",
+        "license": "Original project graphic",
+        "licenseURL": "original:project",
+        "kind": "original"
+      },
+      "observed": {
+        "subject": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list.",
+        "action": "Static explanatory illustration, not filmed action.",
+        "objects": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list.",
+        "limits": "A teaching example only; no real shop, transaction or price is established."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+        "observations": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic."
+      }
+    },
+    {
+      "id": "price-example",
+      "file": "long/assets/price-example.jpg",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+      "source": {
+        "url": "original:make_pilot_graphics.py",
+        "creator": "TYRANNO original illustration",
+        "license": "Original project graphic",
+        "licenseURL": "original:project",
+        "kind": "original"
+      },
+      "observed": {
+        "subject": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price.",
+        "action": "Static explanatory illustration, not filmed action.",
+        "objects": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price.",
+        "limits": "A teaching example only; no real shop, transaction or price is established."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+        "observations": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic."
+      }
+    },
+    {
+      "id": "total-change",
+      "file": "long/assets/total-change.jpg",
+      "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab",
+      "source": {
+        "url": "original:make_pilot_graphics.py",
+        "creator": "TYRANNO original illustration",
+        "license": "Original project graphic",
+        "licenseURL": "original:project",
+        "kind": "original"
+      },
+      "observed": {
+        "subject": "Same hypothetical comparison, revised to label the difference CHI THÊM20.000VND instead of an ambiguous total label. One-versus-two quantities and arithmetic remain unchanged.",
+        "action": "Static explanatory illustration, not filmed action.",
+        "objects": "Same hypothetical comparison, revised to label the difference CHI THÊM20.000VND instead of an ambiguous total label. One-versus-two quantities and arithmetic remain unchanged.",
+        "limits": "A teaching example only; no real shop, transaction or price is established."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab",
+        "observations": "Same hypothetical comparison, revised to label the difference CHI THÊM20.000VND instead of an ambiguous total label. One-versus-two quantities and arithmetic remain unchanged. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic."
+      }
+    },
+    {
+      "id": "clip-checkout",
+      "file": "long/assets/clip-checkout-720p.mp4",
+      "sha256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+      "mediaType": "video",
+      "availableFrames": 516,
+      "trimBeforeFrames": 0,
+      "source": {
+        "url": "https://www.pexels.com/video/woman-getting-things-out-of-grocery-basket-at-billing-counter-5103988/",
+        "creator": "Gustavo Fring",
+        "license": "Pexels License",
+        "licenseURL": "https://www.pexels.com/license/",
+        "kind": "stock"
+      },
+      "observed": {
+        "subject": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end.",
+        "action": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end.",
+        "objects": "Grocery shelf, products, shopper/cart or checkout.",
+        "limits": "Illustrative foreign stock footage. Does not establish the shopper intention, overspending, impulse or payment; original audio is muted."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "e13e3deccd87a018c41ac8c62565e77953feb8bf362c2622969aa21a59092aa5",
+        "observations": "Customer removes groceries from gray basket while cashier takes/handles products on wooden checkout counter; customer lifts near-empty basket at end. Root inspected six timed frames across the complete source; bounded derivative retains original speed and visible action."
+      }
+    },
+    {
+      "id": "price-card-contain",
+      "file": "long/assets/price-example.jpg",
+      "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+      "source": {
+        "url": "original:make_pilot_graphics.py",
+        "creator": "TYRANNO original illustration",
+        "license": "Original project graphic",
+        "licenseURL": "original:project",
+        "kind": "original"
+      },
+      "observed": {
+        "subject": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price.",
+        "action": "Static explanatory illustration, not filmed action.",
+        "objects": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price.",
+        "limits": "A teaching example only; no real shop, transaction or price is established."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "30b68c0adf5ba8349968e4a55ed9f1b97712ebeaf0a01072c010a250a0356dce",
+        "observations": "Original explicitly hypothetical price comparison. One illustrated carton:30,000VND, two matching cartons:50,000VND; per-unit30,000 versus25,000. Not a store price. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic. Full graphic must remain visible in split panel after actual r03 rendered frame showed a crop. r04 uses contain and no zoom."
+      },
+      "fit": "contain"
+    },
+    {
+      "id": "list-card-contain",
+      "file": "long/assets/shopping-list.jpg",
+      "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+      "source": {
+        "url": "original:make_pilot_graphics.py",
+        "creator": "TYRANNO original illustration",
+        "license": "Original project graphic",
+        "licenseURL": "original:project",
+        "kind": "original"
+      },
+      "observed": {
+        "subject": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list.",
+        "action": "Static explanatory illustration, not filmed action.",
+        "objects": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list.",
+        "limits": "A teaching example only; no real shop, transaction or price is established."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "fd7ff433d45c0b92b1546e84704adcf05114df33096a87096cf2df10e4a88945",
+        "observations": "Original cream note with three blank checklist prompts: item, quantity, and stock at home. It does not show a real shopper completing a list. Opened full1920/1600pixel file and checked Vietnamese text/counts/arithmetic. Full graphic must remain visible in split panel after actual r03 rendered frame showed a crop. r04 uses contain and no zoom."
+      },
+      "fit": "contain"
+    },
+    {
+      "id": "vn-noodle-aisle",
+      "file": "vietnam-sources/vn-noodle-aisle.jpg",
+      "sha256": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Instant-noodle-isle-2007.jpg",
+        "creator": "Kham Tran",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Ho Chi Minh City — Saigon Tax Trade Center",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Instant-noodle-isle-2007.jpg",
+        "evidence": "File description explicitly locates this instant-noodle aisle at Saigon Tax Trade Center, Ho Chi Minh City, Vietnam."
+      },
+      "observed": {
+        "subject": "Two shoppers inside a narrow aisle lined with instant noodle packets; one holds a red shopping basket while looking toward the right shelf.",
+        "action": "Two shoppers inside a narrow aisle lined with instant noodle packets; one holds a red shopping basket while looking toward the right shelf.",
+        "objects": "Browsing grocery aisles, visible shelf density, choosing context; actual basket exists.",
+        "limits": "Not evidence that these people bought unplanned items, overspent, or followed any particular shopping plan."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "vietnam_assets agent + Codex root",
+        "sha256": "48052ac014e5d96f51912ca14971c6060b8592ab51482830928b8be9611dd75d",
+        "observations": "Two shoppers inside a narrow aisle lined with instant noodle packets; one holds a red shopping basket while looking toward the right shelf. Not evidence that these people bought unplanned items, overspent, or followed any particular shopping plan. Root opened the three actual contact sheets. Individual rendered crops still require QA."
+      },
+      "focus": [
+        55,
+        53
+      ],
+      "fit": "cover"
+    },
+    {
+      "id": "vn-bigc-interior",
+      "file": "vietnam-sources/vn-bigc-interior.jpg",
+      "sha256": "ec5514d9e75b0f8731715fd925fef743dec8a7ce0632997342482fba0068f4fc",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Big_C_Vietnam_1.jpg",
+        "creator": "Groupe Casino",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam — Big C; Commons category identifies Thanglong BigC Supercenter",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Big_C_Vietnam_1.jpg",
+        "evidence": "File description says Intérieur Big C au Vietnâm; source category is Thanglong BigC Supercenter. Country is documented; category supports Big C Thang Long context."
+      },
+      "observed": {
+        "subject": "Dense crowd carrying red baskets around checkout stations numbered1A/1B; checkout staff and Vietnamese TÍNH TIỀN NHANH signage are visible.",
+        "action": "Dense crowd carrying red baskets around checkout stations numbered1A/1B; checkout staff and Vietnamese TÍNH TIỀN NHANH signage are visible.",
+        "objects": "Checkout queue, crowded checkout context, visible shopping baskets.",
+        "limits": "Not evidence of impulsive purchases, basket-size change, current Big C conditions or the behavior of the depicted people."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "vietnam_assets agent + Codex root",
+        "sha256": "ec5514d9e75b0f8731715fd925fef743dec8a7ce0632997342482fba0068f4fc",
+        "observations": "Dense crowd carrying red baskets around checkout stations numbered1A/1B; checkout staff and Vietnamese TÍNH TIỀN NHANH signage are visible. Not evidence of impulsive purchases, basket-size change, current Big C conditions or the behavior of the depicted people. Root opened the three actual contact sheets. Individual rendered crops still require QA."
+      },
+      "focus": [
+        63,
+        47
+      ],
+      "fit": "cover"
+    },
+    {
+      "id": "vn-vinmart-times",
+      "file": "vietnam-sources/vn-vinmart-times.jpg",
+      "sha256": "b9eeaae1fc84c61bd1d9ff0ceac2403391ef7f86d5ad80c05de542b1ed178a17",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:VinMart_Times_City.jpg",
+        "creator": "Newone",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Times City, Hanoi",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:VinMart_Times_City.jpg",
+        "evidence": "File description identifies Vinmart super market at Times City; Commons categories include Times City and Summer in Vietnam. Source identifies this Vietnamese location."
+      },
+      "observed": {
+        "subject": "Wide fruit-and-vegetable area inside VinMart, with shoppers, produce tables and hanging Vietnamese shelf-price signs.",
+        "action": "Wide fruit-and-vegetable area inside VinMart, with shoppers, produce tables and hanging Vietnamese shelf-price signs.",
+        "objects": "Vietnam supermarket produce, choosing food and price-display context.",
+        "limits": "Not proof of overspending or shoppers’ intentions; prices are from this2016 photograph, not current offers."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "vietnam_assets agent + Codex root",
+        "sha256": "b9eeaae1fc84c61bd1d9ff0ceac2403391ef7f86d5ad80c05de542b1ed178a17",
+        "observations": "Wide fruit-and-vegetable area inside VinMart, with shoppers, produce tables and hanging Vietnamese shelf-price signs. Not proof of overspending or shoppers’ intentions; prices are from this2016 photograph, not current offers. Root opened the three actual contact sheets. Individual rendered crops still require QA."
+      },
+      "focus": [
+        57,
+        64
+      ],
+      "fit": "cover"
+    },
+    {
+      "id": "vn-vinmart-cocacola",
+      "file": "vietnam-sources/vn-vinmart-cocacola.jpg",
+      "sha256": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg",
+        "creator": "Phat14082005",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam — VinMart; exact branch not documented",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Coca-cola_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.jpg",
+        "evidence": "File title Coca-cola tại Việt Nam and description Coca-Cola tại siêu thị Vinmart establish Vietnam/VinMart, without an exact branch."
+      },
+      "observed": {
+        "subject": "Coca-Cola bottles with Vietnamese labels and a yellow KHUYẾN MẠI tag showing15.400; timestamp watermark at bottom.",
+        "action": "Coca-Cola bottles with Vietnamese labels and a yellow KHUYẾN MẠI tag showing15.400; timestamp watermark at bottom.",
+        "objects": "Physical promotion-tag example in a Vietnamese supermarket.",
+        "limits": "Not a current applicable offer, not the hypothetical30k/50k example, and not a claim about this brand encouraging overspending."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "vietnam_assets agent + Codex root",
+        "sha256": "a43c24b279cb3798e06f0c0bcab217c28826bcc75dbf6ce93ac6ea5e61e19697",
+        "observations": "Coca-Cola bottles with Vietnamese labels and a yellow KHUYẾN MẠI tag showing15.400; timestamp watermark at bottom. Not a current applicable offer, not the hypothetical30k/50k example, and not a claim about this brand encouraging overspending. Root opened the three actual contact sheets. Individual rendered crops still require QA."
+      },
+      "focus": [
+        50,
+        60
+      ],
+      "fit": "contain"
+    },
+    {
+      "id": "vn-sauce-prices",
+      "file": "vietnam-sources/vn-sauce-prices.jpg",
+      "sha256": "857a0b90d7260d4ae4e421011059e0e8f34b4571790b73e124c1dbe2277784f2",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg",
+        "creator": "Lcsnes",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam — supermarket; exact branch not documented",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Tartar_sauce_and_mayonaise_in_the_Vietnamese_supermarket.jpg",
+        "evidence": "File description says Tartar sauce and mayonaise on the shelves in the Vietnamese supermarket; category Supermarkets in Vietnam reinforces location. No city or branch asserted."
+      },
+      "observed": {
+        "subject": "Kewpie sauce and mayonnaise pouches of several weights on supermarket shelves; Vietnamese labels and dong-denominated price tags including22,700 and42,600 are visible.",
+        "action": "Kewpie sauce and mayonnaise pouches of several weights on supermarket shelves; Vietnamese labels and dong-denominated price tags including22,700 and42,600 are visible.",
+        "objects": "Reading price/weight labels and comparing package-size context.",
+        "limits": "Not evidence for the narrated hypothetical30,000/50,000 pair, no current-price claim, and no inference that products are identical or unit prices equivalent."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "vietnam_assets agent + Codex root",
+        "sha256": "857a0b90d7260d4ae4e421011059e0e8f34b4571790b73e124c1dbe2277784f2",
+        "observations": "Kewpie sauce and mayonnaise pouches of several weights on supermarket shelves; Vietnamese labels and dong-denominated price tags including22,700 and42,600 are visible. Not evidence for the narrated hypothetical30,000/50,000 pair, no current-price claim, and no inference that products are identical or unit prices equivalent. Root opened the three actual contact sheets. Individual rendered crops still require QA."
+      },
+      "focus": [
+        50,
+        64
+      ],
+      "fit": "contain"
+    },
+    {
+      "id": "vn-seed-prices",
+      "file": "vietnam-sources/vn-seed-prices.jpg",
+      "sha256": "317f9e94b2feaceda0771e2693e195cc70d0cf07088ea0ad4dd521883961b059",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Roasted_sunflower_seeds_from_Russia.jpg",
+        "creator": "Amikeco (В. Иванов)",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Vietnam — supermarket; exact branch not documented",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Roasted_sunflower_seeds_from_Russia.jpg",
+        "evidence": "Author description says Russian sunflower seeds in a Vietnamese supermarket; source category is Supermarket shelves in Vietnam. Product origin Russia is distinct from photo location Vietnam."
+      },
+      "observed": {
+        "subject": "Packets of sunflower seeds and snack nuts, with different packet weights and VinMart shelf labels including51.900 and26.200; milk cartons behind.",
+        "action": "Packets of sunflower seeds and snack nuts, with different packet weights and VinMart shelf labels including51.900 and26.200; milk cartons behind.",
+        "objects": "Vietnam grocery shelf pricing, package variety and a readable shelf-price comparison context.",
+        "limits": "Not the hypothetical30k/50k pair, not a verified current offer or an observed customer decision."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "vietnam_assets agent + Codex root",
+        "sha256": "317f9e94b2feaceda0771e2693e195cc70d0cf07088ea0ad4dd521883961b059",
+        "observations": "Packets of sunflower seeds and snack nuts, with different packet weights and VinMart shelf labels including51.900 and26.200; milk cartons behind. Not the hypothetical30k/50k pair, not a verified current offer or an observed customer decision. Root opened the three actual contact sheets. Individual rendered crops still require QA."
+      },
+      "focus": [
+        55,
+        62
+      ],
+      "fit": "contain"
+    },
+    {
+      "id": "vn-hue-customer",
+      "file": "vietnam-sources/vn-hue-customer.jpg",
+      "sha256": "7eb154a167ea3a66860686a4c9c7476fdff07f4ac26f09e6be7e8602a2d8e9c2",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Crouching_customer_om_market_Hue_Vietnam.jpg",
+        "creator": "Peter van der Sluijs",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kind": "stock"
+      },
+      "location": {
+        "countryCode": "VN",
+        "place": "Huế, Vietnam",
+        "sourceURL": "https://commons.wikimedia.org/wiki/File:Crouching_customer_om_market_Hue_Vietnam.jpg",
+        "evidence": "Source description identifies customer on market Hue Vietnam; categories include Markets in Huế and Women at work in Vietnam."
+      },
+      "observed": {
+        "subject": "A woman sits beside vegetables and eggs at a Vietnam market; another person holds a grocery bag.",
+        "action": "Ordinary market shopping context; no private motives or completed payment inferred.",
+        "objects": "Vegetables, eggs, plastic bag and motorbikes.",
+        "limits": "Handing over money is not continuously observed; no asserted spend, overspending, budget or intent; this is a market, not supermarket checkout."
+      },
+      "inspection": {
+        "status": "inspected",
+        "reviewer": "Codex root",
+        "sha256": "7eb154a167ea3a66860686a4c9c7476fdff07f4ac26f09e6be7e8602a2d8e9c2",
+        "observations": "Opened whole actual960x640 file. Visible vegetable/egg vendor, bag and motorbikes. Handheld paper is not used as proof of payment or personal intent."
+      },
+      "focus": [
+        57,
+        56
+      ],
+      "fit": "cover"
+    }
+  ],
+  "researchSources": [
+    {
+      "id": "inman2009",
+      "title": "The Interplay among Category Characteristics, Customer Characteristics, and Customer Activities on in-Store Decision Making",
+      "authors": "J. Jeffrey Inman, Russell S. Winer, Rosellina Ferraro",
+      "published": "2009-09-01",
+      "url": "https://journals.sagepub.com/doi/10.1509/jmkg.73.5.19",
+      "doi": "10.1509/jmkg.73.5.19",
+      "accessed": "2026-11-13",
+      "sourceType": "Primary research article, publisher abstract directly read; full text restricted.",
+      "designScope": "In-store intercept interviews with 2,300 consumers across 28 stores, analyzed using hierarchical models.",
+      "supports": "Unplanned purchasing varies with category, displays and shopper activities. List use and limiting aisles/time were associated in the model with lower likelihood of unplanned purchasing.",
+      "safeNarration": "Một nghiên cứu theo dõi người mua tại nhiều cửa hàng cho thấy việc mua ngoài kế hoạch còn liên quan đến cách trưng bày và cách chúng ta đi mua, chứ không chỉ món hàng ban đầu.",
+      "limits": "Observational/model-based evidence. Do not claim a randomized causal effect, apply the paper's baseline percentage universally, or say every extra purchase is impulsive/unnecessary. List use is not a guarantee."
+    },
+    {
+      "id": "gravert2025",
+      "title": "In-store food promotions increase sales as well as household food waste",
+      "authors": "Christina Gravert, Milica Mormann",
+      "published": "2025-05-23",
+      "url": "https://www.nature.com/articles/s41598-025-01800-x",
+      "doi": "10.1038/s41598-025-01800-x",
+      "accessed": "2026-11-13",
+      "sourceType": "Primary open access research article; methods and limitations directly read.",
+      "designScope": "Field experiment in eight Swedish supermarkets in March2021 on cucumbers/broccoli, with 43,246 units sold. Compared multiple-unit and single-unit offer framing at equal promotional per-unit prices.",
+      "supports": "Multiple-unit framing increased quantity sold compared with single-unit framing in this setting. Quantity reminders and making single-item comparison price more prominent reduced quantity relative to the multiple-unit format.",
+      "safeNarration": "Trong một thử nghiệm ở siêu thị Thụy Điển, chỉ đổi cách ghi từ giá một món sang giá mua hai món, dù giá khuyến mãi mỗi món bằng nhau, cũng làm lượng mua thay đổi.",
+      "limits": "Do not generalize across every product/store/country. Home consumption was reported by a small follow-up sample, not weighed waste; the authors discuss weak response and measurement limitations. Omit waste claims in the short pilot."
+    },
+    {
+      "id": "nakamura2014",
+      "title": "Sales impact of displaying alcoholic and non-alcoholic beverages in end-of-aisle locations: an observational study",
+      "authors": "Ryota Nakamura et al.",
+      "published": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24632050/",
+      "doi": "10.1016/j.socscimed.2014.02.032",
+      "accessed": "2026-11-13",
+      "sourceType": "Primary study abstract, PubMed.",
+      "designScope": "One UK grocery store,2010–2011, six beverage categories, adjusted regression.",
+      "supports": "End-of-aisle placement was associated with greater sales after adjustment for measured price/promotion/display factors.",
+      "safeNarration": "Những vị trí dễ thấy có thể làm một món bước vào vùng chú ý của người mua.",
+      "limits": "Use only as background support, not a number in narration. One-store observational study cannot establish what any specific Vietnamese supermarket intends or what any pictured shopper did."
+    }
+  ],
+  "claims": [
+    {
+      "id": "in-store-planning",
+      "text": "Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm.",
+      "sourceIds": [
+        "inman2009"
+      ],
+      "scope": "Observed shopper/store/activity associations in the source study.",
+      "limitations": "Not a randomized proof; not a universal rate or claim about stock subjects or Vietnamese stores."
+    }
+  ],
+  "status": "pilot-awaiting-render-review-and-user-feedback",
+  "reviewPolicy": "Integrity checks and actual editor observations remain separate from human user approval.",
+  "referenceLearning": "workflows/reference-video/REFERENCE_LEARNING.md",
+  "audio": {
+    "music": [
+      {
+        "file": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+        "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96"
+      },
+      {
+        "file": "videos/2026-11-11-ai-va-cong-viec-5phut/audio/analysis-score.mp3",
+        "sha256": "e7ff21706049c76ef0698ca14e8222a953bd769afe7bfa62b41cbe091077953d"
+      },
+      {
+        "file": "videos/2026-11-11-ai-va-cong-viec-5phut/audio/agency-score.mp3",
+        "sha256": "d9e8cd06be749fef38cd66a8d491c0f607d9996c0b914cb34d86e7d643c71b5a"
+      }
+    ],
+    "cues": [
+      {
+        "file": "videos/2026-11-13-di-sieu-thi/long/audio/grocery-handling.mp3",
+        "sha256": "3f1d11f90618a041a7fd7e564ac884a83aebba91edf8250717152c40598eaaa6",
+        "phrase": "Trước khi trả tiền, dừng một",
+        "offsetSeconds": 0.6,
+        "role": "Quiet grocery-handling texture under actual basket-unloading footage; no false scanner or payment sound."
+      }
+    ]
+  },
+  "renderOptions": {
+    "memoryProfile": "bounded"
+  },
+  "visualPolicy": {
+    "preferredCountry": "VN",
+    "requireLocationEvidence": true,
+    "explicitDisclaimer": true
+  }
+}

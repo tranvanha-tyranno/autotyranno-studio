@@ -1,0 +1,45 @@
+{
+  "id": "oven-beeps",
+  "file": "audio/sfx/downloaded/oven-beeps.mp3",
+  "sha256": "0dcb4cd0527a472ec4cf58a917614290d46a1d0a34e8b2e557860e9dfccf16f0",
+  "bytes": 1513906,
+  "durationSeconds": 65.91,
+  "sourceURL": "https://freesound.org/people/sidequesting/sounds/580225/",
+  "downloadURL": "https://cdn.freesound.org/previews/580/580225_10247258-hq.mp3",
+  "creator": "sidequesting",
+  "sourceTitle": "oven door and beeps.wav",
+  "license": "CC0 1.0 Universal",
+  "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "individualLicenseObserved": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "observedDescription": "Oven sheet/door handling and button beeps",
+  "descriptionBasis": "Description and individual CC0 license read on the source page; audio has not been auditioned.",
+  "tags": [
+    "oven",
+    "beep",
+    "tray"
+  ],
+  "cueRecommendations": [
+    {
+      "narrationUnit": "b02",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    },
+    {
+      "narrationUnit": "b12",
+      "role": "Contextual foley for the corresponding visible process/object or restrained calculation/transition cue; align to exact final narration and visible action."
+    }
+  ],
+  "sourceReceipt": {
+    "html": "research/sfx-source-pages/oven-beeps.html",
+    "htmlSHA256": "0ccb68a496b0d2e9cd0bafcb65480fbcf2f3bf04d362491c8d0c9b03c556ceb5",
+    "text": "research/sfx-source-pages/oven-beeps.txt",
+    "checkedDateLocal": "2026-11-15",
+    "httpStatus": 200
+  },
+  "inspection": {
+    "method": "individual_source_description_license_and_complete_ffmpeg_decode",
+    "status": "downloaded_decoded_not_auditioned",
+    "limits": "No listening performed. Semantic label follows source description. Final editor must audition/select trim and avoid audible foreign speech/music in ambience. HQ MP3 is a provider-hosted public derivative, not original WAV."
+  },
+  "derivedFrom": "Public HQ MP3 preview, downloaded byte-for-byte; originals on Freesound require login.",
+  "attributionSuggested": "Oven sheet/door handling and button beeps by sidequesting, Freesound #580225, CC0 1.0: https://freesound.org/people/sidequesting/sounds/580225/"
+}

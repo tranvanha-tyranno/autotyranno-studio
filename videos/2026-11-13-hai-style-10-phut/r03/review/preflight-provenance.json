@@ -1,0 +1,25 @@
+{
+  "previousRevision": "r02",
+  "sameComicSource": true,
+  "samePlanAndMix": true,
+  "changedSources": [
+    "workflows\\reference-video\\cinematic\\src\\finance-long-flow\\index.tsx"
+  ],
+  "sourceDiff": "--- r02\n+++ r03\n@@ -94,7 +94,7 @@\n  </Camera>;\n };\n const Daily:React.FC<Ctx>=(c)=>{\n- if(c.s.id==='b11')return <Camera scale={lerp(1.1,1.25,phase(c,.1,.95))}><Receipt x={960} y={500} amount=\"60.000\" label=\"CHI THÊM MỖI NGÀY\" scale={2} rotate={lerp(-6,0,phase(c,0,.5))}/><Text x={960} y={850} size={34}>Tổng nâng cấp nhỏ • Không phải giá một món cụ thể</Text></Camera>;\n+ if(c.s.id==='b11')return <Camera scale={lerp(1.1,1.25,phase(c,.1,.95))}><Receipt x={960} y={500} amount=\"60.000\" label=\"CHI THÊM MỖI NGÀY\" scale={2} rotate={lerp(-6,0,phase(c,0,.5))}/><Text x={960} y={790} size={34}>Tổng nâng cấp nhỏ • Không phải giá một món cụ thể</Text></Camera>;\n  const saving=typeof c.s.data?.saved==='number';\n  const finishAt=aligned(c,saving?'sáu trăm nghìn':'một triệu tám','start',c.s.cueFrame+70);\n  const roll=q(c.f,Math.min(c.s.cueFrame,finishAt-50),finishAt),count=Math.floor(roll*30),look=phase(c,0,.9),amount=saving?value(c.s,'dailyBefore',60000)-value(c.s,'dailyAfter',40000):value(c.s,'daily',60000);\n",
+  "b11VerificationFrame": {
+    "file": "b11-crop-fixed.png",
+    "sha256": "2b605865c8c9abc5e8a9253074bf4046a0c0c224221f0a18a2d0e0a98afef507",
+    "observed": "The complete bottom sentence sits above the footer and captions."
+  },
+  "previousEvidence": [
+    {
+      "file": "r02\\comic\\review\\verification-r02.json",
+      "sha256": "7c9d80155907b860f508dc710066640185ea11fda504029849f7e5d17eee8f8b"
+    },
+    {
+      "file": "r02\\flow\\review\\subagent-flow-preflight-review.json",
+      "sha256": "40124dc449db387bdc6ccb57216a287ed883daa46a6783ef0ba67632ffa717ab"
+    }
+  ],
+  "limits": "Sampled rendered evidence and exact source equivalence; no claim of continuous audiovisual viewing or user approval."
+}

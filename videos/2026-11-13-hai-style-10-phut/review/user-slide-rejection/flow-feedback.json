@@ -1,0 +1,32 @@
+{
+  "batch": "videos/2026-11-13-hai-style-10-phut",
+  "revision": "r03",
+  "dimension": "overall",
+  "decision": "rejected",
+  "reviewer": {
+    "kind": "human_user",
+    "name": "User in current chat"
+  },
+  "target": {
+    "clause_id": "__whole_video__-flow",
+    "narration": "flow full film: Lương tăng mà vẫn hết tiền: sửa dòng tiền trong 30 ngày",
+    "start": 0,
+    "end": 591.4333333333333
+  },
+  "method": "human_feedback",
+  "observation": "User rejected the delivered visual style as a slide video and reminded that the anti-slide rule already existed. This does not establish criticism of the retained narration.",
+  "action": "Retain this rejected export; stop reusing unchanged visual source; require real scene progression and temporal review for a later authorized correction.",
+  "quote": "sao lại làm thành video kiểu slide nữa vậy?, tôi đâu có cần kiểu video slide đầu ghi vô rule sao cứ làm theo kiểu slide mãi thế",
+  "evidence": [
+    {
+      "role": "feedback",
+      "path": "videos/2026-11-13-hai-style-10-phut/review/user-slide-rejection/user-feedback.txt",
+      "sha256": "4766acf6fb85a07957376a167e08b732b9f7d65f0f6bb028ada0e0f165a28ff8"
+    },
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-hai-style-10-phut/r03/flow/final.mp4",
+      "sha256": "3f3199567060f922505af0609c96f58011679df3d9ad48a8664f1efcf3db24a4"
+    }
+  ]
+}

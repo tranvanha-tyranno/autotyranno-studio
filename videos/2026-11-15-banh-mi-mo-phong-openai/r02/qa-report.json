@@ -1,0 +1,700 @@
+{
+  "technical": "passed",
+  "frames": 10733,
+  "seconds": 357.76666666666665,
+  "sha256": "2101d1cfeb48fd7c40be2a5d144d3342e3ea2efacd960060e8b2c56ad6fb37a5",
+  "samples": [
+    {
+      "id": "b01-01",
+      "frame": 24,
+      "file": "b01-01-0.jpg"
+    },
+    {
+      "id": "b01-01",
+      "frame": 80,
+      "file": "b01-01-1.jpg"
+    },
+    {
+      "id": "b01-01",
+      "frame": 140,
+      "file": "b01-01-2.jpg"
+    },
+    {
+      "id": "b01-02",
+      "frame": 186,
+      "file": "b01-02-0.jpg"
+    },
+    {
+      "id": "b01-02",
+      "frame": 249,
+      "file": "b01-02-1.jpg"
+    },
+    {
+      "id": "b01-02",
+      "frame": 317,
+      "file": "b01-02-2.jpg"
+    },
+    {
+      "id": "b01-03",
+      "frame": 350,
+      "file": "b01-03-0.jpg"
+    },
+    {
+      "id": "b01-03",
+      "frame": 377,
+      "file": "b01-03-1.jpg"
+    },
+    {
+      "id": "b01-03",
+      "frame": 406,
+      "file": "b01-03-2.jpg"
+    },
+    {
+      "id": "b02-01",
+      "frame": 430,
+      "file": "b02-01-0.jpg"
+    },
+    {
+      "id": "b02-01",
+      "frame": 463,
+      "file": "b02-01-1.jpg"
+    },
+    {
+      "id": "b02-01",
+      "frame": 500,
+      "file": "b02-01-2.jpg"
+    },
+    {
+      "id": "b02-02",
+      "frame": 531,
+      "file": "b02-02-0.jpg"
+    },
+    {
+      "id": "b02-02",
+      "frame": 574,
+      "file": "b02-02-1.jpg"
+    },
+    {
+      "id": "b02-02",
+      "frame": 621,
+      "file": "b02-02-2.jpg"
+    },
+    {
+      "id": "b02-03",
+      "frame": 663,
+      "file": "b02-03-0.jpg"
+    },
+    {
+      "id": "b02-03",
+      "frame": 728,
+      "file": "b02-03-1.jpg"
+    },
+    {
+      "id": "b02-03",
+      "frame": 797,
+      "file": "b02-03-2.jpg"
+    },
+    {
+      "id": "b03",
+      "frame": 881,
+      "file": "b03-0.jpg"
+    },
+    {
+      "id": "b03",
+      "frame": 1024,
+      "file": "b03-1.jpg"
+    },
+    {
+      "id": "b03",
+      "frame": 1180,
+      "file": "b03-2.jpg"
+    },
+    {
+      "id": "b04",
+      "frame": 1265,
+      "file": "b04-0.jpg"
+    },
+    {
+      "id": "b04",
+      "frame": 1349,
+      "file": "b04-1.jpg"
+    },
+    {
+      "id": "b04",
+      "frame": 1440,
+      "file": "b04-2.jpg"
+    },
+    {
+      "id": "b04-tail-b04-02",
+      "frame": 1475,
+      "file": "b04-tail-b04-02-0.jpg"
+    },
+    {
+      "id": "b04-tail-b04-02",
+      "frame": 1490,
+      "file": "b04-tail-b04-02-1.jpg"
+    },
+    {
+      "id": "b04-tail-b04-02",
+      "frame": 1506,
+      "file": "b04-tail-b04-02-2.jpg"
+    },
+    {
+      "id": "b04-tail-b04-03",
+      "frame": 1522,
+      "file": "b04-tail-b04-03-0.jpg"
+    },
+    {
+      "id": "b04-tail-b04-03",
+      "frame": 1547,
+      "file": "b04-tail-b04-03-1.jpg"
+    },
+    {
+      "id": "b04-tail-b04-03",
+      "frame": 1573,
+      "file": "b04-tail-b04-03-2.jpg"
+    },
+    {
+      "id": "b05",
+      "frame": 1649,
+      "file": "b05-0.jpg"
+    },
+    {
+      "id": "b05",
+      "frame": 1806,
+      "file": "b05-1.jpg"
+    },
+    {
+      "id": "b05",
+      "frame": 1977,
+      "file": "b05-2.jpg"
+    },
+    {
+      "id": "b06",
+      "frame": 2098,
+      "file": "b06-0.jpg"
+    },
+    {
+      "id": "b06",
+      "frame": 2255,
+      "file": "b06-1.jpg"
+    },
+    {
+      "id": "b06",
+      "frame": 2424,
+      "file": "b06-2.jpg"
+    },
+    {
+      "id": "b07-01",
+      "frame": 2499,
+      "file": "b07-01-0.jpg"
+    },
+    {
+      "id": "b07-01",
+      "frame": 2548,
+      "file": "b07-01-1.jpg"
+    },
+    {
+      "id": "b07-01",
+      "frame": 2602,
+      "file": "b07-01-2.jpg"
+    },
+    {
+      "id": "b07-02",
+      "frame": 2635,
+      "file": "b07-02-0.jpg"
+    },
+    {
+      "id": "b07-02",
+      "frame": 2673,
+      "file": "b07-02-1.jpg"
+    },
+    {
+      "id": "b07-02",
+      "frame": 2715,
+      "file": "b07-02-2.jpg"
+    },
+    {
+      "id": "b07-03",
+      "frame": 2757,
+      "file": "b07-03-0.jpg"
+    },
+    {
+      "id": "b07-03",
+      "frame": 2825,
+      "file": "b07-03-1.jpg"
+    },
+    {
+      "id": "b07-03",
+      "frame": 2899,
+      "file": "b07-03-2.jpg"
+    },
+    {
+      "id": "b08",
+      "frame": 2991,
+      "file": "b08-0.jpg"
+    },
+    {
+      "id": "b08",
+      "frame": 3150,
+      "file": "b08-1.jpg"
+    },
+    {
+      "id": "b08",
+      "frame": 3324,
+      "file": "b08-2.jpg"
+    },
+    {
+      "id": "b09-01",
+      "frame": 3400,
+      "file": "b09-01-0.jpg"
+    },
+    {
+      "id": "b09-01",
+      "frame": 3449,
+      "file": "b09-01-1.jpg"
+    },
+    {
+      "id": "b09-01",
+      "frame": 3503,
+      "file": "b09-01-2.jpg"
+    },
+    {
+      "id": "b09-02",
+      "frame": 3541,
+      "file": "b09-02-0.jpg"
+    },
+    {
+      "id": "b09-02",
+      "frame": 3590,
+      "file": "b09-02-1.jpg"
+    },
+    {
+      "id": "b09-02",
+      "frame": 3644,
+      "file": "b09-02-2.jpg"
+    },
+    {
+      "id": "b09-03",
+      "frame": 3679,
+      "file": "b09-03-0.jpg"
+    },
+    {
+      "id": "b09-03",
+      "frame": 3720,
+      "file": "b09-03-1.jpg"
+    },
+    {
+      "id": "b09-03",
+      "frame": 3765,
+      "file": "b09-03-2.jpg"
+    },
+    {
+      "id": "b10-01",
+      "frame": 3793,
+      "file": "b10-01-0.jpg"
+    },
+    {
+      "id": "b10-01",
+      "frame": 3827,
+      "file": "b10-01-1.jpg"
+    },
+    {
+      "id": "b10-01",
+      "frame": 3863,
+      "file": "b10-01-2.jpg"
+    },
+    {
+      "id": "b10-02",
+      "frame": 3889,
+      "file": "b10-02-0.jpg"
+    },
+    {
+      "id": "b10-02",
+      "frame": 3923,
+      "file": "b10-02-1.jpg"
+    },
+    {
+      "id": "b10-02",
+      "frame": 3960,
+      "file": "b10-02-2.jpg"
+    },
+    {
+      "id": "b10-03",
+      "frame": 4001,
+      "file": "b10-03-0.jpg"
+    },
+    {
+      "id": "b10-03",
+      "frame": 4068,
+      "file": "b10-03-1.jpg"
+    },
+    {
+      "id": "b10-03",
+      "frame": 4141,
+      "file": "b10-03-2.jpg"
+    },
+    {
+      "id": "b11",
+      "frame": 4239,
+      "file": "b11-0.jpg"
+    },
+    {
+      "id": "b11",
+      "frame": 4414,
+      "file": "b11-1.jpg"
+    },
+    {
+      "id": "b11",
+      "frame": 4604,
+      "file": "b11-2.jpg"
+    },
+    {
+      "id": "b12",
+      "frame": 4724,
+      "file": "b12-0.jpg"
+    },
+    {
+      "id": "b12",
+      "frame": 4865,
+      "file": "b12-1.jpg"
+    },
+    {
+      "id": "b12",
+      "frame": 5018,
+      "file": "b12-2.jpg"
+    },
+    {
+      "id": "b13",
+      "frame": 5135,
+      "file": "b13-0.jpg"
+    },
+    {
+      "id": "b13",
+      "frame": 5295,
+      "file": "b13-1.jpg"
+    },
+    {
+      "id": "b13",
+      "frame": 5469,
+      "file": "b13-2.jpg"
+    },
+    {
+      "id": "b14",
+      "frame": 5593,
+      "file": "b14-0.jpg"
+    },
+    {
+      "id": "b14",
+      "frame": 5754,
+      "file": "b14-1.jpg"
+    },
+    {
+      "id": "b14",
+      "frame": 5930,
+      "file": "b14-2.jpg"
+    },
+    {
+      "id": "b15",
+      "frame": 6059,
+      "file": "b15-0.jpg"
+    },
+    {
+      "id": "b15",
+      "frame": 6232,
+      "file": "b15-1.jpg"
+    },
+    {
+      "id": "b15",
+      "frame": 6420,
+      "file": "b15-2.jpg"
+    },
+    {
+      "id": "b16-01",
+      "frame": 6499,
+      "file": "b16-01-0.jpg"
+    },
+    {
+      "id": "b16-01",
+      "frame": 6544,
+      "file": "b16-01-1.jpg"
+    },
+    {
+      "id": "b16-01",
+      "frame": 6593,
+      "file": "b16-01-2.jpg"
+    },
+    {
+      "id": "b16-02",
+      "frame": 6629,
+      "file": "b16-02-0.jpg"
+    },
+    {
+      "id": "b16-02",
+      "frame": 6674,
+      "file": "b16-02-1.jpg"
+    },
+    {
+      "id": "b16-02",
+      "frame": 6723,
+      "file": "b16-02-2.jpg"
+    },
+    {
+      "id": "b16-03",
+      "frame": 6765,
+      "file": "b16-03-0.jpg"
+    },
+    {
+      "id": "b16-03",
+      "frame": 6825,
+      "file": "b16-03-1.jpg"
+    },
+    {
+      "id": "b16-03",
+      "frame": 6890,
+      "file": "b16-03-2.jpg"
+    },
+    {
+      "id": "b17",
+      "frame": 6974,
+      "file": "b17-0.jpg"
+    },
+    {
+      "id": "b17",
+      "frame": 7120,
+      "file": "b17-1.jpg"
+    },
+    {
+      "id": "b17",
+      "frame": 7279,
+      "file": "b17-2.jpg"
+    },
+    {
+      "id": "b18",
+      "frame": 7407,
+      "file": "b18-0.jpg"
+    },
+    {
+      "id": "b18",
+      "frame": 7587,
+      "file": "b18-1.jpg"
+    },
+    {
+      "id": "b18",
+      "frame": 7784,
+      "file": "b18-2.jpg"
+    },
+    {
+      "id": "b19",
+      "frame": 7882,
+      "file": "b19-0.jpg"
+    },
+    {
+      "id": "b19",
+      "frame": 7966,
+      "file": "b19-1.jpg"
+    },
+    {
+      "id": "b19",
+      "frame": 8057,
+      "file": "b19-2.jpg"
+    },
+    {
+      "id": "b19-tail-b19-03",
+      "frame": 8101,
+      "file": "b19-tail-b19-03-0.jpg"
+    },
+    {
+      "id": "b19-tail-b19-03",
+      "frame": 8136,
+      "file": "b19-tail-b19-03-1.jpg"
+    },
+    {
+      "id": "b19-tail-b19-03",
+      "frame": 8173,
+      "file": "b19-tail-b19-03-2.jpg"
+    },
+    {
+      "id": "b19-tail-b19-04",
+      "frame": 8205,
+      "file": "b19-tail-b19-04-0.jpg"
+    },
+    {
+      "id": "b19-tail-b19-04",
+      "frame": 8251,
+      "file": "b19-tail-b19-04-1.jpg"
+    },
+    {
+      "id": "b19-tail-b19-04",
+      "frame": 8300,
+      "file": "b19-tail-b19-04-2.jpg"
+    },
+    {
+      "id": "b20",
+      "frame": 8390,
+      "file": "b20-0.jpg"
+    },
+    {
+      "id": "b20",
+      "frame": 8562,
+      "file": "b20-1.jpg"
+    },
+    {
+      "id": "b20",
+      "frame": 8748,
+      "file": "b20-2.jpg"
+    },
+    {
+      "id": "b21",
+      "frame": 8876,
+      "file": "b21-0.jpg"
+    },
+    {
+      "id": "b21",
+      "frame": 9039,
+      "file": "b21-1.jpg"
+    },
+    {
+      "id": "b21",
+      "frame": 9214,
+      "file": "b21-2.jpg"
+    },
+    {
+      "id": "b22",
+      "frame": 9343,
+      "file": "b22-0.jpg"
+    },
+    {
+      "id": "b22",
+      "frame": 9514,
+      "file": "b22-1.jpg"
+    },
+    {
+      "id": "b22",
+      "frame": 9699,
+      "file": "b22-2.jpg"
+    },
+    {
+      "id": "b23-01",
+      "frame": 9779,
+      "file": "b23-01-0.jpg"
+    },
+    {
+      "id": "b23-01",
+      "frame": 9829,
+      "file": "b23-01-1.jpg"
+    },
+    {
+      "id": "b23-01",
+      "frame": 9883,
+      "file": "b23-01-2.jpg"
+    },
+    {
+      "id": "b23-02",
+      "frame": 9925,
+      "file": "b23-02-0.jpg"
+    },
+    {
+      "id": "b23-02",
+      "frame": 9982,
+      "file": "b23-02-1.jpg"
+    },
+    {
+      "id": "b23-02",
+      "frame": 10044,
+      "file": "b23-02-2.jpg"
+    },
+    {
+      "id": "b23-03",
+      "frame": 10084,
+      "file": "b23-03-0.jpg"
+    },
+    {
+      "id": "b23-03",
+      "frame": 10130,
+      "file": "b23-03-1.jpg"
+    },
+    {
+      "id": "b23-03",
+      "frame": 10180,
+      "file": "b23-03-2.jpg"
+    },
+    {
+      "id": "b23-04",
+      "frame": 10210,
+      "file": "b23-04-0.jpg"
+    },
+    {
+      "id": "b23-04",
+      "frame": 10242,
+      "file": "b23-04-1.jpg"
+    },
+    {
+      "id": "b23-04",
+      "frame": 10276,
+      "file": "b23-04-2.jpg"
+    },
+    {
+      "id": "b24-01",
+      "frame": 10309,
+      "file": "b24-01-0.jpg"
+    },
+    {
+      "id": "b24-01",
+      "frame": 10361,
+      "file": "b24-01-1.jpg"
+    },
+    {
+      "id": "b24-01",
+      "frame": 10417,
+      "file": "b24-01-2.jpg"
+    },
+    {
+      "id": "b24-02",
+      "frame": 10449,
+      "file": "b24-02-0.jpg"
+    },
+    {
+      "id": "b24-02",
+      "frame": 10481,
+      "file": "b24-02-1.jpg"
+    },
+    {
+      "id": "b24-02",
+      "frame": 10516,
+      "file": "b24-02-2.jpg"
+    },
+    {
+      "id": "b24-03",
+      "frame": 10558,
+      "file": "b24-03-0.jpg"
+    },
+    {
+      "id": "b24-03",
+      "frame": 10630,
+      "file": "b24-03-1.jpg"
+    },
+    {
+      "id": "b24-03",
+      "frame": 10708,
+      "file": "b24-03-2.jpg"
+    }
+  ],
+  "simulationPassages": 16,
+  "simulationFamilies": [
+    "basket_scope",
+    "bread_power",
+    "competition",
+    "cost_ledger",
+    "inventory",
+    "money_split",
+    "price_level",
+    "synthesis"
+  ],
+  "voice": "Retained Nam Minh; OpenAI invalid_api_key blocker unresolved",
+  "openaiNarrationProduced": false,
+  "visualPreviewOnly": true,
+  "userApproval": "pending",
+  "continuousAVReview": false,
+  "manualAudioListening": false
+}

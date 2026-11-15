@@ -1,0 +1,32 @@
+{
+  "id": "vn-family-gathering",
+  "pexelsID": 34617735,
+  "sourceURL": "https://www.pexels.com/fr-fr/photo/reunion-amicale-devant-une-maison-vietnamienne-34617735/",
+  "creator": "Thái Trường Giang",
+  "theme": "family",
+  "documentedLocation": "Kon Tum, Kon Tum, Vietnam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "A group gathers in front of a house.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-family-gathering.jpg",
+  "downloadURL": "https://images.pexels.com/photos/34617735/pexels-photo-34617735.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "ae2f8427c07ba9a6b8f2960c585bf3833d66326d44162489d1432024324204b6",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

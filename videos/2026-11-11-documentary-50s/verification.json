@@ -1,0 +1,23 @@
+{
+  "full_decode": "passed",
+  "container_seconds": 50.0,
+  "sampled_frames_1fps": 50,
+  "decoded_video_frames": 1500,
+  "visual_review": {
+    "scope": "50 sampled frames at 1fps across runtime, enlarged frames at 5/18/47s",
+    "result": "sampled composition checked; real movement sources used",
+    "user_acceptance": "pending"
+  },
+  "audio_review": "timing measured; listening review not claimed",
+  "footage": "licensed illustrative moving stock; no reference footage reused",
+  "notes": "Word captions use provider timestamps; verify important names/numbers by listening.",
+  "speech_end_check": {
+    "provider_last_word_end": 48.18947935328006,
+    "independent_asr": "local Whisper base recognized full final question; not a pronunciation score"
+  },
+  "reference_library": {
+    "downloaded_av": 17,
+    "decoded_av": 17,
+    "minutes": 447.6
+  }
+}

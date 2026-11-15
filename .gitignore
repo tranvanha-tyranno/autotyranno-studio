@@ -10,6 +10,7 @@ frontend/.next/
 .env
 .secrets/
 .cache/
+node_modules/
 
 # Authentication, local account state and browser profiles
 .env.*
@@ -47,3 +48,20 @@ Thumbs.db
 
 # Local evidence ledger depends on private rendered batches
 /workflows/reference-video/learning-data/
+
+# Generated renderer bundles contain copies of source media and dependencies.
+# Keep original assets, exports, source snapshots and render/QA receipts.
+/videos/**/bundle/
+/videos/**/bundle-*/
+/videos/**/*-bundle/
+/videos/**/*-bundle-*/
+/videos/**/production-public/
+/videos/**/render-public/
+/videos/**/render-public-*/
+
+# Downloaded third-party repositories/archives; keep acquisition and study reports.
+/docs/video-skills/**/sources/
+
+# Raw downloaded SFX pages embed third-party website access tokens.
+# Source/license URLs and receipts are retained; original HTML remains local.
+/videos/**/research/sfx-source-pages/

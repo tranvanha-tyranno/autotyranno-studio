@@ -1,0 +1,77 @@
+{
+  "id": "tyranno-motion3d",
+  "userDirection": "Motion graphics mạnh, 3D và chữ động",
+  "status": "user-approved-baseline",
+  "supersedes": "Previous microphone/waveform and LĂNG KÍNH editorial defaults for this YouTube explainer workflow; product-review profiles remain separate",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "seconds": 50
+  },
+  "visuals": {
+    "renderer": "Remotion + native Three.js",
+    "scenes": [
+      "extruded numeric hook",
+      "dimensional containers / concept contrast",
+      "texture-mapped Earth with schematic trade arcs",
+      "short actual sewing footage",
+      "value tokens and kinetic benefit words",
+      "question typography"
+    ],
+    "prohibitedDefaults": [
+      "fixed microphone",
+      "persistent waveform",
+      "static editorial panels",
+      "all-scene generic lab footage"
+    ],
+    "captionPlacement": "bottom safe area; exact final take alignment",
+    "motion": "frame deterministic, typography paced to narration; inspect rendered motion at boundaries",
+    "flowPalette": "cream field, dark typography, emerald/coral dimensional tokens"
+  },
+  "audio": {
+    "voice": "native Vietnamese male audition; current Nhật Phong Eleven v3",
+    "music": "genuine generated instrumental, separate immutable stem",
+    "foley": "contextual only; current one sewing-machine cue",
+    "mix": "speech-first, ducked score, no blanket whooshes or sine-bed fallback",
+    "voicePreset": {
+      "provider": "ElevenLabs",
+      "voice_id": "6adFm46eyy74snVn6YrT",
+      "name": "Nhật Phong — Narrative & Compelling",
+      "model_id": "eleven_v3",
+      "language_code": "vi",
+      "voice_settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.8,
+        "speed": 1.0
+      },
+      "approvedTake": "videos/2026-11-11-cinematic-reset/audio/narration-v2.mp3",
+      "alignment": "videos/2026-11-11-cinematic-reset/audio/narration-v2.alignment.json",
+      "approvedEditTempo": 0.9606122448979592,
+      "futureTiming": "Fit each new exact take naturally; do not apply the old tempo or timestamps blindly"
+    },
+    "approvedStems": {
+      "music": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+      "foley": "videos/2026-11-11-cinematic-reset/audio/sewing-detail.mp3",
+      "mix": "videos/2026-11-11-cinematic-reset/audio/final-mix.wav",
+      "mixRecipe": "workflows/reference-video/motion_audio.py",
+      "measuredFinalLUFS": -16.2,
+      "measuredFinalTruePeakDBTP": -4.83,
+      "usage": "Reuse the music if it suits the new story. Keep Foley contextual; do not put sewing-machine sound on unrelated scenes."
+    }
+  },
+  "qa": {
+    "acceptance": "Never infer user aesthetic acceptance from successful decode or self-scored rounds",
+    "evidence": "full-duration contact sheet, keyframes, temporal frame sequences, decode/frame count, measured mix, ASR comparison; manual listening only if actually possible"
+  },
+  "approval": {
+    "status": "approved",
+    "date": "2026-11-11",
+    "evidence": "Explicit user feedback in this chat",
+    "userQuote": "rất ok nhớ lưu lại chổ này giộng dọc sound và toàn bộ những cái này nhé tôi sẽ kêu bạn tiến hành làm 1 video sau",
+    "scope": "Current final video, narrator, sound/music, 3D/kinetic visual style and edit approach; reuse as baseline for future requested videos"
+  },
+  "referenceBatch": "videos/2026-11-11-cinematic-reset",
+  "referenceVideo": "videos/2026-11-11-cinematic-reset/final.mp4",
+  "reusePolicy": "Keep this approved voice and visual/sound direction by default. Adapt script, geometry, footage and contextual effects to the new topic. Create a separate batch; never overwrite the approved final. Wait for the user to request the next video."
+}

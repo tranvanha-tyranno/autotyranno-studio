@@ -1,0 +1,14 @@
+{
+  "proposal_event_id": "evt-000016-2c7ad0af4f8b",
+  "application_event_id": "evt-000017-0f335a4367b3",
+  "state": "applied",
+  "verified": false,
+  "user_acceptance": "pending",
+  "event_sha256": "a2541b7fe5fbaa710aca318082e2865e8dd48281a2d8d96a6b7e6b7b34b1b993",
+  "source_feedback_id": "evt-000015-15e1b8b7915f",
+  "exports": {
+    "audit": "videos/2026-11-13-di-sieu-thi/learning/r06-workflow-applied-audit.json",
+    "report": "videos/2026-11-13-di-sieu-thi/learning/r06-workflow-applied-report.json",
+    "guidance": "videos/2026-11-13-di-sieu-thi/learning/r06-workflow-applied-guidance.json"
+  }
+}

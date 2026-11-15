@@ -1,0 +1,5 @@
+{
+  "reason": "Stopped initial comicchunk during active frame rendering to include the newly observed b11flow footer crop correction in a new immutable revision. No completed final existed. All partial logs retained.",
+  "nextRevision": "r03",
+  "paidCallsRepeated": 0
+}

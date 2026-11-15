@@ -1,0 +1,30 @@
+{
+  "id": "grocery-produce",
+  "pexelsID": 27175531,
+  "sourceURL": "https://www.pexels.com/photo/woman-shopping-in-supermarket-produce-aisle-27175531/",
+  "creator": "Helena Lopes",
+  "theme": "grocery",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/grocery-produce.jpg",
+  "downloadURL": "https://images.pexels.com/photos/27175531/pexels-photo-27175531.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "274854967b282fbdd12ce9c3cee8bc0a0f834b5cb59814cd2870ffa03f7d3c2c",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pexelsID": 11265880,
+  "pageURL": "https://www.pexels.com/video/11265880/",
+  "title": "Close-up hands working bread dough",
+  "fps": [
+    25
+  ],
+  "tags": [
+    "flour",
+    "ingredients",
+    "bakery"
+  ],
+  "id": "pexels-11265880",
+  "file": "assets/raw/pexels-11265880.mp4",
+  "sha256": "721be04acfb416fef224751183c923bf246a3f74e24039f26c016edc052cc482",
+  "bytes": 4744316,
+  "durationSeconds": 12.74,
+  "downloadURL": "https://videos.pexels.com/video-files/11265880/11265880-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.031,
+  "inspection": {
+    "status": "inspected",
+    "observations": "Both hands shape a round dough piece on a flour-covered white worktop; flour and pressing action visible across seven actual source frames. No finished baguette in this clip.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-11265880.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [
+    {
+      "start": 0.2,
+      "end": 12.5,
+      "role": "illustrative footage; no fictional identity or numeric proof"
+    }
+  ],
+  "width": 1280,
+  "height": 720,
+  "usableForBreadFilm": true,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/11265880/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

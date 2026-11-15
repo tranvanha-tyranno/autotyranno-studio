@@ -1,0 +1,17 @@
+{
+  "file": "videos\\2026-11-13-quan-dong-khach-het-tien\\sources\\videos\\clip-espresso-grinder.mp4",
+  "bytes": 2968650,
+  "sha256": "da54f53d2813f52f36844d0ca0951e34407059999c2f56f1467301dc8fbc6050",
+  "fps": 24.0,
+  "frameCount": 343,
+  "duration": 14.291666666666666,
+  "download": "https://videos.pexels.com/video-files/2849942/2849942-hd_1280_720_24fps.mp4",
+  "sampleTimes": [
+    0.708,
+    2.833,
+    5.708,
+    8.542,
+    11.417,
+    13.542
+  ]
+}

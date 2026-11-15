@@ -1,0 +1,727 @@
+[0.40] Paris, nước Pháp, nơi những đại lộ
+[2.20] thường gắn với thời trang và du lịch
+[3.70] đang trở thành điểm tập trung của những
+[5.20] đoàn người biểu tình. Họ yêu cầu cải
+[7.00] thiện trường học, tăng lương, giảm chi
+[8.50] phí sinh hoạt và thay đổi những chính
+[9.90] sách mà họ cho là không còn đáp ứng nhu
+[11.90] cầu của xã hội. Phần lớn những cuộc tuần
+[13.80] hành diễn ra ôn hòa nhưng mà tại một số
+[15.60] nơi đã xuất hiện đụng độ với cảnh sát và
+[17.40] hành vi phá hoại tài sản. Cách đó không
+[19.10] xa, tại Berlin thì nhiều người trẻ Đức
+[21.00] cũng xuống đường vì giáo dục, vì nhà ở,
+[23.20] việc làm và kế hoạch khôi phục nghĩa vụ
+[24.80] quân sự. Ở Madrid, câu chuyện một phụ nữ
+[27.30] 87 tuổi bị buộc rời khỏi căn hộ gắn bó
+[29.60] hơn bảy thập kỷ đã trở thành biểu tượng
+[31.40] của khủng hoảng nhà ở. Ở Ý, công nhân và
+[33.50] sinh viên cùng chất vấn chính phủ về
+[35.00] tiền lương, giá cả, chiến tranh và ngân
+[37.00] sách quốc phòng. Còn ở Serbia, các cuộc
+[38.90] phản đối kéo dài gần 2 năm đã chuyển hóa
+[41.10] thành một thay đổi quan trọng trong cuộc
+[42.50] bầu cử Quốc hội tháng 10 năm 2026. Vì
+[44.70] sao tại một khu vực với nhiều nền kinh
+[46.30] tế phát triển, hệ thống phúc lợi rộng
+[47.80] khắp và những trường đại học hàng đầu
+[49.40] lại xuất hiện những cuộc biểu tình ở
+[50.60] nhiều nơi và gần như cùng một thời điểm
+[52.40] và vì sao một trường học xuống cấp, một
+[54.20] hóa đơn tiền điện, một khoản tăng tiền
+[55.80] thuê nhà hay là một bê bối tham nhũng
+[57.40] lại có thể trở thành chất xúc tác cho
+[58.90] hàng nghìn người xuống đường.
+[60.40] Trước hết thì cần nói rõ rằng là không
+[61.60] có một phong trào chung điều khiển mọi
+[63.30] cuộc biểu tình ở châu Âu. Mỗi nơi có một
+[65.10] vấn đề riêng nhưng mà điểm giống nhau là
+[66.80] một bộ phận người dân không còn chắc là
+[68.50] chính phủ có thể giúp cuộc sống ngày mai
+[70.20] tốt hơn hôm nay. Hãy bắt đầu ở Pháp
+[71.90] trước đi, nơi mà một vấn đề trong trường
+[73.60] học đã lan sang nhiều nhóm người. Từ
+[75.30] tháng 9 năm 2026, nhiều học sinh trung
+[77.20] học Pháp đã phản đối cái việc trường
+[78.80] thiếu giáo viên, lớp quá đông, cơ sở vật
+[80.80] chất xuống cấp và những bất cập trong
+[82.40] tuyển sinh đại học. Các em sợ điều kiện
+[84.30] học tập kém sẽ ảnh hưởng tới cơ hội vào
+[85.90] đại học và tương lai của mình, nhất là
+[87.60] khi chính phủ còn nhiều khoản chi lớn
+[89.20] khác. Lúc đầu thì học sinh chủ yếu nói
+[90.90] về giáo dục nhưng mà sau đó công đoàn và
+[92.60] người lao động tham gia với yêu cầu tăng
+[94.40] lương, cải thiện đời sống. Phần lớn hoạt
+[96.20] động diễn ra ôn hòa nhưng mà tại một số
+[98.20] thành phố bắt đầu xuất hiện phá hoại tài
+[99.70] sản, phóng hỏa và đối đầu với cảnh sát.
+[101.90] Tại Pháp thì nhà nước có vai trò lớn
+[103.40] trong giáo dục, trong y tế, trong giao
+[104.90] thông và trợ cấp xã hội, tức là những
+[106.50] dịch vụ mà người dân vẫn gọi chung là
+[108.00] phúc lợi. Người dân muốn các dịch vụ đó
+[110.00] tốt hơn nhưng mà chính phủ phải đối mặt
+[111.80] với nợ công và thâm hụt ngân sách, nghĩa
+[113.60] là số tiền chi ra lớn hơn số tiền thu
+[115.70] vào. Cắt chi có thể khiến người dân phản
+[117.60] đối, còn tiếp tục tăng chi bằng tiền vay
+[119.60] sẽ khiến nặng nợ lớn hơn. Chính phủ đã
+[121.89] đưa ra những cái đề xuất như là giới hạn
+[123.39] sĩ số một số lớp còn ở mức 28 học sinh,
+[125.89] rồi là hỗ trợ sửa chữa trường học, thêm
+[127.59] 15.000 chỗ học đại học và điều chỉnh
+[129.39] tuyển sinh vào năm 2028. ngày mùng 2
+[131.39] tháng 11 số trường bị phong tỏa hoặc là
+[133.19] có hoạt động tìm cách phong tỏa đã được
+[134.69] ghi nhận giảm đáng kể so với trước kỳ
+[136.39] nghỉ. Pháp dự kiến bầu cử tổng thống vào
+[138.19] năm 2027 nên là những cuộc biểu tình này
+[139.99] có thể ảnh hưởng trực tiếp đến cách mà
+[141.39] người dân đánh giá chính phủ trước ngày
+[142.89] bỏ phiếu. Phe đối lập có thể dựa vào cái
+[144.79] sự bất mãn để chỉ trích chính phủ nhưng
+[146.59] mà cảnh đập phá ấy thì cũng có thể khiến
+[147.99] một số cử tri muốn siết chặt an ninh.
+[149.69] Bài học từ Pháp là người dân đòi hỏi
+[151.49] dịch vụ tốt hơn còn túi tiền nhà nước có
+[153.49] hạn và khoảng cách đó có thể biến tranh
+[155.69] cãi về trường học thành tranh cãi về
+[157.19] năng lực điều hành. Rời nước Pháp thì
+[158.59] chúng ta hãy nhìn sang Đức nơi mà nền
+[159.99] kinh tế mạnh thì vẫn không xóa được nỗi
+[161.59] lo của người trẻ. Đức là nền kinh tế lớn
+[163.79] nhất châu Âu, nổi tiếng với xe hơi, máy
+[165.69] móc, hệ thống đào tạo nghề và hàng hóa
+[167.29] xuất khẩu. Ngày 31 tháng 10 năm 2016
+[169.59] phong trào
+[170.79] đã tổ chức tuần hành ở hàng chục thành
+[172.39] phố nước Đức. Người tham gia muốn trường
+[174.29] học, bệnh viện và chính sách xã hội tốt
+[175.99] hơn, nhà ở dễ tiếp cận hơn và khí hậu
+[178.09] được quan tâm hơn, đồng thời phản đối
+[179.89] việc khôi phục nghĩa vụ quân sự bắt
+[181.09] buộc. Nhưng mà nước Đức cũng đang gặp
+[182.59] khó, giá năng lượng thì biến động này,
+[184.59] doanh nghiệp thì cạnh tranh gay gắt và
+[186.09] việc chuyển sang xe điện, công nghệ số
+[187.69] đang tốn cực kỳ nhiều tiền. Thương mại
+[189.49] thế giới thì thay đổi, mạng lưới sản
+[190.99] xuất và vận chuyển hàng hóa bị xáo trộn
+[192.79] trong khi dân số Đức thì ngày càng già.
+[194.79] Với người trẻ thì những cái chuyện nghe
+[195.89] rất là vĩ mô đấy thực ra là ba câu hỏi
+[197.69] rất là gần gũi thôi là ra trường có việc
+[199.39] làm không, lương có đủ thuê nhà không và
+[201.29] sau này cuộc sống có ổn định được không.
+[202.99] Chính phủ nói là cần củng cố quốc phòng
+[204.49] để giữ an ninh còn người phản đối hỏi là
+[206.29] vì sao người trẻ lại phải gánh thêm
+[207.79] nghĩa vụ khi mà chuyện học hành, nhà ở
+[209.59] và việc làm thì vẫn còn nhiều khó khăn.
+[211.09] Thực ra là không phải là mọi người trẻ ở
+[212.29] Đức đều ủng hộ phong trào và mức độ đại
+[214.09] diện của nó thì vẫn cần được nhìn nhận
+[215.39] một cách thận trọng. Dù vậy thì biểu
+[217.09] tình đặt ra bài toán khó cho chính phủ
+[218.89] là khi mà tiền ngân sách có hạn nên ưu
+[220.99] tiên quốc phòng, giáo dục, nhà ở hay là
+[223.09] phúc lợi đến đâu. Không thể chỉ chọn một
+[224.79] phía được và chính phủ ấy thì cần phải
+[226.39] giải thích được vì sao cần chi tiền và
+[228.29] ai sẽ được hưởng lợi. Còn ở Tây Ban Nha
+[230.09] thì mối lo cũng là nhà ở. Ngày 23 tháng
+[232.59] 9 năm 2016 bà Maria Ocaña Abascal 87
+[235.99] tuổi đã bị cưỡng chế rời khỏi căn hộ ở
+[238.09] Madrid sau hơn 70 năm sinh sống tại đó.
+[240.59] Sau khi mà căn hộ đổi chủ ấy thì tiền
+[242.09] thuê đã vượt khả năng trả bằng lương hưu
+[243.79] của bà. Người biểu tình đã dựng lều tại
+[245.79] quảng trường Puerta del Sol, yêu cầu bảo
+[248.09] vệ người đi thuê để tránh người yếu thế
+[249.79] bị đẩy ra đường mà không có chỗ ở.
+[251.59] Madrid và Barcelona thì có nhiều việc
+[253.29] làm, trường học và khách du lịch nên là
+[254.99] nhu cầu nhà ở tăng nhanh hơn lượng giá
+[256.79] nhà phù hợp được đưa ra thị trường. Theo
+[258.69] ước tính của ngân hàng Tây Ban Nha được
+[259.99] AP dẫn lại thì nước này đang thiếu
+[261.69] khoảng tầm 550.000 căn nhà. Với nhiều
+[264.19] người trẻ thì tiền thuê nhà đã ngốn gần
+[265.79] hết lương rồi, khiến cái chuyện tiết
+[267.39] kiệm ra ở riêng, mua nhà hay lập gia
+[269.39] đình đều khó khăn hơn. Một phần nhà ở
+[271.29] được chuyển sang cho khách du lịch thuê
+[272.59] ngắn ngày, làm cái nguồn nhà thuê dài
+[274.19] hạn ở vài khu vực lại còn thêm hạn chế.
+[276.09] Nhưng mà cũng không thể chỉ đổ lỗi cho
+[277.39] du lịch được tại vì còn nhiều vấn đề
+[278.69] khác như là quy hoạch, thủ tục xây dựng,
+[280.39] giá vật liệu và việc làm tập trung quá
+[282.09] nhiều ở thành phố lớn. Một số tổ chức đã
+[283.89] vận động yêu cầu kiểm soát chặt chẽ tiền
+[285.59] thuê và bảo vệ người thuê nhà. Ngược lại
+[287.49] thì những người không đồng tình cho rằng
+[288.69] là chủ nhà và doanh nghiệp có thể ngại
+[290.09] đầu tư thêm nhà cho thuê thì câu chuyện
+[291.99] ở Tây Ban Nha cho thấy rằng là thành phố
+[293.79] có thể rất là hấp dẫn với nhà đầu tư và
+[295.19] du khách nhưng mà người làm việc ở đó
+[297.29] vẫn không đủ tiền để sống ngay tại nơi
+[298.99] mình làm. Câu chuyện tương tự cũng xuất
+[300.69] hiện ở Bồ Đào Nha. Thành phố càng hấp
+[302.29] dẫn, người muốn đến ở càng đông và người
+[304.19] dân địa phương lại càng khó tìm được căn
+[305.69] nhà hợp với túi tiền. Ngày 17 tháng 10
+[307.69] năm 26, hàng chục nghìn người xuống
+[309.19] đường ở Lisbon vì chi phí sinh hoạt và
+[310.89] giá nhà quá là cao. Công đoàn thì yêu
+[312.69] cầu tăng lương, cải thiện lương hưu và
+[314.29] dịch vụ công trong khi những cái nhóm
+[315.69] hoạt động về nhà ở đã gây sức ép để
+[317.29] chính phủ hành động. Theo Eurostat, giá
+[319.39] nhà quý 2 năm 26 của Bồ Đào Nha đã cao
+[321.49] hơn khoảng 14,2% so với mức bình quân
+[323.89] năm 2025. Một người trẻ có việc làm thì
+[326.09] vẫn phải ở với cha mẹ hoặc là đi làm rất
+[327.79] là xa tại vì không đủ tiền để thuê nhà
+[329.79] gần chỗ làm. Chính phủ thì vừa muốn thu
+[331.69] hút đầu tư mà vừa phải bảo vệ quyền sở
+[333.39] hữu tài sản, tăng nguồn nhà phù hợp túi
+[335.09] tiền và hỗ trợ người có thu nhập thấp.
+[337.29] Nếu mà kinh tế tăng trưởng mà chỉ một số
+[338.89] người được hưởng lợi, còn phần đông phải
+[340.59] chi nhiều hơn để sống thì bất mãn sẽ tất
+[342.49] yếu tồn tại. Nói đơn giản là đất nước
+[344.49] thu hút được nhiều tiền đầu tư thì không
+[345.99] có nghĩa là người dân tự nhiên sẽ dễ mua
+[347.79] nhà hoặc thuê nhà hơn. Điều quan trọng
+[349.39] nhất là thành quả phát triển có đến được
+[351.29] với người lao động hay không. Cũng giống
+[352.79] như là nhiều người Việt Nam đang đi làm
+[354.09] ở nước ngoài luôn muốn gửi tiền về cho
+[355.69] gia đình sao cho nhanh và an toàn thì
+[357.39] bây giờ đã có Tap Tap Send, một nhà cung
+[359.39] cấp dịch vụ kiều hối uy tín toàn cầu
+[361.29] hiện đang phục vụ hơn 15 triệu người
+[362.69] dùng tại hơn 30 quốc gia. Họ cũng vừa
+[364.89] trở thành một trong những công ty đầu
+[366.00] tiên nhận được ba giấy phép từ ngân hàng
+[367.50] Trung ương UAE, đánh dấu một cột mốc
+[369.30] quan trọng trong việc mở rộng hệ sinh
+[370.69] thái dịch vụ tài chính dành cho cộng
+[372.10] đồng quốc tế và được VPBank ký kết trở
+[374.50] thành đối tác chiến lược. Cái sự bắt tay
+[376.19] này đã mang lại một giải pháp nhận tiền
+[377.69] kiểu hối cực kỳ nhanh chóng, tự động hóa
+[379.50] và hỗ trợ 24/7 cho người dân tại Việt
+[381.30] Nam. Ưu điểm lớn nhất ở dịch vụ này giúp
+[383.39] xóa bỏ hoàn toàn những cái rào [âm nhạc]
+[384.50] cản thường gặp như là lệch múi giờ hay
+[386.30] là ngày nghỉ lễ giữa các nước. Người
+[387.89] thân nước ngoài chỉ cần chuyển qua ứng
+[389.30] dụng TapTap Send thì người ở nhà có thể
+[391.10] nhận tiền qua tài khoản như là Momo,
+[392.69] Viettel Money hoặc là những cái tài
+[394.10] khoản ngân hàng thông thường mà không
+[395.60] mất một đồng phí nào. Giao dịch được xử
+[397.30] lý tức thì và tra soát cực kỳ thuận
+[398.80] tiện. Năm 2025 thì lượng kiều hối về
+[400.80] nước chúng ta ước tính đạt 18 tỷ đô.
+[403.00] Việc những cái định chế tài chính lớn
+[404.39] như là VPBank mở rộng kết nối với những
+[406.10] đối tác công nghệ như là TapTap Send vừa
+[408.00] giúp người lao động có một kênh gửi tiền
+[409.50] đáng tin cậy để chăm lo cho gia đình mà
+[411.39] vừa giúp khơi thông dòng vốn ngoại lực
+[413.00] để phát triển kinh tế đất nước. Anh em
+[414.60] nào mà đang đi làm người ở nước ngoài
+[415.80] thì có thể tham khảo ngay kênh này để
+[417.30] gửi thành quả lao động về nhà một cách
+[418.69] mượt mà nhất. Đặc biệt trong lần giao
+[420.50] dịch đầu tiên thì bạn chỉ cần nhập mã
+[422.00] này và gửi tối thiểu 100 đô là sẽ được
+[424.50] ngay 20 đô tiền thưởng. Link tôi sẽ để
+[426.30] dưới phần mô tả và bình luận. Quay lại
+[427.89] với video thì chúng ta chuyển từ Bồ Đào
+[429.39] Nha sang Ý. Tại Ý vào ngày 17 tháng 10
+[431.89] các cuộc tuần hành phản đối chi phí sinh
+[433.39] hoạt và chiến tranh đã diễn ra ở Milan.
+[435.39] Trong đó thì có nơi xuất hiện đụng độ và
+[436.80] đập phá. Đến ngày 30 tháng 10 cuộc tổng
+[438.89] đình công 24 giờ do công đoàn USB kêu
+[441.00] gọi tiếp tục thu hút hàng chục nghìn
+[442.69] người tại nhiều thành phố theo Reuters.
+[444.80] Người tham gia muốn tăng lương, muốn
+[446.30] dịch vụ công tốt hơn và giá sinh hoạt
+[447.89] bớt gây áp lực, đồng thời chất vấn cái
+[449.60] việc là nhà nước tăng ngân sách quân sự.
+[451.80] Một số công nhân cảng biển đã phản đối
+[453.19] cái việc sử dụng cảng thương mại để vận
+[454.69] chuyển vũ khí. Chính phủ thì cho rằng là
+[456.39] cần chi thêm để bảo vệ an ninh nhưng một
+[458.30] số người dân hỏi là vì sao trường học và
+[459.80] bệnh viện vẫn khó khăn trong lúc quốc
+[461.39] phòng được bổ sung tiền. Không phải là
+[462.89] cứ thêm một euro cho quốc phòng là bớt
+[464.69] đúng một euro cho giáo dục nhưng mà tiền
+[466.30] được chia thế nào thì vẫn luôn là lựa
+[467.69] chọn ảnh hưởng đến người dân. Italy thì
+[469.60] còn đang gặp khó do năng suất lao động
+[471.10] tăng chậm, nghĩa là mỗi giờ làm việc tạo
+[473.10] ra thêm giá trị không nhiều trong khi
+[474.80] lương sau khi trừ tác động tăng giá thì
+[476.50] vẫn chịu sức ép và cơ hội việc làm của
+[478.19] người trẻ thì còn hạn chế. Với Ý thì
+[480.10] chính phủ phải cùng lúc xử lý sức ép
+[481.50] kinh tế và giữ trật tự nhưng mà sẽ không
+[483.39] thể để đối thoại bị thay vào những cuộc
+[484.89] đối đầu. Ở Ở thì người dân cũng xuống
+[486.69] đường để bắt chính phủ phải lời cho câu
+[488.50] hỏi là ai sẽ trả giá cho việc siết chặt
+[490.50] ngân sách. Ngày mùng 9 tháng 10 tại Bỉ
+[492.20] thì các công đoàn đã tổ chức đình công
+[493.70] và tuần hành phản đối kế hoạch ngân sách
+[495.30] của chính phủ, giao thông, chuyến bay,
+[497.00] trường học và rất là nhiều dịch vụ bị
+[498.40] ảnh hưởng. Sâu xa hơn là câu hỏi là làm
+[500.50] sao để tiếp tục chi trả tiền hưu trí,
+[502.40] chăm sóc y tế và những khoản hỗ trợ khi
+[504.20] mà dân số già đi và tiền ngân sách ngày
+[506.00] càng căng. Chính phủ thì muốn thu và chi
+[508.00] cân đối hơn để có tiền duy trì những
+[509.40] dịch vụ lâu dài, còn người lao động thì
+[511.30] sợ cải cách sẽ làm giảm lương hưu, trợ
+[513.10] cấp hay là những quyền lợi đang có. Vấn
+[515.00] đề không chỉ còn là giảm khoản nào mà là
+[517.10] ai chấp nhận thiệt thòi khi mà nhà nước
+[518.90] thắt chặt chi tiêu. Tại vì là cải cách
+[521.00] ngân sách ấy thì rất là khó làm hài lòng
+[522.40] tất cả nên là muốn thuyết phục được
+[523.70] người dân thì chính phủ phải cho thấy
+[525.10] chi phí được chia một cách công bằng.
+[527.10] Khi mà sinh viên cũng đặt câu hỏi về
+[528.30] chất lượng giáo dục thì những yêu cầu
+[529.40] riêng lẻ có thể kết nối thành tranh luận
+[531.10] rộng hơn về ưu tiên chi tiêu của nhà
+[533.00] nước.
+[534.10] Nhưng mà không phải biểu tình nào cũng
+[535.30] bắt đầu từ chuyện giá cả hay tiền lương.
+[537.10] Ví dụ như ở Serbia, từ tháng 11 năm 2024
+[540.10] khi mà mái che nhà ga đường sắt Novi Sad
+[542.00] bị sập, 16 người đã thiệt mạng và cái
+[544.10] thảm kịch này đã làm nhiều người yêu cầu
+[545.80] điều tra minh bạch, tìm rõ ai chịu trách
+[547.80] nhiệm và làm rõ những cáo buộc tham
+[549.50] nhũng hoặc là giám sát công trình cẩu
+[550.70] thả. Có một phong trào sinh viên đã duy
+[552.50] trì phản đối gần 2 năm, rồi dần chuyển
+[554.50] từ yêu cầu làm rõ vụ việc sang yêu cầu
+[556.30] thay đổi chính trị. Bầu cử Quốc hội
+[558.10] trước thời hạn vào ngày 25 tháng 10 năm
+[559.50] 26 đã trở thành một bước ngoặt. Theo
+[561.20] Reuters thì danh sách ứng viên được
+[562.70] phong trào sinh viên ủng hộ dành khoảng
+[564.10] 52,7% phiếu và 139 trong số 250 ghế Quốc
+[568.30] hội. Liên minh do Đảng của ông Vucic dẫn
+[570.50] dắt dành khoảng tầm 39,2 phiếu và 97
+[572.90] ghế. Nhưng mà đây thì mới là bầu cử Quốc
+[574.80] hội thôi, không có nghĩa là chức vụ Tổng
+[576.50] thống cũng tự động được chuyển giao
+[577.70] ngay. Nhưng mà cái điểm đáng chú ý là
+[579.40] sức ép trên đường phố đã chuyển thành
+[580.90] những cái lá phiếu cụ thể.
+[582.50] Tiếp theo là chúng ta chuyển sang
+[583.40] Albania và Hy Lạp, nơi mà câu hỏi lớn
+[585.70] cũng là chính quyền quản lý có minh
+[587.20] bạch, có trách nhiệm hay không. Ở
+[588.80] Albania, một số cuộc phản đối ban đầu
+[590.90] liên quan đến dự án phát triển ven biển
+[592.50] và những lo ngại về tác động tới môi
+[593.90] trường. Trong đó thì có dự án nghỉ dưỡng
+[595.70] liên quan đến Jared Kushner, con rể của
+[597.60] Tổng thống Donald Trump làm dấy lên câu
+[599.40] hỏi về cách sử dụng đất và sự công khai
+[601.20] trong phê duyệt dự án. Trong tháng 10
+[603.00] năm 26 những cuộc biểu tình tại Tirana
+[604.90] đã trở nên căng thẳng hơn với một số vụ
+[606.50] đối đầu và phá hoại. Người biểu tình đã
+[608.60] đòi Thủ tướng Edi Rama từ chức, còn
+[610.50] chính phủ bác bỏ yêu cầu này và cho rằng
+[612.30] bất ổn có thể ảnh hưởng đến quá trình
+[613.70] hội nhập châu Âu.
+[615.00] Tại Hy Lạp thì hàng nghìn học sinh và
+[616.30] giáo viên cũng xuống đường trong tháng 1
+[618.10] để yêu cầu trường học tốt hơn, tiền
+[619.70] lương khá hơn và đầu tư nhiều hơn cho
+[621.10] giáo dục.
+[622.00] Vụ tai nạn đường sắt Tempi năm 2023 đã
+[623.90] khiến 57 người thiệt mạng cũng từng dẫn
+[625.70] đến những cuộc phản đối đòi công lý và
+[627.20] trách nhiệm giải trình. Sau khi mà nhìn
+[628.90] qua một loạt các quốc gia rồi ấy thì
+[630.50] chúng ta có thể thấy là những nguyên
+[631.70] nhân giống nhau dù biểu tình có những
+[633.20] khẩu hiệu khác nhau. Thứ nhất là giá cả
+[635.20] và tiền sinh hoạt đang tạo áp lực lớn
+[636.80] sau đại dịch, xung đột Nga - Ukraine và
+[638.90] những biến động thương mại quốc tế cộng
+[640.50] thêm cú sốc năng lượng do chiến tranh
+[641.80] Trung Đông năm 26, giá điện, thực phẩm,
+[644.00] xăng dầu và tiền thuê nhà tăng khiến
+[646.00] nhiều gia đình phải tính toán từng khoản
+[647.50] chi.
+[648.50] Ở đây thì có một cái điều khá là dễ hiểu
+[649.80] nhầm nhé là lạm phát giảm thì chỉ có
+[651.40] nghĩa là giá tăng chậm lại chứ chưa chắc
+[653.40] giá đã giảm. Ví dụ một giỏ hàng đã tăng
+[655.50] từ 100 lên 120 Euro không tự nhiên trở
+[657.50] về 100 Euro chỉ vì lạm phát hạ xuống. Vì
+[659.60] vậy thì chính phủ nói rằng là đã kiểm
+[661.30] soát lạm phát, còn người đi siêu thị thì
+[662.90] vẫn cảm thấy là hàng hóa đắt đỏ thì cả
+[665.00] hai đều có thể cùng đúng. Theo Eurostat,
+[667.40] lạm phát ở khu vực dùng đồng Euro tháng
+[669.10] 9 năm 26 là 3,8% so với cùng kỳ, còn giá
+[672.50] năng lượng thì tăng khoảng tầm 18,8%.
+[674.80] Năng lượng đắt làm vận chuyển và sản
+[676.30] xuất tốn thêm tiền, rồi doanh nghiệp có
+[677.90] thể cộng thêm một phần chi phí đó vào
+[679.30] giá hàng. Những cái gia đình có thu nhập
+[681.00] thấp sẽ chịu tác động nặng hơn tại vì
+[682.70] phần lớn tiền kiếm được đã dành cho ăn
+[684.40] uống, chỗ ở và điện nước rồi. Bất mãn vì
+[686.50] thế không chỉ do giá tăng mà còn do cảm
+[688.30] giác là làm việc cả tháng vẫn không đủ
+[690.00] để đảm bảo cuộc sống. Và khó khăn thì
+[691.70] không dừng ở giá thực phẩm hay tiền điện
+[693.40] mà còn là câu chuyện nhà ở nữa tại vì là
+[695.10] ở châu Âu ấy thì giá mua và thuê đang
+[697.50] tăng nhanh tại nhiều đô thị. Theo các cơ
+[699.20] quan của EU ấy thì giá nhà ở đây đã tăng
+[701.10] hơn 60% kể từ năm 2013, còn giá thuê
+[703.60] bình quân thì tăng khoảng tầm 20%. Trong
+[705.60] quý 2 năm 26 giá nhà EU tăng 4,7% so với
+[708.70] cùng kỳ năm trước, còn tiền thuê nhà
+[710.30] tăng 3%. Nhà xây không kịp nhu cầu tại
+[712.80] vì đất khan hiếm, quy hoạch và thủ tục
+[714.50] kéo dài, vật liệu thì đắt và hạ tầng thì
+[716.60] chưa theo kịp tốc độ đô thị hóa. Người
+[718.60] mới đi làm phải trả tiền thuê cao nên là
+[720.30] khó dành dụm, trong khi người mua nhà từ
+[722.10] nhiều năm trước ấy thì lại có thể hưởng
+[723.30] lợi khi mà tài sản tăng giá. Nếu mà chỉ
+[725.30] áp giá trần mà không xây thêm nhà thì
+[726.80] nhiều người vẫn không thể tìm được chỗ
+[728.00] thuê. Nếu mà chỉ xây thêm căn hộ giá cao
+[730.00] mà không hỗ trợ ấy thì những người thu
+[731.40] nhập thấp vẫn không mua hoặc là thuê
+[732.90] nổi. Vì vậy thì chính sách nhà ở phải
+[734.80] làm nhiều việc cùng một lúc là xây thêm,
+[736.90] phát triển giao thông, có nhà ở xã hội
+[738.70] và bảo vệ người thuê đang gặp khó.
+[740.70] Khó ở chỗ ấy là xây nhà, sửa quy hoạch
+[742.50] thì có thể mất nhiều năm nhưng mà tiền
+[744.10] thuê thì người dân vẫn phải trả ngay
+[745.50] tháng này. Một vấn đề đáng chú ý nữa là
+[747.70] người trẻ còn có tin vào tương lai của
+[749.30] mình hay không. Nhiều người trẻ lo lắng
+[751.00] tại vì họ không biết rằng là cứ học tốt
+[752.80] và làm chăm chỉ thì có thể có cuộc sống
+[754.70] khá hơn cha mẹ của họ không. Theo khảo
+[756.50] sát của Eurobarometer công bố tháng 2
+[758.40] năm 25 thì 40% người trẻ từ 16 đến 30
+[761.10] tuổi được hỏi thì coi giá cả và tiền
+[763.10] sinh hoạt là mối lo quan trọng. Eurostat
+[765.10] cho biết là năm 25 thì có 24,2% người 15
+[768.40] đến 29 tuổi ở EU đứng trước nguy cơ
+[770.40] nghèo hoặc là bị gạt ra ngoài những cơ
+[772.10] hội xã hội so với 20,9% dân số chung.
+[775.00] Tính đến tháng 9 năm 26 tỉ lệ thất
+[776.60] nghiệp của người dưới 25 tuổi là 15,5%
+[779.30] cao hơn nhiều so với mức 6,2% của toàn
+[781.50] EU. Thì khi mà người trẻ thấy là nỗ lực
+[783.60] không còn mở ra con đường tiến thân nữa
+[785.40] thì họ sẽ mất dần niềm tin vào trường
+[786.70] học, thị trường việc làm và những cái
+[788.20] lời hứa về cơ hội công bằng. Vì vậy thì
+[790.20] nhiều người trẻ xuống đường không chỉ để
+[791.80] đòi tiền lương hay nhà ở mà còn để có
+[793.50] tiếng nói trong những quyết định tác
+[794.90] động lên tương lai của chính họ.
+[796.50] Bên cạnh đó thì nhiều người còn dựa vào
+[798.40] một cái chỗ nữa là hệ thống phúc lợi. Hệ
+[800.40] thống phúc lợi của châu Âu đang chịu rất
+[801.60] là nhiều áp lực. Dù đây vẫn là chỗ dựa
+[803.40] quan trọng qua giáo dục, y tế, lương hưu
+[805.50] và trợ cấp khi mà người dân gặp khó
+[806.90] khăn. Để duy trì cái mạng lưới này thì
+[808.90] nhà nước phải có nguồn thu đủ lớn và ổn
+[810.80] định qua nhiều năm nhưng mà dân số đã
+[812.60] già đi khiến số người cần lương hưu, cần
+[814.70] khám chữa bệnh tăng trong khi tăng
+[816.30] trưởng kinh tế chậm làm ngân sách khó mở
+[818.00] rộng, tăng thuế hoặc là tăng tiền đóng
+[819.70] bảo hiểm khiến người đi làm sẽ chịu thêm
+[821.20] gánh nặng còn giảm trợ cấp thì sẽ dễ bị
+[823.10] phản đối. Ngân sách căng thẳng còn hiện
+[824.90] ra rất là rõ trong đời sống. Trường thì
+[826.60] thiếu giáo viên, bệnh viện thì đông bệnh
+[828.10] nhân, xe buýt và tàu công cộng thì không
+[829.80] đáp ứng đủ nhu cầu. Người dân thường sẽ
+[831.70] đánh giá dịch vụ bằng chuyện là họ phải
+[833.20] chờ bao lâu và được phục vụ thế nào chứ
+[835.30] không phải là bằng số liệu. Khi mà đóng
+[836.90] góp càng nhiều mà dịch vụ không tốt hơn
+[838.50] thì họ bắt đầu nghi ngờ năng lực điều
+[840.00] hành của chính phủ. Nhưng mà dù vậy thì
+[841.50] chúng ta cũng không thể nói được là hệ
+[842.70] thống phúc lợi của châu Âu đã sụp đổ.
+[844.30] Vấn đề là phải sửa hệ thống để phù hợp
+[846.10] với dân số già và kinh tế mới nhưng mà
+[848.00] lại vẫn phải chia sẻ chi phí theo cách
+[849.50] công bằng. Tiếp theo thì sự thay đổi của
+[851.20] môi trường an ninh cũng làm những cái
+[852.40] sức ép trong đời sống cũng thêm. Chiến
+[854.00] tranh và nhu cầu tăng chi quốc phòng đã
+[855.60] khiến cuộc sống của nhiều người dân ở
+[856.80] châu Âu chịu thêm sức ép. Sau xung đột
+[858.60] Nga
+[859.50] châu Âu vừa phải tìm lại nguồn năng
+[861.00] lượng ổn định mà vừa phải đầu tư thêm để
+[862.80] bảo vệ an ninh. Chiến tranh ở Trung Đông
+[864.50] năm 2026 khiến giá dầu khí và vận tải có
+[866.50] thêm nguy cơ biến động, nhất là khi mà
+[868.00] hoạt động qua eo biển Hormuz bị gián
+[869.40] đoạn. Theo Hội đồng Liên minh Châu Âu,
+[871.30] các thành viên EU đã chi khoảng tầm 418
+[873.50] tỷ Euro cho quốc phòng vào năm 2025 và
+[875.30] dự kiến là 454 tỷ vào năm 2026.
+[878.10] Người dân thì có thể hiểu là cần quốc
+[879.60] phòng mạnh hơn nhưng mà vẫn đặt câu hỏi
+[881.20] là thế tại sao trường học, bệnh viện và
+[882.80] nhà ở thì chưa được đầu tư tương xứng?
+[884.60] Tăng chi quốc phòng cũng không tự động
+[886.00] làm phúc lợi giảm đúng bằng số tiền đó
+[887.50] tại vì ngân sách thì có nhiều nguồn thu
+[888.80] và khoản vay khác nhau nhưng mà mỗi
+[890.50] khoản chi lớn thì đều phải được giải
+[891.90] thích rõ là chi để làm gì, lấy tiền ở
+[894.10] đâu và có mang lại kết quả hay không.
+[895.90] Tiếp theo có một câu chuyện nữa là chênh
+[897.30] lệch cơ hội giữa các thế hệ đã khiến một
+[899.10] số người trẻ cảm thấy là mình phải trả
+[900.70] nhiều tiền hơn để có được những điều mà
+[902.30] cha mẹ từng có. Trong một xã hội già hóa
+[904.30] thì người đi làm cần đóng góp cho lương
+[905.80] hưu và y tế của thế hệ trước nhưng bản
+[907.60] thân họ lại phải trả tiền thuê nhà cao
+[909.30] và đối mặt với công việc bấp bênh. Vì
+[911.10] vậy thì nhiều người trẻ lo rằng là mình
+[912.60] đang đóng góp ngày càng nhiều mà chưa
+[914.20] chắc đến tuổi nghỉ hưu thì sẽ được hưởng
+[915.80] quyền lợi tương tự. Tuy nhiên ở đây cũng
+[917.20] phải nói lại là người cao tuổi đã lao
+[918.50] động, đã đóng góp nhiều năm và có quyền
+[920.10] được bảo đảm an sinh và nhiều gia đình
+[921.80] thì cũng có hỗ trợ qua lại, cha mẹ giúp
+[923.40] con trả tiền nhà, con cái chăm sóc và hỗ
+[925.10] trợ cha mẹ khi về già. Tiếp theo chúng
+[926.80] ta cần phải nói về yếu tố là niềm tin
+[928.40] của người dân vào chính quyền. Người dân
+[930.20] có thể chịu đựng một biện pháp khó khăn
+[931.80] nếu mà tin chính phủ nói rõ sự thật,
+[933.70] giải thích minh bạch và chia sẻ gánh
+[935.20] nặng một cách hợp lý. Nhưng mà khi họ
+[937.00] cảm thấy ý kiến của mình bị bỏ qua, cùng
+[939.00] một khó khăn thì có thể gây phản ứng
+[940.30] mạnh hơn nhiều. Số liệu kinh tế có thể
+[942.00] đẹp hơn nhưng mà nếu ngoài đời tiền thuê
+[943.70] nhà vẫn cao và đi khám bệnh vẫn phải chờ
+[945.30] lâu ấy thì người dân khó mà cảm nhận
+[947.10] được sự cải thiện. Tại sách PR vụ sập
+[949.30] mái che nhà ga đã trở thành yêu cầu về
+[951.00] trách nhiệm giải trình, tức là người có
+[952.50] quyền phải nói rõ là mình đã làm gì và
+[954.60] chịu trách nhiệm nếu mà để xảy ra sai
+[956.00] phạm. Trong một xã hội dân chủ, biểu
+[957.90] tình ôn hòa có thể là cách mà người dân
+[959.40] lên tiếng và thúc đẩy chính sách thay
+[960.90] đổi nhưng điều quan trọng là chính quyền
+[962.50] có nghe không, có đối thoại không và
+[964.10] giải quyết bất đồng đúng pháp luật hay
+[965.40] không. Nếu mà hai bên chỉ có đối đầu và
+[967.10] không còn tin vào việc thương lượng thì
+[968.70] bất mãn kinh tế có thể biến thành khủng
+[970.40] hoảng chính trị. Và một cái yếu tố quan
+[972.20] trọng để thúc đẩy những cuộc biểu tình
+[973.60] hiện nay là mạng xã hội. Trước đây để tổ
+[975.90] chức một cuộc biểu tình lớn thì thường
+[977.20] cần công đoàn, tổ chức chính trị hoặc là
+[978.80] những cái hội nhóm của cấu trúc tương
+[980.00] đối rõ ràng. Nhưng mà ngày nay thì mạng
+[981.80] xã hội cho phép thông tin về một sự kiện
+[983.50] lan truyền cực kỳ nhanh, ngay cả khi mà
+[985.30] chưa có một bộ máy tổ chức lớn. Một
+[987.10] video về trường học xuống cấp có thể thu
+[988.80] hút sự quan tâm của hàng nghìn học sinh,
+[990.50] một vụ cưỡng chế nhà ở có thể trở thành
+[992.10] chủ đề tranh luận trên toàn quốc và thậm
+[993.70] chí là toàn thế giới. Một vụ tuần hành
+[995.40] tại Paris có thể được những người trẻ ở
+[997.20] Berlin, Brussels hoặc là Milan theo dõi
+[999.40] gần như ngay lập tức.
+[1000.70] Và khi mà người xem nhận thấy những cái
+[1001.90] vấn đề tương tự cũng tồn tại ở nơi mình
+[1003.70] đang sống ấy thì họ có thể bắt đầu đặt
+[1005.40] câu hỏi là tại sao bản thân mình không
+[1006.90] hành động nhỉ? Thì đó là cơ chế lan
+[1008.70] truyền xã hội.
+[1010.10] Tiếp theo là có một câu hỏi rất là gây
+[1011.00] tranh cãi là vì sao một số cuộc biểu
+[1012.90] tình tại châu Âu lại biến thành bạo lực.
+[1014.70] Những hành động đốt xe, phá cửa hàng và
+[1016.40] đụng độ với cảnh sát khiến người xem dễ
+[1018.00] nghĩ rằng là mọi cuộc biểu tình đều mang
+[1019.90] tính bạo lực. Nhưng mà một cuộc biểu
+[1021.50] tình quy mô lớn ấy thì có thể gồm nhiều
+[1023.10] thành phần khác nhau. Có những người
+[1024.40] tham gia để bày tỏ yêu cầu chính sách
+[1025.90] một cách ôn hòa. Có những cái tổ chức
+[1027.30] công đoàn, nhóm sinh viên hoặc là hội
+[1028.90] đoàn vận động theo những cái mục tiêu cụ
+[1030.10] thể, cũng có thể xuất hiện những nhóm
+[1031.80] chủ trương đối đầu hoặc là những người
+[1033.30] lợi dụng tình trạng hỗn loạn để thực
+[1034.60] hiện hành vi phạm pháp. Nhưng mà để dẫn
+[1036.40] đến bạo lực ấy thì sẽ có nhiều cơ chế
+[1038.10] khiến căng thẳng leo thang. Thứ nhất là
+[1039.70] sự tích tụ bất mãn và cảm giác không
+[1041.30] được lắng nghe. Nếu những hoạt động phản
+[1042.90] đối trước đó không tạo ra kết quả ấy thì
+[1044.60] một số người có thể cho rằng là cần sử
+[1046.10] dụng những cái biện pháp gây gián đoạn
+[1047.40] mạnh hơn. Thứ hai là sự tham gia của
+[1049.30] những cái nhóm có phương thức hành động
+[1050.30] khác nhau. Một cuộc tuần hành ban đầu
+[1052.00] được tổ chức ôn hòa có thể bị ảnh hưởng
+[1053.80] bởi những cái nhóm mà muốn đối đầu với
+[1055.30] lực lượng an ninh hoặc là lợi dụng tình
+[1056.60] hình để cướp bóc. Thứ ba là tương tác
+[1058.60] giữa người biểu tình và lực lượng thực
+[1059.80] thi pháp luật. Trong những tình huống
+[1061.00] căng thẳng thì một vụ xô xát nhỏ có thể
+[1062.70] làm tăng nguy cơ đối đầu. Cách bố trí
+[1064.50] lực lượng, phương án kiểm soát đám đông
+[1066.30] và mức độ sử dụng biện pháp cưỡng chế
+[1068.00] đều có thể ảnh hưởng đến diễn biến sự
+[1069.50] kiện. Thứ tư là sự lan truyền cảm xúc
+[1071.50] trên mạng xã hội. Những hình ảnh đối đầu
+[1073.10] ấy thì có thể khiến một số nhóm phản ứng
+[1074.50] mạnh hơn, đặc biệt là khi mà thông tin
+[1076.20] chưa đầy đủ hoặc là bị diễn giải theo
+[1077.70] hướng cực đoan. Đối với chính phủ thì
+[1079.30] thách thức là duy trì trật tự mà không
+[1080.80] làm mất đi quyền biểu tình hợp pháp. Nếu
+[1082.60] mà phản ứng quá yếu trước hành vi phá
+[1084.10] hoại thì người dân có thể mất niềm tin
+[1085.70] vào khả năng bảo vệ an ninh. Nhưng mà
+[1087.30] nếu sử dụng biện pháp cưỡng chế không
+[1088.70] tương xứng thì bất mãn có thể gia tăng
+[1090.60] và làm phức tạp thêm tình hình. Đối với
+[1092.40] những người đi biểu tình ấy thì bạo lực
+[1093.50] cũng có thể gây ra những hậu quả bất
+[1094.90] lợi. Nó làm lu mờ những yêu cầu ban đầu,
+[1097.10] khiến người dân vốn đồng cảm với những
+[1098.60] khó khăn kinh tế lại trở nên lo ngại và
+[1100.40] tạo ra một cơ hội để cuộc tranh luận
+[1101.80] chính trị chuyển từ nội dung cải cách
+[1103.40] sang vấn đề là trật tự công cộng. Thì từ
+[1105.30] những cái diễn biến đến đầu tháng 11 năm
+[1106.90] 2016 ấy có thể hình dung ba khả năng
+[1108.80] chính cho những tháng tiếp theo. Kịch
+[1110.40] bản thứ nhất là biểu tình hạ nhiệt nếu
+[1112.00] mà giá năng lượng ổn định hơn, đời sống
+[1113.80] dễ thở hơn và chính phủ có những cái
+[1115.20] biện pháp giải quyết những bức xúc trước
+[1116.50] mắt. Kịch bản thứ hai là những cái đợt
+[1118.10] biểu tình tiếp tục xuất hiện lúc mạnh
+[1119.70] lúc yếu tùy từng vấn đề và thời điểm.
+[1121.60] Thì cái này cũng khá đáng chú ý tại vì
+[1123.20] là nhà ở, giáo dục, lương và dân số già
+[1125.40] là những cái vấn đề mà không phải là một
+[1127.00] hôm mà giải quyết xong. Kịch bản thứ ba
+[1128.70] là một số nơi rơi vào khủng hoảng chính
+[1130.30] trị nghiêm trọng. Nếu mà nhiều sức ép
+[1131.90] cùng xuất hiện, giá năng lượng tăng mạnh
+[1133.50] này, thất nghiệp cao hơn này, chính sách
+[1135.10] bị phản đối hoặc là một vụ bê bối mới có
+[1137.00] thể đẩy tình hình theo hướng này. Thế
+[1138.60] thì đối mặt với ba kịch bản đó thì các
+[1140.10] chính phủ có thể làm gì? Trước mắt ấy
+[1141.90] thì có thể là hỗ trợ đúng nhóm thu nhập
+[1144.30] thấp để giảm tiền sinh hoạt này, thay vì
+[1146.00] trợ giá tràn lan khiến ngân sách tốn
+[1147.40] kém. Về lâu dài thì phải xây thêm nhà
+[1149.30] phù hợp với thu nhập, sửa quy hoạch rồi
+[1151.00] là cải thiện giao thông để người dân có
+[1152.40] thể sống xa trung tâm mà vẫn đi làm
+[1153.90] thuận tiện. Cần bảo vệ người thuê nhà dễ
+[1155.80] bị tổn thương nhưng mà cũng phải giữ
+[1157.30] động lực cho chủ nhà và doanh nghiệp để
+[1158.80] cung cấp thêm chỗ ở. Trong giáo dục thì
+[1160.50] là phải có thêm giáo viên, trường lớp
+[1161.90] tốt hơn này, rồi là chương trình học thì
+[1163.30] gắn với công việc thực tế. Nói chung là
+[1165.00] cũng nhiều việc phết đấy. Thế thì câu
+[1167.00] hỏi cuối cùng là có phải vì những cái
+[1168.30] vấn đề đó mà nó là toàn bộ châu Âu đang
+[1170.00] sụp đổ không? Thì có thể nói là châu Âu
+[1172.20] đang rơi vào khủng hoảng toàn diện nhưng
+[1174.00] mà cũng chưa thể nói là sụp đổ tại vì
+[1175.80] châu Âu vẫn có nhiều nền kinh tế lớn, có
+[1177.60] nhiều trường đại học tốt, nền công
+[1179.00] nghiệp mạnh và những hệ thống phúc lợi
+[1180.20] quan trọng. Một số hình ảnh bạo lực thì
+[1182.00] không đại diện cho toàn bộ cuộc sống của
+[1183.60] hàng trăm triệu người trên một lục địa.
+[1185.20] Cái điều đáng lo hơn là năm bài toán dài
+[1186.90] hạn là giữ mức sống này, tạo cơ hội cho
+[1188.80] người trẻ, sửa hệ thống phúc lợi, cân
+[1190.70] bằng chi tiêu an ninh với dân sinh và
+[1192.30] khôi phục niềm tin vào chính quyền. Khi
+[1193.80] mà kinh tế tăng chậm, ngân sách khó
+[1195.30] tăng, trường học và bệnh viện khó được
+[1196.90] cải thiện rồi là người dân lại càng bất
+[1198.20] mãn ấy. Nếu mà những cái vòng luẩn quẩn
+[1199.80] đấy vẫn tiếp tục kéo dài thì cải cách sẽ
+[1202.00] ngày càng khó thực hiện. Chốt lại thì
+[1203.40] chúng ta sẽ cùng trả lời câu hỏi là
+[1204.70] những cuộc biểu tình này thực sự nói lên
+[1206.30] điều gì? Theo chúng tôi thì những bức
+[1207.90] xúc của người dân ở châu Âu cho thấy
+[1209.30] khoảng cách giữa lời hứa về sự thịnh
+[1211.10] vượng và điều người dân cảm nhận trong
+[1212.80] đời sống. Họ không chỉ lo lắng là tiền
+[1214.60] lương tháng này có đủ sống không mà còn
+[1216.10] lo là năm sau cuộc sống có tốt hơn
+[1217.60] không. Mô hình phát triển của châu Âu
+[1219.10] lâu nay dựa vào kinh tế tăng trưởng, hệ
+[1220.80] thống phúc lợi, cơ hội vươn lên và khả
+[1222.50] năng giải quyết bất đồng pháp luật. Giờ
+[1224.20] đây thì dân đã già, cạnh tranh thì mang
+[1225.90] tầm quốc tế, giá nhà thì cao, chiến
+[1227.81] tranh và công nghệ thay đổi đang thử
+[1229.11] thách những cái nền tảng đó. Làm đường
+[1230.70] phố bình yên trở lại có thể là trước mắt
+[1232.70] nhưng mà để ổn định lâu dài thì người
+[1234.11] dân cần thấy là mình còn cơ hội tiến
+[1235.70] lên. Câu hỏi lớn là chính phủ có thể
+[1237.70] biến cái sự bất mãn thành động lực sửa
+[1239.31] chính sách và chia sẻ thành quả phát
+[1240.90] triển công bằng hơn hay không bởi vì sự
+[1242.81] thịnh vượng của ngày hôm nay không còn
+[1244.20] tự động đảm bảo niềm tin của ngày mai.
+[1246.40] Tôi là Long, đừng quên đăng ký để không
+[1247.70] bỏ lỡ bất kỳ video nào. Xin chào và hẹn
+[1249.40] gặp lại.

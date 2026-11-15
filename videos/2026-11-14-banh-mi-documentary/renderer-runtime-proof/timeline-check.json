@@ -1,0 +1,13 @@
+{
+  "schema": "bread-runtime-timeline-check/1",
+  "syntheticMediaOnly": true,
+  "globalFrame": 1125,
+  "croppedFrame": 0,
+  "pngSha256": [
+    "5881794c8c1f53729a65c0d4b03870337c02e35fee8e8a8c3dc3ea3ad81a010b",
+    "5881794c8c1f53729a65c0d4b03870337c02e35fee8e8a8c3dc3ea3ad81a010b"
+  ],
+  "identical": true,
+  "aestheticApproval": false,
+  "continuousAvReview": false
+}

@@ -1,0 +1,20 @@
+{
+  "mainMixSource": "videos\\2026-11-13-hai-style-10-phut\\audio\\final-mix.wav",
+  "mainMixSHA256": "429329edeab6ffa7db4171b90c45c2fc6c55a8fabefbbf8ab5972a621219eeb7",
+  "mainPCMBytesPreserved": 113555200,
+  "mainPrefixSHA256": "b85810d9907319176d5980a930df9a4d90ab44950f8895c958c0fbc9fa34217a",
+  "finalMixSHA256": "479546e1093d4516460441358b03a1519eaa0f46170e4e562588bb4a28944678",
+  "mainSpeechSpeed": 1,
+  "outroSpeechSpeed": 1,
+  "outroNarrationSHA256": "a38604559bb80ca604090f0a6a1e554a9a9dc234ae7c363a6b7646dc37ea835e",
+  "outroMusic": {
+    "file": "videos\\2026-11-13-hai-style-10-phut\\audio\\music\\hopeful-outro.mp3",
+    "sha256": "2db06d855d0730224bcbfd9eb8c53f0622f143fadd63218df29a6d64e7c40055",
+    "sourceStartSeconds": 30,
+    "seconds": 10.9
+  },
+  "newMusicCalls": 0,
+  "newVisualCalls": 0,
+  "bodyTimingUnchanged": true,
+  "sharedAcrossStyles": true
+}

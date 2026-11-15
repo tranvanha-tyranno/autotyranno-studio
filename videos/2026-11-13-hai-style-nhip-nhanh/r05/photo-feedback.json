@@ -1,0 +1,10 @@
+{
+  "status": "superseded-by-photo-primary-revision",
+  "userFeedback": "video vừa nhanh mà chả có ảnh thật để minh họa, nên để nhiều ảnh vô khi nào mô phỏng thì mới bắt đầu làm",
+  "feedbackDate": "2026-11-14",
+  "comicFile": "videos\\2026-11-13-hai-style-nhip-nhanh\\r05\\comic\\final.mp4",
+  "comicSHA256": "109f96993eb60f95d9ac90185ec11a37348d9e0251a10f0baa94680ecce6a6a3",
+  "flow": "render interrupted at requested photo-direction correction; preserve verified chunks",
+  "newBatch": "videos/2026-11-14-tai-chinh-anh-that",
+  "technicalChecksDoNotEstablishVisualAcceptance": true
+}

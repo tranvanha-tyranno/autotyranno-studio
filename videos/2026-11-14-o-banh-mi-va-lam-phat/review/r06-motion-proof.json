@@ -1,0 +1,37 @@
+{
+  "schema": "economy-motion-proof/1",
+  "revision": "r06",
+  "decision": "motion_rewrite_technical_and_sampled_visual_pass_pending_user_feedback",
+  "reviewer": "Codex",
+  "scope": "Read-only inspection of complete 11-14 second proof clips from beginning, graphic middle and ending plus final MP4 QA contacts; no continuous watching/listening claim.",
+  "clips": [
+    {
+      "id": "e01-copy",
+      "file": "r06/proof/e01-copy.mp4",
+      "sha256": "21a96cbb3589a588c75f7d409df9339d70265937b5840b2cd03bdb22dc98c21c",
+      "bytes": 3898002
+    },
+    {
+      "id": "e15-copy",
+      "file": "r06/proof/e15-copy.mp4",
+      "sha256": "62e1ecfa96392b8512f19b96dc90826d613d1b98f402f7baf953223d24f33938",
+      "bytes": 741019
+    },
+    {
+      "id": "e56-copy",
+      "file": "r06/proof/e56-copy.mp4",
+      "sha256": "40dde853ea9b56a0fd3bd76b95a9c8573157206aa30fd77208d551d680845e7c",
+      "bytes": 998968
+    }
+  ],
+  "observations": [
+    "Hook actor transitions from idle to receiving/presenting a bread prop; the bread travels into the anchored hand area.",
+    "Graphic cost beat progressively builds the cost bar and labels while the actor changes from idle to pointing and holds a count prop.",
+    "Ending actor points along a moving relation arrow beside the sourced bread photograph; portrait photo stays sharp through the final frame.",
+    "Fixed feet and closed mouth are retained; pose, arms, gaze, prop and emotion change with the clause."
+  ],
+  "rejectedR03Preserved": "videos/2026-11-14-o-banh-mi-va-lam-phat/r03/final.mp4",
+  "audioHashRetained": "c33a083d7fdb7ca42a959b200977cd3dbf99d1e8f1ec715c174b722e6ccf1ef2",
+  "newPaidProviderCalls": 0,
+  "userApproval": "pending"
+}

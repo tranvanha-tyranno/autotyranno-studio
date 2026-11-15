@@ -1,0 +1,30 @@
+{
+  "id": "phone-card-home",
+  "pexelsID": 7190949,
+  "sourceURL": "https://www.pexels.com/photo/woman-in-white-sweater-using-black-mobile-phone-7190949/",
+  "creator": "Pavel Danilyuk",
+  "theme": "phone",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/phone-card-home.jpg",
+  "downloadURL": "https://images.pexels.com/photos/7190949/pexels-photo-7190949.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1602,
+  "sha256": "2216f235c2df1716577bc6e0ea1c7548885c8568b1ac27ec8bdf0f73326fa2a9",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

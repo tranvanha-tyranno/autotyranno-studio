@@ -1,0 +1,154 @@
+{
+  "installedCandidates": [
+    {
+      "repo": "win4r/video-director",
+      "canonicalURL": "https://github.com/win4r/video-director",
+      "commit": "02d1912ab251bf5235b45e8e7aad81b4bc786b15",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\win4r__video-director\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\win4r__video-director\\source.zip",
+      "archiveSHA256": "647ae087289ca68fc6a063414a78df09f0d5e4f550d09ffdccb0bb4198630520",
+      "path": "video-director",
+      "alias": "video-director",
+      "skillSHA256": "8f13fca6d5b7dc356c8d8d964c31ebfde5f97a976d017331ee50ae8683fdb924",
+      "review": "Full SKILL and references/quality.md; other refs retained for task-specific reading.",
+      "userPreferenceConflicts": [
+        "Use autonomous mode already authorized by user.",
+        "No forced hook text/subtitles/first-3s CTA in this project.",
+        "Use exact narration clock and recorded SFX; no automatic synthesized score or house palette.",
+        "QA metrics and critic scores do not establish user approval."
+      ],
+      "category": "direction"
+    },
+    {
+      "repo": "ishuagrawal/skills",
+      "canonicalURL": "https://github.com/ishuagrawal/skills",
+      "commit": "63278582cf758794ad2f42aad015f8a88c6cbdca",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\ishuagrawal__skills\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\ishuagrawal__skills\\source.zip",
+      "archiveSHA256": "6545fb35ebd034bdaaf091b11395eb4c41bc243b76456b923009faafa2524527",
+      "path": "skills/video-by-reference",
+      "alias": "video-by-reference",
+      "skillSHA256": "39b776c968bfea2d12f4d4f0ccb5c1b985e556f24af1033e40180d63bb0f004b",
+      "review": "Full SKILL and references/story-and-pacing.md; engine/scripts retained, not executed.",
+      "userPreferenceConflicts": [
+        "Downloads and reversible work already authorized.",
+        "Do not replace real footage with generated drawings.",
+        "Originality is causal/narrative, not copying reference shots.",
+        "Use actual recorded SFX; no automatic oscillator score.",
+        "Rendered moving scenes must be inspected; stills alone are insufficient."
+      ],
+      "category": "reference study"
+    },
+    {
+      "repo": "Barty-Bart/motion-graphics",
+      "canonicalURL": "https://github.com/Barty-Bart/motion-graphics",
+      "commit": "3d83d987d658601d8a1269eb691622bdcd427335",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\source.zip",
+      "archiveSHA256": "50440369fec07b4c1232cb18fce38cdf415c8323e0032e672d0b74cda358da49",
+      "path": "skills/motion-broll",
+      "alias": "motion-broll",
+      "skillSHA256": "78e7d064aba37b8b10ea39973c61200e3c16e325fa20074f97ab29e1df1866d2",
+      "review": "Full SKILL; bundled engine reference is retained, not runtime tested.",
+      "userPreferenceConflicts": [
+        "User already authorized storyboard/drawing work; no extra plan-approval pause.",
+        "Motion graphics are supplementary explanations, not real B-roll.",
+        "No presenter requirement for bread documentary; no fixed shape/cursor style for whole film."
+      ],
+      "category": "phrase-aligned cutaways"
+    },
+    {
+      "repo": "Barty-Bart/motion-graphics",
+      "canonicalURL": "https://github.com/Barty-Bart/motion-graphics",
+      "commit": "3d83d987d658601d8a1269eb691622bdcd427335",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\source.zip",
+      "archiveSHA256": "50440369fec07b4c1232cb18fce38cdf415c8323e0032e672d0b74cda358da49",
+      "path": "skills/object-separation",
+      "alias": "object-separation",
+      "skillSHA256": "cf176a155dd3cd406dd948deafb316e09d6395ceaae018ba188b7bb47d08e002",
+      "review": "Full SKILL including code examples, static only.",
+      "userPreferenceConflicts": [
+        "SAM model/runtime not downloaded or tested.",
+        "Use batch-isolated outputs and inspect mask motion before adoption."
+      ],
+      "category": "local compositing"
+    },
+    {
+      "repo": "Barty-Bart/motion-graphics",
+      "canonicalURL": "https://github.com/Barty-Bart/motion-graphics",
+      "commit": "3d83d987d658601d8a1269eb691622bdcd427335",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Barty-Bart__motion-graphics\\source.zip",
+      "archiveSHA256": "50440369fec07b4c1232cb18fce38cdf415c8323e0032e672d0b74cda358da49",
+      "path": "skills/sound-effects",
+      "alias": "sound-effects",
+      "skillSHA256": "acce096a668b20b4592919a39349ec82931075f529eafb40b8b82062c57d3692",
+      "review": "Full SKILL; source manifest and code retained for task-specific audit.",
+      "userPreferenceConflicts": [
+        "Recorded Foley must match physical meaning and measured narration, not every camera move.",
+        "Existing licensed music and user choices do not require asking again.",
+        "Each actual source/license must be checked before use; archive claims are not new license verification.",
+        "Mix measurements cannot establish auditory taste or user acceptance."
+      ],
+      "category": "sound design"
+    },
+    {
+      "repo": "Aaryan-Kapoor/video-production-skill",
+      "canonicalURL": "https://github.com/Aaryan-Kapoor/video-production-skill",
+      "commit": "662738c012174788d860fdee9627239e23cffef6",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Aaryan-Kapoor__video-production-skill\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Aaryan-Kapoor__video-production-skill\\source.zip",
+      "archiveSHA256": "12fe8f52c620b4987ff6c670ae4326e32ea2b992a29fc48cfc45006716d889b1",
+      "path": "skills/video-production",
+      "alias": "video-production",
+      "skillSHA256": "9e2428efb6f0bc75e6909641362fc296788ac1de5c17566caef17ce63356e5a4",
+      "review": "Full SKILL and references/production-standards.md; scripts not executed.",
+      "userPreferenceConflicts": [
+        "Keep project videos/<batch> instead of ~/video-productions.",
+        "Current voice/provider selection overrides Kokoro default.",
+        "No Tailscale publication or remote hosting from installation.",
+        "Do not default to dark glowing diagram slides or call frame QA aesthetic acceptance."
+      ],
+      "category": "production and QC"
+    },
+    {
+      "repo": "smixs/visual-skills",
+      "canonicalURL": "https://github.com/smixs/visual-skills",
+      "commit": "61a60d317f0fa0c3dc98902e58a7cb178838ae3f",
+      "snapshot": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\smixs__visual-skills\\snapshot",
+      "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\smixs__visual-skills\\source.zip",
+      "archiveSHA256": "eb573ca9778be918e4d33c51d8ad7152eac02d0758d37e0c1c82fed376b9769e",
+      "path": "video",
+      "alias": "ai-video-prompt-direction",
+      "skillSHA256": "a9c0b2b00eadd1c6b46669a939639eba4b7ef6aa250f25dccb09f9166e81ec0d",
+      "review": "Full SKILL; dramaturgy.md lines1-210 and universal-rules.md lines1-100; model files retained, not fact-verified.",
+      "userPreferenceConflicts": [
+        "Credit Serge Shima under CC-BY-4.0 when adapting/distributing skill material.",
+        "Current API capabilities/pricing/model-specific syntax require primary documentation verification before use.",
+        "No paid model calls or uploads from skill installation; no new presenter in bread film."
+      ],
+      "category": "storyboard and generation prompts"
+    }
+  ],
+  "additionalFullSkillReadsArchived": [
+    "Yusuke710/manim-skill/skills/manim-skill",
+    "TashanGKD/tashan-research-skills/skills/manim-agent",
+    "liangdabiao/math-concept-film"
+  ],
+  "partialReadsArchived": [
+    "Barty-Bart/explainer-engaging (all prose, inline renderer output truncated)",
+    "Clipwing/skills/skills/real-sfx (partial, output truncation)",
+    "Clipwing/skills/skills/hyperframes-to-after-effects (full SKILL; AE not needed)"
+  ],
+  "archiveOnlyReasons": {
+    "Barty-Bart/explainer-default/explainer-high-energy": "Specialized ad presets retained for reading; not deeply reviewed.",
+    "Clipwing/skills": "No top-level license found in snapshot; source retained for research, no active installation.",
+    "Yusuke710/manim-skill": "Competing voice/subtitle/storage defaults; iart-manim selected as active entrypoint.",
+    "TashanGKD/tashan-research-skills": "Manim agent needs external paid Qwen pipeline; other19skills unrelated to video.",
+    "liangdabiao/math-concept-film": "Chinese/480p/subtitle/fixed-style defaults and soft-defect dismissal conflict with this project.",
+    "smixs/visual-skills/image": "General image prompting archived; existing imagegen skill remains available."
+  },
+  "externalCodeExecuted": false,
+  "runtimeTested": false
+}

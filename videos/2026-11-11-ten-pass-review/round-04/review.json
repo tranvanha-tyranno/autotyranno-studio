@@ -1,0 +1,14 @@
+{
+  "round": 4,
+  "focus": "Căn hình với lời",
+  "problem": "Các đoạn cắt theo 3,5/4/5 giây làm câu chuyển ý lệch hình.",
+  "change": "Cắt tại mốc câu từ alignment đúng take, tổng vẫn 1500 frame.",
+  "parent": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-11-ten-pass-review\\round-03",
+  "visual_review": {
+    "scope": "sampled frames across duration plus enlarged focal contact sheet",
+    "observation": "Các điểm Nhung khoan, Con so, Hay hinh dung, Voi nen kinh te va Dieu dang hoi nay đổi hình gần đúng đầu câu. Giữ cảnh may đến 26,3s nên không còn chuyển sớm. Subtitle ở đầu ví dụ vẫn kéo hai câu vào một cụm; sẽ tách dấu câu ở vòng 6."
+  },
+  "decision": "keep_for_next_round",
+  "provider_calls": 0,
+  "technical": "passed"
+}

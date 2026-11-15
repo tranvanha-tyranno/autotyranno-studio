@@ -1,0 +1,19 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r04",
+  "check_id": "full_decode_frames_and_audio_measurement",
+  "result": "passed",
+  "observation": "Saved QA records6150decoded/expected frames at30fps=205seconds,1920x1080, final-MP4 loudness input_i -16.00 and input_tp -4.61. These are technical measurements only, not manual listening or aesthetic/user acceptance.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r04/long/final.mp4",
+      "sha256": "e232376581d57e5be4d24df41a5c70c414e61f9c2570721be1336119c342d128"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/qa-r04.json",
+      "sha256": "440f06beade2af4b7a7c406949cbb89312486190757661e7b1a24e2c26002db1"
+    }
+  ]
+}

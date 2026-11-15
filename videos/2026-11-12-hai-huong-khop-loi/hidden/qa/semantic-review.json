@@ -1,0 +1,759 @@
+{
+  "reviewer": "literal_storyboards independent review",
+  "revision": "actual final MP4 decoded frames",
+  "inspectionScope": "Opened all ten qa/proofs/pairs-01..10.jpg (37 actual MP4-derived clause frames), all three qa/operations-01..03.jpg, and qa/last-frame.jpg. No continuous playback or manual audio listening.",
+  "previousRevision": "../proofs/semantic-review.json",
+  "statusMeaning": {
+    "pass": "The core meaning of this spoken clause is visible in the checked still, with explicit limitations; this is not user aesthetic acceptance or whole-video approval.",
+    "fix": "A mandatory core meaning is absent/misleading in this checked still."
+  },
+  "statusCounts": {
+    "pass": 37,
+    "fix": 0
+  },
+  "userAcceptance": "pending",
+  "continuousPlayback": "not performed",
+  "manualAudioListening": "not performed",
+  "motionValidation": "Sampled temporal strips show price underline extending, card focus changing, repair counter increasing and comment text growing; smoothness or every action across full runtime not certified.",
+  "shots": [
+    {
+      "id": "H01",
+      "status": "pass",
+      "frame": 64,
+      "seconds": 2.1333333333333333,
+      "scene": "work_role",
+      "mode": "remains",
+      "narratedText": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn.",
+      "observed": "Một chức danh có nhiều nhiệm vụ, chỉ Viết email được nhấn nhanh hơn; nghề và phần việc khác vẫn hiện.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H01-64.jpg",
+        "sha256": "e28346af0b78ddf18f2c92bc8fff72e2542b2c33029ccdadc3ac51fb95e754dc",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn."
+    },
+    {
+      "id": "H02",
+      "status": "pass",
+      "frame": 199,
+      "seconds": 6.633333333333334,
+      "scene": "work_role",
+      "mode": "change",
+      "narratedText": "Nhưng một người cũng khó yên tâm nếu phần việc mình làm hằng ngày đang đổi khác.",
+      "observed": "Cùng bảng nhiệm vụ, bước email mang nhãn AI hỗ trợ; kiểm thông tin/trao đổi/quyết định còn hiện.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H02-199.jpg",
+        "sha256": "999aeea0147c790f7a33f452b5a142eccf518b3a2a89f98b06bde053afde814d",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Nhưng một người cũng khó yên tâm nếu phần việc mình làm hằng ngày đang đổi khác."
+    },
+    {
+      "id": "H03",
+      "status": "pass",
+      "frame": 301,
+      "seconds": 10.033333333333333,
+      "scene": "work_role",
+      "mode": "label",
+      "narratedText": "Vậy rốt cuộc, chúng ta nên nhìn vào tên nghề,",
+      "observed": "Nhãn chức danh và các nhiệm vụ bên trong cùng hiện, nên người xem thấy tên nghề không phải toàn bộ các việc.",
+      "issues": [],
+      "limitations": [
+        "Không xác nhận chuyển động cận/tách nhãn từ một ảnh; bố cục hiện tại giữ quan hệ tên nghề–nhiệm vụ."
+      ],
+      "evidence": {
+        "file": "proofs/H03-301.jpg",
+        "sha256": "b4136fcbd2203f3fe77a851ffd23b5dfc4dccf379756a88e29ccb5dc8936baba",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Vậy rốt cuộc, chúng ta nên nhìn vào tên nghề,"
+    },
+    {
+      "id": "H04",
+      "status": "pass",
+      "frame": 379,
+      "seconds": 12.633333333333333,
+      "scene": "task_map",
+      "mode": "all",
+      "narratedText": "hay nhìn vào từng việc mình thực sự làm?",
+      "observed": "Ba card 3D nay có mặt nội dung: biểu tượng email, bảng kiểm, người duyệt cùng tên Tạo bản đầu/Kiểm tra/Quyết định; không còn rỗng.",
+      "issues": [],
+      "limitations": [
+        "Các card là biểu tượng quy trình, chưa phải ảnh tài liệu đầy đủ; chi tiết tình huống được diễn giải ở những cảnh kế tiếp."
+      ],
+      "evidence": {
+        "file": "proofs/H04-379.jpg",
+        "sha256": "b400176d5649678c5a7d006098aa815f621453677afdd383a7d5acf0df8b635d",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "hay nhìn vào từng việc mình thực sự làm?"
+    },
+    {
+      "id": "H05",
+      "status": "pass",
+      "frame": 515,
+      "seconds": 17.166666666666668,
+      "scene": "disclaimer",
+      "mode": "scope",
+      "narratedText": "Phần sau là một cách tự rà soát công việc, không phải kết luận về tương lai của mọi nghề.",
+      "observed": "Thông báo tình huống, dữ liệu giả định và phạm vi không dự báo nghề nghiệp cá nhân hiện rõ.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H05-515.jpg",
+        "sha256": "2c3a5c58dd9b40eec9dc0609dfda81cf63ad0035836af342fdba4a79f3f7c93f",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Phần sau là một cách tự rà soát công việc, không phải kết luận về tương lai của mọi nghề."
+    },
+    {
+      "id": "H06",
+      "status": "pass",
+      "frame": 603,
+      "seconds": 20.1,
+      "scene": "intro",
+      "mode": "workday",
+      "narratedText": "Hãy lấy một ngày làm việc bình thường.",
+      "observed": "Workbench giới thiệu hồ sơ đèn, email nháp chưa kiểm/chưa gửi và việc cần tiếp tục; bám một ngày làm việc của cùng tình huống.",
+      "issues": [],
+      "limitations": [
+        "Ảnh đèn không tự chứng minh thông số USB-C/không pin; thông số luôn thuộc ví dụ dữ liệu giả định."
+      ],
+      "evidence": {
+        "file": "proofs/H06-603.jpg",
+        "sha256": "a70f6cd7a34d43b279dfa36964f4d64083fc4525fb61826ea6bef86c651000a9",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Hãy lấy một ngày làm việc bình thường."
+    },
+    {
+      "id": "H07",
+      "status": "pass",
+      "frame": 649,
+      "seconds": 21.633333333333333,
+      "scene": "product_facts",
+      "mode": "lookup",
+      "narratedText": "Bạn tìm thông tin,",
+      "observed": "Hồ sơ nguồn và dòng USB-C có dây được tô sáng, cùng bố cục Workbench ổn định.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H07-649.jpg",
+        "sha256": "39644b54da49eb271277e02b13a2700e958bb352cf523ec213bdccae8190be28",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Bạn tìm thông tin,"
+    },
+    {
+      "id": "H08",
+      "status": "pass",
+      "frame": 687,
+      "seconds": 22.9,
+      "scene": "email_draft",
+      "mode": "typing",
+      "narratedText": "viết bản đầu,",
+      "observed": "Email nháp là đối tượng đang được chọn, có người nhận/chủ đề/nội dung/chưa gửi. Proof ở cuối nhịp đã hiện dòng Mời bạn xem đèn Mẫu A.",
+      "issues": [],
+      "limitations": [
+        "Đã đọc thêm mã Workbench v2 có nhập dòng theo localFrame; ảnh tĩnh này không tự xác nhận chuyển động nhập hoặc độ mượt."
+      ],
+      "evidence": {
+        "file": "proofs/H08-687.jpg",
+        "sha256": "df79e5514d81903390b5d98269ea2e7b872e9f5ddc0b3cbb426f67b19187752a",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "viết bản đầu,"
+    },
+    {
+      "id": "H09",
+      "status": "pass",
+      "frame": 714,
+      "seconds": 23.8,
+      "scene": "source_check",
+      "mode": "original",
+      "narratedText": "kiểm tra,",
+      "observed": "Nguồn có dây được đánh dấu đúng màu xanh; lời email không dây bị đánh dấu sai đỏ. Không còn dấu x đỏ đặt lên nguồn đúng.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H09-714.jpg",
+        "sha256": "2eee31ecdd6bc310a585356a91d873009e015e9b874aa8fc94448fd3cd5aa12a",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "kiểm tra,"
+    },
+    {
+      "id": "H10",
+      "status": "pass",
+      "frame": 734,
+      "seconds": 24.466666666666665,
+      "scene": "customer_reply",
+      "mode": "received",
+      "narratedText": "trao đổi",
+      "observed": "Câu hỏi ngắn Đèn có pin? hiện trong ô hội thoại, chờ trả lời, giữ cùng Workbench.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H10-734.jpg",
+        "sha256": "492d11c4626b2f60c67d5d93a36564379f80e3c22bec6e58e4f55075476abf31",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "trao đổi"
+    },
+    {
+      "id": "H11",
+      "status": "pass",
+      "frame": 766,
+      "seconds": 25.533333333333335,
+      "scene": "decision",
+      "mode": "human",
+      "narratedText": "và đưa ra quyết định.",
+      "observed": "Ô người duyệt Bạn hiện lựa chọn Sửa trả lời/Không gửi/Duyệt bản đúng, Không gửi đang chọn.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H11-766.jpg",
+        "sha256": "d52a0058aee0ff3b96077ee421aa74b767fb4c75f6dc153376db57e5786c1b6c",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "và đưa ra quyết định."
+    },
+    {
+      "id": "H12",
+      "status": "pass",
+      "frame": 834,
+      "seconds": 27.8,
+      "scene": "work_role",
+      "mode": "bundled",
+      "narratedText": "Những việc ấy nằm chung trong một chức danh,",
+      "observed": "Năm nhiệm vụ được đặt dưới cùng một chức danh, thể hiện nhiều việc chung một nghề.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H12-834.jpg",
+        "sha256": "d41cb40ff7f21643bcb4537b8bc74a64fb8832c338cfe9866f96838490cd6f3e",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Những việc ấy nằm chung trong một chức danh,"
+    },
+    {
+      "id": "H13",
+      "status": "pass",
+      "frame": 902,
+      "seconds": 30.066666666666666,
+      "scene": "decision",
+      "mode": "responsibility",
+      "narratedText": "nhưng không có cùng mức độ cần con người.",
+      "observed": "Nguồn có dây/không pin, nhu cầu không ổ cắm và câu trả lời Mẫu A chưa phù hợp đặt cạnh Bạn quyết định và lựa chọn nói rõ chưa phù hợp.",
+      "issues": [],
+      "limitations": [
+        "Cảnh tập trung vào phần trách nhiệm con người; phần AI hỗ trợ được thấy ở bảng nhiệm vụ trước đó."
+      ],
+      "evidence": {
+        "file": "proofs/H13-902.jpg",
+        "sha256": "e451e37881b86f8161c29dd87af334ab850376c1662d77190b76b8795bf3c0c8",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "nhưng không có cùng mức độ cần con người."
+    },
+    {
+      "id": "H14",
+      "status": "pass",
+      "frame": 999,
+      "seconds": 33.3,
+      "scene": "task_map",
+      "mode": "question",
+      "narratedText": "Vì vậy, thay vì hỏi máy có thay mình không, thử hỏi:",
+      "observed": "Ba bước email/kiểm tra/quyết định hiện bằng card có nhãn và biểu tượng rõ, làm cầu nối sang rà từng việc.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H14-999.jpg",
+        "sha256": "194646517825d022437c434c02466365d0651d7375a22e1f6afc489d2387097b",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Vì vậy, thay vì hỏi máy có thay mình không, thử hỏi:"
+    },
+    {
+      "id": "H15",
+      "status": "pass",
+      "frame": 1065,
+      "seconds": 35.5,
+      "scene": "task_map",
+      "mode": "draft",
+      "narratedText": "phần nào có thể tạo nháp,",
+      "observed": "Card Tạo bản đầu được nhấn sáng trong cùng mô hình ba bước; hai bước khác vẫn cùng vị trí.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H15-1065.jpg",
+        "sha256": "278bd6dbaa75728e8142537b74e8628adcadd53c29a96470f35109947926ca76",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "phần nào có thể tạo nháp,"
+    },
+    {
+      "id": "H16",
+      "status": "pass",
+      "frame": 1109,
+      "seconds": 36.96666666666667,
+      "scene": "task_map",
+      "mode": "review",
+      "narratedText": "phần nào phải đối chiếu,",
+      "observed": "Card Kiểm tra được nhấn sáng; nhãn Bạn đối chiếu thông tin gốc giải thích nhiệm vụ đang soi.",
+      "issues": [],
+      "limitations": [
+        "Trong card là biểu tượng bảng kiểm; phép so các giá cụ thể nằm ở H19–H20."
+      ],
+      "evidence": {
+        "file": "proofs/H16-1109.jpg",
+        "sha256": "342bd9aaa6cdb8c6c2c53be1a8ce53c5de76ad081fc7b63a7ec1751957bd47a4",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "phần nào phải đối chiếu,"
+    },
+    {
+      "id": "H17",
+      "status": "pass",
+      "frame": 1165,
+      "seconds": 38.833333333333336,
+      "scene": "task_map",
+      "mode": "decide",
+      "narratedText": "và phần nào cần mình chịu trách nhiệm?",
+      "observed": "Card Quyết định với biểu tượng người/check được nhấn sáng, dòng bạn chịu trách nhiệm trước khi gửi hiện rõ.",
+      "issues": [],
+      "limitations": [
+        "Lựa chọn duyệt/sửa/không gửi được trình bày chi tiết ở các cảnh quyết định, không nằm trong card quy trình thu nhỏ này."
+      ],
+      "evidence": {
+        "file": "proofs/H17-1165.jpg",
+        "sha256": "20f97e3730140a974825b8b3435b2c8d8feba48ebfb245b1253b607d40d838a3",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "và phần nào cần mình chịu trách nhiệm?"
+    },
+    {
+      "id": "H18",
+      "status": "pass",
+      "frame": 1238,
+      "seconds": 41.266666666666666,
+      "scene": "email_prompt",
+      "mode": "structure",
+      "narratedText": "Bạn có thể nhờ công cụ gợi ý cấu trúc.",
+      "observed": "Gợi ý cấu trúc email bốn phần có trên giao diện, nhãn chưa điền cam kết tính năng; ảnh tay gõ hỗ trợ thao tác.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H18-1238.jpg",
+        "sha256": "d19ebf105b3c8a08eaf6daed31f178cce7abd0b672615947a75ea6b7e754736b",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Bạn có thể nhờ công cụ gợi ý cấu trúc."
+    },
+    {
+      "id": "H19",
+      "status": "pass",
+      "frame": 1305,
+      "seconds": 43.5,
+      "scene": "source_check",
+      "mode": "mismatch",
+      "narratedText": "Nhưng khi một con số không khớp,",
+      "observed": "Nguồn 1.200.000đ và nháp 120.000đ cùng khung, giá nguồn được nhấn, nháp mang trạng thái chưa khớp.",
+      "issues": [],
+      "limitations": [
+        "Không thấy vòng khoanh riêng một số 0; hai giá đủ rõ để nhận ra sai lệch."
+      ],
+      "evidence": {
+        "file": "proofs/H19-1305.jpg",
+        "sha256": "e20641c9b9f47ec365e84235dec27c44470467db778a5d77a8705f511e2a75c1",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Nhưng khi một con số không khớp,"
+    },
+    {
+      "id": "H20",
+      "status": "pass",
+      "frame": 1352,
+      "seconds": 45.06666666666667,
+      "scene": "source_check",
+      "mode": "reconcile",
+      "narratedText": "bạn cần quay về nguồn.",
+      "observed": "Giá nháp đã sửa thành 1.200.000đ khớp nguồn; câu Dùng không dây vẫn đỏ và nhãn Giá khớp/Còn lỗi tính năng giữ đúng trạng thái từng phần.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H20-1352.jpg",
+        "sha256": "b5446c382f32e344167c41c4c6dc787d1a25cdab3c37c62c9392d686df4ef64d",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "bạn cần quay về nguồn."
+    },
+    {
+      "id": "H21",
+      "status": "pass",
+      "frame": 1413,
+      "seconds": 47.1,
+      "scene": "customer_reply",
+      "mode": "upset",
+      "narratedText": "Khi khách hàng đang bức xúc,",
+      "observed": "Câu khách giả định về email nói không dây/rút cáp không sáng và 3D đèn/cáp tách rời cùng hiện; nhãn Rút cáp/Đèn tắt/Không pin.",
+      "issues": [],
+      "limitations": [
+        "Một frame xác nhận trạng thái rời/tắt, không chứng nhận chuyển động rút cáp hay tắt sáng liên tục."
+      ],
+      "evidence": {
+        "file": "proofs/H21-1413.jpg",
+        "sha256": "58dcb3d37bc56e11e4b3a525d215c93efc3fbd9f8d66015e282852bc7e31a225",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Khi khách hàng đang bức xúc,"
+    },
+    {
+      "id": "H22",
+      "status": "pass",
+      "frame": 1497,
+      "seconds": 49.9,
+      "scene": "feedback",
+      "mode": "polite_only",
+      "narratedText": "một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề.",
+      "observed": "Câu hỏi không có nguồn USB có dùng được không nằm cạnh lời đáp lịch sự nhưng chung chung; nhãn chưa giải quyết nhu cầu không dây.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H22-1497.jpg",
+        "sha256": "f5386176e71fd6727452cdc5811f5b5223a984084ebe7f21b261292d82b96ae2",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề."
+    },
+    {
+      "id": "H23",
+      "status": "pass",
+      "frame": 1561,
+      "seconds": 52.03333333333333,
+      "scene": "quality_compare",
+      "mode": "definitions",
+      "narratedText": "Đây là điểm cần phân biệt:",
+      "observed": "Nháp ban đầu trông hoàn chỉnh vẫn sai tính năng/giá cạnh các tiêu chí kiểm chưa tick; chỉ hình thức không được gọi hoàn tất.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H23-1561.jpg",
+        "sha256": "f4768cae17666cb1b2d12f7dfebadd7a9002dfd8340f2ba235c43b80d7148c27",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Đây là điểm cần phân biệt:"
+    },
+    {
+      "id": "H24",
+      "status": "pass",
+      "frame": 1617,
+      "seconds": 53.9,
+      "scene": "quality_compare",
+      "mode": "appearance",
+      "narratedText": "đầu ra trông có vẻ hoàn chỉnh,",
+      "observed": "Giá sai xuất hiện lại trong cột rõ nhãn BẢN NHÁP BAN ĐẦU, vì thế không mâu thuẫn với giá đã sửa ở H20; câu không dây vẫn đỏ.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H24-1617.jpg",
+        "sha256": "7838c835800c503d7e5bfa68b1577d8cc6a60ec5618cb10d174470e474ad166b",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "đầu ra trông có vẻ hoàn chỉnh,"
+    },
+    {
+      "id": "H25",
+      "status": "pass",
+      "frame": 1690,
+      "seconds": 56.333333333333336,
+      "scene": "quality_compare",
+      "mode": "completion",
+      "narratedText": "và một công việc thật sự được hoàn thành.",
+      "observed": "Cột kết quả nay là lời email đã sửa cụ thể: USB-C có dây/không pin, giá 1.200.000đ, vì khách dùng nơi không ổ cắm nên mẫu này chưa phù hợp. Cột trái vẫn nháp ban đầu.",
+      "issues": [],
+      "limitations": [
+        "Đã mở thêm ảnh H25-1690.jpg kích thước đầy đủ để đọc nội dung; không suy ra nhịp đọc liên tục từ ảnh."
+      ],
+      "evidence": {
+        "file": "proofs/H25-1690.jpg",
+        "sha256": "417fe0ffffd74b7a1bcacd66f0478c2c32ad52ecd77901d1982bfa02b684b4ca",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "và một công việc thật sự được hoàn thành."
+    },
+    {
+      "id": "H26",
+      "status": "pass",
+      "frame": 1783,
+      "seconds": 59.43333333333333,
+      "scene": "review_work",
+      "mode": "checklist",
+      "narratedText": "Khoảng cách giữa hai điều đó chính là chỗ để kiểm tra,",
+      "observed": "Ba khối cụ thể nhu cầu không ổ cắm → nguồn có dây/không pin/giá → cần nguồn qua cáp, mẫu chưa phù hợp; có căn cứ hồ sơ và sửa trả lời trước gửi.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H26-1783.jpg",
+        "sha256": "a28d2896cc34ad7c786c495706920a3e9e888e2e4602bbb222a7b774c96dfa01",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Khoảng cách giữa hai điều đó chính là chỗ để kiểm tra,"
+    },
+    {
+      "id": "H27",
+      "status": "pass",
+      "frame": 1826,
+      "seconds": 60.86666666666667,
+      "scene": "context",
+      "mode": "client_need",
+      "narratedText": "hiểu bối cảnh",
+      "observed": "Giữ đúng ba khối NeedBridge từ H26, chỉ nhấn câu Dùng nơi không có ổ cắm trong khối nhu cầu. Không mở đoạn văn/bố cục mới ở nhịp 0,7 giây.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H27-1826.jpg",
+        "sha256": "a8432bbbe12c8786ea7e3df4b97141bd2f77a72377108c1cd952a7aff25d090b",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "hiểu bối cảnh"
+    },
+    {
+      "id": "H28",
+      "status": "pass",
+      "frame": 1857,
+      "seconds": 61.9,
+      "scene": "decision",
+      "mode": "human",
+      "narratedText": "và quyết định.",
+      "observed": "Có nguồn, nhu cầu, kết luận chưa phù hợp; ô Bạn quyết định chọn Nói rõ chưa phù hợp, còn Không gửi lời hứa sai. Quyết định cụ thể đã thay khẩu hiệu chung.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H28-1857.jpg",
+        "sha256": "5a99372c48b4c30b1aa52849d58761fa90b74f35a7ca86f45a015aa92a75d1d4",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "và quyết định."
+    },
+    {
+      "id": "H29",
+      "status": "pass",
+      "frame": 1916,
+      "seconds": 63.86666666666667,
+      "scene": "trial",
+      "mode": "choose",
+      "narratedText": "Hôm nay, hãy chọn một nhiệm vụ.",
+      "observed": "Chỉ một nhiệm vụ nháp email Mẫu A được chọn, các ví dụ việc khác để mờ; đúng lời chọn một nhiệm vụ.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H29-1916.jpg",
+        "sha256": "c63e463e839d4d1e513570abb7f77f0e0c12b09a17ef249d2944c2cddb604b0d",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Hôm nay, hãy chọn một nhiệm vụ."
+    },
+    {
+      "id": "H30",
+      "status": "pass",
+      "frame": 1968,
+      "seconds": 65.6,
+      "scene": "trial",
+      "mode": "criteria",
+      "narratedText": "Viết rõ tiêu chuẩn đạt,",
+      "observed": "Các tiêu chí đúng tính năng/giá/nhu cầu/không còn lỗi hiện cùng checkbox chưa tick, không tự nhận đạt trước khi thử.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H30-1968.jpg",
+        "sha256": "83af01f153f318be95eff5c4dbdd239728429f65bb165740bce55c6c56f077bb",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Viết rõ tiêu chuẩn đạt,"
+    },
+    {
+      "id": "H31",
+      "status": "pass",
+      "frame": 2020,
+      "seconds": 67.33333333333333,
+      "scene": "trial",
+      "mode": "dummy_data",
+      "narratedText": "thử bằng dữ liệu giả định,",
+      "observed": "Chỉ dùng dữ liệu giả định, Mẫu A, khách vidu.invalid, không dùng dữ liệu khách thật được nêu cụ thể.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H31-2020.jpg",
+        "sha256": "1591372bf1c4990652d339217eb29de358ee645d362a15fdf54eefebaf18746b",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "thử bằng dữ liệu giả định,"
+    },
+    {
+      "id": "H32",
+      "status": "pass",
+      "frame": 2065,
+      "seconds": 68.83333333333333,
+      "scene": "trial",
+      "mode": "compare",
+      "narratedText": "rồi tự so kết quả.",
+      "observed": "Ba cột nay có nội dung để so: nguồn có dây/không pin/1.200.000đ; kết quả AI không dây/120.000đ; phần sửa có dây/không pin/giá đúng và chưa phù hợp nhu cầu không ổ cắm.",
+      "issues": [],
+      "limitations": [
+        "Đã mở ảnh đầy đủ H32-2065.jpg: chữ không bị cắt. Bố cục lặp các dữ kiện đã giải thích, không coi đây là thời gian đủ để đọc mọi chữ mới."
+      ],
+      "evidence": {
+        "file": "proofs/H32-2065.jpg",
+        "sha256": "b290c04571ad6e899ef62b3d1af514c7444d037cf95eb520eabd0e28b1d734b1",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "rồi tự so kết quả."
+    },
+    {
+      "id": "H33",
+      "status": "pass",
+      "frame": 2110,
+      "seconds": 70.33333333333333,
+      "scene": "time_log",
+      "mode": "repair",
+      "narratedText": "Đo cả thời gian sửa.",
+      "observed": "13 phút kiểm tra/sửa nổi rõ cùng log 12 phút cũ, 2 phút nháp, 13 phút sửa và tổng 15; có nhãn dữ liệu giả định.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H33-2110.jpg",
+        "sha256": "bd3e8f995c56191803f539ae9a29b0e0efeed9dd1ac3a3df4ef267c8f19d8101",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Đo cả thời gian sửa."
+    },
+    {
+      "id": "H34",
+      "status": "pass",
+      "frame": 2194,
+      "seconds": 73.13333333333334,
+      "scene": "quality_gate",
+      "mode": "pass",
+      "narratedText": "Chỉ giữ cách làm khi bạn kiểm soát được chất lượng.",
+      "observed": "Tiêu đề Điều kiện: bạn kiểm tra được; ba cột cho căn cứ tính năng/giá/nhu cầu và kết quả đã sửa, dòng chỉ giữ cách làm khi xác minh từng tiêu chí. Không còn tự khẳng định chất lượng bằng khẩu hiệu.",
+      "issues": [],
+      "limitations": [
+        "Đã mở ảnh đầy đủ H34-2194.jpg, đọc được nguồn và email đã sửa; ảnh không chứng minh một người thật đã tiến hành thử nghiệm."
+      ],
+      "evidence": {
+        "file": "proofs/H34-2194.jpg",
+        "sha256": "d7441ad934f579ea26e4d09580c8ab44dfbec0c7293bad56a69a91f0d0c982cb",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Chỉ giữ cách làm khi bạn kiểm soát được chất lượng."
+    },
+    {
+      "id": "H35",
+      "status": "pass",
+      "frame": 2267,
+      "seconds": 75.56666666666666,
+      "scene": "comment_cta",
+      "mode": "question",
+      "narratedText": "Bạn muốn bóc tách nhiệm vụ nào tiếp theo?",
+      "observed": "Ba nhiệm vụ ví dụ cụ thể và ô chọn một nhiệm vụ muốn bóc tách hiện đúng lời mời người xem.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H35-2267.jpg",
+        "sha256": "f564667c8afa2f0c7fbd4a6605fc003e4612489bce179cb2dcb2ce62711623a1",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Bạn muốn bóc tách nhiệm vụ nào tiếp theo?"
+    },
+    {
+      "id": "H36",
+      "status": "pass",
+      "frame": 2338,
+      "seconds": 77.93333333333334,
+      "scene": "comment_cta",
+      "mode": "example",
+      "narratedText": "Hãy để lại một ví dụ dưới bình luận,",
+      "observed": "Ô bình luận minh họa có ví dụ Tôi muốn thử đối chiếu bảng số, nút để lại ví dụ; không hiển thị tương tác thật hoặc số tương tác giả.",
+      "issues": [],
+      "limitations": [],
+      "evidence": {
+        "file": "proofs/H36-2338.jpg",
+        "sha256": "3631b78879d463db3ae7606bee589e05473a39e9c1ae520fb777e0761fe868ef",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "Hãy để lại một ví dụ dưới bình luận,"
+    },
+    {
+      "id": "H37",
+      "status": "pass",
+      "frame": 2453,
+      "seconds": 81.76666666666667,
+      "scene": "subscribe",
+      "mode": "follow",
+      "narratedText": "và đăng ký TYRANNO để cùng quan sát công việc đang thay đổi.",
+      "observed": "End card TYRANNO và nút đăng ký cùng các nhãn ba bước; bên phải nay có case card email Mẫu A/nguồn/kiểm giá nhu cầu/quyết định, nối lại ví dụ.",
+      "issues": [],
+      "limitations": [
+        "Câu cuối đang hiện ở proof; cần kiểm file MP4 cuối để xác nhận không bị cắt ở đuôi."
+      ],
+      "evidence": {
+        "file": "proofs/H37-2453.jpg",
+        "sha256": "fe309b8f90b744e1b99eace7bf6ee8c40c6250c65208eaf603d22cee79f21acc",
+        "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92"
+      },
+      "scope": "Core narrated meaning reviewed on actual final MP4-derived frame. Temporal strips checked separately; no continuous playback, manual listening or user aesthetic acceptance claimed.",
+      "fullNarratedText": "và đăng ký TYRANNO để cùng quan sát công việc đang thay đổi."
+    }
+  ],
+  "sourceVideo": "final.mp4",
+  "videoSHA256": "ec2fa6d59e5d822505a29981fb2857b67b13b6fa4135836a0d29e47c59355a92",
+  "temporalObservations": [
+    "H06-H11 keep one workbench positions; source/draft/check/chat/decision focus changes observed across clause frames.",
+    "H14-H17 spatial cards retain legible faces and change active task; no blank texture seen in checked temporal frames.",
+    "H19-H20 price differs then matches; after price correction unsupported feature remains explicitly red with remaining-feature-error label.",
+    "H33 repair counter grows from 11 to13 in sampled strip while table retains2+13=15 total.",
+    "H35-H36 cursor position changes and comment input grows from partial text to full example.",
+    "Last frame retains TYRANNO end card and final caption đang thay đổi."
+  ]
+}

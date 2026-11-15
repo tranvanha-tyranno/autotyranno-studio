@@ -1,0 +1,233 @@
+[
+  {
+    "repo": "BAKUGOS1/video-studio",
+    "canonicalURL": "https://github.com/BAKUGOS1/video-studio",
+    "commit": "7ae509a4ed9bca1f80f8c0fb936ae4f6e3d70bf3",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/BAKUGOS1__video-studio/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\BAKUGOS1__video-studio\\source.zip",
+    "archiveSHA256": "1a631239ea34ad2fd592cf3c64daf0e53b9880d3f11d5dbe329aed1e9d77afd3",
+    "path": ".",
+    "alias": "video-studio",
+    "skillSHA256": "c3de7c00145134c507d63153e69eb434bd995247756147c97f5383f84885b014",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Does not bundle engines or Shotcraft library and does not install providers itself.",
+      "Engine reference requests Remotion business license confirmation; existing engine choice/user authorization governs, no new automatic permission ritual.",
+      "Captions only when requested/needed; latest explicit no-subtitle preference wins.",
+      "Paid generation budget rules do not authorize a provider call during skill installation."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/b-roll-skills",
+    "canonicalURL": "https://github.com/iart-ai/b-roll-skills",
+    "commit": "bcd56742a8a99edaa699a6f7bc5a45922a8ec567",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__b-roll-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__b-roll-skills\\source.zip",
+    "archiveSHA256": "7fe8afb1e7b33845352ebdd07282c6cc22b0bfd6f1c72e777bb626628d6f5aff",
+    "path": "skills/talking-head-b-roll",
+    "alias": "iart-talking-head-b-roll",
+    "skillSHA256": "6b300bc9c8b6d1bfebc23571b1fa3186187c07fbb085399323ecf0bdebbe7b88",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Needs actual talking-head recording; current bread documentary has narration plus stock.",
+      "Never crop/move recording and show presenter opening/closing are specific workflow limits, not instructions for this documentary.",
+      "Six-frame visual lead is editorial default only; numerical facts/reveals stay on spoken anchor."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/data-animation-skills",
+    "canonicalURL": "https://github.com/iart-ai/data-animation-skills",
+    "commit": "6570c0c4fbc9daa8d7ac1f1163a890352344206b",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__data-animation-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__data-animation-skills\\source.zip",
+    "archiveSHA256": "02fe051385edc88387d113c17a73c03428cb4266a404830102ddf0a67d573e6e",
+    "path": "skills/animated-infographic",
+    "alias": "iart-animated-infographic",
+    "skillSHA256": "154afc178c2ecdcb7f4359cea2a06b8f48615347328b909ed117bbe4c1f0e17b",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Static-first infographic and2–3s held final frame are layout recipes, not permission to return to rejected slide films.",
+      "30–90s scope/3–5data points are examples, not a full-film limit."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/data-animation-skills",
+    "canonicalURL": "https://github.com/iart-ai/data-animation-skills",
+    "commit": "6570c0c4fbc9daa8d7ac1f1163a890352344206b",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__data-animation-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__data-animation-skills\\source.zip",
+    "archiveSHA256": "02fe051385edc88387d113c17a73c03428cb4266a404830102ddf0a67d573e6e",
+    "path": "skills/chart-animation",
+    "alias": "iart-chart-animation",
+    "skillSHA256": "4a77aa776f458a1e474ad411fdedee7091c0cf95fca456f0b481ad00543c5d49",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "USD/en-US examples must become Vietnamese units/format.",
+      "Bar-race code needs implementation review; keyframed ranks must actually interpolate rather than jump."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/explainer-video-skills",
+    "canonicalURL": "https://github.com/iart-ai/explainer-video-skills",
+    "commit": "3c13a1bc360c08503f24f9c9a99fda6d3d35de56",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__explainer-video-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__explainer-video-skills\\source.zip",
+    "archiveSHA256": "3651f1d18830ca2ec9b480de3db9ea4da17f65ecc6f2503c491bc4ad868b5f74",
+    "path": "skills/diagram-animation",
+    "alias": "iart-diagram-animation",
+    "skillSHA256": "eb4aebe125e1f70608cf365670a618907d5c8f1229e184cdd4e32fdc34a7a8fb",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Web rAF/CSS/GSAP loops must not be copied directly into frame-rendered video.",
+      "Reveal animations alone do not satisfy meaningful subject/state changes."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/explainer-video-skills",
+    "canonicalURL": "https://github.com/iart-ai/explainer-video-skills",
+    "commit": "3c13a1bc360c08503f24f9c9a99fda6d3d35de56",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__explainer-video-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__explainer-video-skills\\source.zip",
+    "archiveSHA256": "3651f1d18830ca2ec9b480de3db9ea4da17f65ecc6f2503c491bc4ad868b5f74",
+    "path": "skills/explainer-video",
+    "alias": "iart-explainer-video",
+    "skillSHA256": "d1c0e3147550c492790250f2d2d11b44b10ed3e46bd269a3bab03b0d25659f6a",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Explicit mandatory burned captions conflicts with user no-subtitle preference; override.",
+      "Fixed30–90s/product-solution formula cannot replace long-form economic chapters, brief relevant disclaimer or real-footage requirements.",
+      "140wpm/English word timing is estimate only; exact Vietnamese take timing leads."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/javascript-animation-skills",
+    "canonicalURL": "https://github.com/iart-ai/javascript-animation-skills",
+    "commit": "060f7467a6e5ae5b57c90c9cb1b3508c13b88e49",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__javascript-animation-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__javascript-animation-skills\\source.zip",
+    "archiveSHA256": "3389abf9ee567b4989f4c238ed752e03376420bc98900052b3fb72594e09a85e",
+    "path": "skills/soundtrack",
+    "alias": "iart-soundtrack",
+    "skillSHA256": "d98e18833695a076ceb8cc0d0f652433afaf7b9646d0a2650201655d1d9791a3",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Code-generated score is NOT downloaded internet SFX required by latest user.",
+      "Picture-follows-music rule conflicts with speech-led exact narration; preserve narration and meaningful clause timing.",
+      "No change to selected OpenAI narration or approved music without task scope."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/manim-skills",
+    "canonicalURL": "https://github.com/iart-ai/manim-skills",
+    "commit": "3e989cb044f6a6fed8c07b06dddade6e3463d7ac",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__manim-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__manim-skills\\source.zip",
+    "archiveSHA256": "1a7678d4964344cbdca2579ddf8605b76f1b54e151f6850e3a3ebc5e00036eef",
+    "path": "skills/manim",
+    "alias": "iart-manim",
+    "skillSHA256": "04c78c749f129b7a9460ff5fe1ed7ae1707f3414a4608df7dbd27e6f84c590b0",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Use selectively for illustrative economics/math; do not replace real-footage film with blackboard formula slides.",
+      "An easing sentence contradicts animation-principles about slow end vs start; treat as prose defect, verify visual result."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/motion-design-skills",
+    "canonicalURL": "https://github.com/iart-ai/motion-design-skills",
+    "commit": "b85e50c4cef5ff17aa2187a10d49d2dae9226c74",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__motion-design-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__motion-design-skills\\source.zip",
+    "archiveSHA256": "f7aaa8463a1345d647b797255d3e11b04bd1ff9674fca8fef57091d2e552c519",
+    "path": "skills/animation-principles",
+    "alias": "iart-animation-principles",
+    "skillSHA256": "21637766f8ae115f427ab086ec903106b3dfa5eac7fdf05d9926e4b557bff892",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Three concurrent motion layers and beat quantization can create decoration; use only when they explain actual content.",
+      "Do not move narration or meaningful state changes merely to fit a beat."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/motion-design-skills",
+    "canonicalURL": "https://github.com/iart-ai/motion-design-skills",
+    "commit": "b85e50c4cef5ff17aa2187a10d49d2dae9226c74",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__motion-design-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__motion-design-skills\\source.zip",
+    "archiveSHA256": "f7aaa8463a1345d647b797255d3e11b04bd1ff9674fca8fef57091d2e552c519",
+    "path": "skills/motion-art-direction",
+    "alias": "iart-motion-art-direction",
+    "skillSHA256": "0337edf7c93b8e130bd7658e3d43f546c46f333cacbb2bb970613d65d340c5de",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "One personality/one wow and low-energy opening are heuristics; latest user wants strong hook, varied meaningful scenes and real footage with useful simulation.",
+      "Consistency must not become repetitive shots."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/motion-design-skills",
+    "canonicalURL": "https://github.com/iart-ai/motion-design-skills",
+    "commit": "b85e50c4cef5ff17aa2187a10d49d2dae9226c74",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__motion-design-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__motion-design-skills\\source.zip",
+    "archiveSHA256": "f7aaa8463a1345d647b797255d3e11b04bd1ff9674fca8fef57091d2e552c519",
+    "path": "skills/shot-composition",
+    "alias": "iart-shot-composition",
+    "skillSHA256": "c2bbedc1d615ba9969755054bae4fb9d6733df17226b8010b02e064e7838f0c1",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Thirds and single camera move are compositional defaults, not mandatory; composition must serve numerical/photographic meaning.",
+      "Do not blindly restack/crop real footage without inspecting actual output."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "iart-ai/talking-head-skills",
+    "canonicalURL": "https://github.com/iart-ai/talking-head-skills",
+    "commit": "eac1f6b01467f6f95d8ab7602310ba0ff67ed91b",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/iart-ai__talking-head-skills/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\iart-ai__talking-head-skills\\source.zip",
+    "archiveSHA256": "32e0be325db3528b44241e34df5cf6ad7149eff152b64a836802318dce71dbea",
+    "path": "skills/talking-head",
+    "alias": "iart-talking-head",
+    "skillSHA256": "e018f4c5568196f5108d9f3b7537c48df1c504a460b58bfc9355cea2b0a7a170",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Photos/reference speech upload to fal; samples/text to ElevenLabs. No uploads/provider calls authorized by skill installation.",
+      "Uses H3 generated speaking-shot audio rather than exact TTS; not guaranteed exact lip-sync.",
+      "Do not replace current OpenAI narration or add presenter/voice-clone automatically."
+    ],
+    "category": "motion, simulation and video direction"
+  },
+  {
+    "repo": "Vincentwei1021/video-shotcraft",
+    "canonicalURL": "https://github.com/Vincentwei1021/video-shotcraft",
+    "commit": "6700db2ba80572ebc777b99d72049679fed9840c",
+    "snapshot": "C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/docs/video-skills/2026-11-15/sources/Vincentwei1021__video-shotcraft/snapshot",
+    "archive": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\docs\\video-skills\\2026-11-15\\sources\\Vincentwei1021__video-shotcraft\\source.zip",
+    "archiveSHA256": "f39eba54032b776dd6fa19129a5352a92fda31634884679b79cd4d8b2978d2a4",
+    "path": ".",
+    "alias": "video-shotcraft",
+    "skillSHA256": "9e6b2d68f50cae3d5405178d35d2bd305ee2045691fa726b63bae3ab8bb62e6b",
+    "review": "full_SKILL_read",
+    "userPreferenceConflicts": [
+      "Mode selection prompt/stop applies only when missing; existing autonomous authorization takes precedence.",
+      "Hard slow-opening≥3s, brandhold, tech-house BGM and product-launch finale reflect another user/project; not current bread-film direction.",
+      "Upstream demands voluntary author/social plugs and showcase invitation at delivery; do not inject into user video/response unsolicited.",
+      "Automatic Workbench opening and publisher helper are optional tooling; no publication/third-party messages from installation.",
+      "Template/demo branding and legacy music have separate per-file credits; do not import branding/audio automatically.",
+      "Archive containsworkbench/demosrc→../demos symlink; skipped extraction, archive preserved, not code execution."
+    ],
+    "category": "motion, simulation and video direction"
+  }
+]

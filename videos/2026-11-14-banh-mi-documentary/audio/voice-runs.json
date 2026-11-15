@@ -1,0 +1,27 @@
+{
+  "voice": "Nhật Phong",
+  "voiceID": "6adFm46eyy74snVn6YrT",
+  "model": "eleven_v3",
+  "naturalSpeed": 1,
+  "chapters": [
+    {
+      "chapter": "hai-nghin-di-dau",
+      "file": "audio/01-hai-nghin-di-dau.mp3",
+      "sha256": "43b53e4c3b850e7f0ecf913d6d05a0dd36b38cd20adbc652f6d9a35fbdf247a6",
+      "wallSeconds": 28.597,
+      "existedBeforeRun": false,
+      "providerCharacterCost": "612",
+      "seconds": 97.65
+    },
+    {
+      "chapter": "giam-cai-gi",
+      "file": "audio/02-giam-cai-gi.mp3",
+      "sha256": "07876208d98f45a4c1e6f5161755014651b18567728aa212f943331bef61b41f",
+      "wallSeconds": 18.187,
+      "existedBeforeRun": false,
+      "providerCharacterCost": "372",
+      "seconds": 59.4
+    }
+  ],
+  "accounting": "Provider character cost units, not a USD invoice."
+}

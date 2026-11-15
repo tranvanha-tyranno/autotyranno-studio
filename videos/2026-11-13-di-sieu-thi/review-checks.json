@@ -1,0 +1,16 @@
+{
+  "schema": "reference-video-production-review-check/1",
+  "revision": "r07",
+  "userAcceptance": "pending user feedback",
+  "videoReady": true,
+  "shots": 24,
+  "exactTimelineFrames": 6150,
+  "framesLinked": 24,
+  "qaFrameCountPass": true,
+  "videoSHA256": "2cc81a55ab125afaa38cee6dc9e1d96ef7dc69b3016f9ba04a80126e1fd0f861",
+  "pendingFiles": [],
+  "filesLinked": 39,
+  "qaSheets": 11,
+  "noRawCloseScriptInPayload": true,
+  "scope": "Saved file consistency and review-page structure only."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "vn-family-rural",
+  "pexelsID": 33849670,
+  "sourceURL": "https://www.pexels.com/photo/family-bonding-in-rural-lao-cai-vietnam-33849670/",
+  "creator": "Son Hoa Nguyen",
+  "theme": "family",
+  "documentedLocation": "Lào Cai, Việt Nam",
+  "locationEvidence": "Explicit location field on primary photo page",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "sourceDescription": "Family group spends time together outdoors in a rural setting.",
+  "authenticityPolicyURL": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+  "file": "assets/vn-family-rural.jpg",
+  "downloadURL": "https://images.pexels.com/photos/33849670/pexels-photo-33849670.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "439c3ab7f9dece0099c18832616bfc466b09ee6dff353f62007ce0b1d90677ec",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

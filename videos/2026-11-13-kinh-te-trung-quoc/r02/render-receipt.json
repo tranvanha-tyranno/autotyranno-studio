@@ -1,0 +1,13 @@
+{
+  "attempt": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\videos\\2026-11-13-kinh-te-trung-quoc\\r02",
+  "finalSHA256": "7a6257701b5a6998118d6ce3572b14a5e9066489a6327bebd55f429506c986c1",
+  "frames": 17913,
+  "audioMixSHA256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+  "sameSpokenTake": true,
+  "sameWordTiming": true,
+  "sameCaptions": true,
+  "changedShots": [
+    "o03"
+  ],
+  "userAcceptance": "pending"
+}

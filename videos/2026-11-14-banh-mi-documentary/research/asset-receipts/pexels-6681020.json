@@ -1,0 +1,39 @@
+{
+  "pexelsID": 6681020,
+  "pageURL": "https://www.pexels.com/video/a-woman-baking-using-an-oven-6681020/",
+  "title": "Woman placing bread in oven",
+  "creator": "Nadezhda Moryak",
+  "downloadURL": "https://videos.pexels.com/video-files/6681020/6681020-hd_1920_1078_30fps.mp4",
+  "tags": [],
+  "id": "pexels-6681020",
+  "file": "assets/raw/pexels-6681020.mp4",
+  "sha256": "9fd4f59d332d74d975b27888c13a1fc05a55295b6a3692bd3e1d65336f1174ab",
+  "bytes": 9848394,
+  "durationSeconds": 15.5,
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 4.21,
+  "inspection": {
+    "status": "rejected",
+    "observations": "Actual frames show a round pie/cake in a dish being put into oven, despite source description saying bread. Rejected: wrong food for this story.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-6681020.jpg",
+    "method": "seven_source_frames_contact_sheet_opened",
+    "continuousAVReview": false,
+    "frameSamplesOpened": 7,
+    "fictionalIdentityNotEstablished": true
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1920,
+  "height": 1078,
+  "usableForBreadFilm": false,
+  "licenseEvidence": {
+    "assetPage": "https://www.pexels.com/video/a-woman-baking-using-an-oven-6681020/",
+    "licensePage": "https://www.pexels.com/license/",
+    "checkedDateLocal": "2026-11-15",
+    "basis": "Primary Pexels asset pages/search results describe Free/Free to use and link Pexels License; official license permits downloading/modification/social-media use, restricts implied endorsement and unaltered resale.",
+    "pageAccessLimit": "Direct HTML requests can return Cloudflare403; actual primary content retrieved through web tool; direct media GET succeeded."
+  }
+}

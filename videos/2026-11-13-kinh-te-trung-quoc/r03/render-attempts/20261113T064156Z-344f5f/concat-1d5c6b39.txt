@@ -1,0 +1,8 @@
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-00-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-01-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-02-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-03-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-04-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-05-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-06-1d5c6b39.mp4'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-13-kinh-te-trung-quoc/r03/render-attempts/20261113T064156Z-344f5f/normalized-07-1d5c6b39.mp4'

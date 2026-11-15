@@ -1,0 +1,10 @@
+{
+  "provider": "ElevenLabs",
+  "model": "eleven_v3",
+  "request_hash": "7a219aea6ca11bf94b05cb5d1e0ca0f550bb429c3351f6202a794b97a764a90c",
+  "endpoint": "/v1/text-to-speech/6adFm46eyy74snVn6YrT/with-timestamps",
+  "character_cost": "540",
+  "request_id": "FVoi4Kumlf9D1CoThd6N",
+  "sha256": "f131f90083d54bc9db5a7011c66923d192b68ebb330eb61924cf63d7a79936ff",
+  "bytes": 1310345
+}

@@ -1,0 +1,24 @@
+{
+  "measurement": {
+    "input_i": "-16.19",
+    "input_tp": "-4.88",
+    "input_lra": "1.80",
+    "input_thresh": "-26.56",
+    "output_i": "-16.01",
+    "output_tp": "-4.60",
+    "output_lra": "1.60",
+    "output_thresh": "-26.40",
+    "normalization_type": "dynamic",
+    "target_offset": "0.01"
+  },
+  "music": "videos\\2026-11-11-cinematic-reset\\audio\\motion-score.mp3",
+  "voice": "videos\\2026-11-11-cinematic-reset\\narration.wav",
+  "foley": "videos\\2026-11-11-cinematic-reset\\audio\\sewing-detail.mp3",
+  "scoreVacuum": [
+    4.266666666666667,
+    5.516666666666667
+  ],
+  "sewingAt": 25.166666666666668,
+  "foleySeconds": 5,
+  "manualListening": false
+}

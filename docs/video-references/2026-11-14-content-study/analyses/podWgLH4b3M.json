@@ -1,0 +1,207 @@
+{
+  "schema": "reference-content-analysis/1",
+  "source": {
+    "id": "podWgLH4b3M",
+    "url": "https://www.youtube.com/watch?v=podWgLH4b3M",
+    "title": "Thời kì quần áo giá rẻ Shein đã sụp đổ như thế nào?",
+    "channel": "Lóng",
+    "declared_duration": 989.0,
+    "metadata_source": "docs/video-references/2026-11-12-two-directions/catalog.json",
+    "metadata_source_sha256": "3ec2db0eea33a4d95e4d4410df436e6d5f9315e61773a78403706592b44a86c1",
+    "transcript_path": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/transcript.json",
+    "transcript_sha256": "33bb8448e20968c17485da0dde2e42f29876457ab352ef8efac30d0b79fa4add",
+    "media_path": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+    "media_sha256": "b0b22f94399cc630a2492fb4beaed8d9f4cad620aa79bde862c6aaa6de426930"
+  },
+  "coverage": {
+    "method": "full_caption_read",
+    "reviewed_start": 0.2,
+    "reviewed_end": 988.402,
+    "caption_full_read": true,
+    "continuous_av_review": false,
+    "audio_listening": false,
+    "visual_method": "no new visual review"
+  },
+  "chapter_source": "agent-inferred semantic sections from caption; not official chapters or frame-accurate cuts",
+  "central_question": "Một chiếc áo cực rẻ cần những điều kiện nào; khi các điều kiện đổi, mô hình và quan hệ với khách phải đổi ra sao?",
+  "chapters": [
+    {
+      "start": 0.2,
+      "end": 61.7,
+      "title": "Chiếc áo rẻ, con đường không còn rẻ",
+      "question": "Công thức từng thắng bị chặn ở đâu?",
+      "claim": "Người kể mở từ giá áo/mua theo trend, rồi đặt nghịch lý chi phí/luật chơi đổi.",
+      "evidence_example": "11,4–33,3 váy vài đô/content dùng một lần; 34,9–59,3 luật/chậm tăng trưởng/câu hỏi tương lai.",
+      "mechanism": "Vật thể và hành vi gần gũi → câu hỏi về hệ thống phía sau.",
+      "transition": "61,7 lưu ý phạm vi.",
+      "payoff": "Hứa giải thích điều kiện giá rẻ và tương lai mô hình.",
+      "emphasis": "Một vật thể làm trục; không kể lịch sử công ty vô mục đích.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 61.7,
+      "end": 68.6,
+      "title": "Lưu ý phạm vi",
+      "question": "Thông tin có phải tuyệt đối chính xác?",
+      "claim": "Tổng hợp nhiều nguồn và kinh nghiệm cá nhân, mời đính chính.",
+      "evidence_example": "61,7–68,6 lời lưu ý riêng.",
+      "mechanism": "Đặt độ chắc thông tin.",
+      "transition": "68,6 vào cơ chế.",
+      "payoff": "Disclaimer ngắn có ranh giới.",
+      "emphasis": "Không đưa quảng cáo vào đây.",
+      "kind": "disclaimer",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 68.6,
+      "end": 173.09,
+      "title": "Công thức thử ít rồi đo phản ứng",
+      "question": "Khác biệt vận hành nào tạo lợi thế?",
+      "claim": "Người kể đối chiếu sản xuất dự báo theo mùa với thử ít/đo phản ứng/làm thêm mẫu thắng.",
+      "evidence_example": "96,5–116,6 đối chiếu trực tiếp hai cách làm; 139,29–145,29 liên tưởng TikTok.",
+      "mechanism": "Phản hồi nhanh và lô thử nhỏ → lựa chọn mẫu rồi mở quy mô.",
+      "transition": "173,09 hỏi áo làm ở Trung Quốc bay nửa vòng vẫn rẻ nhờ đâu.",
+      "payoff": "Giải thích được một động cơ, rồi mở nút thắt logistics/chính sách.",
+      "emphasis": "Caption số mẫu/doanh thu có dấu hiệu sai bậc; không nhập lại làm facts.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 173.09,
+      "end": 313.49,
+      "title": "Điều kiện giá rẻ thay đổi tại Mỹ",
+      "question": "Chi phí ngoài xưởng thay đổi tác động ra sao?",
+      "claim": "Người kể dùng ưu đãi kiện nhỏ/thuế thay đổi để nối tới giá và kết quả kinh doanh.",
+      "evidence_example": "257,79–275,39 giỏ hàng và khác biệt nhóm hàng; 294,09–311,09 kết quả công ty được viện dẫn.",
+      "mechanism": "Điều kiện giao hàng/thuế → giá tới khách → phản ứng mua → tăng trưởng/lợi nhuận.",
+      "transition": "313,49 móc dòng tiền sang sponsor.",
+      "payoff": "Thấy chuỗi nhân quả qua nhiều tầng, không chỉ đọc con số.",
+      "emphasis": "Mốc luật và báo cáo công ty cần kiểm nguồn primary; ở đây mới phân tích lời người kể.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 313.49,
+      "end": 389,
+      "title": "Quảng bá Odoo",
+      "question": "Mạch nội dung ngừng ở đâu?",
+      "claim": "Lời mời sự kiện/phần mềm doanh nghiệp.",
+      "evidence_example": "Tên sự kiện, ngày/địa điểm, link đăng ký.",
+      "mechanism": "Móc từ lỗ/dòng tiền sang giải pháp sponsor.",
+      "transition": "389 gọi rõ quay lại Shein.",
+      "payoff": "Một đoạn thương mại riêng dài khoảng 75,5s.",
+      "emphasis": "Không đưa sponsor vào phân tích nguyên nhân Shein.",
+      "kind": "promotion",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 389,
+      "end": 577.3,
+      "title": "Châu Âu: không chỉ tăng một loại phí",
+      "question": "Cùng mô hình gặp thêm loại rào cản nào?",
+      "claim": "Người kể phân biệt phản ứng xã hội, tuân thủ/an toàn, phí và luật nhắm siêu nhanh.",
+      "evidence_example": "471,89–491,3 phép tính phí với món rẻ làm rõ mức tương đối.",
+      "mechanism": "Phí cố định nhỏ / giá món nhỏ = tỷ lệ lớn; điều kiện lợi thế cực rẻ bị mài mòn.",
+      "transition": "577,3 chuyển từ bán hàng sang IPO.",
+      "payoff": "Mở thêm một tầng luật/uy tín, không lặp lại Mỹ bằng địa danh khác.",
+      "emphasis": "Trong lời có nhiều năm ASR 2015/2016/2018 bất thường, bắt buộc kiểm riêng trước dùng.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 577.3,
+      "end": 695.7,
+      "title": "Định giá và kết quả kinh doanh",
+      "question": "Kỳ vọng nhà đầu tư phản ứng với mô hình đổi ra sao?",
+      "claim": "Người kể chuyển từ chi phí mua hàng sang định giá/tăng trưởng/biên lợi nhuận.",
+      "evidence_example": "610,6–629,82 đối chiếu kỳ vọng định giá/diễn biến; 648,9–686,2 phân rã vùng và lợi nhuận.",
+      "mechanism": "Triển vọng bị hỏi lại → thị trường đánh giá; doanh thu không tự đảm bảo lợi nhuận.",
+      "transition": "695,7 hỏi còn đường nào hồi phục.",
+      "payoff": "Tạo stakes mới cho câu hỏi sống ra sao của hook.",
+      "emphasis": "Các sự kiện IPO/định giá trong nguồn chưa được xác minh, không được coi là dữ kiện.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 695.7,
+      "end": 818.1,
+      "title": "Đối thủ và lựa chọn khách hàng",
+      "question": "Nếu tăng giá, vì sao khách có thể rời đi?",
+      "claim": "Người kể mở rộng so sánh Temu, hãng truyền thống, đồ cũ để giải thích mất khoảng cách giá.",
+      "evidence_example": "775,1–781,4 chất lượng bình thường nhưng rẻ; 808,3–818,1 áo cộng phí so với đồ cũ.",
+      "mechanism": "Khoảng cách tổng chi phí thu hẹp → lý do chọn app yếu hơn.",
+      "transition": "818,1 hỏi Shein xoay sở kiểu gì.",
+      "payoff": "Biến cạnh tranh thành lựa chọn thật của người mua.",
+      "emphasis": "So sánh phải cùng chất lượng/điều kiện, không gom ngẫu nhiên số liệu đối thủ.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 818.1,
+      "end": 887.7,
+      "title": "Ba đường thích nghi",
+      "question": "Thay mô hình bằng những đòn bẩy nào?",
+      "claim": "Người kể chia ba đường: giá trị đơn cao, bán năng lực chuỗi cung ứng, đổi nơi sản xuất/tiêu thụ.",
+      "evidence_example": "820,8 nâng phân khúc; 843,7 bán hệ thống; 858,5 đổi chiến trường.",
+      "mechanism": "Mỗi đường thay một biến khác của mô hình đã dựng.",
+      "transition": "887,7 người kể chuyển rõ sang quan điểm trung tâm.",
+      "payoff": "Có phương án cùng đánh đổi; không chỉ kết công ty chết.",
+      "emphasis": "Chỉ giữ số liệu khi có nguồn; rút giới thiệu để dành thời lượng cho tradeoff.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 887.7,
+      "end": 977.4,
+      "title": "Payoff: khách yêu món hời hay yêu thương hiệu?",
+      "question": "Vấn đề sâu hơn thuế là gì?",
+      "claim": "Người kể đưa luận điểm riêng: hành vi săn rẻ từng nuôi tăng trưởng cũng làm thiếu trung thành.",
+      "evidence_example": "907,5–924,6 phân biệt yêu hãng với yêu món hời; 958,1–975,5 điều kiện siêu rẻ mất nhưng kỳ vọng còn.",
+      "mechanism": "Mô hình thắng → đào tạo kỳ vọng của khách → kỳ vọng trở thành rào cản chuyển mô hình.",
+      "transition": "977,4 hỏi trải nghiệm người xem.",
+      "payoff": "Trả hook bằng một ý mới, không chỉ bảng tóm tắt thuế/giá.",
+      "emphasis": "Đặt luận điểm đáng nhớ ở payoff; vẫn ghi đó là diễn giải, không chứng minh mọi khách đều thế.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    },
+    {
+      "start": 977.4,
+      "end": 987.4,
+      "title": "CTA gắn trải nghiệm",
+      "question": "Khán giả có thể tham gia bằng điều gì?",
+      "claim": "Hỏi đã mua/chọn đồ thế nào rồi mời đăng ký.",
+      "evidence_example": "977,4–987,4 câu hỏi và lời chào.",
+      "mechanism": "Nội dung về hành vi khách → hỏi hành vi thật của khán giả.",
+      "transition": "Kết.",
+      "payoff": "CTA cùng chủ đề, không mời bình luận vô nghĩa.",
+      "emphasis": "Một câu hỏi cụ thể; không xin hàng loạt thao tác.",
+      "kind": "argument",
+      "confidence": "caption_semantics; boundary approximate; not measured cut or vocal stress"
+    }
+  ],
+  "observations": [
+    "Đã đọc toàn transcript, chưa xem/nghe liên tục hay kiểm nguồn nội dung.",
+    "Đây là Lóng. Chia chương trên do agent suy luận theo lời, metadata không có chapters chính thức.",
+    "Caption có các mốc năm và quy mô số nghi ngờ sai; ngoài ASR còn có thể có vấn đề nguồn. Không dùng để xác nhận kinh doanh/pháp luật hiện hành.",
+    "Payoff 887,7–977,4 phát triển một ý riêng về kỳ vọng giá, có giá trị biên tập hơn việc chồng thêm số liệu."
+  ],
+  "transferable_rules": [
+    {
+      "reference_interval": "96.50–173.09",
+      "rule": "Giải thích lợi thế bằng đối chiếu hai quy trình, rồi hỏi điều kiện nào còn thiếu.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "173.09–313.49",
+      "rule": "Chuỗi chi phí→giá tới khách→phản ứng mua→kết quả kinh doanh phải có đủ mắt xích.",
+      "status": "editorial observation; not user-approved production lesson"
+    },
+    {
+      "reference_interval": "887.70–977.40",
+      "rule": "Payoff thêm một kết luận của tác giả về cơ chế đã kể; không chỉ nhắc lại các chương.",
+      "status": "editorial observation; not user-approved production lesson"
+    }
+  ],
+  "factual_validation": "not performed; all claims/examples describe what source narrator says, not verified facts"
+}

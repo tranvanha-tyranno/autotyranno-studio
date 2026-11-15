@@ -1,0 +1,51 @@
+{
+  "checks": [
+    {
+      "case": "HTML GET",
+      "status": 200,
+      "bytes": 660575,
+      "type": "text/html"
+    },
+    {
+      "case": "bytes=0-31",
+      "status": 206,
+      "bytes": 32,
+      "matches_source": true
+    },
+    {
+      "case": "bytes=1000000-1000031",
+      "status": 206,
+      "bytes": 32,
+      "matches_source": true
+    },
+    {
+      "case": "bytes=-16",
+      "status": 206,
+      "bytes": 16,
+      "matches_source": true
+    },
+    {
+      "case": "HEAD range",
+      "status": 206,
+      "content_length": 32
+    },
+    {
+      "case": "bytes=42815279-",
+      "status": 416
+    },
+    {
+      "case": "bytes=10-1",
+      "status": 416
+    },
+    {
+      "case": "bytes=0-1,2-3",
+      "status": 416
+    },
+    {
+      "case": "bytes=-0",
+      "status": 416
+    }
+  ],
+  "persistent_server_started": false,
+  "scope": "HTTP GET/HEAD and byte seeking against existing local MP4; no browser playback or aesthetic claim."
+}

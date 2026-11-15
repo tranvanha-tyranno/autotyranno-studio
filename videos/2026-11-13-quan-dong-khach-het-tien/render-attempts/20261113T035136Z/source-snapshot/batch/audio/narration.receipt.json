@@ -1,0 +1,74 @@
+{
+  "sha256": "ac07b54471cbdf33239645f059ff1d00b697e091ae2672eb2692fd64bf50cab7",
+  "seconds": 593.42,
+  "speed": 1.0,
+  "chapters": [
+    {
+      "id": "opening",
+      "title": "Đông khách, nhưng tiền ở đâu?",
+      "startSeconds": 0.0,
+      "voiceSeconds": 38.48,
+      "source": "audio/01-opening.mp3",
+      "sha256": "0d2e7b8d0f2b0b934017a90e988321a2536f045396c86e25c96fc72f226bca73"
+    },
+    {
+      "id": "one-cup",
+      "title": "Một ly bán ra, bao nhiêu tiền ở lại?",
+      "startSeconds": 38.98,
+      "voiceSeconds": 83.92,
+      "source": "audio/02-one-cup.mp3",
+      "sha256": "dc08efa2a7dad6469306c5d7067728b63e4e4df1c9e9afbaf26882fe5a55537d"
+    },
+    {
+      "id": "breakeven",
+      "title": "Cánh cửa hòa vốn",
+      "startSeconds": 123.4,
+      "voiceSeconds": 76.24,
+      "source": "audio/03-breakeven.mp3",
+      "sha256": "4738b5856da6f05206d2a8346a63430a45b09e829933ebe24579ada8af6443b8"
+    },
+    {
+      "id": "busy-hours",
+      "title": "Một giờ đông không phải cả tháng tốt",
+      "startSeconds": 200.14,
+      "voiceSeconds": 62.08,
+      "source": "audio/04-busy-hours.mp3",
+      "sha256": "ff51735b238d43a07978059318f4ed008b27a1aed2280977da8cdf70a59bddf2"
+    },
+    {
+      "id": "discount",
+      "title": "Cái bẫy nhìn mỗi số đơn",
+      "startSeconds": 262.71999999999997,
+      "voiceSeconds": 90.4,
+      "source": "audio/05-discount.mp3",
+      "sha256": "45602c264f6a61cde54bbf900e208e7d74c73c97988f51dc6a1e50f4d1916cb9"
+    },
+    {
+      "id": "cash",
+      "title": "Có dư trên giấy, vẫn thiếu tiền mặt",
+      "startSeconds": 353.62,
+      "voiceSeconds": 101.28,
+      "source": "audio/06-cash.mp3",
+      "sha256": "0cff647ea9d77dee309b8d7bdfb9c402e4faa89f54ec6a2055e482abb88cf85d"
+    },
+    {
+      "id": "one-week",
+      "title": "Một tuần để nhìn rõ quán",
+      "startSeconds": 455.4,
+      "voiceSeconds": 86.88,
+      "source": "audio/07-one-week.mp3",
+      "sha256": "60c91d20ed4b7312e987a6ad147967fccdfc53d254bc4b321d3a3de1131a8b52"
+    },
+    {
+      "id": "ending",
+      "title": "Trở lại cánh cửa quán",
+      "startSeconds": 542.78,
+      "voiceSeconds": 50.64,
+      "source": "audio/08-ending.mp3",
+      "sha256": "35aff88aa6299a7feefec4fefaaa1a44661f32b26a607d6598cdb0e5cea7c1cb"
+    }
+  ],
+  "lastWordEnd": 593.42,
+  "tailSeconds": 1.5,
+  "manualListening": "Not established by assembly"
+}

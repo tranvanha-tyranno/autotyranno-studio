@@ -1,0 +1,30 @@
+{
+  "id": "discount-tag",
+  "pexelsID": 5872184,
+  "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-a-hanger-with-a-discount-tag-5872184/",
+  "creator": "Max Fischer",
+  "theme": "discount",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/discount-tag.jpg",
+  "downloadURL": "https://images.pexels.com/photos/5872184/pexels-photo-5872184.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1600,
+  "sha256": "07d3ea2eca08e4929eb227419e222291864b53f5521806362d8ba416d597efa1",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

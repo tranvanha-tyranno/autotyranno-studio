@@ -1,0 +1,131 @@
+{
+  "schema": "bread-documentary-chapter-asr/1",
+  "requestHash": "9d8852202c1a517520764fa6e8925907b7d25b6d1b0c03f524e7e08169b39204",
+  "request": {
+    "sourceSHA256": "82f870daaac789310a4f5c3b272f490589fc4a1b66ded3ef573dcf8a9ed52bab",
+    "audioSHA256": "e7c7f257d75e7c31cb5747df78691b70c07347c2f36a2490c160418b24bc74df",
+    "scriptSHA256": "4d28c4e5d680850527e0ff8e665ed4b10fbb4c97f981f62e88592d05137b06ad",
+    "parameters": {
+      "model": "base",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 2,
+      "num_workers": 1,
+      "local_files_only": true,
+      "language": "vi",
+      "beam_size": 1,
+      "best_of": 1,
+      "word_timestamps": false,
+      "condition_on_previous_text": false,
+      "vad_filter": false,
+      "temperature": 0,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "normalizer": "vi-number-words/1",
+      "source": "exact individual narration takes; no music",
+      "numberCheck": "explicit illustrative number phrases within each chapter; not exact local alignment"
+    },
+    "runtimeVersions": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.4"
+    }
+  },
+  "chapter": "tro-lai-quay-banh",
+  "expected": "Trở lại buổi sáng ở tiệm Hạnh. Khách trả thêm hai nghìn không có nghĩa chị giữ thêm hai nghìn. Tin lạm phát giảm không có nghĩa giá trở lại mốc cũ. Và lương tăng không tự bảo đảm mua được nhiều hơn. Ba điều ấy có thể cùng đúng, chẳng cần mâu thuẫn nào cả.\n\nLần tới nghe lạm phát hạ, hãy hỏi: đang tăng chậm hơn hay giảm giá thật? So với mốc nào? Và thu nhập của mình có theo kịp những khoản mình thực sự mua không? Bắt đầu từ một bữa sáng quen, nhưng so cùng lượng, cùng chất lượng. Đừng chỉ nhìn con số to nhất trên bản tin.\n\nỞ chỗ bạn, món ăn sáng nào tăng giá rõ nhất, và bạn đang so với năm nào? Hãy để lại một ví dụ cụ thể trong bình luận. Nếu muốn xem thêm những câu chuyện kinh tế được bóc từ đời sống như thế này, hãy đăng ký kênh và bật chuông.",
+  "recognized": "Trở lại buổi sáng ở tiền hành. Khách trả thêm hai nghiênh không có nghĩa chỉ dữ thêm hai nghiênh. Tinh lạm phát giảm không có nghĩa giá trở lại mất cụ. Và lương tăng không từ bảo đảm mua được nhiều hơn. Ba điều ý có thể cùng đúng, chẳng cần mô thuận nào cả. Lần tới nghe lạm phát hả, hãy hỏi đang tăng chẳng hơn hay giảm giá thực. Xò với mốc nào. Và thương nhập của mình có theo kịt những khoảng mình thực sự mua không. Bắc đầu từ một bữa sáng quen, nhưng sau cùng lượng, cùng chất lượng, đừng chỉ nhìn con số to nhất trên bản tin. Ở chỗ bản, món ăn sáng nào tăng giá đỏ nhất và bạn đang so với năm nào. Hãy để lại một ví dụ cụ thể trong bình lượng. Nếu muốn xem thêm những câu chuyện kinh tế được bất từ đời sống như thế này, hãy đang kí kênh và bật chung.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Trở lại buổi sáng ở tiền hành."
+    },
+    {
+      "start": 2.0,
+      "end": 5.5,
+      "text": " Khách trả thêm hai nghiênh không có nghĩa chỉ dữ thêm hai nghiênh."
+    },
+    {
+      "start": 5.5,
+      "end": 9.0,
+      "text": " Tinh lạm phát giảm không có nghĩa giá trở lại mất cụ."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": " Và lương tăng không từ bảo đảm mua được nhiều hơn."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": " Ba điều ý có thể cùng đúng, chẳng cần mô thuận nào cả."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": " Lần tới nghe lạm phát hả, hãy hỏi đang tăng chẳng hơn hay giảm giá thực."
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": " Xò với mốc nào."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": " Và thương nhập của mình có theo kịt những khoảng mình thực sự mua không."
+    },
+    {
+      "start": 26.0,
+      "end": 33.6,
+      "text": " Bắc đầu từ một bữa sáng quen, nhưng sau cùng lượng, cùng chất lượng, đừng chỉ nhìn con số to nhất trên bản tin."
+    },
+    {
+      "start": 33.6,
+      "end": 38.66,
+      "text": " Ở chỗ bản, món ăn sáng nào tăng giá đỏ nhất và bạn đang so với năm nào."
+    },
+    {
+      "start": 38.66,
+      "end": 41.86,
+      "text": " Hãy để lại một ví dụ cụ thể trong bình lượng."
+    },
+    {
+      "start": 41.86,
+      "end": 47.400000000000006,
+      "text": " Nếu muốn xem thêm những câu chuyện kinh tế được bất từ đời sống như thế này, hãy đang kí kênh và bật chung."
+    }
+  ],
+  "language": "vi",
+  "wallSeconds": 5.485,
+  "chapterAudio": "audio/asr-base-chapters/chunks/05-tro-lai-quay-banh-d95ba01f9cf46503.wav",
+  "audio": {
+    "sourceSHA256": "82f870daaac789310a4f5c3b272f490589fc4a1b66ded3ef573dcf8a9ed52bab",
+    "sha256": "e7c7f257d75e7c31cb5747df78691b70c07347c2f36a2490c160418b24bc74df",
+    "seconds": 47.76,
+    "sampleRate": 16000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "scope": "Complete individual take resampled, no time stretching or mix."
+  },
+  "diagnostics": {
+    "tokenSimilarity": 0.8274,
+    "expectedTokenCoverage": 0.8274,
+    "expectedTailTokenCoverage": 0.8,
+    "expectedTokens": 168,
+    "observedTokens": 168,
+    "diagnosticFlags": [],
+    "possibleOmissionSpans": [],
+    "requiresHumanReview": false,
+    "limit": "ASR errors, number formatting and paraphrases can trigger flags. A flag is not a confirmed omission.",
+    "numberPhrases": [],
+    "numberPhrasesNotFound": [],
+    "expectedFinalSentence": "Nếu muốn xem thêm những câu chuyện kinh tế được bóc từ đời sống như thế này, hãy đăng ký kênh và bật chuông.",
+    "finalSentenceExactNormalizedMatch": false,
+    "requiresReview": true,
+    "lexicalLimits": "Number checks search the chapter, not the corresponding speech location. A match cannot prove every number was spoken in its intended order; a missing phrase can be an ASR mistake. Final-sentence normalization can also fail on harmless recognition differences. This is not prosody assessment."
+  },
+  "cacheHit": false,
+  "continuousListening": false,
+  "aestheticApproval": false
+}

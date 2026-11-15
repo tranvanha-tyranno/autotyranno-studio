@@ -1,0 +1,21 @@
+{
+  "method": "top original aspect; bottom proposed center crop; renderer must honor fit/focus and final render still needs inspection",
+  "files": [
+    {
+      "file": "assets/inspection/photo-sheet-01.jpg",
+      "sha256": "0720f0a5bff1fd82caece8c2846ad9acdbc672a352eb21508c56d87fa2d49123"
+    },
+    {
+      "file": "assets/inspection/photo-sheet-02.jpg",
+      "sha256": "cd5857c6f113237585ca9955877b97d67283aac7a15939e89d45098c8811e5d2"
+    },
+    {
+      "file": "assets/inspection/photo-sheet-03.jpg",
+      "sha256": "90b2c227c104ae7eb65daf9eab10b56059c3e6ebc3a0a0dc504560eaf771749a"
+    },
+    {
+      "file": "assets/inspection/photo-sheet-04.jpg",
+      "sha256": "176f3aba9379cd320048185630e3bfd43482a8e544b908db0fb003fa99ad0d81"
+    }
+  ]
+}

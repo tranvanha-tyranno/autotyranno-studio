@@ -1,0 +1,51 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "revision": "r06",
+  "dimension": "visual_relevance",
+  "decision": "revision_needed",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex motion_pipeline — actual rendered-frame comparison"
+  },
+  "target": {
+    "clause_id": "c9",
+    "narration": "Nhìn một mức giảm, ta rất dễ chỉ hỏi",
+    "start": 101.68,
+    "end": 104.4
+  },
+  "method": "rendered_frame_comparison",
+  "observation": "Opened r06 frame3121 (104.033s). Caption says Nhìn một mức giảm, but both panels show ordinary sauce/mayonnaise and seed/snack shelf prices. No visible discount marker, crossed-out old price or old/new pair establishes a price reduction; different products or package sizes are not evidence of a discount. Scope is only c9 discount-phrase visual relevance, not the whole video.",
+  "action": "Replace one panel with an inspected archival promotion crop that visibly shows a promotion label and old/new price while keeping its historical date and source limits readable above the caption. Keep ordinary shelf-price imagery only as price/quantity context.",
+  "evidence": [
+    {
+      "role": "render",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/long/final.mp4",
+      "sha256": "8c8f3ea159fba96585499ea442bc6194e75ed530d7151ea7043c57f3b4527ca5",
+      "description": "Actual r06 final; SHA matches its full-duration QA receipt."
+    },
+    {
+      "role": "frame",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/long/qa/frame-03121.jpg",
+      "sha256": "4af4fba155e8a961e4c9b54e63392c05d8a691cb3c86ab3665c9c6188382cdd0",
+      "description": "Opened actual r06/c9 frame at104.033s."
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/production-public/directions/long/vn-sauce-prices.jpg",
+      "sha256": "b71ace95d181cecf1bd1a218941912381259fe98dc4ed2e23ef2deec1600ea94",
+      "description": "Actual rendered ordinary-price source derivative."
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/r06/production-public/directions/long/vn-seed-prices.jpg",
+      "sha256": "c3c23b237175388685ca88071f82c7cfd814bdde4c9d253658614d2d69d73370",
+      "description": "Actual rendered ordinary-price source derivative."
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/r07-c9-discount-render-review.md",
+      "sha256": "cd166a60e2130cde854f75f2bef8e477cf4afbd715422cb09c779a313fa9ba5e",
+      "description": "Actual observations and narrow scope of comparison."
+    }
+  ]
+}

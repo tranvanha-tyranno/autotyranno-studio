@@ -1,0 +1,93 @@
+{
+  "reviewer": "animated_shopping agent",
+  "stills": [
+    {
+      "file": "h02.jpg",
+      "sha256": "f80d5212d4677be485bd37fb69045ee5c4be9fd3aef58a909ac103b71d115de8",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "h03.jpg",
+      "sha256": "113971191803661a46e04e31b96dd4504368731985d1861ac5d97dea88d8fabe",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "d01.jpg",
+      "sha256": "bf0328046d9c64d9dd7d44e75604be141d6f7b86378555bd1e04a5f505c2236e",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "u03.jpg",
+      "sha256": "618671be54d38420f2155b5306e9d48901a4faf22915d2c121e02907a934a418",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "b05.jpg",
+      "sha256": "27ee72faad5108ed291603bf6d4e8938340050382f0e31fe58c95088856f3faa",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "b07.jpg",
+      "sha256": "8eaa76ad1328239a8bfc06f0d1061970fd8e82838893fbb22334405a1aab2c1b",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "p03.jpg",
+      "sha256": "7702999ad8fe36465c8a9836dedb88423b5c7c27c67cc2aca73e16459e330723",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "p05.jpg",
+      "sha256": "c7c20e1014644206d022f98d15f8afe96b649dc25b85fca005470ea97c4a16d1",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "m03.jpg",
+      "sha256": "c0e8720e422618edea3fccf8bbbd0f1b47b40151285776aab4677521a107ed72",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "m06.jpg",
+      "sha256": "363fafde729bc4e1ff894c19dfed161bdb3a6aa0cad9627c1c503469dfbf2ef3",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "m07.jpg",
+      "sha256": "9a8ad4e3ffa65b637f87941716bc862a99ac85acc3b4fa34b73344a578c44c88",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "v02.jpg",
+      "sha256": "7d23583ae2f851e675e791f4738c0f85ba275567432ee1d5980bf8a8a7c73ba7",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    },
+    {
+      "file": "e04.jpg",
+      "sha256": "1ee8c8551413484dcf812ca7e9e9696d0258d194e0223c6f802d31f4a83dcd5c",
+      "inspection": "Actual image opened with view_image",
+      "scope": "One still only; not full motion or continuous audio"
+    }
+  ],
+  "observedBlocker": "m07 negative chart bars overlap x-axis labels; needs domain repair and corrected rendered still review",
+  "userAcceptance": "pending",
+  "audioListening": "not performed",
+  "correctedStillReview": {
+    "file": "m07-corrected.jpg",
+    "sha256": "e7a42de8c854b34eec9b35609765bf1a198a46d14d00b7bd90903a121beb3176",
+    "inspection": "Actual corrected still opened with view_image",
+    "result": "Negative bars end above axis labels; zero line raised; all four values and x labels readable, no overlap in this still",
+    "scope": "Fix confirmed only in this rendered still; full motion acceptance pending"
+  }
+}

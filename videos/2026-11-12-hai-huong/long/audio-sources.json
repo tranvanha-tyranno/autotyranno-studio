@@ -1,0 +1,41 @@
+{
+  "narration": {
+    "file": "audio/narration-original.mp3",
+    "sha256": "9f73015f73fdda955fa9dacea83daef71c78c7a933c3aa59f48e278bd6dfb3ad",
+    "alignment": "audio/narration-original.alignment.json",
+    "speed": 1.0
+  },
+  "music": [
+    {
+      "file": "videos/2026-11-11-cinematic-reset/audio/motion-score.mp3",
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96"
+    },
+    {
+      "file": "videos/2026-11-11-ai-va-cong-viec-5phut/audio/analysis-score.mp3",
+      "sha256": "e7ff21706049c76ef0698ca14e8222a953bd769afe7bfa62b41cbe091077953d"
+    }
+  ],
+  "mix": {
+    "file": "audio/final-mix.wav",
+    "sha256": "5b5b1385a4a96d4225869a71c98e83829dc5b850d2658696c43b4c7c4a352320",
+    "seconds": 81.98
+  },
+  "contextualFoley": [
+    {
+      "file": "typing.mp3",
+      "time": 0.15,
+      "phrase": "Bạn giao cho AI"
+    },
+    {
+      "file": "paper.mp3",
+      "time": 27.349999999999998,
+      "phrase": "Sau khi viết"
+    },
+    {
+      "file": "confirm.mp3",
+      "time": 59.88333333333333,
+      "phrase": "Ghi lại thời gian"
+    }
+  ],
+  "humanListening": "Not claimed; exact take alignment and measurements only"
+}

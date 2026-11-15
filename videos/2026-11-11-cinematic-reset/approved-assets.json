@@ -1,0 +1,65 @@
+{
+  "approval": {
+    "status": "approved",
+    "date": "2026-11-11",
+    "evidence": "Explicit user feedback in this chat",
+    "userQuote": "rất ok nhớ lưu lại chổ này giộng dọc sound và toàn bộ những cái này nhé tôi sẽ kêu bạn tiến hành làm 1 video sau",
+    "scope": "Current final video, narrator, sound/music, 3D/kinetic visual style and edit approach; reuse as baseline for future requested videos"
+  },
+  "assets": {
+    "final.mp4": {
+      "bytes": 23221680,
+      "sha256": "2a3c20c12c6d84e732d31a15ff149be0458adefcf676008bc90d3b1e75c6731c"
+    },
+    "audio/narration-v2.mp3": {
+      "bytes": 753623,
+      "sha256": "48fc46d5892614aa0303155b7383a160fca8173c5dc7a95dd50076b0ef52d7ca"
+    },
+    "audio/narration-v2.alignment.json": {
+      "bytes": 24737,
+      "sha256": "9fff7dfb7facbab14e89229816089fb93daf3f8e01c1ef9fa964646790cc52cf"
+    },
+    "audio/narration-v2.receipt.json": {
+      "bytes": 388,
+      "sha256": "37100e2bc667f290f5c8b9b0e91729947e7d92c32c8c2f3e5f11c927d2a2a7c4"
+    },
+    "audio/motion-score.mp3": {
+      "bytes": 800853,
+      "sha256": "28978a359075dc20e8fa1b42a09a00f831abaa2e17c292d4e2b829c1c5c37f96"
+    },
+    "audio/motion-score.receipt.json": {
+      "bytes": 322,
+      "sha256": "15f10bdaf34e67b4d0eb1ca2508b6e751361ec3c17df32c8061b8133dcb199df"
+    },
+    "audio/sewing-detail.mp3": {
+      "bytes": 81127,
+      "sha256": "760ce1be70916991ad4157b8d323c6754cbf40e3e34c9a9574f2c2b675e07806"
+    },
+    "audio/sewing-detail.receipt.json": {
+      "bytes": 347,
+      "sha256": "a6192c4a4cb697caddefd57fc6dd22fc282a1acfccc1714b987a5d767613bc4d"
+    },
+    "audio/final-mix.wav": {
+      "bytes": 9600078,
+      "sha256": "8ff8e3c8c0c677b76e34a11b4d9a6c62c4b09c378fe2221fad07baed72a14b4f"
+    },
+    "timeline.json": {
+      "bytes": 3814,
+      "sha256": "903662c565888f2d70e58c97727d1a1b7a234ae000eef44b173bc1177b7994a4"
+    },
+    "shotlist.json": {
+      "bytes": 1612,
+      "sha256": "2eab32cbd97414498c9677495911431fa90b76f2bcee7fb0e5a12d1811c980ad"
+    },
+    "script-v2.txt": {
+      "bytes": 946,
+      "sha256": "ae8f5790b85e3ba6a693ef0fcc5e9021ed0a6ea625436b119328b108dada7736"
+    },
+    "asset-sources.json": {
+      "bytes": 2064,
+      "sha256": "611217fcf6bc8ac6833fac6888c9877eb58715f58a48eefdaf01351f3a0d6a78"
+    }
+  },
+  "sourceSnapshot": "source-snapshot/",
+  "reusableProfile": "workflows/reference-video/cinematic.profile.json"
+}

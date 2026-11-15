@@ -1,0 +1,23 @@
+{
+  "pacingChange": {
+    "previousBeats": 50,
+    "newShots": 186,
+    "meanShotSeconds": 3.238351254480288,
+    "maxShotSeconds": 4.566666666666666,
+    "transitionFrames": 6
+  },
+  "audioChange": {
+    "mainBodyMix": "Exact retained previousPCM prefix",
+    "newOutro": "subscribe, bell, comment using same Nhật Phong voice",
+    "newVoiceProviderCalls": 1,
+    "providerHeaderCredits": 66,
+    "newVisualMusicSFXProviderCalls": 0
+  },
+  "editorialEvidence": [
+    "comic/review/proof-frame-observations.json",
+    "flow/review/subagent-r05-flow-review.json",
+    "browser-playback.json",
+    "motion-review.json"
+  ],
+  "pending": "FinalfullQA and actual user aesthetic feedback; some short callbacks and similar terminal compositions remain."
+}

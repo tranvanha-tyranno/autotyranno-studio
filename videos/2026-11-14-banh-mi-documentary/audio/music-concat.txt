@@ -1,0 +1,5 @@
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-14-banh-mi-documentary/audio/music/coffee-opening.wav'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-14-banh-mi-documentary/audio/music/precise-unit-math.wav'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-14-banh-mi-documentary/audio/music/cash-tension.wav'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-14-banh-mi-documentary/audio/music/operating-pulse.wav'
+file 'C:/Users/tyranno/Documents/Project/AffilateAutoTyranno/videos/2026-11-14-banh-mi-documentary/audio/music/hopeful-outro.wav'

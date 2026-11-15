@@ -1,0 +1,1232 @@
+{
+  "schema_version": "reference-study-v1",
+  "id": "w3z43Hlzq3c",
+  "title": "Châu Âu đang rơi vào khủng hoảng toàn diện như thế nào?",
+  "duration": 1251,
+  "method": {
+    "complete_caption_read": true,
+    "caption_rows": 727,
+    "reviewed_sheets": [
+      "sheets/00-01.jpg",
+      "sheets/00-02.jpg",
+      "sheets/01-01.jpg",
+      "sheets/01-02.jpg",
+      "sheets/02-01.jpg",
+      "sheets/02-02.jpg",
+      "sheets/03-01.jpg",
+      "sheets/03-02.jpg",
+      "sheets/04-01.jpg",
+      "sheets/04-02.jpg",
+      "sheets/05-01.jpg",
+      "sheets/05-02.jpg",
+      "sheets/06-01.jpg",
+      "sheets/06-02.jpg",
+      "sheets/07-01.jpg",
+      "sheets/07-02.jpg",
+      "sheets/08-01.jpg",
+      "sheets/08-02.jpg",
+      "sheets/09-01.jpg",
+      "sheets/09-02.jpg",
+      "sheets/10-01.jpg",
+      "sheets/10-02.jpg",
+      "sheets/11-01.jpg",
+      "sheets/11-02.jpg",
+      "sheets/12-01.jpg",
+      "sheets/13-01.jpg",
+      "sheets/13-02.jpg",
+      "sheets/14-01.jpg",
+      "sheets/14-02.jpg",
+      "sheets/15-01.jpg",
+      "sheets/15-02.jpg",
+      "sheets/16-01.jpg",
+      "sheets/16-02.jpg",
+      "sheets/17-01.jpg",
+      "sheets/17-02.jpg",
+      "sheets/18-01.jpg",
+      "sheets/18-02.jpg",
+      "sheets/19-01.jpg",
+      "sheets/19-02.jpg",
+      "sheets/20-01.jpg",
+      "sheets/20-02.jpg"
+    ],
+    "selected_frame_count": 378,
+    "coverage": "21 contiguous blocks; all41sheets inspected",
+    "continuous_av_playback": false,
+    "auditory_evaluation": false,
+    "boundary_precision": "Approximate semantic timings from captions and sampled images, not frame-accurate EDL"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 60,
+      "title": "Hook mở rộng từ địa danh tới câu hỏi chung",
+      "notes_markdown": "- **Lời và chức năng:** mở thẳng vào Paris, rồi Đức, Madrid, Ý, Serbia; mỗi nơi có một biểu hiện khác nhau. Gần cuối phút đặt câu hỏi vì sao các nền kinh tế phát triển lại cùng có phản đối. Không mở bằng lời chào dài hoặc định nghĩa trừu tượng.\n- **Hình đã thấy:** 00:00/00:05 đại lộ đông người; 00:10 đoàn người có khẩu hiệu; 00:15 xe cháy/cảnh sát; 00:20 đám đông và bảng tiếng Đức; 00:30 biểu ngữ liên quan người phụ nữ; 00:35 công nhân/sinh viên; 00:40–00:55 cảnh đường phố, lửa và khói. Có khung chồng ảnh tại 00:12.5, 00:18.5, 00:37.5 gợi chuyển dissolve; không suy ra chính xác độ dài hiệu ứng.\n- **Quan hệ lời–hình:** danh từ địa điểm/nhóm người đi kèm hình có dấu hiệu nhận diện tương ứng, mạnh hơn stock văn phòng chung. Tuy nhiên biển hiệu/khung hình không tự chứng minh đúng ngày hoặc đúng sự kiện được kể.\n- **Giữ chú ý — suy luận:** gom nhiều trường hợp để tạo quy mô, rồi mở một câu hỏi chưa trả lời. Hình cháy là cao trào thị giác, cần tránh dùng nó như đại diện cho mọi cuộc biểu tình.\n- **Bài học dùng lại:** 3–5 trường hợp có chi tiết thật → tìm mâu thuẫn chung → nêu câu hỏi trung tâm; mỗi trường hợp cần nguồn đúng chủ thể.",
+      "observations": {
+        "Lời và chức năng": "mở thẳng vào Paris, rồi Đức, Madrid, Ý, Serbia; mỗi nơi có một biểu hiện khác nhau. Gần cuối phút đặt câu hỏi vì sao các nền kinh tế phát triển lại cùng có phản đối. Không mở bằng lời chào dài hoặc định nghĩa trừu tượng.",
+        "Hình đã thấy": "00:00/00:05 đại lộ đông người; 00:10 đoàn người có khẩu hiệu; 00:15 xe cháy/cảnh sát; 00:20 đám đông và bảng tiếng Đức; 00:30 biểu ngữ liên quan người phụ nữ; 00:35 công nhân/sinh viên; 00:40–00:55 cảnh đường phố, lửa và khói. Có khung chồng ảnh tại 00:12.5, 00:18.5, 00:37.5 gợi chuyển dissolve; không suy ra chính xác độ dài hiệu ứng.",
+        "Quan hệ lời–hình": "danh từ địa điểm/nhóm người đi kèm hình có dấu hiệu nhận diện tương ứng, mạnh hơn stock văn phòng chung. Tuy nhiên biển hiệu/khung hình không tự chứng minh đúng ngày hoặc đúng sự kiện được kể.",
+        "Giữ chú ý — suy luận": "gom nhiều trường hợp để tạo quy mô, rồi mở một câu hỏi chưa trả lời. Hình cháy là cao trào thị giác, cần tránh dùng nó như đại diện cho mọi cuộc biểu tình.",
+        "Bài học dùng lại": "3–5 trường hợp có chi tiết thật → tìm mâu thuẫn chung → nêu câu hỏi trung tâm; mỗi trường hợp cần nguồn đúng chủ thể."
+      },
+      "sheets": [
+        "sheets/00-01.jpg",
+        "sheets/00-02.jpg"
+      ],
+      "frame_times": [
+        0.0,
+        5.0,
+        10.0,
+        12.5,
+        15.0,
+        18.5,
+        20.0,
+        25.0,
+        30.0,
+        32.5,
+        35.0,
+        37.5,
+        40.0,
+        44.5,
+        45.0,
+        50.0,
+        51.5,
+        55.0
+      ]
+    },
+    {
+      "index": 1,
+      "start": 60,
+      "end": 120,
+      "title": "Đặt giới hạn kết luận rồi vào trường hợp Pháp",
+      "notes_markdown": "- **Nhịp ý:** ~01:00–01:14 nói các cuộc phản đối không có một bộ máy chung; ~01:15 bắt đầu Pháp; chuyện trường thiếu giáo viên/lớp đông mở ra lao động và phúc lợi; cuối phút chạm mâu thuẫn chi tiêu–nợ.\n- **Hình:** 01:00 tư liệu đường phố; 01:05–01:10 mascot trên nền tím; 01:11.5 cờ Pháp; 01:15–01:40 ảnh học sinh/đoàn người; 01:42 nền lưới đen; 01:45–01:55 các icon sách, y tế, giao thông, tiền và nhân vật hai phía xuất hiện dần.\n- **Lời–hình:** đoạn cụ thể dùng tư liệu, tới quan hệ ngân sách mới chuyển sang sơ đồ. Cờ đánh dấu đổi địa lý; mascot đánh dấu lời dẫn/điều chỉnh cách hiểu.\n- **Miễn trừ:** trong toàn caption không thấy đoạn đầu tự giới thiệu không phải chuyên gia/miễn trách nhiệm. Đoạn ~01:00 là **giới hạn một khái quát hóa**, không được tự gắn nhãn thành disclaimer chung. Mô tả YouTube có disclaimer nguồn/cá nhân riêng.\n- **Bài học:** đặt một ranh giới suy luận đúng nơi người xem có thể hiểu sai; không đọc boilerplate quá dài.",
+      "observations": {
+        "Nhịp ý": "~01:00–01:14 nói các cuộc phản đối không có một bộ máy chung; ~01:15 bắt đầu Pháp; chuyện trường thiếu giáo viên/lớp đông mở ra lao động và phúc lợi; cuối phút chạm mâu thuẫn chi tiêu–nợ.",
+        "Hình": "01:00 tư liệu đường phố; 01:05–01:10 mascot trên nền tím; 01:11.5 cờ Pháp; 01:15–01:40 ảnh học sinh/đoàn người; 01:42 nền lưới đen; 01:45–01:55 các icon sách, y tế, giao thông, tiền và nhân vật hai phía xuất hiện dần.",
+        "Lời–hình": "đoạn cụ thể dùng tư liệu, tới quan hệ ngân sách mới chuyển sang sơ đồ. Cờ đánh dấu đổi địa lý; mascot đánh dấu lời dẫn/điều chỉnh cách hiểu.",
+        "Miễn trừ": "trong toàn caption không thấy đoạn đầu tự giới thiệu không phải chuyên gia/miễn trách nhiệm. Đoạn ~01:00 là **giới hạn một khái quát hóa**, không được tự gắn nhãn thành disclaimer chung. Mô tả YouTube có disclaimer nguồn/cá nhân riêng.",
+        "Bài học": "đặt một ranh giới suy luận đúng nơi người xem có thể hiểu sai; không đọc boilerplate quá dài."
+      },
+      "sheets": [
+        "sheets/01-01.jpg",
+        "sheets/01-02.jpg"
+      ],
+      "frame_times": [
+        60.0,
+        65.0,
+        70.0,
+        71.5,
+        75.0,
+        80.0,
+        83.0,
+        85.0,
+        90.0,
+        95.0,
+        100.0,
+        102.0,
+        105.0,
+        110.0,
+        115.0
+      ]
+    },
+    {
+      "index": 2,
+      "start": 120,
+      "end": 180,
+      "title": "Giải pháp Pháp, hệ quả chính trị, chuyển Đức",
+      "notes_markdown": "- **Nhịp ý:** ~02:00–02:14 liệt kê phản ứng chính sách; ~02:15–02:29 bầu cử và cách các phe có thể khai thác bất mãn; ~02:30 chốt bài học Pháp; ~02:40 sang Đức, giới thiệu nền công nghiệp rồi giới trẻ phản đối.\n- **Hình:** icon bàn học 02:01.5, thêm công cụ sửa chữa và tòa nhà 02:10; cổng trường 02:15; hòm phiếu 02:17–02:20; nghị trường 02:25; người/cảnh đường phố với mascot 02:30–02:35; cờ Đức 02:40; dây chuyền ô tô 02:45; băng rôn Gen Z và người cầm bảng 02:50–02:55.\n- **Lời–hình:** số liệu/chính sách được chia thành ba dấu hiệu nhìn thấy, không quăng nguyên đoạn văn. Hòm phiếu thể hiện hành động bầu cử, không chỉ ảnh một chính trị gia.\n- **Giữ chú ý:** kết luận ngắn khép một nước rồi mở mâu thuẫn mới ở nước tiếp theo. Sức giữ chân là thay đổi câu hỏi, không chỉ thay background.\n- **Bài học:** mỗi tiểu mục có mở–cơ chế–hệ quả–câu chốt; câu nối nói rõ vì sao địa điểm tiếp theo còn đáng nghe.",
+      "observations": {
+        "Nhịp ý": "~02:00–02:14 liệt kê phản ứng chính sách; ~02:15–02:29 bầu cử và cách các phe có thể khai thác bất mãn; ~02:30 chốt bài học Pháp; ~02:40 sang Đức, giới thiệu nền công nghiệp rồi giới trẻ phản đối.",
+        "Hình": "icon bàn học 02:01.5, thêm công cụ sửa chữa và tòa nhà 02:10; cổng trường 02:15; hòm phiếu 02:17–02:20; nghị trường 02:25; người/cảnh đường phố với mascot 02:30–02:35; cờ Đức 02:40; dây chuyền ô tô 02:45; băng rôn Gen Z và người cầm bảng 02:50–02:55.",
+        "Lời–hình": "số liệu/chính sách được chia thành ba dấu hiệu nhìn thấy, không quăng nguyên đoạn văn. Hòm phiếu thể hiện hành động bầu cử, không chỉ ảnh một chính trị gia.",
+        "Giữ chú ý": "kết luận ngắn khép một nước rồi mở mâu thuẫn mới ở nước tiếp theo. Sức giữ chân là thay đổi câu hỏi, không chỉ thay background.",
+        "Bài học": "mỗi tiểu mục có mở–cơ chế–hệ quả–câu chốt; câu nối nói rõ vì sao địa điểm tiếp theo còn đáng nghe."
+      },
+      "sheets": [
+        "sheets/02-01.jpg",
+        "sheets/02-02.jpg"
+      ],
+      "frame_times": [
+        120.0,
+        121.5,
+        125.0,
+        130.0,
+        135.0,
+        137.0,
+        140.0,
+        143.5,
+        145.0,
+        149.5,
+        150.0,
+        155.0,
+        157.5,
+        160.0,
+        162.5,
+        165.0,
+        167.5,
+        170.0,
+        173.0,
+        175.0
+      ]
+    },
+    {
+      "index": 3,
+      "start": 180,
+      "end": 240,
+      "title": "Dịch vĩ mô thành ba nỗi lo cá nhân",
+      "notes_markdown": "- **Nhịp ý:** cạnh tranh, năng lượng, thương mại và già hóa → ba câu hỏi về việc làm/thuê nhà/ổn định; quốc phòng đối diện nhu cầu dân sinh nhưng không gom mọi người trẻ thành một phe; ~03:50 sang câu chuyện một người thuê nhà ở Madrid.\n- **Hình:** 03:05 công nghiệp; 03:09–03:10 container; 03:14–03:20 nhân vật trong căn phòng, chữ hỏi việc làm và tiền thuê xuất hiện; 03:23–03:30 hai nhân vật trên phố; 03:35 lớp học; 03:40–03:45 biểu ngữ phản chiến với mascot; 03:50 cờ Tây Ban Nha; 03:55 hình người phụ nữ giữa đám đông.\n- **Lời–hình:** hình container phục vụ chuỗi cung ứng; căn phòng phục vụ tiền thuê. Ba câu hỏi rất dễ hình dung giúp người chưa hiểu kinh tế vẫn theo được.\n- **Bài học:** sau một cụm thuật ngữ cần một tình huống đời sống; giữ câu phản biện/thận trọng, không biến mâu thuẫn ngân sách thành lựa chọn tuyệt đối.",
+      "observations": {
+        "Nhịp ý": "cạnh tranh, năng lượng, thương mại và già hóa → ba câu hỏi về việc làm/thuê nhà/ổn định; quốc phòng đối diện nhu cầu dân sinh nhưng không gom mọi người trẻ thành một phe; ~03:50 sang câu chuyện một người thuê nhà ở Madrid.",
+        "Hình": "03:05 công nghiệp; 03:09–03:10 container; 03:14–03:20 nhân vật trong căn phòng, chữ hỏi việc làm và tiền thuê xuất hiện; 03:23–03:30 hai nhân vật trên phố; 03:35 lớp học; 03:40–03:45 biểu ngữ phản chiến với mascot; 03:50 cờ Tây Ban Nha; 03:55 hình người phụ nữ giữa đám đông.",
+        "Lời–hình": "hình container phục vụ chuỗi cung ứng; căn phòng phục vụ tiền thuê. Ba câu hỏi rất dễ hình dung giúp người chưa hiểu kinh tế vẫn theo được.",
+        "Bài học": "sau một cụm thuật ngữ cần một tình huống đời sống; giữ câu phản biện/thận trọng, không biến mâu thuẫn ngân sách thành lựa chọn tuyệt đối."
+      },
+      "sheets": [
+        "sheets/03-01.jpg",
+        "sheets/03-02.jpg"
+      ],
+      "frame_times": [
+        180.0,
+        185.0,
+        189.0,
+        190.0,
+        194.5,
+        195.0,
+        200.0,
+        203.0,
+        205.0,
+        210.0,
+        215.0,
+        216.5,
+        220.0,
+        225.0,
+        229.0,
+        230.0,
+        231.5,
+        235.0
+      ]
+    },
+    {
+      "index": 4,
+      "start": 240,
+      "end": 300,
+      "title": "Nhà ở: một người → thị trường → hai chiều chính sách",
+      "notes_markdown": "- **Nhịp ý:** tăng tiền thuê và cưỡng chế → nhu cầu đô thị/du lịch → thiếu nguồn nhà → khó ra riêng/lập gia đình → thừa nhận quy hoạch, xây dựng và đầu tư cũng quan trọng.\n- **Hình:** 04:00 người phụ nữ trên cáng; 04:05–04:10 lều ở quảng trường; 04:15 phố đông du khách; 04:20 toàn cảnh khu nhà; 04:25–04:30 nhân vật ôm đầu trong phòng xuống cấp; 04:35 phòng khách du lịch; 04:40 công trường; 04:45 biểu ngữ hạ tiền thuê; 04:50 bảng rao nhà; 04:55 phố đông với mascot.\n- **Lời–hình:** chuyển luân phiên ảnh hiện thực và diễn giải 2D giúp tránh chuỗi biểu tình đơn điệu. Cảnh du khách minh họa nhu cầu, chưa đủ làm bằng chứng đo mức tác động của du lịch.\n- **Giữ chú ý:** câu chuyện cá nhân mang tải cảm xúc; sau đó mở thêm nguyên nhân để không kể một thủ phạm đơn giản.\n- **Bài học:** khi viết “không chỉ do X” phải có hình cho các yếu tố mới, không tiếp tục kéo mãi ảnh X.",
+      "observations": {
+        "Nhịp ý": "tăng tiền thuê và cưỡng chế → nhu cầu đô thị/du lịch → thiếu nguồn nhà → khó ra riêng/lập gia đình → thừa nhận quy hoạch, xây dựng và đầu tư cũng quan trọng.",
+        "Hình": "04:00 người phụ nữ trên cáng; 04:05–04:10 lều ở quảng trường; 04:15 phố đông du khách; 04:20 toàn cảnh khu nhà; 04:25–04:30 nhân vật ôm đầu trong phòng xuống cấp; 04:35 phòng khách du lịch; 04:40 công trường; 04:45 biểu ngữ hạ tiền thuê; 04:50 bảng rao nhà; 04:55 phố đông với mascot.",
+        "Lời–hình": "chuyển luân phiên ảnh hiện thực và diễn giải 2D giúp tránh chuỗi biểu tình đơn điệu. Cảnh du khách minh họa nhu cầu, chưa đủ làm bằng chứng đo mức tác động của du lịch.",
+        "Giữ chú ý": "câu chuyện cá nhân mang tải cảm xúc; sau đó mở thêm nguyên nhân để không kể một thủ phạm đơn giản.",
+        "Bài học": "khi viết “không chỉ do X” phải có hình cho các yếu tố mới, không tiếp tục kéo mãi ảnh X."
+      },
+      "sheets": [
+        "sheets/04-01.jpg",
+        "sheets/04-02.jpg"
+      ],
+      "frame_times": [
+        240.0,
+        244.5,
+        245.0,
+        250.0,
+        251.5,
+        255.0,
+        258.5,
+        260.0,
+        264.0,
+        265.0,
+        270.0,
+        275.0,
+        280.0,
+        283.0,
+        285.0,
+        287.0,
+        290.0,
+        291.5,
+        295.0,
+        299.0
+      ]
+    },
+    {
+      "index": 5,
+      "start": 300,
+      "end": 360,
+      "title": "Bồ Đào Nha và cầu nối tài trợ",
+      "notes_markdown": "- **Nhịp ý:** chuyển nước nhưng giữ đề tài khả năng chi trả nhà; chỉ số giá → người đi làm vẫn ở với cha mẹ → bài toán chính phủ → câu chốt tăng trưởng không tự làm người lao động khá hơn; ~05:52 nối người lao động sang gửi tiền về gia đình.\n- **Hình:** 05:00 cờ; 05:05 đô thị; 05:10–05:15 đoàn người; 05:20 toàn cảnh nhà với chữ mức tăng giá; 05:25–05:30 gia đình trong nhà; 05:35–05:40 nhân vật sau bàn làm việc lớn; 05:45–05:50 toàn cảnh Lisbon và mascot; 05:55 người lao động minh họa; 05:57 mở nền xanh bản đồ tài trợ.\n- **Lời–hình:** đồ họa chỉ số nằm trên hình khu nhà, nhân vật gia đình giải thích một hệ quả. Cầu nối tài trợ dựa vào chung từ khóa lao động/gia đình, không có nghĩa sản phẩm tài trợ giải quyết khủng hoảng nhà ở.\n- **Bài học:** đoạn thương mại có cầu nối ngữ nghĩa và điểm trở lại nội dung; ghi rõ vai trò tài trợ, không lẫn với bằng chứng của bài phân tích.",
+      "observations": {
+        "Nhịp ý": "chuyển nước nhưng giữ đề tài khả năng chi trả nhà; chỉ số giá → người đi làm vẫn ở với cha mẹ → bài toán chính phủ → câu chốt tăng trưởng không tự làm người lao động khá hơn; ~05:52 nối người lao động sang gửi tiền về gia đình.",
+        "Hình": "05:00 cờ; 05:05 đô thị; 05:10–05:15 đoàn người; 05:20 toàn cảnh nhà với chữ mức tăng giá; 05:25–05:30 gia đình trong nhà; 05:35–05:40 nhân vật sau bàn làm việc lớn; 05:45–05:50 toàn cảnh Lisbon và mascot; 05:55 người lao động minh họa; 05:57 mở nền xanh bản đồ tài trợ.",
+        "Lời–hình": "đồ họa chỉ số nằm trên hình khu nhà, nhân vật gia đình giải thích một hệ quả. Cầu nối tài trợ dựa vào chung từ khóa lao động/gia đình, không có nghĩa sản phẩm tài trợ giải quyết khủng hoảng nhà ở.",
+        "Bài học": "đoạn thương mại có cầu nối ngữ nghĩa và điểm trở lại nội dung; ghi rõ vai trò tài trợ, không lẫn với bằng chứng của bài phân tích."
+      },
+      "sheets": [
+        "sheets/05-01.jpg",
+        "sheets/05-02.jpg"
+      ],
+      "frame_times": [
+        300.0,
+        301.5,
+        305.0,
+        306.5,
+        310.0,
+        312.0,
+        315.0,
+        318.5,
+        320.0,
+        325.0,
+        330.0,
+        335.0,
+        340.0,
+        343.0,
+        345.0,
+        350.0,
+        352.5,
+        355.0,
+        357.0
+      ]
+    },
+    {
+      "index": 6,
+      "start": 360,
+      "end": 420,
+      "title": "Tài trợ riêng: nhận diện → độ tin → cơ chế → lợi ích",
+      "notes_markdown": "- **Nhịp ý:** thương hiệu và độ phủ được nguồn nêu → giấy phép/đối tác → cách chuyển/nhận → lợi ích phí, thời gian → kiều hối và người lao động. Đây là lời quảng bá của nguồn, chưa được nghiên cứu này xác minh.\n- **Hình:** logo và nhãn đồng hành 06:00; tòa nhà cơ quan 06:04.5; ba giấy phép vẽ biểu tượng 06:06.5; ảnh ký kết VPBank–Taptap 06:13; UI điện thoại/đồng xu 06:25–06:35; ảnh tiền và số kiều hối 06:40; minh họa bắt tay 06:45–06:50; nền xanh/mascot 06:55.\n- **Lời–hình:** có demo luồng chuyển tiền thay cho một ảnh logo giữ cả phút. Nhưng icon “giấy phép” chỉ là **hình minh họa**, không phải scan chứng nhận; ảnh ký kết không chứng minh toàn bộ các lời hứa dịch vụ.\n- **Bài học:** học thứ tự thuyết phục và khả năng minh họa thao tác; không sao chép claim, mã, ưu đãi hay giá của tài trợ.",
+      "observations": {
+        "Nhịp ý": "thương hiệu và độ phủ được nguồn nêu → giấy phép/đối tác → cách chuyển/nhận → lợi ích phí, thời gian → kiều hối và người lao động. Đây là lời quảng bá của nguồn, chưa được nghiên cứu này xác minh.",
+        "Hình": "logo và nhãn đồng hành 06:00; tòa nhà cơ quan 06:04.5; ba giấy phép vẽ biểu tượng 06:06.5; ảnh ký kết VPBank–Taptap 06:13; UI điện thoại/đồng xu 06:25–06:35; ảnh tiền và số kiều hối 06:40; minh họa bắt tay 06:45–06:50; nền xanh/mascot 06:55.",
+        "Lời–hình": "có demo luồng chuyển tiền thay cho một ảnh logo giữ cả phút. Nhưng icon “giấy phép” chỉ là **hình minh họa**, không phải scan chứng nhận; ảnh ký kết không chứng minh toàn bộ các lời hứa dịch vụ.",
+        "Bài học": "học thứ tự thuyết phục và khả năng minh họa thao tác; không sao chép claim, mã, ưu đãi hay giá của tài trợ."
+      },
+      "sheets": [
+        "sheets/06-01.jpg",
+        "sheets/06-02.jpg"
+      ],
+      "frame_times": [
+        360.0,
+        364.5,
+        365.0,
+        366.5,
+        370.0,
+        373.0,
+        375.0,
+        380.0,
+        381.5,
+        383.5,
+        385.0,
+        386.5,
+        390.0,
+        391.5,
+        395.0,
+        399.5,
+        400.0,
+        401.5,
+        403.0,
+        405.0,
+        410.0,
+        414.5,
+        415.0
+      ]
+    },
+    {
+      "index": 7,
+      "start": 420,
+      "end": 480,
+      "title": "CTA thương mại xong, trở lại mạch Ý",
+      "notes_markdown": "- **Nhịp ý:** khoảng đầu phút nêu điều kiện/mã/link; ~07:10 câu báo quay lại nội dung; tiếp tục Ý, lương/đình công/chi quốc phòng; không quy một euro quốc phòng thành đúng một euro cắt giáo dục; sau đó giải thích năng suất và việc làm.\n- **Hình:** 07:05 thẻ mã và điều kiện; 07:07 logo/link tải; 07:10 cờ Ý chồng cảnh quảng trường; 07:15–07:35 công đoàn với băng rôn; 07:40–07:45 hai nhân vật và icon quốc phòng/giáo dục; 07:50–07:55 nhà hàng/người phục vụ; 07:59.5 cảnh họp với mascot.\n- **Lời–hình:** chuyển sponsor về bài có dấu nhận diện rõ; hình nghề nghiệp giải thích năng suất/thu nhập, không chỉ tiếp tục dùng đám đông.\n- **Bài học:** có hai CTA khác nhau — thương mại giữa bài và đăng ký cuối bài. Không gộp chúng thành một chức năng hoặc bắt mọi video phải có sponsor.",
+      "observations": {
+        "Nhịp ý": "khoảng đầu phút nêu điều kiện/mã/link; ~07:10 câu báo quay lại nội dung; tiếp tục Ý, lương/đình công/chi quốc phòng; không quy một euro quốc phòng thành đúng một euro cắt giáo dục; sau đó giải thích năng suất và việc làm.",
+        "Hình": "07:05 thẻ mã và điều kiện; 07:07 logo/link tải; 07:10 cờ Ý chồng cảnh quảng trường; 07:15–07:35 công đoàn với băng rôn; 07:40–07:45 hai nhân vật và icon quốc phòng/giáo dục; 07:50–07:55 nhà hàng/người phục vụ; 07:59.5 cảnh họp với mascot.",
+        "Lời–hình": "chuyển sponsor về bài có dấu nhận diện rõ; hình nghề nghiệp giải thích năng suất/thu nhập, không chỉ tiếp tục dùng đám đông.",
+        "Bài học": "có hai CTA khác nhau — thương mại giữa bài và đăng ký cuối bài. Không gộp chúng thành một chức năng hoặc bắt mọi video phải có sponsor."
+      },
+      "sheets": [
+        "sheets/07-01.jpg",
+        "sheets/07-02.jpg"
+      ],
+      "frame_times": [
+        420.0,
+        425.0,
+        427.0,
+        430.0,
+        435.0,
+        437.5,
+        440.0,
+        444.5,
+        445.0,
+        450.0,
+        451.5,
+        455.0,
+        460.0,
+        465.0,
+        469.0,
+        470.0,
+        475.0,
+        479.5
+      ]
+    },
+    {
+      "index": 8,
+      "start": 480,
+      "end": 540,
+      "title": "Bỉ: ai gánh chi phí cải cách? Mở sang trách nhiệm Serbia",
+      "notes_markdown": "- **Nhịp ý:** kết Ý → Bỉ và ngân sách/hưu trí → tương phản mục tiêu nhà nước với nỗi lo người lao động → công bằng chi phí → mở trường hợp không xuất phát từ giá cả.\n- **Hình:** 08:00 cuộc họp; 08:05–08:10 cờ Bỉ; 08:15 đoàn người; 08:20–08:25 ví tiền và thuốc; 08:30 nghị trường; 08:35 người yếu thế trên phố; 08:40–08:45 người phát biểu; 08:50 bảng về tiền cho chiến tranh/giáo dục; 08:55 cờ Serbia; 08:58.5 cứu hộ ở công trình sập.\n- **Lời–hình:** ví cạnh thuốc cụ thể hóa hưu trí/y tế. Câu “không phải biểu tình nào cũng vì giá” tạo bản lề sang nguyên nhân khác.\n- **Bài học:** khi hết một nhóm nguyên nhân, dùng câu bản lề có đối chiếu rồi đưa trường hợp chứng minh cho nhóm tiếp theo.",
+      "observations": {
+        "Nhịp ý": "kết Ý → Bỉ và ngân sách/hưu trí → tương phản mục tiêu nhà nước với nỗi lo người lao động → công bằng chi phí → mở trường hợp không xuất phát từ giá cả.",
+        "Hình": "08:00 cuộc họp; 08:05–08:10 cờ Bỉ; 08:15 đoàn người; 08:20–08:25 ví tiền và thuốc; 08:30 nghị trường; 08:35 người yếu thế trên phố; 08:40–08:45 người phát biểu; 08:50 bảng về tiền cho chiến tranh/giáo dục; 08:55 cờ Serbia; 08:58.5 cứu hộ ở công trình sập.",
+        "Lời–hình": "ví cạnh thuốc cụ thể hóa hưu trí/y tế. Câu “không phải biểu tình nào cũng vì giá” tạo bản lề sang nguyên nhân khác.",
+        "Bài học": "khi hết một nhóm nguyên nhân, dùng câu bản lề có đối chiếu rồi đưa trường hợp chứng minh cho nhóm tiếp theo."
+      },
+      "sheets": [
+        "sheets/08-01.jpg",
+        "sheets/08-02.jpg"
+      ],
+      "frame_times": [
+        480.0,
+        485.0,
+        490.0,
+        495.0,
+        499.0,
+        500.0,
+        505.0,
+        506.5,
+        510.0,
+        514.5,
+        515.0,
+        520.0,
+        525.0,
+        527.0,
+        530.0,
+        533.5,
+        535.0,
+        537.0,
+        538.5
+      ]
+    },
+    {
+      "index": 9,
+      "start": 540,
+      "end": 600,
+      "title": "Từ thảm kịch đến cơ chế chính trị",
+      "notes_markdown": "- **Nhịp ý:** sự cố nhà ga → yêu cầu điều tra/trách nhiệm → phong trào dài hạn → nguồn kể kết quả bầu cử → phân biệt Quốc hội và Tổng thống; ~09:42 sang Albania/Hy Lạp.\n- **Hình:** 09:00 cứu hộ; 09:05–09:10 người cầm biểu ngữ; 09:15 đám đông nhìn từ cao; 09:20 sân khấu; 09:25–09:40 hai nhân vật và phần trăm/ghế với nhãn Reuters; 09:45 hai cờ; 09:50 biểu tình ven biển; 09:55 đảo và phối cảnh phát triển.\n- **Lời–hình:** tách tỷ lệ phiếu và số ghế thành các lần xuất hiện; nhân vật đại diện là ký hiệu, không phải chứng cứ. Nhãn Reuters hiện trong hình **không thay việc truy nguồn gốc và kiểm chứng số liệu**.\n- **Giữ chú ý:** người xem được một hệ quả hữu hình của sự bất mãn; caveat giữ hệ quả trong đúng phạm vi.\n- **Bài học:** luôn nối dữ kiện với ý nghĩa rồi giới hạn ý nghĩa; không để infographic tạo vẻ chắc chắn hơn nguồn thật.",
+      "observations": {
+        "Nhịp ý": "sự cố nhà ga → yêu cầu điều tra/trách nhiệm → phong trào dài hạn → nguồn kể kết quả bầu cử → phân biệt Quốc hội và Tổng thống; ~09:42 sang Albania/Hy Lạp.",
+        "Hình": "09:00 cứu hộ; 09:05–09:10 người cầm biểu ngữ; 09:15 đám đông nhìn từ cao; 09:20 sân khấu; 09:25–09:40 hai nhân vật và phần trăm/ghế với nhãn Reuters; 09:45 hai cờ; 09:50 biểu tình ven biển; 09:55 đảo và phối cảnh phát triển.",
+        "Lời–hình": "tách tỷ lệ phiếu và số ghế thành các lần xuất hiện; nhân vật đại diện là ký hiệu, không phải chứng cứ. Nhãn Reuters hiện trong hình **không thay việc truy nguồn gốc và kiểm chứng số liệu**.",
+        "Giữ chú ý": "người xem được một hệ quả hữu hình của sự bất mãn; caveat giữ hệ quả trong đúng phạm vi.",
+        "Bài học": "luôn nối dữ kiện với ý nghĩa rồi giới hạn ý nghĩa; không để infographic tạo vẻ chắc chắn hơn nguồn thật."
+      },
+      "sheets": [
+        "sheets/09-01.jpg",
+        "sheets/09-02.jpg"
+      ],
+      "frame_times": [
+        540.0,
+        543.5,
+        545.0,
+        550.0,
+        551.5,
+        555.0,
+        557.0,
+        560.0,
+        565.0,
+        570.0,
+        575.0,
+        580.0,
+        582.0,
+        585.0,
+        588.5,
+        590.0,
+        594.0,
+        595.0
+      ]
+    },
+    {
+      "index": 10,
+      "start": 600,
+      "end": 660,
+      "title": "Khép bản đồ các nước, mở các nguyên nhân chung",
+      "notes_markdown": "- **Nhịp ý:** Albania và Hy Lạp → trách nhiệm với hạ tầng/công quyền → ~10:28 mascot tổng hợp → nhóm nguyên nhân giá sinh hoạt → sửa hiểu nhầm “lạm phát giảm = giá giảm”.\n- **Hình:** 10:00 đảo; 10:05 cảnh đối đầu; 10:10 cờ/đoàn người Albania; 10:15–10:20 đám đông và biểu ngữ Hy Lạp; 10:25 tai nạn đường sắt nhìn từ cao; 10:30 mascot nền tím; 10:35 nhãn #1 trên hình chống dịch; 10:40 vũ khí; 10:45–10:50 siêu thị; 10:55 giỏ hàng nền trắng.\n- **Lời–hình:** chuyển từ atlas trường hợp sang chương cơ chế bằng thay nền/ngôn ngữ đồ họa. Giỏ hàng chuẩn bị ví dụ số, không giữ ảnh chiến tranh khi nói cách hiểu giá cả.\n- **Bài học:** cứ vài tiểu mục cần một câu gom ý và một đổi cấp độ lý giải, không chỉ thêm ví dụ cùng cấp vô tận.",
+      "observations": {
+        "Nhịp ý": "Albania và Hy Lạp → trách nhiệm với hạ tầng/công quyền → ~10:28 mascot tổng hợp → nhóm nguyên nhân giá sinh hoạt → sửa hiểu nhầm “lạm phát giảm = giá giảm”.",
+        "Hình": "10:00 đảo; 10:05 cảnh đối đầu; 10:10 cờ/đoàn người Albania; 10:15–10:20 đám đông và biểu ngữ Hy Lạp; 10:25 tai nạn đường sắt nhìn từ cao; 10:30 mascot nền tím; 10:35 nhãn #1 trên hình chống dịch; 10:40 vũ khí; 10:45–10:50 siêu thị; 10:55 giỏ hàng nền trắng.",
+        "Lời–hình": "chuyển từ atlas trường hợp sang chương cơ chế bằng thay nền/ngôn ngữ đồ họa. Giỏ hàng chuẩn bị ví dụ số, không giữ ảnh chiến tranh khi nói cách hiểu giá cả.",
+        "Bài học": "cứ vài tiểu mục cần một câu gom ý và một đổi cấp độ lý giải, không chỉ thêm ví dụ cùng cấp vô tận."
+      },
+      "sheets": [
+        "sheets/10-01.jpg",
+        "sheets/10-02.jpg"
+      ],
+      "frame_times": [
+        600.0,
+        602.0,
+        605.0,
+        608.0,
+        610.0,
+        615.0,
+        620.0,
+        622.0,
+        625.0,
+        628.5,
+        630.0,
+        634.0,
+        635.0,
+        637.5,
+        640.0,
+        643.0,
+        645.0,
+        650.0,
+        654.0,
+        655.0
+      ]
+    },
+    {
+      "index": 11,
+      "start": 660,
+      "end": 720,
+      "title": "Giải thích số liệu trước, rồi mở bài toán nhà ở",
+      "notes_markdown": "- **Nhịp ý:** ví dụ giỏ hàng 100→120 làm rõ mức giá và tốc độ tăng; số liệu lạm phát/năng lượng; hộ thu nhập thấp chịu sức ép; ~11:35 sang giá nhà, tiền thuê và nguồn cung.\n- **Hình:** 11:00–11:05 giỏ hàng, mũi tên và hai nhân vật; 11:10–11:30 hai chỉ số, icon nhiên liệu và gia đình, nhãn Eurostat; 11:35 thẻ chương #2 trên ảnh đô thị; 11:40–11:50 icon mua/thuê nhà với mức tăng; 11:55 đất, giấy tờ và vật liệu xuất hiện.\n- **Lời–hình:** lượng thông tin tăng theo đúng quan hệ đang giải thích; cùng một hệ hình được giữ đủ lâu để đọc. Chữ/đơn vị có chức năng, không phủ toàn bộ lời thoại.\n- **Bài học:** một ví dụ số nhỏ nhìn thấy được tốt hơn nhiều biểu đồ trang trí; đơn vị, khoảng thời gian, nguồn và phạm vi phải đúng, không chỉ con số nổi bật.",
+      "observations": {
+        "Nhịp ý": "ví dụ giỏ hàng 100→120 làm rõ mức giá và tốc độ tăng; số liệu lạm phát/năng lượng; hộ thu nhập thấp chịu sức ép; ~11:35 sang giá nhà, tiền thuê và nguồn cung.",
+        "Hình": "11:00–11:05 giỏ hàng, mũi tên và hai nhân vật; 11:10–11:30 hai chỉ số, icon nhiên liệu và gia đình, nhãn Eurostat; 11:35 thẻ chương #2 trên ảnh đô thị; 11:40–11:50 icon mua/thuê nhà với mức tăng; 11:55 đất, giấy tờ và vật liệu xuất hiện.",
+        "Lời–hình": "lượng thông tin tăng theo đúng quan hệ đang giải thích; cùng một hệ hình được giữ đủ lâu để đọc. Chữ/đơn vị có chức năng, không phủ toàn bộ lời thoại.",
+        "Bài học": "một ví dụ số nhỏ nhìn thấy được tốt hơn nhiều biểu đồ trang trí; đơn vị, khoảng thời gian, nguồn và phạm vi phải đúng, không chỉ con số nổi bật."
+      },
+      "sheets": [
+        "sheets/11-01.jpg",
+        "sheets/11-02.jpg"
+      ],
+      "frame_times": [
+        660.0,
+        665.0,
+        666.5,
+        670.0,
+        675.0,
+        680.0,
+        685.0,
+        690.0,
+        695.0,
+        698.5,
+        700.0,
+        705.0,
+        710.0,
+        715.0
+      ]
+    },
+    {
+      "index": 12,
+      "start": 720,
+      "end": 780,
+      "title": "Đánh đổi chính sách và niềm tin người trẻ",
+      "notes_markdown": "- **Nhịp ý:** nguồn cung nhà bị cản → hai giải pháp đơn lẻ đều có giới hạn → cần phối hợp và độ trễ → ~12:30 câu hỏi người trẻ có tin tương lai → khảo sát/nghèo/cơ hội.\n- **Hình:** 12:00 đất/giấy/vật liệu với nhân vật; 12:05–12:25 hai icon và dòng điều kiện tương phản, mascot; 12:30–12:35 nhóm người trẻ lo lắng ở bàn; 12:40–12:55 nhân vật và số liệu với nhãn Eurobarometer/Eurostat.\n- **Lời–hình:** so sánh hai vế cho phép thấy vì sao giải pháp dễ nghe chưa đủ. Không cần tạo dashboard dày đặc để thể hiện mệnh đề điều kiện.\n- **Bài học:** sau giải pháp phải có giới hạn và thời gian phát huy hiệu quả; sau số liệu phải quay về con người chịu ảnh hưởng.",
+      "observations": {
+        "Nhịp ý": "nguồn cung nhà bị cản → hai giải pháp đơn lẻ đều có giới hạn → cần phối hợp và độ trễ → ~12:30 câu hỏi người trẻ có tin tương lai → khảo sát/nghèo/cơ hội.",
+        "Hình": "12:00 đất/giấy/vật liệu với nhân vật; 12:05–12:25 hai icon và dòng điều kiện tương phản, mascot; 12:30–12:35 nhóm người trẻ lo lắng ở bàn; 12:40–12:55 nhân vật và số liệu với nhãn Eurobarometer/Eurostat.",
+        "Lời–hình": "so sánh hai vế cho phép thấy vì sao giải pháp dễ nghe chưa đủ. Không cần tạo dashboard dày đặc để thể hiện mệnh đề điều kiện.",
+        "Bài học": "sau giải pháp phải có giới hạn và thời gian phát huy hiệu quả; sau số liệu phải quay về con người chịu ảnh hưởng."
+      },
+      "sheets": [
+        "sheets/12-01.jpg"
+      ],
+      "frame_times": [
+        720.0,
+        725.0,
+        730.0,
+        735.0,
+        740.0,
+        745.0,
+        750.0,
+        755.0,
+        760.0,
+        765.0,
+        770.0,
+        775.0
+      ]
+    },
+    {
+      "index": 13,
+      "start": 780,
+      "end": 840,
+      "title": "Từ nỗi lo thế hệ đến trải nghiệm dịch vụ công",
+      "notes_markdown": "- **Nhịp ý:** thất nghiệp/cơ hội → tiếng nói của giới trẻ → phúc lợi và nguồn thu → dân số già/tăng trưởng chậm → người dân đánh giá qua việc phải chờ và chất lượng phục vụ.\n- **Hình:** 13:00 cặp số trên nền trắng; 13:05–13:15 biểu ngữ người trẻ; 13:20 thẻ #4 trên quầy dịch vụ; 13:25 bệnh viện; 13:30 quầy tiếp dân; 13:35 phòng chờ; 13:40 phản đối thuế; 13:50–13:55 icon trường, bệnh viện, xe buýt và nhân vật.\n- **Lời–hình:** hình bệnh viện khi nói y tế, phòng chờ khi nói chờ — quan hệ chủ thể/hành động cụ thể. Dù vậy tư liệu thiếu caption địa điểm/ngày không đủ chứng minh đúng bệnh viện/quốc gia được nhắc.\n- **Bài học:** nhịp “chỉ số → trải nghiệm” làm nội dung dễ hiểu; mỗi ví dụ đời sống cần vật thể/hành động đúng trong khung hình.",
+      "observations": {
+        "Nhịp ý": "thất nghiệp/cơ hội → tiếng nói của giới trẻ → phúc lợi và nguồn thu → dân số già/tăng trưởng chậm → người dân đánh giá qua việc phải chờ và chất lượng phục vụ.",
+        "Hình": "13:00 cặp số trên nền trắng; 13:05–13:15 biểu ngữ người trẻ; 13:20 thẻ #4 trên quầy dịch vụ; 13:25 bệnh viện; 13:30 quầy tiếp dân; 13:35 phòng chờ; 13:40 phản đối thuế; 13:50–13:55 icon trường, bệnh viện, xe buýt và nhân vật.",
+        "Lời–hình": "hình bệnh viện khi nói y tế, phòng chờ khi nói chờ — quan hệ chủ thể/hành động cụ thể. Dù vậy tư liệu thiếu caption địa điểm/ngày không đủ chứng minh đúng bệnh viện/quốc gia được nhắc.",
+        "Bài học": "nhịp “chỉ số → trải nghiệm” làm nội dung dễ hiểu; mỗi ví dụ đời sống cần vật thể/hành động đúng trong khung hình."
+      },
+      "sheets": [
+        "sheets/13-01.jpg",
+        "sheets/13-02.jpg"
+      ],
+      "frame_times": [
+        780.0,
+        782.0,
+        785.0,
+        789.0,
+        790.0,
+        795.0,
+        796.5,
+        800.0,
+        802.0,
+        805.0,
+        807.0,
+        810.0,
+        811.5,
+        815.0,
+        818.5,
+        820.0,
+        823.5,
+        825.0,
+        830.0,
+        835.0
+      ]
+    },
+    {
+      "index": 14,
+      "start": 840,
+      "end": 900,
+      "title": "Giới hạn kết luận sụp đổ, sau đó quốc phòng và nguồn lực",
+      "notes_markdown": "- **Nhịp ý:** không nói phúc lợi sụp đổ → cần cải cách công bằng → an ninh/năng lượng/chi quốc phòng → ba câu hỏi chi để làm gì, tiền từ đâu, kết quả ra sao → mở thế hệ.\n- **Hình:** 14:00 sơ đồ dịch vụ; 14:05 tòa nhà an sinh với mascot; 14:15 #5 trên hình quân sự; 14:20 đường ống; 14:25 bản đồ eo biển; 14:30–14:35 mô hình xe tăng/tiền Euro và chữ số; 14:40–14:45 nhân vật/icon tăng; 14:50 tiền; 14:55 ba câu hỏi quanh tiền.\n- **Lời–hình:** đổi quân sự→năng lượng→địa lý→ngân sách theo chuỗi nhân quả. Xe tăng trên tiền là ẩn dụ, không được ghi như ảnh chứng minh mức chi thật.\n- **Lỗi cần giữ hồ sơ:** tại mẫu **14:35**, chữ nhìn thấy là “NĂM 2025 / ~454 TỶ EURO”, trong khi caption đoạn này phân biệt 418 cho 2025 và 454 cho 2026. Cần kiểm tra nguồn/audio gốc trước khi tái sử dụng; không âm thầm chọn một bản. Bản nghiên cứu chỉ ghi nhận sự không khớp.\n- **Bài học:** nguồn tham khảo tốt vẫn có thể lệch số/năm; kiểm lời–hình cả về nghĩa lẫn giá trị/đơn vị.",
+      "observations": {
+        "Nhịp ý": "không nói phúc lợi sụp đổ → cần cải cách công bằng → an ninh/năng lượng/chi quốc phòng → ba câu hỏi chi để làm gì, tiền từ đâu, kết quả ra sao → mở thế hệ.",
+        "Hình": "14:00 sơ đồ dịch vụ; 14:05 tòa nhà an sinh với mascot; 14:15 #5 trên hình quân sự; 14:20 đường ống; 14:25 bản đồ eo biển; 14:30–14:35 mô hình xe tăng/tiền Euro và chữ số; 14:40–14:45 nhân vật/icon tăng; 14:50 tiền; 14:55 ba câu hỏi quanh tiền.",
+        "Lời–hình": "đổi quân sự→năng lượng→địa lý→ngân sách theo chuỗi nhân quả. Xe tăng trên tiền là ẩn dụ, không được ghi như ảnh chứng minh mức chi thật.",
+        "Lỗi cần giữ hồ sơ": "tại mẫu **14:35**, chữ nhìn thấy là “NĂM 2025 / ~454 TỶ EURO”, trong khi caption đoạn này phân biệt 418 cho 2025 và 454 cho 2026. Cần kiểm tra nguồn/audio gốc trước khi tái sử dụng; không âm thầm chọn một bản. Bản nghiên cứu chỉ ghi nhận sự không khớp.",
+        "Bài học": "nguồn tham khảo tốt vẫn có thể lệch số/năm; kiểm lời–hình cả về nghĩa lẫn giá trị/đơn vị."
+      },
+      "sheets": [
+        "sheets/14-01.jpg",
+        "sheets/14-02.jpg"
+      ],
+      "frame_times": [
+        840.0,
+        845.0,
+        850.0,
+        855.0,
+        858.0,
+        860.0,
+        863.5,
+        865.0,
+        870.0,
+        875.0,
+        878.0,
+        880.0,
+        885.0,
+        890.0,
+        895.0
+      ]
+    },
+    {
+      "index": 15,
+      "start": 900,
+      "end": 960,
+      "title": "Đánh đổi giữa thế hệ và niềm tin",
+      "notes_markdown": "- **Nhịp ý:** người trẻ đóng góp và lo quyền lợi tương lai → nhắc người cao tuổi từng đóng góp và gia đình hỗ trợ hai chiều → ~15:27 niềm tin chính quyền → dữ kiện vĩ mô so với trải nghiệm → quay lại nhà ga/trách nhiệm.\n- **Hình:** 15:00 thẻ chênh lệch thế hệ; 15:05 người cao tuổi trên phố; 15:10 gia đình với hóa đơn; 15:15–15:25 hai thế hệ minh họa; 15:30–15:35 diễn giả giữa khán phòng; 15:40 cảnh xô xát; 15:45 người xếp hàng; 15:50 cứu hộ; 15:55 biểu ngữ trách nhiệm.\n- **Lời–hình:** gọi lại một trường hợp đã kể ở phút9 thay vì mở thêm dữ kiện xa lạ. Phản biện về người cao tuổi tránh dựng đối thủ rơm.\n- **Bài học:** dùng callback để tăng mạch liên kết; mỗi lời “tuy nhiên” cần thực sự bổ sung góc nhìn khác, không chỉ làm câu nghe cân bằng.",
+      "observations": {
+        "Nhịp ý": "người trẻ đóng góp và lo quyền lợi tương lai → nhắc người cao tuổi từng đóng góp và gia đình hỗ trợ hai chiều → ~15:27 niềm tin chính quyền → dữ kiện vĩ mô so với trải nghiệm → quay lại nhà ga/trách nhiệm.",
+        "Hình": "15:00 thẻ chênh lệch thế hệ; 15:05 người cao tuổi trên phố; 15:10 gia đình với hóa đơn; 15:15–15:25 hai thế hệ minh họa; 15:30–15:35 diễn giả giữa khán phòng; 15:40 cảnh xô xát; 15:45 người xếp hàng; 15:50 cứu hộ; 15:55 biểu ngữ trách nhiệm.",
+        "Lời–hình": "gọi lại một trường hợp đã kể ở phút9 thay vì mở thêm dữ kiện xa lạ. Phản biện về người cao tuổi tránh dựng đối thủ rơm.",
+        "Bài học": "dùng callback để tăng mạch liên kết; mỗi lời “tuy nhiên” cần thực sự bổ sung góc nhìn khác, không chỉ làm câu nghe cân bằng."
+      },
+      "sheets": [
+        "sheets/15-01.jpg",
+        "sheets/15-02.jpg"
+      ],
+      "frame_times": [
+        900.0,
+        903.0,
+        905.0,
+        907.0,
+        910.0,
+        915.0,
+        920.0,
+        925.0,
+        926.5,
+        928.0,
+        929.5,
+        930.0,
+        935.0,
+        936.5,
+        940.0,
+        945.0,
+        948.0,
+        950.0,
+        952.0,
+        955.0,
+        956.5
+      ]
+    },
+    {
+      "index": 16,
+      "start": 960,
+      "end": 1020,
+      "title": "Đối thoại, lan truyền và câu hỏi bạo lực",
+      "notes_markdown": "- **Nhịp ý:** lắng nghe/thương lượng → khủng hoảng khi mất đối thoại → mạng xã hội làm thông tin lan nhanh → ba ví dụ video → nhận ra vấn đề tương tự → câu hỏi vì sao có bạo lực, không đồng nhất toàn bộ phong trào với bạo lực.\n- **Hình:** 16:00 đám đông; 16:05 bàn đối thoại; 16:10 lửa; 16:15–16:20 phát biểu ở hội nghị; 16:25 mạng kết nối; 16:30–16:45 ba icon video và nhãn trường xuống cấp/cưỡng chế/tuần hành; 16:50–16:55 tư liệu lửa và cảnh sát.\n- **Lời–hình:** ba icon có nhãn diễn đạt **loại ví dụ giả định/khái quát**, không phải ba clip bằng chứng thật. Đừng gọi hình biểu tượng này là footage của chính ba sự kiện.\n- **Bài học:** với cơ chế thông tin lan truyền, sơ đồ ngắn có ích; khi chuyển sang hậu quả thật, quay về tư liệu phù hợp.",
+      "observations": {
+        "Nhịp ý": "lắng nghe/thương lượng → khủng hoảng khi mất đối thoại → mạng xã hội làm thông tin lan nhanh → ba ví dụ video → nhận ra vấn đề tương tự → câu hỏi vì sao có bạo lực, không đồng nhất toàn bộ phong trào với bạo lực.",
+        "Hình": "16:00 đám đông; 16:05 bàn đối thoại; 16:10 lửa; 16:15–16:20 phát biểu ở hội nghị; 16:25 mạng kết nối; 16:30–16:45 ba icon video và nhãn trường xuống cấp/cưỡng chế/tuần hành; 16:50–16:55 tư liệu lửa và cảnh sát.",
+        "Lời–hình": "ba icon có nhãn diễn đạt **loại ví dụ giả định/khái quát**, không phải ba clip bằng chứng thật. Đừng gọi hình biểu tượng này là footage của chính ba sự kiện.",
+        "Bài học": "với cơ chế thông tin lan truyền, sơ đồ ngắn có ích; khi chuyển sang hậu quả thật, quay về tư liệu phù hợp."
+      },
+      "sheets": [
+        "sheets/16-01.jpg",
+        "sheets/16-02.jpg"
+      ],
+      "frame_times": [
+        960.0,
+        961.5,
+        965.0,
+        970.0,
+        975.0,
+        980.0,
+        985.0,
+        987.0,
+        990.0,
+        995.0,
+        1000.0,
+        1005.0,
+        1009.5,
+        1010.0,
+        1015.0
+      ]
+    },
+    {
+      "index": 17,
+      "start": 1020,
+      "end": 1080,
+      "title": "Phân loại thành phần và bốn cơ chế leo thang",
+      "notes_markdown": "- **Nhịp ý:** nhiều thành phần trong một đám đông → bốn cơ chế: tích tụ bất mãn, nhóm có cách hành động khác, tương tác với lực lượng an ninh, cảm xúc mạng xã hội → mở hệ quả với chính phủ.\n- **Hình:** 17:05–17:15 lần lượt thêm các nhân vật đại diện; 17:20–17:25 nhãn #1 trên đối đầu cảnh sát; 17:30–17:35 #2 trên nhóm che mặt; 17:40–17:45 #3 trên tương tác cận cảnh; 17:50–17:55 #4 trên người quay điện thoại; 17:58.5 nền trắng chia cột.\n- **Lời–hình:** nhóm chủ thể có một hình tương ứng và số thứ tự. Tư liệu một nhóm không chứng minh họ thuộc nhóm có hành vi phạm pháp, cần tránh gán tội từ hình minh họa.\n- **Giữ chú ý:** trả lời câu hỏi phụ đã hứa ở cuối phút16, rồi chuẩn bị chuyển từ nguyên nhân sang hệ quả.\n- **Bài học:** danh sách nên có một nguyên tắc phân loại và một nhịp thống nhất; không thêm nhãn số cho mọi câu nhỏ.",
+      "observations": {
+        "Nhịp ý": "nhiều thành phần trong một đám đông → bốn cơ chế: tích tụ bất mãn, nhóm có cách hành động khác, tương tác với lực lượng an ninh, cảm xúc mạng xã hội → mở hệ quả với chính phủ.",
+        "Hình": "17:05–17:15 lần lượt thêm các nhân vật đại diện; 17:20–17:25 nhãn #1 trên đối đầu cảnh sát; 17:30–17:35 #2 trên nhóm che mặt; 17:40–17:45 #3 trên tương tác cận cảnh; 17:50–17:55 #4 trên người quay điện thoại; 17:58.5 nền trắng chia cột.",
+        "Lời–hình": "nhóm chủ thể có một hình tương ứng và số thứ tự. Tư liệu một nhóm không chứng minh họ thuộc nhóm có hành vi phạm pháp, cần tránh gán tội từ hình minh họa.",
+        "Giữ chú ý": "trả lời câu hỏi phụ đã hứa ở cuối phút16, rồi chuẩn bị chuyển từ nguyên nhân sang hệ quả.",
+        "Bài học": "danh sách nên có một nguyên tắc phân loại và một nhịp thống nhất; không thêm nhãn số cho mọi câu nhỏ."
+      },
+      "sheets": [
+        "sheets/17-01.jpg",
+        "sheets/17-02.jpg"
+      ],
+      "frame_times": [
+        1020.0,
+        1025.0,
+        1030.0,
+        1032.0,
+        1033.5,
+        1035.0,
+        1039.0,
+        1040.0,
+        1045.0,
+        1048.0,
+        1050.0,
+        1055.0,
+        1057.5,
+        1060.0,
+        1065.0,
+        1070.0,
+        1075.0,
+        1078.5
+      ]
+    },
+    {
+      "index": 18,
+      "start": 1080,
+      "end": 1140,
+      "title": "Hai phía chịu hệ quả, ba kịch bản có điều kiện",
+      "notes_markdown": "- **Nhịp ý:** duy trì trật tự/quyền biểu tình và phản ứng tương xứng → bạo lực làm lu mờ yêu cầu của người biểu tình → ba tương lai: hạ nhiệt, từng đợt kéo dài, khủng hoảng nặng hơn; mỗi kịch bản có điều kiện chứ không tiên đoán chắc chắn.\n- **Hình:** 18:00–18:25 hai cột chính phủ/người biểu tình, nhân vật và bullet xuất hiện dần; 18:30 phố yên hơn cho kịch bản1; 18:40 đoàn người cho kịch bản2; 18:50 lửa cho kịch bản3; 18:58.5 mascot nền tím.\n- **Lời–hình:** độ căng của hình khác nhau làm ba khả năng dễ phân biệt; bản thân ảnh không nói xác suất. Bố cục hai cột chỉ dùng lúc có hai góc nhìn cần so sánh, không biến thành giao diện cố định cho cả video.\n- **Bài học:** tương lai phải viết bằng điều kiện và mối quan hệ, không chỉ ba lời đoán; giảm chữ ở bố cục nhỏ để đọc trên điện thoại.",
+      "observations": {
+        "Nhịp ý": "duy trì trật tự/quyền biểu tình và phản ứng tương xứng → bạo lực làm lu mờ yêu cầu của người biểu tình → ba tương lai: hạ nhiệt, từng đợt kéo dài, khủng hoảng nặng hơn; mỗi kịch bản có điều kiện chứ không tiên đoán chắc chắn.",
+        "Hình": "18:00–18:25 hai cột chính phủ/người biểu tình, nhân vật và bullet xuất hiện dần; 18:30 phố yên hơn cho kịch bản1; 18:40 đoàn người cho kịch bản2; 18:50 lửa cho kịch bản3; 18:58.5 mascot nền tím.",
+        "Lời–hình": "độ căng của hình khác nhau làm ba khả năng dễ phân biệt; bản thân ảnh không nói xác suất. Bố cục hai cột chỉ dùng lúc có hai góc nhìn cần so sánh, không biến thành giao diện cố định cho cả video.",
+        "Bài học": "tương lai phải viết bằng điều kiện và mối quan hệ, không chỉ ba lời đoán; giảm chữ ở bố cục nhỏ để đọc trên điện thoại."
+      },
+      "sheets": [
+        "sheets/18-01.jpg",
+        "sheets/18-02.jpg"
+      ],
+      "frame_times": [
+        1080.0,
+        1085.0,
+        1090.0,
+        1095.0,
+        1100.0,
+        1105.0,
+        1110.0,
+        1115.0,
+        1117.0,
+        1120.0,
+        1125.0,
+        1128.0,
+        1130.0,
+        1135.0,
+        1138.5
+      ]
+    },
+    {
+      "index": 19,
+      "start": 1140,
+      "end": 1200,
+      "title": "Giải pháp và trả lời lại tiêu đề",
+      "notes_markdown": "- **Nhịp ý:** hỗ trợ đúng người, nhà phù hợp thu nhập, bảo vệ người thuê, giáo dục → hỏi lại có phải châu Âu sụp đổ → nêu nền tảng còn mạnh → gom năm bài toán dài hạn.\n- **Hình:** 19:05–19:20 bốn icon giải pháp xuất hiện lần lượt; 19:25–19:45 cảnh đường phố, thùng rác và lửa, có hành động thay đổi rõ giữa các mẫu; 19:50–19:55 nền lưới và năm bullet với mascot.\n- **Lời–hình:** giải pháp có danh mục trực quan; tư liệu đường phố làm nền chuyển sang kết luận, không đủ tự chứng minh cả nền kinh tế đang mạnh hay yếu. Tại phần tóm tắt, chữ về “khôi phục chính quyền” không tương đương hoàn toàn với lời nói về **niềm tin vào chính quyền**; đây là điểm cần biên tập cẩn thận khi rút gọn.\n- **Bài học:** sau nhiều chi tiết cần quay lại chính câu hỏi của tiêu đề; headline không được làm mất sắc thái của câu nói.",
+      "observations": {
+        "Nhịp ý": "hỗ trợ đúng người, nhà phù hợp thu nhập, bảo vệ người thuê, giáo dục → hỏi lại có phải châu Âu sụp đổ → nêu nền tảng còn mạnh → gom năm bài toán dài hạn.",
+        "Hình": "19:05–19:20 bốn icon giải pháp xuất hiện lần lượt; 19:25–19:45 cảnh đường phố, thùng rác và lửa, có hành động thay đổi rõ giữa các mẫu; 19:50–19:55 nền lưới và năm bullet với mascot.",
+        "Lời–hình": "giải pháp có danh mục trực quan; tư liệu đường phố làm nền chuyển sang kết luận, không đủ tự chứng minh cả nền kinh tế đang mạnh hay yếu. Tại phần tóm tắt, chữ về “khôi phục chính quyền” không tương đương hoàn toàn với lời nói về **niềm tin vào chính quyền**; đây là điểm cần biên tập cẩn thận khi rút gọn.",
+        "Bài học": "sau nhiều chi tiết cần quay lại chính câu hỏi của tiêu đề; headline không được làm mất sắc thái của câu nói."
+      },
+      "sheets": [
+        "sheets/19-01.jpg",
+        "sheets/19-02.jpg"
+      ],
+      "frame_times": [
+        1140.0,
+        1145.0,
+        1150.0,
+        1155.0,
+        1160.0,
+        1165.0,
+        1166.5,
+        1168.0,
+        1169.5,
+        1170.0,
+        1173.0,
+        1175.0,
+        1180.0,
+        1182.5,
+        1184.0,
+        1185.0,
+        1190.0,
+        1195.0
+      ]
+    },
+    {
+      "index": 20,
+      "start": 1200,
+      "end": 1251,
+      "title": "Tổng hợp luận điểm, câu chốt và CTA",
+      "notes_markdown": "- **Nhịp ý:** ~20:00–20:46 gom bản chất thành khoảng cách giữa thịnh vượng được hứa và đời sống cảm nhận; kết bằng yêu cầu giữ cơ hội tương lai; ~20:46 trở đi người kể xưng tên, mời đăng ký và chào.\n- **Hình:** 20:00 danh mục còn giữ trên nền lưới; 20:05–20:10 đường phố; 20:15–20:20 thành phố/ven sông; 20:25 người đi bộ; 20:30–20:35 biểu ngữ EU; 20:40–20:45 hội nghị và mascot; 20:50 giao diện đăng ký Lóng.\n- **Lời–hình:** từ hình các trường hợp quay lại con người và không gian xã hội; CTA có hình hành động đăng ký, không chỉ một logo. Không cắt cụt câu chốt để nhét outro.\n- **Bài học:** trả đủ lời hứa nội dung trước khi yêu cầu hành động; CTA cuối ngắn và cụ thể, khác CTA thương mại giữa bài.",
+      "observations": {
+        "Nhịp ý": "~20:00–20:46 gom bản chất thành khoảng cách giữa thịnh vượng được hứa và đời sống cảm nhận; kết bằng yêu cầu giữ cơ hội tương lai; ~20:46 trở đi người kể xưng tên, mời đăng ký và chào.",
+        "Hình": "20:00 danh mục còn giữ trên nền lưới; 20:05–20:10 đường phố; 20:15–20:20 thành phố/ven sông; 20:25 người đi bộ; 20:30–20:35 biểu ngữ EU; 20:40–20:45 hội nghị và mascot; 20:50 giao diện đăng ký Lóng.",
+        "Lời–hình": "từ hình các trường hợp quay lại con người và không gian xã hội; CTA có hình hành động đăng ký, không chỉ một logo. Không cắt cụt câu chốt để nhét outro.",
+        "Bài học": "trả đủ lời hứa nội dung trước khi yêu cầu hành động; CTA cuối ngắn và cụ thể, khác CTA thương mại giữa bài."
+      },
+      "sheets": [
+        "sheets/20-01.jpg",
+        "sheets/20-02.jpg"
+      ],
+      "frame_times": [
+        1200.0,
+        1202.5,
+        1204.5,
+        1205.0,
+        1206.5,
+        1208.0,
+        1209.5,
+        1210.0,
+        1211.5,
+        1213.0,
+        1215.0,
+        1220.0,
+        1224.0,
+        1225.0,
+        1230.0,
+        1231.5,
+        1233.0,
+        1234.5,
+        1235.0,
+        1240.0,
+        1245.0,
+        1250.0
+      ]
+    }
+  ],
+  "semantic_beats": [
+    {
+      "start": 0,
+      "end": 44,
+      "function": "hook-cases",
+      "meaning": "Paris rồi nhiều nước: biểu hiện khác nhau của bất mãn",
+      "timing": "approximate"
+    },
+    {
+      "start": 44,
+      "end": 60.4,
+      "function": "central-question",
+      "meaning": "Nghịch lý thịnh vượng và phản đối",
+      "timing": "approximate"
+    },
+    {
+      "start": 60.4,
+      "end": 71.9,
+      "function": "scope-caveat",
+      "meaning": "Không quy mọi phong trào thành một bộ máy chung",
+      "timing": "approximate"
+    },
+    {
+      "start": 71.9,
+      "end": 102,
+      "function": "case-France",
+      "meaning": "Trường học và lan sang nhu cầu lao động",
+      "timing": "approximate"
+    },
+    {
+      "start": 102,
+      "end": 121.5,
+      "function": "mechanism",
+      "meaning": "Dịch vụ công đối diện giới hạn ngân sách",
+      "timing": "approximate"
+    },
+    {
+      "start": 121.5,
+      "end": 135,
+      "function": "response",
+      "meaning": "Các đề xuất xử lý được tách thành icon",
+      "timing": "approximate"
+    },
+    {
+      "start": 135,
+      "end": 150,
+      "function": "consequence",
+      "meaning": "Hệ quả bầu cử và an ninh",
+      "timing": "approximate"
+    },
+    {
+      "start": 150,
+      "end": 160,
+      "function": "mini-conclusion",
+      "meaning": "Chốt khoảng cách nhu cầu với khả năng chi",
+      "timing": "approximate"
+    },
+    {
+      "start": 160,
+      "end": 194,
+      "function": "case-Germany",
+      "meaning": "Công nghiệp mạnh vẫn gặp khó chuyển đổi",
+      "timing": "approximate"
+    },
+    {
+      "start": 194,
+      "end": 216,
+      "function": "daily-stakes",
+      "meaning": "Ba câu hỏi việc làm, thuê nhà, ổn định",
+      "timing": "approximate"
+    },
+    {
+      "start": 216,
+      "end": 230,
+      "function": "tradeoff",
+      "meaning": "Ưu tiên ngân sách và giới hạn đại diện",
+      "timing": "approximate"
+    },
+    {
+      "start": 230,
+      "end": 245,
+      "function": "case-Spain-person",
+      "meaning": "Một trường hợp người thuê nhà",
+      "timing": "approximate"
+    },
+    {
+      "start": 245,
+      "end": 264,
+      "function": "scale",
+      "meaning": "Nhu cầu đô thị và nguồn cung",
+      "timing": "approximate"
+    },
+    {
+      "start": 264,
+      "end": 286,
+      "function": "mechanism-housing",
+      "meaning": "Người trẻ, du lịch và rào cản xây dựng",
+      "timing": "approximate"
+    },
+    {
+      "start": 286,
+      "end": 300,
+      "function": "counterargument",
+      "meaning": "Kiểm soát giá và động lực đầu tư",
+      "timing": "approximate"
+    },
+    {
+      "start": 300,
+      "end": 325,
+      "function": "case-Portugal",
+      "meaning": "Giá nhà và sức ép tiền lương",
+      "timing": "approximate"
+    },
+    {
+      "start": 325,
+      "end": 351.29,
+      "function": "mini-conclusion",
+      "meaning": "Tăng trưởng phải đến được với người lao động",
+      "timing": "approximate"
+    },
+    {
+      "start": 351.29,
+      "end": 357.39,
+      "function": "sponsor-bridge",
+      "meaning": "Người lao động xa nhà dẫn sang kiều hối",
+      "timing": "approximate"
+    },
+    {
+      "start": 357.39,
+      "end": 381.5,
+      "function": "sponsor-trust",
+      "meaning": "Thương hiệu, giấy phép, đối tác theo lời quảng bá",
+      "timing": "approximate"
+    },
+    {
+      "start": 381.5,
+      "end": 403,
+      "function": "sponsor-demo",
+      "meaning": "Cơ chế chuyển và nhận tiền",
+      "timing": "approximate"
+    },
+    {
+      "start": 403,
+      "end": 418.69,
+      "function": "sponsor-benefit",
+      "meaning": "Kiều hối và người lao động",
+      "timing": "approximate"
+    },
+    {
+      "start": 418.69,
+      "end": 427.89,
+      "function": "sponsor-CTA",
+      "meaning": "Điều kiện ưu đãi và link, không tái dùng claim",
+      "timing": "approximate"
+    },
+    {
+      "start": 427.89,
+      "end": 460,
+      "function": "case-Italy",
+      "meaning": "Đình công và ưu tiên chi tiêu",
+      "timing": "approximate"
+    },
+    {
+      "start": 460,
+      "end": 488,
+      "function": "mechanism-Italy",
+      "meaning": "Năng suất, thu nhập, việc làm",
+      "timing": "approximate"
+    },
+    {
+      "start": 488,
+      "end": 520,
+      "function": "case-Belgium",
+      "meaning": "Ngân sách và chi trả phúc lợi",
+      "timing": "approximate"
+    },
+    {
+      "start": 520,
+      "end": 535,
+      "function": "mini-conclusion",
+      "meaning": "Ai gánh chi phí cải cách",
+      "timing": "approximate"
+    },
+    {
+      "start": 535,
+      "end": 559,
+      "function": "case-Serbia",
+      "meaning": "Thảm kịch mở yêu cầu trách nhiệm",
+      "timing": "approximate"
+    },
+    {
+      "start": 559,
+      "end": 582,
+      "function": "political-result",
+      "meaning": "Nguồn kể kết quả bầu cử và giới hạn suy luận",
+      "timing": "approximate"
+    },
+    {
+      "start": 582,
+      "end": 608,
+      "function": "case-Albania",
+      "meaning": "Dự án, môi trường và trách nhiệm",
+      "timing": "approximate"
+    },
+    {
+      "start": 608,
+      "end": 627.2,
+      "function": "case-Greece",
+      "meaning": "Giáo dục và tai nạn hạ tầng",
+      "timing": "approximate"
+    },
+    {
+      "start": 627.2,
+      "end": 633.2,
+      "function": "synthesis-bridge",
+      "meaning": "Từ các nước sang cơ chế chung",
+      "timing": "approximate"
+    },
+    {
+      "start": 633.2,
+      "end": 654,
+      "function": "cause-costs",
+      "meaning": "Giá sinh hoạt, năng lượng và xung đột",
+      "timing": "approximate"
+    },
+    {
+      "start": 654,
+      "end": 666.5,
+      "function": "worked-example",
+      "meaning": "Giỏ hàng giúp phân biệt mức giá và lạm phát",
+      "timing": "approximate"
+    },
+    {
+      "start": 666.5,
+      "end": 695,
+      "function": "data-to-people",
+      "meaning": "Chỉ số giá đến sức ép hộ thu nhập thấp",
+      "timing": "approximate"
+    },
+    {
+      "start": 695,
+      "end": 722,
+      "function": "cause-housing",
+      "meaning": "Giá nhà, thuê và rào cản nguồn cung",
+      "timing": "approximate"
+    },
+    {
+      "start": 722,
+      "end": 750,
+      "function": "policy-tradeoff",
+      "meaning": "Giải pháp đơn lẻ có giới hạn và độ trễ",
+      "timing": "approximate"
+    },
+    {
+      "start": 750,
+      "end": 783,
+      "function": "cause-youth",
+      "meaning": "Khảo sát, cơ hội và nỗi lo thế hệ",
+      "timing": "approximate"
+    },
+    {
+      "start": 783,
+      "end": 799,
+      "function": "mini-conclusion",
+      "meaning": "Nỗ lực phải còn mở đường tiến thân",
+      "timing": "approximate"
+    },
+    {
+      "start": 799,
+      "end": 839,
+      "function": "cause-welfare",
+      "meaning": "Thu, chi, già hóa và trải nghiệm dịch vụ",
+      "timing": "approximate"
+    },
+    {
+      "start": 839,
+      "end": 850,
+      "function": "scope-caveat",
+      "meaning": "Áp lực không đồng nghĩa hệ thống sụp đổ",
+      "timing": "approximate"
+    },
+    {
+      "start": 850,
+      "end": 878.1,
+      "function": "cause-security",
+      "meaning": "Năng lượng và chi quốc phòng",
+      "timing": "approximate"
+    },
+    {
+      "start": 878.1,
+      "end": 898,
+      "function": "accountability",
+      "meaning": "Ba câu hỏi về khoản chi lớn",
+      "timing": "approximate"
+    },
+    {
+      "start": 898,
+      "end": 927,
+      "function": "cause-generations",
+      "meaning": "Đánh đổi giữa thế hệ và hỗ trợ hai chiều",
+      "timing": "approximate"
+    },
+    {
+      "start": 927,
+      "end": 961.5,
+      "function": "cause-trust",
+      "meaning": "Trải nghiệm đời sống và trách nhiệm, callback nhà ga",
+      "timing": "approximate"
+    },
+    {
+      "start": 961.5,
+      "end": 979,
+      "function": "dialogue",
+      "meaning": "Đối thoại hoặc leo thang chính trị",
+      "timing": "approximate"
+    },
+    {
+      "start": 979,
+      "end": 1009,
+      "function": "cause-social-media",
+      "meaning": "Lan truyền ví dụ và nhận ra vấn đề chung",
+      "timing": "approximate"
+    },
+    {
+      "start": 1009,
+      "end": 1039,
+      "function": "violence-question",
+      "meaning": "Không đồng nhất toàn bộ đoàn người với bạo lực",
+      "timing": "approximate"
+    },
+    {
+      "start": 1039,
+      "end": 1078.5,
+      "function": "escalation-mechanisms",
+      "meaning": "Bốn cơ chế leo thang được chia rõ",
+      "timing": "approximate"
+    },
+    {
+      "start": 1078.5,
+      "end": 1108,
+      "function": "two-sides",
+      "meaning": "Hệ quả với chính phủ và người biểu tình",
+      "timing": "approximate"
+    },
+    {
+      "start": 1108,
+      "end": 1138.5,
+      "function": "conditional-scenarios",
+      "meaning": "Ba kịch bản có điều kiện",
+      "timing": "approximate"
+    },
+    {
+      "start": 1138.5,
+      "end": 1165,
+      "function": "solutions",
+      "meaning": "Hỗ trợ, nhà ở, người thuê, giáo dục",
+      "timing": "approximate"
+    },
+    {
+      "start": 1165,
+      "end": 1189,
+      "function": "answer-title",
+      "meaning": "Có khủng hoảng không đồng nghĩa toàn bộ sụp đổ",
+      "timing": "approximate"
+    },
+    {
+      "start": 1189,
+      "end": 1204.5,
+      "function": "five-problems",
+      "meaning": "Gom năm vấn đề dài hạn",
+      "timing": "approximate"
+    },
+    {
+      "start": 1204.5,
+      "end": 1246.4,
+      "function": "final-thesis",
+      "meaning": "Khoảng cách thịnh vượng được hứa và cơ hội cảm nhận",
+      "timing": "approximate"
+    },
+    {
+      "start": 1246.4,
+      "end": 1251,
+      "function": "subscribe-CTA",
+      "meaning": "Xưng tên, mời đăng ký, chào kết",
+      "timing": "approximate"
+    }
+  ],
+  "audience_inference": "Người Việt muốn hiểu thời sự qua việc làm, nhà ở, thu nhập, cơ hội; không có dữ liệu nhân khẩu học/retention.",
+  "angle": "Trường hợp ở nhiều nước → cơ chế chung → đánh đổi → hệ quả → lời giải có điều kiện → khoảng cách lời hứa thịnh vượng và trải nghiệm đời sống."
+}

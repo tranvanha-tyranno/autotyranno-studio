@@ -1,0 +1,41 @@
+{
+  "batch": "videos/2026-11-13-di-sieu-thi",
+  "dimension": "script",
+  "reviewer": {
+    "kind": "agent",
+    "name": "Codex learning_loop"
+  },
+  "target": {
+    "clause_id": "c11-price-difference-label",
+    "narration": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.",
+    "start": 116.46666666666667,
+    "end": 124.73333333333333
+  },
+  "method": "script_review",
+  "revision": "r03",
+  "decision": "accepted",
+  "observation": "Independently opened revised1920x1080 source graphic and read c11. It now says CHI THÊM20.000đ. One-versus-two cartons and totals30.000đ/50.000đ remain visible; 50.000−30.000=20.000 and50.000÷2=25.000. The hypothetical/not-selling-price header remains. Acceptance is only script/label meaning and arithmetic, not rendered crop, motion, audio or whole-video approval.",
+  "action": "Retain the corrected source wording for c11; inspect readability and placement again in the final MP4 before making any visual verdict.",
+  "evidence": [
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/production-r03.json",
+      "sha256": "28a5b8784311eeb12e745b0cd10e6de2aab4bd5d698da74530d5501ec1df37fd"
+    },
+    {
+      "role": "script",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-r03.txt",
+      "sha256": "eb36c624e1ffdc883036a389d69c43487ec65f772b93689faba1e357e5b3b6d2"
+    },
+    {
+      "role": "asset",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/total-change-r03.jpg",
+      "sha256": "1cff7623f8e54e6eae88e53bae07b58ad0679d1db22cf865ca196b9e9fa8beab"
+    },
+    {
+      "role": "report",
+      "path": "videos/2026-11-13-di-sieu-thi/learning/evidence/script-label-review.md",
+      "sha256": "72d8076fbe966541ac1d2be1cae3e32e07fb7929f2fed93d64ecd91c8491af3a"
+    }
+  ]
+}

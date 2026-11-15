@@ -1,0 +1,598 @@
+{
+  "date": "2026-11-12",
+  "trigger": "User explicitly rejected both demos because images do not match spoken narration",
+  "scope": {
+    "referencePhraseFramePairs": 20,
+    "referencePairsPerChannel": 10,
+    "rejectedPhraseFramePairs": 13,
+    "referenceVideos": 4,
+    "observed": "Opened all four reference phrase sheets and all four rejected phrase sheets. Frames extracted from actual MP4 files.",
+    "notPerformed": [
+      "No continuous full playback",
+      "No manual audio listening",
+      "No verification of business/economic claims in reference narration"
+    ],
+    "timingPrecision": "Reference anchors come from overlapping YouTube caption segments; frameTime/decodedFrameTime are exact extraction positions, not claimed forced-aligned word timestamps. Rejected samples use exact-take aligned words."
+  },
+  "manifestAudit": {
+    "shotsInspectedAsData": 52,
+    "storedSubjectActionObjectStateContracts": 0,
+    "semanticAcceptanceWasNotTestedByTechnicalQA": true
+  },
+  "referencePairs": [
+    {
+      "channel": "long",
+      "videoId": "JlfAd_OaFek",
+      "frameTime": 3.8,
+      "phrase": "ảnh AI làm menu",
+      "spokenMeaning": "Ảnh món ăn AI được đưa lên thực đơn quán ăn",
+      "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=3s",
+      "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+      "decodedFrameTime": 3.8038000000000003,
+      "file": "frames/JlfAd_OaFek-0003.800.jpg",
+      "matchAssessment": "direct_object",
+      "observedVisual": "Hiện một ô thực đơn có ảnh món ăn và chữ MENU đúng lúc nhắc thực đơn.",
+      "limit": "Không thể xác thực nguồn AI của ảnh chỉ bằng frame.",
+      "frameSHA256": "5f0f6867c72a0d0cca01a342d374bd3740fd1b46115a382c5055e2770260b667"
+    },
+    {
+      "channel": "long",
+      "videoId": "JlfAd_OaFek",
+      "frameTime": 8.5,
+      "phrase": "việc học",
+      "spokenMeaning": "Chuyển sang việc học có hỗ trợ AI",
+      "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=8s",
+      "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+      "decodedFrameTime": 8.5085,
+      "file": "frames/JlfAd_OaFek-0008.500.jpg",
+      "matchAssessment": "object_context",
+      "observedVisual": "Ô hình thứ ba là người dùng laptop/tài liệu học; hai ô trước vẫn giữ menu và điện ảnh.",
+      "limit": "Công dụng học tập chủ yếu do lời kể, nội dung màn hình nhỏ chưa đọc rõ.",
+      "frameSHA256": "5d5528071bd99b49d866bd34fea1c543d191b6b5b76bf5a85c79ec583cf8061d"
+    },
+    {
+      "channel": "long",
+      "videoId": "JlfAd_OaFek",
+      "frameTime": 405.8,
+      "phrase": "viết báo cáo",
+      "spokenMeaning": "Một người xử lý dữ liệu rồi làm báo cáo",
+      "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=405s",
+      "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+      "decodedFrameTime": 405.8054,
+      "file": "frames/JlfAd_OaFek-0405.800.jpg",
+      "matchAssessment": "context_only",
+      "observedVisual": "Nhân vật hoạt hình ngồi trước máy tính tại bàn làm việc.",
+      "limit": "Không thấy dữ liệu hoặc một bản báo cáo cụ thể.",
+      "frameSHA256": "1e1581720abe885a03bce2359560431a72db170095bc9fb5f5a965e27de4cabf"
+    },
+    {
+      "channel": "long",
+      "videoId": "JlfAd_OaFek",
+      "frameTime": 410.7,
+      "phrase": "kiểm tra thông tin",
+      "spokenMeaning": "Con người vẫn cần kiểm chứng và đánh giá kết quả",
+      "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=410s",
+      "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+      "decodedFrameTime": 410.7103000000001,
+      "file": "frames/JlfAd_OaFek-0410.700.jpg",
+      "matchAssessment": "context_only",
+      "observedVisual": "Vẫn là nhân vật ngồi trước máy tính, tay cạnh mặt.",
+      "limit": "Không thấy nguồn đối chiếu hoặc trạng thái kiểm tra thay đổi.",
+      "frameSHA256": "7ab61e205848a8cceec7d7f260ae1bfb276540a78a0fc2502e7268efd2e802ca"
+    },
+    {
+      "channel": "long",
+      "videoId": "JlfAd_OaFek",
+      "frameTime": 452.8,
+      "phrase": "kiểm tra code",
+      "spokenMeaning": "Kỹ sư thực sự viết và kiểm tra mã",
+      "url": "https://www.youtube.com/watch?v=JlfAd_OaFek&t=452s",
+      "media": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+      "decodedFrameTime": 452.7856666666667,
+      "file": "frames/JlfAd_OaFek-0452.800.jpg",
+      "matchAssessment": "action_mismatch",
+      "observedVisual": "Nhóm nhân vật hoạt hình đứng bên đường với xe/tank trong tiền cảnh.",
+      "limit": "Không thấy mã, thao tác kiểm tra hay sửa code tại mốc này.",
+      "frameSHA256": "204934fef92fafbed5cb5736ba36f8d4e6cdff3ea75bddd148022f4be83fb834"
+    },
+    {
+      "channel": "long",
+      "videoId": "podWgLH4b3M",
+      "frameTime": 4.5,
+      "phrase": "thiên đường mua sắm",
+      "spokenMeaning": "Nơi mua quần áo online với nhiều lựa chọn",
+      "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=4s",
+      "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+      "decodedFrameTime": 4.5045,
+      "file": "frames/podWgLH4b3M-0004.500.jpg",
+      "matchAssessment": "direct_object",
+      "observedVisual": "Điện thoại và màn hình Shein với lưới ảnh quần áo, giá và lựa chọn.",
+      "limit": "Học cách đưa đúng đối tượng mua sắm lên hình, không lấy lại ảnh nguồn.",
+      "frameSHA256": "f4dbb24b06232e88965e3809084f9e3aacbdcb0687cbf3e35aef93fba5d5e009"
+    },
+    {
+      "channel": "long",
+      "videoId": "podWgLH4b3M",
+      "frameTime": 127,
+      "phrase": "mẫu mới mỗi ngày",
+      "spokenMeaning": "Số lượng mẫu thời trang được tung ra mỗi ngày",
+      "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=127s",
+      "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+      "decodedFrameTime": 126.99353333333335,
+      "file": "frames/podWgLH4b3M-0127.000.jpg",
+      "matchAssessment": "explicit_graphic",
+      "observedVisual": "Kho quần áo/kiện hàng, biểu tượng áo và số mẫu theo ngày cùng hiện.",
+      "limit": "Hình số diễn đạt quy mô; audit dựng hình không xác minh số liệu kinh doanh.",
+      "frameSHA256": "d8bc1118cd5315fb770aa61a70599792ff6b6d49910717f94770fc10846bded4"
+    },
+    {
+      "channel": "long",
+      "videoId": "podWgLH4b3M",
+      "frameTime": 200.3,
+      "phrase": "ngưỡng miễn thuế",
+      "spokenMeaning": "Hạn mức cho một gói hàng nhỏ",
+      "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=200s",
+      "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+      "decodedFrameTime": 200.30010000000001,
+      "file": "frames/podWgLH4b3M-0200.300.jpg",
+      "matchAssessment": "explicit_graphic",
+      "observedVisual": "Hộp hàng và hạn mức miễn thuế được ghi cạnh nhau.",
+      "limit": "Đối tượng và quy tắc liên hệ trực tiếp; không dùng như tư vấn thuế hiện hành.",
+      "frameSHA256": "453e4772565459a90f4a245046399d8807c92d51c91b3e4fb8d92cf695ba5ee6"
+    },
+    {
+      "channel": "long",
+      "videoId": "podWgLH4b3M",
+      "frameTime": 215,
+      "phrase": "từng đơn hàng nhỏ",
+      "spokenMeaning": "Gửi trực tiếp từng kiện tới người mua",
+      "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=215s",
+      "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+      "decodedFrameTime": 215.0148,
+      "file": "frames/podWgLH4b3M-0215.000.jpg",
+      "matchAssessment": "direct_object_state",
+      "observedVisual": "Những hộp Shein xếp ngay bậc cửa nhà.",
+      "limit": "Đúng kiện hàng và đích đến; frame tĩnh không chứng minh thao tác giao nhận.",
+      "frameSHA256": "fb9db329a2393ed39cfede044120bed6dfcd131636c7412f02e88d8e5b2da403"
+    },
+    {
+      "channel": "long",
+      "videoId": "podWgLH4b3M",
+      "frameTime": 274.8,
+      "phrase": "Quần áo nữ",
+      "spokenMeaning": "Phân biệt nhóm quần áo nữ trong câu chuyện tăng giá",
+      "url": "https://www.youtube.com/watch?v=podWgLH4b3M&t=274s",
+      "media": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+      "decodedFrameTime": 274.80786666666665,
+      "file": "frames/podWgLH4b3M-0274.800.jpg",
+      "matchAssessment": "staged_category_graphic",
+      "observedVisual": "Ba loại hàng được phân biệt bằng icon, váy nữ là nhóm đang được đưa lên.",
+      "limit": "Nhóm xuất hiện theo lời; đây là minh họa danh mục, không phải ảnh người bất kỳ.",
+      "frameSHA256": "ffc1160a548838094b102f23f5e1397e51340fa8e23b79e0570558519161fe59"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "29B8-FtuC6U",
+      "frameTime": 7.8,
+      "phrase": "năng lực sản xuất",
+      "spokenMeaning": "Năng lực sản xuất của nền kinh tế",
+      "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=7s",
+      "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+      "decodedFrameTime": 7.8,
+      "file": "frames/29B8-FtuC6U-0007.800.jpg",
+      "matchAssessment": "direct_class",
+      "observedVisual": "Cánh tay robot và dây chuyền đang xử lý vật thể công nghiệp.",
+      "limit": "Cho thấy sản xuất, không chứng minh toàn bộ quy mô kinh tế.",
+      "frameSHA256": "63bc9a48979c58c560f69fe18e3129d074f7a2073277993b7be4ab31e8d44492"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "29B8-FtuC6U",
+      "frameTime": 10.5,
+      "phrase": "thiếu là sức mua",
+      "spokenMeaning": "Nhu cầu mua thay vì năng lực làm ra hàng",
+      "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=10s",
+      "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+      "decodedFrameTime": 10.5,
+      "file": "frames/29B8-FtuC6U-0010.500.jpg",
+      "matchAssessment": "context_only",
+      "observedVisual": "Giá/kệ và hàng trong nhà kho, chưa có hành động người mua.",
+      "limit": "Cùng bối cảnh hàng hóa nhưng chưa thể hiện sức mua yếu.",
+      "frameSHA256": "02325c4f1f53a13feb0faa8808362f2cce15a74da0f777d3d140524425b198fc"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "29B8-FtuC6U",
+      "frameTime": 27.8,
+      "phrase": "đầu bếp nấu",
+      "spokenMeaning": "Ẩn dụ nhà hàng có nhiều đầu bếp nấu món ăn",
+      "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=27s",
+      "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+      "decodedFrameTime": 27.8,
+      "file": "frames/29B8-FtuC6U-0027.800.jpg",
+      "matchAssessment": "direct_action",
+      "observedVisual": "Người mặc đồ bếp đang thao tác tại quầy bếp, thấy tay và thực phẩm.",
+      "limit": "Khớp hành động nấu; không nhìn thấy đầy đủ số lượng đầu bếp được kể.",
+      "frameSHA256": "9c939704b4af85fb3cbdf88c16d86b6eae0fa2c7bfcc177f0bfdb784e6d7c5db"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "29B8-FtuC6U",
+      "frameTime": 36.5,
+      "phrase": "vài thực khách",
+      "spokenMeaning": "Đối lập lượng món ăn với lượng khách ít trong nhà hàng",
+      "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=36s",
+      "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+      "decodedFrameTime": 36.5,
+      "file": "frames/29B8-FtuC6U-0036.500.jpg",
+      "matchAssessment": "state_mismatch",
+      "observedVisual": "Khung hàng ăn/chợ dưới đèn lồng, có nhiều người trong vùng nhìn thấy.",
+      "limit": "Không thể hiện rõ nhà hàng vắng khách, bàn trống hay lượng khách ít.",
+      "frameSHA256": "e81e28c674ef9a1527d2615239c8df0909e7f6ca141957255d8135691e33144f"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "29B8-FtuC6U",
+      "frameTime": 456,
+      "phrase": "lao động di cư",
+      "spokenMeaning": "Người rời nông thôn ra đô thị làm việc",
+      "url": "https://www.youtube.com/watch?v=29B8-FtuC6U&t=456s",
+      "media": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+      "decodedFrameTime": 456.0,
+      "file": "frames/29B8-FtuC6U-0456.000.jpg",
+      "matchAssessment": "work_context_only",
+      "observedVisual": "Nhiều người ngồi làm việc với bàn/máy may trong xưởng.",
+      "limit": "Không suy ra tình trạng di cư của người trong hình từ nghề hoặc trang phục.",
+      "frameSHA256": "9810f2c51f5266a43bcbfaf59aa1bbfc4b1479b54fabcb78b91c7ce323fa6cd7"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "5zqAMK2qsfM",
+      "frameTime": 3.8,
+      "phrase": "bấm nút lưu",
+      "spokenMeaning": "Hành vi lưu nội dung trên điện thoại",
+      "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=3s",
+      "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+      "decodedFrameTime": 3.8,
+      "file": "frames/5zqAMK2qsfM-0003.800.jpg",
+      "matchAssessment": "device_action_mismatch",
+      "observedVisual": "Cận cảnh màn hình laptop với nội dung trên trình duyệt.",
+      "limit": "Không thấy điện thoại hoặc thao tác nhấn lưu bài tại mốc này.",
+      "frameSHA256": "6b6074ee86d83dcd6594aed9ed878f95eb010e96deeb08734b4cdd585eb1def6"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "5zqAMK2qsfM",
+      "frameTime": 11.5,
+      "phrase": "kệ sách",
+      "spokenMeaning": "Sách xếp trên kệ trong phòng",
+      "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=11s",
+      "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+      "decodedFrameTime": 11.5,
+      "file": "frames/5zqAMK2qsfM-0011.500.jpg",
+      "matchAssessment": "direct_object",
+      "observedVisual": "Kệ đầy sách với gáy sách nhìn thấy.",
+      "limit": "Đúng đồ vật được nhắc; không dùng thêm laptop chung chung để thay.",
+      "frameSHA256": "df22a869a97e295024f7e95ff9cf4581886182aab5381f04cf5c2eb7e602141a"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "5zqAMK2qsfM",
+      "frameTime": 391.8,
+      "phrase": "ngồi viết",
+      "spokenMeaning": "Viết bài cảm nhận sau khi đọc",
+      "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=391s",
+      "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+      "decodedFrameTime": 391.8,
+      "file": "frames/5zqAMK2qsfM-0391.800.jpg",
+      "matchAssessment": "direct_action",
+      "observedVisual": "Tay cầm bút viết vào giấy/sổ.",
+      "limit": "Đúng hành động viết; chưa chứng minh nội dung ấy đã được đăng công khai.",
+      "frameSHA256": "e416fb654830d4d13387c25ed24b5bc13e8b22580c806765c9c1f2ba17a86875"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "5zqAMK2qsfM",
+      "frameTime": 517,
+      "phrase": "viết nó ra giấy",
+      "spokenMeaning": "Đưa suy nghĩ ra giấy thành vật thể nhìn thấy",
+      "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=517s",
+      "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+      "decodedFrameTime": 517.0,
+      "file": "frames/5zqAMK2qsfM-0517.000.jpg",
+      "matchAssessment": "direct_action",
+      "observedVisual": "Tay và giấy ghi chép hiện rõ khi nói đưa suy nghĩ ra giấy.",
+      "limit": "Hành động là trục minh họa; không cần cảnh nhóm họp để giải thích.",
+      "frameSHA256": "ce07eab94ed7646da431ed77727c42a24c5790d3c296a2f2a17d1a956e373096"
+    },
+    {
+      "channel": "hidden",
+      "videoId": "5zqAMK2qsfM",
+      "frameTime": 647,
+      "phrase": "thuyết trình",
+      "spokenMeaning": "Chuẩn bị trình bày cho người nghe cụ thể",
+      "url": "https://www.youtube.com/watch?v=5zqAMK2qsfM&t=647s",
+      "media": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+      "decodedFrameTime": 647.0,
+      "file": "frames/5zqAMK2qsfM-0647.000.jpg",
+      "matchAssessment": "action_mismatch",
+      "observedVisual": "Một người cúi đọc/viết tại bàn thư viện.",
+      "limit": "Không thấy người trình bày, khán giả hay tài liệu trình chiếu.",
+      "frameSHA256": "3cc1ed13a7bf69f5751dd946d2ed40bcdb5cf45fbe23e607af14459c1c38e370"
+    }
+  ],
+  "rejectedPairs": [
+    {
+      "direction": "long",
+      "frameTime": 1.0,
+      "shotStart": 0.0,
+      "shotEnd": 2.466666666666667,
+      "spoken": "Bạn giao cho AI viết một email chào hàng.",
+      "anchor": "Bạn giao cho AI",
+      "images": [
+        "directions/long/typing-photo.jpg"
+      ],
+      "file": "rejected/long-001.00.jpg",
+      "observedVisual": "Người gõ trên laptop; màn hình là trang web nhiều hình/cột, không thấy composer email hay prompt AI.",
+      "semanticFailure": "Sai đối tượng và trạng thái giao việc.",
+      "requiredReplacement": "Prompt viết email và cửa sổ soạn thư có Tới/Tiêu đề/Nội dung; nhãn tình huống minh họa.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "61101d3d06b411e31da090472bb475f0bdaf45ae34ff2ba29ab5801b2c466c67"
+    },
+    {
+      "direction": "long",
+      "frameTime": 3.8,
+      "shotStart": 2.466666666666667,
+      "shotEnd": 5.0,
+      "spoken": "Vài giây sau, bản nháp đã nằm trên màn hình.",
+      "anchor": "Vài giây sau",
+      "images": [
+        "directions/long/notes.jpg"
+      ],
+      "file": "rejected/long-003.80.jpg",
+      "observedVisual": "Tay viết vào sổ giấy cạnh laptop.",
+      "semanticFailure": "Lời nói bản nháp trên màn hình nhưng hình chính là giấy viết tay.",
+      "requiredReplacement": "Bản nháp email xuất hiện trong cửa sổ màn hình; giữ cùng tiêu đề và nội dung qua các cảnh.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "c946a83007f4ce8078d7d79e422a88e9db534a1b5f452c63e05eae8f03239dee"
+    },
+    {
+      "direction": "long",
+      "frameTime": 19.8,
+      "shotStart": 18.633333333333333,
+      "shotEnd": 21.433333333333334,
+      "spoken": "Cứ nhìn một email tưởng như rất đơn giản.",
+      "anchor": "Cứ nhìn một email",
+      "images": [
+        "directions/long/headset.jpg"
+      ],
+      "file": "rejected/long-019.80.jpg",
+      "observedVisual": "Hai tay cầm headset trước ngực.",
+      "semanticFailure": "Đổi email thành vật dụng gọi điện; không còn đối tượng đang phân tích.",
+      "requiredReplacement": "Giữ cận cảnh email và chỉ rõ các phần cần xử lý.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "0655e782923405fe5c5418023ee7a7ec1a81c7418e98f946ba05ae0b478df3e5"
+    },
+    {
+      "direction": "long",
+      "frameTime": 31.3,
+      "shotStart": 30.366666666666667,
+      "shotEnd": 32.766666666666666,
+      "spoken": "sửa giọng điệu, rồi theo dõi phản hồi.",
+      "anchor": "sửa giọng điệu",
+      "images": [
+        "directions/long/review-team-detail.jpg",
+        "directions/long/support-team.jpg"
+      ],
+      "file": "rejected/long-031.30.jpg",
+      "observedVisual": "Hai người xem giấy bên trái và nhóm đeo headset bên phải.",
+      "semanticFailure": "Không thấy sửa câu chữ, giọng điệu trước/sau hoặc một phản hồi khách hàng.",
+      "requiredReplacement": "Tách theo hai mệnh đề: sửa một câu email cụ thể rồi hiện thread phản hồi liên quan.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "119286f5ded43eccf39acaa6deffc6231df6005a77ef8709f30bf09e3eb7d0af"
+    },
+    {
+      "direction": "long",
+      "frameTime": 49.5,
+      "shotStart": 48.86666666666667,
+      "shotEnd": 50.93333333333333,
+      "spoken": "Đừng gom cả ba vào một nút gửi.",
+      "anchor": "Đừng gom cả ba",
+      "images": [
+        "directions/long/team-decision.jpg"
+      ],
+      "file": "rejected/long-049.50.jpg",
+      "observedVisual": "Ba người trao đổi tài liệu ở bàn.",
+      "semanticFailure": "Không thấy nút gửi hoặc ba bước bị gộp.",
+      "requiredReplacement": "Ba bước tạo nháp/kiểm tra/quyết định hiện riêng; nút Gửi chỉ mở khi các bước cần thiết hoàn tất.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "c9d6198c3dceef2b20839b971357b79d929681781255a2de9ebdc3cd2303f281"
+    },
+    {
+      "direction": "long",
+      "frameTime": 61.2,
+      "shotStart": 59.733333333333334,
+      "shotEnd": 63.266666666666666,
+      "spoken": "Ghi lại thời gian viết, thời gian sửa và lỗi còn sót.",
+      "anchor": "Ghi lại thời gian",
+      "images": [
+        "directions/long/notes.jpg",
+        "directions/long/asian-notes.jpg"
+      ],
+      "file": "rejected/long-061.20.jpg",
+      "observedVisual": "Hai ảnh người ghi sổ, có chữ nhấn nói tính thời gian sửa.",
+      "semanticFailure": "Không có thời gian viết, thời gian sửa hoặc số lỗi để đọc và so sánh.",
+      "requiredReplacement": "Bảng nhật ký ba cột thời gian viết/thời gian sửa/lỗi còn sót; số minh họa phải ghi rõ và nhất quán.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "5a67e2de85ceab7b0253ac84008e1ae7ce72d7296b1b81ab98df64b9a5171cbe"
+    },
+    {
+      "direction": "long",
+      "frameTime": 75.5,
+      "shotStart": 74.9,
+      "shotEnd": 76.86666666666666,
+      "spoken": "Bình luận một công việc cụ thể.",
+      "anchor": "Bình luận một công việc",
+      "images": [
+        "directions/long/sticky-board.jpg"
+      ],
+      "file": "rejected/long-075.50.jpg",
+      "observedVisual": "Ảnh giấy note dán trên tường bị mờ.",
+      "semanticFailure": "Dòng chữ CTA là phần duy nhất nói tới bình luận; ảnh không làm rõ hành động.",
+      "requiredReplacement": "Ô bình luận của giao diện minh họa và một ví dụ nhiệm vụ cụ thể đang được nhập.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "5e3788ded0dd94e1359accd610ef1ca3dd13e096c09d0d965146fe41bce8a1aa"
+    },
+    {
+      "direction": "hidden",
+      "frameTime": 0.8,
+      "shotStart": 0.0,
+      "shotEnd": 2.966666666666667,
+      "spoken": "Một nghề không biến mất chỉ vì một thao tác được làm nhanh hơn.",
+      "anchor": "Một nghề không biến mất",
+      "images": [
+        "directions/hidden/candidate.jpg"
+      ],
+      "file": "rejected/hidden-000.80.jpg",
+      "observedVisual": "Một phụ nữ đối diện người khác tại bàn như cuộc phỏng vấn.",
+      "semanticFailure": "Không thể hiện nghề gồm các nhiệm vụ hoặc một thao tác nhanh lên nhưng nghề còn tồn tại.",
+      "requiredReplacement": "Một chức danh gắn với các nhiệm vụ; chỉ một nhiệm vụ thay đổi tốc độ, trách nhiệm còn hiển thị.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "bc5a892f6844bde74a6c3a5427e47778e192c74cc0baab6841dfec233e22a483"
+    },
+    {
+      "direction": "hidden",
+      "frameTime": 40.5,
+      "shotStart": 39.43333333333333,
+      "shotEnd": 42.0,
+      "spoken": "Bạn có thể nhờ công cụ gợi ý cấu trúc.",
+      "anchor": "Bạn có thể nhờ",
+      "images": [
+        "directions/hidden/sticky-board.jpg"
+      ],
+      "file": "rejected/hidden-040.50.jpg",
+      "observedVisual": "Giấy note xanh/hồng trên tường.",
+      "semanticFailure": "Không thấy công cụ nhận yêu cầu hoặc sinh dàn ý.",
+      "requiredReplacement": "Một đề bài và dàn ý có đề mục thực sự hiện ra, đúng loại việc đang nói.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "ffc77a3bddc8365d010a97f78c6bc8f607006b253459ef8b0b2f98a30ceec070"
+    },
+    {
+      "direction": "hidden",
+      "frameTime": 43.5,
+      "shotStart": 42.0,
+      "shotEnd": 45.43333333333333,
+      "spoken": "Nhưng khi một con số không khớp, bạn cần quay về nguồn.",
+      "anchor": "Nhưng khi một con số",
+      "images": [
+        "directions/hidden/calculator.jpg"
+      ],
+      "file": "rejected/hidden-043.50.jpg",
+      "observedVisual": "Tay chỉ giấy, calculator và tiêu đề Quay về nguồn.",
+      "semanticFailure": "Không nhìn thấy hai giá trị bất nhất hoặc trường dữ liệu gốc cần đối chiếu.",
+      "requiredReplacement": "Hai giá trị khác nhau cho cùng một mục, hàng nguồn được tô sáng và thao tác sửa về giá trị nguồn.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "42721d91b290031e86b8c77b88682048a71caa67c2a17d8c1c1ab946b16c384c"
+    },
+    {
+      "direction": "hidden",
+      "frameTime": 48.5,
+      "shotStart": 47.733333333333334,
+      "shotEnd": 50.733333333333334,
+      "spoken": "một câu trả lời lịch sự chưa chắc đã giải quyết đúng vấn đề.",
+      "anchor": "một câu trả lời lịch sự",
+      "images": [
+        "directions/hidden/support-team.jpg"
+      ],
+      "file": "rejected/hidden-048.50.jpg",
+      "observedVisual": "Nhóm bốn nhân viên đeo headset.",
+      "semanticFailure": "Không có câu trả lời lịch sự hoặc dấu hiệu vấn đề của khách chưa được giải quyết.",
+      "requiredReplacement": "Thread có yêu cầu khách cụ thể, câu trả lời lịch sự nhưng bỏ sót yêu cầu, vấn đề vẫn được đánh dấu chưa xử lý.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "eb5025d5af5e3f9b927025de8c0877890b605bbbfc9673130c55c95ddfccc0f8"
+    },
+    {
+      "direction": "hidden",
+      "frameTime": 69.8,
+      "shotStart": 69.23333333333333,
+      "shotEnd": 70.76666666666667,
+      "spoken": "Đo cả thời gian sửa.",
+      "anchor": "Đo cả thời gian sửa",
+      "images": [
+        "directions/hidden/notes.jpg"
+      ],
+      "file": "rejected/hidden-069.80.jpg",
+      "observedVisual": "Tay đang ghi vào sổ, số đo không hiện.",
+      "semanticFailure": "Dùng đạo cụ ghi chép thay cho hành động đo thời gian.",
+      "requiredReplacement": "Đồng hồ hoặc nhật ký với cột thời gian chỉnh sửa đang được ghi nhận.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "bb998ee541816309ed4b722336646d775b4a90e6e00788176cb9de7f7c129e2b"
+    },
+    {
+      "direction": "hidden",
+      "frameTime": 77.0,
+      "shotStart": 76.16666666666667,
+      "shotEnd": 78.6,
+      "spoken": "Hãy để lại một ví dụ dưới bình luận,",
+      "anchor": "Hãy để lại",
+      "images": [
+        "directions/hidden/interview.jpg"
+      ],
+      "file": "rejected/hidden-077.00.jpg",
+      "observedVisual": "Người trong cuộc phỏng vấn ở văn phòng.",
+      "semanticFailure": "Không thể hiện nơi nhập bình luận hay ví dụ nhiệm vụ.",
+      "requiredReplacement": "Ô bình luận minh họa với ví dụ nhiệm vụ; không gán câu chuyện AI cho người stock.",
+      "verdict": "reject_for_semantic_mismatch",
+      "frameSHA256": "045dc4ccf893ea03d58d1925647ac3de7051fd1583e1605518df3a922e0d5412"
+    }
+  ],
+  "mediaHashes": [
+    {
+      "file": "docs/video-references/2026-11-11/29B8-FtuC6U/reference-av.mp4",
+      "sha256": "22b42382c9ed41aa00252e1628aea7c3119f0a28ba6b549726c2e4077803a20f"
+    },
+    {
+      "file": "docs/video-references/2026-11-11/5zqAMK2qsfM/reference-av.mp4",
+      "sha256": "53672ea9a4aa1fbb296ea5c41b1335fc2a1cc2f84498199530f5d0f2b97601c8"
+    },
+    {
+      "file": "docs/video-references/2026-11-12-two-directions/JlfAd_OaFek/reference.mp4",
+      "sha256": "0176dcaae7695cd6ff20184f224aaf926a72afeef78a7245e8ec9961e6895920"
+    },
+    {
+      "file": "docs/video-references/2026-11-12-two-directions/podWgLH4b3M/reference.mp4",
+      "sha256": "b0b22f94399cc630a2492fb4beaed8d9f4cad620aa79bde862c6aaa6de426930"
+    },
+    {
+      "file": "videos/2026-11-12-hai-huong/hidden/final.mp4",
+      "sha256": "213f57342363e61eb081b45284d230cf4f4ed7f08466edf915a5d39fe7a10e5b"
+    },
+    {
+      "file": "videos/2026-11-12-hai-huong/long/final.mp4",
+      "sha256": "1e2995ae91c2e671679e94cfa029cb893acc8081cebb7a7e678a732687ae95a9"
+    }
+  ],
+  "requiredGate": {
+    "contract": [
+      "spokenClause",
+      "start/end",
+      "subject",
+      "action",
+      "object",
+      "state/relation",
+      "mustShow",
+      "mustNotShow",
+      "assetRole",
+      "source/license",
+      "actualObservedEvidence"
+    ],
+    "reject": [
+      "Only the industry/setting matches",
+      "Named object or action absent",
+      "Wrong state or relationship",
+      "Meaning depends entirely on subtitle/title",
+      "Unverified personal/event identity inferred from stock"
+    ],
+    "acceptancePolicy": "Technical decode/timing/legibility cannot imply semantic or aesthetic acceptance. User rejection overrides earlier internal review language."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "vn-fuel",
+  "file": "assets/vn-fuel.jpg",
+  "provider": "Pexels",
+  "providerPhotoId": 19059918,
+  "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+  "downloadURL": "https://images.pexels.com/photos/19059918/pexels-photo-19059918.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "Bui Van Dong",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b",
+  "width": 2400,
+  "height": 1600,
+  "tags": [
+    "oil",
+    "logistics"
+  ],
+  "credit": "Bui Van Dong / Pexels",
+  "expectedFromSource": "Petrol station and motorbikes in Vietnam",
+  "observed": "Nighttime Petrolimex forecourt with illuminated canopy, fuel pumps, riders and motorcycles. Landscape crop preserves clear fuel-station subject.",
+  "inspection": {
+    "status": "inspected",
+    "reviewer": "Codex story_photos",
+    "method": "Opened original-aspect and center-crop contact-sheet tile for this retained image; reviewed visible subject and crop.",
+    "date": "2026-11-14",
+    "sha256": "b9f116e11404c49d08230560ef6d675211d3355fcf01428e57aa197cb662d49b"
+  },
+  "fit": "cover",
+  "focus": [
+    50,
+    50
+  ],
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "medium": "real sourced photograph",
+  "role": "context illustration",
+  "limits": "Vietnam location per primary source. Archival fuel context, not live fuel prices, shortage, contemporary event or endorsement. No connection to the fictional shop.",
+  "reusedSource": null,
+  "location": {
+    "countryCode": "VN",
+    "place": "Vietnam",
+    "sourceURL": "https://www.pexels.com/photo/gas-station-in-vietnam-at-night-19059918/",
+    "evidence": "Primary photo page location field says Vietnam."
+  }
+}

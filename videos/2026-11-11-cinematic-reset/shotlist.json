@@ -1,0 +1,50 @@
+[
+  {
+    "scene": 1,
+    "start": 0.0,
+    "end": 4.466666666666667,
+    "visual": "Hook: con số 1.000 extruded 3D",
+    "purpose": "Gây chú ý bằng quy mô cụ thể",
+    "transitionFrames": 8
+  },
+  {
+    "scene": 2,
+    "start": 4.466666666666667,
+    "end": 13.433333333333334,
+    "visual": "Kim ngạch khác lợi nhuận: container và chữ đối lập",
+    "purpose": "Làm rõ hai khái niệm, không tạo số lợi nhuận giả",
+    "transitionFrames": 8
+  },
+  {
+    "scene": 3,
+    "start": 13.433333333333334,
+    "end": 25.166666666666668,
+    "visual": "Địa cầu châu Á, cung luồng hàng, xuất + nhập",
+    "purpose": "Mốc 10 tháng 2026 và cách cộng kim ngạch",
+    "transitionFrames": 8
+  },
+  {
+    "scene": 4,
+    "start": 25.166666666666668,
+    "end": 35.06666666666667,
+    "visual": "Hai chi tiết máy may thật, chữ xuất hiện theo lời",
+    "purpose": "Ví dụ mua đầu vào, không giả địa điểm Việt Nam",
+    "transitionFrames": 8
+  },
+  {
+    "scene": 5,
+    "start": 35.06666666666667,
+    "end": 43.46666666666667,
+    "visual": "Dòng giá trị nền kem, token dày xoay, ba năng lực",
+    "purpose": "Khả năng công nghệ, thiết kế, thương hiệu thay vì chỉ thêm đơn hàng",
+    "transitionFrames": 8
+  },
+  {
+    "scene": 6,
+    "start": 43.46666666666667,
+    "end": 50.0,
+    "visual": "Câu hỏi kết bằng typography động và globe",
+    "purpose": "Đặt câu hỏi mở thay vì lời hứa kinh tế",
+    "transitionFrames": 0
+  }
+]

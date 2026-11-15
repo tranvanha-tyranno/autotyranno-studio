@@ -1,0 +1,42 @@
+{
+  "revision": "r02",
+  "method": "Rendered preflight stills and10sampledframes per18sproof",
+  "continuousAVReview": false,
+  "userApproval": "pending",
+  "observations": [
+    {
+      "style": "flow",
+      "seen": "30/30 and1.8m at the narrated daily total; final meal reaches2m; printed paper is opaque and leaves below numeric display; final raised-income envelope shows0.",
+      "frames": [
+        "r02/flow/preflight-280.png",
+        "r02/flow/preflight-440.png",
+        "r02/flow/qa/contact-sheet.jpg"
+      ],
+      "evidenceHashes": {
+        "r02/flow/preflight-280.png": "2cfaee7d4967af4c45d9927ea3315bb4d2d82d133bfe9800fe51d4e6c05a5a64",
+        "r02/flow/preflight-440.png": "6c920ad48ca1869829107ca3f2943c9ee47a619480a01e2e0614171490b301bc",
+        "r02/flow/qa/contact-sheet.jpg": "5e22eced371cb0ecb7ef137cdc2a5d9cd93cd89a459008df542666a6285c4322"
+      }
+    },
+    {
+      "style": "comic",
+      "seen": "Two adult comic leads move inward and touch opposite invoice corners at exported palm positions; surprised/happy expressions are visibly different; meal invoice shows1.8m+200k=2m in one readable paper.",
+      "frames": [
+        "r02/comic/preflight-440.png",
+        "r02/comic/character-sheet.png",
+        "r02/comic/qa/contact-sheet.jpg"
+      ],
+      "evidenceHashes": {
+        "r02/comic/preflight-440.png": "cd0ae0f2328dccbc5237b382e2b9e25dccd8867d84de9ee1accc6119acb4c1a4",
+        "r02/comic/character-sheet.png": "56b6fd6a6fc1fe948f99d60ace2cababc1f535937b22c526e8dba44297fb82ff",
+        "r02/comic/qa/contact-sheet.jpg": "7792668690761299bd750529de0d7bc28645e0571ab68249549b769fcac8601a"
+      }
+    }
+  ],
+  "limits": [
+    "Samples establish inspected poses/actions/states, not continuous viewing or listening.",
+    "Simple mouth animation is not verified phoneme lip sync.",
+    "The other7FlowFilm scenes compile but were not rendered or accepted in this proof.",
+    "Choosingcomic direction is not aesthetic approval of this artwork."
+  ]
+}

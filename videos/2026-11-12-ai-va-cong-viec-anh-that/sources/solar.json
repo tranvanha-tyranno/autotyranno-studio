@@ -1,0 +1,16 @@
+{
+  "id": "solar",
+  "providerPhotoId": 19895867,
+  "file": "assets/solar.jpg",
+  "page": "https://www.pexels.com/photo/engineer-standing-among-solar-panels-19895867/",
+  "download": "https://images.pexels.com/photos/19895867/pexels-photo-19895867.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "creator": "ThisIsEngineering",
+  "description": "Engineer inspecting rooftop solar panels",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "role": "Illustrative source photo; not documentary evidence of an individual using AI, losing employment or endorsing this video",
+  "width": 2400,
+  "height": 1601,
+  "sha256": "8e468f8f6984f59a5d4952d1cd966d7b21c481dc1d785e4ddaa42b1d768ce7da",
+  "bytes": 234417
+}

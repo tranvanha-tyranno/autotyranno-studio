@@ -1,0 +1,1914 @@
+{
+  "id": "tyranno-long-semantic-rebuild",
+  "direction": "long",
+  "title": "AI làm hộ bản nháp. Ai chịu trách nhiệm?",
+  "fps": 30,
+  "frames": 2460,
+  "sourceBatch": "videos/2026-11-12-hai-huong/long",
+  "reuseAudio": "videos/2026-11-12-hai-huong/long/audio/final-mix.wav",
+  "caseLabel": "Tình huống minh họa · Dữ liệu giả định",
+  "caseFacts": {
+    "product": "Đèn bàn Mẫu A",
+    "sourceFeature": "Nguồn USB-C có dây · Không pin",
+    "unsupportedFeature": "Dùng không dây",
+    "sourcePower": "USB-C có dây",
+    "sourceBattery": "Không có pin",
+    "sourcePriceVND": 1200000,
+    "draftPriceVND": 120000,
+    "recipient": "khach@vidu.invalid",
+    "subject": "Giới thiệu đèn bàn Mẫu A",
+    "customerNeed": "Cần dùng tại nơi không có nguồn điện",
+    "correctReply": "Mẫu này cần nguồn USB-C qua dây, không có pin; chưa phù hợp nhu cầu dùng không dây.",
+    "baselineMinutes": 12,
+    "aiWriteMinutes": 2,
+    "aiFixMinutes": 13,
+    "aiTotalMinutes": 15,
+    "dataStatus": "Tình huống minh họa · Dữ liệu giả định",
+    "photoPolicy": "Ảnh đèn/cáp chỉ minh họa vật thể; thông số trong tình huống do tác giả đặt, không xác nhận thông số của đơn vị sản phẩm trong ảnh."
+  },
+  "revisionReason": "User rejected generic photographs as mismatched to narration. This is a clause-led visual redesign, not an accepted video.",
+  "semanticPolicy": {
+    "require": "subject + action + object + state visible at the narrated clause",
+    "photoQuota": null,
+    "prohibited": "Generic office photos used to stand in for email drafting, numerical checking, specific customer need or review outcome",
+    "sourceFactPolicy": "Ảnh đèn/cáp chỉ minh họa vật thể; thông số trong tình huống do tác giả đặt, không xác nhận thông số của đơn vị sản phẩm trong ảnh.",
+    "hypotheticalNumbers": "All prices, timings and feature descriptions are clearly labelled illustrative dummy data, never observed performance or specifications of a stock-photo product."
+  },
+  "validation": {
+    "allNarrationWordsCovered": true,
+    "spokenWords": 287,
+    "shotCount": 38,
+    "durationSeconds": 82.0,
+    "shortestShotFrames": 21,
+    "exactTakeTimingPreserved": true,
+    "semanticDesign": "Clause mapping reviewed as a storyboard; actual visual acceptance requires rendered evidence.",
+    "visualInspection": "not performed by this builder",
+    "userAcceptance": "pending"
+  },
+  "shots": [
+    {
+      "phrase": "Bạn giao cho AI",
+      "phase": "hook",
+      "scene": "email_prompt",
+      "mode": "prompt",
+      "narratedMeaning": "Người xem đang giao một yêu cầu viết email cụ thể cho công cụ AI.",
+      "requiredVisual": "Màn hình trợ lý minh họa: nhập yêu cầu “Viết email giới thiệu Đèn bàn Mẫu A”, đính kèm bảng thông tin giả định, con trỏ bấm Tạo nháp. Ô email thật sự hiện trên cùng khung.",
+      "visibleFacts": [
+        "Có ô nhập yêu cầu email",
+        "Tên Đèn bàn Mẫu A và tệp nguồn hiện rõ",
+        "Thao tác Tạo nháp diễn ra theo lời"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có ô nhập yêu cầu email",
+          "Tên Đèn bàn Mẫu A và tệp nguồn hiện rõ",
+          "Thao tác Tạo nháp diễn ra theo lời"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L01",
+      "startWordIndex": 0,
+      "start": 0,
+      "anchorSeconds": 0.0,
+      "semanticContract": {
+        "subject": "Người giao việc và công cụ AI minh họa",
+        "action": "Người xem đang giao một yêu cầu viết email cụ thể cho công cụ AI.",
+        "object": "Ô yêu cầu viết email, hồ sơ Đèn bàn Mẫu A và ràng buộc cam kết",
+        "visibleState": [
+          "Có ô nhập yêu cầu email",
+          "Tên Đèn bàn Mẫu A và tệp nguồn hiện rõ",
+          "Thao tác Tạo nháp diễn ra theo lời"
+        ]
+      },
+      "endWordIndexExclusive": 9,
+      "end": 74,
+      "narratedText": "Bạn giao cho AI viết một email chào hàng.",
+      "speechEndSeconds": 2.24,
+      "durationFrames": 74,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Vài giây sau",
+      "phase": "hook",
+      "scene": "email_draft",
+      "mode": "ready",
+      "narratedMeaning": "Kết quả đang là một bản nháp email trên màn hình.",
+      "requiredVisual": "Email hiện người nhận, chủ đề và hai dòng nội dung; nhãn BẢN NHÁP / CHƯA GỬI. Cho dòng chữ ngắn xuất hiện hoàn chỉnh, không cắt sang người ghi sổ.",
+      "visibleFacts": [
+        "Có người nhận khach@vidu.invalid",
+        "Có tiêu đề Giới thiệu đèn bàn Mẫu A",
+        "Nội dung email nằm trên màn hình và còn CHƯA GỬI"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có người nhận khach@vidu.invalid",
+          "Có tiêu đề Giới thiệu đèn bàn Mẫu A",
+          "Nội dung email nằm trên màn hình và còn CHƯA GỬI"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L02",
+      "startWordIndex": 9,
+      "start": 74,
+      "anchorSeconds": 2.48,
+      "semanticContract": {
+        "subject": "Công cụ AI tạo bản đầu",
+        "action": "Kết quả đang là một bản nháp email trên màn hình.",
+        "object": "Email chào hàng đèn Mẫu A có người nhận, chủ đề, nội dung và nhãn Nháp",
+        "visibleState": [
+          "Có người nhận khach@vidu.invalid",
+          "Có tiêu đề Giới thiệu đèn bàn Mẫu A",
+          "Nội dung email nằm trên màn hình và còn CHƯA GỬI"
+        ]
+      },
+      "endWordIndexExclusive": 19,
+      "end": 150,
+      "narratedText": "Vài giây sau, bản nháp đã nằm trên màn hình.",
+      "speechEndSeconds": 4.88,
+      "durationFrames": 76,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Nhưng nếu nó hứa sai",
+      "phase": "hook",
+      "scene": "wrong_claim",
+      "mode": "mismatch",
+      "narratedMeaning": "Một lời hứa tính năng trong bản nháp mâu thuẫn tài liệu nguồn.",
+      "requiredVisual": "Cận email gạch đỏ “Dùng không dây”, đặt sát dòng nguồn “USB-C có dây · Không pin”; vạch nối đúng hai mệnh đề mâu thuẫn. Ảnh đèn có dây chỉ hỗ trợ nhận diện vật thể.",
+      "visibleFacts": [
+        "Dùng không dây bị tô đỏ",
+        "Nguồn ghi USB-C có dây / Không pin",
+        "Hai trạng thái trái nhau cùng hiện một khung"
+      ],
+      "photoIntent": "lamp_with_visible_power_cable",
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Dùng không dây bị tô đỏ",
+          "Nguồn ghi USB-C có dây / Không pin",
+          "Hai trạng thái trái nhau cùng hiện một khung"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L03",
+      "startWordIndex": 19,
+      "start": 150,
+      "anchorSeconds": 5.013,
+      "semanticContract": {
+        "subject": "Người kiểm tra lời hứa trong bản nháp",
+        "action": "Một lời hứa tính năng trong bản nháp mâu thuẫn tài liệu nguồn.",
+        "object": "Câu Dùng không dây đặt cạnh nguồn USB-C có dây / Không pin",
+        "visibleState": [
+          "Dùng không dây bị tô đỏ",
+          "Nguồn ghi USB-C có dây / Không pin",
+          "Hai trạng thái trái nhau cùng hiện một khung"
+        ]
+      },
+      "endWordIndexExclusive": 27,
+      "end": 222,
+      "narratedText": "Nhưng nếu nó hứa sai một tính năng,",
+      "speechEndSeconds": 7.36,
+      "durationFrames": 72,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "ai là người",
+      "phase": "hook",
+      "scene": "customer_reply",
+      "mode": "responsibility",
+      "narratedMeaning": "Người chịu trách nhiệm phải đối diện câu hỏi của khách về lời hứa đó.",
+      "requiredVisual": "Bên cạnh bản nháp mở bong bóng “Phản hồi giả định nếu gửi: Đèn có pin để mang ra ngoài đúng không?”. Con trỏ chuyển sang ô Người duyệt: Bạn, giữ nhãn chưa gửi.",
+      "visibleFacts": [
+        "Câu hỏi khách liên quan dùng không dây",
+        "Gắn nhãn phản hồi giả định nếu gửi",
+        "Người duyệt là Bạn, không gán phản hồi cho người trong ảnh stock"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Câu hỏi khách liên quan dùng không dây",
+          "Gắn nhãn phản hồi giả định nếu gửi",
+          "Người duyệt là Bạn, không gán phản hồi cho người trong ảnh stock"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L04",
+      "startWordIndex": 27,
+      "start": 222,
+      "anchorSeconds": 7.413,
+      "semanticContract": {
+        "subject": "Khách trong hội thoại giả định và người phải trả lời",
+        "action": "Người chịu trách nhiệm phải đối diện câu hỏi của khách về lời hứa đó.",
+        "object": "Câu hỏi/ phản hồi giả định về dùng đèn khi không cắm nguồn",
+        "visibleState": [
+          "Câu hỏi khách liên quan dùng không dây",
+          "Gắn nhãn phản hồi giả định nếu gửi",
+          "Người duyệt là Bạn, không gán phản hồi cho người trong ảnh stock"
+        ]
+      },
+      "endWordIndexExclusive": 34,
+      "end": 266,
+      "narratedText": "ai là người phải trả lời khách?",
+      "speechEndSeconds": 8.72,
+      "durationFrames": 44,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Nhanh thì có nhanh",
+      "phase": "hook",
+      "scene": "time_log",
+      "mode": "write",
+      "narratedMeaning": "Tạo bản đầu nhanh chỉ là một phần của thời gian công việc.",
+      "requiredVisual": "Ghim email nhỏ bên trái; log ví dụ hiện riêng hàng Viết nháp: 2 phút. Hai hàng Kiểm tra và sửa / Tổng chưa được đánh dấu hoàn thành.",
+      "visibleFacts": [
+        "2 phút chỉ ở hàng Viết nháp",
+        "Nhãn Dữ liệu giả định hiện cùng số",
+        "Hàng kiểm tra vẫn chưa hoàn tất"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "2 phút chỉ ở hàng Viết nháp",
+          "Nhãn Dữ liệu giả định hiện cùng số",
+          "Hàng kiểm tra vẫn chưa hoàn tất"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L05",
+      "startWordIndex": 34,
+      "start": 266,
+      "anchorSeconds": 8.88,
+      "semanticContract": {
+        "subject": "Người ghi và so thời gian của thử nghiệm",
+        "action": "Tạo bản đầu nhanh chỉ là một phần của thời gian công việc.",
+        "object": "Bảng ví dụ gồm viết 2 phút, sửa 13 phút, tổng 15 phút và mốc so 12 phút",
+        "visibleState": [
+          "2 phút chỉ ở hàng Viết nháp",
+          "Nhãn Dữ liệu giả định hiện cùng số",
+          "Hàng kiểm tra vẫn chưa hoàn tất"
+        ]
+      },
+      "endWordIndexExclusive": 38,
+      "end": 301,
+      "narratedText": "Nhanh thì có nhanh.",
+      "speechEndSeconds": 10.0,
+      "durationFrames": 35,
+      "displayPolicy": "Reuse the established interface and only change one highlight/state; no new layout intro or reading paragraph."
+    },
+    {
+      "phrase": "Nhưng công việc đã xong",
+      "phase": "hook",
+      "scene": "quality_compare",
+      "mode": "appearance",
+      "narratedMeaning": "Email đẹp không đồng nghĩa công việc hoàn tất.",
+      "requiredVisual": "Bản nháp trông sạch bên trái; bên phải ba ô kiểm: đúng tính năng, đúng giá, đúng nhu cầu. Chưa ô nào được tự động đánh dấu đạt.",
+      "visibleFacts": [
+        "Email đã có hình thức hoàn chỉnh",
+        "Tính năng / Giá / Nhu cầu còn trạng thái Chưa kiểm",
+        "Không có dấu Hoàn tất chỉ vì đã có bản nháp"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Email đã có hình thức hoàn chỉnh",
+          "Tính năng / Giá / Nhu cầu còn trạng thái Chưa kiểm",
+          "Không có dấu Hoàn tất chỉ vì đã có bản nháp"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L06",
+      "startWordIndex": 38,
+      "start": 301,
+      "anchorSeconds": 10.04,
+      "semanticContract": {
+        "subject": "Người đánh giá đầu ra và kết quả công việc",
+        "action": "Email đẹp không đồng nghĩa công việc hoàn tất.",
+        "object": "Cùng email, hồ sơ nguồn, tiêu chí chất lượng và tổng công sức",
+        "visibleState": [
+          "Email đã có hình thức hoàn chỉnh",
+          "Tính năng / Giá / Nhu cầu còn trạng thái Chưa kiểm",
+          "Không có dấu Hoàn tất chỉ vì đã có bản nháp"
+        ]
+      },
+      "endWordIndexExclusive": 43,
+      "end": 345,
+      "narratedText": "Nhưng công việc đã xong,",
+      "speechEndSeconds": 11.44,
+      "durationFrames": 44,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "hay mới chuyển sang",
+      "phase": "hook",
+      "scene": "review_work",
+      "mode": "handoff",
+      "narratedMeaning": "Phần việc đã chuyển từ tạo chữ sang con người phải sửa bản nháp.",
+      "requiredVisual": "Luồng Nháp AI → Người kiểm tra; cùng email được mở ở chế độ sửa có vết xóa câu “Dùng không dây” và ghi chú đối chiếu nguồn.",
+      "visibleFacts": [
+        "Cùng một email được bàn giao",
+        "Thấy thao tác sửa cụ thể trên câu sai",
+        "Con người nhận phần kiểm tra, không chỉ ảnh người ôm đầu"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Cùng một email được bàn giao",
+          "Thấy thao tác sửa cụ thể trên câu sai",
+          "Con người nhận phần kiểm tra, không chỉ ảnh người ôm đầu"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L07",
+      "startWordIndex": 43,
+      "start": 345,
+      "anchorSeconds": 11.5,
+      "semanticContract": {
+        "subject": "Người kiểm tra bản nháp trước khi duyệt",
+        "action": "Phần việc đã chuyển từ tạo chữ sang con người phải sửa bản nháp.",
+        "object": "Bản email có vết sửa và căn cứ đối chiếu nguồn",
+        "visibleState": [
+          "Cùng một email được bàn giao",
+          "Thấy thao tác sửa cụ thể trên câu sai",
+          "Con người nhận phần kiểm tra, không chỉ ảnh người ôm đầu"
+        ]
+      },
+      "endWordIndexExclusive": 52,
+      "end": 411,
+      "narratedText": "hay mới chuyển sang một người khác ngồi sửa?",
+      "speechEndSeconds": 13.44,
+      "durationFrames": 66,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Đây là tình huống",
+      "phase": "disclaimer",
+      "scene": "disclaimer",
+      "mode": "scope",
+      "narratedMeaning": "Đây là ví dụ minh họa, không dự báo số phận nghề nghiệp từng người.",
+      "requiredVisual": "Giữ hình thu nhỏ email và đèn giả định; thông báo ngắn “Tình huống minh họa / Không phải dự báo nghề nghiệp cá nhân”. Không thay bằng ảnh họp công sở.",
+      "visibleFacts": [
+        "Có nhãn Tình huống minh họa",
+        "Không phải dự báo nghề nghiệp cá nhân được nêu rõ",
+        "Vẫn nối với ví dụ email vừa xem"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có nhãn Tình huống minh họa",
+          "Không phải dự báo nghề nghiệp cá nhân được nêu rõ",
+          "Vẫn nối với ví dụ email vừa xem"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L08",
+      "startWordIndex": 52,
+      "start": 411,
+      "anchorSeconds": 13.7,
+      "semanticContract": {
+        "subject": "Người kể nêu phạm vi ví dụ",
+        "action": "Đây là ví dụ minh họa, không dự báo số phận nghề nghiệp từng người.",
+        "object": "Thông báo phạm vi và ví dụ email/đèn thu nhỏ",
+        "visibleState": [
+          "Có nhãn Tình huống minh họa",
+          "Không phải dự báo nghề nghiệp cá nhân được nêu rõ",
+          "Vẫn nối với ví dụ email vừa xem"
+        ]
+      },
+      "endWordIndexExclusive": 72,
+      "end": 559,
+      "narratedText": "Đây là tình huống minh họa để bàn về công việc, không phải dự báo nghề nghiệp của từng người.",
+      "speechEndSeconds": 18.44,
+      "durationFrames": 148,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Cứ nhìn một email",
+      "phase": "content",
+      "scene": "email_draft",
+      "mode": "overview",
+      "narratedMeaning": "Một email chào hàng là đối tượng sẽ được bóc tách.",
+      "requiredVisual": "Toàn bộ cửa sổ email: người nhận, chủ đề, bản nháp và nút gửi đang khóa; ba điểm kiểm tra sắp được mở. Không dùng headset làm đại diện cho email.",
+      "visibleFacts": [
+        "Đối tượng chính là một email",
+        "Có tiêu đề và phần nội dung",
+        "Nút Gửi chưa được mở"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Đối tượng chính là một email",
+          "Có tiêu đề và phần nội dung",
+          "Nút Gửi chưa được mở"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L09",
+      "startWordIndex": 72,
+      "start": 559,
+      "anchorSeconds": 18.64,
+      "semanticContract": {
+        "subject": "Công cụ AI tạo bản đầu",
+        "action": "Một email chào hàng là đối tượng sẽ được bóc tách.",
+        "object": "Email chào hàng đèn Mẫu A có người nhận, chủ đề, nội dung và nhãn Nháp",
+        "visibleState": [
+          "Đối tượng chính là một email",
+          "Có tiêu đề và phần nội dung",
+          "Nút Gửi chưa được mở"
+        ]
+      },
+      "endWordIndexExclusive": 81,
+      "end": 643,
+      "narratedText": "Cứ nhìn một email tưởng như rất đơn giản.",
+      "speechEndSeconds": 21.32,
+      "durationFrames": 84,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Trước khi viết",
+      "phase": "content",
+      "scene": "goal",
+      "mode": "product",
+      "narratedMeaning": "Trước khi viết cần hiểu đúng sản phẩm.",
+      "requiredVisual": "Mở hồ sơ giả định Đèn bàn Mẫu A: ảnh/3D đèn với dây nguồn nhìn thấy, hai dòng USB-C có dây và Không pin. Con trỏ đọc từng dòng.",
+      "visibleFacts": [
+        "Đèn và dây nguồn nhìn thấy",
+        "Nguồn USB-C có dây",
+        "Không pin"
+      ],
+      "photoIntent": "lamp_with_visible_power_cable",
+      "continuityGroup": "brief",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Đèn và dây nguồn nhìn thấy",
+          "Nguồn USB-C có dây",
+          "Không pin"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L10",
+      "startWordIndex": 81,
+      "start": 643,
+      "anchorSeconds": 21.44,
+      "semanticContract": {
+        "subject": "Người xác định đầu vào và giới hạn cam kết",
+        "action": "Trước khi viết cần hiểu đúng sản phẩm.",
+        "object": "Thông tin sản phẩm, nhu cầu người nhận và những điều được phép hứa",
+        "visibleState": [
+          "Đèn và dây nguồn nhìn thấy",
+          "Nguồn USB-C có dây",
+          "Không pin"
+        ]
+      },
+      "endWordIndexExclusive": 89,
+      "end": 711,
+      "narratedText": "Trước khi viết, bạn phải hiểu sản phẩm,",
+      "speechEndSeconds": 23.6,
+      "durationFrames": 68,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "biết người đọc",
+      "phase": "content",
+      "scene": "goal",
+      "mode": "reader",
+      "narratedMeaning": "Phải xác định nhu cầu thật của người đọc email.",
+      "requiredVisual": "Mở yêu cầu khách giả định: “Tôi cần đèn dùng ở nơi không có nguồn điện”. Khoanh phần nhu cầu dùng không dây và liên kết trở lại email.",
+      "visibleFacts": [
+        "Có một yêu cầu khách cụ thể",
+        "Nhu cầu dùng ở nơi không có nguồn điện được đánh dấu",
+        "Không thay nhu cầu bằng ảnh người đọc giấy bất kỳ"
+      ],
+      "continuityGroup": "brief",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có một yêu cầu khách cụ thể",
+          "Nhu cầu dùng ở nơi không có nguồn điện được đánh dấu",
+          "Không thay nhu cầu bằng ảnh người đọc giấy bất kỳ"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L11",
+      "startWordIndex": 89,
+      "start": 711,
+      "anchorSeconds": 23.696,
+      "semanticContract": {
+        "subject": "Người xác định đầu vào và giới hạn cam kết",
+        "action": "Phải xác định nhu cầu thật của người đọc email.",
+        "object": "Thông tin sản phẩm, nhu cầu người nhận và những điều được phép hứa",
+        "visibleState": [
+          "Có một yêu cầu khách cụ thể",
+          "Nhu cầu dùng ở nơi không có nguồn điện được đánh dấu",
+          "Không thay nhu cầu bằng ảnh người đọc giấy bất kỳ"
+        ]
+      },
+      "endWordIndexExclusive": 95,
+      "end": 760,
+      "narratedText": "biết người đọc đang cần gì",
+      "speechEndSeconds": 25.2,
+      "durationFrames": 49,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "và chọn điều",
+      "phase": "content",
+      "scene": "goal",
+      "mode": "promise",
+      "narratedMeaning": "Chỉ cam kết điều tài liệu nguồn cho phép.",
+      "requiredVisual": "Hai danh mục Cam kết được / Không được hứa: “Dùng nguồn USB-C qua dây” được chọn; “Dùng không dây” bị chặn. Dòng được phép được đưa vào phần hướng dẫn viết.",
+      "visibleFacts": [
+        "Được cam kết USB-C qua dây",
+        "Không được hứa dùng không dây",
+        "Câu hướng dẫn viết sử dụng điều được xác minh trong tình huống"
+      ],
+      "continuityGroup": "brief",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Được cam kết USB-C qua dây",
+          "Không được hứa dùng không dây",
+          "Câu hướng dẫn viết sử dụng điều được xác minh trong tình huống"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L12",
+      "startWordIndex": 95,
+      "start": 760,
+      "anchorSeconds": 25.333,
+      "semanticContract": {
+        "subject": "Người xác định đầu vào và giới hạn cam kết",
+        "action": "Chỉ cam kết điều tài liệu nguồn cho phép.",
+        "object": "Thông tin sản phẩm, nhu cầu người nhận và những điều được phép hứa",
+        "visibleState": [
+          "Được cam kết USB-C qua dây",
+          "Không được hứa dùng không dây",
+          "Câu hướng dẫn viết sử dụng điều được xác minh trong tình huống"
+        ]
+      },
+      "endWordIndexExclusive": 102,
+      "end": 816,
+      "narratedText": "và chọn điều có thể cam kết.",
+      "speechEndSeconds": 27.04,
+      "durationFrames": 56,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Sau khi viết",
+      "phase": "content",
+      "scene": "source_check",
+      "mode": "numbers",
+      "narratedMeaning": "Sau khi viết cần đối chiếu số liệu trong email với nguồn.",
+      "requiredVisual": "Email có giá 120.000đ nằm cạnh nguồn 1.200.000đ; highlight chữ số 0 bị thiếu, con trỏ đi từ tệp nguồn sang trường cần kiểm. Đây là bước phát hiện, chưa ghi nhận đã lưu bản sửa.",
+      "visibleFacts": [
+        "Email 120.000đ đối chiếu nguồn 1.200.000đ",
+        "Thiếu một số 0 được chỉ đúng vị trí",
+        "Dữ liệu giả định luôn hiện cạnh giá"
+      ],
+      "continuityGroup": "review",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Email 120.000đ đối chiếu nguồn 1.200.000đ",
+          "Thiếu một số 0 được chỉ đúng vị trí",
+          "Dữ liệu giả định luôn hiện cạnh giá"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L13",
+      "startWordIndex": 102,
+      "start": 816,
+      "anchorSeconds": 27.2,
+      "semanticContract": {
+        "subject": "Người đối chiếu bản nháp với hồ sơ nguồn",
+        "action": "Sau khi viết cần đối chiếu số liệu trong email với nguồn.",
+        "object": "Trường tính năng hoặc giá trong email và trường tương ứng ở tài liệu nguồn",
+        "visibleState": [
+          "Email 120.000đ đối chiếu nguồn 1.200.000đ",
+          "Thiếu một số 0 được chỉ đúng vị trí",
+          "Dữ liệu giả định luôn hiện cạnh giá"
+        ]
+      },
+      "endWordIndexExclusive": 112,
+      "end": 911,
+      "narratedText": "Sau khi viết, bạn còn phải kiểm tra số liệu,",
+      "speechEndSeconds": 30.32,
+      "durationFrames": 95,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "sửa giọng điệu",
+      "phase": "content",
+      "scene": "tone_edit",
+      "mode": "before_after",
+      "narratedMeaning": "Giọng điệu email phải được sửa để phù hợp người nhận.",
+      "requiredVisual": "Giữ cùng cửa sổ email, cận đúng lời chào mời: gạch “Mua ngay!” và thay bằng “Mời bạn tham khảo.”. Chỉ một thay đổi ngắn, không bắt đọc hai đoạn dài trong nhịp 1 giây.",
+      "visibleFacts": [
+        "Mua ngay! bị gạch",
+        "Mời bạn tham khảo. thay vào đúng dòng",
+        "Chỉ một thay đổi giọng điệu ngắn trong cùng email"
+      ],
+      "continuityGroup": "review",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Mua ngay! bị gạch",
+          "Mời bạn tham khảo. thay vào đúng dòng",
+          "Chỉ một thay đổi giọng điệu ngắn trong cùng email"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L14",
+      "startWordIndex": 112,
+      "start": 911,
+      "anchorSeconds": 30.36,
+      "semanticContract": {
+        "subject": "Người sửa lời email",
+        "action": "Giọng điệu email phải được sửa để phù hợp người nhận.",
+        "object": "Cùng một dòng chào mời trong email trước và sau sửa",
+        "visibleState": [
+          "Mua ngay! bị gạch",
+          "Mời bạn tham khảo. thay vào đúng dòng",
+          "Chỉ một thay đổi giọng điệu ngắn trong cùng email"
+        ]
+      },
+      "endWordIndexExclusive": 115,
+      "end": 941,
+      "narratedText": "sửa giọng điệu,",
+      "speechEndSeconds": 31.28,
+      "durationFrames": 30,
+      "displayPolicy": "Reuse the established interface and only change one highlight/state; no new layout intro or reading paragraph."
+    },
+    {
+      "phrase": "rồi theo dõi phản hồi",
+      "phase": "content",
+      "scene": "feedback",
+      "mode": "listen",
+      "narratedMeaning": "Theo dõi phản hồi khách là một phần của công việc sau bản nháp.",
+      "requiredVisual": "Luồng hội thoại giả định hiện câu “Nếu không có nguồn USB thì dùng được không?”; kéo câu hỏi đó vào mục Cần trả lời, không dùng ảnh cầm tai nghe thay cho phản hồi.",
+      "visibleFacts": [
+        "Có nội dung phản hồi cụ thể",
+        "Câu hỏi được đưa vào danh sách cần giải quyết",
+        "Không tự coi lời cảm ơn là đã giải quyết vấn đề"
+      ],
+      "continuityGroup": "review",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có nội dung phản hồi cụ thể",
+          "Câu hỏi được đưa vào danh sách cần giải quyết",
+          "Không tự coi lời cảm ơn là đã giải quyết vấn đề"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L15",
+      "startWordIndex": 115,
+      "start": 941,
+      "anchorSeconds": 31.36,
+      "semanticContract": {
+        "subject": "Người theo dõi và xử lý phản hồi khách",
+        "action": "Theo dõi phản hồi khách là một phần của công việc sau bản nháp.",
+        "object": "Câu hỏi khách và lời đáp có hoặc chưa giải quyết được nhu cầu",
+        "visibleState": [
+          "Có nội dung phản hồi cụ thể",
+          "Câu hỏi được đưa vào danh sách cần giải quyết",
+          "Không tự coi lời cảm ơn là đã giải quyết vấn đề"
+        ]
+      },
+      "endWordIndexExclusive": 120,
+      "end": 983,
+      "narratedText": "rồi theo dõi phản hồi.",
+      "speechEndSeconds": 32.48,
+      "durationFrames": 42,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "AI có thể",
+      "phase": "content",
+      "scene": "email_draft",
+      "mode": "typing",
+      "narratedMeaning": "AI hữu ích ở bước tạo bản nháp.",
+      "requiredVisual": "Nhập lại lời nháp ngắn trong email, cạnh nhãn AI hỗ trợ bản đầu; chỉ cột Tạo nháp có dấu xong, cột kiểm tra vẫn để chờ.",
+      "visibleFacts": [
+        "Thấy email đang được tạo",
+        "Dấu xong chỉ ở bước bản đầu",
+        "Không đánh dấu toàn bộ quy trình hoàn tất"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Thấy email đang được tạo",
+          "Dấu xong chỉ ở bước bản đầu",
+          "Không đánh dấu toàn bộ quy trình hoàn tất"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L16",
+      "startWordIndex": 120,
+      "start": 983,
+      "anchorSeconds": 32.773,
+      "semanticContract": {
+        "subject": "Công cụ AI tạo bản đầu",
+        "action": "AI hữu ích ở bước tạo bản nháp.",
+        "object": "Email chào hàng đèn Mẫu A có người nhận, chủ đề, nội dung và nhãn Nháp",
+        "visibleState": [
+          "Thấy email đang được tạo",
+          "Dấu xong chỉ ở bước bản đầu",
+          "Không đánh dấu toàn bộ quy trình hoàn tất"
+        ]
+      },
+      "endWordIndexExclusive": 127,
+      "end": 1040,
+      "narratedText": "AI có thể hỗ trợ bản nháp.",
+      "speechEndSeconds": 34.56,
+      "durationFrames": 57,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Nhưng bản nháp",
+      "phase": "content",
+      "scene": "quality_gate",
+      "mode": "blocked",
+      "narratedMeaning": "Bản nháp chưa phải kết quả cuối cùng có thể gửi.",
+      "requiredVisual": "Chuyển cận nút Gửi bị khóa; bảng kiểm còn lỗi tính năng và giá. Mọi thứ trong cùng cửa sổ email thay vì dùng chồng hồ sơ xa ngữ cảnh.",
+      "visibleFacts": [
+        "Nút Gửi bị khóa",
+        "Còn lỗi tính năng/giá",
+        "Bản nháp chưa được duyệt"
+      ],
+      "continuityGroup": "email-case",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Nút Gửi bị khóa",
+          "Còn lỗi tính năng/giá",
+          "Bản nháp chưa được duyệt"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L17",
+      "startWordIndex": 127,
+      "start": 1040,
+      "anchorSeconds": 34.653,
+      "semanticContract": {
+        "subject": "Người kiểm soát điều kiện chấp nhận kết quả",
+        "action": "Bản nháp chưa phải kết quả cuối cùng có thể gửi.",
+        "object": "Bảng tiêu chí, căn cứ kiểm tra và quyền duyệt/giữ cách làm",
+        "visibleState": [
+          "Nút Gửi bị khóa",
+          "Còn lỗi tính năng/giá",
+          "Bản nháp chưa được duyệt"
+        ]
+      },
+      "endWordIndexExclusive": 136,
+      "end": 1112,
+      "narratedText": "Nhưng bản nháp chưa phải kết quả cuối cùng.",
+      "speechEndSeconds": 36.96,
+      "durationFrames": 72,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Một câu nghe",
+      "phase": "content",
+      "scene": "context",
+      "mode": "missing",
+      "narratedMeaning": "Một câu trôi chảy có thể bỏ qua nhu cầu người đọc.",
+      "requiredVisual": "Câu viết trơn tru “Phù hợp mọi góc làm việc” đứng cạnh yêu cầu cần dùng không có nguồn; đường đối chiếu bị đứt, nhãn Chưa trả lời nhu cầu xuất hiện.",
+      "visibleFacts": [
+        "Câu nghe trôi chảy có trên email",
+        "Nhu cầu dùng không có nguồn vẫn chưa được trả lời",
+        "Không dùng cảm xúc của mẫu ảnh stock làm bằng chứng thiếu bối cảnh"
+      ],
+      "continuityGroup": "review",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Câu nghe trôi chảy có trên email",
+          "Nhu cầu dùng không có nguồn vẫn chưa được trả lời",
+          "Không dùng cảm xúc của mẫu ảnh stock làm bằng chứng thiếu bối cảnh"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L18",
+      "startWordIndex": 136,
+      "start": 1112,
+      "anchorSeconds": 37.06,
+      "semanticContract": {
+        "subject": "Người tìm hiểu nhu cầu thật của khách",
+        "action": "Một câu trôi chảy có thể bỏ qua nhu cầu người đọc.",
+        "object": "Nhu cầu dùng nơi không có nguồn điện đối chiếu đèn cần dây",
+        "visibleState": [
+          "Câu nghe trôi chảy có trên email",
+          "Nhu cầu dùng không có nguồn vẫn chưa được trả lời",
+          "Không dùng cảm xúc của mẫu ảnh stock làm bằng chứng thiếu bối cảnh"
+        ]
+      },
+      "endWordIndexExclusive": 147,
+      "end": 1207,
+      "narratedText": "Một câu nghe trơn tru vẫn có thể thiếu bối cảnh.",
+      "speechEndSeconds": 40.08,
+      "durationFrames": 95,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Một bảng nhìn",
+      "phase": "content",
+      "scene": "source_check",
+      "mode": "original",
+      "narratedMeaning": "Bảng trình bày gọn vẫn phải đối chiếu với tài liệu gốc.",
+      "requiredVisual": "Bảng sạch gồm Nguồn cấp/Pin/Giá nằm cạnh trang nguồn gốc giả định; lần lượt nối từng hàng, giữ lỗi dùng không dây và thiếu số 0 có thể thấy.",
+      "visibleFacts": [
+        "Bảng tổng hợp và nguồn gốc cùng hiện",
+        "Từng trường có đường đối chiếu",
+        "Độ đẹp của bảng không che các trường sai"
+      ],
+      "continuityGroup": "review",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Bảng tổng hợp và nguồn gốc cùng hiện",
+          "Từng trường có đường đối chiếu",
+          "Độ đẹp của bảng không che các trường sai"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L19",
+      "startWordIndex": 147,
+      "start": 1207,
+      "anchorSeconds": 40.22,
+      "semanticContract": {
+        "subject": "Người đối chiếu bản nháp với hồ sơ nguồn",
+        "action": "Bảng trình bày gọn vẫn phải đối chiếu với tài liệu gốc.",
+        "object": "Trường tính năng hoặc giá trong email và trường tương ứng ở tài liệu nguồn",
+        "visibleState": [
+          "Bảng tổng hợp và nguồn gốc cùng hiện",
+          "Từng trường có đường đối chiếu",
+          "Độ đẹp của bảng không che các trường sai"
+        ]
+      },
+      "endWordIndexExclusive": 160,
+      "end": 1322,
+      "narratedText": "Một bảng nhìn rất gọn vẫn cần đối chiếu với tài liệu gốc.",
+      "speechEndSeconds": 43.92,
+      "durationFrames": 115,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Thử tách công việc",
+      "phase": "content",
+      "scene": "task_map",
+      "mode": "all",
+      "narratedMeaning": "Công việc được tách thành ba bước liên quan nhưng khác trách nhiệm.",
+      "requiredVisual": "Email, tệp nguồn và con dấu duyệt được đặt trong không gian 3D thành ba bước Tạo bản đầu → Kiểm tra → Quyết định. Các vật thể là đúng tài liệu của tình huống.",
+      "visibleFacts": [
+        "Ba bước ghi đúng tên",
+        "Bản nháp / nguồn / ô duyệt là vật thể cụ thể",
+        "Không là gallery ba ảnh người công sở ngẫu nhiên"
+      ],
+      "continuityGroup": "task-flow",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Ba bước ghi đúng tên",
+          "Bản nháp / nguồn / ô duyệt là vật thể cụ thể",
+          "Không là gallery ba ảnh người công sở ngẫu nhiên"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L20",
+      "startWordIndex": 160,
+      "start": 1322,
+      "anchorSeconds": 44.053,
+      "semanticContract": {
+        "subject": "Người phân công từng nhiệm vụ",
+        "action": "Công việc được tách thành ba bước liên quan nhưng khác trách nhiệm.",
+        "object": "Các bước tạo nháp, đối chiếu nguồn và người duyệt của cùng email",
+        "visibleState": [
+          "Ba bước ghi đúng tên",
+          "Bản nháp / nguồn / ô duyệt là vật thể cụ thể",
+          "Không là gallery ba ảnh người công sở ngẫu nhiên"
+        ]
+      },
+      "endWordIndexExclusive": 167,
+      "end": 1375,
+      "narratedText": "Thử tách công việc thành ba phần:",
+      "speechEndSeconds": 45.68,
+      "durationFrames": 53,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "tạo bản đầu",
+      "phase": "content",
+      "scene": "task_map",
+      "mode": "draft",
+      "narratedMeaning": "Bước một là tạo bản đầu.",
+      "requiredVisual": "Giữ cùng góc máy của ba bước, chỉ email nháp sáng lên và một đoạn nội dung được tạo; hai bước sau vẫn chờ.",
+      "visibleFacts": [
+        "Tạo bản đầu đang sáng",
+        "Email có nhãn Nháp",
+        "Hai bước sau chưa xong"
+      ],
+      "continuityGroup": "task-flow",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Tạo bản đầu đang sáng",
+          "Email có nhãn Nháp",
+          "Hai bước sau chưa xong"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L21",
+      "startWordIndex": 167,
+      "start": 1375,
+      "anchorSeconds": 45.82,
+      "semanticContract": {
+        "subject": "Người phân công từng nhiệm vụ",
+        "action": "Bước một là tạo bản đầu.",
+        "object": "Các bước tạo nháp, đối chiếu nguồn và người duyệt của cùng email",
+        "visibleState": [
+          "Tạo bản đầu đang sáng",
+          "Email có nhãn Nháp",
+          "Hai bước sau chưa xong"
+        ]
+      },
+      "endWordIndexExclusive": 170,
+      "end": 1413,
+      "narratedText": "tạo bản đầu,",
+      "speechEndSeconds": 47.04,
+      "durationFrames": 38,
+      "displayPolicy": "Reuse the established interface and only change one highlight/state; no new layout intro or reading paragraph."
+    },
+    {
+      "phrase": "kiểm tra",
+      "phase": "content",
+      "scene": "task_map",
+      "mode": "review",
+      "narratedMeaning": "Bước hai là kiểm tra.",
+      "requiredVisual": "Không đổi sang cảnh mới; đèn chiếu sáng cột nguồn và bảng kiểm, hai điểm tính năng/giá được nối đối chiếu.",
+      "visibleFacts": [
+        "Kiểm tra đang sáng",
+        "Có đối chiếu thật giữa nguồn và nháp",
+        "Bước quyết định chưa tự động xong"
+      ],
+      "continuityGroup": "task-flow",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Kiểm tra đang sáng",
+          "Có đối chiếu thật giữa nguồn và nháp",
+          "Bước quyết định chưa tự động xong"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L22",
+      "startWordIndex": 170,
+      "start": 1413,
+      "anchorSeconds": 47.088,
+      "semanticContract": {
+        "subject": "Người phân công từng nhiệm vụ",
+        "action": "Bước hai là kiểm tra.",
+        "object": "Các bước tạo nháp, đối chiếu nguồn và người duyệt của cùng email",
+        "visibleState": [
+          "Kiểm tra đang sáng",
+          "Có đối chiếu thật giữa nguồn và nháp",
+          "Bước quyết định chưa tự động xong"
+        ]
+      },
+      "endWordIndexExclusive": 172,
+      "end": 1434,
+      "narratedText": "kiểm tra,",
+      "speechEndSeconds": 47.68,
+      "durationFrames": 21,
+      "displayPolicy": "Reuse the established interface and only change one highlight/state; no new layout intro or reading paragraph."
+    },
+    {
+      "phrase": "và quyết định",
+      "phase": "content",
+      "scene": "task_map",
+      "mode": "decide",
+      "narratedMeaning": "Bước ba là người chịu trách nhiệm quyết định.",
+      "requiredVisual": "Cột Quyết định sáng lên với ba lựa chọn Sửa tiếp / Không gửi / Duyệt bản đúng; con trỏ người dùng chọn, không để AI tự bấm gửi.",
+      "visibleFacts": [
+        "Có lựa chọn duyệt/sửa/không gửi",
+        "Con trỏ người dùng ở bước quyết định",
+        "Không đồng nhất kiểm tra với tự động gửi"
+      ],
+      "continuityGroup": "task-flow",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có lựa chọn duyệt/sửa/không gửi",
+          "Con trỏ người dùng ở bước quyết định",
+          "Không đồng nhất kiểm tra với tự động gửi"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L23",
+      "startWordIndex": 172,
+      "start": 1434,
+      "anchorSeconds": 47.813,
+      "semanticContract": {
+        "subject": "Người phân công từng nhiệm vụ",
+        "action": "Bước ba là người chịu trách nhiệm quyết định.",
+        "object": "Các bước tạo nháp, đối chiếu nguồn và người duyệt của cùng email",
+        "visibleState": [
+          "Có lựa chọn duyệt/sửa/không gửi",
+          "Con trỏ người dùng ở bước quyết định",
+          "Không đồng nhất kiểm tra với tự động gửi"
+        ]
+      },
+      "endWordIndexExclusive": 175,
+      "end": 1466,
+      "narratedText": "và quyết định.",
+      "speechEndSeconds": 48.64,
+      "durationFrames": 32,
+      "displayPolicy": "Reuse the established interface and only change one highlight/state; no new layout intro or reading paragraph."
+    },
+    {
+      "phrase": "Đừng gom",
+      "phase": "content",
+      "scene": "send_gate",
+      "mode": "blocked",
+      "narratedMeaning": "Không gộp nháp, kiểm tra và quyết định thành một nút gửi tự động.",
+      "requiredVisual": "Biểu tượng một nút Gửi tất cả bị gạch; tách thành ba ô có khóa kiểm tra và ô người duyệt. Cùng email chưa được gửi ra ngoài.",
+      "visibleFacts": [
+        "Một nút gửi tự động bị chặn",
+        "Ba bước giữ riêng",
+        "Email còn trạng thái Chưa gửi"
+      ],
+      "continuityGroup": "task-flow",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Một nút gửi tự động bị chặn",
+          "Ba bước giữ riêng",
+          "Email còn trạng thái Chưa gửi"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L24",
+      "startWordIndex": 175,
+      "start": 1466,
+      "anchorSeconds": 48.88,
+      "semanticContract": {
+        "subject": "Người chịu trách nhiệm duyệt gửi",
+        "action": "Không gộp nháp, kiểm tra và quyết định thành một nút gửi tự động.",
+        "object": "Nút Gửi và các điều kiện phải kiểm tra trước gửi",
+        "visibleState": [
+          "Một nút gửi tự động bị chặn",
+          "Ba bước giữ riêng",
+          "Email còn trạng thái Chưa gửi"
+        ]
+      },
+      "endWordIndexExclusive": 183,
+      "end": 1528,
+      "narratedText": "Đừng gom cả ba vào một nút gửi.",
+      "speechEndSeconds": 50.72,
+      "durationFrames": 62,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Chỗ đáng nâng cấp",
+      "phase": "content",
+      "scene": "quality_compare",
+      "mode": "speed",
+      "narratedMeaning": "Tốc độ viết không phải tiêu chí duy nhất để nâng cấp quy trình.",
+      "requiredVisual": "Hàng Viết nháp 2 phút hiện ngắn nhưng phần Kiểm tra/Sửa còn kéo dài; câu sai được đánh dấu ngay trong email cạnh timer.",
+      "visibleFacts": [
+        "Viết nhanh hơn chỉ là một hàng thời gian",
+        "Lỗi vẫn thấy trong bản nháp",
+        "Không dùng hình đồng hồ trang trí thay cho phép so cụ thể"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Viết nhanh hơn chỉ là một hàng thời gian",
+          "Lỗi vẫn thấy trong bản nháp",
+          "Không dùng hình đồng hồ trang trí thay cho phép so cụ thể"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L25",
+      "startWordIndex": 183,
+      "start": 1528,
+      "anchorSeconds": 50.933,
+      "semanticContract": {
+        "subject": "Người đánh giá đầu ra và kết quả công việc",
+        "action": "Tốc độ viết không phải tiêu chí duy nhất để nâng cấp quy trình.",
+        "object": "Cùng email, hồ sơ nguồn, tiêu chí chất lượng và tổng công sức",
+        "visibleState": [
+          "Viết nhanh hơn chỉ là một hàng thời gian",
+          "Lỗi vẫn thấy trong bản nháp",
+          "Không dùng hình đồng hồ trang trí thay cho phép so cụ thể"
+        ]
+      },
+      "endWordIndexExclusive": 193,
+      "end": 1614,
+      "narratedText": "Chỗ đáng nâng cấp không chỉ là viết nhanh hơn,",
+      "speechEndSeconds": 53.76,
+      "durationFrames": 86,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "mà là phát hiện",
+      "phase": "content",
+      "scene": "source_check",
+      "mode": "mismatch",
+      "narratedMeaning": "Phát hiện lỗi trước khi gửi mới là điểm cải thiện hữu ích.",
+      "requiredVisual": "Tại nút kiểm tra trước gửi, hệ thống soi đúng câu Dùng không dây và giá sai. Hai cảnh báo xuất hiện trước phong bì được cho phép rời hộp thư.",
+      "visibleFacts": [
+        "Sai tính năng và sai giá được phát hiện",
+        "Cảnh báo xuất hiện trước khi gửi",
+        "Không minh họa phát hiện sai bằng người chỉ vào bảng bất kỳ"
+      ],
+      "continuityGroup": "review",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Sai tính năng và sai giá được phát hiện",
+          "Cảnh báo xuất hiện trước khi gửi",
+          "Không minh họa phát hiện sai bằng người chỉ vào bảng bất kỳ"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L26",
+      "startWordIndex": 193,
+      "start": 1614,
+      "anchorSeconds": 53.813,
+      "semanticContract": {
+        "subject": "Người đối chiếu bản nháp với hồ sơ nguồn",
+        "action": "Phát hiện lỗi trước khi gửi mới là điểm cải thiện hữu ích.",
+        "object": "Trường tính năng hoặc giá trong email và trường tương ứng ở tài liệu nguồn",
+        "visibleState": [
+          "Sai tính năng và sai giá được phát hiện",
+          "Cảnh báo xuất hiện trước khi gửi",
+          "Không minh họa phát hiện sai bằng người chỉ vào bảng bất kỳ"
+        ]
+      },
+      "endWordIndexExclusive": 200,
+      "end": 1666,
+      "narratedText": "mà là phát hiện sai sớm hơn.",
+      "speechEndSeconds": 55.44,
+      "durationFrames": 52,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Ngày mai",
+      "phase": "content",
+      "scene": "trial",
+      "mode": "choose",
+      "narratedMeaning": "Thử một nhiệm vụ nhỏ thay vì áp dụng ngay cho mọi việc.",
+      "requiredVisual": "Danh sách ba nhiệm vụ cụ thể có soạn email được chọn duy nhất; lịch Ngày mai gắn vào nhiệm vụ, hai việc khác không chọn.",
+      "visibleFacts": [
+        "Chỉ một nhiệm vụ được chọn",
+        "Nhiệm vụ là Nháp email",
+        "Không thay bước chọn việc bằng ảnh một người học máy tính chung chung"
+      ],
+      "continuityGroup": "trial",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Chỉ một nhiệm vụ được chọn",
+          "Nhiệm vụ là Nháp email",
+          "Không thay bước chọn việc bằng ảnh một người học máy tính chung chung"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L27",
+      "startWordIndex": 200,
+      "start": 1666,
+      "anchorSeconds": 55.536,
+      "semanticContract": {
+        "subject": "Người thực hiện một thử nghiệm nhỏ",
+        "action": "Thử một nhiệm vụ nhỏ thay vì áp dụng ngay cho mọi việc.",
+        "object": "Một nhiệm vụ nháp email, tiêu chí đạt, dữ liệu giả định và kết quả đối chiếu",
+        "visibleState": [
+          "Chỉ một nhiệm vụ được chọn",
+          "Nhiệm vụ là Nháp email",
+          "Không thay bước chọn việc bằng ảnh một người học máy tính chung chung"
+        ]
+      },
+      "endWordIndexExclusive": 206,
+      "end": 1724,
+      "narratedText": "Ngày mai, chọn một việc nhỏ,",
+      "speechEndSeconds": 57.36,
+      "durationFrames": 58,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "như nháp email",
+      "phase": "content",
+      "scene": "trial",
+      "mode": "dummy_data",
+      "narratedMeaning": "Thử nháp email bằng dữ liệu giả định.",
+      "requiredVisual": "Mở hồ sơ đèn Mẫu A và người nhận @vidu.invalid; watermark ngắn DỮ LIỆU GIẢ ĐỊNH; nhập thông số ví dụ vào brief để tạo email.",
+      "visibleFacts": [
+        "Mẫu A và @vidu.invalid",
+        "DỮ LIỆU GIẢ ĐỊNH đọc rõ",
+        "Đầu vào của thử nghiệm có đủ nguồn/cam kết/nhu cầu"
+      ],
+      "continuityGroup": "trial",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Mẫu A và @vidu.invalid",
+          "DỮ LIỆU GIẢ ĐỊNH đọc rõ",
+          "Đầu vào của thử nghiệm có đủ nguồn/cam kết/nhu cầu"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L28",
+      "startWordIndex": 206,
+      "start": 1724,
+      "anchorSeconds": 57.46,
+      "semanticContract": {
+        "subject": "Người thực hiện một thử nghiệm nhỏ",
+        "action": "Thử nháp email bằng dữ liệu giả định.",
+        "object": "Một nhiệm vụ nháp email, tiêu chí đạt, dữ liệu giả định và kết quả đối chiếu",
+        "visibleState": [
+          "Mẫu A và @vidu.invalid",
+          "DỮ LIỆU GIẢ ĐỊNH đọc rõ",
+          "Đầu vào của thử nghiệm có đủ nguồn/cam kết/nhu cầu"
+        ]
+      },
+      "endWordIndexExclusive": 214,
+      "end": 1792,
+      "narratedText": "như nháp email bằng dữ liệu giả định.",
+      "speechEndSeconds": 59.52,
+      "durationFrames": 68,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Ghi lại thời gian viết",
+      "phase": "content",
+      "scene": "time_log",
+      "mode": "write",
+      "narratedMeaning": "Ghi riêng thời gian tạo bản nháp.",
+      "requiredVisual": "Một hàng log có tiêu đề Viết nháp, giá trị ví dụ 2 phút được nhập; nguồn hình vẫn có email trong góc.",
+      "visibleFacts": [
+        "Hàng Viết nháp tách riêng",
+        "2 phút là số ví dụ",
+        "DỮ LIỆU GIẢ ĐỊNH nằm cùng bảng"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Hàng Viết nháp tách riêng",
+          "2 phút là số ví dụ",
+          "DỮ LIỆU GIẢ ĐỊNH nằm cùng bảng"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L29",
+      "startWordIndex": 214,
+      "start": 1792,
+      "anchorSeconds": 59.72,
+      "semanticContract": {
+        "subject": "Người ghi và so thời gian của thử nghiệm",
+        "action": "Ghi riêng thời gian tạo bản nháp.",
+        "object": "Bảng ví dụ gồm viết 2 phút, sửa 13 phút, tổng 15 phút và mốc so 12 phút",
+        "visibleState": [
+          "Hàng Viết nháp tách riêng",
+          "2 phút là số ví dụ",
+          "DỮ LIỆU GIẢ ĐỊNH nằm cùng bảng"
+        ]
+      },
+      "endWordIndexExclusive": 219,
+      "end": 1835,
+      "narratedText": "Ghi lại thời gian viết,",
+      "speechEndSeconds": 61.12,
+      "durationFrames": 43,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "thời gian sửa",
+      "phase": "content",
+      "scene": "time_log",
+      "mode": "repair",
+      "narratedMeaning": "Ghi riêng thời gian sửa bản nháp.",
+      "requiredVisual": "Hàng thứ hai Kiểm tra và sửa có giá trị ví dụ 13 phút; thấy các vết sửa nguồn/giá/câu hứa của cùng email.",
+      "visibleFacts": [
+        "Hàng Kiểm tra và sửa tách riêng",
+        "13 phút là số ví dụ",
+        "Vết sửa gắn với chính email trong tình huống"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Hàng Kiểm tra và sửa tách riêng",
+          "13 phút là số ví dụ",
+          "Vết sửa gắn với chính email trong tình huống"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L30",
+      "startWordIndex": 219,
+      "start": 1835,
+      "anchorSeconds": 61.152,
+      "semanticContract": {
+        "subject": "Người ghi và so thời gian của thử nghiệm",
+        "action": "Ghi riêng thời gian sửa bản nháp.",
+        "object": "Bảng ví dụ gồm viết 2 phút, sửa 13 phút, tổng 15 phút và mốc so 12 phút",
+        "visibleState": [
+          "Hàng Kiểm tra và sửa tách riêng",
+          "13 phút là số ví dụ",
+          "Vết sửa gắn với chính email trong tình huống"
+        ]
+      },
+      "endWordIndexExclusive": 222,
+      "end": 1858,
+      "narratedText": "thời gian sửa",
+      "speechEndSeconds": 61.76,
+      "durationFrames": 23,
+      "displayPolicy": "Reuse the established interface and only change one highlight/state; no new layout intro or reading paragraph."
+    },
+    {
+      "phrase": "và lỗi còn sót",
+      "phase": "content",
+      "scene": "quality_gate",
+      "mode": "fail",
+      "narratedMeaning": "Đếm cả lỗi chưa xử lý, không chỉ số phút.",
+      "requiredVisual": "Bảng log thêm cột Lỗi còn sót; trạng thái Chưa kiểm đủ bật lên nếu vẫn có câu hứa không khớp nguồn, chưa kết luận thành công.",
+      "visibleFacts": [
+        "Có cột Lỗi còn sót",
+        "Còn lỗi thì không đạt",
+        "Không biến bảng ghi thời gian thành số liệu hiệu năng có thật"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có cột Lỗi còn sót",
+          "Còn lỗi thì không đạt",
+          "Không biến bảng ghi thời gian thành số liệu hiệu năng có thật"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L31",
+      "startWordIndex": 222,
+      "start": 1858,
+      "anchorSeconds": 61.92,
+      "semanticContract": {
+        "subject": "Người kiểm soát điều kiện chấp nhận kết quả",
+        "action": "Đếm cả lỗi chưa xử lý, không chỉ số phút.",
+        "object": "Bảng tiêu chí, căn cứ kiểm tra và quyền duyệt/giữ cách làm",
+        "visibleState": [
+          "Có cột Lỗi còn sót",
+          "Còn lỗi thì không đạt",
+          "Không biến bảng ghi thời gian thành số liệu hiệu năng có thật"
+        ]
+      },
+      "endWordIndexExclusive": 226,
+      "end": 1898,
+      "narratedText": "và lỗi còn sót.",
+      "speechEndSeconds": 63.12,
+      "durationFrames": 40,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Nếu tổng thời gian",
+      "phase": "content",
+      "scene": "time_log",
+      "mode": "total",
+      "narratedMeaning": "Phải xét tổng viết cộng sửa so với cách làm trước.",
+      "requiredVisual": "Phép cộng 2 phút viết + 13 phút sửa = 15 phút đặt sát mốc cũ ví dụ 12 phút; vạch tổng AI dài hơn, nhãn Chưa tiết kiệm thời gian.",
+      "visibleFacts": [
+        "2 + 13 = 15 phút",
+        "So với mốc ví dụ 12 phút",
+        "DỮ LIỆU GIẢ ĐỊNH và điều kiện Chưa tiết kiệm hiện rõ"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "2 + 13 = 15 phút",
+          "So với mốc ví dụ 12 phút",
+          "DỮ LIỆU GIẢ ĐỊNH và điều kiện Chưa tiết kiệm hiện rõ"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L32",
+      "startWordIndex": 226,
+      "start": 1898,
+      "anchorSeconds": 63.26,
+      "semanticContract": {
+        "subject": "Người ghi và so thời gian của thử nghiệm",
+        "action": "Phải xét tổng viết cộng sửa so với cách làm trước.",
+        "object": "Bảng ví dụ gồm viết 2 phút, sửa 13 phút, tổng 15 phút và mốc so 12 phút",
+        "visibleState": [
+          "2 + 13 = 15 phút",
+          "So với mốc ví dụ 12 phút",
+          "DỮ LIỆU GIẢ ĐỊNH và điều kiện Chưa tiết kiệm hiện rõ"
+        ]
+      },
+      "endWordIndexExclusive": 232,
+      "end": 1949,
+      "narratedText": "Nếu tổng thời gian không giảm,",
+      "speechEndSeconds": 64.88,
+      "durationFrames": 51,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "hoặc bạn không kiểm tra",
+      "phase": "content",
+      "scene": "quality_gate",
+      "mode": "fail",
+      "narratedMeaning": "Không kiểm soát được lỗi cũng là điều kiện dừng cách làm này.",
+      "requiredVisual": "Một ô kiểm chưa có nguồn xác minh chặn trạng thái Duyệt; nhãn Chưa đủ căn cứ, dù có thể tạo nháp nhanh.",
+      "visibleFacts": [
+        "Ô kiểm chưa xác minh được",
+        "Duyệt bị khóa",
+        "Trạng thái thất bại có nguyên nhân cụ thể"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Ô kiểm chưa xác minh được",
+          "Duyệt bị khóa",
+          "Trạng thái thất bại có nguyên nhân cụ thể"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L33",
+      "startWordIndex": 232,
+      "start": 1949,
+      "anchorSeconds": 64.976,
+      "semanticContract": {
+        "subject": "Người kiểm soát điều kiện chấp nhận kết quả",
+        "action": "Không kiểm soát được lỗi cũng là điều kiện dừng cách làm này.",
+        "object": "Bảng tiêu chí, căn cứ kiểm tra và quyền duyệt/giữ cách làm",
+        "visibleState": [
+          "Ô kiểm chưa xác minh được",
+          "Duyệt bị khóa",
+          "Trạng thái thất bại có nguyên nhân cụ thể"
+        ]
+      },
+      "endWordIndexExclusive": 238,
+      "end": 2003,
+      "narratedText": "hoặc bạn không kiểm tra nổi,",
+      "speechEndSeconds": 66.72,
+      "durationFrames": 54,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "hãy đổi cách giao việc",
+      "phase": "content",
+      "scene": "email_prompt",
+      "mode": "revised",
+      "narratedMeaning": "Đổi cách giao việc bằng cách bổ sung yêu cầu rõ hơn.",
+      "requiredVisual": "Sửa prompt ban đầu thành ba ràng buộc ngắn: dùng hồ sơ đính kèm; không hứa không dây; nêu rõ nhu cầu chưa phù hợp. Con trỏ thêm các dòng này.",
+      "visibleFacts": [
+        "Prompt được sửa bằng ràng buộc cụ thể",
+        "Bám nguồn và nhu cầu khách",
+        "Không minh họa đổi cách giao việc bằng ảnh sticky note không liên quan"
+      ],
+      "continuityGroup": "trial",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Prompt được sửa bằng ràng buộc cụ thể",
+          "Bám nguồn và nhu cầu khách",
+          "Không minh họa đổi cách giao việc bằng ảnh sticky note không liên quan"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L34",
+      "startWordIndex": 238,
+      "start": 2003,
+      "anchorSeconds": 66.76,
+      "semanticContract": {
+        "subject": "Người giao việc và công cụ AI minh họa",
+        "action": "Đổi cách giao việc bằng cách bổ sung yêu cầu rõ hơn.",
+        "object": "Ô yêu cầu viết email, hồ sơ Đèn bàn Mẫu A và ràng buộc cam kết",
+        "visibleState": [
+          "Prompt được sửa bằng ràng buộc cụ thể",
+          "Bám nguồn và nhu cầu khách",
+          "Không minh họa đổi cách giao việc bằng ảnh sticky note không liên quan"
+        ]
+      },
+      "endWordIndexExclusive": 243,
+      "end": 2044,
+      "narratedText": "hãy đổi cách giao việc.",
+      "speechEndSeconds": 68.0,
+      "durationFrames": 41,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Đừng gọi một thao tác",
+      "phase": "content",
+      "scene": "quality_compare",
+      "mode": "total",
+      "narratedMeaning": "Một thao tác nhanh hơn chưa chứng minh tổng năng suất cao hơn.",
+      "requiredVisual": "Hai thanh tổng 12 và 15 phút cùng bảng lỗi hiển thị cạnh email: Viết nhanh được check, Tổng tốt hơn còn dấu hỏi/không đạt. Không đưa một kết quả khái quát cho mọi người.",
+      "visibleFacts": [
+        "Tách tốc độ viết khỏi tổng kết quả",
+        "Tổng và lỗi cùng được xét",
+        "Số liệu chỉ là ví dụ minh họa"
+      ],
+      "continuityGroup": "time-example",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Tách tốc độ viết khỏi tổng kết quả",
+          "Tổng và lỗi cùng được xét",
+          "Số liệu chỉ là ví dụ minh họa"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L35",
+      "startWordIndex": 243,
+      "start": 2044,
+      "anchorSeconds": 68.12,
+      "semanticContract": {
+        "subject": "Người đánh giá đầu ra và kết quả công việc",
+        "action": "Một thao tác nhanh hơn chưa chứng minh tổng năng suất cao hơn.",
+        "object": "Cùng email, hồ sơ nguồn, tiêu chí chất lượng và tổng công sức",
+        "visibleState": [
+          "Tách tốc độ viết khỏi tổng kết quả",
+          "Tổng và lỗi cùng được xét",
+          "Số liệu chỉ là ví dụ minh họa"
+        ]
+      },
+      "endWordIndexExclusive": 255,
+      "end": 2131,
+      "narratedText": "Đừng gọi một thao tác nhanh hơn là năng suất cao hơn.",
+      "speechEndSeconds": 70.8,
+      "durationFrames": 87,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Bạn sẽ giao phần nào",
+      "phase": "cta",
+      "scene": "task_map",
+      "mode": "assignment",
+      "narratedMeaning": "Mời người xem quyết định phần giao AI và phần tự kiểm tra.",
+      "requiredVisual": "Ba thẻ nhiệm vụ của ví dụ; kéo Tạo nháp vào cột AI hỗ trợ, Kiểm tra nguồn và Duyệt gửi vào cột Bạn chịu trách nhiệm. Dấu hỏi mời người xem lựa chọn cho việc của mình.",
+      "visibleFacts": [
+        "Có phân công AI hỗ trợ / Bạn kiểm tra",
+        "Giữ câu hỏi mở cho người xem",
+        "Không tự khẳng định một phân công đúng cho mọi nghề"
+      ],
+      "continuityGroup": "cta",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "authored_example",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Có phân công AI hỗ trợ / Bạn kiểm tra",
+          "Giữ câu hỏi mở cho người xem",
+          "Không tự khẳng định một phân công đúng cho mọi nghề"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L36",
+      "startWordIndex": 255,
+      "start": 2131,
+      "anchorSeconds": 71.02,
+      "semanticContract": {
+        "subject": "Người phân công từng nhiệm vụ",
+        "action": "Mời người xem quyết định phần giao AI và phần tự kiểm tra.",
+        "object": "Các bước tạo nháp, đối chiếu nguồn và người duyệt của cùng email",
+        "visibleState": [
+          "Có phân công AI hỗ trợ / Bạn kiểm tra",
+          "Giữ câu hỏi mở cho người xem",
+          "Không tự khẳng định một phân công đúng cho mọi nghề"
+        ]
+      },
+      "endWordIndexExclusive": 269,
+      "end": 2247,
+      "narratedText": "Bạn sẽ giao phần nào cho AI, và giữ phần nào tự kiểm tra?",
+      "speechEndSeconds": 74.8,
+      "durationFrames": 116,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Bình luận một công việc",
+      "phase": "cta",
+      "scene": "comment_cta",
+      "mode": "example",
+      "narratedMeaning": "Người xem được mời bình luận một công việc cụ thể.",
+      "requiredVisual": "Ô bình luận minh họa nhập ví dụ ngắn “Tôi muốn thử nháp email cho khách”; nút Bình luận là đồ họa, không thao tác tài khoản thật.",
+      "visibleFacts": [
+        "Ô bình luận có ví dụ liên quan công việc",
+        "Không hiển thị số like/bình luận giả",
+        "Không gửi bình luận thật"
+      ],
+      "continuityGroup": "cta",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "functional_cta",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Ô bình luận có ví dụ liên quan công việc",
+          "Không hiển thị số like/bình luận giả",
+          "Không gửi bình luận thật"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L37",
+      "startWordIndex": 269,
+      "start": 2247,
+      "anchorSeconds": 74.912,
+      "semanticContract": {
+        "subject": "Người xem được mời nêu một ví dụ",
+        "action": "Người xem được mời bình luận một công việc cụ thể.",
+        "object": "Ô bình luận minh họa cùng một ví dụ nhiệm vụ cụ thể",
+        "visibleState": [
+          "Ô bình luận có ví dụ liên quan công việc",
+          "Không hiển thị số like/bình luận giả",
+          "Không gửi bình luận thật"
+        ]
+      },
+      "endWordIndexExclusive": 276,
+      "end": 2306,
+      "narratedText": "Bình luận một công việc cụ thể.",
+      "speechEndSeconds": 76.56,
+      "durationFrames": 59,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    },
+    {
+      "phrase": "Đăng ký TYRANNO",
+      "phase": "cta",
+      "scene": "subscribe",
+      "mode": "follow",
+      "narratedMeaning": "Lời mời theo dõi để xem thử nghiệm tiếp theo.",
+      "requiredVisual": "End card TYRANNO với nút đăng ký minh họa và bản email/ba bước vừa học làm hình nhắc lại, giữ hết câu đọc và khoảng đệm cuối.",
+      "visibleFacts": [
+        "Nhận diện TYRANNO",
+        "Lời mời theo dõi thử nghiệm tiếp theo",
+        "Không mất câu đọc cuối hoặc dùng ảnh người học không liên quan làm kết"
+      ],
+      "continuityGroup": "cta",
+      "forbiddenSubstitute": [
+        "Ảnh người ngồi văn phòng không thể hiện thao tác đang nói",
+        "Ảnh bàn phím/màn hình thương mại điện tử thay cho email đang soạn",
+        "Gallery ảnh trang trí không biểu diễn quan hệ của câu"
+      ],
+      "proof": {
+        "kind": "functional_cta",
+        "status": "requires_render_inspection",
+        "checks": [
+          "Nhận diện TYRANNO",
+          "Lời mời theo dõi thử nghiệm tiếp theo",
+          "Không mất câu đọc cuối hoặc dùng ảnh người học không liên quan làm kết"
+        ],
+        "narrationRangeVerified": true
+      },
+      "id": "L38",
+      "startWordIndex": 276,
+      "start": 2306,
+      "anchorSeconds": 76.88,
+      "semanticContract": {
+        "subject": "Người xem được mời theo dõi TYRANNO",
+        "action": "Lời mời theo dõi để xem thử nghiệm tiếp theo.",
+        "object": "End card TYRANNO và nút theo dõi minh họa",
+        "visibleState": [
+          "Nhận diện TYRANNO",
+          "Lời mời theo dõi thử nghiệm tiếp theo",
+          "Không mất câu đọc cuối hoặc dùng ảnh người học không liên quan làm kết"
+        ]
+      },
+      "endWordIndexExclusive": 287,
+      "end": 2460,
+      "narratedText": "Đăng ký TYRANNO để cùng bóc tách thử nghiệm tiếp theo.",
+      "speechEndSeconds": 80.08,
+      "durationFrames": 154,
+      "displayPolicy": "Show the concrete operation and preserve its object/state through the narrated clause."
+    }
+  ]
+}

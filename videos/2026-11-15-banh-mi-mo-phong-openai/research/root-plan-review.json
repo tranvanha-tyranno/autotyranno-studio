@@ -1,0 +1,153 @@
+{
+  "schema": "bread-lab-root-plan-review/1",
+  "date": "2026-11-15",
+  "method": "Complete source-script read; current lab-plan cue values compared to existing wordTimes and renderer source contracts. No rendered/AV inspection in this review.",
+  "sourcePlanSHA256": "e5aa3f04165e87483f17a71f050f62ccaab1e3b8632b633b8e9349ed7b51c954",
+  "currentCounts": {
+    "shots": 41,
+    "simulationShots": 16,
+    "simulationSeconds": 242.6,
+    "simulationFraction": 0.6780955930308394
+  },
+  "issues": [
+    {
+      "id": "cue-b17-contract",
+      "priority": "P1",
+      "units": [
+        "b17"
+      ],
+      "observed": "Applied cues202,219,220. Actual phrases are income10m at202, income10.5m at219, original price22k at67. cues() silently moves the out-of-order price cue forward153frames/5.1s. BreadPower income expects cue0price/cue1income/cue2newincome/cue3conclusion, so the price row is absent while the opening price clause is spoken and appears under the wage clause.",
+      "action": "Pass the four events in semantic/chronological contract order: price20→22k, income10m, income10.5m, price rises faster than wage. Reject unsorted raw phrase cues instead of changing their actual time.",
+      "owner": "root scheduler"
+    },
+    {
+      "id": "cue-b21-contract",
+      "priority": "P1",
+      "units": [
+        "b21"
+      ],
+      "observed": "Raw cues18,150,100,379 are forced to18,150,151,379. The phrase con số bình quân occurs1.7s before its applied cue; near-adjacent150/151 also removes a meaningful reveal interval.",
+      "action": "Use phrases in spoken order or explicit named events. Do not make exact cue metadata claim a relocated visual cue is the spoken moment. Retain both actual and display times if intentional.",
+      "owner": "root scheduler"
+    },
+    {
+      "id": "money-compare-wrong-transient",
+      "priority": "P1",
+      "units": [
+        "b01",
+        "b06"
+      ],
+      "observed": "MoneySplit compare starts20k sale/12k input/3k remainder; at cue0 input becomes14.5k while sale stays20k, yielding500. In b06 that500 state appears while narration already says remainder2,500; sale rises22k only at cue214(7.13s). b01 likewise keeps20k until241(8.03s) while the hook describes the price already increased.",
+      "action": "Give compare its own state: correct before and after anchors20/12/5/3 versus22/14.5/5/2.5, then trace2k added payment into2.5k extra cost. Keep the500 counterfactual only in b05.",
+      "owner": "renderer agentB notified"
+    },
+    {
+      "id": "inventory-new-lot-current-batch",
+      "priority": "P1",
+      "units": [
+        "b12"
+      ],
+      "observed": "Inventory replace=cue2 is mapped to mẻ bánh hôm nay at230f. At that time the new low-cost lot starts feeding the same bowl labeled Mẻ bánh đang làm, while the narrator explains why the new invoice has not yet changed today batch cost.",
+      "action": "Keep current batch fed by the old lot. If showing later use of new lot, change to a distinctly labeled later batch after the possible-lag conclusion; never feed the same current bowl at cue2.",
+      "owner": "renderer agentB notified"
+    },
+    {
+      "id": "competition-opposite-conditional",
+      "priority": "P1",
+      "units": [
+        "b15"
+      ],
+      "observed": "Renderer weak flag depends only on data.stage===weak_alternative, absent from root plan. cue2at244 is khó chuyển chỗ mua but the existing strong route/customer switching and Nguy cơ mất khách remain, contrary to the weaker-pressure clause.",
+      "action": "At the hard-to-switch clause transition to a visibly obstructed route and weaker switching pressure, or split into an explicit weak_alternative scene without replaying unrelated earlier states.",
+      "owner": "renderer agentB notified"
+    },
+    {
+      "id": "synthesis-order",
+      "priority": "P1",
+      "units": [
+        "b22"
+      ],
+      "observed": "Synthesis cue0reveals BẢNG GIÁ/rate-level; cue1reveals HÓA ĐƠN/cost. Root b22cue0is customer payment/seller remainder and cue1is inflation rate, so the first two concepts reveal in the opposite order to speech.",
+      "action": "A payoff-specific contract should reveal cost/payment relation first, rate/level second, income/purchasing-power third, connect last.",
+      "owner": "renderer agentB notified"
+    },
+    {
+      "id": "cost-question-early",
+      "priority": "P2",
+      "units": [
+        "b11"
+      ],
+      "observed": "CostLedger question mode reveals the real-invoice question on cue1, but root cue1is tiền thuê at130f. The actual new-flour discussion is at330f. The next question is shown roughly6.7s early.",
+      "action": "Use a question-mode-specific cue slot at the actual if-invoice-falls phrase; the three cost objects should match their own spoken list rather than reuse question time.",
+      "owner": "root/renderer cue contract"
+    },
+    {
+      "id": "scope-family-no-households",
+      "priority": "P2",
+      "units": [
+        "b20",
+        "b21"
+      ],
+      "observed": "BasketScope ignores data.stage=households. Both units show the same single basket and categories. The b21 claim that baskets differ by household remains words only, while b20 already established the same scope picture.",
+      "action": "For b21 visibly contrast two qualitative baskets/exposures without numerical weights, or use a shorter scope simulation followed by actual distinct purchases. Avoid another complete identical basket reveal.",
+      "owner": "renderer agentB notified"
+    },
+    {
+      "id": "intro-payoff-repeated",
+      "priority": "P2",
+      "units": [
+        "b02",
+        "b23"
+      ],
+      "observed": "Synthesis ignores intro/question stages and uses the full payoff triangle/assertions. b02 is meant to orient a hypothetical shop; its first cue is9.63s, leaving a large empty/unrelated initial diagram. b23 asks specific checks but repeats the prior assertions.",
+      "action": "Restore b02 to real bakery footage with brief object introductions; b23 can be mostly real receipt/bread comparison with concise baseline/rate/income question emphasis. If simulated, use actual question-state operations, not the same payoff triangle.",
+      "owner": "root scheduler"
+    },
+    {
+      "id": "price-stage-restarts",
+      "priority": "P2",
+      "units": [
+        "b08",
+        "b09"
+      ],
+      "observed": "PriceLevel ignores stage=conclusion, so b09restarts the20→22→22.44 construction during a rate-versus-level conclusion. b08second cue is the22,440 result at363f rather than the earlier2% condition, making the smaller step begin after the calculation is already spoken.",
+      "action": "Set the second growth step from the2% phrase; conclusion mode should retain completed price path and contrast slower rate with still-rising level rather than reconstruct it.",
+      "owner": "root/renderer cue contract"
+    },
+    {
+      "id": "long-all-simulation-run",
+      "priority": "P2",
+      "units": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b09",
+        "b19",
+        "b21",
+        "b23"
+      ],
+      "observed": "20simulation units occupy9,026frames/300.867s,84.096%of357.767s. Firstb01–b06stay all simulation for82.6s. Many scenes share cream heading/footer and after-reveal hold even though eight family names exist.",
+      "action": "Retain full calculations and conditional actions, but trim intro/conclusion scene time into clause-matched footage. Target50–65%as editorial preference, not proof of acceptance. Suggested simulated seconds: b01~7,b02~3or0,b03full13.67,b04~7,b05full14.97,b06~10,b08full15.23,b09~6,b11~8,b12~11,b13~11,b14~12,b15~14,b17~11,b18~14,b19~7,b20~10,b21~7,b22full16.27,b23~6. This givesabout204.14s/57.1%if b02uses3s. Keep later exact-cue emphasis readable in footage or pick a later simulation subinterval; do not simply cut every unit at8s.",
+      "owner": "root scheduler"
+    }
+  ],
+  "mathStatus": {
+    "cost": "3,000/500/2,500correct under fixed5,000allocationandunchangedsales; label remainder, notnetprofit",
+    "price": "20,000→22,000→22,440correct, resettooriginal20→22chapter4",
+    "breadPower": "500→477.2727≈−4.545%correct; rounded477-gridmustdisclose rounding",
+    "inventoryCompetitionBasket": "qualitative assumptions only, no new market data"
+  },
+  "voiceStatus": "Provisional retained NamMinh. Two OpenAI keys invalid401; no OpenAI output claim.",
+  "userApproval": "pending",
+  "rendererFeedbackSent": [
+    "MoneySplitcompare",
+    "Inventorycurrent/laterbatch",
+    "Competitionweakconditional",
+    "Synthesispayofforder",
+    "BasketScopehouseholds"
+  ],
+  "unresolvedUntilAppliedAndRendered": true
+}

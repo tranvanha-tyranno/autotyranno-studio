@@ -1,9 +1,39 @@
 # Explainer production workflows
 
 This directory contains reusable Python production, review, repair and research
-tools plus the Remotion source project in `cinematic/`. Rendered video/audio,
-downloaded reference media, credentials, browser sessions and the local learning
-ledger stay outside this source publication.
+tools plus the Remotion source project in `cinematic/`. Selected latest exports,
+production assets and original compressed audio are archived with Git LFS alongside
+batch records. Superseded renders, expanded intermediate WAVs, downloaded reference
+videos, credentials, browser sessions, the local learning ledger and duplicate
+renderer bundles stay local. See [repository storage](../../docs/repository-storage.md).
+
+Latest content correction: read [CONTENT_FIRST.md](CONTENT_FIRST.md) and the
+dated chapter analyses in `docs/video-references/2026-11-14-content-study/`.
+The user rejected unfocused writing and requires clear sections with an argument,
+concrete example, emphasis and causal bridge. New timed narration through
+`eleven_audio.generate` requires a reviewed, matching `editorial-map.json`;
+existing exact takes/cache remain reusable. This is research and script workflow
+work, not approval or production of a new film.
+
+Latest complete bread-film rewrite: read [BREAD_DOCUMENTARY.md](BREAD_DOCUMENTARY.md).
+The subsequent user upgrade is [BREAD_LAB.md](BREAD_LAB.md): richer visible
+information, eight causal simulation families, web-downloaded CC0 Foley and
+OpenAI narration. Both supplied keys were rejected401; any retained-voice visual
+preview is explicitly provisional until OpenAI speech succeeds.
+The user now requires real moving footage, a continuous bakery story, natural
+emphasis, no cartoon cast/subtitles, and no separate long opening disclaimer.
+The new isolated branch is `bread_documentary.py` / `src/bread-documentary/`.
+After ElevenLabs quota blocked chapter three, the user explicitly authorized a
+different Vietnamese voice for this film. Its five final takes use consistent
+`vi-VN-NamMinhNeural` at `+8%` synthesis rate, with no post-synthesis time stretch;
+`active-generation-plan.json` selects them. The two Nhật Phong takes and failure
+receipts remain retained. This batch-specific override leaves Nhật Phong as the
+default for other explainers. Voice quality still awaits listening/user feedback.
+
+For the retained economics trial, read [ECONOMY_STORY.md](ECONOMY_STORY.md).
+The still-cast r03 was subsequently rejected; motion r06 is pending feedback.
+Its isolated renderer bundles Vietnamese Be Vietnam Pro fonts. Previous source
+families and their acceptance/rejection history remain retained.
 
 ## Current finance options
 
@@ -24,8 +54,9 @@ revision. The new artwork and motion proofs still await user feedback.
 
 The batch-specific demo commands reuse local narration, alignment, music and
 source receipts under `videos/`. Those files are required to reproduce an
-existing export and are not fetched or regenerated automatically by installing
-the code. A fresh checkout can compile and run offline tests without them.
+existing export. Published media are fetched with `git lfs pull`; filtered historical
+exports and intermediate stems still require the retained local files. Installing
+dependencies does not regenerate them. A code-only checkout can compile and run offline tests.
 New paid narration is only requested by explicit audio generation commands;
 unresolved-call guards and matching caches prevent blind duplicate retries.
 

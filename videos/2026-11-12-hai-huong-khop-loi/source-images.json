@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lamp-desk",
+    "file": "assets/lamp-desk.jpg",
+    "page": "https://www.pexels.com/photo/desk-lamp-beside-a-laptop-4884134/",
+    "download": "https://images.pexels.com/photos/4884134/pexels-photo-4884134.jpeg?auto=compress&cs=tinysrgb&w=2048",
+    "creator": "Artem Podrez",
+    "subject": "Desk lamp beside laptop",
+    "usageConstraint": "Product/category illustration only; no physical photo proves the fictional USB-C, battery or price facts.",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "width": 2048,
+    "height": 1152,
+    "sha256": "7f9afe0a0802b047ddc8731d3d597860b1a4ca66e74a160bfc3e3b8d4adbb3c5",
+    "inspection": "Actual downloaded source-review.jpg opened by root",
+    "reviewDecision": "accepted",
+    "observed": "White desk lamp, base and laptop visible; no USB or battery specification visible"
+  },
+  {
+    "id": "typing-hands",
+    "file": "assets/typing-hands.jpg",
+    "page": "https://www.pexels.com/photo/close-up-shot-of-a-person-typing-on-laptop-9644689/",
+    "download": "https://images.pexels.com/photos/9644689/pexels-photo-9644689.jpeg?auto=compress&cs=tinysrgb&w=2048",
+    "creator": "Liudmyla Shalimova",
+    "subject": "Hands typing on laptop",
+    "usageConstraint": "Show only with a visible email composer/brief for the writing operation. Cannot replace the spoken email, draft content or AI error.",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "width": 2048,
+    "height": 1365,
+    "sha256": "b1c1c70c9b4a477181bfc5b16d87dd4ee950f99078154821135f312527ecc1b0",
+    "inspection": "Actual downloaded source-review.jpg opened by root",
+    "reviewDecision": "accepted",
+    "observed": "Two hands typing on visible laptop keyboard; email content not visible and must be supplied by authored interface"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "pexelsID": 8479282,
+  "pageURL": "https://www.pexels.com/video/person-counting-money-8479282/",
+  "title": "Person Counting Money",
+  "creator": "ArtHouse Studio",
+  "fps": [
+    25,
+    30,
+    24
+  ],
+  "tags": [
+    "cash",
+    "payment",
+    "euro"
+  ],
+  "dimensions": [
+    "1920_1080",
+    "1080_1920",
+    "1280_720",
+    "720_1280",
+    "3840_2160",
+    "2160_3840"
+  ],
+  "id": "pexels-8479282",
+  "file": "assets/raw/pexels-8479282.mp4",
+  "sha256": "e9648cc2639141c2a6dc908bc1b5a8c4b33056fb9ed541b7a008812314c8008c",
+  "bytes": 2389908,
+  "durationSeconds": 10.05,
+  "downloadURL": "https://videos.pexels.com/video-files/8479282/8479282-hd_1280_720_25fps.mp4",
+  "license": "Pexels License - free to use/modify; no implied endorsement or standalone resale",
+  "licenseURL": "https://www.pexels.com/license/",
+  "acquisitionMethod": "Public CDN successful HTTP GET; source page discovered through primary Pexels search result. HTML requests may be Cloudflare 403.",
+  "downloadSeconds": 2.453,
+  "inspection": {
+    "status": "pending",
+    "observations": "Contact sheet generated; requires actual visual review.",
+    "allOriginalAudioAuditioned": false,
+    "contactSheet": "research/contact-sheets/pexels-8479282.jpg"
+  },
+  "sourceRole": "illustrative stock; does not identify fictional Hạnh or prove her numbers",
+  "usableIntervals": [],
+  "width": 1280,
+  "height": 720
+}

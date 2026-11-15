@@ -1,0 +1,29 @@
+{
+  "schema": "rejected-finance-visuals/1",
+  "reason": "Explicit user rejection: both long films still look like slides",
+  "feedback": "videos/2026-11-13-hai-style-10-phut/review/user-slide-rejection/user-feedback.txt",
+  "feedbackSHA256": "4766acf6fb85a07957376a167e08b732b9f7d65f0f6bb028ada0e0f165a28ff8",
+  "styles": {
+    "comic": {
+      "rejectedBatch": "videos/2026-11-13-hai-style-10-phut",
+      "revision": "r03",
+      "renderSHA256": "56323734f34e88d86b5b2986ad92758163fcb5889f771b3e1712a38c68aad248",
+      "sources": {
+        "workflows/reference-video/cinematic/src/finance-long-comic/index.tsx": "3480abf8c1246a399dde605381b3e16e5632f1e59ad1cc25258182cd262b495d",
+        "workflows/reference-video/cinematic/src/finance-long-comic/art.tsx": "b36280a3c5c713a3a9566b1c3f862a4cad559fba07961a005037c4517839800f",
+        "workflows/reference-video/cinematic/src/finance-long-comic/variants.tsx": "79ba3acc8c59434aaecf02d40a64c5e87aefa44efcd74e56f870e94cccfbdaba",
+        "workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59"
+      }
+    },
+    "flow": {
+      "rejectedBatch": "videos/2026-11-13-hai-style-10-phut",
+      "revision": "r03",
+      "renderSHA256": "3f3199567060f922505af0609c96f58011679df3d9ad48a8664f1efcf3db24a4",
+      "sources": {
+        "workflows/reference-video/cinematic/src/finance-long-flow/index.tsx": "9788ceff40a36c1c256f7e2511b74be4391bd8c89a54973a0025b4ac9b3c98fe",
+        "workflows/reference-video/cinematic/src/finance-flow/Objects.tsx": "053333166b30d8a89b6f62d611edb3f59b650873bd844d31981d97c8671eb3e4"
+      }
+    }
+  },
+  "scope": "Block byte-identical rejected visual sources independently of revision/script/audio. A changed source fingerprint is not proof of acceptable motion."
+}

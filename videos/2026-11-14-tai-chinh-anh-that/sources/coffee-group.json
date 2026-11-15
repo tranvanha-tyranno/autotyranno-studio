@@ -1,0 +1,30 @@
+{
+  "id": "coffee-group",
+  "pexelsID": 36729758,
+  "sourceURL": "https://www.pexels.com/photo/friends-enjoying-coffee-and-conversing-at-a-cafe-36729758/",
+  "creator": "Vitaly Gariev",
+  "theme": "coffee",
+  "documentedLocation": null,
+  "locationEvidence": "Not established",
+  "fit": "contain",
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "file": "assets/coffee-group.jpg",
+  "downloadURL": "https://images.pexels.com/photos/36729758/pexels-photo-36729758.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "width": 2400,
+  "height": 1350,
+  "sha256": "1f2d5efd9339d9c1c896b6f6e5efc328bf08b40a2ca07433de23190fd753b252",
+  "license": "Pexels License",
+  "licenseURL": "https://www.pexels.com/license/",
+  "medium": "real_stock_photograph",
+  "use": "Illustration only; not evidence about named fictional characters.",
+  "inspection": "pending_actual_pixel_review",
+  "observed": "",
+  "crop": {},
+  "limits": [
+    "Location is unverified unless explicitly documented by source.",
+    "No personal financial circumstances or endorsement are asserted."
+  ]
+}

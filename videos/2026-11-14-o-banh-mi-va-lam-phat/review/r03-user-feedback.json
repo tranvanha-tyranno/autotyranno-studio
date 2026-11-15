@@ -1,0 +1,27 @@
+{
+  "schema": "user-visual-feedback/1",
+  "date": "2026-11-14",
+  "batch": "videos/2026-11-14-o-banh-mi-va-lam-phat",
+  "revision": "r03",
+  "decision": "rejected",
+  "dimension": "visual_motion_and_editorial_progression",
+  "reviewer": {"kind": "user", "quote": "sao chứ làm như cái slide vậy nhỉ nhân vật thì chueyern độngt í đi nghĩ sao để nó đứng im 1 chô như thế vậy"},
+  "observation": "The film reads as a sequence of slides. The character stays in one idle pose and a small yaw does not make the narrated economic story unfold visually.",
+  "scope": "User feedback on the delivered r03 final; prior technical QA and sampled visual checks remain evidence of those checks only.",
+  "requiredCorrection": [
+    "Keep the exact existing narration, mix, real-photo receipts and bundled Vietnamese font.",
+    "Make the reusable renderer show content-specific action and state change inside beats.",
+    "Have the character interact with visible bread, receipts, flour, oven, basket or money props when the clause calls for it.",
+    "Each representative scene must develop from opening through an observable action to a changed state; crop, zoom, yaw, bob, blink, headline swap or static prop hold alone is insufficient.",
+    "Inspect complete moving proofs from the beginning, middle and end before any full-length rerender."
+  ],
+  "preserve": [
+    "videos/2026-11-14-o-banh-mi-va-lam-phat/r03/final.mp4",
+    "videos/2026-11-14-o-banh-mi-va-lam-phat/audio",
+    "videos/2026-11-14-o-banh-mi-va-lam-phat/review",
+    "workflows/reference-video/cinematic/src/economy-story"
+  ],
+  "newProviderCalls": 0,
+  "userApproval": "rejected",
+  "nextStatus": "motion-rewrite-proof-pending"
+}

@@ -1,0 +1,284 @@
+{
+  "reviewDate": "2026-11-13",
+  "reviewer": "Independent pilot_research agent",
+  "reviewedManifest": "production.json",
+  "reviewedManifestSHA256": "04dd81359f3c0fcbfd9bd9c7e6d75970cf7ef3561d6f212cab1f64dee5e7e109",
+  "scope": "All23 narrated clauses in this manifest, inspected source images and graphics plus sampled motion frames, and renderer layout code. No final rendered crop/animation/audio acceptance. Root may revise manifest after this review.",
+  "evidenceOpened": [
+    "sources/candidates-1.jpg",
+    "sources/candidates-2.jpg",
+    "assets/sale-shelf.jpg",
+    "assets/milk-shelf.jpg",
+    "assets/phone-list.jpg",
+    "assets/choose-produce.jpg",
+    "assets/shopping-list.jpg",
+    "assets/price-example.jpg",
+    "assets/total-example.jpg",
+    "sources/clip-choose-sheet.jpg",
+    "sources/clip-aisle-sheet.jpg",
+    "sources/clip-checkout-sheet.jpg"
+  ],
+  "overall": "revision-needed-before-final-render",
+  "findings": [
+    {
+      "shotId": "h1",
+      "narrationClause": "Một món cần mua, cả giỏ mang về. Chuyện có thể bắt đầu từ một bảng giá rất hấp dẫn.",
+      "assetIds": [
+        "cart-full"
+      ],
+      "status": "partial",
+      "severity": "medium",
+      "observation": "The filled cart supports the opening situation. The next sentence mentions a compelling price board while the selected cart image has no clear price board.",
+      "recommendation": "Split at “Chuyện có thể bắt đầu” and show sale-shelf; retain original narration."
+    },
+    {
+      "shotId": "h2",
+      "narrationClause": "Bạn thấy mua thêm thì mỗi hộp rẻ hơn. Nhưng đến quầy, tổng tiền vẫn lớn hơn số tiền định chi.",
+      "assetIds": [
+        "sale-shelf",
+        "checkout-wide"
+      ],
+      "status": "context-with-limits",
+      "severity": "low",
+      "observation": "Sale labels and checkout are visually present, but no total-versus-plan comparison is visible. Headline supplies the abstract distinction, which is acceptable as a preview if later explicit arithmetic pays it off.",
+      "recommendation": "Keep labels distinct from local prices; ensure the yellow sale label remains readable in the narrow left panel."
+    },
+    {
+      "shotId": "h3",
+      "narrationClause": "Vậy điều gì đã xảy ra từ lúc bước vào cửa hàng đến lúc thanh toán? Có ba điểm đáng nhìn lại.",
+      "assetIds": [
+        "clip-aisle"
+      ],
+      "status": "context-with-limits",
+      "severity": "low",
+      "observation": "Actual shopper movement supplies journey context. It is a Chinese-sign supermarket, not Vietnam and not a specific recorded study.",
+      "recommendation": "Retain illustrative label; do not call this evidence of local layout."
+    },
+    {
+      "shotId": "d1",
+      "narrationClause": "Đây là phân tích hành vi mua sắm và ví dụ minh họa. Không phải ai mua thêm cũng lãng phí, hay cửa hàng nào cũng bố trí giống nhau.",
+      "assetIds": [
+        "basket-full"
+      ],
+      "status": "context-with-limits",
+      "severity": "low",
+      "observation": "Neutral shopper/basket under a caveat does not attribute excess spending.",
+      "recommendation": "Check final split crop keeps her face and basket visible while caveat stays readable."
+    },
+    {
+      "shotId": "c1",
+      "narrationClause": "Điểm đầu tiên xuất hiện trước khi bạn tới siêu thị: mình thực sự cần gì? Mở tủ lạnh và nhìn lại đồ đang có là một bước rất cụ thể.",
+      "assetIds": [
+        "fridge-kitchen"
+      ],
+      "status": "direct-action-context",
+      "severity": "none",
+      "observation": "The person visibly looks inside an open fridge, matching the advised inventory action. Exact contents need not be readable for this clause.",
+      "recommendation": "No semantic change needed; inspect render crop."
+    },
+    {
+      "shotId": "c2",
+      "narrationClause": "Nếu kế hoạch chỉ là mua ít đồ ăn, gần như món nào cũng có thể hợp lý. Một danh sách có món và số lượng cho bạn thứ để đối chiếu.",
+      "assetIds": [
+        "shopping-list"
+      ],
+      "status": "original-mechanism",
+      "severity": "none",
+      "observation": "The original graphic supplies item/quantity/existing-stock prompts and labels itself illustrative; it does not fabricate a completed list.",
+      "recommendation": "Keep whole graphic visible, including the illustrative footer."
+    },
+    {
+      "shotId": "c3",
+      "narrationClause": "Điện thoại có thể giữ danh sách đó. Nhưng điều quan trọng là nội dung đã chốt từ trước, chứ không phải cứ cầm điện thoại là sẽ mua đúng kế hoạch.",
+      "assetIds": [
+        "phone-list"
+      ],
+      "status": "context-with-limits",
+      "severity": "none",
+      "observation": "Shopper visibly holds phone. Narration explicitly separates a phone from the actual quality of planning, so unreadable screen is not misrepresented.",
+      "recommendation": "No exact app/list text claims."
+    },
+    {
+      "shotId": "c4",
+      "narrationClause": "Điểm thứ hai nằm ngay trước mắt: những thứ được nhìn thấy trong cửa hàng. Một kệ hàng có nhiều lựa chọn; một bảng màu nổi khiến một ưu đãi dễ được chú ý.",
+      "assetIds": [
+        "milk-shelf",
+        "sale-shelf"
+      ],
+      "status": "direct-object-context",
+      "severity": "low",
+      "observation": "Milk shelf shows alternatives; yellow sale labels show a prominent offer.",
+      "recommendation": "Diptych crop must retain products and yellow label. Do not imply every package is dairy."
+    },
+    {
+      "shotId": "c5",
+      "narrationClause": "Thấy một món rồi nhớ ra nhà đang thiếu, đó có thể là lời nhắc hữu ích. Cũng có lúc bạn chỉ vừa nảy ra mong muốn khi đứng trước kệ.",
+      "assetIds": [
+        "clip-choose"
+      ],
+      "status": "context-with-limits",
+      "severity": "low",
+      "observation": "Woman actually reaches for and examines an item, supporting product encounter. Remembered need vs new desire is a hypothetical explanation and cannot be established from the actor.",
+      "recommendation": "Use a source interval with reaching/examining action; keep stock illustrative label."
+    },
+    {
+      "shotId": "c6",
+      "narrationClause": "Hai trường hợp ấy đều là mua ngoài dự tính, nhưng ý nghĩa khác nhau. Một bên bổ sung nhu cầu có thật; một bên cần thêm một câu hỏi trước khi bỏ vào giỏ.",
+      "assetIds": [
+        "fridge-check",
+        "cart-full"
+      ],
+      "status": "contrast-context",
+      "severity": "low",
+      "observation": "Open fridge and cart contrast two situations, but neither proves the private motive; the question headline preserves the interpretive role.",
+      "recommendation": "Check portrait fridge is contained rather than stretched and that body text does not imply confirmed intent."
+    },
+    {
+      "shotId": "c7",
+      "narrationClause": "Nghiên cứu trên người mua trong cửa hàng cho thấy việc mua ngoài kế hoạch liên quan đến cả cách chuẩn bị và những gì gặp trong chuyến mua sắm.",
+      "assetIds": [
+        "cart-browse"
+      ],
+      "status": "attribution-ambiguity",
+      "severity": "medium",
+      "observation": "The research claim appears over a generic stock shopper with only a study-source label; this can be mistaken for imagery of the actual study.",
+      "recommendation": "SourceNote should distinguish “Ảnh minh họa · Pexels” from “Nghiên cứu: Inman, Winer & Ferraro,2009”."
+    },
+    {
+      "shotId": "c8",
+      "narrationClause": "Điều đó không có nghĩa một bảng khuyến mại tự động điều khiển mọi người. Nó chỉ cho ta lý do để quan sát hoàn cảnh của quyết định, thay vì vội trách mình thiếu ý chí.",
+      "assetIds": [
+        "plum-price"
+      ],
+      "status": "context-with-limits",
+      "severity": "none",
+      "observation": "Produce card supplies a concrete cue while narration denies automatic control. No specific motive or numeric price is claimed.",
+      "recommendation": "No semantic change needed; retain stock context label."
+    },
+    {
+      "shotId": "c9",
+      "narrationClause": "Điểm thứ ba là cách so giá. Nhìn một mức giảm, ta rất dễ chỉ hỏi mỗi món rẻ hơn bao nhiêu, rồi quên hỏi mình đang trả tổng cộng bao nhiêu.",
+      "assetIds": [
+        "sale-shelf"
+      ],
+      "status": "direct-object-context",
+      "severity": "low",
+      "observation": "Foreign shelf visibly has crossed-out regular price and multi-unit offers, matching the question about comparison.",
+      "recommendation": "Do not superimpose Vietnamese hypothetical values on the real label."
+    },
+    {
+      "shotId": "c10",
+      "narrationClause": "Lấy một ví dụ giả định: một hộp ba mươi nghìn, hai hộp năm mươi nghìn. Mua hai thì mỗi hộp còn hai mươi lăm nghìn.",
+      "assetIds": [
+        "price-example"
+      ],
+      "status": "original-mechanism",
+      "severity": "none",
+      "observation": "Graphic shows exactly one and two identical boxes,30k vs50k total,30k vs25k per box, and explicitly hypothetical status.",
+      "recommendation": "Keep the per-box text and hypothetical header clear after captions."
+    },
+    {
+      "shotId": "c11",
+      "narrationClause": "Nhưng nếu bạn chỉ cần một hộp, số tiền phải trả đã tăng thêm hai mươi nghìn. Rẻ hơn trên mỗi hộp không đồng nghĩa ít tiền hơn ở quầy.",
+      "assetIds": [
+        "total-example"
+      ],
+      "status": "original-mechanism",
+      "severity": "low",
+      "observation": "Second graphic preserves the same item comparison and adds20k difference, matching the spoken arithmetic.",
+      "recommendation": "Ensure +20k is not visually read as final total; current label “TỔNG CHI:+20.000đ” could be more precise as “CHI THÊM:20.000đ” or “TỔNG CHI TĂNG20.000đ”."
+    },
+    {
+      "shotId": "c12",
+      "narrationClause": "Ngược lại, nếu chắc chắn dùng hết cả hai và điều kiện giá đúng như vậy, mua nhiều có thể hợp lý. Câu trả lời phụ thuộc nhu cầu, không chỉ màu của bảng giảm giá.",
+      "assetIds": [
+        "vegetables-home"
+      ],
+      "status": "partial",
+      "severity": "medium",
+      "observation": "Several vegetables at home show consumption context but not the two boxes the voice explicitly calls back to. The conditional meaning is clear only from the prior graphic.",
+      "recommendation": "Prefer a diptych of original two-box comparison plus ingredients, or briefly retain the graphic for the “cả hai” clause."
+    },
+    {
+      "shotId": "c13",
+      "narrationClause": "Đó cũng là lý do một giỏ đầy chưa nói lên người mua có lãng phí hay không. Cần biết họ định mua gì, đồ sẽ dùng thế nào và món nào thực sự phát sinh.",
+      "assetIds": [
+        "basket-full"
+      ],
+      "status": "context-with-limits",
+      "severity": "none",
+      "observation": "A filled basket matches the subject while narration correctly warns the image alone cannot reveal waste/intention.",
+      "recommendation": "No semantic change needed."
+    },
+    {
+      "shotId": "c14",
+      "narrationClause": "Thử nhìn lại hành trình: đồ đang có ở nhà, lựa chọn gặp trên kệ, rồi tổng tiền khi thanh toán. Ba điểm này nối với nhau, chứ không chỉ có phút cuối ở quầy.",
+      "assetIds": [
+        "fridge-kitchen",
+        "sale-shelf",
+        "choose-produce"
+      ],
+      "status": "missing-quantity-object",
+      "severity": "high",
+      "observation": "First two gallery images match home and shelf. Third is a produce-at-checkout photo, which shows no total spending although the clause explicitly says total money.",
+      "recommendation": "Use original total-example as third image or add a short explicit total comparison within the retained gallery style. Avoid claiming a scale/checkout photo makes a total visible."
+    },
+    {
+      "shotId": "c15",
+      "narrationClause": "Trước khi trả tiền, dừng một nhịp và nhìn các món vừa thêm. Nếu hôm nay không có ưu đãi này, mình có còn cần nó không? Mình sẽ dùng hết bằng cách nào?",
+      "assetIds": [
+        "clip-checkout"
+      ],
+      "status": "action-context-with-limits",
+      "severity": "low",
+      "observation": "Clip shows unloading before checkout, not a deliberate pause/review or thinking about use. The narration is an instruction, not a claim that actor performed it.",
+      "recommendation": "Use unloading interval and optionally add very short original prompts “Còn cần nếu không giảm giá?” / “Sẽ dùng hết thế nào?” without crowding. Do not claim payment visible."
+    },
+    {
+      "shotId": "c16",
+      "narrationClause": "Bạn không cần biến mỗi chuyến mua đồ thành một cuộc thi kiềm chế. Mục tiêu là nhận ra lúc nào mình đang giải quyết nhu cầu, và lúc nào chỉ đang phản ứng với một lời mời.",
+      "assetIds": [
+        "checkout-couple"
+      ],
+      "status": "context-with-limits",
+      "severity": "none",
+      "observation": "Checkout interaction can carry the reflective conclusion; it does not prove either motive.",
+      "recommendation": "No semantic change needed; preserve neutral wording."
+    },
+    {
+      "shotId": "a1",
+      "narrationClause": "Lần đi siêu thị tới, thử ghi sẵn món và lượng cần mua. Khi về, đặt những món phát sinh cạnh danh sách và hỏi vì sao chúng xuất hiện.",
+      "assetIds": [
+        "shopping-list",
+        "groceries-home"
+      ],
+      "status": "mixed-source-credit",
+      "severity": "medium",
+      "observation": "List and groceries side by side depict the advised comparison as a constructed layout, but sourceNote only names Pexels despite original list.",
+      "recommendation": "Credit both TYRANNO original graphic and Pexels stock. No need to fabricate hand placement."
+    },
+    {
+      "shotId": "a2",
+      "narrationClause": "Có thể bạn nhớ ra thứ đang thiếu. Cũng có thể một ưu đãi đã đổi kế hoạch. Biết được lý do ấy mới là phần hữu ích, không phải chỉ nhìn số tiền rồi tự trách.",
+      "assetIds": [
+        "groceries-home"
+      ],
+      "status": "context-with-limits",
+      "severity": "none",
+      "observation": "Home groceries support reflecting on a haul. No label tells which items were unplanned; narration offers possibilities rather than asserting one.",
+      "recommendation": "Keep hypothetical wording."
+    },
+    {
+      "shotId": "a3",
+      "narrationClause": "Món nào bạn hay mua thêm nhất? Kể ở bình luận, và đăng ký nếu muốn cùng nhìn kỹ hơn những quyết định nhỏ trong đời sống.",
+      "assetIds": [
+        "basket-full"
+      ],
+      "status": "cta-context",
+      "severity": "low",
+      "observation": "Neutral smiling shopper with basket can back the CTA. The picture does not show commenting/subscribing, but spoken CTA asks a future action and body text names it.",
+      "recommendation": "Inspect final headline/photo overlap so the face on the right remains clear."
+    }
+  ],
+  "technicalVersusAesthetic": "No decode result is treated as semantic or aesthetic approval. A final full-runtime visual review remains necessary."
+}

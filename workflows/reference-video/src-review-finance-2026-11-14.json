@@ -1,0 +1,1333 @@
+{
+  "schema": "reference-video-src-review-finance/1",
+  "date": "2026-11-14",
+  "reviewer": "Codex source_font_audit agent",
+  "root": "C:\\Users\\tyranno\\Documents\\Project\\AffilateAutoTyranno\\workflows\\reference-video\\cinematic\\src",
+  "scope": {
+    "files": 52,
+    "bytes": 423804,
+    "families": [
+      "finance-cast",
+      "finance-cast-v2",
+      "finance-comic",
+      "finance-demo",
+      "finance-flow",
+      "finance-long-comic",
+      "finance-long-flow",
+      "finance-pace-comic",
+      "finance-pace-flow",
+      "finance-photo",
+      "finance-simple"
+    ],
+    "codeReview": true,
+    "allTextRead": true,
+    "geometryCoordinates": "RawSVG path strings were included in source reads; no claim of visual correctness from reading coordinates.",
+    "notPerformed": [
+      "Rendering or mutation of legacy source",
+      "New provider calls",
+      "Continuous audiovisual review of historical or current films",
+      "Aesthetic approval",
+      "General proof all fallback timing cues match narration"
+    ]
+  },
+  "currentTaskDecision": "Use isolated EconomyStory with locally bundled fonts, photo-primary semantic assets, stationary frozen fictional actor and narration-aligned wrapper turns. Preserve historical rejected/pending branches. Current r03 frozen render source not changed by this review.",
+  "findingsByFamily": {
+    "finance-cast": {
+      "selection": "preserve-rejected-art-as-history-and-optional-rig-reference",
+      "findings": [
+        "Original30adult roster,15hair/10outfit/accessory combinations. Source-driven SVG2D, not generated footage or learned model weights.",
+        "Seven Pose union members:idle,talk,point,shrug,give,receive,celebrate; sheet footer says8poses, a documentation count mismatch.",
+        "Rig contains periodic bodyBob/blink and frame-based speaking. Idle alone does not freeze it; frame0+speakingfalse freezes sample.",
+        "getCharacter silently falls back to roster0 on unknown ID; production validation should reject invalid IDs before using it.",
+        "Export script transpiles TS at runtime and writes both SVGs/roster and workflow finance-cast.json; it is a mutation tool, not a read-only validator."
+      ]
+    },
+    "finance-cast-v2": {
+      "selection": "reuse-frozen-rig-only-when-current-task-allows-art; no user-art-approval",
+      "findings": [
+        "Two fictional adult leads with comic/toon/line variants; choosing comic direction did not approve this actual artwork.",
+        "getHandAnchors transforms elbow/wrist/palm using pose,scale,flip andbodyBob; useful for held-prop geometry when actions are requested.",
+        "bodyBob,blink and talk-head motion are procedural; current EconomyStory correctly freezes rig and turns outer wrapper only.",
+        "CandidateSheet is1frame of three situations; it cannot prove temporal motion or AV fit."
+      ]
+    },
+    "finance-comic": {
+      "selection": "proof-only-preserve",
+      "findings": [
+        "ComicProof hardcodes globalframe890 and hand-timed daily/dinner sequence; do not reuse as arbitrary new-story renderer.",
+        "Receipt width/position derived from both actual palm anchors; useful geometry example, still requires actual contact/motion review.",
+        "speaking follows word-presence boolean but mouth uses frame pattern, not phoneme lip-sync."
+      ]
+    },
+    "finance-demo": {
+      "selection": "historical-demo-not-current-production-baseline",
+      "findings": [
+        "Scene logic is specific to Minh/Lan salary12→14million,spending10→12million,daily60k×30andmeal200k.",
+        "Stage has permanent kicker/title/floor and mostly entrance/reveal content; it should not be treated as general proof against prior slide criticism.",
+        "CastFilm speaking assumes frame/30 and historical words; visual schema fallbacks render hook rather than reject unsupported values."
+      ]
+    },
+    "finance-simple": {
+      "selection": "rejected-slide-direction-preserve-only",
+      "findings": [
+        "Minimal implements fixed Header/Reveal/ledger/Note layouts with many long holds after entrance; rejection is recorded in instructions, not newly inferred aesthetic judgment.",
+        "Fixed numerical copy and calendar/transfer labels are tied to old salary script.",
+        "Fallback uses full segment.text as headline; could become dense or overflow for unknown content.",
+        "SystemArial only, size by fixedlayout; current typography improvement must remain isolated to new source for historical reproducibility."
+      ]
+    },
+    "finance-flow": {
+      "selection": "local-simulation-primitives-only; not-current-photo-primary-renderer",
+      "findings": [
+        "Objects exports reusable SVGbill/wallet/envelope/receipt/printer/plate/hand primitives with documented origins.",
+        "timing.cue searches normalized exacttake words but hardcodes30fps; unmatched phrases silently use fallbacks, so source presence is not proof that timing was exact.",
+        "FlowFilm daily→dinner preserves one printer/receiptpile and conditional obligations; meaningful content mechanisms can be extracted when relevant.",
+        "Budget conserves illustrated one-million tokens for fixed12/10/2and14/12/2 examples; arbitrary counts/amounts are not a generic financial visualization.",
+        "Paper allocations use symbolic lengths explicitly described as illustrative; no recommended savings percentage should be inferred."
+      ]
+    },
+    "finance-long-comic": {
+      "selection": "rejected-full-film-baseline-preserve; primitives-conditional-reuse",
+      "findings": [
+        "Main scene map+actionScenes include many actual topic-specific actions; nevertheless user rejected the long film as slides. Code comments claiming finite causal motion do not override that feedback.",
+        "Permanent title/chapter/header/progress/footer and scene entrance/drift are visible source policies; unsuitable as untouched new content-first baseline.",
+        "resultFrame target phrase is selected by oldkind and text-specific Vietnamese phrases; unmatched target falls back to provided value.",
+        "Action variants include conditional assumptions,ownprogress,duplicate-transfer,reimbursement,fullpurchasecost and essential-protection; semantics are reusable concepts, not universal scene assets.",
+        "Bubble/Note/Phone shrink text using text.length×heuristic width, not actual bundled font pixel measurement; no minimum readable size/crop proof in helper.",
+        "Several scene strings,token counts and geometry are fixed to old script; do not call all declareddata fields generic."
+      ]
+    },
+    "finance-long-flow": {
+      "selection": "rejected-full-film-baseline-preserve-only; selected-primitives-optional",
+      "findings": [
+        "438line renderer has16kind scenes and extensive per-action/per-ID overrides; action-count is code coverage, not visual acceptance.",
+        "Permanent header/footer/progress and generic entry wipe remain; user rejection remains authoritative.",
+        "aligned() reads fps from plan for exact word matching; general phase/cue animations still rely on duration fractions/fallbacks and must not be labeled exactphrase absent a match.",
+        "FlowMechanisms fixture sets from:-270 andduration360 to inspect a single lateframe; it is a still fixture, not complete motion review.",
+        "Unknown/outside timeline fallback differs between legacy renderers; validate continuous coverage in compiler instead of relying on fallback rendering."
+      ]
+    },
+    "finance-pace-comic": {
+      "selection": "superseded-by-photo-priority; keep-script-specific-simulation-helper",
+      "findings": [
+        "Shot-driven split plus continuation/final-state/timing modules replaces some earlier repetition but uses hardcoded bXX IDs and part-specific branches throughout.",
+        "part%3 in money-scenes/decisions can cycle setup variants for later parts unless explicitly overridden; many fixes are beat-specific, not a general continuity guarantee.",
+        "Numeric recurring/annual branches test for data presence but display fixed120000/month,1440000/year,1200000annual and100000monthly; do not reuse with arbitrary amounts.",
+        "person() caps scale at1.6 despite many callsites requesting1.65–1.8; apparent requested scene scale is not actual rig scale.",
+        "art.Person supports prop union phone but only draws cash/receipt; phone prop yields character without phone.",
+        "Current selection should favor photo+narration; simulated cup/bike/jar/receipt motion does not supply real photographed context."
+      ]
+    },
+    "finance-pace-flow": {
+      "selection": "superseded-by-photo-priority; content-simulation-reference-only",
+      "findings": [
+        "Scene map prioritizes subscribe,outro and continuations; Continuation dispatch order can override base scene/action behavior.",
+        "phraseAt reads exacttake words with planfps but fallback remains genericcueFrame; cueProgress may complete numbers at matched wordstart.",
+        "Most scene branches use hardcoded bXXIDs,fixed example values and shotpart saturation/modulo; incompatible with arbitrary economy script without a new planner.",
+        "Primitives are imported from finance-flow/Objects, so deleting a rejected family could break optional simulations and historical reproduction.",
+        "Progressions add consequences/checks rather than replaying entrance, but source comments do not establish aesthetic acceptance or repair the lack of photos."
+      ]
+    },
+    "finance-photo": {
+      "selection": "reusable-photo-stage-reference; oldrunner-incomplete/currentstory-isolated",
+      "findings": [
+        "PhotoStage supports full/split/gallery, sourcefocus and contain backed byblur; only first3photos are used in gallery and full usesfirstasset.",
+        "TimelineFilm explicitly delegates simulation shots to finance-pace modules; their prior subject-specific assumptions remain.",
+        "Photo captions/context/subscribe overlays and disclaimer reference Minh/Lan and oldretainedtake; these strings must not silently carry to new Hạnh story.",
+        "Old Python runner finance_photo_render.py pins prioraudio/timeline and references absent finance_photo_plan.py.",
+        "CaptionTrack trusts upstream cue length and maxwidth; no independent2line or actual glyph measurement validation in this component."
+      ]
+    }
+  },
+  "entryFindings": [
+    "Isolated entrypoints separate historical compositions and keep shared captions at wrapper level; no implicit audio provider call.",
+    "Caption font remains systemArial in historical entries.",
+    "Historical caption offsets/Sequence from=-fromFrame support boundedproofs but are not interchangeable with new EconomyStory offset without accounting for global frame exactly once."
+  ],
+  "files": [
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/CastSheet.tsx",
+      "relativePath": "finance-cast/CastSheet.tsx",
+      "group": "finance-cast",
+      "bytes": 3183,
+      "sha256": "09f7415549a73940465021439df8e4e678bda56e04b9bca911a86e7c3f20fa4b",
+      "lineCount": 42,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./Character",
+        "./roster"
+      ],
+      "exportedNames": [
+        "CastSheet",
+        "CastMotion"
+      ],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/Character.tsx",
+      "relativePath": "finance-cast/Character.tsx",
+      "group": "finance-cast",
+      "bytes": 12341,
+      "sha256": "432479457a26851d8466352380cd0430a922200241ee156a0c8802aca1db6ef6",
+      "lineCount": 110,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./roster"
+      ],
+      "exportedNames": [
+        "Emotion",
+        "Pose",
+        "CharacterProps",
+        "Character"
+      ],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/export-cast.cjs",
+      "relativePath": "finance-cast/export-cast.cjs",
+      "group": "finance-cast",
+      "bytes": 1704,
+      "sha256": "eb64ba5672c289832bdfa43ad95816f8f49a2b19035bc249fa989463afbd2edc",
+      "lineCount": 25,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "fs",
+        "path",
+        "typescript",
+        "react",
+        "react-dom/server",
+        "./roster.ts",
+        "./Character.tsx"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/index.ts",
+      "relativePath": "finance-cast/index.ts",
+      "group": "finance-cast",
+      "bytes": 241,
+      "sha256": "ed34ed87020909ca6b8333032dc19ea7793c6533b29318a06b6e0e2b0563116a",
+      "lineCount": 5,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "./Character",
+        "./Character",
+        "./CastSheet",
+        "./roster",
+        "./roster"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/preview-entry.tsx",
+      "relativePath": "finance-cast/preview-entry.tsx",
+      "group": "finance-cast",
+      "bytes": 397,
+      "sha256": "df6bc9b80831507200b0e20a3b951da5024cda19188307605de15d2e1d1adb2d",
+      "lineCount": 7,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "remotion",
+        "./CastSheet"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/README.md",
+      "relativePath": "finance-cast/README.md",
+      "group": "finance-cast",
+      "bytes": 2843,
+      "sha256": "087d52533347ff6f002e1e20655beeb51235b1f5646c049bcd05d543d92bd133",
+      "lineCount": 30,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "./finance-cast"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast/roster.ts",
+      "relativePath": "finance-cast/roster.ts",
+      "group": "finance-cast",
+      "bytes": 8501,
+      "sha256": "0f8777226973909f97f01e6f1423c7102818e4f6aa19e92ec41761b11a4bf082",
+      "lineCount": 43,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [],
+      "exportedNames": [
+        "Hair",
+        "Outfit",
+        "Accessory",
+        "CastMember",
+        "roster",
+        "getCharacter"
+      ],
+      "findingsRef": "finance-cast",
+      "status": "preserve-rejected-art-as-history-and-optional-rig-reference"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/CandidateSheet.tsx",
+      "relativePath": "finance-cast-v2/CandidateSheet.tsx",
+      "group": "finance-cast-v2",
+      "bytes": 3520,
+      "sha256": "c6cb501468f16210e9b5d2463195c32dc954a063dec7424dbc3c5acb15d679d4",
+      "lineCount": 33,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./CharacterV2"
+      ],
+      "exportedNames": [
+        "CandidateSheet"
+      ],
+      "findingsRef": "finance-cast-v2",
+      "status": "reuse-frozen-rig-only-when-current-task-allows-art; no user-art-approval"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/CharacterV2.tsx",
+      "relativePath": "finance-cast-v2/CharacterV2.tsx",
+      "group": "finance-cast-v2",
+      "bytes": 15870,
+      "sha256": "8e8e1b05e1661d795e516b0e9ac98840313efad2b63f526217a9ba4b57aa7c59",
+      "lineCount": 205,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react"
+      ],
+      "exportedNames": [
+        "EmotionV2",
+        "PoseV2",
+        "VariantV2",
+        "CharacterV2Props",
+        "getHandAnchors",
+        "CharacterV2"
+      ],
+      "findingsRef": "finance-cast-v2",
+      "status": "reuse-frozen-rig-only-when-current-task-allows-art; no user-art-approval"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/index.ts",
+      "relativePath": "finance-cast-v2/index.ts",
+      "group": "finance-cast-v2",
+      "bytes": 187,
+      "sha256": "f03ce0096514163b3d957a40af389b03af48a612f5a97da75f116911e5cfb110",
+      "lineCount": 3,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "./CharacterV2",
+        "./CharacterV2",
+        "./CandidateSheet"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-cast-v2",
+      "status": "reuse-frozen-rig-only-when-current-task-allows-art; no user-art-approval"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-cast-v2/README.md",
+      "relativePath": "finance-cast-v2/README.md",
+      "group": "finance-cast-v2",
+      "bytes": 3658,
+      "sha256": "754f5779c9664ac678edf76336e61d9b5571f04d96c68152273c847066114c1b",
+      "lineCount": 43,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "./finance-cast-v2"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-cast-v2",
+      "status": "reuse-frozen-rig-only-when-current-task-allows-art; no user-art-approval"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-comic/ComicProof.tsx",
+      "relativePath": "finance-comic/ComicProof.tsx",
+      "group": "finance-comic",
+      "bytes": 5574,
+      "sha256": "01a33c68d056e6460746d60dc6ae26492f01cef59f501ae0beddb483ed767a95",
+      "lineCount": 50,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "../finance-cast-v2/CharacterV2",
+        "../finance-demo/types"
+      ],
+      "exportedNames": [
+        "ComicProof"
+      ],
+      "findingsRef": "finance-comic",
+      "status": "proof-only-preserve"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/BudgetScene.tsx",
+      "relativePath": "finance-demo/BudgetScene.tsx",
+      "group": "finance-demo",
+      "bytes": 1652,
+      "sha256": "c35160c369e9e2f7445fc5f1d07ef58bb5ade839e3edf8366aa90958a790323d",
+      "lineCount": 21,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "../finance-cast/Character",
+        "./Stage"
+      ],
+      "exportedNames": [
+        "BudgetScene"
+      ],
+      "findingsRef": "finance-demo",
+      "status": "historical-demo-not-current-production-baseline"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/CastFilm.tsx",
+      "relativePath": "finance-demo/CastFilm.tsx",
+      "group": "finance-demo",
+      "bytes": 2396,
+      "sha256": "389bd999714954ce118e6e94072e97b8b3e29247a85599dc9ac0a86b9c2c4f10",
+      "lineCount": 25,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "../finance-cast/Character",
+        "./types",
+        "./Stage",
+        "./BudgetScene",
+        "./DailyScene",
+        "./DecisionScene"
+      ],
+      "exportedNames": [
+        "CastFilm"
+      ],
+      "findingsRef": "finance-demo",
+      "status": "historical-demo-not-current-production-baseline"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/DailyScene.tsx",
+      "relativePath": "finance-demo/DailyScene.tsx",
+      "group": "finance-demo",
+      "bytes": 2015,
+      "sha256": "c1d03c38600db5ed0f1177906b43f03b35e9a6d17a4676092b9cc46862bb858c",
+      "lineCount": 15,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "../finance-cast/Character",
+        "./Stage"
+      ],
+      "exportedNames": [
+        "DailyScene"
+      ],
+      "findingsRef": "finance-demo",
+      "status": "historical-demo-not-current-production-baseline"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/DecisionScene.tsx",
+      "relativePath": "finance-demo/DecisionScene.tsx",
+      "group": "finance-demo",
+      "bytes": 2827,
+      "sha256": "1a0c130cc62cb0b26c375f43972d7f06294b069e3841f506b2809cdcafeb32ce",
+      "lineCount": 22,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "../finance-cast/Character",
+        "./Stage"
+      ],
+      "exportedNames": [
+        "DecisionScene"
+      ],
+      "findingsRef": "finance-demo",
+      "status": "historical-demo-not-current-production-baseline"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/Stage.tsx",
+      "relativePath": "finance-demo/Stage.tsx",
+      "group": "finance-demo",
+      "bytes": 2990,
+      "sha256": "ec6fbc13998715a9cd80c4797b678a1c428bb39fa47bc6e99106331ae3658f71",
+      "lineCount": 9,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion"
+      ],
+      "exportedNames": [
+        "ink",
+        "rise",
+        "Label",
+        "Money",
+        "Jar",
+        "Arrow",
+        "Stage"
+      ],
+      "findingsRef": "finance-demo",
+      "status": "historical-demo-not-current-production-baseline"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo/types.ts",
+      "relativePath": "finance-demo/types.ts",
+      "group": "finance-demo",
+      "bytes": 344,
+      "sha256": "cf6f04c76a7c76d03c75ab4a1a372c42d9b417d639f367008b7b256a54d4abeb",
+      "lineCount": 2,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [],
+      "exportedNames": [
+        "FinanceSegment",
+        "FinancePlan"
+      ],
+      "findingsRef": "finance-demo",
+      "status": "historical-demo-not-current-production-baseline"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-demo-entry.tsx",
+      "relativePath": "finance-demo-entry.tsx",
+      "group": "(finance-entry)",
+      "bytes": 1715,
+      "sha256": "d715cc937b50ccc8122c4c3187c6d6f4bbb377b29518c2065fafa82d090960ba",
+      "lineCount": 18,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./finance-demo/CastFilm",
+        "./finance-simple/Minimal",
+        "./finance-cast/CastSheet",
+        "./finance-demo/types"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-entry",
+      "status": "historical-entry-preserve"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/FlowFilm.tsx",
+      "relativePath": "finance-flow/FlowFilm.tsx",
+      "group": "finance-flow",
+      "bytes": 21454,
+      "sha256": "4b2779230a1121522ddd7087d88a1a83784bbceed173ee76809ded33c9ad92c8",
+      "lineCount": 276,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "../finance-demo/types",
+        "./Objects",
+        "./timing"
+      ],
+      "exportedNames": [
+        "FlowFilm"
+      ],
+      "findingsRef": "finance-flow",
+      "status": "local-simulation-primitives-only; not-current-photo-primary-renderer"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/index.ts",
+      "relativePath": "finance-flow/index.ts",
+      "group": "finance-flow",
+      "bytes": 37,
+      "sha256": "f3f1705b60646e19843130b1d76c21e5dca81bb59c73eb6f2121fbc73577b20e",
+      "lineCount": 1,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "./FlowFilm"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-flow",
+      "status": "local-simulation-primitives-only; not-current-photo-primary-renderer"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/Objects.tsx",
+      "relativePath": "finance-flow/Objects.tsx",
+      "group": "finance-flow",
+      "bytes": 9820,
+      "sha256": "053333166b30d8a89b6f62d611edb3f59b650873bd844d31981d97c8671eb3e4",
+      "lineCount": 123,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react"
+      ],
+      "exportedNames": [
+        "P",
+        "Label",
+        "Bill",
+        "Wallet",
+        "Envelope",
+        "Receipt",
+        "Printer",
+        "Plate",
+        "Hand"
+      ],
+      "findingsRef": "finance-flow",
+      "status": "local-simulation-primitives-only; not-current-photo-primary-renderer"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/README.md",
+      "relativePath": "finance-flow/README.md",
+      "group": "finance-flow",
+      "bytes": 1811,
+      "sha256": "618b10b344ff2ebb378bd64d20248df2690eeaf4ec42e9a96f9a423143c47195",
+      "lineCount": 11,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [],
+      "exportedNames": [],
+      "findingsRef": "finance-flow",
+      "status": "local-simulation-primitives-only; not-current-photo-primary-renderer"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-flow/timing.ts",
+      "relativePath": "finance-flow/timing.ts",
+      "group": "finance-flow",
+      "bytes": 1494,
+      "sha256": "cb689cb8fb4f24e53fce33652d0e271d1010e5165c4cafb3183e83c25a4693b2",
+      "lineCount": 25,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "remotion",
+        "../finance-demo/types"
+      ],
+      "exportedNames": [
+        "clamp",
+        "ease",
+        "p",
+        "lerp",
+        "arc",
+        "cue",
+        "money"
+      ],
+      "findingsRef": "finance-flow",
+      "status": "local-simulation-primitives-only; not-current-photo-primary-renderer"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-comic/art.tsx",
+      "relativePath": "finance-long-comic/art.tsx",
+      "group": "finance-long-comic",
+      "bytes": 9330,
+      "sha256": "b36280a3c5c713a3a9566b1c3f862a4cad559fba07961a005037c4517839800f",
+      "lineCount": 40,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "../finance-cast-v2/CharacterV2"
+      ],
+      "exportedNames": [
+        "C",
+        "clamp",
+        "ease",
+        "lerp",
+        "phase",
+        "xy",
+        "nformat",
+        "T",
+        "Arrow",
+        "Bubble",
+        "Burst",
+        "Note",
+        "Cash",
+        "Jar",
+        "Phone",
+        "House",
+        "Bag",
+        "Actor",
+        "Room",
+        "Table"
+      ],
+      "findingsRef": "finance-long-comic",
+      "status": "rejected-full-film-baseline-preserve; primitives-conditional-reuse"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-comic/index.tsx",
+      "relativePath": "finance-long-comic/index.tsx",
+      "group": "finance-long-comic",
+      "bytes": 25764,
+      "sha256": "3480abf8c1246a399dde605381b3e16e5632f1e59ad1cc25258182cd262b495d",
+      "lineCount": 183,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./art",
+        "../finance-cast-v2/CharacterV2",
+        "./variants"
+      ],
+      "exportedNames": [
+        "LongSegment",
+        "LongPlan",
+        "SceneProps",
+        "ComicLongFilm"
+      ],
+      "findingsRef": "finance-long-comic",
+      "status": "rejected-full-film-baseline-preserve; primitives-conditional-reuse"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-comic/variants.tsx",
+      "relativePath": "finance-long-comic/variants.tsx",
+      "group": "finance-long-comic",
+      "bytes": 21544,
+      "sha256": "79ba3acc8c59434aaecf02d40a64c5e87aefa44efcd74e56f870e94cccfbdaba",
+      "lineCount": 110,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./index",
+        "./art",
+        "../finance-cast-v2/CharacterV2"
+      ],
+      "exportedNames": [
+        "actionScenes",
+        "fieldsScene",
+        "assumptionsScene"
+      ],
+      "findingsRef": "finance-long-comic",
+      "status": "rejected-full-film-baseline-preserve; primitives-conditional-reuse"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-entry.tsx",
+      "relativePath": "finance-long-entry.tsx",
+      "group": "(finance-entry)",
+      "bytes": 1739,
+      "sha256": "5597aba1bcf7776956771431e416ce2dfb3dffc60066716867f28737cef81d1b",
+      "lineCount": 20,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./finance-long-comic",
+        "./finance-long-flow"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-entry",
+      "status": "historical-entry-preserve"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-flow/index.tsx",
+      "relativePath": "finance-long-flow/index.tsx",
+      "group": "finance-long-flow",
+      "bytes": 50787,
+      "sha256": "9788ceff40a36c1c256f7e2511b74be4391bd8c89a54973a0025b4ac9b3c98fe",
+      "lineCount": 438,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "../finance-flow/Objects"
+      ],
+      "exportedNames": [
+        "LongSegment",
+        "LongPlan",
+        "FlowLongFilm"
+      ],
+      "findingsRef": "finance-long-flow",
+      "status": "rejected-full-film-baseline-preserve-only; selected-primitives-optional"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-long-flow/preview.tsx",
+      "relativePath": "finance-long-flow/preview.tsx",
+      "group": "finance-long-flow",
+      "bytes": 1714,
+      "sha256": "b962d872580138ec1e1b065579e8000d1d1951ca16b45b2ae33c1b71e284891a",
+      "lineCount": 11,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./index"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-long-flow",
+      "status": "rejected-full-film-baseline-preserve-only; selected-primitives-optional"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/art.tsx",
+      "relativePath": "finance-pace-comic/art.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 9090,
+      "sha256": "224f7931244fa9646765d99c040987cf158f42cbddf821001799decd27b5bd42",
+      "lineCount": 26,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "../finance-cast-v2/CharacterV2",
+        "../finance-long-comic/art"
+      ],
+      "exportedNames": [
+        "K",
+        "clamp",
+        "p",
+        "lerp",
+        "fly",
+        "money",
+        "million",
+        "T",
+        "Line",
+        "View",
+        "Background",
+        "Table",
+        "Person",
+        "person",
+        "Hand",
+        "Receipt",
+        "Pencil",
+        "Check",
+        "Cup",
+        "Bike",
+        "Wrench",
+        "Parcel",
+        "Stamp"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/continuations.tsx",
+      "relativePath": "finance-pace-comic/continuations.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 9702,
+      "sha256": "9f3a5adfc3019aed7bc569a648a11b10da79afd57c55db8181472894ad37153b",
+      "lineCount": 42,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "AnnualPaced",
+        "ReservePaced",
+        "RepairPaced",
+        "SameTotalPaced"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/decisions.tsx",
+      "relativePath": "finance-pace-comic/decisions.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 30053,
+      "sha256": "08e86a3019daea93deaa782dd1719ea580553577f8a4c4c3f026f1be810b383c",
+      "lineCount": 103,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "Audit",
+        "Reimburse",
+        "Calendar",
+        "Recurring",
+        "Annual",
+        "Automate",
+        "Purchase",
+        "Review",
+        "EndPlan",
+        "Subscribe"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/final-states.tsx",
+      "relativePath": "finance-pace-comic/final-states.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 3583,
+      "sha256": "829bd920f3179e4a95b3cdd5d60f8a8a7d5746b1b8e39fac35ea8550f0aac16d",
+      "lineCount": 12,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "FinalState"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/index.tsx",
+      "relativePath": "finance-pace-comic/index.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 4213,
+      "sha256": "26ffedc40f84afe186a14455d51fc16de9ca910c24a75d5d471842ce279614ea",
+      "lineCount": 54,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./types",
+        "./art",
+        "./money-scenes",
+        "./decisions",
+        "./continuations",
+        "./timing-scenes",
+        "./remaining-scenes",
+        "./final-states",
+        "./types"
+      ],
+      "exportedNames": [
+        "ComicPacedFilm"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/money-scenes.tsx",
+      "relativePath": "finance-pace-comic/money-scenes.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 25080,
+      "sha256": "9b4dcfce5088707803a16d42b368e4f57291f0de0099236133891a6b7d7a5a29",
+      "lineCount": 87,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "Hook",
+        "Disclaimer",
+        "Budget",
+        "Daily",
+        "Dinner",
+        "Essentials",
+        "Buffer",
+        "Repair"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/remaining-scenes.tsx",
+      "relativePath": "finance-pace-comic/remaining-scenes.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 5264,
+      "sha256": "7d5d9cefbdd122e0cfb08081207618dd146f9786aefe8ac9ae8df32e6fd17a93",
+      "lineCount": 19,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "RemainingPaced"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/timing-scenes.tsx",
+      "relativePath": "finance-pace-comic/timing-scenes.tsx",
+      "group": "finance-pace-comic",
+      "bytes": 9100,
+      "sha256": "fb3abbe31ef96b37e637ac26fb408b8a573b26efa45ea650186006c9eb317ec3",
+      "lineCount": 41,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "TimingPaced"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-comic/types.ts",
+      "relativePath": "finance-pace-comic/types.ts",
+      "group": "finance-pace-comic",
+      "bytes": 622,
+      "sha256": "13759cb0294cc1c69979ed4fd390db054d54385f9a4f8b54d3f9bcceac3a25b9",
+      "lineCount": 4,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [],
+      "exportedNames": [
+        "Beat",
+        "Shot",
+        "PacedPlan",
+        "Ctx"
+      ],
+      "findingsRef": "finance-pace-comic",
+      "status": "superseded-by-photo-priority; keep-script-specific-simulation-helper"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-entry.tsx",
+      "relativePath": "finance-pace-entry.tsx",
+      "group": "(finance-entry)",
+      "bytes": 1803,
+      "sha256": "c3dff3a385039328b3e952eef57febb396c6865ce661d5dff49bd767e7ebc888",
+      "lineCount": 18,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./finance-pace-comic",
+        "./finance-pace-flow"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-entry",
+      "status": "historical-entry-preserve"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/art.tsx",
+      "relativePath": "finance-pace-flow/art.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 8385,
+      "sha256": "be0931f0cd7bccc4b4e9ac678ac9205f81d8ef73f30eba63d180ec6c52b9de0f",
+      "lineCount": 22,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "../finance-flow/Objects"
+      ],
+      "exportedNames": [
+        "T",
+        "Path",
+        "Camera",
+        "Tick",
+        "Cross",
+        "Arrow",
+        "Paper",
+        "Pen",
+        "Phone",
+        "Button",
+        "Jar",
+        "Cup",
+        "Package",
+        "House",
+        "Scooter",
+        "Calendar",
+        "Scissors",
+        "Bell",
+        "Pin"
+      ],
+      "findingsRef": "finance-pace-flow",
+      "status": "superseded-by-photo-priority; content-simulation-reference-only"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/index.tsx",
+      "relativePath": "finance-pace-flow/index.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 1804,
+      "sha256": "ce556dc05d85c001e8b69fff27c5b308f161fd72d85ef2c3ffcca3d90678ba54",
+      "lineCount": 27,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./types",
+        "./scenes",
+        "./art",
+        "./types"
+      ],
+      "exportedNames": [
+        "FlowPacedFilm"
+      ],
+      "findingsRef": "finance-pace-flow",
+      "status": "superseded-by-photo-priority; content-simulation-reference-only"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/progressions.tsx",
+      "relativePath": "finance-pace-flow/progressions.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 21691,
+      "sha256": "1e6fd7f5fe6a8376563215fb69cb83d804f423a6581c3e09e3018f9efce9be14",
+      "lineCount": 125,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art"
+      ],
+      "exportedNames": [
+        "Continuation",
+        "hasContinuation"
+      ],
+      "findingsRef": "finance-pace-flow",
+      "status": "superseded-by-photo-priority; content-simulation-reference-only"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/scenes.tsx",
+      "relativePath": "finance-pace-flow/scenes.tsx",
+      "group": "finance-pace-flow",
+      "bytes": 42710,
+      "sha256": "113c0cc9f201163e5e7999c7848dd6f14ef52617c89e879005b28481af3edb92",
+      "lineCount": 177,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types",
+        "./art",
+        "./progressions"
+      ],
+      "exportedNames": [
+        "Hook",
+        "Disclaimer",
+        "Budget",
+        "Daily",
+        "Dinner",
+        "Audit",
+        "Recurring",
+        "Annual",
+        "CashCalendar",
+        "Buffer",
+        "Essentials",
+        "Automate",
+        "Choice",
+        "Review",
+        "Action",
+        "Subscribe",
+        "Scene"
+      ],
+      "findingsRef": "finance-pace-flow",
+      "status": "superseded-by-photo-priority; content-simulation-reference-only"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-pace-flow/types.ts",
+      "relativePath": "finance-pace-flow/types.ts",
+      "group": "finance-pace-flow",
+      "bytes": 2122,
+      "sha256": "1904a64edd8e41c66b40f17715df8d1b94b9086774f6553f3a2686d2ef2e4376",
+      "lineCount": 19,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [],
+      "exportedNames": [
+        "PaceShot",
+        "PaceSegment",
+        "PacedPlan",
+        "Context",
+        "C",
+        "clamp",
+        "lerp",
+        "q",
+        "arc",
+        "num",
+        "action",
+        "money",
+        "million",
+        "phraseAt"
+      ],
+      "findingsRef": "finance-pace-flow",
+      "status": "superseded-by-photo-priority; content-simulation-reference-only"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/index.tsx",
+      "relativePath": "finance-photo/index.tsx",
+      "group": "finance-photo",
+      "bytes": 2620,
+      "sha256": "4958efdfb5c960dc324f171b350003ed94bfd86f027f4aa3172cd4ba0ffc35aa",
+      "lineCount": 35,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "../finance-pace-comic",
+        "../finance-pace-flow",
+        "./Overlays",
+        "./PhotoStage",
+        "./types",
+        "./types"
+      ],
+      "exportedNames": [
+        "FinancePhotoFilm",
+        "FinancePhotoComic",
+        "FinancePhotoClean"
+      ],
+      "findingsRef": "finance-photo",
+      "status": "reusable-photo-stage-reference; oldrunner-incomplete/currentstory-isolated"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/Overlays.tsx",
+      "relativePath": "finance-photo/Overlays.tsx",
+      "group": "finance-photo",
+      "bytes": 4471,
+      "sha256": "5b94b47ff57a3750506d7fecba04a080b90abad02ceb4c250ab1cbce8c828bb6",
+      "lineCount": 40,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "./types"
+      ],
+      "exportedNames": [
+        "CaptionTrack",
+        "ContextOverlay",
+        "SubscribeOverlay"
+      ],
+      "findingsRef": "finance-photo",
+      "status": "reusable-photo-stage-reference; oldrunner-incomplete/currentstory-isolated"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/PhotoStage.tsx",
+      "relativePath": "finance-photo/PhotoStage.tsx",
+      "group": "finance-photo",
+      "bytes": 3192,
+      "sha256": "87a2dbed4ea78f65e16d27828a84151058c1a52c5e6dc6cace8405ab81835f68",
+      "lineCount": 42,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./types"
+      ],
+      "exportedNames": [
+        "PhotoStage"
+      ],
+      "findingsRef": "finance-photo",
+      "status": "reusable-photo-stage-reference; oldrunner-incomplete/currentstory-isolated"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo/types.ts",
+      "relativePath": "finance-photo/types.ts",
+      "group": "finance-photo",
+      "bytes": 1661,
+      "sha256": "27d75d4284411786421002c40d7982f89fa2d302b4707eb814efcd01cf288afb",
+      "lineCount": 49,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "../finance-pace-flow"
+      ],
+      "exportedNames": [
+        "PhotoStyle",
+        "PhotoFocus",
+        "PhotoAsset",
+        "PhotoShot",
+        "FinancePhotoPlan",
+        "FinancePhotoProps",
+        "clamp",
+        "smooth",
+        "getAsset",
+        "getPosition"
+      ],
+      "findingsRef": "finance-photo",
+      "status": "reusable-photo-stage-reference; oldrunner-incomplete/currentstory-isolated"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-photo-entry.tsx",
+      "relativePath": "finance-photo-entry.tsx",
+      "group": "(finance-entry)",
+      "bytes": 924,
+      "sha256": "4cae261330a3360069cd2d6d7b7432e4120f91d1b1ef199ae9747f7f7df90c56",
+      "lineCount": 10,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./finance-photo"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-entry",
+      "status": "historical-entry-preserve"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-reset-entry.tsx",
+      "relativePath": "finance-reset-entry.tsx",
+      "group": "(finance-entry)",
+      "bytes": 1880,
+      "sha256": "8a88df42f66ff5c5218c7e3621a661f9a92d69003c3f88066f54de7a0ff9a320",
+      "lineCount": 20,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion",
+        "./finance-flow/FlowFilm",
+        "./finance-comic/ComicProof",
+        "./finance-cast-v2/CandidateSheet",
+        "./finance-demo/types"
+      ],
+      "exportedNames": [],
+      "findingsRef": "finance-entry",
+      "status": "historical-entry-preserve"
+    },
+    {
+      "path": "workflows/reference-video/cinematic/src/finance-simple/Minimal.tsx",
+      "relativePath": "finance-simple/Minimal.tsx",
+      "group": "finance-simple",
+      "bytes": 16382,
+      "sha256": "e589330f4af20e32565d5c11773bf7a7ddbf8056a2279146992def94709e5ece",
+      "lineCount": 210,
+      "readScope": "direct-complete-source-text-read",
+      "outputMethod": "Complete text displayed in bounded full-file or sequential non-overlapping line chunks; no output was used truncated. Prior targeted reads included here where complete.",
+      "importSpecifiers": [
+        "react",
+        "remotion"
+      ],
+      "exportedNames": [
+        "FinanceSegment",
+        "FinancePlan",
+        "Minimal"
+      ],
+      "findingsRef": "finance-simple",
+      "status": "rejected-slide-direction-preserve-only"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "method": "original-aspect plus proposed center 16:9 crop contact sheets",
+  "inspectionIsAutomatic": false,
+  "sheets": [
+    {
+      "file": "inspection/photos-01.jpg",
+      "sha256": "04270bfb4b2f62143b957dbe5265df1e9386a74d125befe947154f2aea8d33d1"
+    },
+    {
+      "file": "inspection/photos-02.jpg",
+      "sha256": "5564c32c641ac37984bdee84f8562a46e55cb162a48b2f49c4e10577eeda149b"
+    },
+    {
+      "file": "inspection/photos-03.jpg",
+      "sha256": "83769e0d3671e6a53dc760d60761cc264895ae0818f769879083817029d3cb02"
+    },
+    {
+      "file": "inspection/photos-04.jpg",
+      "sha256": "b262620fe0302abce289066bcc43c0b2acd44a32542688b5d6340c40c4925a58"
+    },
+    {
+      "file": "inspection/photos-05.jpg",
+      "sha256": "78f9a8f62e1a799c84c25304ff640960a581e2073a1c988c017e5805aaca0115"
+    }
+  ]
+}
