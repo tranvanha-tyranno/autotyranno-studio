@@ -17,6 +17,7 @@
 **/*.wav
 **/*.webm
 **/*.webp
+**/*.zip
 !/2026-10-27-cocobear-hands-fast/clip-01-hands-daylight-curiosity/contact-sheet.jpg
 !/2026-10-27-cocobear-hands-fast/clip-01-hands-daylight-curiosity/final.mp4
 !/2026-10-27-cocobear-hands-fast/clip-01-hands-daylight-curiosity/opening.png
@@ -1502,6 +1503,16 @@
 !/2026-11-15-banh-mi-mo-phong-openai/research/alignment-helper-check/audio/02-giam-cai-gi.mp3
 !/reference-helmet-sheet.jpg
 
-# Additional full-quality masters.
+# Additional full-quality masters and canonical final mixes.
 !/2026-11-12-ai-va-cong-viec-anh-that/final.mp4
 !/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4
+!/2026-11-12-ai-va-cong-viec-anh-that/audio/final-mix.wav
+!/2026-11-12-hai-huong/hidden/audio/final-mix.wav
+!/2026-11-12-hai-huong/long/audio/final-mix.wav
+!/2026-11-13-di-sieu-thi/r07/long/audio/final-mix.wav
+!/2026-11-13-hai-style-tiet-kiem-v2/audio/excerpt.wav
+!/2026-11-13-kinh-te-trung-quoc/r03/audio/final-mix.wav
+!/2026-11-13-quan-dong-khach-het-tien/audio/final-mix.wav
+!/2026-11-14-o-banh-mi-va-lam-phat/audio/final-mix.wav.zip
+!/2026-11-14-banh-mi-documentary/audio/final-mix.wav
+!/2026-11-15-banh-mi-mo-phong-openai/audio/final-mix.wav

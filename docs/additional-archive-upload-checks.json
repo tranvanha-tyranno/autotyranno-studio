@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-15",
+  "files": 12,
+  "bytes": 1137805254,
+  "local_sha256_matches_lfs_pointers": true,
+  "remote_download_available_for_all": true,
+  "lossless_zip_round_trip_verified": true,
+  "original_uncompressed_bytes": 1153419287,
+  "paths": [
+    "videos/2026-11-12-ai-va-cong-viec-anh-that/final.mp4",
+    "videos/2026-11-13-quan-dong-khach-het-tien/r02/final.mp4",
+    "videos/2026-11-12-ai-va-cong-viec-anh-that/audio/final-mix.wav",
+    "videos/2026-11-12-hai-huong/hidden/audio/final-mix.wav",
+    "videos/2026-11-12-hai-huong/long/audio/final-mix.wav",
+    "videos/2026-11-13-di-sieu-thi/r07/long/audio/final-mix.wav",
+    "videos/2026-11-13-hai-style-tiet-kiem-v2/audio/excerpt.wav",
+    "videos/2026-11-13-kinh-te-trung-quoc/r03/audio/final-mix.wav",
+    "videos/2026-11-13-quan-dong-khach-het-tien/audio/final-mix.wav",
+    "videos/2026-11-14-o-banh-mi-va-lam-phat/audio/final-mix.wav.zip",
+    "videos/2026-11-14-banh-mi-documentary/audio/final-mix.wav",
+    "videos/2026-11-15-banh-mi-mo-phong-openai/audio/final-mix.wav"
+  ],
+  "limits": "Metadata availability and hashes verify archival integrity, not user quality approval."
+}

@@ -2,7 +2,7 @@
 
 This directory contains reusable Python production, review, repair and research
 tools plus the Remotion source project in `cinematic/`. Selected latest exports,
-production assets and original compressed audio are archived with Git LFS alongside
+production assets, original compressed audio and selected exact final mixes are archived with Git LFS alongside
 batch records. Superseded renders, expanded intermediate WAVs, downloaded reference
 videos, credentials, browser sessions, the local learning ledger and duplicate
 renderer bundles stay local. See [repository storage](../../docs/repository-storage.md).

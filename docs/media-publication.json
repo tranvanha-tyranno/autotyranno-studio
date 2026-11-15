@@ -88,30 +88,32 @@
     }
   ],
   "retained_media": {
-    "files": 1523,
-    "bytes_before_lfs_dedup": 4138916885,
+    "files": 1533,
+    "bytes_before_lfs_dedup": 4741071312,
     "reasons": {
       "already_published": 702,
       "selected_latest_output": 14,
       "production_source_asset": 565,
       "original_compressed_audio": 239,
       "approved_baseline_audio": 1,
-      "full_quality_master": 2
+      "full_quality_master": 2,
+      "canonical_exact_audio": 10
     }
   },
   "local_only_media": {
-    "files": 8244,
-    "bytes": 12725508402,
+    "files": 8235,
+    "bytes": 12227234420,
     "reasons": {
       "downloaded_reference_media_or_sample": 816,
-      "superseded_or_generated_media": 7428
+      "superseded_or_generated_media": 7418,
+      "original_wav_archived_losslessly_as_zip": 1
     }
   },
   "rules": [
     "Preserve pre-existing published media without rewriting remote history.",
     "Keep latest useful outputs, approved baseline, production assets and original compressed audio.",
     "Keep source/text metadata even for old revisions.",
-    "Exclude superseded renders, silent picture passes, chunks, proofs, frame samples and expanded WAV stems.",
+    "Exclude superseded renders, silent picture passes, chunks, proofs, frame samples and expanded intermediate WAV stems; canonical final mixes are archived.",
     "Keep full downloaded reference videos and samples local; publish source URLs, transcripts and analyses."
   ],
   "additional_archives": [
@@ -126,6 +128,134 @@
       "role": "full_quality_master",
       "bytes": 268014380,
       "sha256": "7e980f8be5758d0dff49ee28a477643fb48c62d8612317c7674285dbf68b8b1e"
+    },
+    {
+      "path": "videos/2026-11-12-ai-va-cong-viec-anh-that/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 57600078,
+      "sha256": "83f79862fdf5913191dff695d08e6fc33bca464b744b940f48a22c0cb5925545",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 14400000,
+        "seconds": 300.0
+      }
+    },
+    {
+      "path": "videos/2026-11-12-hai-huong/hidden/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 15924558,
+      "sha256": "1c9591861500b2511c864695b934af352c5f374fc795dec8b939bdabd79a60f9",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 3981120,
+        "seconds": 82.94
+      }
+    },
+    {
+      "path": "videos/2026-11-12-hai-huong/long/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 15740238,
+      "sha256": "5b5b1385a4a96d4225869a71c98e83829dc5b850d2658696c43b4c7c4a352320",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 3935040,
+        "seconds": 81.98
+      }
+    },
+    {
+      "path": "videos/2026-11-13-di-sieu-thi/r07/long/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 39344718,
+      "sha256": "535115a6a2adc17b56a0eccb68af43af9f775cac98e10b0979e649ac6e2d2bb6",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 9836160,
+        "seconds": 204.92
+      }
+    },
+    {
+      "path": "videos/2026-11-13-hai-style-tiet-kiem-v2/audio/excerpt.wav",
+      "role": "exact_comparison_excerpt",
+      "bytes": 3424078,
+      "sha256": "86398375492391a58406cdca22d8f7eca2f756d9ffb93ff384c792734d1bab28",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 856000,
+        "seconds": 17.833333
+      }
+    },
+    {
+      "path": "videos/2026-11-13-kinh-te-trung-quoc/r03/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 114643278,
+      "sha256": "875fd78990681ef51d1e5a3a90436b0e9950e0dc45fdbc1eb99a36effe2ed254",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 28660800,
+        "seconds": 597.1
+      }
+    },
+    {
+      "path": "videos/2026-11-13-quan-dong-khach-het-tien/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 114227278,
+      "sha256": "13630b9b84693c3f648f354535355e3bf149c569e258084aa89a4091675fb411",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 28556800,
+        "seconds": 594.933333
+      }
+    },
+    {
+      "path": "videos/2026-11-14-o-banh-mi-va-lam-phat/audio/final-mix.wav.zip",
+      "role": "exact_final_mix_lossless_archive",
+      "bytes": 103880445,
+      "sha256": "43d56d602d90ca44040b3c35263ccff832a0c4deca9fa17174f9d8aa588b59d9",
+      "contained_audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 29873600,
+        "seconds": 622.366667
+      },
+      "archive": {
+        "format": "ZIP_DEFLATED",
+        "member": "final-mix.wav",
+        "original_path": "videos/2026-11-14-o-banh-mi-va-lam-phat/audio/final-mix.wav",
+        "original_bytes": 119494478,
+        "original_sha256": "7c25939166a05f1a7bee0302adadb948910272a70739f885483ea2fad6fa48f2",
+        "byte_exact_round_trip_verified": true
+      }
+    },
+    {
+      "path": "videos/2026-11-14-banh-mi-documentary/audio/final-mix.wav",
+      "role": "exact_final_mix",
+      "bytes": 68684878,
+      "sha256": "8875d04e0d8f4fd80113a97f3693c2b8a0d1628c7df62f67b7fa32309a9d0276",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 17171200,
+        "seconds": 357.733333
+      }
+    },
+    {
+      "path": "videos/2026-11-15-banh-mi-mo-phong-openai/audio/final-mix.wav",
+      "role": "provisional_final_mix_openai_voice_blocked",
+      "bytes": 68684878,
+      "sha256": "9b406467897032f2b10eaca830fa65316c42949cf1fbaf0e33afb450f668c116",
+      "audio": {
+        "channels": 2,
+        "sample_rate": 48000,
+        "frames": 17171200,
+        "seconds": 357.733333
+      }
     }
   ]
 }
